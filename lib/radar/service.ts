@@ -1,3 +1,6 @@
+import {atomicIngest} from './atomic-ingest';
+import {eventKey} from './market-events';
+import {matchDecision,shadowDecision,decisionHash,identityInput} from './match-decision';
 import {editorialProgress} from './editorial-state';
 import {editorialIndex} from './editorial-index';
 import {currentEditorial} from './editorial';
@@ -44,8 +47,9 @@ const patchSchema=z.object({summary:z.string().max(500).optional(),productType:s
 const prefsSchema=z.object({catalogueRepair:z.object({version:z.number().int(),after:z.string().max(300)}).optional(),enabledModules:z.array(z.enum(['review','preferences','alerts','accounts','assistant'])).max(5).optional(),catalogueNodes:z.array(catalogueNodeSchema).max(MAX_CATALOGUE_NODES).optional(),junkThreshold:z.number().int().min(0).max(1000000),alertThreshold:z.number().int().min(0).max(100),tagWeights:z.record(z.string().min(1).max(60),z.number().min(-50).max(50)),rules:z.array(z.object({id,type:z.enum(['allow','block']),keyword:z.string().trim().min(1).max(80),priority:z.number().int().min(0).max(100)})).max(100),glossary:z.record(z.string().min(1).max(80),z.string().max(100)),language:z.enum(['ja','zh']),searchUrl:z.string().max(2000),autoLink:z.boolean().default(true),autoEnrich:z.boolean().default(true),identityMigrated:z.number().int().optional(),fateSnapshot:z.object({id:z.string().max(100),nextBatch:z.number().int().min(0).max(10000)}).optional(),schemaVersion:z.number().int().optional(),sourcePauses:z.record(z.string().max(200),z.object({reason:long,at:z.string().datetime(),scope:z.enum(['details','all']).optional()})).optional(),dismissedRelations:z.array(z.string().max(300)).max(5000).default([]),monitor:z.object({enabled:z.boolean(),intervalMinutes:z.number().int().min(15).max(1440),urls:z.array(z.string().max(2000)).max(20)}).default({enabled:false,intervalMinutes:60,urls:[]})});
   const urlSchema=z.string().max(2000).refine(v=>!v||/^https:\/\//.test(v),'仅支持 HTTPS 来源链接');
   const price=z.number().int().min(0).max(100000000).nullable(),basis=z.enum(['tax_included','unspecified']).optional(),when=z.string().datetime();
-  const offerSchema=z.object({variant:short.optional(),jan:short.optional(),isbn:short.optional(),releaseDate:short.optional(),listingTitle:short.optional(),stockEpoch:z.number().int().min(0).optional(),extras:z.array(z.object({name:short,status:z.enum(['included','absent','only'])})).max(30).optional(),id:z.string().min(1).max(2000),source:short,url:urlSchema,price,priceBasis:basis,currency:z.literal('JPY'),condition:short,availability:z.enum(['available','sold','unknown']),bonus:z.enum(['included','absent','only','unknown']),shop:short.optional(),productKey:short.optional(),observation:z.enum(['list','detail']).optional(),verifiedAt:when.optional(),stockNote:short.optional(),priceKind:z.enum(['ask','bid','closed']).optional(),buyout:price.optional(),detailError:long.optional(),lastAttempt:when.optional(),observedAt:when,history:z.array(z.object({price,at:when,priceBasis:basis})).max(100)});
-  const fullItem=patchSchema.extend({editorial:z.object({campaign:short,status:z.enum(['verified','partial','blocked']),at:when,sources:z.array(z.string().url().startsWith('https://').max(2000)).max(10),unresolved:z.array(short).max(10),checks:z.object({classification:z.boolean(),context:z.boolean(),image:z.boolean(),tags:z.boolean(),summary:z.boolean()}),basis:z.string().max(16000),imageUrl:z.string().max(2000)}).optional(),catalogueGroup:z.boolean().optional(),imageRole:z.enum(['product','award_reference','catalogue_reference','lot_photo']).optional(),kuji:kujiSchema.optional(),images:z.array(urlSchema).max(12).optional(),inferredMember:z.boolean().optional(),provisional:z.boolean().optional(),id,title:short.min(1),image:urlSchema,createdAt:when,evidence:z.array(z.object({field:short,value:z.string().max(16000),url:urlSchema,at:when,method:short})).max(150),offers:z.array(offerSchema).max(100),demo:z.boolean().optional(),locked:z.boolean().optional(),aliases:z.array(short).max(100).optional(),watchlisted:z.boolean().optional(),schemaVersion:z.number().int().optional(),archivedInto:id.optional(),mergeSnapshot:z.string().max(1000000).optional(),detailCheckedAt:when.optional(),detailStatus:long.optional()});
+  const offerSchema=z.object({eventSequence:z.number().int().min(0).optional(),lastEvent:z.object({kind:z.enum(['new_listing','restock','price_drop']),at:when,sequence:z.number().int().min(1)}).optional(),variant:short.optional(),jan:short.optional(),isbn:short.optional(),releaseDate:short.optional(),listingTitle:short.optional(),stockEpoch:z.number().int().min(0).optional(),extras:z.array(z.object({name:short,status:z.enum(['included','absent','only'])})).max(30).optional(),id:z.string().min(1).max(2000),source:short,url:urlSchema,price,priceBasis:basis,currency:z.literal('JPY'),condition:short,availability:z.enum(['available','sold','unknown']),bonus:z.enum(['included','absent','only','unknown']),shop:short.optional(),productKey:short.optional(),observation:z.enum(['list','detail']).optional(),verifiedAt:when.optional(),stockNote:short.optional(),priceKind:z.enum(['ask','bid','closed']).optional(),buyout:price.optional(),detailError:long.optional(),lastAttempt:when.optional(),observedAt:when,history:z.array(z.object({price,at:when,priceBasis:basis})).max(100)});
+  const matchDecisionSchema=z.object({decisionId:z.string().length(64),inputFingerprint:z.string().length(64),rulesVersion:z.number().int(),sourceKey:z.string().max(2400).nullable(),sourceKeys:z.array(z.string().max(2400)).max(100),candidateIds:z.array(id).max(MAX_BACKUP_ITEMS),status:z.enum(['matched','ambiguous','unmatched','conflict']),targetItemId:id.optional(),evidence:z.array(z.object({kind:short,raw:z.string().max(2400),value:z.string().max(2400),source:short,url:urlSchema,scope:short,valid:z.boolean()})).max(104),conflicts:z.array(z.object({itemId:id,field:short})).max(MAX_BACKUP_ITEMS),reasonCodes:z.array(short).max(50),confidenceTier:z.enum(['listing','identifier','composite','insufficient']),observedAt:when});
+  const fullItem=patchSchema.extend({matchDecision:matchDecisionSchema.optional(),editorial:z.object({campaign:short,status:z.enum(['verified','partial','blocked']),at:when,sources:z.array(z.string().url().startsWith('https://').max(2000)).max(10),unresolved:z.array(short).max(10),checks:z.object({classification:z.boolean(),context:z.boolean(),image:z.boolean(),tags:z.boolean(),summary:z.boolean()}),basis:z.string().max(16000),imageUrl:z.string().max(2000)}).optional(),catalogueGroup:z.boolean().optional(),imageRole:z.enum(['product','award_reference','catalogue_reference','lot_photo']).optional(),kuji:kujiSchema.optional(),images:z.array(urlSchema).max(12).optional(),inferredMember:z.boolean().optional(),provisional:z.boolean().optional(),id,title:short.min(1),image:urlSchema,createdAt:when,evidence:z.array(z.object({field:short,value:z.string().max(16000),url:urlSchema,at:when,method:short})).max(150),offers:z.array(offerSchema).max(100),demo:z.boolean().optional(),locked:z.boolean().optional(),aliases:z.array(short).max(100).optional(),watchlisted:z.boolean().optional(),schemaVersion:z.number().int().optional(),archivedInto:id.optional(),mergeSnapshot:z.string().max(1000000).optional(),detailCheckedAt:when.optional(),detailStatus:long.optional()});
 function parseProducts(input:unknown){
   const factsSchema=patchSchema.pick({catalogueKey:true,cardNumber:true,event:true,saleForm:true,audience:true,ageRating:true,brand:true,publisher:true,manufacturer:true,characters:true,circle:true,artists:true,releaseDate:true,jan:true,origin:true,series:true,year:true,isbn:true,msrp:true,category:true,productLine:true,wave:true,member:true}).extend({kuji:kujiSchema.optional()});
   return z.array(z.object({provisional:z.boolean().optional(),title:short.min(1),description:long,image:urlSchema,images:z.array(urlSchema).max(12).optional(),categoryLabel:short.optional(),offer:offerSchema,extraOffers:z.array(offerSchema).max(100).optional(),facts:factsSchema.optional(),tags:z.array(z.string().max(60)).max(50).optional()})).min(1).max(500).parse(input);
@@ -74,68 +78,81 @@ async function autoLink(user:string,state:State,includeKuji=false){
  const links=[...kuji.relations,...inferred.relations,...lotImageRelations(state),...automaticRelations(state)];if(!links.length)return 0;
  await db().batch(jsonChunks(links).map(chunk=>db().prepare("INSERT OR IGNORE INTO relations(user_id,id,from_id,to_id,kind,quantity) SELECT ?,json_extract(value,'$.id'),json_extract(value,'$.fromId'),json_extract(value,'$.toId'),json_extract(value,'$.kind'),json_extract(value,'$.quantity') FROM json_each(?)").bind(user,chunk)));state.relations.push(...links);return links.length;
 }
-async function setAlerts(user:string,state:State,changed:Item[]){
+async function setAlerts(user:string,state:State,changed:Item[],events:Set<string>){
  const learned=learnWeights(state.items),notices=[];
  for(const set of changed.filter(i=>i.kind==='set'))for(const member of setMembers(set,state)){
   if(member.item.ownership==='owned'&&member.item.quantity>=member.quantity)continue;
-  const score=scoreItem(member.item,state,learned);if(member.item.provisional||score.blocked||score.score<state.prefs.alertThreshold)continue;
-  for(const o of availableOffers(set)){const nid='lot:'+member.item.id+':'+o.id+':'+o.price+':'+(o.stockEpoch||0);if(state.notices.some(n=>n.id===nid))continue;
+  const score=scoreItem(member.item,state,learned);if(set.provisional||set.catalogueGroup||member.item.ownership==='unknown'||member.item.provisional||score.blocked||score.score<state.prefs.alertThreshold)continue;
+  for(const o of availableOffers(set)){const event=eventKey(set.id,o);if(!event||!events.has(event))continue;const nid='lot:'+member.item.id+':'+event;if(state.notices.some(n=>n.id===nid))continue;
    const notice={id:nid,itemId:member.item.id,title:member.item.title,score:score.score,reason:`需要的商品出现在套装：${set.title} · ${o.source} ¥${o.price} · 已拥有 ${ownershipSummary(set,state).owned} 件；整套价格，非单件价`,at:o.observedAt,read:false};notices.push(notice);state.notices.push(notice);
   }
  }
  if(notices.length)await db().batch(jsonChunks(notices).map(chunk=>db().prepare("INSERT OR IGNORE INTO notices(user_id,id,data) SELECT ?,json_extract(value,'$.id'),value FROM json_each(?)").bind(user,chunk)));
 }
 async function syncNamedExtras(user:string,state:State){const changed:Item[]=[];const links:Relation[]=[];
- for(const parent of [...state.items].filter(i=>i.kind==='base'))for(const name of new Set(parent.offers.flatMap(o=>(o.extras||[]).map(e=>e.name)).filter(n=>/エア[・\s]?カリバーン/.test(n)))){
+ for(const parent of [...state.items].filter(i=>i.kind==='base'&&!i.provisional))for(const name of new Set(parent.offers.flatMap(o=>(o.extras||[]).map(e=>e.name)).filter(n=>/エア[・\s]?カリバーン/.test(n)))){
   const componentId='extra-'+parent.id+'-aircaliburn',expected=createItem((parent.productLine||parent.title)+' 付録 '+name+'（特典単品）','',undefined,state.prefs);let bonus=state.items.find(i=>i.id===componentId)||findProduct(state.items.filter(i=>i.kind==='bonus'),expected)?.item;if(!bonus){bonus={...createItem((parent.productLine||parent.title)+' 付録 '+name+'（特典単品）','',undefined,state.prefs),id:componentId,kind:'bonus',bucket:'normal',brand:parent.brand,publisher:parent.publisher,series:parent.series,productLine:parent.productLine,wave:parent.wave,member:name,review:true,evidence:[{field:'附属组件',value:name,url:parent.offers[0]?.url||'',at:new Date().toISOString(),method:'挂牌标题明确列出附件；拥有状态独立，默认未标记'}]};state.items.push(bonus);changed.push(bonus);}
   const link={id:'extra-link-'+parent.id,fromId:parent.id,toId:bonus.id,kind:'bonus' as const,quantity:1};if(!state.relations.some(r=>r.fromId===link.fromId&&r.toId===link.toId)&&!state.prefs.dismissedRelations.includes(relationKey(link))){state.relations.push(link);links.push(link);}
  }
  await saveItems(user,changed);if(links.length)await db().batch(links.map(r=>db().prepare('INSERT OR IGNORE INTO relations(user_id,id,from_id,to_id,kind,quantity) VALUES(?,?,?,?,?,?)').bind(user,r.id,r.fromId,r.toId,r.kind,r.quantity)));return changed.length;
 }
-async function prepareProduct(p:Parsed,state:State){
-  let candidate=createItem(p.title,p.description,p.offer,state.prefs,p.image);candidate.schemaVersion=9;candidate.id='source-'+createHash('sha256').update(offerKey(p.offer)).digest('hex').slice(0,32);candidate.images=p.images?.slice(0,10);
+async function prepareProduct(p:Parsed,state:State,offline=false){
+  let candidate=createItem(p.title,p.description,p.offer,state.prefs,p.image);candidate.schemaVersion=9;candidate.id='source-'+createHash('sha256').update(offerKey(p.offer)||JSON.stringify([p.title,p.facts,p.offer.source,p.offer.id,p.offer.url])).digest('hex').slice(0,32);candidate.images=p.images?.slice(0,10);
   const categoryEvidence=p.categoryLabel?{field:'来源分类',value:p.categoryLabel,url:p.offer.url,at:p.offer.observedAt,method:'商品页局部分类标签；优先于标题关键词和旧推断'}:null;if(categoryEvidence)candidate.evidence=[...candidate.evidence,categoryEvidence];
   candidate.offers=[p.offer,...(p.extraOffers||[])].map(o=>({...o,listingTitle:o.listingTitle||p.title,variant:o.variant||editionVariant(o.listingTitle||p.title),jan:o.jan||p.facts?.jan,isbn:o.isbn||p.facts?.isbn,releaseDate:o.releaseDate||p.facts?.releaseDate}));if(p.facts)candidate=applyMetadata(candidate,p.facts,p.offer.url);
   if(candidate.category==='書籍'&&candidate.kind==='unknown')candidate.kind='base';
   if(candidate.category==='書籍')candidate.bucket='normal';if(state.prefs.autoEnrich!==false)candidate=verifiedFacts(candidate,state);candidate.tags=[...new Set([...candidate.tags,...(p.tags||[])])].filter(t=>t.length<=60).slice(0,50);candidate=repairClassification(candidate);
-  const photo=await recognizeLotPhoto(p);if(photo)candidate=recognizedLot(candidate,photo);
+  const photo=offline?null:await recognizeLotPhoto(p);if(photo)candidate=recognizedLot(candidate,photo);
   return {candidate,categoryEvidence,photo};
 }
 export async function ingest(user:string,state:State,products:Parsed[],generateAlerts=true,scoped=false,prepared?:Awaited<ReturnType<typeof prepareProduct>>[]){
+ return atomicIngest(user,state,draft=>ingestDraft(user,draft,products,generateAlerts,scoped,prepared));
+}
+async function ingestDraft(user:string,state:State,products:Parsed[],generateAlerts=true,scoped=false,prepared?:Awaited<ReturnType<typeof prepareProduct>>[]){
+ const priorEvents=new Set(state.items.flatMap(i=>i.offers.map(o=>eventKey(i.id,o))).filter(Boolean)),events=new Set<string>();
  const changed=new Map<string,Item>();const learned=learnWeights(state.items);let added=0,matched=0;const index=productIndex(state.items);
  for(const [position,p] of products.slice(0,500).entries()){
   const {candidate,categoryEvidence,photo}=prepared?.[position]||await prepareProduct(p,state);
-  const match=findProduct(state.items,candidate,index);let item:Item;
+  const decision=matchDecision(state.items,candidate,index),match=decision.targetItemId?{item:state.items.find(i=>i.id===decision.targetItemId)!}:null;let item:Item;
+  // Equal/older observations must not change metadata, evidence, read state or relations.
+  if(match&&candidate.offers.every(o=>{const old=match.item.offers.find(p=>!!offerKey(o)&&offerKey(p)===offerKey(o));return old&&Date.parse(o.observedAt)<=Date.parse(old.observedAt);}))continue;
+  if(!match&&(decision.status!=='unmatched'||!decision.sourceKey)){
+   candidate.id='review-'+decisionHash(identityInput(candidate)).slice(0,32);
+   const previous=state.items.find(i=>i.id===candidate.id);
+   if(previous){const offers=[...previous.offers];for(const incoming of candidate.offers){const n=offers.findIndex(o=>offerKey(incoming)?offerKey(o)===offerKey(incoming):o.id===incoming.id&&o.source===incoming.source&&o.url===incoming.url);if(n<0)offers.push(incoming);else offers[n]=updateOffer(offers[n],incoming);}item={...previous,offers,matchDecision:decision,provisional:true,review:true};state.items[state.items.indexOf(previous)]=item;index.add(item);changed.set(item.id,item);continue;}
+  }
   if(match){matched++;const placeholder=/\/(?:blank\.(?:gif|png)|noimage|items\/temple?tes\/)/i.test(match.item.image),scopedImage=!!p.image&&(/\/skus\//.test(p.image)||!!p.categoryLabel&&!!p.images?.length);item={...match.item,image:(!manualField(match.item,'image')&&(placeholder||scopedImage)?candidate.image:match.item.image)||candidate.image,images:!manualField(match.item,'image')&&p.images?.length?p.images.slice(0,10):match.item.images,offers:[...match.item.offers],aliases:[...new Set([...(match.item.aliases||[]),p.title])].filter(t=>t!==match.item.title).slice(0,100)};
    if(categoryEvidence&&!item.evidence.some(e=>e.field===categoryEvidence.field&&e.value===categoryEvidence.value&&e.url===categoryEvidence.url))item.evidence=[...item.evidence,categoryEvidence].slice(-150);
    if(item.inferredMember){item.inferredMember=false;item.image=item.image||candidate.image;if(!manualField(item,'title'))item.title=candidate.title;if(!manualField(item,'description'))item.description=candidate.description;}
-   for(const incoming of candidate.offers){const n=item.offers.findIndex(o=>offerKey(o)===offerKey(incoming));if(n<0)item.offers.push(incoming);else item.offers[n]=updateOffer(item.offers[n],incoming);}
+   for(const incoming of candidate.offers){const n=item.offers.findIndex(o=>!!offerKey(incoming)&&offerKey(o)===offerKey(incoming));if(n<0)item.offers.push(updateOffer(undefined,incoming));else item.offers[n]=updateOffer(item.offers[n],incoming);}
    if(p.facts&&state.prefs.autoEnrich!==false)item=applyMetadata(item,p.facts,p.offer.url);
    if(photo&&!currentEditorial(item)&&!manualField(item,'kind'))item=recognizedLot(item,photo);
    if(state.prefs.autoEnrich!==false&&!currentEditorial(item))item=repairClassification({...item,tags:[...new Set([...item.tags,...candidate.tags])].slice(0,50)});
    state.items[state.items.findIndex(i=>i.id===item.id)]=item;
-  }else {item={...candidate,provisional:p.provisional??(['Mercari','Yahoo 拍卖','Yahoo 购物'].includes(p.offer.source)&&candidate.bucket!=='junk')};added++;state.items.push(item);}
+  }else {item={...candidate,offers:candidate.offers.map(o=>updateOffer(undefined,o)),provisional:decision.status!=='unmatched'||!decision.sourceKey||decision.reasonCodes.includes('INSUFFICIENT_EVIDENCE')||(p.provisional??(['Mercari','Yahoo 拍卖','Yahoo 购物'].includes(p.offer.source)&&candidate.bucket!=='junk'))};added++;state.items.push(item);}
+  item.matchDecision=decision;
   if(p.tags?.length&&!item.evidence.some(e=>e.field==='来源关键词'&&e.url===p.offer.url&&e.value===p.tags!.join('、')))item.evidence=[...item.evidence,{field:'来源关键词',value:p.tags.join('、'),url:p.offer.url,at:p.offer.observedAt,method:'商品结构化数据或商品区域；不采纳整站导航词'}].slice(-100);
   index.add(item);changed.set(item.id,item);const score=scoreItem(item,state,learned);
-  for(const o of item.offers.filter(o=>candidate.offers.some(c=>offerKey(c)===offerKey(o)))){
+  for(const o of item.offers.filter(o=>candidate.offers.some(c=>!!offerKey(c)&&offerKey(c)===offerKey(o)))){
+   const event=eventKey(item.id,o);if(event&&!priorEvents.has(event)&&o.lastEvent?.at===o.observedAt)events.add(event);
    if(generateAlerts&&!item.provisional&&!score.blocked&&score.score>=state.prefs.alertThreshold&&availableOffers(item).includes(o)){
-    const baseId=`${item.id}:${o.id}:${o.price}:${o.availability}`,nid=baseId+':'+(o.stockEpoch||0);
-    if(!state.notices.some(n=>n.id===nid||!(o.stockEpoch||0)&&n.id===baseId)){const notice={id:nid,itemId:item.id,title:item.title,score:score.score,reason:[...score.reasons,`${o.source} ${o.shop||''} ¥${o.price}${o.priceKind==='bid'?'（当前出价，非一口价）':''}`,o.stockNote||''].filter(Boolean).join(' · '),at:o.observedAt,read:false};await saveNotice(user,notice);state.notices.push(notice);}
+    const baseId=`${item.id}:${o.id}:${o.price}:${o.availability}`,nid=eventKey(item.id,o);if(!nid||!events.has(nid))continue;
+    if(!state.notices.some(n=>n.id===nid||!(o.stockEpoch||0)&&n.id===baseId)){const notice={id:nid,itemId:item.id,title:item.title,score:score.score,reason:[...score.reasons,`${o.source} ${o.shop||''} ¥${o.price}${o.priceKind==='bid'?'（当前出价，非一口价）':''}`,o.stockNote||''].filter(Boolean).join(' · '),at:o.observedAt,read:false};await db().prepare('INSERT OR IGNORE INTO notices(user_id,id,data) VALUES(?,?,?)').bind(user,notice.id,JSON.stringify(notice)).run();state.notices.push(notice);}
    }
   }
  }
  await saveItems(user,[...changed.values()]);
  const parentIds=[...new Set([...changed.values()].map(i=>catalogueFamily(i)).filter((s):s is NonNullable<typeof s>=>!!s).map(s=>familyId(s.key)))].filter(id=>!state.items.some(i=>i.id===id));
  if(parentIds.length){const parents=await selectedState(user,parentIds);state.items.push(...parents.items);}
- const grouped=familyPlan(state.items,state.relations,state.prefs,new Set(changed.keys()));if(grouped.parents.length){await saveItems(user,grouped.parents);state.items.push(...grouped.parents);}if(grouped.relations.length){await db().batch(relationStatements(user,grouped.relations));state.relations.push(...grouped.relations);}
- state.prefs.identityMigrated=0;delete state.prefs.catalogueRepair;await savePrefs(user,state.prefs);if(!scoped)await syncNamedExtras(user,state);const linked=grouped.relations.length+(scoped?0:await autoLink(user,state));if(generateAlerts)await setAlerts(user,state,[...changed.values()]);return{added,matched,linked};
+ const grouped=familyPlan(state.items,state.relations,state.prefs,new Set([...changed.values()].filter(i=>!i.provisional).map(i=>i.id)));if(grouped.parents.length){await saveItems(user,grouped.parents);state.items.push(...grouped.parents);}if(grouped.relations.length){await db().batch(relationStatements(user,grouped.relations));state.relations.push(...grouped.relations);}
+ state.prefs.identityMigrated=0;delete state.prefs.catalogueRepair;await savePrefs(user,state.prefs);if(!scoped)await syncNamedExtras(user,state);const linked=grouped.relations.length+(scoped?0:await autoLink(user,state));if(generateAlerts)await setAlerts(user,state,[...changed.values()],events);return{added,matched,linked};
 }
 
 // Only keep records whose identity keys intersect this batch. Full records are read in bounded pages.
 // Catalogue-wide set inference is separate: partial context must never fabricate duplicate members.
-async function prepareScopedImport(user:string,products:Parsed[]){
+async function prepareScopedImport(user:string,products:Parsed[],offline=false){
  const state=await selectedState(user,[]),prepared=[] as Awaited<ReturnType<typeof prepareProduct>>[];
- for(const p of products)prepared.push(await prepareProduct(p,state));
+ for(const p of products)prepared.push(await prepareProduct(p,state,offline));
  const incoming=productIndex(prepared.map(p=>p.candidate));let after='',retainedBytes=0;
  for(;;){
   const page=await db().prepare("WITH candidates AS (SELECT id,data FROM items WHERE user_id=? AND id>? AND json_extract(data,'$.archivedInto') IS NULL ORDER BY id LIMIT 400), bounded AS (SELECT id,data,SUM(length(CAST(data AS BLOB))) OVER (ORDER BY id) AS bytes,ROW_NUMBER() OVER (ORDER BY id) AS position FROM candidates) SELECT id,data FROM bounded WHERE bytes<=1000000 OR position=1 ORDER BY id").bind(user,after).all();
@@ -245,7 +262,8 @@ export async function postAction(request:Request,user:string,mode:'sites'|'stand
   const next:Item={...item,...patch,tags,locked:item.locked||Object.keys(patch).some(k=>!['ownership','quantity','priority','rating','watchlisted','manualOrder'].includes(k)),evidence:[...item.evidence,{field:'人工整理',value:Object.keys(patch).join('、'),url:'',at:new Date().toISOString(),method:'用户修改'}].slice(-50)};if(patch.image!==undefined||patch.images!==undefined){next.images=[...new Set([next.image,...(next.images||[])])].filter(Boolean).slice(0,10);next.image=next.images[0]||'';}await saveItems(user,[next]);return response({ok:true,item:next,version:recordVersion(next),message:'资料已保存'});
 
  }if(body.action==='relation'||body.action==='unlink'){if(body.action==='relation')body.relation=z.object({fromId:id,toId:id,kind:z.enum(['bonus','contains','related']),quantity:z.number().int().min(1).max(999)}).parse(body.relation);else id.parse(body.id);return response(await changeRelation(user,body));}
- if(body.action==='parsed-source-import'&&body.compact===true&&mode==='sites')return await importScoped(user,body,mode);
+ if(body.action==='identity-shadow'){const products=parseProducts(body.products),{state,prepared}=await prepareScopedImport(user,products,true),index=productIndex(state.items);return response({ok:true,mode:'shadow',results:prepared.map(p=>shadowDecision(state.items,p.candidate,index))});}
+ if(body.action==='parsed-source-import'&&body.compact===true)return await importScoped(user,body,mode);
  const state=await stateFor(user,{archiveSummary:true});let result:Record<string,unknown>={};
  if(['backup-start','backup-chunk','backup-finish','backup-cancel'].includes(body.action))return response({...await backupTransferAction(body,user,state,raw.bytes),runtime:runtime(mode)});
  if(body.action==='catalogue-node'){
@@ -400,7 +418,7 @@ export async function postAction(request:Request,user:string,mode:'sites'|'stand
  }else if(body.action==='json-import'){
   const rows=z.array(z.object({title:short.min(1),description:long.optional(),url:z.string().max(2000).optional(),price:z.number().int().min(0).max(100000000).nullable().optional(),tags:z.array(short).max(50).optional()})).max(500).parse(body.rows);const manual=new Map<string,Item>();let added=0,matched=0;
   for(const row of rows){const u=row.url?safeUrl(row.url).href:undefined;const offer=u?{id:u,source:new URL(u).hostname,url:u,price:row.price??null,currency:'JPY' as const,condition:'导入，未核对',availability:'unknown' as const,bonus:'unknown' as const,observation:'list' as const,observedAt:new Date().toISOString(),history:[]}:undefined;const candidate=createItem(row.title,row.description||'',offer,state.prefs);const found=findProduct(state.items,candidate);let item:Item;
-   if(found){matched++;item={...found.item,offers:[...found.item.offers],aliases:[...new Set([...(found.item.aliases||[]),row.title])].filter(t=>t!==found.item.title).slice(0,100)};if(offer){const n=item.offers.findIndex(o=>offerKey(o)===offerKey(offer));if(n<0)item.offers.push(offer);else item.offers[n]=updateOffer(item.offers[n],offer);}state.items[state.items.findIndex(i=>i.id===item.id)]=item;}
+   if(found){matched++;item={...found.item,offers:[...found.item.offers],aliases:[...new Set([...(found.item.aliases||[]),row.title])].filter(t=>t!==found.item.title).slice(0,100)};if(offer){const n=item.offers.findIndex(o=>!!offerKey(offer)&&offerKey(o)===offerKey(offer));if(n<0)item.offers.push(offer);else item.offers[n]=updateOffer(item.offers[n],offer);}state.items[state.items.findIndex(i=>i.id===item.id)]=item;}
    else{added++;item=candidate;state.items.push(item);}item.tags=[...new Set([...item.tags,...(row.tags||[])])].filter(t=>t.length<=60).slice(0,50);manual.set(item.id,item);
   }await saveItems(user,[...manual.values()]);result={count:rows.length,added,matched};
  }else throw new Error('不支持的操作');

@@ -1,3 +1,4 @@
+import {relationGuard} from './relation-guard';
 import {db} from './store';
 import {mergeProducts} from './maintenance';
 import {jsonChunks} from './import-limits';
@@ -9,6 +10,7 @@ export async function applyMergePlan(user:string,pairs:{fromId:string;toId:strin
   db().prepare('SELECT id,data FROM items WHERE user_id=? AND id IN (SELECT value FROM json_each(?))').bind(user,JSON.stringify(ids)),
   db().prepare('SELECT id,from_id AS fromId,to_id AS toId,kind,quantity FROM relations WHERE user_id=? ORDER BY id').bind(user)
  ]);
+ const originalRelations=result[1].results as Relation[];
  const rows=result[0].results,byId=new Map<string,Item>(rows.map(r=>[r.id,{...EMPTY_FACTS,...JSON.parse(r.data)}]));
  const state:State={items:[...byId.values()].filter(i=>!i.archivedInto),relations:result[1].results as Relation[],prefs:DEFAULT_PREFS,notices:[],scans:[]},changed=new Map<string,Item>();let merged=0,already=0;
  for(const pair of pairs){
@@ -22,11 +24,12 @@ export async function applyMergePlan(user:string,pairs:{fromId:string;toId:strin
  if(!merged)return {merged,already};
  const guard='operation:merge:'+crypto.randomUUID(),at=new Date().toISOString();
  await db().batch([
+ relationGuard(user,guard+'-relations',originalRelations),
   db().prepare("INSERT INTO scans(user_id,id,data) VALUES(?,?,(SELECT 'verified' WHERE (SELECT COUNT(*) FROM json_each(?) AS expected CROSS JOIN items ON items.id=json_extract(expected.value,'$.id') WHERE items.user_id=? AND items.data=json_extract(expected.value,'$.data'))=?))").bind(user,guard,JSON.stringify(rows),user,rows.length),
   ...jsonChunks([...changed.values()]).map(chunk=>db().prepare("INSERT INTO items(user_id,id,data,updated_at) SELECT ?,json_extract(value,'$.id'),value,? FROM json_each(?) WHERE true ON CONFLICT(user_id,id) DO UPDATE SET data=excluded.data,updated_at=excluded.updated_at").bind(user,at,chunk)),
   db().prepare('DELETE FROM relations WHERE user_id=?').bind(user),
   ...jsonChunks(state.relations).map(chunk=>db().prepare("INSERT INTO relations(user_id,id,from_id,to_id,kind,quantity) SELECT ?,json_extract(value,'$.id'),json_extract(value,'$.fromId'),json_extract(value,'$.toId'),json_extract(value,'$.kind'),json_extract(value,'$.quantity') FROM json_each(?)").bind(user,chunk)),
-  db().prepare('DELETE FROM scans WHERE user_id=? AND id=?').bind(user,guard)
+  db().prepare('DELETE FROM scans WHERE user_id=? AND id IN (?,?)').bind(user,guard,guard+'-relations')
  ]);
  return {merged,already};
 }

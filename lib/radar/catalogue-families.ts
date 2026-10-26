@@ -9,7 +9,7 @@ export type FamilySpec={key:string;title:string;type:NonNullable<Item['catalogue
 const normal=(s:string)=>s.normalize('NFKC').toLowerCase().replace(/[\s\p{P}\p{S}]+/gu,'');
 export const familyId=(key:string)=>'family-'+createHash('sha256').update(key).digest('hex').slice(0,32);
 export function catalogueFamily(i:Item):FamilySpec|undefined{
- if(i.demo||i.archivedInto||i.catalogueGroup||i.kind==='bonus')return;
+ if(i.provisional||i.demo||i.archivedInto||i.catalogueGroup||i.kind==='bonus')return;
  const c=collectionFor(i);if(c)return {key:c.key,title:c.title,type:'collection',category:'トレーディングカード',major:'卡片',productLine:c.productLine,wave:c.wave,releaseDate:c.releaseDate,image:c.image,images:c.images,url:c.url,event:c.event,description:c.description||'按发行系列整理已知款式；单卡分别记录，待核对席位不表示已经找到销售挂牌。'};
  if(i.kuji)return {key:'kuji:'+i.kuji.campaignId,title:i.kuji.campaign,type:'kuji',category:'一番くじ',major:'周边',productLine:i.kuji.campaign,releaseDate:i.releaseDate,description:'同一期一番赏的赏级与已知款式；各成员分别记录收藏状态。'};
  if(i.origin==='doujin')return;

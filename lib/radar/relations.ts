@@ -41,8 +41,8 @@ export function suggestMatches(item:Item,items:Item[]):Suggestion[]{
 }
 export function automaticRelations(state:Pick<State,'items'|'relations'|'prefs'>):Relation[]{
  if(!state.prefs.autoLink)return[];const out:Relation[]=[],parents=new Map<string,Item[]>(),extraParents:Item[]=[],linked=new Set(state.relations.filter(r=>r.kind==='bonus').map(r=>r.toId)),dismissed=new Set(state.prefs.dismissedRelations);
- for(const item of state.items)if(item.kind==='base'&&!item.demo){const key=stem(item);if(!parents.has(key))parents.set(key,[]);parents.get(key)!.push(item);if(extraMaterialMaster(item.title))extraParents.push(item);}
- for(const item of state.items)if(item.kind==='bonus'&&!item.demo&&!linked.has(item.id)){
+ for(const item of state.items)if(item.kind==='base'&&!item.provisional&&!item.demo){const key=stem(item);if(!parents.has(key))parents.set(key,[]);parents.get(key)!.push(item);if(extraMaterialMaster(item.title))extraParents.push(item);}
+ for(const item of state.items)if(item.kind==='bonus'&&!item.provisional&&!item.demo&&!linked.has(item.id)){
   const bundled=bundledFamily(item),key=stem(item);if(!bundled&&(key.length<8||!bonusMarker.test(norm(item.title))))continue;
   const candidates=(bundled?extraParents:parents.get(key)||[]).filter(parent=>!conflicts(parent,item).length);if(candidates.length!==1)continue;
   const relation={id:'auto-'+crypto.randomUUID(),fromId:candidates[0].id,toId:item.id,kind:'bonus' as const,quantity:1};if(dismissed.has(relationKey(relation)))continue;out.push(relation);linked.add(item.id);

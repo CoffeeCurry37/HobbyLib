@@ -1,3 +1,4 @@
+import {recordOfferEvent} from './market-events';
 import {stripOfferDecorations,cleanProductTitle,extraMaterialMaster,sequenceKey,numberToken,canonicalBrand,bookMedium,manualField,numberedProduct} from './catalog';
 import {Item,Offer} from './types';
 import {primaryMedium} from './product-features';
@@ -13,7 +14,7 @@ export const IDENTITY_RULE_VERSION=22;
 export function listingKey(raw:string){
  try{const u=new URL(raw);if(!/^https?:$/.test(u.protocol)||u.username||u.password)return '';
   const path=u.pathname.replace(/^\/(?:en|zh-TW|zh-CN)(?=\/)/,'');
-  const query=[...u.searchParams].filter(([k])=>!/^utm_|^(?:fbclid|gclid|ref|lang|locale)$/i.test(k)).sort(([a,av],[b,bv])=>a.localeCompare(b)||av.localeCompare(bv));
+  const query=[...u.searchParams].filter(([k])=>!/^utm(?:_|$)|^(?:fbclid|gclid|ref|lang|locale)$/i.test(k)).sort(([a,av],[b,bv])=>a.localeCompare(b)||av.localeCompare(bv));
   const suffix=(omit:string[]=[])=>{const q=new URLSearchParams(query.filter(([k,v])=>!omit.includes(k)&&v!==''));return q.size?'?'+q:'';};
   if(u.hostname==='order.mandarake.co.jp'){const id=u.searchParams.get('itemCode')?.trim();return id&&/^\d+$/.test(id)&&/\/detailPage\/item$/.test(path)?'mandarake:'+id+suffix(['itemCode']):'';}
   if(u.hostname==='www.suruga-ya.jp')return /^\/product\/(?:detail|other)\/[^/]+/.test(path)?'surugaya:'+path.replace('/product/other/','/product/detail/')+':'+(u.searchParams.get('tenpo_cd')||'main')+suffix(['tenpo_cd']):'';
@@ -59,11 +60,11 @@ export function identityConflicts(a:Item,b:Item):string[]{
   if(edition(a.title)!==edition(b.title)&&!(am==='game'&&bm==='game'&&a.jan==='4976219026338'&&a.jan===b.jan&&[a,b].every(i=>/MEGAMORI BOX/i.test(i.title)&&!/通常版/.test(i.title))))fields.add('edition');
  }
  const av=numberedProduct(a.title)?.number??numberToken(a.wave||''),bv=numberedProduct(b.title)?.number??numberToken(b.wave||'');
- if(av!==null&&av!==undefined&&bv!==null&&bv!==undefined&&av!==bv)fields.add('volume');
+ if(am==='book'&&bm==='book'&&av!==null&&av!==undefined&&bv!==null&&bv!==undefined&&av!==bv)fields.add('volume');
  if(a.event&&b.event)diff('event',canonicalEvent(a.event),canonicalEvent(b.event));
  if(a.saleForm&&b.saleForm)diff('saleForm',a.saleForm,b.saleForm);
  diff('cardNumber',a.cardNumber,b.cardNumber);
- if(assortmentCard(a)&&assortmentCard(b)){diff('wave',a.wave,b.wave);diff('artwork',a.member,b.member);}
+ if((assortmentCard(a)||sourceCategory(a).type==='card'||a.cardNumber)&&(assortmentCard(b)||sourceCategory(b).type==='card'||b.cardNumber)){diff('wave',a.wave,b.wave);diff('artwork',a.member,b.member);}
  const ka=kujiKey(a),kb=kujiKey(b);if(ka&&kb){diff('campaign',ka.campaign,kb.campaign);diff('award',ka.award,kb.award);diff('prizeGroup',ka.group,kb.group);diff('variant',ka.variant,kb.variant);}
  if(a.circle&&b.circle&&!sameCircle(a,b))fields.add('circle');
  if(a.origin==='doujin'&&b.origin==='doujin'){
@@ -122,7 +123,7 @@ export function productIndex(items:Item[]){
  const remove=(id:string)=>{for(const key of previous.get(id)||[]){const bucket=keys.get(key);bucket?.delete(id);if(!bucket?.size)keys.delete(key);}previous.delete(id);};
  const add=(i:Item)=>{remove(i.id);if(i.archivedInto||i.demo)return;const next=[...new Set(itemKeys(i))];previous.set(i.id,next);for(const key of next){if(!keys.has(key))keys.set(key,new Map());keys.get(key)!.set(i.id,i);}};
  for(const item of items)add(item);
- return {add,remove,lookup:(i:Item)=>[...new Map(itemKeys(i).flatMap(key=>[...(keys.get(key)?.values()||[])]).map(i=>[i.id,i])).values()],stats:()=>({keys:keys.size,maxBucket:Math.max(0,...[...keys.values()].map(b=>b.size))})};
+ return {add,remove,lookup:(i:Item)=>[...new Map(itemKeys(i).flatMap(key=>[...(keys.get(key)?.values()||[])]).map(i=>[i.id,i])).values()],stats:()=>({keys:keys.size,maxBucket:[...keys.values()].reduce((n,b)=>Math.max(n,b.size),0)})};
 }
 // One decision core is used by legacy callers and the auditable envelope.
 export function evaluateProduct(items:Item[],candidate:Item,index=productIndex(items)){
@@ -132,16 +133,17 @@ export function evaluateProduct(items:Item[],candidate:Item,index=productIndex(i
  const matches=strongestProductMatches(candidate,active.filter(i=>sameProduct(i,candidate)));
  const status=listing.some(i=>conflicts.some(c=>c.itemId===i.id))?'conflict':matches.length>1?'ambiguous':matches.length===1?'matched':conflicts.length?'conflict':'unmatched';
  const target=status==='matched'?matches[0]:undefined;
- return {status:status as 'matched'|'ambiguous'|'conflict'|'unmatched',candidateIds:active.map(i=>i.id).sort(),conflicts,target,reasonCodes:target?[sameProduct(target,candidate)!]:[status==='ambiguous'?'MULTIPLE_RELIABLE_TARGETS':status==='conflict'?'IDENTITY_CONFLICT':active.length?'INSUFFICIENT_EVIDENCE':'NO_CANDIDATES']};
+ const reasonCode=target?(sharedListing(target,candidate)?'LISTING_CONTINUITY':physicalBookCode(candidate)&&physicalBookCode(candidate)===physicalBookCode(target)?'ISBN_EDITION':collectionIdentity(candidate)&&collectionIdentity(candidate)===collectionIdentity(target)?'SCOPED_CATALOGUE':validGtin(candidate.jan)&&normalizedCode(candidate.jan)===normalizedCode(target.jan)?'SCOPED_GTIN':'EXACT_NAME_FACTS'):status==='ambiguous'?'MULTIPLE_RELIABLE_TARGETS':status==='conflict'?'IDENTITY_CONFLICT':active.length?'INSUFFICIENT_EVIDENCE':'NO_CANDIDATES';
+ return {status:status as 'matched'|'ambiguous'|'conflict'|'unmatched',candidateIds:active.map(i=>i.id).sort(),conflicts,target,reasonCodes:[reasonCode],matchReason:target?sameProduct(target,candidate)!:''};
 }
 export function findProduct(items:Item[],candidate:Item,index?:ReturnType<typeof productIndex>){
- const result=evaluateProduct(items,candidate,index);return result.target?{item:result.target,reason:result.reasonCodes[0]}:null;
+ const result=evaluateProduct(items,candidate,index);return result.target?{item:result.target,reason:result.matchReason}:null;
 }
 // Broad aliases may match several incompatible targets. A verified identifier
 // must still select its own edition; every candidate has already passed the
 // platform, edition, medium, component and Kuji conflict checks in sameProduct.
 export function strongestProductMatches(candidate:Item,matches:Item[]){
- const priority=(i:Item)=>sharedListing(candidate,i)?3:candidate.isbn&&candidate.isbn===i.isbn&&/^97[89]\d{10}$/.test(candidate.isbn)?2:candidate.jan&&candidate.jan===i.jan&&!kujiKey(candidate)&&!kujiKey(i)?1:0;
+ const priority=(i:Item)=>sharedListing(candidate,i)?3:physicalBookCode(candidate)&&physicalBookCode(candidate)===physicalBookCode(i)?2:validGtin(candidate.jan)&&normalizedCode(candidate.jan)===normalizedCode(i.jan)&&!kujiKey(candidate)&&!kujiKey(i)&&!assortmentCard(candidate)&&!assortmentCard(i)?1:0;
  const ranked=matches.map(i=>({i,rank:priority(i)})),best=Math.max(0,...ranked.map(x=>x.rank));return ranked.filter(x=>x.rank===best).map(x=>x.i);
 }
 export function canonicalItem(items:Item[]){return [...items].sort((a,b)=>Number(b.ownership==='owned')-Number(a.ownership==='owned')||Number(!!b.locked)-Number(!!a.locked)||a.createdAt.localeCompare(b.createdAt)||a.id.localeCompare(b.id))[0];}
@@ -156,15 +158,15 @@ export function duplicateCandidates(items:Item[],excluded=new Set<string>()){con
 }
 export const availableOffers=(i:Item,now=Date.now())=>i.offers.filter(o=>o.availability==='available'&&!!o.verifiedAt&&now-Date.parse(o.verifiedAt)>=0&&now-Date.parse(o.verifiedAt)<86400000&&o.price!==null&&o.priceKind!=='closed');
 export function updateOffer(old:Offer|undefined,next:Offer):Offer{
- if(!old)return next;if(Date.parse(next.observedAt)<Date.parse(old.observedAt))return old;
+ if(!old)return recordOfferEvent(undefined,next);if(!Number.isFinite(Date.parse(next.observedAt))||Date.parse(next.observedAt)<=Date.parse(old.observedAt))return old;
  // A partial/list fetch cannot erase better detail facts, but a new sold observation takes effect immediately.
  const weaker=next.observation==='list'&&!!old.verifiedAt;
  const history=[...old.history];if(old.price!==next.price&&old.price!==null)history.push({price:old.price,at:old.observedAt,priceBasis:old.priceBasis});
  const different=old.price!==next.price||next.availability!==old.availability;
- return {...old,...next,stockEpoch:(old.stockEpoch||0)+(old.availability==='sold'&&next.availability==='available'?1:0),...(next.availability==='unknown'&&old.availability==='sold'?{availability:'sold' as const}:{}),...(weaker?{condition:old.condition,shop:next.shop||old.shop,verifiedAt:different?undefined:old.verifiedAt,observation:different?'list':old.observation}:{}),history:history.slice(-100)};
+ return recordOfferEvent(old,{...old,...next,stockEpoch:(old.stockEpoch||0)+(old.availability==='sold'&&next.availability==='available'?1:0),...(next.availability==='unknown'&&old.availability==='sold'?{availability:'sold' as const}:{}),...(weaker?{condition:old.condition,shop:next.shop||old.shop,verifiedAt:different?undefined:old.verifiedAt,observation:different?'list':old.observation}:{}),history:history.slice(-100)});
 }
 
-export function stockSummary(item:Item){const confirmed=availableOffers(item),listed=item.offers.filter(o=>o.availability==='available'),sold=item.offers.filter(o=>o.availability==='sold');
+export function stockSummary(item:Item){if(item.catalogueGroup)return {status:'catalogue',label:'系列档案 · 非销售商品',confirmed:0,listed:0,sold:0,unknown:0};const confirmed=availableOffers(item),listed=item.offers.filter(o=>o.availability==='available'),sold=item.offers.filter(o=>o.availability==='sold');
  const status=confirmed.length?'confirmed':listed.length?'listed':item.offers.length&&sold.length===item.offers.length?'sold':'unknown';
  return {status,label:status==='confirmed'?'已复核在售':status==='listed'?'有货记录 · 待复核':status==='sold'?'售罄（最近记录）':'库存待核对',confirmed:confirmed.length,listed:listed.length,sold:sold.length,unknown:item.offers.length-listed.length-sold.length};
 }

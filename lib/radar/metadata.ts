@@ -77,7 +77,7 @@ export function applyMetadata(item:Item,facts:Metadata,url:string,mode:'empty'|'
   const factValue=Array.isArray(value)?value.join('、'):String(value);
   if(!item.evidence.some(e=>e.field===key&&e.value===factValue&&e.url===url))evidence.push({field:key,value:factValue,url,at:new Date().toISOString(),method:applied?'来源明确字段；保留出处':'来源候选；保留已有字段'});
  }
- updated.tags=[...new Set([...item.tags,...metadataTags(updated),...catalogueKeywords(updated)])].slice(0,50);
+ updated.tags=manualField(item,'tags')?item.tags:[...new Set([...item.tags,...metadataTags(updated),...catalogueKeywords(updated)])].slice(0,50);
  updated.evidence=[...item.evidence,...evidence].slice(-100);
  if(updated.bucket==='junk'&&/書籍|本|同人誌|画集|雑誌/.test(updated.category))updated.bucket='normal';
  return repairClassification(applyTitleCatalogue(updated));
