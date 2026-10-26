@@ -5,6 +5,10 @@
 - [在线收藏雷达](https://collector-radar.martainjonn.chatgpt.site)（本人登录）
 - [当前进度与下一步](docs/PROGRESS.md)
 - [业务规则与代码索引](docs/ARCHITECTURE.md)
+- [项目章程与长期方向](docs/PROJECT_CHARTER.md)
+- [商品身份、层级、标签与匹配契约](docs/PRODUCT_IDENTITY_CONTRACT.md)
+- [代码审查与实施差距](docs/REVIEW-2026-10-26.md)
+- [可直接交给 Codex 的实施 Prompt](docs/CODEX_IMPLEMENTATION_PROMPT.md)
 - [数据来源、备份与恢复](docs/DATA.md)
 - [继续逐项复查](research/editorial-20261021/RESUME.md)
 - [独立运行说明](standalone/README.zh-CN.md)
