@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"Collector Radar 页面采集","version":"0.4.0","description":"手动读取当前商品或账号列表；不读取密码和 Cookie","permissions":["activeTab","scripting"],"action":{"default_popup":"popup.html"}}

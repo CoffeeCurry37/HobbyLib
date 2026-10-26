@@ -1,0 +1,98 @@
+{
+  "checkedAt": "2026-10-15",
+  "restoredAt": "2026-10-16T14:39:41.535Z",
+  "purpose": "Product identity and bibliographic classification only; no artwork or explicit content downloaded",
+  "items": [
+    {
+      "match": {
+        "title": "FGO FAB Vol.3",
+        "circle": "アトリエ桃李"
+      },
+      "url": "https://ec.toranoana.jp/tora_r/ec/item/040031330471/",
+      "source": "Toranoana",
+      "sourceItemCode": "040031330471",
+      "facts": {
+        "title": "FGO FAB Vol.3",
+        "origin": "doujin",
+        "circle": "アトリエ桃李",
+        "artists": [
+          "Lee-taro"
+        ],
+        "series": "Fate/Grand Order",
+        "category": "同人誌 - イラスト集",
+        "releaseDate": "2026-08-15",
+        "event": "コミックマーケット108（1日目）",
+        "size": "B5",
+        "pages": 24,
+        "ageRating": "r18"
+      },
+      "verification": "Public indexed product metadata: Adults Only, Circle Name, Creator, Publication Date, Type/Size. No account or age-confirmation interaction. Listing price/stock intentionally not imported from cached search."
+    },
+    {
+      "match": {
+        "title": "collected vol.2",
+        "circle": "ヤツカ"
+      },
+      "url": "https://www.suruga-ya.jp/product/detail/ZHORE197160",
+      "source": "骏河屋",
+      "sourceItemCode": "ZHORE197160",
+      "facts": {
+        "title": "collected vol.2",
+        "origin": "doujin",
+        "circle": "ヤツカ",
+        "artists": [
+          "八塚朔"
+        ],
+        "category": "男性向一般同人誌",
+        "audience": "male",
+        "ageRating": "all",
+        "releaseDate": "2018-08-10"
+      },
+      "verification": "Exact book appears in publisher-filtered public catalogue including sold-out items. Category and date explicitly shown; detail title confirms identity."
+    },
+    {
+      "match": {
+        "title": "collected vol.4",
+        "circle": "ヤツカ"
+      },
+      "url": "https://www.suruga-ya.jp/product/detail/ZHORE218511",
+      "source": "骏河屋",
+      "sourceItemCode": "ZHORE218511",
+      "facts": {
+        "title": "collected vol.4",
+        "origin": "doujin",
+        "circle": "ヤツカ",
+        "artists": [
+          "八塚朔"
+        ],
+        "series": "Fate/Grand Order",
+        "category": "男性向一般同人誌",
+        "audience": "male",
+        "ageRating": "all",
+        "releaseDate": "2019-08-09",
+        "event": "コミックマーケット96",
+        "size": "A4",
+        "pages": 20
+      },
+      "verification": "Exact public product detail: category, publisher, illustrator, date and Grand Order/C96 description."
+    },
+    {
+      "match": {
+        "title": "アビビビ改",
+        "circle": "タマラン"
+      },
+      "url": "https://akicomi.com/products/list?category_id=1&name=%E3%82%BF%E3%83%9E%E3%83%A9%E3%83%B3",
+      "source": "秋コミ.com",
+      "facts": {
+        "title": "アビビビ改",
+        "origin": "doujin",
+        "circle": "タマラン",
+        "artists": [
+          "タマラン"
+        ],
+        "series": "Fate/Grand Order"
+      },
+      "verification": "Public store result is within 同人 and names this exact title, publisher, artist and work. Existing spelling アビビビッ★改 should be reviewed as title variant; do not force exact product merge solely from circle. This list does not explicitly confirm age rating for 改; unrelated earlier editions show age restriction but it is not transferred."
+    }
+  ]
+}

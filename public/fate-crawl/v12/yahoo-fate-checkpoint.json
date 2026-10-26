@@ -1,0 +1,44 @@
+{
+  "id": "yahoo-fate",
+  "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&b=1&n=50",
+  "next": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=401&n=50",
+  "pages": [
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&b=1&n=50",
+      "count": 52
+    },
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=51&n=50",
+      "count": 50
+    },
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=101&n=50",
+      "count": 50
+    },
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=151&n=50",
+      "count": 50
+    },
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=201&n=50",
+      "count": 50
+    },
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=251&n=50",
+      "count": 50
+    },
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=301&n=50",
+      "count": 50
+    },
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=351&n=50",
+      "count": 50
+    }
+  ],
+  "observations": 402,
+  "total": null,
+  "failures": [],
+  "status": "bounded",
+  "updatedAt": "2026-10-06T01:41:06.979Z"
+}

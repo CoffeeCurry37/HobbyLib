@@ -1,0 +1,11 @@
+// Append one bounded continuation to the immutable earlier capture batches.
+import{readFileSync,writeFileSync,mkdirSync}from'node:fs';import{createHash}from'node:crypto';
+const folder=process.argv[2],base=JSON.parse(readFileSync('lib/radar/fate-crawl-manifest.json')),audit=JSON.parse(readFileSync(folder+'/audit.json')),products=JSON.parse(readFileSync(folder+'/products.json'));
+if(base.id.startsWith('fate-v0121-'))throw Error('This continuation is already prepared');
+for(const p of products){if(/amiami|aniplex/i.test(p.offer.source))p.provisional=false;if(/noimage|\/blank\.(gif|png)|\/items\/temple?tes\//i.test(p.image||''))p.image='';}
+const output='public/fate-crawl/v121';mkdirSync(output,{recursive:true});writeFileSync(output+'/batch-0.json',JSON.stringify(products));writeFileSync(output+'/audit.json',JSON.stringify(audit,null,2));
+const name={'amiami-figures':'AmiAmi · 历史手办第17–20页','yahoo-fate':'Yahoo · Fate 第401–600条挂牌','aniplex-current':'Aniplex · 当前 Fate 目录续采'};
+const files=[...base.files,'/fate-crawl/v121/batch-0.json'],sizes=files.map(f=>JSON.parse(readFileSync('public'+f)).length);let count=0;const offsets=sizes.map(n=>{const at=count;count+=n;return at;});
+const manifest={...base,id:'fate-v0121-'+createHash('sha256').update(JSON.stringify(products)).digest('hex').slice(0,16),previousSnapshot:{id:base.id,batches:base.files.length},count,offsets,files,capturedAt:new Date().toISOString(),observations:base.observations+products.length,sources:[...base.sources,...audit.sources.map(s=>({name:name[s.id],url:s.url,pages:s.pages,count:s.count,total:null,status:s.status,next:s.next,failures:s.error?1:0,coverage:'本轮限定分页；同一挂牌重复观察不等于新增商品'})),{name:'AmiAmi · 新收录手办详情',url:audit.details[0],pages:audit.details.length,count:audit.details.length,total:audit.details.length,status:'completed',next:null,coverage:'30 个原始商品页的类别、厂家、发行资料及图片；保留来源原文'}],coverage:{complete:false,remaining:'AmiAmi 手办第21页、Yahoo 第601条、Aniplex 第181条起；其余来源沿用原有断点和验证暂停。'}};
+for(const path of ['lib/radar/fate-crawl-manifest.json','public/fate-crawl/manifest.json'])writeFileSync(path,JSON.stringify(manifest,null,2));
+console.log(JSON.stringify({id:manifest.id,previousBatches:base.files.length,newBatchSize:products.length,details:audit.details.length,next:audit.sources.map(s=>({source:s.id,next:s.next}))}));

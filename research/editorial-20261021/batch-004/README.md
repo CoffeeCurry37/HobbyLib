@@ -1,0 +1,1 @@
+Applied 171 records on 2026-10-25: 165 verified, 6 partial (five mixed-parent novels; one unreleased cover). All nine requests succeeded. Combined batch 003+004 live readback matched all 273 prepared records exactly; personal fields, offers and all 1,835 relations preserved. See live-validation.json.

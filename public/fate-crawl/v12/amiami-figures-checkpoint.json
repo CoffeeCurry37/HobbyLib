@@ -1,0 +1,44 @@
+{
+  "id": "amiami-figures",
+  "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_sortkey=regtimed&s_cate_tag=1&pagecnt=9",
+  "next": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=17",
+  "pages": [
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_sortkey=regtimed&s_cate_tag=1&pagecnt=9",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=10",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=11",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=12",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=13",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=14",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=15",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=16",
+      "count": 60
+    }
+  ],
+  "observations": 480,
+  "total": 2042,
+  "failures": [],
+  "status": "bounded",
+  "updatedAt": "2026-10-06T01:41:19.262Z"
+}

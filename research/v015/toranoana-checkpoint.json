@@ -1,0 +1,17 @@
+{
+  "id": "toranoana",
+  "url": "https://ecs.toranoana.jp/tora/ec/app/catalog/list?coterieGenreCode1=GNRN00005765&currentPage=1",
+  "next": "https://ecs.toranoana.jp/tora/ec/app/catalog/list?coterieGenreCode1=GNRN00005765&currentPage=1",
+  "pages": [],
+  "failures": [
+    {
+      "url": "https://ecs.toranoana.jp/tora/ec/app/catalog/list?coterieGenreCode1=GNRN00005765&currentPage=1",
+      "error": "Source returned Site Unavailable; cursor preserved; no bypass attempted",
+      "observedAt": "2026-10-18T05:43:37.796Z"
+    }
+  ],
+  "observations": 0,
+  "status": "paused",
+  "total": null,
+  "updatedAt": "2026-10-18T05:43:42.400Z"
+}

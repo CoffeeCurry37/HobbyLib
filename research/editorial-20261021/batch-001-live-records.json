@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "source-221726d2332a844eed38ec08c0ac0d1a",
+    "title": "!!)TYPE MOONエース(別冊付録Fate/GO小冊子、B2ポスター) 13",
+    "category": "杂志",
+    "majorClass": "书籍",
+    "series": "TYPE-MOON",
+    "productType": "杂志",
+    "productLine": "TYPE-MOONエース",
+    "wave": "13",
+    "event": "",
+    "summary": "TYPE-MOON综合资讯杂志《TYPE-MOONエース》第13号，以《月姬》新版为封面专题，并随刊附FGO资料小册子。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2021-03-26",
+    "isbn": "9784041113882",
+    "jan": "",
+    "tags": [
+      "TYPE-MOON",
+      "TYPE-MOONエース",
+      "杂志",
+      "Fate/Grand Order",
+      "付录",
+      "月姫",
+      "Servant Storage III"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/322101/322101000646.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/322101/322101000646.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.777Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/322101000646/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"!!)TYPE MOONエース(別冊付録Fate/GO小冊子、B2ポスター) 13\",\"杂志\",\"书籍\",\"杂志\",\"commercial\",\"TYPE-MOON\",\"\",\"TYPE-MOONエース\",\"13\",\"base\",\"single\",\"TYPE-MOON综合资讯杂志《TYPE-MOONエース》第13号，以《月姬》新版为封面专题，并随刊附FGO资料小册子。\",[\"TYPE-MOON\",\"TYPE-MOONエース\",\"杂志\",\"Fate/Grand Order\",\"付录\",\"月姫\",\"Servant Storage III\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/322101/322101000646.webp"
+    }
+  },
+  {
+    "id": "fa7d80ef-be7f-4c32-9afd-74ef1dca9b14",
+    "title": "[単品] 間桐桜 缶バッジ 「劇場版 Fate/stay night[Heaven’s Feel] 描き下ろし缶バッジ付きSpecial BOOK」 同梱特典",
+    "category": "徽章",
+    "majorClass": "周边",
+    "series": "Fate/stay night",
+    "productType": "徽章",
+    "productLine": "Heaven’s Feel Special BOOK",
+    "wave": "",
+    "event": "",
+    "summary": "《Fate/stay night [Heaven’s Feel]》Special BOOK随书附赠的间桐樱徽章，本条目是单独出售的特典。",
+    "kind": "bonus",
+    "saleForm": "single",
+    "releaseDate": "2017-10-31",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Heaven’s Feel",
+      "間桐桜",
+      "徽章",
+      "书籍特典"
+    ],
+    "characters": [
+      "間桐桜"
+    ],
+    "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/871587820.jpg.webp",
+    "images": [
+      "https://cdn.suruga-ya.jp/database/pics_webp/game/871587820.jpg.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.778Z",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/871587820?tenpo_cd="
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"[単品] 間桐桜 缶バッジ 「劇場版 Fate/stay night[Heaven’s Feel] 描き下ろし缶バッジ付きSpecial BOOK」 同梱特典\",\"徽章\",\"周边\",\"徽章\",\"commercial\",\"Fate/stay night\",\"\",\"Heaven’s Feel Special BOOK\",\"\",\"bonus\",\"single\",\"《Fate/stay night [Heaven’s Feel]》Special BOOK随书附赠的间桐樱徽章，本条目是单独出售的特典。\",[\"Heaven’s Feel\",\"間桐桜\",\"徽章\",\"书籍特典\"],[\"間桐桜\"]]",
+      "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/871587820.jpg.webp"
+    }
+  },
+  {
+    "id": "source-c0ab14c95bb39f810543f6d0c765f875",
+    "title": "「Fate/Apocrypha」 Fate Apocrypha material 特製スリーブ付き",
+    "category": "设定集",
+    "majorClass": "书籍",
+    "series": "Fate/Apocrypha",
+    "productType": "设定集",
+    "productLine": "Fate/Apocrypha material",
+    "wave": "",
+    "event": "",
+    "summary": "《Fate/Apocrypha》的官方设定资料集，本版本附特制书套。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2015-08-14",
+    "isbn": "",
+    "jan": "4560158370333",
+    "tags": [
+      "Fate/Apocrypha",
+      "设定集",
+      "TYPE-MOON",
+      "特制书套"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/153/MED-BOOK-005845.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/153/MED-BOOK-005845.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.778Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-005845-R"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"「Fate/Apocrypha」 Fate Apocrypha material 特製スリーブ付き\",\"设定集\",\"书籍\",\"设定集\",\"commercial\",\"Fate/Apocrypha\",\"\",\"Fate/Apocrypha material\",\"\",\"base\",\"single\",\"《Fate/Apocrypha》的官方设定资料集，本版本附特制书套。\",[\"Fate/Apocrypha\",\"设定集\",\"TYPE-MOON\",\"特制书套\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/153/MED-BOOK-005845.jpg"
+    }
+  },
+  {
+    "id": "source-d6ae45a6826c01c99a6a6b2ba3b0a4d6",
+    "title": "「Fate/kaleid linerプリズマ☆イリヤ」 プリズマ☆コンプリート!",
+    "category": "官方指南",
+    "majorClass": "书籍",
+    "series": "Fate/kaleid liner プリズマ☆イリヤ",
+    "productType": "官方指南",
+    "productLine": "プリズマ☆コンプリート！",
+    "wave": "",
+    "event": "",
+    "summary": "《魔法少女伊莉雅》的官方指南书《プリズマ☆コンプリート！》，整理作品资料与相关插图。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2014-01-28",
+    "isbn": "9784041106716",
+    "jan": "",
+    "tags": [
+      "魔法少女伊莉雅",
+      "官方指南",
+      "角川"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/321310/321310000190.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/321310/321310000190.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.778Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321310000190/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"「Fate/kaleid linerプリズマ☆イリヤ」 プリズマ☆コンプリート!\",\"官方指南\",\"书籍\",\"官方指南\",\"commercial\",\"Fate/kaleid liner プリズマ☆イリヤ\",\"\",\"プリズマ☆コンプリート！\",\"\",\"base\",\"single\",\"《魔法少女伊莉雅》的官方指南书《プリズマ☆コンプリート！》，整理作品资料与相关插图。\",[\"魔法少女伊莉雅\",\"官方指南\",\"角川\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321310/321310000190.webp"
+    }
+  },
+  {
+    "id": "df8fba44-1ed0-4a29-a4bd-8d847101d0ed",
+    "title": "『Fate/Grand Order Servant Art Chronicle -最終再臨展-』図録",
+    "category": "展览图录",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "展览图录",
+    "productLine": "Servant Art Chronicle",
+    "wave": "",
+    "event": "Fate/Grand Order Servant Art Chronicle -最終再臨展-",
+    "summary": "FGO「Servant Art Chronicle 最终再临展」配套图录，收录展览相关从者视觉资料。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2026/02/01",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "最终再临展",
+      "展览图录"
+    ],
+    "characters": [],
+    "image": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdc217138/items/title-H/fgo/sairinten/GDS/others/67_00.jpg",
+    "images": [
+      "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdc217138/items/title-H/fgo/sairinten/GDS/others/67_00.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.779Z",
+      "sources": [
+        "https://online.aniplex.co.jp/itemAUcHUQqA67.html"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"『Fate/Grand Order Servant Art Chronicle -最終再臨展-』図録\",\"展览图录\",\"书籍\",\"展览图录\",\"commercial\",\"Fate/Grand Order\",\"Fate/Grand Order Servant Art Chronicle -最終再臨展-\",\"Servant Art Chronicle\",\"\",\"base\",\"single\",\"FGO「Servant Art Chronicle 最终再临展」配套图录，收录展览相关从者视觉资料。\",[\"Fate/Grand Order\",\"最终再临展\",\"展览图录\"],[]]",
+      "imageUrl": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwdc217138/items/title-H/fgo/sairinten/GDS/others/67_00.jpg"
+    }
+  },
+  {
+    "id": "8d18e28e-d06d-4235-ad5c-ffaf6d30612f",
+    "title": "『Fate/Grand Order』 キャラファイングラフ 10周年表紙イラスト",
+    "category": "装裱复制原画",
+    "majorClass": "大型周边",
+    "series": "Fate/Grand Order",
+    "productType": "装裱复制原画",
+    "productLine": "10周年表紙イラスト",
+    "wave": "",
+    "event": "",
+    "summary": "采用《Fate/Grand Order》10周年封面插画的Charafine Graph装裱复制原画，属于展示用美术周边。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2026-08-01",
+    "isbn": "",
+    "jan": "4573646108523",
+    "tags": [
+      "Fate/Grand Order",
+      "10周年",
+      "Charafine Graph",
+      "装裱复制原画"
+    ],
+    "characters": [],
+    "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/185282674.jpg.webp",
+    "images": [
+      "https://cdn.suruga-ya.jp/database/pics_webp/game/185282674.jpg.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.779Z",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/185282674"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"『Fate/Grand Order』 キャラファイングラフ 10周年表紙イラスト\",\"装裱复制原画\",\"大型周边\",\"装裱复制原画\",\"commercial\",\"Fate/Grand Order\",\"\",\"10周年表紙イラスト\",\"\",\"base\",\"single\",\"采用《Fate/Grand Order》10周年封面插画的Charafine Graph装裱复制原画，属于展示用美术周边。\",[\"Fate/Grand Order\",\"10周年\",\"Charafine Graph\",\"装裱复制原画\"],[]]",
+      "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/185282674.jpg.webp"
+    }
+  },
+  {
+    "id": "source-d883a02ac4a35ce420edf1a0e22b3605",
+    "title": "【1円~】Fate/EXTRA material 初回限定版 未開封 設定資料集 TYPE-MOON",
+    "category": "设定集",
+    "majorClass": "书籍",
+    "series": "Fate/EXTRA",
+    "productType": "设定集",
+    "productLine": "Fate/EXTRA material",
+    "wave": "",
+    "event": "",
+    "summary": "《Fate/EXTRA》的官方设定资料集初回限定版，整理游戏角色和世界观资料。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/EXTRA",
+      "TYPE-MOON",
+      "设定集",
+      "初回限定版"
+    ],
+    "characters": [],
+    "image": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/4486724c0e16f640a330f7b653825d1c1976e538751171cea5dca542653210d0/i-img1200x1200-179039069283154pehwi218.jpg",
+    "images": [
+      "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/4486724c0e16f640a330f7b653825d1c1976e538751171cea5dca542653210d0/i-img1200x1200-179039069283154pehwi218.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.779Z",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/n1245971271"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【1円~】Fate/EXTRA material 初回限定版 未開封 設定資料集 TYPE-MOON\",\"设定集\",\"书籍\",\"设定集\",\"commercial\",\"Fate/EXTRA\",\"\",\"Fate/EXTRA material\",\"\",\"base\",\"single\",\"《Fate/EXTRA》的官方设定资料集初回限定版，整理游戏角色和世界观资料。\",[\"Fate/EXTRA\",\"TYPE-MOON\",\"设定集\",\"初回限定版\"],[]]",
+      "imageUrl": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/4486724c0e16f640a330f7b653825d1c1976e538751171cea5dca542653210d0/i-img1200x1200-179039069283154pehwi218.jpg"
+    }
+  },
+  {
+    "id": "source-b14ad93edebb966e95ef33772ed9dfac",
+    "title": "【FGO Fes. 2025】Fate/Grand Order 10th Anniversary ALBUM",
+    "category": "纪念画册",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "纪念画册",
+    "productLine": "10th Anniversary ALBUM",
+    "wave": "",
+    "event": "FGO Fes. 2025 ～10th Anniversary～",
+    "summary": "FGO Fes. 2025推出的十周年纪念画册，采用A4规格、156页。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2026年3月13日(金)より順次お届け",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "FGO Fes. 2025",
+      "10周年",
+      "纪念画册"
+    ],
+    "characters": [],
+    "image": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw7048014c/items/title-H/fgo/fgofes2025/001_00.jpg",
+    "images": [
+      "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw7048014c/items/title-H/fgo/fgofes2025/001_00.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.779Z",
+      "sources": [
+        "https://online.aniplex.co.jp/itemPTVfRKzA01.html"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【FGO Fes. 2025】Fate/Grand Order 10th Anniversary ALBUM\",\"纪念画册\",\"书籍\",\"纪念画册\",\"commercial\",\"Fate/Grand Order\",\"FGO Fes. 2025 ～10th Anniversary～\",\"10th Anniversary ALBUM\",\"\",\"base\",\"single\",\"FGO Fes. 2025推出的十周年纪念画册，采用A4规格、156页。\",[\"Fate/Grand Order\",\"FGO Fes. 2025\",\"10周年\",\"纪念画册\"],[]]",
+      "imageUrl": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw7048014c/items/title-H/fgo/fgofes2025/001_00.jpg"
+    }
+  },
+  {
+    "id": "source-c511ead30dd5be3fd7f7ab1327b540a3",
+    "title": "【アニプレックス オンライン限定バンドル版】Fate/Grand Order Memories III 概念礼装画集 第2部 上 2018.04-2019.12",
+    "category": "概念礼装画集",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "概念礼装画集",
+    "productLine": "Fate/Grand Order Memories",
+    "wave": "III",
+    "event": "",
+    "summary": "FGO第二部上篇概念礼装画集Memories III，Aniplex限定捆绑版附「笑顔のしるし」迷你画布与画架。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2021/01/28",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "概念礼装",
+      "Memories III",
+      "Aniplex限定",
+      "迷你画布"
+    ],
+    "characters": [],
+    "image": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw68ab2c84/items/items5000/5879/skus/PLUS-20331.jpg",
+    "images": [
+      "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw68ab2c84/items/items5000/5879/skus/PLUS-20331.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.779Z",
+      "sources": [
+        "https://online.aniplex.co.jp/itemiNIHNSAp.html"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【アニプレックス オンライン限定バンドル版】Fate/Grand Order Memories III 概念礼装画集 第2部 上 2018.04-2019.12\",\"概念礼装画集\",\"书籍\",\"概念礼装画集\",\"commercial\",\"Fate/Grand Order\",\"\",\"Fate/Grand Order Memories\",\"III\",\"base\",\"single\",\"FGO第二部上篇概念礼装画集Memories III，Aniplex限定捆绑版附「笑顔のしるし」迷你画布与画架。\",[\"Fate/Grand Order\",\"概念礼装\",\"Memories III\",\"Aniplex限定\",\"迷你画布\"],[]]",
+      "imageUrl": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw68ab2c84/items/items5000/5879/skus/PLUS-20331.jpg"
+    }
+  },
+  {
+    "id": "source-575ef9f9585059e1569e26fb9b5f946e",
+    "title": "【アニプレックス オンライン限定バンドル版】Fate/Grand Order Trailer's Trail EX 4th Anniversary created by A-1 Pictures 書籍のみ",
+    "category": "动画原画集",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "动画原画集",
+    "productLine": "Trailer’s Trail EX",
+    "wave": "",
+    "event": "FGO 4th Anniversary",
+    "summary": "FGO四周年纪念动画的A-1 Pictures制作资料集，Aniplex书籍捆绑版附5张插画卡、展示架和透明书签，不含Blu-ray。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2020/05/03",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "4周年",
+      "A-1 Pictures",
+      "动画原画集",
+      "Aniplex限定"
+    ],
+    "characters": [],
+    "image": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw31d665c0/items/items5000/5009/contents/17803.jpg",
+    "images": [
+      "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw31d665c0/items/items5000/5009/contents/17803.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.780Z",
+      "sources": [
+        "https://online.aniplex.co.jp/itemtrfNpLrM.html"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【アニプレックス オンライン限定バンドル版】Fate/Grand Order Trailer's Trail EX 4th Anniversary created by A-1 Pictures 書籍のみ\",\"动画原画集\",\"书籍\",\"动画原画集\",\"commercial\",\"Fate/Grand Order\",\"FGO 4th Anniversary\",\"Trailer’s Trail EX\",\"\",\"base\",\"single\",\"FGO四周年纪念动画的A-1 Pictures制作资料集，Aniplex书籍捆绑版附5张插画卡、展示架和透明书签，不含Blu-ray。\",[\"Fate/Grand Order\",\"4周年\",\"A-1 Pictures\",\"动画原画集\",\"Aniplex限定\"],[]]",
+      "imageUrl": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw31d665c0/items/items5000/5009/contents/17803.jpg"
+    }
+  },
+  {
+    "id": "source-bb52f480f360d7a4757fe02330a5d282",
+    "title": "【アニプレックス オンライン限定バンドル版】Fate/Grand Order Trailer's Trail III created by A-1 Pictures 書籍のみ",
+    "category": "动画原画集",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "动画原画集",
+    "productLine": "Trailer’s Trail",
+    "wave": "III",
+    "event": "",
+    "summary": "A-1 Pictures制作的FGO宣传动画资料集Trailer’s Trail III，Aniplex书籍捆绑版附亚克力展示板和透明书签，不含Blu-ray。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2020/05/03",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "A-1 Pictures",
+      "动画原画集",
+      "Aniplex限定"
+    ],
+    "characters": [],
+    "image": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa1d86a67/items/items5000/5008/contents/17797.jpg",
+    "images": [
+      "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa1d86a67/items/items5000/5008/contents/17797.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.780Z",
+      "sources": [
+        "https://online.aniplex.co.jp/itemAUtLxEmR.html"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【アニプレックス オンライン限定バンドル版】Fate/Grand Order Trailer's Trail III created by A-1 Pictures 書籍のみ\",\"动画原画集\",\"书籍\",\"动画原画集\",\"commercial\",\"Fate/Grand Order\",\"\",\"Trailer’s Trail\",\"III\",\"base\",\"single\",\"A-1 Pictures制作的FGO宣传动画资料集Trailer’s Trail III，Aniplex书籍捆绑版附亚克力展示板和透明书签，不含Blu-ray。\",[\"Fate/Grand Order\",\"A-1 Pictures\",\"动画原画集\",\"Aniplex限定\"],[]]",
+      "imageUrl": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwa1d86a67/items/items5000/5008/contents/17797.jpg"
+    }
+  },
+  {
+    "id": "source-176662fc673ebffdfa9af51df48ef6f2",
+    "title": "【あみあみ限定特典】Fate/Grand Order Game Artbook [Event Collections 2017.05 - 2017.12] (書籍)[ディライトワークス]《在庫切れ》",
+    "category": "游戏美术集",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "游戏美术集",
+    "productLine": "Game Artbook Event Collections",
+    "wave": "2017.05–2017.12",
+    "event": "",
+    "summary": "收录FGO 2017年5月至12月活动视觉资料的游戏美术集，本条目为附AmiAmi限定Rider/阿尔托莉雅Alter书签的版本。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2020-11-30",
+    "isbn": "",
+    "jan": "4580560592567",
+    "tags": [
+      "Fate/Grand Order",
+      "游戏美术集",
+      "2017活动",
+      "AmiAmi特典",
+      "Rider/アルトリア・ペンドラゴン〔オルタ〕"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/203/MED-BOOK-016990.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/203/MED-BOOK-016990.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.780Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-016990"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【あみあみ限定特典】Fate/Grand Order Game Artbook [Event Collections 2017.05 - 2017.12] (書籍)[ディライトワークス]《在庫切れ》\",\"游戏美术集\",\"书籍\",\"游戏美术集\",\"commercial\",\"Fate/Grand Order\",\"\",\"Game Artbook Event Collections\",\"2017.05–2017.12\",\"base\",\"single\",\"收录FGO 2017年5月至12月活动视觉资料的游戏美术集，本条目为附AmiAmi限定Rider/阿尔托莉雅Alter书签的版本。\",[\"Fate/Grand Order\",\"游戏美术集\",\"2017活动\",\"AmiAmi特典\",\"Rider/アルトリア・ペンドラゴン〔オルタ〕\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/203/MED-BOOK-016990.jpg"
+    }
+  },
+  {
+    "id": "source-d80d0001aca42fcca6b5388842419ff1",
+    "title": "【あみあみ限定特典】The tale of Fate/Grand Order Final Singularity Grand Temple of Time: Solomon (書籍)[CloverWorks]《発売済・在庫品》",
+    "category": "动画制作资料集",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "动画制作资料集",
+    "productLine": "冠位時間神殿ソロモン",
+    "wave": "",
+    "event": "",
+    "summary": "CloverWorks出版的FGO终局特异点所罗门动画制作资料集，共144页，本版本附AmiAmi限定亚克力挂件。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "22年09月未定",
+    "isbn": "",
+    "jan": "4571576772029",
+    "tags": [
+      "Fate/Grand Order",
+      "所罗门",
+      "CloverWorks",
+      "动画制作资料集",
+      "AmiAmi特典"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/223/MED-BOOK-030155.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/223/MED-BOOK-030155.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.780Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-030155"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【あみあみ限定特典】The tale of Fate/Grand Order Final Singularity Grand Temple of Time: Solomon (書籍)[CloverWorks]《発売済・在庫品》\",\"动画制作资料集\",\"书籍\",\"动画制作资料集\",\"commercial\",\"Fate/Grand Order\",\"\",\"冠位時間神殿ソロモン\",\"\",\"base\",\"single\",\"CloverWorks出版的FGO终局特异点所罗门动画制作资料集，共144页，本版本附AmiAmi限定亚克力挂件。\",[\"Fate/Grand Order\",\"所罗门\",\"CloverWorks\",\"动画制作资料集\",\"AmiAmi特典\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/223/MED-BOOK-030155.jpg"
+    }
+  },
+  {
+    "id": "source-778fcc1143950df10f4da953bd8272c1",
+    "title": "【書籍】Fate/Grand Order Memories I -概念礼装画集 第1部 2015.07~2016.12-",
+    "category": "概念礼装画集",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "概念礼装画集",
+    "productLine": "Fate/Grand Order Memories",
+    "wave": "I",
+    "event": "",
+    "summary": "FGO第一部2015年7月至2016年12月概念礼装画集Memories I；原二手页面失效，当前售品附属物仍待确认。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "概念礼装",
+      "Memories I"
+    ],
+    "characters": [],
+    "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/ef21665f9f45b1792bb221049b797a90d04001b449e451fb3e03050d049117f0/i-img1200x900-17913521022026orjpca857.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+    "images": [
+      "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/ef21665f9f45b1792bb221049b797a90d04001b449e451fb3e03050d049117f0/i-img1200x900-17913521022026orjpca857.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-22T14:47:03.780Z",
+      "sources": [
+        "https://online.aniplex.co.jp/itemTHgdDmmd.html"
+      ],
+      "unresolved": [
+        "原Yahoo拍卖链接已失效，无法确认当前售品版本及附属物。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【書籍】Fate/Grand Order Memories I -概念礼装画集 第1部 2015.07~2016.12-\",\"概念礼装画集\",\"书籍\",\"概念礼装画集\",\"commercial\",\"Fate/Grand Order\",\"\",\"Fate/Grand Order Memories\",\"I\",\"base\",\"single\",\"FGO第一部2015年7月至2016年12月概念礼装画集Memories I；原二手页面失效，当前售品附属物仍待确认。\",[\"Fate/Grand Order\",\"概念礼装\",\"Memories I\"],[]]",
+      "imageUrl": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/ef21665f9f45b1792bb221049b797a90d04001b449e451fb3e03050d049117f0/i-img1200x900-17913521022026orjpca857.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+    }
+  },
+  {
+    "id": "source-d87a96c8d08f787d37bf2bbde1ec8280",
+    "title": "【中古】[FIG]Fate/stay night(フェイト/ステイナイト) 第3巻 リミテッド 初回限定版(ライダー胸像フィギュア付属) 書籍 角川書店(61288555",
+    "category": "書籍",
+    "majorClass": "书籍",
+    "series": "Fate/stay night",
+    "productType": "漫画限定版／胸像待确认",
+    "productLine": "Fate/stay night 漫画",
+    "wave": "3",
+    "event": "",
+    "summary": "标注为《Fate/stay night》漫画第3卷初回限定版与Rider胸像的二手条目，仍需确认是整套还是仅胸像。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/stay night",
+      "第3卷",
+      "Rider",
+      "初回限定版"
+    ],
+    "characters": [],
+    "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/0d6e143c608c448e1ae2de6b47bd563539c511680e74d5d179a2ac01929fe2a6/i-img1200x1200-17909246825162nisu4f5521.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+    "images": [
+      "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/0d6e143c608c448e1ae2de6b47bd563539c511680e74d5d179a2ac01929fe2a6/i-img1200x1200-17909246825162nisu4f5521.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-22T14:47:03.780Z",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/v1246800553"
+      ],
+      "unresolved": [
+        "标题同时含[FIG]与书籍限定版，需确认实物是否含漫画本体，暂不强改大类。",
+        "分类仍有歧义，待确认实际销售内容。"
+      ],
+      "checks": {
+        "classification": false,
+        "context": false,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【中古】[FIG]Fate/stay night(フェイト/ステイナイト) 第3巻 リミテッド 初回限定版(ライダー胸像フィギュア付属) 書籍 角川書店(61288555\",\"書籍\",\"书籍\",\"漫画限定版／胸像待确认\",\"unknown\",\"Fate/stay night\",\"\",\"Fate/stay night 漫画\",\"3\",\"base\",\"single\",\"标注为《Fate/stay night》漫画第3卷初回限定版与Rider胸像的二手条目，仍需确认是整套还是仅胸像。\",[\"Fate/stay night\",\"第3卷\",\"Rider\",\"初回限定版\"],[]]",
+      "imageUrl": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/0d6e143c608c448e1ae2de6b47bd563539c511680e74d5d179a2ac01929fe2a6/i-img1200x1200-17909246825162nisu4f5521.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+    }
+  },
+  {
+    "id": "source-9bf63f8a5cfaddeeef0d1e5208cb809b",
+    "title": "【中古】Fate/EXTRA コミック 1-4巻セット (カドカワコミックス・エース)",
+    "category": "漫画套装",
+    "majorClass": "书籍",
+    "series": "Fate/EXTRA",
+    "productType": "漫画套装",
+    "productLine": "Fate/EXTRA 漫画",
+    "wave": "1–4",
+    "event": "",
+    "summary": "《Fate/EXTRA》漫画第1至4卷的二手卖家捆绑套装，条目按这四卷记录。",
+    "kind": "set",
+    "saleForm": "seller_lot",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/EXTRA",
+      "漫画",
+      "1–4卷",
+      "二手套装"
+    ],
+    "characters": [],
+    "image": "https://assets.mercari-shops-static.com/-/large/plain/2JXZwgxsr9zHNDnktPnLs2.jpg@jpg",
+    "images": [
+      "https://assets.mercari-shops-static.com/-/large/plain/2JXZwgxsr9zHNDnktPnLs2.jpg@jpg"
+    ],
+    "imageRole": "lot_photo",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://jp.mercari.com/shops/product/wc2v2uaz5XUjSJdguKue9M"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【中古】Fate/EXTRA コミック 1-4巻セット (カドカワコミックス・エース)\",\"漫画套装\",\"书籍\",\"漫画套装\",\"commercial\",\"Fate/EXTRA\",\"\",\"Fate/EXTRA 漫画\",\"1–4\",\"set\",\"seller_lot\",\"《Fate/EXTRA》漫画第1至4卷的二手卖家捆绑套装，条目按这四卷记录。\",[\"Fate/EXTRA\",\"漫画\",\"1–4卷\",\"二手套装\"],[]]",
+      "imageUrl": "https://assets.mercari-shops-static.com/-/large/plain/2JXZwgxsr9zHNDnktPnLs2.jpg@jpg"
+    }
+  },
+  {
+    "id": "source-dbe5bd501e86bc592b827c6d9d9eb246",
+    "title": "【中古】ポスター ポスター(八つ折) サーヴァント×人類史 対照年表 「Fate/Grand Order」 TYPE-MOONエース VOL.12付録",
+    "category": "海报",
+    "majorClass": "大型周边",
+    "series": "Fate/Grand Order",
+    "productType": "海报",
+    "productLine": "TYPE-MOONエース",
+    "wave": "",
+    "event": "",
+    "summary": "《TYPE-MOONエース》Vol.12附录「从者×人类史」对照年表海报，本条目为单独出售的八折海报。",
+    "kind": "bonus",
+    "saleForm": "single",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "TYPE-MOONエース 12",
+      "年表",
+      "海报",
+      "杂志附录"
+    ],
+    "characters": [],
+    "image": "https://assets.mercari-shops-static.com/-/large/plain/dCc6AtKJL56g8GpzxvC7HR.webp@jpg",
+    "images": [
+      "https://assets.mercari-shops-static.com/-/large/plain/dCc6AtKJL56g8GpzxvC7HR.webp@jpg",
+      "https://assets.mercari-shops-static.com/-/small/plain/dCc6AtKJL56g8GpzxvC7HR.webp@webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://jp.mercari.com/shops/product/S8tvrhXyxJukt5vvNG2Zrd"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【中古】ポスター ポスター(八つ折) サーヴァント×人類史 対照年表 「Fate/Grand Order」 TYPE-MOONエース VOL.12付録\",\"海报\",\"大型周边\",\"海报\",\"commercial\",\"Fate/Grand Order\",\"\",\"TYPE-MOONエース\",\"\",\"bonus\",\"single\",\"《TYPE-MOONエース》Vol.12附录「从者×人类史」对照年表海报，本条目为单独出售的八折海报。\",[\"Fate/Grand Order\",\"TYPE-MOONエース 12\",\"年表\",\"海报\",\"杂志附录\"],[]]",
+      "imageUrl": "https://assets.mercari-shops-static.com/-/large/plain/dCc6AtKJL56g8GpzxvC7HR.webp@jpg"
+    }
+  },
+  {
+    "id": "source-afd19cbecceb485eaece81f4fb5db9fe",
+    "title": "【特典】Fate/Grand Order -Epic of Remnant- 亜種特異点4 禁忌降臨庭園 セイレム 異端なるセイレム (4) (書籍)[一迅社]《在庫切れ》",
+    "category": "漫画",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "漫画",
+    "productLine": "異端なるセイレム",
+    "wave": "4",
+    "event": "",
+    "summary": "FGO「异端的塞勒姆」漫画第4卷，本零售版本附赠留言纸特典。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2021-07-27",
+    "isbn": "9784758069366",
+    "jan": "9784758069366",
+    "tags": [
+      "Fate/Grand Order",
+      "Epic of Remnant",
+      "塞勒姆",
+      "漫画",
+      "特典留言纸"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022187.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/213/MED-BOOK-022187.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-022187"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】Fate/Grand Order -Epic of Remnant- 亜種特異点4 禁忌降臨庭園 セイレム 異端なるセイレム (4) (書籍)[一迅社]《在庫切れ》\",\"漫画\",\"书籍\",\"漫画\",\"commercial\",\"Fate/Grand Order\",\"\",\"異端なるセイレム\",\"4\",\"base\",\"single\",\"FGO「异端的塞勒姆」漫画第4卷，本零售版本附赠留言纸特典。\",[\"Fate/Grand Order\",\"Epic of Remnant\",\"塞勒姆\",\"漫画\",\"特典留言纸\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022187.jpg"
+    }
+  },
+  {
+    "id": "source-5ff020dceea056295b05ef6afd657528",
+    "title": "【特典】Fate/Grand Order -Epic of Remnant- 亜種特異点4 禁忌降臨庭園 セイレム 異端なるセイレム (6) (書籍)[一迅社]《在庫切れ》",
+    "category": "漫画",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "漫画",
+    "productLine": "異端なるセイレム",
+    "wave": "6",
+    "event": "",
+    "summary": "FGO「异端的塞勒姆」漫画第6卷，本零售版本附赠纸类特典。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2023-03-27",
+    "isbn": "9784758083997",
+    "jan": "9784758083997",
+    "tags": [
+      "Fate/Grand Order",
+      "Epic of Remnant",
+      "塞勒姆",
+      "漫画",
+      "购书特典"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/231/MED-BOOK-031639.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/231/MED-BOOK-031639.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-031639"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】Fate/Grand Order -Epic of Remnant- 亜種特異点4 禁忌降臨庭園 セイレム 異端なるセイレム (6) (書籍)[一迅社]《在庫切れ》\",\"漫画\",\"书籍\",\"漫画\",\"commercial\",\"Fate/Grand Order\",\"\",\"異端なるセイレム\",\"6\",\"base\",\"single\",\"FGO「异端的塞勒姆」漫画第6卷，本零售版本附赠纸类特典。\",[\"Fate/Grand Order\",\"Epic of Remnant\",\"塞勒姆\",\"漫画\",\"购书特典\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/231/MED-BOOK-031639.jpg"
+    }
+  },
+  {
+    "id": "source-32f9936e9010e751c8769879600961c0",
+    "title": "【特典】Fate/Grand Order -Epic of Remnant- 亜種特異点IV 禁忌降臨庭園 セイレム 異端なるセイレム(5) (書籍)[一迅社]《在庫切れ》",
+    "category": "漫画",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "漫画",
+    "productLine": "異端なるセイレム",
+    "wave": "5",
+    "event": "",
+    "summary": "FGO「异端的塞勒姆」漫画第5卷，本零售版本附赠留言纸特典。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2022-04-27",
+    "isbn": "9784758069748",
+    "jan": "9784758069748",
+    "tags": [
+      "Fate/Grand Order",
+      "Epic of Remnant",
+      "塞勒姆",
+      "漫画",
+      "购书特典",
+      "特典留言纸"
+    ],
+    "characters": [],
+    "image": "https://shop.r10s.jp/book/cabinet/9748/9784758069748_1_3.jpg",
+    "images": [
+      "https://shop.r10s.jp/book/cabinet/9748/9784758069748_1_3.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-027573",
+        "https://books.rakuten.co.jp/rb/17061804/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】Fate/Grand Order -Epic of Remnant- 亜種特異点IV 禁忌降臨庭園 セイレム 異端なるセイレム(5) (書籍)[一迅社]《在庫切れ》\",\"漫画\",\"书籍\",\"漫画\",\"commercial\",\"Fate/Grand Order\",\"\",\"異端なるセイレム\",\"5\",\"base\",\"single\",\"FGO「异端的塞勒姆」漫画第5卷，本零售版本附赠留言纸特典。\",[\"Fate/Grand Order\",\"Epic of Remnant\",\"塞勒姆\",\"漫画\",\"购书特典\",\"特典留言纸\"],[]]",
+      "imageUrl": "https://shop.r10s.jp/book/cabinet/9748/9784758069748_1_3.jpg"
+    }
+  },
+  {
+    "id": "source-6f4adf5c62ee458975733421937ce561",
+    "title": "【特典】Fate/Grand Order ―mortalis:stella― 3 (書籍)[一迅社]《在庫切れ》",
+    "category": "漫画",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "漫画",
+    "productLine": "mortalis:stella",
+    "wave": "3",
+    "event": "",
+    "summary": "白峰作画的FGO漫画mortalis:stella第3卷，本零售版本附插画卡片特典。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2021-08-25",
+    "isbn": "9784758036467",
+    "jan": "9784758036467",
+    "tags": [
+      "Fate/Grand Order",
+      "mortalis:stella",
+      "白峰",
+      "漫画",
+      "插画卡特典"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022856.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/213/MED-BOOK-022856.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-022856"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】Fate/Grand Order ―mortalis:stella― 3 (書籍)[一迅社]《在庫切れ》\",\"漫画\",\"书籍\",\"漫画\",\"commercial\",\"Fate/Grand Order\",\"\",\"mortalis:stella\",\"3\",\"base\",\"single\",\"白峰作画的FGO漫画mortalis:stella第3卷，本零售版本附插画卡片特典。\",[\"Fate/Grand Order\",\"mortalis:stella\",\"白峰\",\"漫画\",\"插画卡特典\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022856.jpg"
+    }
+  },
+  {
+    "id": "source-9a315cb3710d54a904e11806126c8b82",
+    "title": "【特典】Fate/Grand Order ―mortalis:stella―(5) (書籍)[一迅社]《在庫切れ》",
+    "category": "漫画",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "漫画",
+    "productLine": "mortalis:stella",
+    "wave": "5",
+    "event": "",
+    "summary": "白峰作画的FGO漫画mortalis:stella第5卷，本零售版本附赠插画卡片特典。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2025-01-27",
+    "isbn": "9784758086417",
+    "jan": "9784758086417",
+    "tags": [
+      "Fate/Grand Order",
+      "mortalis:stella",
+      "白峰",
+      "漫画",
+      "购书特典",
+      "插画卡特典"
+    ],
+    "characters": [],
+    "image": "https://shop.r10s.jp/book/cabinet/6417/9784758086417_1_3.jpg",
+    "images": [
+      "https://shop.r10s.jp/book/cabinet/6417/9784758086417_1_3.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-043948",
+        "https://books.rakuten.co.jp/rb/18068543/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】Fate/Grand Order ―mortalis:stella―(5) (書籍)[一迅社]《在庫切れ》\",\"漫画\",\"书籍\",\"漫画\",\"commercial\",\"Fate/Grand Order\",\"\",\"mortalis:stella\",\"5\",\"base\",\"single\",\"白峰作画的FGO漫画mortalis:stella第5卷，本零售版本附赠插画卡片特典。\",[\"Fate/Grand Order\",\"mortalis:stella\",\"白峰\",\"漫画\",\"购书特典\",\"插画卡特典\"],[]]",
+      "imageUrl": "https://shop.r10s.jp/book/cabinet/6417/9784758086417_1_3.jpg"
+    }
+  },
+  {
+    "id": "source-5a210d571f6d712b13297747fa9e462b",
+    "title": "【特典】氷室の天地 Fate/school life (14) (書籍)[一迅社]《在庫切れ》",
+    "category": "四格漫画",
+    "majorClass": "书籍",
+    "series": "Fate/school life 氷室の天地",
+    "productType": "四格漫画",
+    "productLine": "氷室の天地",
+    "wave": "14",
+    "event": "",
+    "summary": "磨伸映一郎创作的《冰室的天地》第14卷通常版，为Fate校园题材四格漫画，当前零售版本附留言纸。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2021-07-20",
+    "isbn": "9784758083683",
+    "jan": "9784758083683",
+    "tags": [
+      "氷室の天地",
+      "Fate/stay night",
+      "四格漫画",
+      "通常版",
+      "购书特典"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022160.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/213/MED-BOOK-022160.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-022160"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】氷室の天地 Fate/school life (14) (書籍)[一迅社]《在庫切れ》\",\"四格漫画\",\"书籍\",\"四格漫画\",\"commercial\",\"Fate/school life 氷室の天地\",\"\",\"氷室の天地\",\"14\",\"base\",\"single\",\"磨伸映一郎创作的《冰室的天地》第14卷通常版，为Fate校园题材四格漫画，当前零售版本附留言纸。\",[\"氷室の天地\",\"Fate/stay night\",\"四格漫画\",\"通常版\",\"购书特典\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022160.jpg"
+    }
+  },
+  {
+    "id": "source-46f58b6ddaf3bd37e06201f7e09efbfb",
+    "title": "【特典】氷室の天地 Fate/school life (14) 特装版 (書籍)[一迅社]《在庫切れ》",
+    "category": "四格漫画特装版",
+    "majorClass": "书籍",
+    "series": "Fate/school life 氷室の天地",
+    "productType": "四格漫画特装版",
+    "productLine": "氷室の天地",
+    "wave": "14",
+    "event": "",
+    "summary": "《冰室的天地》第14卷特装版，附登场伟人资料（た～わ行、152体插图），本零售版本另附留言纸。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2021-07-20",
+    "isbn": "9784758083690",
+    "jan": "9784758083690",
+    "tags": [
+      "氷室の天地",
+      "Fate/stay night",
+      "四格漫画",
+      "特装版",
+      "伟人资料",
+      "购书特典"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022161.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/213/MED-BOOK-022161.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-022161",
+        "https://data.ichijinsha.co.jp/detail/75808369"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】氷室の天地 Fate/school life (14) 特装版 (書籍)[一迅社]《在庫切れ》\",\"四格漫画特装版\",\"书籍\",\"四格漫画特装版\",\"commercial\",\"Fate/school life 氷室の天地\",\"\",\"氷室の天地\",\"14\",\"base\",\"single\",\"《冰室的天地》第14卷特装版，附登场伟人资料（た～わ行、152体插图），本零售版本另附留言纸。\",[\"氷室の天地\",\"Fate/stay night\",\"四格漫画\",\"特装版\",\"伟人资料\",\"购书特典\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022161.jpg"
+    }
+  },
+  {
+    "id": "source-04671639010b76cb5c27367c519f35af",
+    "title": "【特典】氷室の天地 Fate/school life (15) (書籍)[一迅社]《在庫切れ》",
+    "category": "四格漫画",
+    "majorClass": "书籍",
+    "series": "Fate/school life 氷室の天地",
+    "productType": "四格漫画",
+    "productLine": "氷室の天地",
+    "wave": "15",
+    "event": "",
+    "summary": "磨伸映一郎创作的《冰室的天地》第15卷通常版，为Fate校园题材四格漫画，本零售版本附赠留言纸。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2022-07-22",
+    "isbn": "9784758069885",
+    "jan": "9784758069885",
+    "tags": [
+      "氷室の天地",
+      "Fate/stay night",
+      "四格漫画",
+      "通常版",
+      "购书特典"
+    ],
+    "characters": [],
+    "image": "https://shop.r10s.jp/book/cabinet/9885/9784758069885_1_3.jpg",
+    "images": [
+      "https://shop.r10s.jp/book/cabinet/9885/9784758069885_1_3.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.781Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-029327",
+        "https://books.rakuten.co.jp/rb/17158597/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】氷室の天地 Fate/school life (15) (書籍)[一迅社]《在庫切れ》\",\"四格漫画\",\"书籍\",\"四格漫画\",\"commercial\",\"Fate/school life 氷室の天地\",\"\",\"氷室の天地\",\"15\",\"base\",\"single\",\"磨伸映一郎创作的《冰室的天地》第15卷通常版，为Fate校园题材四格漫画，本零售版本附赠留言纸。\",[\"氷室の天地\",\"Fate/stay night\",\"四格漫画\",\"通常版\",\"购书特典\"],[]]",
+      "imageUrl": "https://shop.r10s.jp/book/cabinet/9885/9784758069885_1_3.jpg"
+    }
+  },
+  {
+    "id": "source-6dc2db4beef9913c03aaf2f0f87ea5b2",
+    "title": "【特典】氷室の天地 Fate/school life (15) 特装版 (書籍)[一迅社]《在庫切れ》",
+    "category": "四格漫画特装版",
+    "majorClass": "书籍",
+    "series": "Fate/school life 氷室の天地",
+    "productType": "四格漫画特装版",
+    "productLine": "氷室の天地",
+    "wave": "15",
+    "event": "",
+    "summary": "《冰室的天地》第15卷特装版，附连载15周年纪念官方同人志，本零售版本另附留言纸。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2022-07-22",
+    "isbn": "9784758069892",
+    "jan": "9784758069892",
+    "tags": [
+      "氷室の天地",
+      "Fate/stay night",
+      "四格漫画",
+      "特装版",
+      "15周年",
+      "官方同人志附册",
+      "购书特典"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/223/MED-BOOK-029328.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/223/MED-BOOK-029328.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.782Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-029328",
+        "https://data.ichijinsha.co.jp/detail/75806989"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【特典】氷室の天地 Fate/school life (15) 特装版 (書籍)[一迅社]《在庫切れ》\",\"四格漫画特装版\",\"书籍\",\"四格漫画特装版\",\"commercial\",\"Fate/school life 氷室の天地\",\"\",\"氷室の天地\",\"15\",\"base\",\"single\",\"《冰室的天地》第15卷特装版，附连载15周年纪念官方同人志，本零售版本另附留言纸。\",[\"氷室の天地\",\"Fate/stay night\",\"四格漫画\",\"特装版\",\"15周年\",\"官方同人志附册\",\"购书特典\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/223/MED-BOOK-029328.jpg"
+    }
+  },
+  {
+    "id": "source-00e5bfaf1b82e1a27454486262805cf1",
+    "title": "【漫画】 Fate/kaleid・liner・プリズマ☆イリヤ・ドライ (既巻セット)[角川書店]《在庫切れ》",
+    "category": "漫画既刊套装",
+    "majorClass": "书籍",
+    "series": "Fate/kaleid liner プリズマ☆イリヤ",
+    "productType": "漫画既刊套装",
+    "productLine": "プリズマ☆イリヤ ドライ!!",
+    "wave": "",
+    "event": "",
+    "summary": "《プリズマ☆イリヤ ドライ!!》漫画的零售既刊捆绑套装，原页面未明确当前包含卷数，尚不能视为完结全套。封面采用该系列第1卷的官方参考图。",
+    "kind": "set",
+    "saleForm": "seller_lot",
+    "releaseDate": "発売済",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/kaleid liner プリズマ☆イリヤ",
+      "漫画",
+      "既刊套装"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/201202/201202000516.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/201202/201202000516.webp"
+    ],
+    "imageRole": "catalogue_reference",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-22T14:47:03.782Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=BZEN-00584",
+        "https://www.kadokawa.co.jp/product/201202000516/"
+      ],
+      "unresolved": [
+        "原零售页面未列出套装的确切起止卷数，待确认成员。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【漫画】 Fate/kaleid・liner・プリズマ☆イリヤ・ドライ (既巻セット)[角川書店]《在庫切れ》\",\"漫画既刊套装\",\"书籍\",\"漫画既刊套装\",\"commercial\",\"Fate/kaleid liner プリズマ☆イリヤ\",\"\",\"プリズマ☆イリヤ ドライ!!\",\"\",\"set\",\"seller_lot\",\"《プリズマ☆イリヤ ドライ!!》漫画的零售既刊捆绑套装，原页面未明确当前包含卷数，尚不能视为完结全套。封面采用该系列第1卷的官方参考图。\",[\"Fate/kaleid liner プリズマ☆イリヤ\",\"漫画\",\"既刊套装\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/201202/201202000516.webp"
+    }
+  },
+  {
+    "id": "source-e74bb29c09f1f24fab5a1ade8547689d",
+    "title": "【漫画】 プリズマ☆イリヤ (既巻セット)[角川書店]《在庫切れ》",
+    "category": "漫画既刊套装",
+    "majorClass": "书籍",
+    "series": "Fate/kaleid liner プリズマ☆イリヤ",
+    "productType": "漫画既刊套装",
+    "productLine": "プリズマ☆イリヤ",
+    "wave": "",
+    "event": "",
+    "summary": "《プリズマ☆イリヤ》漫画的零售既刊捆绑套装，原页面未明确当前包含卷数，尚不能视为完结全套。封面采用该系列第1卷的官方参考图。",
+    "kind": "set",
+    "saleForm": "seller_lot",
+    "releaseDate": "発売済",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/kaleid liner プリズマ☆イリヤ",
+      "漫画",
+      "既刊套装"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/200712/200712000305.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/200712/200712000305.webp"
+    ],
+    "imageRole": "catalogue_reference",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-22T14:47:03.782Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=BZEN-00582",
+        "https://www.kadokawa.co.jp/product/200712000305/"
+      ],
+      "unresolved": [
+        "原零售页面未列出套装的确切起止卷数，待确认成员。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【漫画】 プリズマ☆イリヤ (既巻セット)[角川書店]《在庫切れ》\",\"漫画既刊套装\",\"书籍\",\"漫画既刊套装\",\"commercial\",\"Fate/kaleid liner プリズマ☆イリヤ\",\"\",\"プリズマ☆イリヤ\",\"\",\"set\",\"seller_lot\",\"《プリズマ☆イリヤ》漫画的零售既刊捆绑套装，原页面未明确当前包含卷数，尚不能视为完结全套。封面采用该系列第1卷的官方参考图。\",[\"Fate/kaleid liner プリズマ☆イリヤ\",\"漫画\",\"既刊套装\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/200712/200712000305.webp"
+    }
+  },
+  {
+    "id": "source-5c503584ef51e17c8bf58c62ce21acf7",
+    "title": "【漫画】Fate/stay night (既巻セット)[角川書店]《在庫切れ》",
+    "category": "漫画既刊套装",
+    "majorClass": "书籍",
+    "series": "Fate/stay night",
+    "productType": "漫画既刊套装",
+    "productLine": "Fate/stay night 漫画",
+    "wave": "",
+    "event": "",
+    "summary": "《Fate/stay night 漫画》漫画的零售既刊捆绑套装，原页面未明确当前包含卷数，尚不能视为完结全套。封面采用零售商提供的第1卷参考图。",
+    "kind": "set",
+    "saleForm": "seller_lot",
+    "releaseDate": "発売済",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/stay night",
+      "漫画",
+      "既刊套装"
+    ],
+    "characters": [],
+    "image": "https://img.amiami.jp/images/product/main/101/BZEN-00191.jpg",
+    "images": [
+      "https://img.amiami.jp/images/product/main/101/BZEN-00191.jpg"
+    ],
+    "imageRole": "catalogue_reference",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-22T14:47:03.782Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=BZEN-00191"
+      ],
+      "unresolved": [
+        "原零售页面未列出套装的确切起止卷数，待确认成员。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【漫画】Fate/stay night (既巻セット)[角川書店]《在庫切れ》\",\"漫画既刊套装\",\"书籍\",\"漫画既刊套装\",\"commercial\",\"Fate/stay night\",\"\",\"Fate/stay night 漫画\",\"\",\"set\",\"seller_lot\",\"《Fate/stay night 漫画》漫画的零售既刊捆绑套装，原页面未明确当前包含卷数，尚不能视为完结全套。封面采用零售商提供的第1卷参考图。\",[\"Fate/stay night\",\"漫画\",\"既刊套装\"],[]]",
+      "imageUrl": "https://img.amiami.jp/images/product/main/101/BZEN-00191.jpg"
+    }
+  },
+  {
+    "id": "source-81f8d12efb1531d6fa0e65e49ad6f5e8",
+    "title": "【漫画】プリズマ☆イリヤ ツヴァイ! (既巻セット)[角川書店]《在庫切れ》",
+    "category": "漫画既刊套装",
+    "majorClass": "书籍",
+    "series": "Fate/kaleid liner プリズマ☆イリヤ",
+    "productType": "漫画既刊套装",
+    "productLine": "プリズマ☆イリヤ ツヴァイ!",
+    "wave": "",
+    "event": "",
+    "summary": "《プリズマ☆イリヤ ツヴァイ!》漫画的零售既刊捆绑套装，原页面未明确当前包含卷数，尚不能视为完结全套。封面采用该系列第1卷的官方参考图。",
+    "kind": "set",
+    "saleForm": "seller_lot",
+    "releaseDate": "発売済",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/kaleid liner プリズマ☆イリヤ",
+      "漫画",
+      "既刊套装"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/200908/200908000446.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/200908/200908000446.webp"
+    ],
+    "imageRole": "catalogue_reference",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-22T14:47:03.782Z",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=BZEN-00583",
+        "https://www.kadokawa.co.jp/product/200908000446/"
+      ],
+      "unresolved": [
+        "原零售页面未列出套装的确切起止卷数，待确认成员。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"【漫画】プリズマ☆イリヤ ツヴァイ! (既巻セット)[角川書店]《在庫切れ》\",\"漫画既刊套装\",\"书籍\",\"漫画既刊套装\",\"commercial\",\"Fate/kaleid liner プリズマ☆イリヤ\",\"\",\"プリズマ☆イリヤ ツヴァイ!\",\"\",\"set\",\"seller_lot\",\"《プリズマ☆イリヤ ツヴァイ!》漫画的零售既刊捆绑套装，原页面未明确当前包含卷数，尚不能视为完结全套。封面采用该系列第1卷的官方参考图。\",[\"Fate/kaleid liner プリズマ☆イリヤ\",\"漫画\",\"既刊套装\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/200908/200908000446.webp"
+    }
+  },
+  {
+    "id": "952e3e90-c625-4580-85b7-a8145c252861",
+    "title": "/メディアファクトリー TYPE MOON Fate/Grand Order クリエイターコンテスト2024 pixiv COLLECTION",
+    "category": "插画选集",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "插画选集",
+    "productLine": "クリエイターコンテスト2024 pixiv COLLECTION",
+    "wave": "",
+    "event": "FGO クリエイターコンテスト2024",
+    "summary": "由KADOKAWA出版的FGO创作者大赛2024作品选集，汇集pixiv参赛创作，属于商业出版插画集。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2024-09-26",
+    "isbn": "9784046836885",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "pixiv",
+      "KADOKAWA",
+      "插画选集",
+      "创作者大赛2024"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/322402/322402001505.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/322402/322402001505.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.782Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/322402001505/",
+        "https://www.pixiv.co.jp/2024/09/26/120000"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"/メディアファクトリー TYPE MOON Fate/Grand Order クリエイターコンテスト2024 pixiv COLLECTION\",\"插画选集\",\"书籍\",\"插画选集\",\"commercial\",\"Fate/Grand Order\",\"FGO クリエイターコンテスト2024\",\"クリエイターコンテスト2024 pixiv COLLECTION\",\"\",\"base\",\"single\",\"由KADOKAWA出版的FGO创作者大赛2024作品选集，汇集pixiv参赛创作，属于商业出版插画集。\",[\"Fate/Grand Order\",\"pixiv\",\"KADOKAWA\",\"插画选集\",\"创作者大赛2024\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/322402/322402001505.webp"
+    }
+  },
+  {
+    "id": "source-8b524f19b31de4d6646bf5767f7d06bc",
+    "title": "|6395|Fate/Grand Order Orchestra Concert-Live Album アマゾン限定マイクロファイバータオル・色紙・パンフレット・チラシ セット FGO",
+    "category": "音乐CD套装",
+    "majorClass": "影像",
+    "series": "Fate/Grand Order",
+    "productType": "音乐CD套装",
+    "productLine": "Orchestra Concert Live Album",
+    "wave": "",
+    "event": "Fate/Grand Order Orchestra Concert",
+    "summary": "FGO交响音乐会现场专辑CD与Amazon限定毛巾、色纸、节目册及传单组成的二手卖家套装。",
+    "kind": "set",
+    "saleForm": "seller_lot",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "Orchestra Concert",
+      "现场专辑",
+      "CD",
+      "二手套装",
+      "Amazon特典"
+    ],
+    "characters": [],
+    "image": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/8adff131097562208b061cd956ba130c56d6ad67d62f87f2f7c80ee5b2c10974/i-img1200x1200-17881594046434axsqny35.jpg",
+    "images": [
+      "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/8adff131097562208b061cd956ba130c56d6ad67d62f87f2f7c80ee5b2c10974/i-img1200x1200-17881594046434axsqny35.jpg"
+    ],
+    "imageRole": "lot_photo",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.782Z",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/r1242732093"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"|6395|Fate/Grand Order Orchestra Concert-Live Album アマゾン限定マイクロファイバータオル・色紙・パンフレット・チラシ セット FGO\",\"音乐CD套装\",\"影像\",\"音乐CD套装\",\"commercial\",\"Fate/Grand Order\",\"Fate/Grand Order Orchestra Concert\",\"Orchestra Concert Live Album\",\"\",\"set\",\"seller_lot\",\"FGO交响音乐会现场专辑CD与Amazon限定毛巾、色纸、节目册及传单组成的二手卖家套装。\",[\"Fate/Grand Order\",\"Orchestra Concert\",\"现场专辑\",\"CD\",\"二手套装\",\"Amazon特典\"],[]]",
+      "imageUrl": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/8adff131097562208b061cd956ba130c56d6ad67d62f87f2f7c80ee5b2c10974/i-img1200x1200-17881594046434axsqny35.jpg"
+    }
+  },
+  {
+    "id": "source-95d383f96e11b85789bdc10602b0aeb5",
+    "title": "▼ 【画集 愛 -ワダアルコ Fate ART WORKS- TYPE-MOON 2022年】229-02609",
+    "category": "画师画集",
+    "majorClass": "书籍",
+    "series": "Fate",
+    "productType": "画师画集",
+    "productLine": "愛 -ワダアルコ Fate ART WORKS-",
+    "wave": "",
+    "event": "",
+    "summary": "2022年出版的《爱—Wada Arco Fate ART WORKS—》画集，汇集Wada Arco为Fate系列创作的插画。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate",
+      "ワダアルコ",
+      "Wada Arco",
+      "画集",
+      "TYPE-MOON"
+    ],
+    "characters": [],
+    "image": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/167d4fac9334ee6f82e1f14646412310910bf75a2868999786c7fe20aa6ac412/i-img800x600-17896996972794ehe6rc35.jpg",
+    "images": [
+      "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/167d4fac9334ee6f82e1f14646412310910bf75a2868999786c7fe20aa6ac412/i-img800x600-17896996972794ehe6rc35.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.782Z",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/1245077903"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"▼ 【画集 愛 -ワダアルコ Fate ART WORKS- TYPE-MOON 2022年】229-02609\",\"画师画集\",\"书籍\",\"画师画集\",\"commercial\",\"Fate\",\"\",\"愛 -ワダアルコ Fate ART WORKS-\",\"\",\"base\",\"single\",\"2022年出版的《爱—Wada Arco Fate ART WORKS—》画集，汇集Wada Arco为Fate系列创作的插画。\",[\"Fate\",\"ワダアルコ\",\"Wada Arco\",\"画集\",\"TYPE-MOON\"],[]]",
+      "imageUrl": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/167d4fac9334ee6f82e1f14646412310910bf75a2868999786c7fe20aa6ac412/i-img800x600-17896996972794ehe6rc35.jpg"
+    }
+  },
+  {
+    "id": "bd1d6474-101a-436d-9382-54c4c9c673ce",
+    "title": "☆Fate/EXTELLA コミックアンソロジー",
+    "category": "商业漫画选集",
+    "majorClass": "书籍",
+    "series": "Fate/EXTELLA",
+    "productType": "商业漫画选集",
+    "productLine": "Fate/EXTELLA コミックアンソロジー",
+    "wave": "",
+    "event": "",
+    "summary": "一迅社出版的《Fate/EXTELLA》商业漫画选集，收录围绕该游戏创作的多作者短篇漫画。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2017-03-04",
+    "isbn": "9784758009416",
+    "jan": "",
+    "tags": [
+      "Fate/EXTELLA",
+      "一迅社",
+      "漫画选集",
+      "商业出版"
+    ],
+    "characters": [],
+    "image": "https://img.mandarake.co.jp/webshopimg/01/00/945/0100651945/s_01006519451.jpg",
+    "images": [
+      "https://img.mandarake.co.jp/webshopimg/01/00/945/0100651945/s_01006519451.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.783Z",
+      "sources": [
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1344140030&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+        "https://data.ichijinsha.co.jp/detail/75800941"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"☆Fate/EXTELLA コミックアンソロジー\",\"商业漫画选集\",\"书籍\",\"商业漫画选集\",\"commercial\",\"Fate/EXTELLA\",\"\",\"Fate/EXTELLA コミックアンソロジー\",\"\",\"base\",\"single\",\"一迅社出版的《Fate/EXTELLA》商业漫画选集，收录围绕该游戏创作的多作者短篇漫画。\",[\"Fate/EXTELLA\",\"一迅社\",\"漫画选集\",\"商业出版\"],[]]",
+      "imageUrl": "https://img.mandarake.co.jp/webshopimg/01/00/945/0100651945/s_01006519451.jpg"
+    }
+  },
+  {
+    "id": "source-f017914f4a938c9cf6ea83a8cb77bd61",
+    "title": "☆Fate/Prototype Tribute Phantasm",
+    "category": "插画漫画选集",
+    "majorClass": "书籍",
+    "series": "Fate/Prototype",
+    "productType": "插画漫画选集",
+    "productLine": "Fate/Prototype Tribute Phantasm",
+    "wave": "",
+    "event": "",
+    "summary": "角川出版的《Fate/Prototype Tribute Phantasm》，是围绕Fate/Prototype创作的插画与漫画作品选集。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2012-08-07",
+    "isbn": "9784041203934",
+    "jan": "",
+    "tags": [
+      "Fate/Prototype",
+      "角川",
+      "插画",
+      "漫画选集",
+      "商业出版"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/321205/321205000128.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/321205/321205000128.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.783Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321205000128/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"☆Fate/Prototype Tribute Phantasm\",\"插画漫画选集\",\"书籍\",\"插画漫画选集\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype Tribute Phantasm\",\"\",\"base\",\"single\",\"角川出版的《Fate/Prototype Tribute Phantasm》，是围绕Fate/Prototype创作的插画与漫画作品选集。\",[\"Fate/Prototype\",\"角川\",\"插画\",\"漫画选集\",\"商业出版\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321205/321205000128.webp"
+    }
+  },
+  {
+    "id": "8e5a9df7-9a2d-4f1f-a2e2-ad8ac87328cc",
+    "title": "2021年(令和3年)のアニメ雑誌 付録つき Newtype 2021年(令和3年)07月号付録 2107",
+    "category": "書籍",
+    "majorClass": "书籍",
+    "series": "TYPE-MOON",
+    "productType": "杂志／附录待确认",
+    "productLine": "Newtype",
+    "wave": "2021-07",
+    "event": "",
+    "summary": "与Newtype 2021年7月号及其FGO卡美洛专题相关的二手条目，尚需核实出售的是整本杂志还是仅附录。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Newtype",
+      "2021年7月号",
+      "Fate/Grand Order",
+      "卡美洛"
+    ],
+    "characters": [],
+    "image": "https://img.mandarake.co.jp/webshopimg/01/01/945/0101503945/s_01015039452.jpg",
+    "images": [
+      "https://img.mandarake.co.jp/webshopimg/01/01/945/0101503945/s_01015039452.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-22T14:47:03.783Z",
+      "sources": [
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349342721&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+        "https://www.neowing.co.jp/product/NEOBK-2541177"
+      ],
+      "unresolved": [
+        "二手标题含“07月号付録”，整本杂志与单独附录的销售范围不明确。",
+        "分类仍有歧义，待确认实际销售内容。"
+      ],
+      "checks": {
+        "classification": false,
+        "context": false,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"2021年(令和3年)のアニメ雑誌 付録つき Newtype 2021年(令和3年)07月号付録 2107\",\"書籍\",\"书籍\",\"杂志／附录待确认\",\"commercial\",\"TYPE-MOON\",\"\",\"Newtype\",\"2021-07\",\"base\",\"single\",\"与Newtype 2021年7月号及其FGO卡美洛专题相关的二手条目，尚需核实出售的是整本杂志还是仅附录。\",[\"Newtype\",\"2021年7月号\",\"Fate/Grand Order\",\"卡美洛\"],[]]",
+      "imageUrl": "https://img.mandarake.co.jp/webshopimg/01/01/945/0101503945/s_01015039452.jpg"
+    }
+  },
+  {
+    "id": "49a91557-4ef1-4703-858e-10e3c6a7980c",
+    "title": "7章しおり欠)劇場版空の境界パンフレット",
+    "category": "电影场刊",
+    "majorClass": "书籍",
+    "series": "空の境界",
+    "productType": "电影场刊",
+    "productLine": "劇場版 空の境界 パンフレット",
+    "wave": "",
+    "event": "",
+    "summary": "《剧场版空之境界》电影场刊二手条目，卖家注明第七章书签缺失，所含场刊册数仍待确认。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "空の境界",
+      "电影场刊",
+      "第七章",
+      "书签缺失"
+    ],
+    "characters": [],
+    "image": "https://img.mandarake.co.jp/webshopimg/04/00/045/0400042045/s_04000420450.jpg",
+    "images": [
+      "https://img.mandarake.co.jp/webshopimg/04/00/045/0400042045/s_04000420450.jpg"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-22T14:47:03.783Z",
+      "sources": [
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1099109751&ref=list&dispCount=240&categoryCode=01&keyword=TYPE-MOON"
+      ],
+      "unresolved": [
+        "标题明确第七章书签缺失，但现有来源不足以确认场刊的册数与章节范围。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"7章しおり欠)劇場版空の境界パンフレット\",\"电影场刊\",\"书籍\",\"电影场刊\",\"commercial\",\"空の境界\",\"\",\"劇場版 空の境界 パンフレット\",\"\",\"base\",\"single\",\"《剧场版空之境界》电影场刊二手条目，卖家注明第七章书签缺失，所含场刊册数仍待确认。\",[\"空の境界\",\"电影场刊\",\"第七章\",\"书签缺失\"],[]]",
+      "imageUrl": "https://img.mandarake.co.jp/webshopimg/04/00/045/0400042045/s_04000420450.jpg"
+    }
+  },
+  {
+    "id": "9a55f6b6-23ed-4fc3-9ff8-9cf7f3bc86f0",
+    "title": "9th Anniversary FGO Expo Fate/Grand Order Fes.2024 OFFICIAL GUIDE BOOK",
+    "category": "活动场刊",
+    "majorClass": "书籍",
+    "series": "Fate/Grand Order",
+    "productType": "活动场刊",
+    "productLine": "FGO Expo OFFICIAL GUIDE BOOK",
+    "wave": "",
+    "event": "FGO Expo 2024 ～9th Anniversary～",
+    "summary": "FGO Expo 2024九周年活动的官方指南场刊，用于介绍当届会场与展区内容。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2024-08-03",
+    "isbn": "",
+    "jan": "",
+    "tags": [
+      "Fate/Grand Order",
+      "FGO Expo 2024",
+      "9周年",
+      "活动场刊"
+    ],
+    "characters": [],
+    "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/185264866.jpg.webp",
+    "images": [
+      "https://cdn.suruga-ya.jp/database/pics_webp/game/185264866.jpg.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.783Z",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/185264866"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"9th Anniversary FGO Expo Fate/Grand Order Fes.2024 OFFICIAL GUIDE BOOK\",\"活动场刊\",\"书籍\",\"活动场刊\",\"commercial\",\"Fate/Grand Order\",\"FGO Expo 2024 ～9th Anniversary～\",\"FGO Expo OFFICIAL GUIDE BOOK\",\"\",\"base\",\"single\",\"FGO Expo 2024九周年活动的官方指南场刊，用于介绍当届会场与展区内容。\",[\"Fate/Grand Order\",\"FGO Expo 2024\",\"9周年\",\"活动场刊\"],[]]",
+      "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/185264866.jpg.webp"
+    }
+  },
+  {
+    "id": "source-07ccc2816ba5ced260921c96d221411f",
+    "title": "ALL AROUND TYPE-MOON~アーネンエルベの日常~",
+    "category": "漫画",
+    "majorClass": "书籍",
+    "series": "TYPE-MOON",
+    "productType": "漫画",
+    "productLine": "ALL AROUND TYPE-MOON",
+    "wave": "",
+    "event": "",
+    "summary": "《ALL AROUND TYPE-MOON アーネンエルベ的日常》是以TYPE-MOON多部作品角色共演为主题的漫画单行本。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2010-01-07",
+    "isbn": "9784047153554",
+    "jan": "",
+    "tags": [
+      "TYPE-MOON",
+      "ALL AROUND TYPE-MOON",
+      "跨作品",
+      "漫画",
+      "月姫",
+      "Fate",
+      "空の境界"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/200908/200908000445.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/200908/200908000445.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.783Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200908000445/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"ALL AROUND TYPE-MOON~アーネンエルベの日常~\",\"漫画\",\"书籍\",\"漫画\",\"commercial\",\"TYPE-MOON\",\"\",\"ALL AROUND TYPE-MOON\",\"\",\"base\",\"single\",\"《ALL AROUND TYPE-MOON アーネンエルベ的日常》是以TYPE-MOON多部作品角色共演为主题的漫画单行本。\",[\"TYPE-MOON\",\"ALL AROUND TYPE-MOON\",\"跨作品\",\"漫画\",\"月姫\",\"Fate\",\"空の境界\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/200908/200908000445.webp"
+    }
+  },
+  {
+    "id": "source-e2bcaff15bff96dd942ac06f1f573c3f",
+    "title": "ALL AROUND TYPE‐MOON~アーネンエルベ狂詩曲~",
+    "category": "漫画",
+    "majorClass": "书籍",
+    "series": "TYPE-MOON",
+    "productType": "漫画",
+    "productLine": "ALL AROUND TYPE-MOON",
+    "wave": "",
+    "event": "",
+    "summary": "《ALL AROUND TYPE-MOON アーネンエルベ狂诗曲》是集合TYPE-MOON多部作品角色的跨作品漫画单行本。",
+    "kind": "base",
+    "saleForm": "single",
+    "releaseDate": "2012-09-29",
+    "isbn": "9784041203989",
+    "jan": "",
+    "tags": [
+      "TYPE-MOON",
+      "ALL AROUND TYPE-MOON",
+      "跨作品",
+      "漫画",
+      "月姫",
+      "Fate",
+      "空の境界"
+    ],
+    "characters": [],
+    "image": "https://cdn.kdkw.jp/cover_1000/321205/321205000101.webp",
+    "images": [
+      "https://cdn.kdkw.jp/cover_1000/321205/321205000101.webp"
+    ],
+    "imageRole": "product",
+    "editorial": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-22T14:47:03.784Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321205000101/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"ALL AROUND TYPE‐MOON~アーネンエルベ狂詩曲~\",\"漫画\",\"书籍\",\"漫画\",\"commercial\",\"TYPE-MOON\",\"\",\"ALL AROUND TYPE-MOON\",\"\",\"base\",\"single\",\"《ALL AROUND TYPE-MOON アーネンエルベ狂诗曲》是集合TYPE-MOON多部作品角色的跨作品漫画单行本。\",[\"TYPE-MOON\",\"ALL AROUND TYPE-MOON\",\"跨作品\",\"漫画\",\"月姫\",\"Fate\",\"空の境界\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321205/321205000101.webp"
+    }
+  }
+]

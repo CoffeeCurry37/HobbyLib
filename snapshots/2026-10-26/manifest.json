@@ -1,0 +1,39 @@
+{
+  "snapshotDate": "2026-10-26",
+  "exportedAt": "2026-10-26T05:39:56.738Z",
+  "formatVersion": 9,
+  "sourceSite": "https://collector-radar.martainjonn.chatgpt.site",
+  "sourceVersion": 64,
+  "sourceCommit": "6357bd5f020415c17652bf2bdfdbd26130bdac17",
+  "activeProducts": 35020,
+  "archivedProducts": 8549,
+  "doujinProducts": 19209,
+  "relations": 1835,
+  "ownedProducts": 3,
+  "notices": 0,
+  "scans": 100,
+  "editorialQueue": 15811,
+  "savedReviewCounts": {
+    "verified": 310,
+    "partial": 42,
+    "archived": 1,
+    "pending": 15458
+  },
+  "liveStoredReviewCounts": {
+    "verified": 310,
+    "partial": 42,
+    "archived": 1,
+    "pending": 15458
+  },
+  "nextUnstartedOrdinal": 91,
+  "rawBytes": 227914590,
+  "gzipBytes": 21323668,
+  "rawSha256": "adc8840c46c1e68098d14e03d91a104e836b755d41e403ca71e7fc16dafb1f7b",
+  "gzipSha256": "472d2641e4d9a2ba566b353c9fc94382a221b7185276de88d586d53f8e12b4ff",
+  "validation": {
+    "uniqueProductIds": true,
+    "relationEndpointsExist": true,
+    "originalReviewQueuePreserved": true
+  },
+  "secretLikePreferenceKeys": []
+}

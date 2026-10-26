@@ -1,0 +1,14 @@
+services:
+  radar:
+    build:
+      context: .
+      dockerfile: Dockerfile.standalone
+    restart: unless-stopped
+    user: "${RADAR_UID:-1000}:${RADAR_GID:-1000}"
+    environment:
+      RADAR_PASSWORD: ${RADAR_PASSWORD:?Set a password with at least 16 characters}
+      RADAR_ORIGIN: ${RADAR_ORIGIN:-http://localhost:8080}
+    ports:
+      - "127.0.0.1:8080:8080"
+    volumes:
+      - ./data:/data

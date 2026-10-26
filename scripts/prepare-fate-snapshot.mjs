@@ -1,0 +1,19 @@
+import ts from 'typescript';import{readFileSync,writeFileSync,readdirSync,mkdirSync,mkdtempSync,rmSync}from'node:fs';import{createRequire}from'node:module';import{join}from'node:path';import{tmpdir}from'node:os';import{createHash}from'node:crypto';
+const dir=mkdtempSync(join(tmpdir(),'radar-fate-prepare-'));
+try{
+ for(const f of readdirSync('lib/radar').filter(x=>x.endsWith('.ts')))writeFileSync(join(dir,f.replace('.ts','.cjs')),ts.transpileModule(readFileSync('lib/radar/'+f,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022,esModuleInterop:true}}).outputText.replace(/require\("(?:\.\/|@\/lib\/radar\/)([\w-]+)"\)/g,'require("./$1.cjs")'));
+ for(const f of readdirSync('lib/radar').filter(f=>f.endsWith('.json')))writeFileSync(join(dir,f),readFileSync('lib/radar/'+f));
+ const require=createRequire(import.meta.url),{createItem}=require(join(dir,'engine.cjs')),{applyMetadata}=require(join(dir,'metadata.cjs')),{DEFAULT_PREFS}=require(join(dir,'types.cjs')),{inferredPath}=require(join(dir,'taxonomy.cjs'));
+ const raw=readFileSync('lib/radar/fate-crawl-audit.json','utf8'),audit=JSON.parse(raw),id='fate-'+createHash('sha256').update(raw).digest('hex').slice(0,16),products=[],excluded=[],pending=[];
+ for(const original of audit.items){const p=structuredClone(original);delete p.path;let item=createItem(p.title,p.description,p.offer,DEFAULT_PREFS,p.image);if(p.facts)item=applyMetadata(item,p.facts,p.offer.url);const path=inferredPath(item);if(p.facts?.year&&!/^(?:19|20)\d{2}$/.test(p.facts.year))delete p.facts.year;
+  if(path[0]!=='TYPE-MOON'){const unrelated=/マジックザギャザリング|邦楽CD|洋楽|Paradox Live|DIABOLIK LOVERS|指輪物語|fatever|fates warning|Your Fate Ends Here|結井ななきそ/i.test(p.title+' '+(p.facts?.category||''));if(unrelated){excluded.push({title:p.title,url:p.offer.url,reason:'明确为其他作品的关键词命中'});continue;}p.provisional=true;pending.push({title:p.title,url:p.offer.url,reason:'搜索命中但缺作品资料；保留在待整理，待详情确认'});}
+  // Search observations are usable catalogue/stock records, not confirmed purchase offers.
+  if(p.offer.source==='骏河屋'){if(p.offer.availability==='sold'){p.offer.price=null;p.offer.stockNote='主站品切れ；其他店铺报价待详情分别复核';}else if(p.offer.availability==='unknown'&&p.offer.price!==null){p.offer.availability='available';p.offer.stockNote='来源搜索列出报价；成色及库存需详情复核';}}
+  p.offer.verifiedAt=undefined;p.offer.observation='list';p.image=/^https:\/\//.test(p.image)?p.image:'';p.offer.condition=p.title.normalize('NFKC').match(/ランク\s*[A-D](?:[+-])?|\(状態[:：][^)]*\)|\[(?:破損品|箱欠品|箱破損|経年劣化|難あり)[^\]]*\]/i)?.[0]||p.offer.condition;
+  // The first audit used older parser rules. Keep the raw evidence and a separate import snapshot.
+  products.push(p);
+ }
+ mkdirSync('public/fate-crawl',{recursive:true});const files=[];for(let offset=0;offset<products.length;offset+=200){const filename='batch-'+Math.floor(offset/200)+'.json';writeFileSync('public/fate-crawl/'+filename,JSON.stringify(products.slice(offset,offset+200)));files.push('/fate-crawl/'+filename);}
+ const manifest={id,count:products.length,files,capturedAt:audit.finishedAt,observations:audit.sources.reduce((n,s)=>n+s.pages.reduce((sum,p)=>sum+p.count,0),0),excluded:excluded.length,pending:pending.length,sources:audit.sources.map(s=>({name:s.name,url:s.url,pages:s.pages.length,count:s.pages.reduce((n,p)=>n+p.count,0),total:s.total,status:s.status,next:s.next,error:s.error}))};
+ writeFileSync('public/fate-crawl/manifest.json',JSON.stringify(manifest,null,2)+'\n');writeFileSync('lib/radar/fate-crawl-manifest.json',JSON.stringify(manifest,null,2)+'\n');writeFileSync('public/fate-crawl/pending.json',JSON.stringify(pending,null,2)+'\n');writeFileSync('public/fate-crawl/excluded.json',JSON.stringify(excluded,null,2)+'\n');console.log(JSON.stringify({id,catalogueRecords:products.length,observations:manifest.observations,excluded:excluded.length,pending:pending.length,batches:files.length}));
+}finally{rmSync(dir,{recursive:true,force:true});}

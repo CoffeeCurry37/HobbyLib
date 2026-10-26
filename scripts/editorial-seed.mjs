@@ -1,0 +1,4 @@
+import{readFileSync,writeFileSync,existsSync}from'node:fs';import{loadRadar}from'./load-radar.mjs';
+const [input,worklist='../review-worklist.json']=process.argv.slice(2),path='lib/radar/editorial-manifest.json';if(existsSync(path))throw Error('Fixed queue already exists. Resume it.');
+const data=JSON.parse(readFileSync(input)),r=loadRadar(),{productClass}=r.get('product-class'),items=data.items.filter(i=>!i.archivedInto&&!i.demo&&i.origin!=='doujin').sort((a,b)=>(productClass(a)==='书籍'?0:1)-(productClass(b)==='书籍'?0:1)||a.title.localeCompare(b.title,'ja')||a.id.localeCompare(b.id));
+writeFileSync(path,JSON.stringify({id:'non-doujin-20261021',createdAt:new Date().toISOString(),total:items.length,ids:items.map(i=>i.id)}));writeFileSync(worklist,JSON.stringify(items),{mode:0o600});console.log(JSON.stringify({total:items.length,first:items[0].id}));r.close();

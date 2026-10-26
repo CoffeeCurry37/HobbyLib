@@ -1,0 +1,15 @@
+{
+  "id": "melon-fate",
+  "url": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+  "next": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+  "pages": [],
+  "observations": 0,
+  "total": null,
+  "failures": [
+    {
+      "url": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+      "error": "No scoped products"
+    }
+  ],
+  "status": "paused"
+}

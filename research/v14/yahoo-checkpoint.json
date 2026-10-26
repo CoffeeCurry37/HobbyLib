@@ -1,0 +1,25 @@
+{
+  "id": "yahoo",
+  "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=701&n=50",
+  "next": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=801&n=50",
+  "pages": [
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=701&n=50",
+      "file": "yahoo-0.json",
+      "count": 50,
+      "observedAt": "2026-10-16T14:39:54.189Z"
+    },
+    {
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=751&n=50",
+      "file": "yahoo-1.json",
+      "count": 50,
+      "observedAt": "2026-10-16T14:40:02.807Z"
+    }
+  ],
+  "failures": [],
+  "observations": 100,
+  "status": "bounded",
+  "total": 56569,
+  "uniqueListings": 100,
+  "updatedAt": "2026-10-16T14:40:03.410Z"
+}

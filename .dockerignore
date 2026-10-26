@@ -1,0 +1,11 @@
+node_modules
+.git
+.env
+.env.*
+.wrangler
+.sites-runtime
+dist
+dist-standalone
+data
+*.sqlite*
+*.tar.gz

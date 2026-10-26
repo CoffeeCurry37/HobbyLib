@@ -1,0 +1,25 @@
+{
+  "id": "suruga",
+  "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate&ck=true&inStock=On&page=46",
+  "next": "https://www.suruga-ya.jp/search?category=&search_word=Fate&ck=true&inStock=On&page=48",
+  "pages": [
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate&ck=true&inStock=On&page=46",
+      "file": "suruga-0.json",
+      "count": 24,
+      "observedAt": "2026-10-18T05:43:37.792Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate&ck=true&inStock=On&page=47",
+      "file": "suruga-1.json",
+      "count": 24,
+      "observedAt": "2026-10-18T05:43:45.749Z"
+    }
+  ],
+  "failures": [],
+  "observations": 48,
+  "status": "bounded",
+  "total": 157477,
+  "uniqueListings": 48,
+  "updatedAt": "2026-10-18T05:43:47.474Z"
+}

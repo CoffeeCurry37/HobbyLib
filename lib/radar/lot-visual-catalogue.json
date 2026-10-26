@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "photos": [
+    {
+      "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/d1246119172",
+      "image": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/99ff9018769261a7d2401f3fbe8c3fd0432c3cacc1604a25395cf97b44b7c55c/i-img1200x1200-17904980097245fobgvv41625.jpg",
+      "sha256": "56c6502b8daf0ee6dbcf9e9c9b91a4341990fa06557bd1464482339e4415cb68",
+      "checkedAt": "2026-10-05",
+      "method": "原始挂牌实拍目视核验；包装赏级标签、角色外观与官网目录一致",
+      "members": [
+        {
+          "campaignId": "fate28",
+          "award": "D賞",
+          "slot": 1,
+          "quantity": 1
+        },
+        {
+          "campaignId": "fate28",
+          "award": "E賞",
+          "slot": 2,
+          "quantity": 1
+        },
+        {
+          "campaignId": "fate28",
+          "award": "F賞",
+          "slot": 1,
+          "quantity": 1
+        }
+      ],
+      "note": "E賞为女性岸波白野，不包含同赏男性款；整组三件，非E賞全套。"
+    },
+    {
+      "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/x1247004159",
+      "image": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/5abb590ddb832c1928422f1e5b4ea7b757f73dfdf180dc6fb1c7ca61b0d12c18/i-img1200x800-17910868420112zbdjhi56575.jpg",
+      "sha256": "1cd9fd268691cc455a3ef64c4142ca22d4d036b76c4b2481a502c15164c03c03",
+      "checkedAt": "2026-10-06",
+      "method": "原始挂牌实拍目视核验：包装的赏级文字与官网公布的产品图逐件对应",
+      "members": [
+        {
+          "campaignId": "fate27",
+          "award": "ラストワン賞",
+          "slot": 1,
+          "quantity": 1
+        },
+        {
+          "campaignId": "fate27",
+          "award": "A賞",
+          "slot": 1,
+          "quantity": 1
+        },
+        {
+          "campaignId": "fate28",
+          "award": "C賞",
+          "slot": 1,
+          "quantity": 1
+        },
+        {
+          "campaignId": "fate28",
+          "award": "B賞",
+          "slot": 1,
+          "quantity": 1
+        }
+      ],
+      "note": "四盒分别是fate27末赏メリュジーヌ、A賞アルトリア・キャスター，fate28 C賞テノチティトラン、B賞BBコスモ。跨两次发行活动的卖家拼套，不是某活动全赏。"
+    }
+  ]
+}

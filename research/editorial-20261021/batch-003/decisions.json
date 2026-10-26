@@ -1,0 +1,4963 @@
+{
+  "campaign": "non-doujin-20261021",
+  "groups": [
+    {
+      "id": "a121185ba8a30750cbfd878b",
+      "members": [
+        {
+          "ordinal": 81,
+          "fingerprint": "fedcf64f8f5893914f477381acaa14b4aad045d0cd924e7ae82dba4b8e4fccf7",
+          "fields": {
+            "title": "Fate/stay night アンソロジーコミック1",
+            "summary": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック1》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757717954",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2004-03-31",
+            "year": "2004"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002632/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002632/",
+            "value": "9784757717954"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 82,
+          "fingerprint": "4da93e7c5a292fa21bee0b1ea5a7174f908922b46f061d6e6591cfabd4c371fd",
+          "fields": {
+            "title": "Fate/stay night アンソロジーコミック10",
+            "summary": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック10》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757723528",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2005-07-25",
+            "year": "2005"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002943/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002943/",
+            "value": "9784757723528"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 83,
+          "fingerprint": "4275d883aed858c5a9c1bd472c6a5d31299472fce426a451965798ae5e9d179b",
+          "fields": {
+            "title": "Fate/stay night アンソロジーコミック2",
+            "summary": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック2》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757718425",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2004-04-24",
+            "year": "2004"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002647/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002647/",
+            "value": "9784757718425"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 84,
+          "fingerprint": "85f6e5215bfbe7fff3d4958a4c37667400db797a1da419c1c8a9f40e43f5e816",
+          "fields": {
+            "title": "Fate/Stay night アンソロジーコミック3",
+            "summary": "KADOKAWA书目收录的《Fate/Stay night アンソロジーコミック3》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757719422",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2004-07-26",
+            "year": "2004"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002704/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002704/",
+            "value": "9784757719422"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 85,
+          "fingerprint": "047d88403e6c9b047d9e139f9e97f87488629da7a95010b0edb9cdde84bf2c7d",
+          "fields": {
+            "title": "Fate/Stay night アンソロジーコミック4",
+            "summary": "KADOKAWA书目收录的《Fate/Stay night アンソロジーコミック4》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757719767",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2004-08-30",
+            "year": "2004"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002717/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002717/",
+            "value": "9784757719767"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 86,
+          "fingerprint": "5c82b64807fc090e82331c5b973f97448404a1b80d7a0b307d65d777f11ad667",
+          "fields": {
+            "title": "Fate/stay night アンソロジーコミック5",
+            "summary": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック5》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757720107",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2004-09-25",
+            "year": "2004"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002742/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002742/",
+            "value": "9784757720107"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 87,
+          "fingerprint": "71dba7790c56bc9bdb67751850dfe75129bc16634cc9a7ede91c166ae240633b",
+          "fields": {
+            "title": "Fate/Stay night アンソロジーコミック6",
+            "summary": "KADOKAWA书目收录的《Fate/Stay night アンソロジーコミック6》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757720633",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2004-11-25",
+            "year": "2004"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002776/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002776/",
+            "value": "9784757720633"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 88,
+          "fingerprint": "abd1d2d687b3c949855870dea3a3a4eb1b80c9d9ed357f84dcf855afaaa90efc",
+          "fields": {
+            "title": "Fate/stay night アンソロジーコミック7",
+            "summary": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック7》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757721425",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2005-01-31",
+            "year": "2005"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002817/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002817/",
+            "value": "9784757721425"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 89,
+          "fingerprint": "6f1fc8e552722872b076c48ffc052b97dd26bca33103558b3efab76fbe1867e4",
+          "fields": {
+            "title": "Fate/stay night アンソロジーコミック8",
+            "summary": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック8》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757722118",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2005-03-25",
+            "year": "2005"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002863/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002863/",
+            "value": "9784757722118"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 90,
+          "fingerprint": "d9394e12f1eb5349b1ffefda85e4a453dba2cabc24d77b9f88023e3e6068aeff",
+          "fields": {
+            "title": "Fate/stay night アンソロジーコミック9",
+            "summary": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック9》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757722972",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night アンソロジーコミック",
+              "KADOKAWA",
+              "商业漫画选集",
+              "Enterbrain"
+            ],
+            "characters": [],
+            "releaseDate": "2005-05-30",
+            "year": "2005"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700002906/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700002906/",
+            "value": "9784757722972"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3a63f8a0ce9921613f6014ca",
+      "members": [
+        {
+          "ordinal": 96,
+          "fingerprint": "cc1158c4ef07c1169c514f0a9e9a8cf359232a90e679df205291b7ca036d96a0",
+          "fields": {
+            "title": "Fate/Apocrypha (1)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (1)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041046845",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2016-08-26",
+            "year": "2016",
+            "image": "https://cdn.kdkw.jp/cover_1000/321604/321604000466.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321604/321604000466.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321604000466/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321604000466/",
+            "value": "9784041046845"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 97,
+          "fingerprint": "7d5e5e616af5b7e39eb0bebf9bbbec314b07b6952e30bd55f912d3fd795db73d",
+          "fields": {
+            "title": "Fate/Apocrypha (2)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (2)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041052204",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2017-01-26",
+            "year": "2017",
+            "image": "https://cdn.kdkw.jp/cover_1000/321609/321609000437.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321609/321609000437.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321609000437/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321609000437/",
+            "value": "9784041052204"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 98,
+          "fingerprint": "7014077121609ee0520984f3dea9918cff98395f7a6b2b3f0e5c73785eee6c06",
+          "fields": {
+            "title": "Fate/Apocrypha (3)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (3)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041057650",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2017-06-24",
+            "year": "2017",
+            "image": "https://cdn.kdkw.jp/cover_1000/321702/321702000763.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321702/321702000763.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321702000763/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321702000763/",
+            "value": "9784041057650"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 99,
+          "fingerprint": "095cc995a55cb50c739c0888367cda2dc09a1fb999edcfdbc3f6dfa7362b7a6d",
+          "fields": {
+            "title": "Fate/Apocrypha (4)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (4)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041060995",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2017-10-24",
+            "year": "2017",
+            "image": "https://cdn.kdkw.jp/cover_1000/321705/321705000587.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321705/321705000587.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321705000587/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321705000587/",
+            "value": "9784041060995"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 100,
+          "fingerprint": "e79d46058b32dfedf9966ecfc1bc3cca62c7fabf55e091567ed602056b70074a",
+          "fields": {
+            "title": "Fate/Apocrypha (5)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (5)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041064870",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2018-01-26",
+            "year": "2018",
+            "image": "https://cdn.kdkw.jp/cover_1000/321709/321709000564.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321709/321709000564.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321709000564/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321709000564/",
+            "value": "9784041064870"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 101,
+          "fingerprint": "d7f58f068ef0593abeed90a4f24339072168e522ebe1508aae9428f9a90ef140",
+          "fields": {
+            "title": "Fate/Apocrypha (6)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (6)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041071663",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2018-07-26",
+            "year": "2018",
+            "image": "https://cdn.kdkw.jp/cover_1000/321803/321803001431.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321803/321803001431.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321803001431/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321803001431/",
+            "value": "9784041071663"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 102,
+          "fingerprint": "4710b12f31c6f8a1cbae23778d2283c6f9d1ba0bf817b7110a023966ea02b966",
+          "fields": {
+            "title": "Fate/Apocrypha (7)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (7)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041078112",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2019-02-26",
+            "year": "2019",
+            "image": "https://cdn.kdkw.jp/cover_1000/321809/321809000511.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321809/321809000511.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321809000511/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321809000511/",
+            "value": "9784041078112"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 103,
+          "fingerprint": "0587d67813dceace0c001557cc824be9d8a29aca00790f15050732f53feb6fa6",
+          "fields": {
+            "title": "Fate/Apocrypha (8)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (8)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041086872",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2019-11-26",
+            "year": "2019",
+            "image": "https://cdn.kdkw.jp/cover_1000/321905/321905000552.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321905/321905000552.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321905000552/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321905000552/",
+            "value": "9784041086872"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 108,
+          "fingerprint": "8d08eabf87ecacac9cacfa00f3c73b62ed878849f93f4dfab594c5c79e3baf80",
+          "fields": {
+            "title": "Fate/Apocrypha (13)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (13)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041129456",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2022-09-26",
+            "year": "2022",
+            "image": "https://cdn.kdkw.jp/cover_1000/322205/322205000522.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/322205/322205000522.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/322205000522/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/322205000522/",
+            "value": "9784041129456"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 109,
+          "fingerprint": "018e395975f3936bf8be812eaed89eb65d218aca73bce67c1a55821cc38dc597",
+          "fields": {
+            "title": "Fate/Apocrypha (15)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (15)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041139455",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2023-10-26",
+            "year": "2023",
+            "image": "https://cdn.kdkw.jp/cover_1000/322304/322304000080.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/322304/322304000080.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/322304000080/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/322304000080/",
+            "value": "9784041139455"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 110,
+          "fingerprint": "42057927be98b6151575b2fecde6148788069cdcc9e43eee04103523a14c24f1",
+          "fields": {
+            "title": "Fate/Apocrypha (16)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (16)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041139462",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2024-06-25",
+            "year": "2024",
+            "image": "https://cdn.kdkw.jp/cover_1000/322304/322304000081.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/322304/322304000081.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/322304000081/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/322304000081/",
+            "value": "9784041139462"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 115,
+          "fingerprint": "c58cfd59a47a752bb105453d0df85121b60297072c4f1b57696cfb5fc5ba2581",
+          "fields": {
+            "title": "Fate/Apocrypha (9)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (9)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041086902",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2020-10-24",
+            "year": "2020",
+            "image": "https://cdn.kdkw.jp/cover_1000/321905/321905000555.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321905/321905000555.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321905000555/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321905000555/",
+            "value": "9784041086902"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 128,
+          "fingerprint": "3ae027e454f0b39bf96bce7b310985c7188466d411d1c3836ac07314c33ada04",
+          "fields": {
+            "title": "Fate/Apocrypha (10)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (10)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041116760",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2021-07-26",
+            "year": "2021",
+            "image": "https://cdn.kdkw.jp/cover_1000/322104/322104000419.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/322104/322104000419.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/322104000419/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/322104000419/",
+            "value": "9784041116760"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 129,
+          "fingerprint": "0f54bf3e574a6ccad2e264f81eabf4bfe0dfaf976c084780867f96564b1cc89f",
+          "fields": {
+            "title": "Fate/Apocrypha (11)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (11)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041116777",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2021-09-25",
+            "year": "2021",
+            "image": "https://cdn.kdkw.jp/cover_1000/322104/322104000420.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/322104/322104000420.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/322104000420/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/322104000420/",
+            "value": "9784041116777"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 130,
+          "fingerprint": "4b987ff053db2b8b5aff19e0c42e1977052fa17aff95d6a60dd871503a38f1cc",
+          "fields": {
+            "title": "Fate/Apocrypha (12)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (12)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041116784",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2022-03-26",
+            "year": "2022",
+            "image": "https://cdn.kdkw.jp/cover_1000/322104/322104000421.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/322104/322104000421.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/322104000421/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/322104000421/",
+            "value": "9784041116784"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 131,
+          "fingerprint": "5edb766635fcc91e6a086342c68a0b91964c748b96797291a6e80998806d1bd8",
+          "fields": {
+            "title": "Fate/Apocrypha (14)",
+            "summary": "KADOKAWA书目收录的《Fate/Apocrypha (14)》是漫画，改编自同名小说的圣杯大战故事。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Apocrypha",
+            "productLine": "Fate/Apocrypha 漫画版",
+            "event": "",
+            "isbn": "9784041129463",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Apocrypha",
+              "漫画",
+              "Fate/Apocrypha 漫画版",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2023-03-25",
+            "year": "2023",
+            "image": "https://cdn.kdkw.jp/cover_1000/322205/322205000523.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/322205/322205000523.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/322205000523/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/322205000523/",
+            "value": "9784041129463"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "dbf7f5756de9da527f8f7e96",
+      "members": [
+        {
+          "ordinal": 133,
+          "fingerprint": "fcd1aa163c83626eac1bf8ed4a6dca67810dd339a45c1272624b189363df9691",
+          "fields": {
+            "title": "Fate/complete material I Art material.",
+            "summary": "KADOKAWA书目收录的《Fate/complete material I Art material.》是画集，收录游戏视觉插画的 Art material 卷。",
+            "productType": "画集",
+            "category": "画集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/complete material",
+            "event": "",
+            "isbn": "9784757743526",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "画集",
+              "Fate/complete material",
+              "KADOKAWA",
+              "Art material"
+            ],
+            "characters": [],
+            "releaseDate": "2008-07-02",
+            "year": "2008"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200806000162/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200806000162/",
+            "value": "9784757743526"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 134,
+          "fingerprint": "6b187ea0f1e7b8a6a3c5b039842eae517457b797926dad9546aa267e0f57a6ed",
+          "fields": {
+            "title": "Fate/complete material V Hollow material.",
+            "summary": "KADOKAWA书目收录的《Fate/complete material V Hollow material.》是设定集，收录游戏视觉与角色资料的 Hollow material 卷。",
+            "productType": "设定集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/complete material",
+            "event": "",
+            "isbn": "9784047278776",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "设定集",
+              "Fate/complete material",
+              "KADOKAWA",
+              "Hollow material"
+            ],
+            "characters": [],
+            "releaseDate": "2012-02-25",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201111/201111000331.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201111/201111000331.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201111000331/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201111000331/",
+            "value": "9784047278776"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 137,
+          "fingerprint": "2315e499570564c8bb43ca32ec16ca11b799ceb4dc3861f2f7b333de2d60f67d",
+          "fields": {
+            "title": "Fate/complete material II Character material.",
+            "summary": "KADOKAWA书目收录的《Fate/complete material II Character material.》是设定集，以游戏角色设计资料为主题的 Character material 卷。",
+            "productType": "设定集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/complete material",
+            "event": "",
+            "isbn": "9784047266803",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "设定集",
+              "Fate/complete material",
+              "KADOKAWA",
+              "角色设定"
+            ],
+            "characters": [],
+            "releaseDate": "2010-06-30",
+            "year": "2010"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201005000426/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201005000426/",
+            "value": "9784047266803"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 138,
+          "fingerprint": "b34fce88d7c14790984fd0dd6941d6e7c02d11bb73c03ce68211d6eca6581eb4",
+          "fields": {
+            "title": "Fate/complete material III World material.",
+            "summary": "KADOKAWA书目收录的《Fate/complete material III World material.》是设定集，以游戏世界观资料为主题的 World material 卷。",
+            "productType": "设定集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/complete material",
+            "event": "",
+            "isbn": "9784047269026",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "设定集",
+              "Fate/complete material",
+              "KADOKAWA",
+              "世界观设定"
+            ],
+            "characters": [],
+            "releaseDate": "2010-10-29",
+            "year": "2010"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201009000549/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201009000549/",
+            "value": "9784047269026"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 144,
+          "fingerprint": "1d3291c78404f754ce2a4f048f862ee9c67d46e749bf910ba5c5418236b0b577",
+          "fields": {
+            "title": "Fate/complete material IV Extra material.",
+            "summary": "KADOKAWA书目收录的《Fate/complete material IV Extra material.》是设定集，汇集 Fate 衍生作品资料的 Extra material 卷。",
+            "productType": "设定集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/complete material",
+            "event": "",
+            "isbn": "9784047274181",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "设定集",
+              "Fate/complete material",
+              "KADOKAWA",
+              "Extra material"
+            ],
+            "characters": [],
+            "releaseDate": "2011-06-25",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201009/201009000607.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201009/201009000607.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201009000607/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201009000607/",
+            "value": "9784047274181"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "b142641b6e0a5dfe80666640",
+      "members": [
+        {
+          "ordinal": 135,
+          "fingerprint": "3f73930ec8b21255063550af5bb9cd4d93e553b8ea3b346fb45f1c63b2820b8a",
+          "fields": {
+            "title": "Fate/complete material I・II・III",
+            "summary": "KADOKAWA书目收录的《Fate/complete material I・II・III》是设定集，将原 I、II、III 卷内容重新编排为单册的复刻合订版。",
+            "productType": "设定集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/complete material",
+            "event": "",
+            "isbn": "9784047351042",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "设定集",
+              "Fate/complete material",
+              "KADOKAWA",
+              "复刻版",
+              "合订本"
+            ],
+            "characters": [],
+            "releaseDate": "2018-03-30",
+            "year": "2018",
+            "image": "https://cdn.kdkw.jp/cover_1000/321801/321801000003.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321801/321801000003.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321801000003/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321801000003/",
+            "value": "9784047351042"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "2faf4287094fd87074bdd1f5",
+      "members": [
+        {
+          "ordinal": 139,
+          "fingerprint": "bbae19ebc16d7e754b1689a7d125e823efd26821c50ac13fc024587e8ff5d95b",
+          "fields": {
+            "title": "Fate/complete material IV Extra material. STANDARD EDITION",
+            "summary": "KADOKAWA书目收录的《Fate/complete material IV Extra material. STANDARD EDITION》是设定集，汇集 Fate 衍生作品资料的 Extra material 卷。",
+            "productType": "设定集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/complete material",
+            "event": "",
+            "isbn": "9784047280960",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "设定集",
+              "Fate/complete material",
+              "KADOKAWA",
+              "Extra material"
+            ],
+            "characters": [],
+            "releaseDate": "2012-04-26",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201204/201204000153.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201204/201204000153.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201204000153/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201204000153/",
+            "value": "9784047280960"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "8e756f3a7144e6fe7073e21a",
+      "members": [
+        {
+          "ordinal": 152,
+          "fingerprint": "b199e5c8f2bac268a9edd7acd3ed20d5bf9ab8d73427f635088b6cbcc05f39fa",
+          "fields": {
+            "title": "Fate/EXTRA CCC コミックアンソロジー",
+            "summary": "KADOKAWA书目收录的《Fate/EXTRA CCC コミックアンソロジー》是漫画选集，围绕 Fate/EXTRA CCC 角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/EXTRA",
+            "productLine": "Fate/EXTRA CCC コミックアンソロジー",
+            "event": "",
+            "isbn": "9784048919340",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/EXTRA",
+              "漫画选集",
+              "Fate/EXTRA CCC コミックアンソロジー",
+              "KADOKAWA",
+              "Fate/EXTRA CCC"
+            ],
+            "characters": [],
+            "releaseDate": "2013-11-27",
+            "year": "2013",
+            "image": "https://cdn.kdkw.jp/cover_1000/311924/311924300000.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/311924/311924300000.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/311924300000/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/311924300000/",
+            "value": "9784048919340"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "6d23bfc342c189a38bbb1205",
+      "members": [
+        {
+          "ordinal": 434,
+          "fingerprint": "3d0ce7bb9fb9c1aa329b2866e800a702335ed4fe9a000232ec5e7a3a06450b87",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック(6)",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック(6)》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757730519",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2006-11-25",
+            "year": "2006"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003370/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003370/",
+            "value": "9784757730519"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 435,
+          "fingerprint": "927b4d81197740c066d4857a9d576735cb539d68a07171b716b383b74f5d4d23",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック(7)",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック(7)》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757733367",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2007-01-29",
+            "year": "2007"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003449/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003449/",
+            "value": "9784757733367"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 436,
+          "fingerprint": "0d5a0e11003074c63b87c336977777508a90df4f092a14a1417d5253e25b05d6",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック(8)",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック(8)》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757734425",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2007-03-26",
+            "year": "2007"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003509/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003509/",
+            "value": "9784757734425"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 437,
+          "fingerprint": "1b36a292177b76ee7544432a6a3aec895e1ffcb24a11c1af01d17d2a9d270620",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック(9)",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック(9)》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757735484",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2007-05-25",
+            "year": "2007"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003578/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003578/",
+            "value": "9784757735484"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 438,
+          "fingerprint": "c97b7f59eed2e38eddbc70d2ee35b532786d569452c447d849b5274940ce1c63",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック1",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック1》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757726093",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2006-01-30",
+            "year": "2006"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003099/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003099/",
+            "value": "9784757726093"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 439,
+          "fingerprint": "7e1b11ca6b22d46d0e9f0f9ff2e005d7633a01fcaef3551046d07a4b87aed863",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック2",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック2》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757726871",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2006-03-31",
+            "year": "2006"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003172/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003172/",
+            "value": "9784757726871"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 440,
+          "fingerprint": "cbae105872a214c60dd7c10cb118076fa8e386985d60e44446fc4fdec486f19c",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック3",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック3》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757727861",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2006-05-25",
+            "year": "2006"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003221/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003221/",
+            "value": "9784757727861"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 441,
+          "fingerprint": "0968fec71908d1c8015700edcd43a98cd5749247ca7104500788470259aa4623",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック4",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック4》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757728752",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2006-07-26",
+            "year": "2006"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003272/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003272/",
+            "value": "9784757728752"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        },
+        {
+          "ordinal": 442,
+          "fingerprint": "94b82a22e758ddbadaea279934754a9838e52776bb04e8bbbb53b7bb73ce8282",
+          "fields": {
+            "title": "Fate/hollow ataraxia アンソロジーコミック5",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia アンソロジーコミック5》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia アンソロジーコミック",
+            "event": "",
+            "isbn": "9784757729612",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia アンソロジーコミック",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2006-09-29",
+            "year": "2006"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200700003323/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200700003323/",
+            "value": "9784757729612"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": [
+            "出版社提供的封面链接返回404，其他已查书目无可用封面；保留图片待补查。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e1c3ce53646dd326faa5531",
+      "members": [
+        {
+          "ordinal": 443,
+          "fingerprint": "1c83068530c4c6f490c2503087fd385fd5744f0b0acdb82a733e0af97af8182f",
+          "fields": {
+            "title": "Fate/hollow ataraxia コミックアラカルト ~ハッピーライフ編~",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxia コミックアラカルト ~ハッピーライフ編~》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia コミックアラカルト",
+            "event": "",
+            "isbn": "9784047138261",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia コミックアラカルト",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2006-05-23",
+            "year": "2006",
+            "image": "https://cdn.kdkw.jp/cover_1000/200602/200602000156.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200602/200602000156.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200602000156/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200602000156/",
+            "value": "9784047138261"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "a3f5ed9a94be5fec3c0b862c",
+      "members": [
+        {
+          "ordinal": 445,
+          "fingerprint": "ba0888c83fd362eefc1004485ded287ada7662fbcb2aa614cc946eae2690d579",
+          "fields": {
+            "title": "Fate/hollow ataraxiaコミックアラカルト",
+            "summary": "KADOKAWA书目收录的《Fate/hollow ataraxiaコミックアラカルト》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/hollow ataraxia",
+            "productLine": "Fate/hollow ataraxia コミックアラカルト",
+            "event": "",
+            "isbn": "9784047137844",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/hollow ataraxia",
+              "漫画选集",
+              "Fate/hollow ataraxia コミックアラカルト",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2006-01-05",
+            "year": "2006",
+            "image": "https://cdn.kdkw.jp/cover_1000/200509/200509000301.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200509/200509000301.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200509000301/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200509000301/",
+            "value": "9784047137844"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "3e36a722aaebba4de41dbe18",
+      "members": [
+        {
+          "ordinal": 450,
+          "fingerprint": "cf944a5eaedd4c8219e65508d6f03d1c2fa3ff086802bb4ccc11e262f157cf38",
+          "fields": {
+            "title": "Fate/kaleid liner プリズマ☆イリヤ (1)",
+            "summary": "KADOKAWA书目收录的《Fate/kaleid liner プリズマ☆イリヤ (1)》是漫画，魔法少女伊莉雅漫画系列的第一部。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/kaleid liner",
+            "productLine": "Fate/kaleid liner プリズマ☆イリヤ",
+            "event": "",
+            "isbn": "9784047150485",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/kaleid liner",
+              "漫画",
+              "Fate/kaleid liner プリズマ☆イリヤ",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2008-04-24",
+            "year": "2008",
+            "image": "https://cdn.kdkw.jp/cover_1000/200712/200712000305.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200712/200712000305.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200712000305/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200712000305/",
+            "value": "9784047150485"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 451,
+          "fingerprint": "8b8d3c78189ce45ab2d3cc00f17b6a9a03cb9c559d229eb606a73d7ed3a894d7",
+          "fields": {
+            "title": "Fate/kaleid liner プリズマ☆イリヤ (2)",
+            "summary": "KADOKAWA书目收录的《Fate/kaleid liner プリズマ☆イリヤ (2)》是漫画，魔法少女伊莉雅漫画系列的第一部。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/kaleid liner",
+            "productLine": "Fate/kaleid liner プリズマ☆イリヤ",
+            "event": "",
+            "isbn": "9784047151420",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/kaleid liner",
+              "漫画",
+              "Fate/kaleid liner プリズマ☆イリヤ",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2008-12-24",
+            "year": "2008",
+            "image": "https://cdn.kdkw.jp/cover_1000/200712/200712000306.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200712/200712000306.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200712000306/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200712000306/",
+            "value": "9784047151420"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "f59cc6781e50fec451ef2cd8",
+      "members": [
+        {
+          "ordinal": 454,
+          "fingerprint": "3db14bc61b1b97cd44bc25d01a60f47d2aa01507291d9b29d6b0421fcd6a68d6",
+          "fields": {
+            "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (1)",
+            "summary": "KADOKAWA书目收录的《Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (1)》是漫画，魔法少女伊莉雅漫画系列的第二部。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/kaleid liner",
+            "productLine": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+            "event": "",
+            "isbn": "9784047153509",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/kaleid liner",
+              "漫画",
+              "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2009-12-22",
+            "year": "2009",
+            "image": "https://cdn.kdkw.jp/cover_1000/200908/200908000446.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200908/200908000446.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200908000446/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200908000446/",
+            "value": "9784047153509"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 455,
+          "fingerprint": "a970a876279bb21e423a00724279f2743e8d9f8be41307b63d764a9fbd844267",
+          "fields": {
+            "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (2)",
+            "summary": "KADOKAWA书目收录的《Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (2)》是漫画，魔法少女伊莉雅漫画系列的第二部。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/kaleid liner",
+            "productLine": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+            "event": "",
+            "isbn": "9784047154865",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/kaleid liner",
+              "漫画",
+              "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2010-07-21",
+            "year": "2010",
+            "image": "https://cdn.kdkw.jp/cover_1000/201004/201004000049.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201004/201004000049.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201004000049/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201004000049/",
+            "value": "9784047154865"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 456,
+          "fingerprint": "228aec8ff742b16699dedb9e4a5031135e8c42d7ba48db747c67c54e802463ba",
+          "fields": {
+            "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (3)",
+            "summary": "KADOKAWA书目收录的《Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (3)》是漫画，魔法少女伊莉雅漫画系列的第二部。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/kaleid liner",
+            "productLine": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+            "event": "",
+            "isbn": "9784047156197",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/kaleid liner",
+              "漫画",
+              "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2011-01-21",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201010/201010000596.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201010/201010000596.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201010000596/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201010000596/",
+            "value": "9784047156197"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 457,
+          "fingerprint": "47c5fa6e1cba2805db1c6c67529415fcdc7542db45d964996a0821e037aeec0e",
+          "fields": {
+            "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (4)",
+            "summary": "KADOKAWA书目收录的《Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (4)》是漫画，魔法少女伊莉雅漫画系列的第二部。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/kaleid liner",
+            "productLine": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+            "event": "",
+            "isbn": "9784047157996",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/kaleid liner",
+              "漫画",
+              "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2011-10-06",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201012/201012000112.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201012/201012000112.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201012000112/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201012000112/",
+            "value": "9784047157996"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 459,
+          "fingerprint": "cc4fc31a6a6876b7ee9ee672f0425e9333c7678c3b92b2bd7095bcb8965d0c2e",
+          "fields": {
+            "title": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (5)",
+            "summary": "KADOKAWA书目收录的《Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! (5)》是漫画，魔法少女伊莉雅漫画系列的第二部。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/kaleid liner",
+            "productLine": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+            "event": "",
+            "isbn": "9784041201589",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/kaleid liner",
+              "漫画",
+              "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2012-03-22",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201111/201111000488.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201111/201111000488.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201111000488/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201111000488/",
+            "value": "9784041201589"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "0abb816a59637674320fcf1c",
+      "members": [
+        {
+          "ordinal": 462,
+          "fingerprint": "d08eee112f81bd9f443ba7c2dc101d4a0daef1f5d607897c8f837ff6df6b1886",
+          "fields": {
+            "title": "Fate/kaleid liner プリズマ☆イリヤ ドライ!! (1)",
+            "summary": "KADOKAWA书目收录的《Fate/kaleid liner プリズマ☆イリヤ ドライ!! (1)》是漫画，魔法少女伊莉雅漫画系列的第三部。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/kaleid liner",
+            "productLine": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+            "event": "",
+            "isbn": "9784041205006",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/kaleid liner",
+              "漫画",
+              "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2012-11-17",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201202/201202000516.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201202/201202000516.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201202000516/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201202000516/",
+            "value": "9784041205006"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "37f38b7312c3fad9665ffa4b",
+      "members": [
+        {
+          "ordinal": 518,
+          "fingerprint": "72aea99c3f326b0fa7f5c0cceeb37151bb0b4ae544353bfa63b18338445063b1",
+          "fields": {
+            "title": "Fate/stay night (1)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (1)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047138254",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2006-05-23",
+            "year": "2006",
+            "image": "https://cdn.kdkw.jp/cover_1000/200602/200602000153.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200602/200602000153.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200602000153/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200602000153/",
+            "value": "9784047138254"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 519,
+          "fingerprint": "b5e00d3958ef86cff59028891a8cae6a26d46bd9311c591b88589b1d85bf7f8d",
+          "fields": {
+            "title": "Fate/stay night (10)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (10)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047152830",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2009-08-22",
+            "year": "2009",
+            "image": "https://cdn.kdkw.jp/cover_1000/200812/200812000333.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200812/200812000333.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200812000333/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200812000333/",
+            "value": "9784047152830"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 520,
+          "fingerprint": "2c09f02aa88a47f579547d6ba348859418e886c2e2e6c67129d88881b0c85680",
+          "fields": {
+            "title": "Fate/stay night (12)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (12)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047154247",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2010-04-21",
+            "year": "2010",
+            "image": "https://cdn.kdkw.jp/cover_1000/201001/201001000181.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201001/201001000181.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201001000181/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201001000181/",
+            "value": "9784047154247"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 521,
+          "fingerprint": "4db3324d69da1d8b07f7b815198e587d267b3dfab2c0f6c01b259e4980e9d406",
+          "fields": {
+            "title": "Fate/stay night (13)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (13)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047155022",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2010-08-24",
+            "year": "2010",
+            "image": "https://cdn.kdkw.jp/cover_1000/201005/201005000021.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201005/201005000021.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201005000021/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201005000021/",
+            "value": "9784047155022"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 522,
+          "fingerprint": "51d3802cf37472571706dc3d7d4e72cbbbe925334e9e237eac2981012ef9c761",
+          "fields": {
+            "title": "Fate/stay night (14)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (14)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047155855",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2010-12-25",
+            "year": "2010",
+            "image": "https://cdn.kdkw.jp/cover_1000/201008/201008000624.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201008/201008000624.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201008000624/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201008000624/",
+            "value": "9784047155855"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 523,
+          "fingerprint": "ed27733fc28fb2635a442e8d9d3a51773b0230498ecc061696ee706f99afcd44",
+          "fields": {
+            "title": "Fate/stay night (16)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (16)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047157644",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2011-09-01",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201104/201104000569.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201104/201104000569.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201104000569/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201104000569/",
+            "value": "9784047157644"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 524,
+          "fingerprint": "872718f1a58e1a2c6e32da0cd433c82407d1f0d63a673d54e7b141bad6e43ffd",
+          "fields": {
+            "title": "Fate/stay night (17)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (17)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784041200490",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2011-12-20",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201108/201108000630.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201108/201108000630.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201108000630/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201108000630/",
+            "value": "9784041200490"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 525,
+          "fingerprint": "a6f41ffed6c0fa64c4e3bb9b7341637b4ea9d3126e7dac08bbbb39b63524c057",
+          "fields": {
+            "title": "Fate/stay night (18)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (18)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784041202029",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2012-04-24",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201112/201112000376.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201112/201112000376.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201112000376/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201112000376/",
+            "value": "9784041202029"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 526,
+          "fingerprint": "18877c28bad8eec2446f9f1e382bf238682cdb90942ec4eb51cbaaa77c1b5c83",
+          "fields": {
+            "title": "Fate/stay night (19)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (19)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784041203590",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2012-08-23",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201204/201204000461.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201204/201204000461.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201204000461/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201204000461/",
+            "value": "9784041203590"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 527,
+          "fingerprint": "3767374e40f568deb89c9a8e514ecd9576aaa4b3952585a9720740ae41e4c6d9",
+          "fields": {
+            "title": "Fate/stay night (2)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (2)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047138650",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2006-10-24",
+            "year": "2006",
+            "image": "https://cdn.kdkw.jp/cover_1000/200602/200602000154.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200602/200602000154.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200602000154/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200602000154/",
+            "value": "9784047138650"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 528,
+          "fingerprint": "d4f97b20be151d23025ff4e5df2484a47421ef05dccca070b05ceca5f704b23e",
+          "fields": {
+            "title": "Fate/stay night (20)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (20)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784041205013",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2012-11-17",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/321207/321207000133.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321207/321207000133.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321207000133/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321207000133/",
+            "value": "9784041205013"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 529,
+          "fingerprint": "5ca979c00933ec1fb268ce6f0f9949c54a4217570b1d0f17313087bd5a6c2666",
+          "fields": {
+            "title": "Fate/stay night (3)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (3)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047139145",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2007-04-05",
+            "year": "2007",
+            "image": "https://cdn.kdkw.jp/cover_1000/200602/200602000155.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200602/200602000155.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200602000155/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200602000155/",
+            "value": "9784047139145"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 531,
+          "fingerprint": "2cad01306cbfdc6351ec5814ab395fc3068ea9faa639d862d9d8f9d314d5f7fb",
+          "fields": {
+            "title": "Fate/stay night (4)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (4)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047139558",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2007-09-21",
+            "year": "2007",
+            "image": "https://cdn.kdkw.jp/cover_1000/200704/200704000116.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200704/200704000116.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200704000116/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200704000116/",
+            "value": "9784047139558"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 532,
+          "fingerprint": "fe0d801eaeb63ff9696874e58127c0fb063edc81b25eacebaa3653c9ea656a33",
+          "fields": {
+            "title": "Fate/stay night (5)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (5)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047139954",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2007-12-20",
+            "year": "2007",
+            "image": "https://cdn.kdkw.jp/cover_1000/200704/200704000117.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200704/200704000117.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200704000117/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200704000117/",
+            "value": "9784047139954"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 533,
+          "fingerprint": "989a0dcef370a4692512f71519a5bdff859eb71de9b27e6c6c10572842973a50",
+          "fields": {
+            "title": "Fate/stay night (6)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (6)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047150478",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2008-04-24",
+            "year": "2008",
+            "image": "https://cdn.kdkw.jp/cover_1000/200711/200711000027.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200711/200711000027.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200711000027/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200711000027/",
+            "value": "9784047150478"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 534,
+          "fingerprint": "e645fed1c1e597eb9af203df8d746acc96a3a9c96ecba205d1fb59a45b468f3c",
+          "fields": {
+            "title": "Fate/stay night (8)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (8)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047151444",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2008-12-24",
+            "year": "2008",
+            "image": "https://cdn.kdkw.jp/cover_1000/200802/200802000746.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200802/200802000746.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200802000746/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200802000746/",
+            "value": "9784047151444"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 535,
+          "fingerprint": "19868c7e41f2e99864d3e0ce5ed12cb6724f7868a52ae915cfa59b8fcdf93ce3",
+          "fields": {
+            "title": "Fate/stay night (9)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (9)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047152304",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2009-04-23",
+            "year": "2009",
+            "image": "https://cdn.kdkw.jp/cover_1000/200812/200812000332.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200812/200812000332.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200812000332/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200812000332/",
+            "value": "9784047152304"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 553,
+          "fingerprint": "9b762280961e4a88870c45d69ccbde52d19d8f9e7988d90f0356da6b8247c798",
+          "fields": {
+            "title": "Fate/stay night (7)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (7)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047150942",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2008-08-22",
+            "year": "2008",
+            "image": "https://cdn.kdkw.jp/cover_1000/200802/200802000745.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200802/200802000745.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200802000745/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200802000745/",
+            "value": "9784047150942"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 570,
+          "fingerprint": "745292449dc6f1b03b4f5d3e486487bef46a334dea39e31c25950bc2d7ce2a70",
+          "fields": {
+            "title": "Fate/stay night (11)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (11)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047153486",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2009-12-22",
+            "year": "2009",
+            "image": "https://cdn.kdkw.jp/cover_1000/200812/200812000334.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200812/200812000334.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200812000334/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200812000334/",
+            "value": "9784047153486"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 571,
+          "fingerprint": "69e992ca62b3ff662ba61aef419297062d59f0ac60e53d3ed4d48fc8c1f00ea3",
+          "fields": {
+            "title": "Fate/stay night (15)",
+            "summary": "KADOKAWA书目收录的《Fate/stay night (15)》是漫画，西脇だっと绘制的游戏改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night 漫画版",
+            "event": "",
+            "isbn": "9784047156807",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画",
+              "Fate/stay night 漫画版",
+              "KADOKAWA",
+              "西脇だっと"
+            ],
+            "characters": [],
+            "releaseDate": "2011-04-22",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201012/201012000630.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201012/201012000630.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201012000630/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201012000630/",
+            "value": "9784047156807"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "a93f5a24291ee5e0d81b6d6a",
+      "members": [
+        {
+          "ordinal": 549,
+          "fingerprint": "4ac2eb5a78e914282d56afb7ee859a190bb29308c52fcd11436a5b9b57bb34ee",
+          "fields": {
+            "title": "Fate/stay night [Realta Nua]公式攻略ガイド",
+            "summary": "KADOKAWA书目收录的《Fate/stay night [Realta Nua]公式攻略ガイド》是游戏攻略本，整理 Réalta Nua 游戏的流程及攻略资料。",
+            "productType": "游戏攻略本",
+            "category": "攻略本",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night [Realta Nua]公式攻略ガイド",
+            "event": "",
+            "isbn": "9784047072367",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "游戏攻略本",
+              "Fate/stay night [Realta Nua]公式攻略ガイド",
+              "KADOKAWA",
+              "Réalta Nua"
+            ],
+            "characters": [],
+            "releaseDate": "2007-05-10",
+            "year": "2007",
+            "image": "https://cdn.kdkw.jp/cover_1000/200609/200609000277.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200609/200609000277.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200609000277/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200609000277/",
+            "value": "9784047072367"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "84955e8eb2319d9505634cf3",
+      "members": [
+        {
+          "ordinal": 554,
+          "fingerprint": "e85b22cc9361d4328b6250261943810fae9541fb0871355c3249a1ec224fb8f3",
+          "fields": {
+            "title": "Fate/stay night anime spiritual",
+            "summary": "KADOKAWA书目收录的《Fate/stay night anime spiritual》是动画资料集，整理 2006 年电视动画的视觉资料与访谈。",
+            "productType": "动画资料集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night anime spiritual",
+            "event": "",
+            "isbn": "9784048539937",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "动画资料集",
+              "Fate/stay night anime spiritual",
+              "KADOKAWA",
+              "2006年TV动画"
+            ],
+            "characters": [],
+            "releaseDate": "2006-08-08",
+            "year": "2006",
+            "image": "https://cdn.kdkw.jp/cover_1000/200604/200604000264.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200604/200604000264.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200604000264/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200604000264/",
+            "value": "9784048539937"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "596e7e9752a3dd3228bed100",
+      "members": [
+        {
+          "ordinal": 560,
+          "fingerprint": "70942a83186a71cabeade188a9afc32763396b43c9e5a151cec4e3f71e403365",
+          "fields": {
+            "title": "Fate/stay night コミックアラカルト ~グローリーバトル編~",
+            "summary": "KADOKAWA书目收录的《Fate/stay night コミックアラカルト ~グローリーバトル編~》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night コミックアラカルト ~グローリーバトル編~",
+            "event": "",
+            "isbn": "9784047138940",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night コミックアラカルト ~グローリーバトル編~",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2007-01-05",
+            "year": "2007",
+            "image": "https://cdn.kdkw.jp/cover_1000/200609/200609000151.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200609/200609000151.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200609000151/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200609000151/",
+            "value": "9784047138940"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "9c8482d76d22d216784db6b0",
+      "members": [
+        {
+          "ordinal": 561,
+          "fingerprint": "5dfc4c0aa8a67c45dd4ebe377bf6c09eb62cc813628c46dc16581aeac9b24394",
+          "fields": {
+            "title": "Fate/stay night コミックアラカルト ~シャイニータイム編~",
+            "summary": "KADOKAWA书目收录的《Fate/stay night コミックアラカルト ~シャイニータイム編~》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night コミックアラカルト ~シャイニータイム編~",
+            "event": "",
+            "isbn": "9784047139633",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night コミックアラカルト ~シャイニータイム編~",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2007-09-21",
+            "year": "2007",
+            "image": "https://cdn.kdkw.jp/cover_1000/200706/200706000143.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200706/200706000143.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200706000143/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200706000143/",
+            "value": "9784047139633"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "799c2b071c6319fa14240cd3",
+      "members": [
+        {
+          "ordinal": 564,
+          "fingerprint": "351f53601198168fe27d2edcffd5af3d0375fa2eee26fdf60c4d0419d25518a3",
+          "fields": {
+            "title": "Fate/stay night コミックバトル -激突編-",
+            "summary": "KADOKAWA书目收录的《Fate/stay night コミックバトル -激突編-》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night コミックバトル -激突編-",
+            "event": "",
+            "isbn": "9784048537605",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night コミックバトル -激突編-",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2004-08-06",
+            "year": "2004",
+            "image": "https://cdn.kdkw.jp/cover_1000/200403/200403000427.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200403/200403000427.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200403000427/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200403000427/",
+            "value": "9784048537605"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "e00ddbc4c53a314b0e3fa1a5",
+      "members": [
+        {
+          "ordinal": 565,
+          "fingerprint": "3cd6814c1981548d56fea7be59e44cc18ebbeddafe37c2a7a804bb84c79985f0",
+          "fields": {
+            "title": "Fate/stay night コミックバトル -血戦編-",
+            "summary": "KADOKAWA书目收录的《Fate/stay night コミックバトル -血戦編-》是漫画选集，围绕同名游戏角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night コミックバトル -血戦編-",
+            "event": "",
+            "isbn": "9784048537896",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay night コミックバトル -血戦編-",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2004-12-07",
+            "year": "2004",
+            "image": "https://cdn.kdkw.jp/cover_1000/200403/200403000428.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/200403/200403000428.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/200403000428/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/200403000428/",
+            "value": "9784048537896"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "3bd86477e1944e688715d298",
+      "members": [
+        {
+          "ordinal": 572,
+          "fingerprint": "547d1ede5183d02a89d9d6d847cbd26e43891b92198d627a04c9ccb1d5c45141",
+          "fields": {
+            "title": "Fate/stay night[Realta Nua]公式攻略ガイド 改訂版",
+            "summary": "KADOKAWA书目收录的《Fate/stay night[Realta Nua]公式攻略ガイド 改訂版》是游戏攻略本，整理 Réalta Nua 游戏的流程及攻略资料。",
+            "productType": "游戏攻略本",
+            "category": "攻略本",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay night[Realta Nua]公式攻略ガイド 改訂版",
+            "event": "",
+            "isbn": "9784041103364",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "游戏攻略本",
+              "Fate/stay night[Realta Nua]公式攻略ガイド 改訂版",
+              "KADOKAWA",
+              "Réalta Nua"
+            ],
+            "characters": [],
+            "releaseDate": "2012-11-28",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/321208/321208000191.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321208/321208000191.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321208000191/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321208000191/",
+            "value": "9784041103364"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "552df521f11d08ad746238b0",
+      "members": [
+        {
+          "ordinal": 585,
+          "fingerprint": "cf2c584ee5ff06260da194ebca9cf4bd486bb3a0070fbee793aeac9744c82e28",
+          "fields": {
+            "title": "Fate/stay nightアンソロジー傑作選(下)",
+            "summary": "KADOKAWA书目收录的《Fate/stay nightアンソロジー傑作選(下)》是漫画选集，汇集此前商业漫画选集中选出的短篇作品。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay nightアンソロジー傑作選",
+            "event": "",
+            "isbn": "9784047277342",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay nightアンソロジー傑作選",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2011-11-25",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201110/201110000517.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201110/201110000517.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201110000517/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201110000517/",
+            "value": "9784047277342"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "2ae9089c1beebf1eba31d954",
+      "members": [
+        {
+          "ordinal": 586,
+          "fingerprint": "108fdefb2f1d2279d64d6c9f76baaf3a29c08d9daba9877fd008b86c6830980b",
+          "fields": {
+            "title": "Fate/stay nightアンソロジー傑作選(上)",
+            "summary": "KADOKAWA书目收录的《Fate/stay nightアンソロジー傑作選(上)》是漫画选集，汇集此前商业漫画选集中选出的短篇作品。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/stay nightアンソロジー傑作選",
+            "event": "",
+            "isbn": "9784047277335",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/stay night",
+              "漫画选集",
+              "Fate/stay nightアンソロジー傑作選",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2011-11-25",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201110/201110000516.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201110/201110000516.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201110000516/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201110000516/",
+            "value": "9784047277335"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "0b778514434b7b287376c489",
+      "members": [
+        {
+          "ordinal": 591,
+          "fingerprint": "0aacbdd974ae2bd70b3fcbc71cfd248b922712a48d8914cafac2aa9c45d29f95",
+          "fields": {
+            "title": "Fate/strange Fake vol.1",
+            "summary": "KADOKAWA书目收录的《Fate/strange Fake vol.1》是漫画，森井しづき绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/strange Fake",
+            "productLine": "Fate/strange Fake 漫画版",
+            "event": "",
+            "isbn": "9784047309883",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/strange Fake",
+              "漫画",
+              "Fate/strange Fake 漫画版",
+              "KADOKAWA",
+              "森井しづき"
+            ],
+            "characters": [],
+            "releaseDate": "2016-01-14",
+            "year": "2016",
+            "image": "https://cdn.kdkw.jp/cover_1000/301512/301512000733.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/301512/301512000733.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/301512000733/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/301512000733/",
+            "value": "9784047309883"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 592,
+          "fingerprint": "05e518969c81b862b101809bba25c2122c3d533a580d4335f1a943b6944fe27c",
+          "fields": {
+            "title": "Fate/strange Fake vol.2",
+            "summary": "KADOKAWA书目收录的《Fate/strange Fake vol.2》是漫画，森井しづき绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/strange Fake",
+            "productLine": "Fate/strange Fake 漫画版",
+            "event": "",
+            "isbn": "9784047309890",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/strange Fake",
+              "漫画",
+              "Fate/strange Fake 漫画版",
+              "KADOKAWA",
+              "森井しづき"
+            ],
+            "characters": [],
+            "releaseDate": "2016-01-14",
+            "year": "2016",
+            "image": "https://cdn.kdkw.jp/cover_1000/301512/301512000734.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/301512/301512000734.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/301512000734/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/301512000734/",
+            "value": "9784047309890"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 593,
+          "fingerprint": "27f5f71451143cde0900226302051c79ffa5b7dbe5eda4a6dc09332c57ca643f",
+          "fields": {
+            "title": "Fate/strange Fake vol.3",
+            "summary": "KADOKAWA书目收录的《Fate/strange Fake vol.3》是漫画，森井しづき绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/strange Fake",
+            "productLine": "Fate/strange Fake 漫画版",
+            "event": "",
+            "isbn": "9784047309906",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/strange Fake",
+              "漫画",
+              "Fate/strange Fake 漫画版",
+              "KADOKAWA",
+              "森井しづき"
+            ],
+            "characters": [],
+            "releaseDate": "2017-08-23",
+            "year": "2017",
+            "image": "https://cdn.kdkw.jp/cover_1000/301707/301707000665.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/301707/301707000665.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/301707000665/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/301707000665/",
+            "value": "9784047309906"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 594,
+          "fingerprint": "9fad495e62674f1484e28a3a5aabf854ef75efc2fe8490289dfe418f5bc2070a",
+          "fields": {
+            "title": "Fate/strange Fake vol.4",
+            "summary": "KADOKAWA书目收录的《Fate/strange Fake vol.4》是漫画，森井しづき绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/strange Fake",
+            "productLine": "Fate/strange Fake 漫画版",
+            "event": "",
+            "isbn": "9784047309913",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/strange Fake",
+              "漫画",
+              "Fate/strange Fake 漫画版",
+              "KADOKAWA",
+              "森井しづき"
+            ],
+            "characters": [],
+            "releaseDate": "2019-10-04",
+            "year": "2019",
+            "image": "https://cdn.kdkw.jp/cover_1000/301908/301908000771.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/301908/301908000771.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/301908000771/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/301908000771/",
+            "value": "9784047309913"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 601,
+          "fingerprint": "a5d0aec2923f0e7321f19653b3b308a555a8c35878319116e98840247b167732",
+          "fields": {
+            "title": "Fate/strange Fake vol.5",
+            "summary": "KADOKAWA书目收录的《Fate/strange Fake vol.5》是漫画，森井しづき绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/strange Fake",
+            "productLine": "Fate/strange Fake 漫画版",
+            "event": "",
+            "isbn": "9784047309920",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/strange Fake",
+              "漫画",
+              "Fate/strange Fake 漫画版",
+              "KADOKAWA",
+              "森井しづき"
+            ],
+            "characters": [],
+            "releaseDate": "2022-02-10",
+            "year": "2022",
+            "image": "https://cdn.kdkw.jp/cover_1000/302111/302111001921.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/302111/302111001921.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/302111001921/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/302111001921/",
+            "value": "9784047309920"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "9ae23815ab1fa6fe0617fbea",
+      "members": [
+        {
+          "ordinal": 596,
+          "fingerprint": "91c88863a1f0622175291756f54f49633d332528b8f6b154401c975c5cc6ef03",
+          "fields": {
+            "title": "Fate/strange Fake(1)",
+            "summary": "KADOKAWA书目收录的《Fate/strange Fake(1)》是小说，成田良悟创作的伪圣杯战争轻小说。",
+            "productType": "小说",
+            "category": "小説",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/strange Fake",
+            "productLine": "Fate/strange Fake 小説版",
+            "event": "",
+            "isbn": "9784048691680",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/strange Fake",
+              "小说",
+              "Fate/strange Fake 小説版",
+              "KADOKAWA",
+              "成田良悟",
+              "电击文库"
+            ],
+            "characters": [],
+            "releaseDate": "2015-01-10",
+            "year": "2015",
+            "image": "https://cdn.kdkw.jp/cover_1000/312193/312193100000.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/312193/312193100000.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/312193100000/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/312193100000/",
+            "value": "9784048691680"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "acf5ec8422b056591dfb97b8",
+      "members": [
+        {
+          "ordinal": 609,
+          "fingerprint": "6756fe4c210b76735265ddb0ec2c61c0f79427058158824a3b3b91e2ab205f6d",
+          "fields": {
+            "title": "Fate/Zero (1)",
+            "summary": "KADOKAWA书目收录的《Fate/Zero (1)》是漫画，真じろう绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero 漫画版",
+            "event": "",
+            "isbn": "9784047157712",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画",
+              "Fate/Zero 漫画版",
+              "KADOKAWA",
+              "真じろう"
+            ],
+            "characters": [],
+            "releaseDate": "2011-09-01",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201103/201103000709.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201103/201103000709.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201103000709/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201103000709/",
+            "value": "9784047157712"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 615,
+          "fingerprint": "b36df613105cddd41fd97ca0a7f76c478c3cfec96b1a0ab76b3285f7ae89f788",
+          "fields": {
+            "title": "Fate/Zero (2)",
+            "summary": "KADOKAWA书目收录的《Fate/Zero (2)》是漫画，真じろう绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero 漫画版",
+            "event": "",
+            "isbn": "9784047157873",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画",
+              "Fate/Zero 漫画版",
+              "KADOKAWA",
+              "真じろう"
+            ],
+            "characters": [],
+            "releaseDate": "2011-09-30",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201103/201103000710.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201103/201103000710.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201103000710/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201103000710/",
+            "value": "9784047157873"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 616,
+          "fingerprint": "9e6ecced42d8adbedfe1101a56d545a386714f0be913a1216e1690b056f8fa48",
+          "fields": {
+            "title": "Fate/Zero (3)",
+            "summary": "KADOKAWA书目收录的《Fate/Zero (3)》是漫画，真じろう绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero 漫画版",
+            "event": "",
+            "isbn": "9784047158191",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画",
+              "Fate/Zero 漫画版",
+              "KADOKAWA",
+              "真じろう"
+            ],
+            "characters": [],
+            "releaseDate": "2012-03-31",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201103/201103000711.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201103/201103000711.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201103000711/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201103000711/",
+            "value": "9784047158191"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 617,
+          "fingerprint": "f7f25da95aa9fa9375da66b213ee650f718e85b7e7f348a4f993e78641194c08",
+          "fields": {
+            "title": "Fate/Zero (4)",
+            "summary": "KADOKAWA书目收录的《Fate/Zero (4)》是漫画，真じろう绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero 漫画版",
+            "event": "",
+            "isbn": "9784041204016",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画",
+              "Fate/Zero 漫画版",
+              "KADOKAWA",
+              "真じろう"
+            ],
+            "characters": [],
+            "releaseDate": "2012-09-29",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/321205/321205000109.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321205/321205000109.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321205000109/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321205000109/",
+            "value": "9784041204016"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        },
+        {
+          "ordinal": 618,
+          "fingerprint": "8dd846b834141515bd9177cbbf8c88ad42568d89bcf4e50232ac94ee2f790087",
+          "fields": {
+            "title": "Fate/Zero (5)",
+            "summary": "KADOKAWA书目收录的《Fate/Zero (5)》是漫画，真じろう绘制的同名小说改编漫画。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero 漫画版",
+            "event": "",
+            "isbn": "9784041205631",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画",
+              "Fate/Zero 漫画版",
+              "KADOKAWA",
+              "真じろう"
+            ],
+            "characters": [],
+            "releaseDate": "2013-01-31",
+            "year": "2013",
+            "image": "https://cdn.kdkw.jp/cover_1000/321205/321205000110.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321205/321205000110.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321205000110/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321205000110/",
+            "value": "9784041205631"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "a5aa0e30e25ad658fc1df0e3",
+      "members": [
+        {
+          "ordinal": 627,
+          "fingerprint": "18f336adab847206d59bf2ef51ea62ed9ca6b01b64d7d62639fcb8f5e65b56eb",
+          "fields": {
+            "title": "Fate/Zero アニメビジュアルガイド I",
+            "summary": "KADOKAWA书目收录的《Fate/Zero アニメビジュアルガイド I》是动画资料集，整理 Fate/Zero 动画的视觉资料与制作内容。",
+            "productType": "动画资料集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero アニメビジュアルガイド I",
+            "event": "",
+            "isbn": "9784041101292",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "动画资料集",
+              "Fate/Zero アニメビジュアルガイド I",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2012-03-26",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201111/201111000526.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201111/201111000526.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201111000526/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201111000526/",
+            "value": "9784041101292"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "eded43bba784a91afd3a1b5a",
+      "members": [
+        {
+          "ordinal": 628,
+          "fingerprint": "b537d5066cf3a10ba49968a0a49eb1f91a341598be18b7e5c1f1b7d096a951b1",
+          "fields": {
+            "title": "Fate/Zero アニメビジュアルガイド II",
+            "summary": "KADOKAWA书目收录的《Fate/Zero アニメビジュアルガイド II》是动画资料集，整理 Fate/Zero 动画的视觉资料与制作内容。",
+            "productType": "动画资料集",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero アニメビジュアルガイド II",
+            "event": "",
+            "isbn": "9784041103081",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "动画资料集",
+              "Fate/Zero アニメビジュアルガイド II",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2012-11-06",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/321206/321206000112.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/321206/321206000112.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/321206000112/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/321206000112/",
+            "value": "9784041103081"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "b1e9c308c2239624851b1642",
+      "members": [
+        {
+          "ordinal": 629,
+          "fingerprint": "8475a4d5b3e930453af89cfda02e603378c135665ed373da48781540f78fcf39",
+          "fields": {
+            "title": "Fate/Zero コミックアラカルト 開戦編",
+            "summary": "KADOKAWA书目收录的《Fate/Zero コミックアラカルト 開戦編》是漫画选集，围绕 Fate/Zero 角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero コミックアラカルト 開戦編",
+            "event": "",
+            "isbn": "9784047156623",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画选集",
+              "Fate/Zero コミックアラカルト 開戦編",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2011-03-23",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201012/201012000109.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201012/201012000109.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201012000109/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201012000109/",
+            "value": "9784047156623"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "92fc702709c6479ea1feff6a",
+      "members": [
+        {
+          "ordinal": 630,
+          "fingerprint": "1a5b85fc8293320b13e413d100c70824f54b2c467cc6f1c5c01f385ef3010ce7",
+          "fields": {
+            "title": "Fate/Zero コミックアラカルト 群雄編",
+            "summary": "KADOKAWA书目收录的《Fate/Zero コミックアラカルト 群雄編》是漫画选集，围绕 Fate/Zero 角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero コミックアラカルト 群雄編",
+            "event": "",
+            "isbn": "9784047157828",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画选集",
+              "Fate/Zero コミックアラカルト 群雄編",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2011-09-21",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201105/201105000543.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201105/201105000543.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201105000543/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201105000543/",
+            "value": "9784047157828"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "c9ccf4f0667370fb40d20b82",
+      "members": [
+        {
+          "ordinal": 631,
+          "fingerprint": "9461b695affe7d7ebb448453f7a366746f9a217f478bdf2ade1b067feb38afc0",
+          "fields": {
+            "title": "Fate/Zero コミックアラカルト 決戦編",
+            "summary": "KADOKAWA书目收录的《Fate/Zero コミックアラカルト 決戦編》是漫画选集，围绕 Fate/Zero 角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero コミックアラカルト 決戦編",
+            "event": "",
+            "isbn": "9784041202364",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画选集",
+              "Fate/Zero コミックアラカルト 決戦編",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2012-05-24",
+            "year": "2012",
+            "image": "https://cdn.kdkw.jp/cover_1000/201201/201201000409.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201201/201201000409.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201201000409/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201201000409/",
+            "value": "9784041202364"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "57965864a0fdb2c89d805320",
+      "members": [
+        {
+          "ordinal": 632,
+          "fingerprint": "eadd4623efd32a146ee6724e2f3b832b839dfafe3188e67767154004e23b03a9",
+          "fields": {
+            "title": "Fate/Zero コミックアラカルト 乱雲編",
+            "summary": "KADOKAWA书目收录的《Fate/Zero コミックアラカルト 乱雲編》是漫画选集，围绕 Fate/Zero 角色创作的商业漫画选集。",
+            "productType": "漫画选集",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "Fate/Zero",
+            "productLine": "Fate/Zero コミックアラカルト 乱雲編",
+            "event": "",
+            "isbn": "9784041200032",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "Fate/Zero",
+              "漫画选集",
+              "Fate/Zero コミックアラカルト 乱雲編",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2011-11-19",
+            "year": "2011",
+            "image": "https://cdn.kdkw.jp/cover_1000/201107/201107000445.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201107/201107000445.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201107000445/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201107000445/",
+            "value": "9784041200032"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "9943e17870b01a29e5197aad",
+      "members": [
+        {
+          "ordinal": 649,
+          "fingerprint": "d19950be06b5ef449c0eca116e376e454719e88df025389a974349fd534b91d3",
+          "fields": {
+            "title": "GOD EATER(1)-the spiral fate-",
+            "summary": "KADOKAWA书目收录的《GOD EATER(1)-the spiral fate-》是漫画，改编 GOD EATER 游戏世界的漫画，作品名中的 fate 并非 TYPE-MOON 的 Fate 系列。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "GOD EATER",
+            "productLine": "GOD EATER the spiral fate",
+            "event": "",
+            "isbn": "9784048685047",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "GOD EATER",
+              "漫画",
+              "GOD EATER the spiral fate",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2010-03-27",
+            "year": "2010",
+            "jan": "",
+            "image": "https://cdn.kdkw.jp/cover_1000/201003/201003000327.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201003/201003000327.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201003000327/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201003000327/",
+            "value": "9784048685047"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "cd93d2b74d0654b19b3b0207",
+      "members": [
+        {
+          "ordinal": 650,
+          "fingerprint": "61491b664d65f0ba31bc9ec6951a81254e88cbab7e8e845fe23b85d688fb0be2",
+          "fields": {
+            "title": "GOD EATER(2) -the spiral fate-",
+            "summary": "KADOKAWA书目收录的《GOD EATER(2) -the spiral fate-》是漫画，改编 GOD EATER 游戏世界的漫画，作品名中的 fate 并非 TYPE-MOON 的 Fate 系列。",
+            "productType": "漫画",
+            "category": "コミック",
+            "majorClass": "书籍",
+            "origin": "commercial",
+            "series": "GOD EATER",
+            "productLine": "GOD EATER the spiral fate",
+            "event": "",
+            "isbn": "9784048689762",
+            "publisher": "KADOKAWA",
+            "tags": [
+              "GOD EATER",
+              "漫画",
+              "GOD EATER the spiral fate",
+              "KADOKAWA"
+            ],
+            "characters": [],
+            "releaseDate": "2010-11-27",
+            "year": "2010",
+            "jan": "",
+            "image": "https://cdn.kdkw.jp/cover_1000/201007/201007000280.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201007/201007000280.webp"
+            ],
+            "imageRole": "product"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201007000280/"
+          ],
+          "match": {
+            "by": "isbn",
+            "url": "https://www.kadokawa.co.jp/product/201007000280/",
+            "value": "9784048689762"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    },
+    {
+      "id": "71fcbcc28b8378b72be22818",
+      "members": [
+        {
+          "ordinal": 132,
+          "fingerprint": "ebe26b21d5bc3ee61a65fb737eba368f1a006a55ac7e9233866433b16a076fc0",
+          "fields": {
+            "summary": "Fate/complete material 是 Fate/stay night 及相关衍生作品的官方画集与设定资料系列，此条为关联各卷的目录，封面以 IV 卷作参考，并非独立发售套装。",
+            "category": "設定資料集",
+            "majorClass": "书籍",
+            "productType": "设定集",
+            "origin": "commercial",
+            "series": "Fate/stay night",
+            "productLine": "Fate/complete material",
+            "tags": [
+              "Fate/stay night",
+              "Fate/hollow ataraxia",
+              "Fate/complete material",
+              "设定集",
+              "画集"
+            ],
+            "image": "https://cdn.kdkw.jp/cover_1000/201009/201009000607.webp",
+            "images": [
+              "https://cdn.kdkw.jp/cover_1000/201009/201009000607.webp"
+            ],
+            "imageRole": "catalogue_reference"
+          },
+          "sources": [
+            "https://www.kadokawa.co.jp/product/201009000607/"
+          ],
+          "match": {
+            "by": "catalogue-entry",
+            "url": "https://www.kadokawa.co.jp/product/201009000607/",
+            "value": "Fate/complete material 系列及 IV Extra material 卷"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": true,
+            "tags": true,
+            "summary": true
+          },
+          "unresolved": []
+        }
+      ]
+    }
+  ]
+}

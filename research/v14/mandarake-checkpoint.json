@@ -1,0 +1,25 @@
+{
+  "id": "mandarake",
+  "url": "https://order.mandarake.co.jp/order/listPage/list?page=5&dispCount=240&soldOut=1&keyword=Fate",
+  "next": "https://order.mandarake.co.jp/order/listPage/list?page=7&dispCount=240&soldOut=1&keyword=Fate",
+  "pages": [
+    {
+      "url": "https://order.mandarake.co.jp/order/listPage/list?page=5&dispCount=240&soldOut=1&keyword=Fate",
+      "file": "mandarake-0.json",
+      "count": 240,
+      "observedAt": "2026-10-16T14:39:54.177Z"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/listPage/list?page=6&dispCount=240&soldOut=1&keyword=Fate",
+      "file": "mandarake-1.json",
+      "count": 240,
+      "observedAt": "2026-10-16T14:40:10.592Z"
+    }
+  ],
+  "failures": [],
+  "observations": 480,
+  "status": "bounded",
+  "total": 25836,
+  "uniqueListings": 480,
+  "updatedAt": "2026-10-16T14:40:15.443Z"
+}

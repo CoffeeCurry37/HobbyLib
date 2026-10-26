@@ -1,0 +1,13 @@
+{
+  "id": "aniplex-current",
+  "targets": 144,
+  "completed": 143,
+  "failures": [
+    {
+      "url": "https://online.aniplex.co.jp/itemCVhbvlES.html",
+      "error": "仅支持已列出的商店 HTTPS 公开页面"
+    }
+  ],
+  "next": null,
+  "status": "partial"
+}

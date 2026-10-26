@@ -1,0 +1,91 @@
+# Candidate preparation only. Human review and image validation required before decisions.
+import json,pathlib,re,unicodedata,sys
+OUT=pathlib.Path(sys.argv[1]);OUT.mkdir(parents=True,exist_ok=True)
+P=pathlib.Path('research/editorial-20261021/workflow');cache={f.stem:json.load(open(f)) for f in (P/'source-cache').glob('*.json')};rows=[json.loads(l) for l in open(P/'items.jsonl')];profiles={}
+def add(nums,series,typ,context,line=None,tags=[]):
+ for n in nums:profiles[n]={'series':series,'productType':typ,'context':context,'productLine':line,'tags':tags}
+def rng(a,b):return range(a,b+1)
+add(rng(81,90),'Fate/stay night','漫画选集','收录围绕原作角色创作的商业短篇漫画','Fate/stay night アンソロジーコミック',['商业漫画选集','Enterbrain'])
+add(list(rng(96,103))+[108,109,110,115,128,129,130,131],'Fate/Apocrypha','漫画','改编自同名小说的圣杯大战故事','Fate/Apocrypha 漫画版')
+add([104,105,119,121,125],'Fate/Apocrypha','小说','东出祐一郎创作的圣杯大战小说文库版','Fate/Apocrypha 文庫版',['东出祐一郎','文库版'])
+add([127],'Fate/Apocrypha','动画资料集','汇集电视动画的角色与视觉资料','Fate/Apocrypha アニメビジュアルガイド',['TV动画'])
+add([133],'Fate/stay night','画集','收录游戏视觉插画的 Art material 卷','Fate/complete material',['Art material'])
+add([134],'Fate/hollow ataraxia','设定集','收录游戏视觉与角色资料的 Hollow material 卷','Fate/complete material',['Hollow material'])
+add([135],'Fate/stay night','设定集','将原 I、II、III 卷内容重新编排为单册的复刻合订版','Fate/complete material',['复刻版','合订本'])
+add([137],'Fate/stay night','设定集','以游戏角色设计资料为主题的 Character material 卷','Fate/complete material',['角色设定'])
+add([138],'Fate/stay night','设定集','以游戏世界观资料为主题的 World material 卷','Fate/complete material',['世界观设定'])
+add([139,144],'Fate/stay night','设定集','汇集 Fate 衍生作品资料的 Extra material 卷','Fate/complete material',['Extra material'])
+add([140],'Fate/stay night','设定集','将原 IV、V 卷重新编排为单册的复刻合订版，涉及 Fate 衍生作品及 hollow ataraxia','Fate/complete material',['Fate/hollow ataraxia','复刻版','合订本'])
+add([152],'Fate/EXTRA','漫画选集','围绕 Fate/EXTRA CCC 角色创作的商业漫画选集','Fate/EXTRA CCC コミックアンソロジー',['Fate/EXTRA CCC'])
+add([173],'Fate/Grand Order','动画资料集','整理绝对魔兽战线巴比伦尼亚与终局特异点所罗门的动画视觉资料',None,['绝对魔兽战线巴比伦尼亚','终局特异点所罗门'])
+add([175,176,177]+list(rng(190,194)),'Fate/Grand Order','漫画','改编游戏亚种特异点 EX「深海电脑乐土 SE.RA.PH」的故事','Fate/Grand Order SE.RA.PH 漫画版',['SE.RA.PH','Epic of Remnant'])
+add([180,181,182,183,195,196,197],'Fate/Grand Order','漫画','改编游戏亚种特异点 I「新宿幻灵事件」的故事','Fate/Grand Order 新宿幻霊事件 漫画版',['新宿幻灵事件','Epic of Remnant'])
+add([185,186,198,199,200,201],'Fate/Grand Order','漫画','改编游戏亚种特异点 II「雅戈泰之女」的故事','Fate/Grand Order アガルタの女 漫画版',['雅戈泰之女','Epic of Remnant'])
+add([231],'Fate/Grand Order','漫画作品集','收录 nipi 创作的 FGO 漫画与插画，主要围绕贞德 Alter、阿尔托莉雅 Alter',None,['nipi','贞德 Alter','阿尔托莉雅 Alter'])
+add([233,235],'Fate/Grand Order','漫画','以桌面游戏 Duel -collection figure- 为题材的漫画',None,['Duel -collection figure-'])
+add([280],'Fate/Grand Order','漫画','讲述游戏「SABER WARS 2」事件之前的故事',None,['SABER WARS 2','前传'])
+add([285],'Fate/Grand Order','漫画作品集','汇集過たず创作的 FGO 搞笑漫画',None,['過たず'])
+add([292],'Fate/Grand Order','漫画作品集','收录中谷创作的阿瓦隆相关漫画与短篇',None,['中谷','阿瓦隆'])
+add([302,304],'Fate/Grand Order','官方资料杂志','围绕游戏角色、故事及创作资料编排的官方专题书刊','Fate/Grand Order カルデアエース')
+add([307],'Fate/Grand Order','画集','收录 pixiv 创作者大赛获奖插画及特邀绘师作品',None,['pixiv','Creator’s Contest 2024'])
+add(rng(309,336),'Fate/Grand Order','漫画选集','围绕游戏角色创作的商业短篇漫画选集')
+add([343],'Fate/Grand Order','漫画作品集','收录黒瀬浩介创作的 FGO 漫画',None,['黒瀬浩介'])
+add(rng(345,350),'Fate/Grand Order','漫画','以游戏异闻带与隐匿者为主题的漫画','Fate/Grand Order フロム ロストベルト',['异闻带','隐匿者'])
+add([351],'Fate/Grand Order','漫画作品集','收录青乃下创作的 FGO 漫画',None,['青乃下'])
+add([353],'Fate/Grand Order','漫画','以英灵与饮食文化为题材的衍生漫画','Fate/Grand Order 英霊食聞録')
+add([354],'Fate/Grand Order','漫画作品集','收录逢坂たま创作的 FGO 漫画',None,['逢坂たま'])
+add([355],'Fate/Grand Order','漫画作品集','收录霧月创作的 FGO 漫画',None,['霧月'])
+add(rng(358,375),'Fate/Grand Order','漫画选集','围绕游戏角色创作的电击商业漫画选集','Fate/Grand Order 電撃コミックアンソロジー')
+add([377,379,380,382,383,384,385],'Fate/Grand Order','漫画','描绘藤丸立香与迦勒底日常的搞笑漫画','Fate/Grand Order 藤丸立香はわからない',['藤丸立香'])
+add([387],'Fate/Grand Order','漫画作品集','收录ぴよ创作的 FGO 漫画',None,['ぴよ'])
+add([388,389],'Fate/Grand Order','漫画','将游戏幕间物语改编成漫画','Fate/Grand Order 幕間の物語',['幕间物语'])
+add([431,432],'Fate/hollow ataraxia','漫画','改编同名游戏的漫画','Fate/hollow ataraxia 漫画版')
+add(rng(434,442),'Fate/hollow ataraxia','漫画选集','围绕同名游戏角色创作的商业漫画选集','Fate/hollow ataraxia アンソロジーコミック')
+add([443,445],'Fate/hollow ataraxia','漫画选集','围绕同名游戏角色创作的商业漫画选集','Fate/hollow ataraxia コミックアラカルト')
+add([449,478],'Fate/kaleid liner','小说','以魔法少女伊莉雅为题材的小说版','Fate/kaleid liner プリズマ☆イリヤ 小説版')
+add([450,451],'Fate/kaleid liner','漫画','魔法少女伊莉雅漫画系列的第一部','Fate/kaleid liner プリズマ☆イリヤ')
+add([452],'Fate/kaleid liner','画集','汇集魔法少女伊莉雅电视动画的版权插画',None,['动画画集'])
+add(rng(454,459),'Fate/kaleid liner','漫画','魔法少女伊莉雅漫画系列的第二部','Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!')
+add([446]+list(rng(462,478)),'Fate/kaleid liner','漫画','魔法少女伊莉雅漫画系列的第三部','Fate/kaleid liner プリズマ☆イリヤ ドライ!!')
+# Volume 2 novel is an explicit exception to the above numerical neighbourhood.
+add([478],'Fate/kaleid liner','小说','以魔法少女伊莉雅为题材的小说版','Fate/kaleid liner プリズマ☆イリヤ 小説版')
+add([479,480,481],'Fate/Prototype','小说','桜井光创作的迷宫圣杯战争外传小说','Fate/Labyrinth',['桜井光','Fate/Labyrinth'])
+add(list(rng(486,490))+list(rng(496,500)),'Fate/Prototype','小说','桜井光创作的 Fate/Prototype 前传小说','Fate/Prototype 蒼銀のフラグメンツ',['桜井光','前传'])
+add([491]+list(rng(505,508)),'Fate/Prototype','小说','Fate/Prototype 前传小说的文库版','Fate/Prototype 蒼銀のフラグメンツ 文庫版',['桜井光','前传','文库版'])
+add([492],'Fate/Prototype','漫画','鈴木ツタ绘制的苍银碎片小说改编漫画','Fate/Prototype 蒼銀のフラグメンツ 漫画版',['鈴木ツタ'])
+add([512],'Fate/Samurai Remnant','漫画','改编同名游戏的漫画','Fate/Samurai Remnant 漫画版')
+add([514],'Fate/Samurai Remnant','游戏攻略本','整理同名游戏流程、战斗及相关攻略资料')
+add(list(rng(518,535))+[553,570,571],'Fate/stay night','漫画','西脇だっと绘制的游戏改编漫画','Fate/stay night 漫画版',['西脇だっと'])
+add(rng(537,548),'Fate/stay night','漫画','タスクオーナ绘制的 Heaven’s Feel 路线改编漫画','Fate/stay night Heaven’s Feel 漫画版',['Heaven’s Feel','タスクオーナ'])
+add([549,572],'Fate/stay night','游戏攻略本','整理 Réalta Nua 游戏的流程及攻略资料',None,['Réalta Nua'])
+add([550],'Fate/stay night','漫画选集','围绕 Unlimited Blade Works 创作的商业漫画选集',None,['Unlimited Blade Works'])
+add([554],'Fate/stay night','动画资料集','整理 2006 年电视动画的视觉资料与访谈',None,['2006年TV动画'])
+add(rng(560,565),'Fate/stay night','漫画选集','围绕同名游戏角色创作的商业漫画选集')
+add(rng(574,583),'Fate/stay night','漫画','森山大輔绘制的 Unlimited Blade Works 路线改编漫画','Fate/stay night Unlimited Blade Works 漫画版',['Unlimited Blade Works','森山大輔'])
+add([581],'Fate/stay night','动画资料集','整理 Unlimited Blade Works 电视动画的视觉资料',None,['Unlimited Blade Works','TV动画'])
+add([585,586],'Fate/stay night','漫画选集','汇集此前商业漫画选集中选出的短篇作品')
+add([591,592,593,594,601],'Fate/strange Fake','漫画','森井しづき绘制的同名小说改编漫画','Fate/strange Fake 漫画版',['森井しづき'])
+add([596,597,598,599,600,602,603,604,605],'Fate/strange Fake','小说','成田良悟创作的伪圣杯战争轻小说','Fate/strange Fake 小説版',['成田良悟','电击文库'])
+add(rng(609,625),'Fate/Zero','漫画','真じろう绘制的同名小说改编漫画','Fate/Zero 漫画版',['真じろう'])
+add([627,628],'Fate/Zero','动画资料集','整理 Fate/Zero 动画的视觉资料与制作内容')
+add(rng(629,632),'Fate/Zero','漫画选集','围绕 Fate/Zero 角色创作的商业漫画选集')
+add([634],'Fate/Zero','漫画','雌鳥创作的 Fate/Zero 搞笑漫画',None,['雌鳥'])
+add([649,650],'GOD EATER','漫画','改编 GOD EATER 游戏世界的漫画，作品名中的 fate 并非 TYPE-MOON 的 Fate 系列','GOD EATER the spiral fate')
+selected=[];exceptions=[]
+for r in rows:
+ n=r['ordinal'];old=r['facts']
+ if n not in profiles or r['status']!='pending' or old.get('catalogueGroup') or any(f in r['flags'] for f in ['edition','conflict']):continue
+ if n==530:continue # limited figurine bundle, separate review
+ matches=[]
+ for k in r['sourceIds']:
+  c=cache.get(k,{})
+  if 'www.kadokawa.co.jp/product/' not in c.get('url',''):continue
+  for s in c.get('products',[]):
+   isbn=s.get('facts',{}).get('isbn')
+   if isbn and isbn in (old.get('isbn'),old.get('jan')): matches.append((c,s))
+ if not matches:continue
+ c,s=matches[0];title=unicodedata.normalize('NFKC',s['title']).strip();profile=profiles[n]
+ selected.append({'ordinal':n,'id':r['id'],'fingerprint':r['fingerprint'],'groupId':r['groupId'],'old':old,'source':s,'url':c['url'],'profile':profile,'canonicalTitle':title})
+json.dump(selected,open(OUT/'review-selected.json','w'),ensure_ascii=False)
+json.dump([{'ordinal':x['ordinal'],'id':x['id'],'url':x['source']['image']} for x in selected if x['source'].get('image')],open(OUT/'review-images.json','w'))
+print(json.dumps({'selected':len(selected),'types':{t:sum(x['profile']['productType']==t for x in selected) for t in sorted({x['profile']['productType'] for x in selected})}},ensure_ascii=False))

@@ -1,0 +1,28 @@
+{
+  "id": "amiami-stock",
+  "url": "https://www.amiami.jp/top/search/list?s_keywords=Fate&s_st_list_newitem_available=1&pagemax=60&s_sortkey=regtimed",
+  "next": null,
+  "pages": [
+    {
+      "url": "https://www.amiami.jp/top/search/list?s_keywords=Fate&s_st_list_newitem_available=1&pagemax=60&s_sortkey=regtimed",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&s_sortkey=regtimed&s_st_list_newitem_available=1&pagemax=60&getcnt=0&pagecnt=2",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&s_sortkey=regtimed&s_st_list_newitem_available=1&pagemax=60&getcnt=0&pagecnt=3",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&s_sortkey=regtimed&s_st_list_newitem_available=1&pagemax=60&getcnt=0&pagecnt=4",
+      "count": 36
+    }
+  ],
+  "observations": 216,
+  "total": 216,
+  "failures": [],
+  "status": "completed",
+  "updatedAt": "2026-10-05T19:43:07.774Z"
+}

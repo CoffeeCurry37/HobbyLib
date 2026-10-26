@@ -1,0 +1,49 @@
+{
+  "at": "2026-10-18T05:48:39.597Z",
+  "newRecords": 446,
+  "newImages": 444,
+  "imageGains": 3,
+  "metadataChanges": [
+    {
+      "id": "source-820216d63e923b3405fa0517a7ff1b70",
+      "fields": [
+        "category",
+        "majorClass"
+      ]
+    },
+    {
+      "id": "source-affefac425e026357b07f1361efb969e",
+      "fields": [
+        "category"
+      ]
+    },
+    {
+      "id": "source-d35c8434b3e235f1c68bd43719cd7a02",
+      "fields": [
+        "category"
+      ]
+    }
+  ],
+  "groups": {
+    "unknown / 周边": 217,
+    "unknown / 卡片": 60,
+    "unknown / 大型周边": 2,
+    "commercial / 玩具": 81,
+    "commercial / 周边": 17,
+    "unknown / 书籍": 4,
+    "unknown / 玩具": 34,
+    "doujin / 同人": 26,
+    "unknown / 影像": 3,
+    "unknown / 游戏": 1,
+    "commercial / 卡片": 1
+  },
+  "candidates": [
+    {
+      "fromId": "source-952180be142c06d45a9090f3425edd27",
+      "toId": "source-84d4b98170e2db694cdd4a71b31a656c",
+      "ageConflict": true,
+      "newRecord": false
+    }
+  ],
+  "relationsAdded": 2
+}

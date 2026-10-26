@@ -1,0 +1,44 @@
+{
+  "id": "suruga-games",
+  "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On",
+  "next": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=9",
+  "pages": [
+    {
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=2",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=3",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=4",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=5",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=6",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=7",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=8",
+      "count": 24
+    }
+  ],
+  "observations": 192,
+  "total": 50481,
+  "failures": [],
+  "status": "bounded",
+  "updatedAt": "2026-10-06T01:42:30.708Z"
+}

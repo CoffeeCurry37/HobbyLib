@@ -1,0 +1,6 @@
+// Verify that every explicit review image is available and keep a receipt for visual inspection.
+import {readFileSync,writeFileSync,mkdirSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+const [input,folder]=process.argv.slice(2),rows=JSON.parse(readFileSync(input));mkdirSync(folder,{recursive:true});let cursor=0;const results=[];
+await Promise.all(Array.from({length:6},async()=>{while(cursor<rows.length){const row=rows[cursor++],path=folder+'/'+row.ordinal;let result={...row,at:new Date().toISOString()};try{const response=await fetch(row.url,{signal:AbortSignal.timeout(25000)}),type=response.headers.get('content-type')||'';if(!response.ok||!type.startsWith('image/'))throw Error('HTTP '+response.status+' '+type);const bytes=Buffer.from(await response.arrayBuffer());if(bytes.length<1000)throw Error('Image too small');writeFileSync(path,bytes);result={...result,ok:true,bytes:bytes.length,type,sha256:createHash('sha256').update(bytes).digest('hex'),path};}catch(e){result={...result,ok:false,error:e.message};}results.push(result);}}));
+results.sort((a,b)=>a.ordinal-b.ordinal);writeFileSync(folder+'/receipts.json',JSON.stringify(results,null,2));console.log(JSON.stringify({total:rows.length,ok:results.filter(r=>r.ok).length,failed:results.filter(r=>!r.ok)}));

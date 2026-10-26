@@ -1,0 +1,281 @@
+{
+  "newObservations": 4212,
+  "images": 4114,
+  "excluded": 930,
+  "sources": [
+    {
+      "name": "骏河屋 · Fate 在售续采",
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate&ck=true&inStock=On&page=31",
+      "pages": 12,
+      "count": 288,
+      "total": 157224,
+      "status": "bounded",
+      "next": "https://www.suruga-ya.jp/search?category=&search_word=Fate&ck=true&inStock=On&page=43",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "骏河屋 · 综合补充",
+      "url": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On",
+      "pages": 8,
+      "count": 192,
+      "total": 50481,
+      "status": "bounded",
+      "next": "https://www.suruga-ya.jp/search?category=5&search_word=Fate&ck=true&inStock=On&page=9",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "骏河屋 · 主机游戏软件与硬件",
+      "url": "https://www.suruga-ya.jp/search?category=200&search_word=Fate&ck=true&inStock=On",
+      "pages": 6,
+      "count": 133,
+      "total": 133,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "仅表示本次入口结果；详情或失败记录另列"
+    },
+    {
+      "name": "骏河屋 · 掌机游戏软件与硬件",
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On",
+      "pages": 8,
+      "count": 186,
+      "total": 186,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "仅表示本次入口结果；详情或失败记录另列"
+    },
+    {
+      "name": "骏河屋 · 影像碟片补充",
+      "url": "https://www.suruga-ya.jp/search?category=300&search_word=Fate&ck=true&inStock=On",
+      "pages": 8,
+      "count": 192,
+      "total": 698,
+      "status": "bounded",
+      "next": "https://www.suruga-ya.jp/search?category=300&search_word=Fate&ck=true&inStock=On&page=9",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "骏河屋 · 同人续采",
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=204&release_year=[2019,2021]&subgenre=Fate",
+      "pages": 12,
+      "count": 288,
+      "total": 6376,
+      "status": "bounded",
+      "next": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=216&release_year=[2019,2021]&subgenre=Fate",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "AmiAmi · 历史手办与玩具续采",
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_sortkey=regtimed&s_cate_tag=1&pagecnt=9",
+      "pages": 8,
+      "count": 480,
+      "total": 2042,
+      "status": "bounded",
+      "next": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=17",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "AmiAmi · 二手入口",
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_st_condition_flg=1&s_sortkey=regtimed",
+      "pages": 5,
+      "count": 260,
+      "total": 260,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "仅表示本次入口结果；详情或失败记录另列"
+    },
+    {
+      "name": "Yahoo · Fate 在售与拍卖",
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&b=1&n=50",
+      "pages": 8,
+      "count": 402,
+      "total": null,
+      "status": "bounded",
+      "next": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=401&n=50",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "Mercari · Fate 挂牌",
+      "url": "https://jp.mercari.com/search?keyword=Fate",
+      "pages": 3,
+      "count": 360,
+      "total": null,
+      "status": "bounded",
+      "next": "https://jp.mercari.com/search?keyword=Fate&page_token=v1%3A3",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "Mandarake · 最新 Fate 公开列表",
+      "url": "https://order.mandarake.co.jp/order/listPage/list?dispCount=240&keyword=Fate&lang=ja&soldOut=1",
+      "pages": 3,
+      "count": 720,
+      "total": 25841,
+      "status": "bounded",
+      "next": "https://order.mandarake.co.jp/order/listPage/list?page=4&dispCount=240&soldOut=1&keyword=Fate",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "Melonbooks · 漫画小说新品检索",
+      "url": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+      "pages": 0,
+      "count": 0,
+      "total": null,
+      "status": "paused",
+      "next": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+      "failures": 1,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "Aniplex · 当前 Fate 商品目录",
+      "url": "https://online.aniplex.co.jp/fateproject",
+      "pages": 12,
+      "count": 144,
+      "total": 366,
+      "status": "bounded",
+      "next": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=fateproject&start=144&sz=12",
+      "failures": 0,
+      "coverage": "本轮有限分页；已保存原站实际下一页"
+    },
+    {
+      "name": "骏河屋 · 游戏平台、JAN 与发售详情复核",
+      "url": "https://www.suruga-ya.jp/product/detail/177000873",
+      "pages": 291,
+      "count": 291,
+      "total": 292,
+      "status": "partial",
+      "next": null,
+      "failures": 1,
+      "coverage": "商品区域实际分类、发行字段及原始图片；验证墙后的详情未读取"
+    },
+    {
+      "name": "骏河屋 · 既有游戏原始发售复核",
+      "url": "https://www.amiami.jp/top/detail/detail?scode=TVG-PSP-0979-R",
+      "pages": 1,
+      "count": 1,
+      "total": 2,
+      "status": "partial",
+      "next": null,
+      "failures": 1,
+      "coverage": "商品区域实际分类、发行字段及原始图片；验证墙后的详情未读取"
+    },
+    {
+      "name": "AmiAmi · 历史及二手详情",
+      "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-134943-R",
+      "pages": 652,
+      "count": 652,
+      "total": 652,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品区域实际分类、发行字段及原始图片；验证墙后的详情未读取"
+    },
+    {
+      "name": "Mercari · 商品实际分类与图片",
+      "url": "https://jp.mercari.com/item/m99284342873",
+      "pages": 359,
+      "count": 359,
+      "total": 359,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品区域实际分类、发行字段及原始图片；验证墙后的详情未读取"
+    },
+    {
+      "name": "Mandarake · 详情验证断点",
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026905983&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "pages": 0,
+      "count": 0,
+      "total": 120,
+      "status": "paused",
+      "next": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026905983&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "failures": 21,
+      "pauseReason": "age_verification",
+      "coverage": "商品区域实际分类、发行字段及原始图片；验证墙后的详情未读取"
+    },
+    {
+      "name": "Aniplex · 当前商品详情",
+      "url": "https://online.aniplex.co.jp/itembSltafIr.html",
+      "pages": 143,
+      "count": 351,
+      "total": 144,
+      "status": "partial",
+      "next": null,
+      "failures": 1,
+      "coverage": "商品区域实际分类、发行字段及原始图片；验证墙后的详情未读取"
+    },
+    {
+      "name": "Yahoo · 一番赏实拍与拼套详情",
+      "url": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+      "pages": 25,
+      "count": 25,
+      "total": 25,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品区域实际分类、发行字段及原始图片；验证墙后的详情未读取"
+    },
+    {
+      "name": "骏河屋 · 综合商品详情",
+      "url": "https://www.suruga-ya.jp/product/detail/602302492",
+      "pages": 24,
+      "count": 24,
+      "total": 24,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品区域实际分类、发行字段及原始图片；验证墙后的详情未读取"
+    },
+    {
+      "name": "Aniplex · 京まふ / AnimeJapan / TYPE-MOON Comiket",
+      "url": "https://online.aniplex.co.jp/event",
+      "pages": 200,
+      "count": 465,
+      "total": 465,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "原站活动分页及独立 SKU；无解析商品的旧页面另列，不视为历史目录完整"
+    },
+    {
+      "name": "AmiAmi · 已收录无图商品复核",
+      "url": "https://www.amiami.jp/top/search/list?s_keywords=Fate",
+      "pages": 29,
+      "count": 29,
+      "total": 29,
+      "status": "completed",
+      "next": null
+    },
+    {
+      "name": "KADOKAWA · Fate / TYPE-MOON 实体发行档案",
+      "url": "https://www.kadokawa.co.jp/product/search/",
+      "pages": 635,
+      "count": 624,
+      "total": 624,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "imageFailures": 0,
+      "coverage": "逐页确认实体装帧，排除电子专售；ISBN / JAN、新装版、小说与漫画区分；未来发售日保留，出版社未公开的封面留空"
+    },
+    {
+      "name": "讲谈社 · turas realta 实体卷号补全",
+      "url": "https://www.kodansha.co.jp/titles/1000030527",
+      "pages": 23,
+      "count": 23,
+      "total": 23,
+      "status": "completed",
+      "next": null,
+      "coverage": "系列公开分页和实体商品页：ISBN、发行日期、定价与对应封面"
+    }
+  ]
+}

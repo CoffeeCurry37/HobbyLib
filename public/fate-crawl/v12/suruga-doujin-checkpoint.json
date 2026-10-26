@@ -1,0 +1,60 @@
+{
+  "id": "suruga-doujin",
+  "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=204&release_year=[2019,2021]&subgenre=Fate",
+  "next": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=216&release_year=[2019,2021]&subgenre=Fate",
+  "pages": [
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=204&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=205&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=206&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=207&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=208&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=209&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=210&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=211&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=212&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=213&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=214&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=215&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24
+    }
+  ],
+  "observations": 288,
+  "total": 6376,
+  "failures": [],
+  "status": "bounded",
+  "updatedAt": "2026-10-06T01:42:46.124Z"
+}

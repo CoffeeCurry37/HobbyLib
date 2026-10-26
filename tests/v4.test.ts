@@ -1,0 +1,52 @@
+import assert from 'node:assert/strict';
+import {readFileSync,mkdtempSync,rmSync} from 'node:fs';
+import {join} from 'node:path';import {tmpdir} from 'node:os';
+import {parseHtml,makeOffer,safeUrl,SourceInteractionError} from '../lib/radar/collector';
+import {createItem,classify,scoreItem} from '../lib/radar/engine';
+import {sameProduct,offerKey,availableOffers,updateOffer} from '../lib/radar/identity';
+import {repairItem} from '../lib/radar/maintenance';
+import {DEFAULT_PREFS,State} from '../lib/radar/types';
+import {openDatabase} from '../standalone/sqlite';
+import {withDatabase,stateFor,saveItems,savePrefs} from '../lib/radar/store';
+import {withSourceReader} from '../lib/radar/reader';
+import {verifiedFacts} from '../lib/radar/research';
+import {ingest,postAction,getStateResponse} from '../lib/radar/service';
+const fixture=(n:string)=>readFileSync('tests/fixtures/'+n,'utf8');
+const url='https://order.mandarake.co.jp/order/detailPage/item?itemCode=1228432620';
+const md=parseHtml(fixture('mandarake-detail-rendered.html'),url);
+assert.equal(md.products.length,1);assert.equal(md.products[0].offer.price,1320);assert.equal(md.products[0].offer.priceBasis,'tax_included');assert.equal(md.products[0].offer.shop,'うめだ店');assert.equal(md.products[0].offer.condition,'B');assert.equal(md.products[0].offer.availability,'unknown');assert.match(md.products[0].offer.stockNote||'',/确认库存/);assert.equal(md.products[0].extraOffers?.length,2);assert.equal(md.products[0].extraOffers?.[0].availability,'sold');assert.equal(md.products[0].extraOffers?.[1].verifiedAt,undefined);assert.equal(md.needsBrowser,false);
+const merc=parseHtml(fixture('mercari-rendered.html'),'https://jp.mercari.com/item/m30243763343');assert.equal(merc.products.length,1);assert.equal(merc.products[0].offer.price,300);assert.equal(merc.products[0].offer.availability,'sold');assert.equal(merc.products[0].facts?.msrp,960);assert.equal(merc.products[0].facts?.category,'書籍');assert.equal(merc.products[0].offer.condition,'目立った傷や汚れなし');
+const product=(t:string)=>createItem(t,'',undefined,DEFAULT_PREFS);
+assert.ok(sameProduct(product('宙出版 TYPE-MOON 月姫読本PlusPeriod (帯付)'),product('TYPE MOON 月姫読本PlusPeriod')));
+for(const title of ['TYPE MOON 月姫読本PlusPeriod 特典のみ','TYPE MOON 月姫読本PlusPeriod 改訂版','TYPE MOON 月姫読本PlusPeriod セット'])assert.equal(sameProduct(product('TYPE MOON 月姫読本PlusPeriod'),product(title)),null);
+assert.equal(sameProduct(product('Fate/Grand Order material XII 12'),product('Fate/Grand Order material XIII 13')),null);
+assert.equal(offerKey(makeOffer('https://jp.mercari.com/en/item/m123?utm=x','',1)),offerKey(makeOffer('https://jp.mercari.com/item/m123','',1)));
+for(const title of ['攻略ガイドブック','TYPE-MOONエース 3','小冊子'])assert.equal(classify(title,'',300).bucket,'normal');assert.equal(classify('不明なもの','',300).bucket,'normal');assert.equal(classify('Fate リボン','',300).bucket,'junk');assert.equal(classify('Fate material 店舗特典 缶バッジ','',300).bucket,'junk');
+const legacy=product('MELTY BLOOD');legacy.schemaVersion=undefined;legacy.category='書籍';legacy.kind='unknown';legacy.bucket='junk';legacy.ownership='owned';legacy.quantity=2;legacy.rating=5;legacy.notes='手动备注';legacy.offers=[makeOffer(url,'',500)];legacy.description='お知らせ 売り切れ 500円';const repaired=repairItem(legacy);assert.equal(repaired.bucket,'normal');assert.equal(repaired.kind,'base');assert.equal(repaired.offers[0].availability,'sold');assert.equal(repaired.ownership,'owned');assert.equal(repaired.quantity,2);assert.equal(repaired.rating,5);assert.equal(repaired.notes,'手动备注');assert.equal(repairItem(repaired),repaired);
+assert.equal(makeOffer(url,'FateUnlimitedGuide 付録欠',500).bonus,'absent');
+assert.equal(updateOffer({...makeOffer(url,'売り切れ',500)},makeOffer(url,'',500,'detail')).availability,'sold');assert.throws(()=>safeUrl('https://www.suruga-ya.jp/kaitori/detail/185200517'));
+console.log('PASS v4: real rendered detail scoping, three shop offers, sold/FX isolation, goods-only classification, identity and legacy repair');
+const dir=mkdtempSync(join(tmpdir(),'radar-v4-'));const db=openDatabase(join(dir,'test.sqlite'));const origin='http://localhost:8080';const realFetch=globalThis.fetch;
+const action=async(body:any)=>{const r=await postAction(new Request(origin+'/api/radar',{method:'POST',body:JSON.stringify(body)}),'owner','standalone');const d:any=await r.json();assert.equal(r.ok,true,d.error);return d;};
+try{await withDatabase(db,async()=>{
+ await savePrefs('owner',{...DEFAULT_PREFS,alertThreshold:70,rules:[{id:'tm',type:'allow',keyword:'Fate',priority:90}]});let state=await stateFor('owner');
+ // Reimport does not duplicate products/offers. List rows never trigger alerts, and inventory-confirmation details remain pending.
+ const listing={...md.products[0],offer:{...md.products[0].offer,observation:'list' as const,verifiedAt:undefined},extraOffers:[]};await ingest('owner',state,[listing]);assert.equal((await stateFor('owner')).notices.length,0);state=await stateFor('owner');await ingest('owner',state,md.products);state=await stateFor('owner');assert.equal(state.items.length,1);assert.equal(state.items[0].offers.length,3);assert.equal(state.notices.length,0);await ingest('owner',state,md.products);state=await stateFor('owner');assert.equal(state.items.length,1);assert.equal(state.items[0].offers.length,3);assert.equal(state.notices.length,0);
+ const fresh=state.items[0];assert.equal(availableOffers(fresh).length,0);assert.equal(availableOffers(fresh,Date.now()+25*3600000).length,0);
+ const relist={...md.products[0],title:md.products[0].title+' (帯付)',offer:makeOffer('https://order.mandarake.co.jp/order/detailPage/item?itemCode=9999999999','在庫あり',1300,'detail'),extraOffers:[]};await ingest('owner',state,[relist]);assert.equal((await stateFor('owner')).items.length,1);assert.equal((await stateFor('owner')).items[0].offers.length,4);
+ const a=await action({action:'create-item',item:{title:'宙出版 TYPE-MOON 月姫読本PlusPeriod (帯付)',ownership:'owned',quantity:1,rating:5,notes:'已有笔记'}});const b=await action({action:'create-item',item:{title:'TYPE MOON 月姫読本PlusPeriod',ownership:'unknown'}});
+ const merged=await action({action:'merge-items',fromId:b.id,toId:a.id});assert.equal(merged.state.archived.length,1);assert.equal(merged.state.items.find((i:any)=>i.id===a.id).notes,'已有笔记');assert.equal(merged.state.items.find((i:any)=>i.id===a.id).ownership,'owned');
+ await action({action:'undo-merge',id:b.id});assert.equal((await stateFor('owner')).archived?.length,0);assert.ok((await stateFor('owner')).items.find(i=>i.id===b.id));
+ const repairedDb=await action({action:'repair-duplicates'});assert.equal(repairedDb.merged,1);assert.equal((await action({action:'repair-duplicates'})).merged,0);
+ const rows=[{title:'TYPE-MOON 月姫想本',url:'https://www.suruga-ya.jp/product/detail/185200517',quantity:1,status:'取引完了'},{title:'TYPE-MOON 月姫想本 特典のみ',url:'https://jp.mercari.com/item/m00000000001',quantity:1,status:'キャンセル'}];
+ const preview=await action({action:'account-preview',kind:'purchases',rows});assert.equal(preview.rows[1].excluded,true);
+ const bought=await action({action:'account-apply',kind:'purchases',rows,selections:[{index:0,confirmedPurchase:true},{index:1,confirmedPurchase:true}]});assert.equal(bought.added,1);const owned=bought.state.items.find((i:any)=>i.title==='月姫想本');assert.equal(owned.ownership,'owned');assert.equal(owned.quantity,1);
+ await action({action:'account-apply',kind:'purchases',rows,selections:[{index:0,confirmedPurchase:true}]});assert.equal((await stateFor('owner')).items.find(i=>i.id===owned.id)!.quantity,1);
+ const wish=await action({action:'account-apply',kind:'wishlist',rows:[{title:'TYPE-MOON 月姫想本',url:rows[0].url}],selections:[{index:0}]});assert.equal(wish.state.items.find((i:any)=>i.id===owned.id).watchlisted,true);assert.equal(wish.state.items.find((i:any)=>i.id===owned.id).ownership,'owned');
+ const manualRows=[{title:'TYPE-MOON 月姫想本',url:rows[0].url,tags:['测试标签']},{title:'Fate complete art collection 2026',tags:['无链接手动记录']}];await action({action:'json-import',rows:manualRows});const manualAgain=await action({action:'json-import',rows:manualRows});assert.equal(manualAgain.added,0);assert.equal(manualAgain.matched,2);
+ const seed=product('TYPE-MOON 月姫想本');seed.kind='base';assert.equal(verifiedFacts(seed,await stateFor('owner')).msrp,1500);
+ const readHosts:string[]=[];await withSourceReader(async u=>{readHosts.push(new URL(u).hostname);throw new SourceInteractionError('captcha',u,'需要人工验证');},async()=>{const d=await action({action:'detail-next'});assert.equal(d.interaction,'captcha');await action({action:'detail-next'});await action({action:'detail-next'});assert.equal(readHosts.length,new Set(readHosts).size);assert.ok(readHosts.length>=1);});assert.ok(Object.keys((await stateFor('owner')).prefs.sourcePauses||{}).length);
+ const backup:any=await (await getStateResponse(new Request(origin+'/api/radar?export'),'owner','standalone')).json();assert.equal(backup.version,9);assert.equal(backup.archived.length,1);
+ const other=openDatabase(join(dir,'restore.sqlite'));try{await withDatabase(other,async()=>{const r=await action({action:'restore-backup',backup});assert.equal(r.state.archived.length,1);assert.equal(r.state.items.find((i:any)=>i.id===owned.id).watchlisted,true);});}finally{other.close();}
+ console.log('PASS v4: duplicate-free ingestion, detail-only notices, relisting aggregation, reversible merges, purchases/wishlist idempotency and v4 backup roundtrip');
+});}finally{globalThis.fetch=realFetch;db.close();rmSync(dir,{recursive:true,force:true});}

@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import {createItem} from '../lib/radar/engine';
+import {DEFAULT_PREFS,Item} from '../lib/radar/types';
+import {repairClassification} from '../lib/radar/classification';
+import {familyPlan,catalogueFamily} from '../lib/radar/catalogue-families';
+import {catalogueEntries,buildCatalogue} from '../lib/radar/taxonomy';
+import {makeOffer,parseHtml} from '../lib/radar/collector';
+import {collectionFamilies} from '../lib/radar/collection-facts';
+import {sameProduct} from '../lib/radar/identity';
+const item=(title:string,patch:Partial<Item>={}):Item=>({...createItem(title,'',undefined,DEFAULT_PREFS),...patch});
+const manga=repairClassification(item('週刊少年マガジンKC カワグチタケシ Fate/Grand Order-turas realta- 22',{publisher:'講談社'})),m2={...manga,id:'m2',title:manga.title.replace('22','23'),wave:'23'};
+const aurora=collectionFamilies.find(f=>f.variants)!,pack=repairClassification(item('オーロラカードコレクション（ランダム）',{offers:[{...makeOffer(aurora.url,'',500),variant:'001'}]})),box=repairClassification(item('オーロラカードコレクション 全14種 BOX',{offers:[{...makeOffer(aurora.url,'',7000),variant:'002'}]}));assert.equal(sameProduct(pack,box),null);assert.equal(pack.image,aurora.image);
+const plan=familyPlan([manga,m2,pack,box],[],DEFAULT_PREFS);assert.equal(plan.parents.length,2);assert.equal(plan.relations.length,4);assert.ok(plan.parents.every(i=>i.ownership==='unknown'&&!i.quantity&&!i.offers.length));const all=[manga,m2,pack,box,...plan.parents];assert.equal(catalogueEntries(all,plan.relations).length,2);assert.equal(catalogueEntries([manga],plan.relations).length,1);const tree=buildCatalogue(all,DEFAULT_PREFS,plan.relations);assert.equal(tree.itemNodes.get(manga.id),tree.itemNodes.get(plan.parents.find(i=>i.catalogueGroupType==='book-series')!.id));assert.notEqual(catalogueFamily(manga)?.key,catalogueFamily({...manga,publisher:'KADOKAWA'})?.key);
+const game=item('フェイト/タイガーころしあむ アッパー MEGAMORI BOX',{category:'ゲームソフト',kind:'set',jan:'4976219026338'});assert.notEqual(catalogueFamily(game)?.key,catalogueFamily({...game,title:'フェイト/タイガーころしあむ [特盛限定版]'})?.key);
+const payload={query:{b:'1',n:'1'},props:{pageProps:{initialState:{search:{items:{listing:{metadata:{searchEngineStatus:'200',limit:1},totalResultsAvailable:5,items:[{auctionId:'a123',title:'Fate/Grand Order カード',price:500,buyNowPrice:1000,imageUrl:'https://example.com/card.jpg'}]}}}}}}};const parsed=parseHtml('<script id="__NEXT_DATA__">'+JSON.stringify(payload)+'</script>','https://auctions.yahoo.co.jp/search/search?p=fate&b=1&n=1');assert.equal(parsed.products.length,1);assert.equal(new URL(parsed.next!).searchParams.get('b'),'2');assert.equal(parsed.products[0].offer.verifiedAt,undefined);
+console.log('v14-families: edition/book/pack grouping, independent ownership, filtered views and Yahoo pagination passed');
+assert.equal(pack.saleForm,'variant_group');assert.equal(box.saleForm,'complete_goods');
+const legacyBox=repairClassification({...box,title:'オーロラカードコレクション(14種)<コンプリートBOX>',catalogueKey:undefined,saleForm:'seller_lot'});assert.equal(legacyBox.catalogueKey,aurora.key+':spec:box');assert.equal(legacyBox.saleForm,'complete_goods');assert.equal(legacyBox.majorClass,'卡片');

@@ -1,0 +1,60 @@
+{
+  "id": "suruga-kuji",
+  "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate+一番くじ&ck=true&inStock=On",
+  "next": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=13",
+  "pages": [
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate+一番くじ&ck=true&inStock=On",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=2",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=3",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=4",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=5",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=6",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=7",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=8",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=9",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=10",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=11",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=12",
+      "count": 24
+    }
+  ],
+  "observations": 288,
+  "total": 1519,
+  "failures": [],
+  "status": "bounded",
+  "updatedAt": "2026-10-05T19:33:14.282Z"
+}

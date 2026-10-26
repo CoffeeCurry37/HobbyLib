@@ -1,0 +1,94 @@
+{
+  "id": "mandarake",
+  "targets": 120,
+  "completed": 0,
+  "failures": [
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026905983&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026906087&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026903669&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026904787&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026903097&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1302020797&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1263892603&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1263891836&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1163316777&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1263415659&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1263416127&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1263416296&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1263416582&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026872131&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349937354&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349939005&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349941852&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349958102&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349961872&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349956243&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    },
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349955840&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    }
+  ],
+  "next": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026905983&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+  "status": "paused",
+  "pauseReason": "age_verification"
+}

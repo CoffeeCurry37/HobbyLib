@@ -1,0 +1,65 @@
+{
+  "at": "2026-10-06T06:55:50.397Z",
+  "sources": [
+    {
+      "id": "amiami-figures",
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=17",
+      "pages": 4,
+      "count": 227,
+      "excluded": 13,
+      "next": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=21",
+      "status": "bounded"
+    },
+    {
+      "id": "yahoo-fate",
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=401&n=50",
+      "pages": 4,
+      "count": 188,
+      "excluded": 12,
+      "next": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=601&n=50",
+      "status": "bounded"
+    },
+    {
+      "id": "aniplex-current",
+      "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=fateproject&start=144&sz=12",
+      "pages": 3,
+      "count": 18,
+      "excluded": 18,
+      "next": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=fateproject&start=180&sz=12",
+      "status": "bounded"
+    }
+  ],
+  "details": [
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-157226-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-152653-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-152654-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-164681-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-164291-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-136066-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-156295-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-162656-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-163017-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-161276-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-150719-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-153798-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-162650-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-162651-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-162444-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-150077-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-030787-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIG-MOE-1545-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-155515-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-161118-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-045866-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-046019-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-046020-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-150622-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-150621-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-151632-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-160523-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-129210-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-160199-R",
+    "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-150669-R"
+  ],
+  "failures": []
+}

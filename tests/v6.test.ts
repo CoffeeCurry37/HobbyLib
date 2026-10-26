@@ -1,0 +1,35 @@
+import assert from 'node:assert/strict';
+import {mkdtempSync,rmSync} from 'node:fs';import {tmpdir} from 'node:os';import {join} from 'node:path';
+import {createItem} from '../lib/radar/engine';import {makeOffer,parseHtml} from '../lib/radar/collector';
+import {sameProduct,stockSummary,updateOffer,productIndex,findProduct} from '../lib/radar/identity';
+import {repairItem,mergeProducts} from '../lib/radar/maintenance';import {DEFAULT_PREFS,State} from '../lib/radar/types';
+import {openDatabase} from '../standalone/sqlite';import {withDatabase,stateFor,saveItems,savePrefs} from '../lib/radar/store';import {ingest,postAction} from '../lib/radar/service';
+const item=(t:string)=>createItem(t,'',undefined,DEFAULT_PREFS);const url=(n:number)=>'https://order.mandarake.co.jp/order/detailPage/item?itemCode='+n;
+const withoutTitle='FateCompilationBook(エアカリバーン欠)',withTitle='FOX出版 FateCompilationBook(エアカリバーン付)',without=item(withoutTitle),withBonus=item(withTitle);
+assert.ok(sameProduct(without,withBonus));assert.equal(withBonus.publisher,'FOX出版');
+assert.equal(item('角川書店 FateFantasmBOX フロム・ザ・ダークサイド').brand,'KADOKAWA');assert.equal(item('角川書店 FateFantasmBOX フロム・ザ・ダークサイド').productLine,'Fate Fantasm BOX');
+assert.equal(sameProduct(item('Fate/Grand Order material XII'),item('Fate/Grand Order material XIII')),null);
+assert.equal(sameProduct(item('FateCompilationBook 初版'),item('FateCompilationBook 改訂版')),null);
+const old=makeOffer(url(1),'売り切れ',200);old.observedAt='2026-01-01T00:00:00Z';const stale={...makeOffer(url(1),'在庫あり',200),observedAt:'2025-01-01T00:00:00Z'};assert.equal(updateOffer(old,stale).availability,'sold');
+const live=makeOffer(url(1),'在庫あり',200,'detail');const epoch=updateOffer(old,live);assert.equal(epoch.stockEpoch,1);assert.equal(updateOffer(epoch,{...live,observedAt:new Date().toISOString()}).stockEpoch,1);
+const repaired=repairItem({...without,title:withoutTitle,schemaVersion:4,description:'お知らせ 売り切れ',offers:[makeOffer(url(3),'',300)],ownership:'owned',quantity:1});assert.equal(stockSummary(repaired).status,'sold');assert.equal(repaired.ownership,'owned');assert.equal(repaired.offers[0].extras?.[0].status,'absent');
+const card=(id:number,title:string,controls:string)=>`<div data-itemidx="${id}"><div class="title"><a href="${url(id)}">${title}</a></div><div class="price">700円 (税込 770円)</div><div>${controls}</div></div><!-- /block -->`;
+const parsed=parseHtml(card(10,'Fate/Grand Order material I','カート 在庫あります')+card(11,'テックジャイアン TYPE-MOON応援本','売り切れ お知らせ'),'https://order.mandarake.co.jp/order/listPage/list?categoryCode=01');assert.equal(parsed.products[0].offer.availability,'available');assert.equal(parsed.products[1].offer.availability,'sold');assert.equal(parsed.products[0].offer.verifiedAt,undefined);
+const idx=productIndex([withBonus]);assert.equal(findProduct([withBonus],without,idx)?.item.id,withBonus.id);
+const disclaimer=parseHtml('<h1>TYPE-MOONエース</h1><div class="price_group">1,140円 (税込)</div><div id="cart"><button>カートに入れる</button></div><div style="display:none">店頭ではすでに品切れの場合もございます</div>','https://www.suruga-ya.jp/product/detail/185030546?tenpo_cd=400562');assert.equal(disclaimer.products[0].offer.availability,'available');assert.equal(disclaimer.products[0].offer.price,1140);
+console.log('PASS v6 identity, named extras, publisher hierarchy, edition isolation, stale snapshots, restock epochs, screenshot stock cards');
+const dir=mkdtempSync(join(tmpdir(),'radar-v6-'));const db=openDatabase(join(dir,'test.sqlite'));
+try{await withDatabase(db,async()=>{
+ await savePrefs('owner',{...DEFAULT_PREFS,alertThreshold:70,rules:[{id:'f',type:'allow',keyword:'Fate',priority:90}]});let state=await stateFor('owner');
+ const products=[{title:withoutTitle,description:'',image:'',offer:makeOffer(url(1),withoutTitle+' 売り切れ',500)},{title:withTitle,description:'',image:'',offer:makeOffer(url(2),withTitle+' カート 在庫あり',900)}];
+ await ingest('owner',state,products);state=await stateFor('owner');assert.equal(state.items.filter(i=>i.kind==='base').length,1);assert.equal(state.items.filter(i=>i.kind==='bonus').length,1);assert.equal(state.items.find(i=>i.kind==='base')?.offers.length,2);assert.equal(state.relations.length,1);assert.equal(state.notices.length,0);
+ await ingest('owner',state,products);state=await stateFor('owner');assert.equal(state.items.length,2);
+ const base=state.items.find(i=>i.kind==='base')!;await ingest('owner',state,[{...products[1],offer:makeOffer(url(2),'在庫あり',900,'detail')}]);state=await stateFor('owner');assert.equal(state.notices.length,1);
+ await ingest('owner',state,[{...products[1],offer:makeOffer(url(2),'売り切れ',900,'detail')}]);state=await stateFor('owner');await new Promise(r=>setTimeout(r,5));await ingest('owner',state,[{...products[1],offer:makeOffer(url(2),'在庫あり',900,'detail')}]);state=await stateFor('owner');assert.equal(state.notices.length,2);
+ const action=async(body:any)=>{const r=await postAction(new Request('http://localhost/api/radar',{method:'POST',body:JSON.stringify(body)}),'owner','standalone');const d:any=await r.json();assert.equal(r.ok,true,d.error);return d;};
+ await action({action:'bulk-update',ids:[base.id,base.id],patch:{ownership:'owned',productLine:'Fate Compilation Book'}});state=await stateFor('owner');assert.equal(state.items.find(i=>i.kind==='base')?.quantity,1);assert.equal(state.items.find(i=>i.kind==='bonus')?.ownership,'unknown');
+ const sample=await action({action:'import-suruga-sample'});assert.equal(sample.count,142);const count=sample.state.items.length,offers=sample.state.items.reduce((n:number,i:any)=>n+i.offers.length,0);const repeat=await action({action:'import-suruga-sample'});assert.equal(repeat.state.items.length,count);assert.equal(repeat.state.items.reduce((n:number,i:any)=>n+i.offers.length,0),offers);assert.equal(repeat.state.notices.length,2);
+ const pending={title:'新しい未同定の画集',description:'',image:'',offer:makeOffer('https://jp.mercari.com/item/m999123','在庫あり',500,'detail')};state=await stateFor('owner');await ingest('owner',state,[pending]);state=await stateFor('owner');assert.equal(state.items.find(i=>i.title===pending.title)?.provisional,true);assert.equal(state.notices.length,2);
+ const many=Array.from({length:2101},(_,n)=>({...item('独立商品 '+n),id:'large-'+n}));await saveItems('large-owner',many);assert.equal((await stateFor('large-owner')).items.length,2101);
+ console.log('PASS v6 database: canonical book with 2 offers and independent bonus, idempotent import, sold→available alerts, batch selection, 142-record sample repeated, >2000 records preserved');
+});}finally{db.close();rmSync(dir,{recursive:true,force:true});}

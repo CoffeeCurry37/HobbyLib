@@ -1,0 +1,113 @@
+{
+  "at": "2026-10-18T05:47:34.790Z",
+  "observations": 1108,
+  "accepted": 647,
+  "excluded": 456,
+  "repeatedObservations": 5,
+  "sources": [
+    {
+      "name": "Mandarake · 2026-10-18 续采",
+      "url": "https://order.mandarake.co.jp/order/listPage/list?page=7&dispCount=240&soldOut=1&keyword=Fate",
+      "pages": 2,
+      "count": 146,
+      "total": 25827,
+      "status": "bounded",
+      "next": "https://order.mandarake.co.jp/order/listPage/list?page=9&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "",
+      "observations": 480,
+      "excluded": 334,
+      "coverage": "仅当前分页；标题严格限定 Fate / TYPE-MOON，挂牌价格和库存须在线复核。"
+    },
+    {
+      "name": "骏河屋 · 2026-10-18 续采",
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate&ck=true&inStock=On&page=46",
+      "pages": 2,
+      "count": 48,
+      "total": 157477,
+      "status": "bounded",
+      "next": "https://www.suruga-ya.jp/search?category=&search_word=Fate&ck=true&inStock=On&page=48",
+      "error": "",
+      "observations": 48,
+      "excluded": 0,
+      "coverage": "仅当前分页；标题严格限定 Fate / TYPE-MOON，挂牌价格和库存须在线复核。"
+    },
+    {
+      "name": "AmiAmi · 2026-10-18 续采",
+      "url": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=25",
+      "pages": 2,
+      "count": 120,
+      "total": 2034,
+      "status": "bounded",
+      "next": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=27",
+      "error": "",
+      "observations": 120,
+      "excluded": 0,
+      "coverage": "仅当前分页；标题严格限定 Fate / TYPE-MOON，挂牌价格和库存须在线复核。"
+    },
+    {
+      "name": "Mercari · 2026-10-18 续采",
+      "url": "https://jp.mercari.com/search?keyword=Fate&page_token=v1%3A6",
+      "pages": 2,
+      "count": 228,
+      "total": null,
+      "status": "bounded",
+      "next": "https://jp.mercari.com/search?keyword=Fate&page_token=v1%3A8",
+      "error": "",
+      "observations": 240,
+      "excluded": 12,
+      "coverage": "仅当前分页；标题严格限定 Fate / TYPE-MOON，挂牌价格和库存须在线复核。"
+    },
+    {
+      "name": "Yahoo 拍卖 · 2026-10-18 续采",
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=801&n=50",
+      "pages": 2,
+      "count": 80,
+      "total": 57699,
+      "status": "bounded",
+      "next": "https://auctions.yahoo.co.jp/search/search?p=Fate&va=Fate&is_postage_mode=1&dest_pref_code=13&b=901&n=50",
+      "error": "",
+      "observations": 100,
+      "excluded": 16,
+      "coverage": "仅当前分页；标题严格限定 Fate / TYPE-MOON，挂牌价格和库存须在线复核。"
+    },
+    {
+      "name": "Melonbooks · 2026-10-18 续采",
+      "url": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+      "pages": 0,
+      "count": 0,
+      "total": null,
+      "status": "failed",
+      "next": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+      "error": "Source returned Site Unavailable; cursor preserved; no bypass attempted",
+      "observations": 0,
+      "excluded": 0,
+      "coverage": "仅当前分页；标题严格限定 Fate / TYPE-MOON，挂牌价格和库存须在线复核。"
+    },
+    {
+      "name": "Toranoana · 2026-10-18 续采",
+      "url": "https://ecs.toranoana.jp/tora/ec/app/catalog/list?coterieGenreCode1=GNRN00005765&currentPage=1",
+      "pages": 0,
+      "count": 0,
+      "total": null,
+      "status": "failed",
+      "next": "https://ecs.toranoana.jp/tora/ec/app/catalog/list?coterieGenreCode1=GNRN00005765&currentPage=1",
+      "error": "Source returned Site Unavailable; cursor preserved; no bypass attempted",
+      "observations": 0,
+      "excluded": 0,
+      "coverage": "仅当前分页；标题严格限定 Fate / TYPE-MOON，挂牌价格和库存须在线复核。"
+    },
+    {
+      "name": "BOOTH · 2026-10-18 续采",
+      "url": "https://booth.pm/ja/search/fate?page=4",
+      "pages": 2,
+      "count": 25,
+      "total": null,
+      "status": "bounded",
+      "next": "https://booth.pm/ja/search/fate?page=6",
+      "error": "",
+      "observations": 120,
+      "excluded": 94,
+      "coverage": "仅当前分页；标题严格限定 Fate / TYPE-MOON，挂牌价格和库存须在线复核。"
+    }
+  ]
+}

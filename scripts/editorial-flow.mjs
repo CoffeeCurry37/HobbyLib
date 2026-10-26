@@ -1,0 +1,27 @@
+// Durable metadata workflow. No product mutations, LLM calls or raw page dumps.
+import {readFileSync,writeFileSync,renameSync,mkdirSync,existsSync,readdirSync} from 'node:fs';
+import {join} from 'node:path';
+import {loadRadar} from './load-radar.mjs';
+import {hash,planReview,makePacket} from './editorial-flow-lib.mjs';
+const [command,input,folder='research/editorial-20261021/workflow',option='']=process.argv.slice(2),read=p=>JSON.parse(readFileSync(p,'utf8'));
+const atomic=(path,value)=>{writeFileSync(path+'.tmp',typeof value==='string'?value:JSON.stringify(value));renameSync(path+'.tmp',path);};
+mkdirSync(folder,{recursive:true});const files={rows:join(folder,'items.jsonl'),groups:join(folder,'groups.json'),documents:join(folder,'sources.json'),summary:join(folder,'summary.json')},cacheDir=join(folder,'source-cache');mkdirSync(cacheDir,{recursive:true});
+const readPlan=()=>({rows:readFileSync(files.rows,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse),groups:read(files.groups),documents:read(files.documents),summary:read(files.summary)}),receipts=()=>Object.fromEntries(readdirSync(cacheDir).filter(f=>f.endsWith('.json')).map(f=>[f.slice(0,-5),read(join(cacheDir,f))]));
+if(command==='plan'){
+ const data=read(input),manifest=read('lib/radar/editorial-manifest.json'),r=loadRadar();try{const previous=existsSync(files.rows)?readPlan().rows:[],result=planReview(data,manifest,{status:r.get('editorial').editorialStatus,productClass:r.get('product-class').productClass,family:r.get('catalogue-families').catalogueFamily},previous);if(result.rows.length!==manifest.ids.length||new Set(result.rows.map(r=>r.id)).size!==manifest.ids.length)throw Error('Incomplete queue coverage');atomic(files.rows,result.rows.map(r=>JSON.stringify(r)).join('\n')+'\n');atomic(files.groups,result.groups);atomic(files.documents,result.documents);atomic(files.summary,result.summary);console.log(JSON.stringify(result.summary));}finally{r.close();}
+}else if(command==='packet'){
+ const packet=makePacket(readPlan(),receipts(),Number(option)||18000,Number(input)||0),path=join(folder,'next-packet.json');atomic(path,packet);console.log(JSON.stringify({path,characters:JSON.stringify(packet).length,groups:packet.groups.length,items:packet.groups.reduce((n,g)=>n+g.members.length,0),sourcePages:packet.sources.length,next:packet.next}));
+}else if(command==='capture'){
+ const packet=read(input),limit=Number(option)||40,now=Date.now(),cache=receipts(),todo=packet.sources.filter(s=>{const c=cache[s.id];return !c||now-Date.parse(c.at)>(c.status==='fetched'?180*86400000:7*86400000);}).slice(0,limit),hosts=new Map(),r=loadRadar(),{fetchPublic,parseHtml,strip}=r.get('collector');
+ for(const s of todo){const host=new URL(s.url).hostname;if(!hosts.has(host))hosts.set(host,[]);hosts.get(host).push(s);}const work=[...hosts.values()];let position=0,done=0,failed=0;
+ async function worker(){while(position<work.length){for(const s of work[position++]){let receipt={url:s.url,at:new Date().toISOString(),status:'blocked',captureVersion:2};
+  try{const page=await fetchPublic(s.url),parsed=parseHtml(page.text,page.url),host=new URL(page.url).hostname;
+   if(!parsed.products.length&&host==='www.kadokawa.co.jp'){const match=page.text.match(/window\.item\s*=\s*(\{[^\n]+\});/);if(match){const k=JSON.parse(match[1]);if(k.disp_title&&k.isbn_13)parsed.products.push({title:k.disp_title,description:k.contents_intro||'',image:k.bookCoverUrl_l||k.book_cover_img_url||'',categoryLabel:k.category_name,facts:{isbn:String(k.isbn_13),publisher:'KADOKAWA',releaseDate:k.release_date||''},offer:{url:page.url}});}}
+   if(!parsed.products.length&&host==='api.openbd.jp'){for(const book of JSON.parse(page.text)||[]){const b=book?.summary;if(b?.isbn&&b.title)parsed.products.push({title:b.title,description:'',image:b.cover||'',facts:{isbn:b.isbn,publisher:b.publisher,...(/^\d{8}$/.test(b.pubdate)?{releaseDate:b.pubdate.replace(/(\d{4})(\d{2})(\d{2})/,'$1-$2-$3')}:{})},offer:{url:page.url}});}}
+   const products=parsed.products.slice(0,30).map(p=>({title:p.title,category:p.categoryLabel||p.facts?.category,image:p.image,images:p.images?.slice(0,10),facts:p.facts,tags:p.tags,variant:p.offer?.variant,url:p.offer?.url,description:strip(p.description||'').slice(0,700)})),start=page.text.search(/<(?:article|main|h1)\b/i),excerpt=products.length?'':strip(page.text.slice(Math.max(0,start))).slice(0,3000);
+   receipt={...receipt,url:page.url,status:products.length?'fetched':'needs-reading',sha256:hash(page.text),products,...(excerpt?{pageExcerpt:excerpt}:{}),truncated:parsed.products.length>30};
+  }catch(e){receipt.error=String(e.message).slice(0,240);failed++;}atomic(join(cacheDir,s.id+'.json'),receipt);done++;await new Promise(resolve=>setTimeout(resolve,800));
+ }}}
+ try{await Promise.all(Array.from({length:Math.min(4,work.length)},worker));console.log(JSON.stringify({requested:packet.sources.length,attempted:done,blocked:failed,skippedOrDeferred:packet.sources.length-done,cacheFiles:readdirSync(cacheDir).filter(f=>f.endsWith('.json')).length}));}finally{r.close();}
+}else if(command==='status'){console.log(JSON.stringify({...read(files.summary),cachedSources:readdirSync(cacheDir).filter(f=>f.endsWith('.json')).length}));}
+else throw Error('Usage: editorial-flow.mjs plan <export/index.json> [folder] | packet <startOrdinal|0> [folder] [maxChars] | capture <packet.json> [folder] [maxSources] | status - [folder]');

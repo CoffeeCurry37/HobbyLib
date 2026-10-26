@@ -1,0 +1,47 @@
+# 业务规则与代码索引
+
+以下根据实际源码整理；细节以实现及回归用例为准。
+
+## 数据模型与运行方式
+
+Item 表示商品身份；Offer 表示店铺挂牌、成色、附属品、报价及历史。同一商品可有多个挂牌。本体、特典、组件、套装的拥有状态独立。
+
+- app/：React 目录、详情、编辑、套装和复查界面。
+- app/api/radar/route.ts：登录用户隔离的接口。
+- lib/radar/service.ts、store.ts：查询/操作分发及 D1/SQLite 存储。
+- standalone/：Node 24 + SQLite 服务与调度。
+- drizzle/：迁移；不得改写已应用迁移。
+- browser-extension/：浏览器采集辅助。
+- .openai/hosting.json：既有 Sites 项目及 D1 绑定，保留原 ID。
+
+## 业务规则
+
+表内未带路径的文件位于 lib/radar/。
+
+| 业务 | 实现 | 约束 |
+| --- | --- | --- |
+| 采集及解析 | collector.ts, html.ts, reader.ts, recognition.ts | 商品卡片限定标题/价格/库存；空营销页不能当作零商品结果 |
+| 分类与作品归属 | source-category.ts, product-class.ts, classification.ts, work-identity.ts, taxonomy.ts | 商品局部事实优先；搜索词和相关导航不是证据 |
+| 元数据与标签 | metadata.ts, product-features.ts, catalog.ts, keywords.ts | 保留日文原名与别名、人工字段；现价不能当定价 |
+| 身份与匹配 | identity.ts, identity-facts.ts, duplicate-groups.ts | 区分卷号、媒介、平台、版本、组件、特典、原厂套装和卖家拼套 |
+| 合并与撤销 | maintenance.ts, merge-plan.ts | 原挂牌及归并存档保留；冲突先解决；不得用旧撤销覆盖后续编辑 |
+| 套装/父级/特典 | relations.ts, sets.ts, catalogue-families.ts, game-packages.ts | 包含关系不能成环；拥有状态和数量独立；未知成员显式标注 |
+| 一番赏与卡片 | kuji-key.ts, kuji-members.ts, collection-facts.ts, lot-images.ts | 活动/赏别/款式识别；共用 JAN 不等于同款；未核实照片不推断齐套 |
+| 报价与优先度 | identity.ts, engine.ts | 当前可用报价要求 24 小时内核验、有价格、非结束拍卖；旧列表不冒充实时库存 |
+| 有界导入导出 | import-limits.ts, database-export.ts, backup-transfer.ts | 分页控内存，恢复暂存后原子完成，可恢复断点 |
+| 爬取和调度 | crawl-queue.ts, crawl-progress.ts, standalone/scheduler.ts | 游标持久化、失败退避、验证暂停；受监控开关控制 |
+| 逐项复查 | editorial.ts, editorial-index.ts, curation.ts | 指纹失效后重查；expectedVersion 防并发覆盖，保护个人字段与报价 |
+
+## 优先度
+
+engine.ts 使用手动优先度、标签偏好、白/黑名单、愿望清单、拥有状态、套装重复数量、缺件和同税费口径的历史降价。黑名单优先；拥有本体不等于拥有特典；未知拥有状态不当作缺件。分数限制为 0–100，保留理由，没有自动下单。
+
+## 研究流程
+
+scripts/editorial-flow.mjs 生成逐项预检、候选组和限长任务包；editorial-fetch.mjs 等保存来源回执；editorial-group-prepare.mjs 检查指纹和成员匹配后生成操作。
+
+classification/context/image/tags/summary 五项全满足且无 unresolved 才能 verified。分组不能填造 ISBN、日期、附件或图片。来源事实/图片变化会使核实过期。详细流程见 research/editorial-20261021/WORKFLOW.md。
+
+## 发布边界
+
+GitHub 源码、线上 D1、Sites 发布是三个独立环节。维护端点还要求短期令牌、截止时间和目标账号。读取/备份不需要开启维护窗口。本次同步没有提交部署密钥或浏览器会话。

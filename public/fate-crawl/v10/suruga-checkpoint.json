@@ -1,0 +1,2372 @@
+{
+  "id": "suruga-doujin",
+  "name": "骏河屋 · Fate 同人原作",
+  "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&subgenre=Fate",
+  "start": 581,
+  "next": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=192&release_year=[2019,2021]&subgenre=Fate",
+  "pages": [
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2024%2C%2A%5D&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:18.137Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=2&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:22.506Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=3&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:27.109Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=4&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:31.429Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=5&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:35.806Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=6&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:40.119Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=7&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:44.329Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=8&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:48.530Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=9&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:52.719Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=10&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:55:56.947Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=11&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:01.319Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=12&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:05.862Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=13&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:10.079Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=14&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:14.292Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=15&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:18.494Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=16&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:22.691Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=17&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:26.910Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=18&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:31.114Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=19&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:35.331Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=20&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:39.544Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=21&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:43.731Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=22&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:47.979Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=23&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:52.189Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=24&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:56:56.390Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=25&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:00.619Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=26&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:04.858Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=27&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:09.117Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=28&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:13.395Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=29&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:17.613Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=30&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:21.864Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=31&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:26.123Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=32&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:30.321Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=33&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:34.525Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=34&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:38.744Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=35&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:42.971Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=36&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:47.170Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=37&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:51.406Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=38&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:57:55.636Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=39&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:00.188Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=40&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:04.523Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=41&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:08.701Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=42&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:13.089Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=43&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:17.426Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=44&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:21.723Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=45&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:25.940Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=46&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:30.197Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=47&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:34.386Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=48&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:38.799Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=49&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:43.012Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=50&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:47.208Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=51&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:51.479Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=52&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:58:55.634Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=53&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:00.059Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=54&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:04.291Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=55&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:08.503Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=56&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:12.717Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=57&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:16.901Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=58&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:21.113Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=59&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:25.371Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=60&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:29.647Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=61&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:33.861Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=62&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:38.065Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=63&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:42.268Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=64&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:46.505Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=65&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:50.690Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=66&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:54.948Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=67&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T04:59:59.377Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=68&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:03.631Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=69&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:07.938Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=70&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:12.167Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=71&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:16.436Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=72&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:20.636Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=73&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:24.855Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=74&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:29.072Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=75&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:33.404Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=76&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:37.617Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=77&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:41.819Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=78&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:46.311Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=79&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:50.776Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=80&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:55.001Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=81&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:00:59.292Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=82&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:03.512Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=83&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:07.756Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=84&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:12.025Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=85&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:16.310Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=86&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:20.524Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=87&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:25.031Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=88&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:29.250Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=89&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:33.438Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=90&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:37.677Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=91&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:42.011Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=92&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:46.202Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=93&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:50.433Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=94&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:54.885Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=95&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:01:59.088Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=96&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:03.309Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=97&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:07.515Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=98&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:11.780Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=99&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:16.019Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=100&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:20.244Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=101&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:24.621Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=102&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:28.945Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=103&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:33.170Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=104&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:37.400Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=105&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:41.638Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=106&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:45.812Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=107&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:50.230Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=108&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:54.510Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=109&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:02:58.730Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=110&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:02.996Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=111&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:07.664Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=112&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:11.956Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=113&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:16.190Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=114&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:20.401Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=115&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:24.634Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=116&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:28.855Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=117&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:33.058Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=118&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:37.383Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=119&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:41.558Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=120&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:45.815Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=121&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:50.050Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=122&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:54.406Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=123&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:03:58.640Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=124&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:02.878Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=125&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:07.096Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=126&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:11.430Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=127&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:15.657Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=128&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:19.826Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=129&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:24.060Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=130&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:28.310Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=131&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:32.521Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=132&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:36.725Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=133&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:40.928Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=134&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:45.136Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=135&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:49.368Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=136&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:53.808Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=137&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:04:58.047Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=138&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:02.276Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=139&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:06.816Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=140&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:11.049Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=141&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:15.259Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=142&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:19.478Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=143&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:23.735Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=144&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:27.929Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=145&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:32.219Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=146&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:36.454Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=147&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:40.657Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=148&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:44.904Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=149&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:49.213Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=150&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:53.450Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=151&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:05:57.623Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=152&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:01.839Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=153&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:06.131Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=154&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:10.495Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=155&release_year=[2024,*]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:14.778Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=156&release_year=[2024,*]&subgenre=Fate",
+      "count": 19,
+      "observedAt": "2026-10-05T05:06:19.204Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2022%2C2023%5D&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:23.516Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=2&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:27.828Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=3&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:32.052Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=4&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:36.274Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=5&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:40.480Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=6&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:44.745Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=7&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:48.988Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=8&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:53.235Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=9&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:06:57.476Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=10&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:01.786Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=11&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:06.024Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=12&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:10.498Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=13&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:14.746Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=14&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:19.135Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=15&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:23.399Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=16&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:27.655Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=17&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:32.097Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=18&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:36.375Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=19&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:40.631Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=20&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:44.875Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=21&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:49.083Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=22&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:53.449Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=23&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:07:57.649Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=24&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:01.888Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=25&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:06.201Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=26&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:10.456Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=27&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:14.699Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=28&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:18.924Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=29&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:23.286Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=30&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:27.690Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=31&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:31.936Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=32&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:36.145Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=33&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:40.401Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=34&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:44.630Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=35&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:48.867Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=36&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:53.139Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=37&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:08:57.392Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=38&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:01.609Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=39&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:05.820Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=40&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:10.094Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=41&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:14.540Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=42&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:18.757Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=43&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:22.953Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=44&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:27.198Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=45&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:31.620Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=46&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:35.906Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=47&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:40.256Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=48&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:44.512Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=49&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:48.755Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=50&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:53.013Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=51&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:09:57.212Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=52&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:01.709Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=53&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:06.234Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=54&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:10.520Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=55&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:14.793Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=56&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:19.019Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=57&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:23.262Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=58&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:27.543Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=59&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:31.780Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=60&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:36.047Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=61&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:40.548Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=62&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:44.780Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=63&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:49.040Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=64&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:53.481Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=65&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:10:57.759Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=66&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:02.275Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=67&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:06.565Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=68&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:10.798Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=69&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:15.048Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=70&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:19.309Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=71&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:23.739Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=72&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:27.973Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=73&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:32.247Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=74&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:36.494Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=75&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:40.778Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=76&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:45.018Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=77&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:49.283Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=78&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:53.554Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=79&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:11:57.798Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=80&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:02.070Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=81&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:06.325Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=82&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:10.682Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=83&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:14.915Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=84&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:19.142Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=85&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:23.387Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=86&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:27.739Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=87&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:32.147Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=88&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:36.442Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=89&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:41.012Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=90&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:45.256Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=91&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:49.565Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=92&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:53.854Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=93&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:12:58.344Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=94&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:02.633Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=95&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:06.862Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=96&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:11.098Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=97&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:15.356Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=98&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:19.695Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=99&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:23.981Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=100&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:28.202Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=101&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:32.404Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=102&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:36.591Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=103&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:40.800Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=104&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:45.034Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=105&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:49.243Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=106&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:53.501Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=107&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:13:57.731Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=108&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:01.980Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=109&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:06.450Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=110&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:10.672Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=111&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:14.886Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=112&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:19.338Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=113&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:23.614Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=114&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:27.919Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=115&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:32.188Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=116&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:36.443Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=117&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:40.684Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=118&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:44.930Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=119&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:49.172Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=120&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:53.432Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=121&release_year=[2022,2023]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:14:57.684Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=122&release_year=[2022,2023]&subgenre=Fate",
+      "count": 10,
+      "observedAt": "2026-10-05T05:15:02.013Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2019%2C2021%5D&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:06.447Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=2&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:10.724Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=3&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:15.173Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=4&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:19.679Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=5&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:24.051Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=6&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:28.412Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=7&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:32.663Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=8&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:36.930Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=9&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:41.135Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=10&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:45.461Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=11&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:49.748Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=12&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:54.088Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=13&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:15:58.341Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=14&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:02.906Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=15&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:07.186Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=16&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:11.473Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=17&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:15.668Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=18&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:19.974Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=19&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:24.408Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=20&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:28.677Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=21&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:33.067Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=22&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:37.318Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=23&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:41.568Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=24&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:45.835Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=25&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:50.365Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=26&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:54.589Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=27&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:16:59.000Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=28&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:03.331Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=29&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:07.657Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=30&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:11.958Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=31&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:16.257Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=32&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:20.552Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=33&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:24.866Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=34&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:29.149Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=35&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:33.399Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=36&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:37.725Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=37&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:42.023Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=38&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:46.277Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=39&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:50.661Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=40&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:54.888Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=41&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:17:59.150Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=42&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:03.471Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=43&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:07.983Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=44&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:12.224Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=45&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:16.533Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=46&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:20.818Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=47&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:25.166Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=48&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:29.588Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=49&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:33.889Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=50&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:38.196Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=51&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:42.474Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=52&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:46.762Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=53&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:50.992Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=54&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:55.256Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=55&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:18:59.560Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=56&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:04.055Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=57&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:08.567Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=58&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:12.876Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=59&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:17.133Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=60&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:21.466Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=61&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:25.774Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=62&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:30.020Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=63&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:34.323Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=64&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:38.641Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=65&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:42.932Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=66&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:47.171Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=67&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:51.402Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=68&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:55.681Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=69&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:19:59.916Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=70&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:04.173Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=71&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:08.666Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=72&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:12.950Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=73&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:17.242Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=74&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:21.546Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=75&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:25.816Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=76&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:30.183Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=77&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:34.540Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=78&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:38.817Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=79&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:43.355Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=80&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:47.619Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=81&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:51.899Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=82&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:20:56.169Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=83&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:00.462Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=84&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:04.770Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=85&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:09.330Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=86&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:13.630Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=87&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:17.934Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=88&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:22.195Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=89&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:26.457Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=90&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:30.863Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=91&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:35.184Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=92&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:39.462Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=93&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:43.756Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=94&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:48.035Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=95&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:52.326Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=96&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:21:56.590Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=97&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:00.847Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=98&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:05.130Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=99&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:09.415Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=100&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:13.893Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=101&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:18.194Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=102&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:22.471Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=103&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:26.741Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=104&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:31.049Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=105&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:35.369Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=106&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:39.619Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=107&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:43.984Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=108&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:48.372Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=109&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:52.751Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=110&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:22:56.983Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=111&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:01.204Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=112&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:05.758Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=113&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:10.223Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=114&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:14.493Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=115&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:18.738Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=116&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:23.013Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=117&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:27.300Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=118&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:31.561Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=119&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:35.823Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=120&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:40.075Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=121&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:44.350Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=122&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:48.599Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=123&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:53.087Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=124&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:23:57.342Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=125&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:01.591Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=126&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:05.872Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=127&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:10.169Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=128&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:14.478Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=129&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:18.778Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=130&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:23.027Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=131&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:27.326Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=132&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:31.601Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=133&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:35.899Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=134&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:40.208Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=135&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:44.752Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=136&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:49.025Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=137&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:53.285Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=138&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:24:57.578Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=139&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:01.827Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=140&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:06.562Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=141&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:10.880Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=142&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:15.188Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=143&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:19.476Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=144&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:23.814Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=145&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:28.141Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=146&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:32.448Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=147&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:36.683Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=148&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:41.034Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=149&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:45.323Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=150&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:49.705Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=151&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:54.073Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=152&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:25:58.360Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=153&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:02.642Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=154&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:07.059Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=155&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:11.525Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=156&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:15.815Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=157&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:20.110Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=158&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:24.364Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=159&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:28.681Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=160&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:32.911Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=161&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:37.125Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=162&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:41.461Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=163&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:45.767Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=164&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:50.052Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=165&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:54.342Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=166&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:26:58.608Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=167&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:02.852Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=168&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:07.185Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=169&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:11.426Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=170&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:15.776Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=171&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:20.089Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=172&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:24.362Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=173&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:28.620Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=174&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:32.863Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=175&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:37.213Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=176&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:41.505Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=177&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:45.767Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=178&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:50.047Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=179&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:54.342Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=180&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:27:58.672Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=181&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:02.959Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=182&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:07.294Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=183&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:11.556Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=184&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:15.836Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=185&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:20.070Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=186&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:24.389Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=187&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:28.607Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=188&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:32.937Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=189&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:37.193Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=190&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:41.465Z"
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=191&release_year=[2019,2021]&subgenre=Fate",
+      "count": 24,
+      "observedAt": "2026-10-05T05:28:45.768Z"
+    }
+  ],
+  "observations": 11237,
+  "status": "stopped",
+  "total": 6376,
+  "error": "本轮采集已保存断点，剩余原站年份分段待继续。",
+  "updatedAt": "2026-10-05T05:28:45.768Z",
+  "pending": [
+    "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2018%2C2018%5D&subgenre=Fate",
+    "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2017%2C2017%5D&subgenre=Fate",
+    "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2013%2C2016%5D&subgenre=Fate",
+    "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2007%2C2012%5D&subgenre=Fate",
+    "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B0%2C2006%5D&subgenre=Fate"
+  ],
+  "uniqueListings": 11237,
+  "window": {
+    "firstRepeatedPage": 418,
+    "observations": 13944,
+    "uniqueListingUrls": 9996
+  }
+}

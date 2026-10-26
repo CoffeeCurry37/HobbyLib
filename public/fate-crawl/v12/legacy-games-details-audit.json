@@ -1,0 +1,13 @@
+{
+  "id": "legacy-games",
+  "targets": 2,
+  "completed": 1,
+  "failures": [
+    {
+      "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349366914&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+      "error": "来源需要确认已满 18 岁。请打开原站完成确认；云端采集会话与个人浏览器不共享，可导入确认后保存的 HTML。"
+    }
+  ],
+  "next": null,
+  "status": "partial"
+}

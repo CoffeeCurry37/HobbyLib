@@ -1,0 +1,3 @@
+import type {Item,State} from './types';
+export function leanItem(item:Item):Item{return {...item,editorial:item.editorial?{...item.editorial,sources:[],unresolved:[]}:undefined,description:'',images:undefined,evidence:[...new Map(item.evidence.filter(e=>e.field==='category'||e.field==='来源分类'||/人工整理|批量整理/.test(e.field)).map(e=>[e.field+'|'+e.value,e])).values()],aliases:(item.aliases||[]).slice(0,3),mergeSnapshot:undefined,offers:item.offers.map(o=>({...o,history:[]}))};}
+export function leanState(state:State):State{return {...state,items:state.items.map(leanItem),archived:state.archived?.map(i=>({...leanItem(i),offers:[],evidence:[],image:''}))};}

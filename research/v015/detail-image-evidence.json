@@ -1,0 +1,36 @@
+[
+  {
+    "id": "source-629af19f5cff5c7426766830e19523b6",
+    "url": "https://jp.mercari.com/shops/product/sCvBTbDeAcNwTUovorGAaV",
+    "at": "2026-10-18T05:50:47.222Z",
+    "products": [
+      {
+        "title": "【中古】バッジ・ピンズ(キャラクター) アーチャー/エミヤ 「Fate/Grand Order Fes. 霊基召喚缶バッジ vol.1」",
+        "images": [
+          "https://assets.mercari-shops-static.com/-/large/plain/8TbseufTyLkG8k2mAjDQVP.webp@jpg"
+        ],
+        "facts": {
+          "manufacturer": "アニプレックス",
+          "origin": "commercial"
+        }
+      }
+    ]
+  },
+  {
+    "id": "source-c75e30defaf383714f579c2a4aa5a8b2",
+    "url": "https://jp.mercari.com/shops/product/2JMCZGy8m2BZG5FQHXVWp8",
+    "at": "2026-10-18T05:50:49.058Z",
+    "products": [
+      {
+        "title": "【中古】バッジ・ピンズ(キャラクター) ルーラー/ジャンヌ・ダルク 「Fate/Grand Order Fes. 霊基召喚缶バッジ vol.1」",
+        "images": [
+          "https://assets.mercari-shops-static.com/-/large/plain/2JMCZGwyHXsn2X6S6cgusS.webp@jpg"
+        ],
+        "facts": {
+          "manufacturer": "アニプレックス",
+          "origin": "commercial"
+        }
+      }
+    ]
+  }
+]

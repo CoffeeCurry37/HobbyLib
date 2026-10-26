@@ -1,0 +1,13 @@
+{
+  "id": "verified-games",
+  "targets": 292,
+  "completed": 291,
+  "failures": [
+    {
+      "url": "https://www.suruga-ya.jp/product/detail/100496974",
+      "error": "来源暂不可读取（HTTP 404）"
+    }
+  ],
+  "next": null,
+  "status": "partial"
+}

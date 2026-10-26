@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-23T12:57:41.268Z",
+  "reviewed": 40,
+  "untouchedOriginalRecords": 43528,
+  "counts": {
+    "verified": 65,
+    "partial": 14,
+    "archived": 1,
+    "pending": 15731
+  },
+  "nextPendingOrdinal": 81,
+  "newParentId": "family-c3655149adbbc165530e342b2c49336d",
+  "seriesChildren": 12,
+  "active": 35020,
+  "archived": 8549,
+  "relations": 1835,
+  "checks": [
+    "every batch record accounted for",
+    "all other originals byte-equivalent as JSON values",
+    "original offers preserved after merge",
+    "correct franchise paths and bonus linkage",
+    "same-product archive tracked",
+    "doujin count unchanged"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "newObservations": 7713,
+  "sources": [
+    {
+      "name": "AmiAmi · 已收录书籍、CD、手办分类复核",
+      "url": "https://www.amiami.jp/top/search/list?s_keywords=Fate",
+      "pages": 684,
+      "count": 684,
+      "total": 684,
+      "status": "completed",
+      "next": null,
+      "coverage": "重新解析此前保存的商品页实际分类；不把历史售价作为当前库存"
+    },
+    {
+      "name": "Aniplex · 已收录全部款式图片复核",
+      "url": "https://online.aniplex.co.jp/fateproject",
+      "pages": 1226,
+      "count": 5909,
+      "total": 1226,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品独立图、实际来源分类及发行字段；组合成员只采用明确内容证据"
+    },
+    {
+      "name": "骏河屋 · 已收录一番赏复核",
+      "url": "https://www.suruga-ya.jp/search?search_word=Fate+一番くじ",
+      "pages": 49,
+      "count": 49,
+      "total": 49,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品独立图、实际来源分类及发行字段；组合成员只采用明确内容证据"
+    },
+    {
+      "name": "骏河屋 · 新采一番赏详情",
+      "url": "https://www.suruga-ya.jp/search?search_word=Fate+一番くじ",
+      "pages": 180,
+      "count": 180,
+      "total": 180,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品独立图、实际来源分类及发行字段；组合成员只采用明确内容证据"
+    },
+    {
+      "name": "AmiAmi · 在售商品详情",
+      "url": "https://www.amiami.jp/top/search/list?s_keywords=Fate&s_st_list_newitem_available=1",
+      "pages": 216,
+      "count": 216,
+      "total": 216,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品独立图、实际来源分类及发行字段；组合成员只采用明确内容证据"
+    },
+    {
+      "name": "Yahoo · 一番赏卖家拼套详情",
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate+一番くじ",
+      "pages": 32,
+      "count": 32,
+      "total": 32,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "商品独立图、实际来源分类及发行字段；组合成员只采用明确内容证据"
+    },
+    {
+      "name": "一番赏 · 2014 两期逐赏来源补查",
+      "url": "https://www.suruga-ya.jp/search?search_word=一番くじ+Fate+10周年",
+      "pages": 69,
+      "count": 69,
+      "total": 69,
+      "status": "completed",
+      "next": null,
+      "coverage": "实际捕获的商品页；已知款数和包装件数保存在赏级目录，未确认单款不编造"
+    },
+    {
+      "name": "骏河屋 · 一番赏分页续采",
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate+一番くじ&ck=true&inStock=On",
+      "pages": 12,
+      "count": 288,
+      "total": 1519,
+      "status": "bounded",
+      "next": "https://www.suruga-ya.jp/search?category=&search_word=Fate%20%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&ck=true&inStock=On&page=13",
+      "failures": 0,
+      "coverage": "本轮有限分页，断点已保存，后续页待继续"
+    },
+    {
+      "name": "Yahoo · 一番赏分页续采",
+      "url": "https://auctions.yahoo.co.jp/search/search?p=Fate+%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&va=Fate+%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&is_postage_mode=1&dest_pref_code=13&exflg=1&b=1&n=50",
+      "pages": 5,
+      "count": 250,
+      "total": null,
+      "status": "bounded",
+      "next": "https://auctions.yahoo.co.jp/search/search?p=Fate+%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&va=Fate+%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98&is_postage_mode=1&dest_pref_code=13&b=251&n=50",
+      "failures": 0,
+      "coverage": "本轮有限分页，断点已保存，后续页待继续"
+    },
+    {
+      "name": "骏河屋 · 同人分页续采",
+      "url": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=192&release_year=[2019,2021]&subgenre=Fate",
+      "pages": 12,
+      "count": 288,
+      "total": 6376,
+      "status": "bounded",
+      "next": "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&page=204&release_year=[2019,2021]&subgenre=Fate",
+      "failures": 0,
+      "pendingPartitions": [
+        "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2018%2C2018%5D&subgenre=Fate",
+        "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2017%2C2017%5D&subgenre=Fate",
+        "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2013%2C2016%5D&subgenre=Fate",
+        "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B2007%2C2012%5D&subgenre=Fate",
+        "https://www.suruga-ya.jp/search?category=1100&search_word=&ck=true&inStock=On&release_year=%5B0%2C2006%5D&subgenre=Fate"
+      ],
+      "coverage": "本轮有限分页，断点已保存，后续页待继续"
+    },
+    {
+      "name": "AmiAmi · 在售分页",
+      "url": "https://www.amiami.jp/top/search/list?s_keywords=Fate&s_st_list_newitem_available=1&pagemax=60&s_sortkey=regtimed",
+      "pages": 4,
+      "count": 216,
+      "total": 216,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "当前入口的分页已经结束"
+    }
+  ]
+}

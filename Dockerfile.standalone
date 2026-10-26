@@ -1,0 +1,16 @@
+FROM node:24-bookworm-slim AS build
+WORKDIR /app
+RUN corepack enable
+COPY package.json pnpm-lock.yaml ./
+RUN pnpm install --frozen-lockfile
+COPY . .
+RUN pnpm build:standalone
+
+FROM node:24-bookworm-slim
+WORKDIR /app
+COPY --from=build /app/dist-standalone ./dist-standalone
+ENV HOST=0.0.0.0 PORT=8080 RADAR_DATA_DIR=/data
+RUN mkdir /data && chown node:node /data
+USER node
+EXPOSE 8080
+CMD ["node","dist-standalone/server/server.mjs"]

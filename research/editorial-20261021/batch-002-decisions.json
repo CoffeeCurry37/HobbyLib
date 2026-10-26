@@ -1,0 +1,938 @@
+[
+  {
+    "ordinal": 41,
+    "type": "特典DVD",
+    "major": "影像",
+    "series": "Fate/stay night",
+    "line": "Heaven's Feel I. presage flower",
+    "kind": "bonus",
+    "summary": "《Fate/stay night [Heaven's Feel]》第一章限定版蓝光在 ufotable 购买时附赠的 Animation Material 特别影像 DVD。",
+    "tags": [
+      "Fate/stay night",
+      "Heaven's Feel",
+      "ufotable",
+      "店铺特典",
+      "DVD"
+    ],
+    "releaseDate": "2018-05-09",
+    "sources": [
+      "https://www.fate-sn.com/1st/bddvd/"
+    ],
+    "image": "old",
+    "parent": "source-780596777861e69912bc65d97da11fdc",
+    "relation": "bonus"
+  },
+  {
+    "ordinal": 42,
+    "type": "设定集",
+    "series": "Fate/Apocrypha",
+    "line": "Apocrypha material",
+    "wave": "C86 ver.",
+    "event": "コミックマーケット 86",
+    "kind": "bonus",
+    "summary": "TYPE-MOON 在 C86 向购买者赠送的《Fate/Apocrypha》28 页角色设定册，与后来发售的完整版 material 分开记录。",
+    "tags": [
+      "Fate/Apocrypha",
+      "TYPE-MOON",
+      "设定集",
+      "C86",
+      "购入特典",
+      "非卖品"
+    ],
+    "releaseDate": "2014-08-15",
+    "sources": [
+      "https://www.suruga-ya.jp/product/detail/185128204"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 43,
+    "type": "杂志",
+    "series": "B's-LOG",
+    "line": "B's-LOG",
+    "wave": "2020年5月号",
+    "summary": "2020 年 5 月号女性向游戏杂志，以《刀剑乱舞》五周年为封面专题，并刊载 FGO 的 CBC 2020 特集。",
+    "tags": [
+      "B's-LOG",
+      "杂志",
+      "刀剣乱舞",
+      "Fate/Grand Order",
+      "CBC 2020"
+    ],
+    "releaseDate": "2020-03-19",
+    "sources": [
+      "https://www.kadokawa.co.jp/product/321903000507/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 44,
+    "type": "杂志",
+    "series": "B's-LOG",
+    "line": "B's-LOG",
+    "wave": "2021年5月号",
+    "summary": "2021 年 5 月号女性向游戏杂志，以《魔法使的约定》和《Project SEKAI》为双封面主题，并刊载 FGO 的 CBC 2021 特集。",
+    "tags": [
+      "B's-LOG",
+      "杂志",
+      "魔法使いの約束",
+      "プロジェクトセカイ",
+      "Fate/Grand Order",
+      "CBC 2021"
+    ],
+    "releaseDate": "2021-03-19",
+    "sources": [
+      "https://www.kadokawa.co.jp/product/322005000165/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 45,
+    "type": "杂志",
+    "series": "B's-LOG",
+    "line": "B's-LOG",
+    "wave": "2026年6月号",
+    "summary": "2026 年 6 月号女性向游戏杂志，以《CRAZY CHA!N》和 I.ADORE 为封面主题，并介绍 FGO 的 CBC 新概念礼装。",
+    "tags": [
+      "B's-LOG",
+      "杂志",
+      "CRAZY CHA!N",
+      "I.ADORE",
+      "Fate/Grand Order",
+      "カルデアボーイズコレクション"
+    ],
+    "releaseDate": "2026-04-20",
+    "sources": [
+      "https://www.kadokawa.co.jp/product/322512001411/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 46,
+    "type": "杂志增刊",
+    "series": "B's-LOG",
+    "line": "オトメイトマガジン",
+    "wave": "15",
+    "summary": "B's-LOG 的 Otomate 专题增刊第 15 册，以《DIABOLIK LOVERS DARK FATE》为封面和卷首特集。",
+    "tags": [
+      "B's-LOG",
+      "Otomate",
+      "杂志增刊",
+      "DIABOLIK LOVERS",
+      "DARK FATE"
+    ],
+    "releaseDate": "2015-01-31",
+    "isbn": "9784047302600",
+    "sources": [
+      "https://www.kadokawa.co.jp/product/301412000998/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 47,
+    "type": "挂画",
+    "major": "大型周边",
+    "series": "Fate/Grand Order",
+    "line": "ダ・ヴィンチちゃんB2タペストリー",
+    "event": "コミックマーケット 97",
+    "summary": "TYPE-MOON 在 C97 发售、使用下越绘制的 Rider 达·芬奇图案的 B2 挂画。",
+    "tags": [
+      "Fate/Grand Order",
+      "TYPE-MOON",
+      "C97",
+      "挂画",
+      "B2",
+      "下越",
+      "レオナルド・ダ・ヴィンチ"
+    ],
+    "characters": [
+      "レオナルド・ダ・ヴィンチ〔ライダー〕"
+    ],
+    "releaseDate": "2019-12-28",
+    "sources": [
+      "https://typemoon.com/news/2020/uUVsrL",
+      "https://www.suruga-ya.jp/product/detail/873042797"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 48,
+    "type": "小说",
+    "series": "CANAAN",
+    "line": "CANAAN",
+    "wave": "上",
+    "summary": "杉原智则执笔的动画《CANAAN》小说版上卷，该作品源自《428》并与 TYPE-MOON 的原案创作相关。",
+    "tags": [
+      "CANAAN",
+      "428",
+      "TYPE-MOON",
+      "小说",
+      "杉原智則",
+      "上卷"
+    ],
+    "releaseDate": "2009-12-26",
+    "isbn": "9784044300104",
+    "sources": [
+      "https://www.kadokawa.co.jp/product/200907000501/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 49,
+    "type": "画集",
+    "series": "Carnival Phantasm",
+    "line": "TYPE-MOON 10th Anniversary ART BOOK catalogue",
+    "kind": "bonus",
+    "summary": "《Carnival Phantasm》1st Season 初回版附赠的 TYPE-MOON 十周年画集 catalogue，汇集武内崇等人的历年作品插画。",
+    "tags": [
+      "TYPE-MOON",
+      "Carnival Phantasm",
+      "10周年",
+      "画集",
+      "武内崇",
+      "初回特典",
+      "Fate",
+      "月姫",
+      "空の境界"
+    ],
+    "releaseDate": "2011-08-14",
+    "sources": [
+      "https://www.amazon.co.jp/dp/B0057M06G4",
+      "https://auctions.yahoo.co.jp/jp/auction/t1083862761"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 50,
+    "type": "画集",
+    "series": "CHANxCO",
+    "line": "CHANxBOX",
+    "summary": "插画师 CHANxCO 的首本商业作品集，收录约十年的 Q 版插画，包括 TYPE-MOON Fes.、FGO 和其他作品的周边图案。",
+    "tags": [
+      "CHANxCO",
+      "CHANxBOX",
+      "画集",
+      "Q版",
+      "TYPE-MOON Fes.",
+      "Fate/Grand Order",
+      "ペルソナ"
+    ],
+    "releaseDate": "2018-05-23",
+    "isbn": "9784756250919",
+    "jan": "",
+    "sources": [
+      "https://www.suruga-ya.jp/product/detail/185158702"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 51,
+    "type": "画集",
+    "series": "TYPE-MOON",
+    "line": "CONCEPT",
+    "wave": "2",
+    "event": "コミックマーケット 100",
+    "summary": "TYPE-MOON 在 C100 发售的第二本 CONCEPT 画集，整理 C76 至 C100 为 Comic Market 绘制的跨作品插画。",
+    "tags": [
+      "TYPE-MOON",
+      "CONCEPT",
+      "画集",
+      "C100",
+      "Fate/Grand Order",
+      "月姫",
+      "魔法使いの夜"
+    ],
+    "releaseDate": "2022-08-13",
+    "sources": [
+      "https://typemoon.com/news/2022/p4vQfM",
+      "https://www.suruga-ya.jp/product/detail/185211860"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 52,
+    "type": "画集",
+    "series": "TYPE-MOON",
+    "line": "CONCEPT",
+    "wave": "1",
+    "event": "コミックマーケット 75",
+    "summary": "TYPE-MOON 在 C75 发售的官方 CONCEPT 画集，整理此前 Comic Market 商品使用的 Fate、月姬及空之境界等作品插画。",
+    "tags": [
+      "TYPE-MOON",
+      "CONCEPT",
+      "画集",
+      "C75",
+      "武内崇",
+      "Fate",
+      "月姫",
+      "空の境界"
+    ],
+    "releaseDate": "2008-12-28",
+    "sources": [
+      "https://www.typemoon.com/event/c75/",
+      "https://www.suruga-ya.jp/product/detail/ZHORE7922"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 53,
+    "type": "动画资料集",
+    "series": "Carnival Phantasm",
+    "line": "CP読本",
+    "kind": "bonus",
+    "summary": "《Carnival Phantasm》2nd Season 初回版附赠的 160 页 CP 读本，作为动画相关资料册单独记录。",
+    "tags": [
+      "Carnival Phantasm",
+      "TYPE-MOON",
+      "动画资料集",
+      "CP読本",
+      "初回特典"
+    ],
+    "releaseDate": "2011-10-28",
+    "sources": [
+      "https://www.suruga-ya.jp/product/detail/185027560"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 54,
+    "type": "设定集",
+    "series": "Fate/EXTRA",
+    "line": "Fate/EXTRA material",
+    "summary": "《Fate/EXTRA》的官方设定资料集初回限定版，整理游戏角色、世界观及 Wada Arco 的设计资料。",
+    "tags": [
+      "Fate/EXTRA",
+      "TYPE-MOON",
+      "设定集",
+      "ワダアルコ",
+      "初回限定版"
+    ],
+    "sources": [
+      "https://auctions.yahoo.co.jp/jp/auction/q1248050639"
+    ],
+    "image": "old",
+    "unresolved": [
+      "二手挂牌仅以照片为准，需确认初回版附属物是否齐全后再与其他初回版记录归并。"
+    ]
+  },
+  {
+    "ordinal": 55,
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "7 · 2017.05–2017.12",
+    "summary": "FGO Game Artbook 第 7 弹，收录 2017 年 5 至 12 月活动的战斗角色、敌人、背景和开发访谈，包括 SE.RA.PH 与夏日竞赛。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第7弹",
+      "SE.RA.PH",
+      "サマーレース2017",
+      "冥界のメリークリスマス"
+    ],
+    "jan": "4580560592567",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-016990"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 56,
+    "title": "Fate/Grand Order Game Artbook [Event Collections 2018.01–2018.08]",
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "1 · 2018.01–2018.08",
+    "event": "コミックマーケット 95",
+    "summary": "FGO Game Artbook 系列首册，在 C95 发售，收录 2018 年 1 至 8 月游戏活动中的角色、背景等美术资料。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第1弹",
+      "C95"
+    ],
+    "releaseDate": "2018-12-29",
+    "jan": "4580560590143",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.suruga-ya.jp/product/detail/185166369"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 57,
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "2 · 2015.07–2016.02",
+    "summary": "FGO Game Artbook 第 2 弹，回顾开服至 2016 年 2 月的活动美术，收录尼禄祭、咕哒咕哒本能寺和 Saber Wars 等资料。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第2弹",
+      "ネロ祭",
+      "ぐだぐだ本能寺",
+      "セイバーウォーズ"
+    ],
+    "jan": "4580560590631",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015326"
+    ],
+    "image": "old",
+    "unresolved": [
+      "资料页为 2020 年再版；原二手挂牌未标印次，暂不填入再版日期。"
+    ]
+  },
+  {
+    "ordinal": 58,
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "5 · 2016.02–2016.07",
+    "summary": "FGO Game Artbook 第 5 弹，整理 2016 年 2 至 7 月游戏活动的角色、背景等美术资料。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第5弹"
+    ],
+    "releaseDate": "2020-07-01",
+    "jan": "4580560591843",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.suruga-ya.jp/product/detail/185181351"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 59,
+    "title": "Fate/Grand Order Game Artbook [Event Collections 2018.01–2018.08]",
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "1 · 2018.01–2018.08",
+    "event": "コミックマーケット 95",
+    "summary": "FGO Game Artbook 系列首册，在 C95 发售，收录 2018 年 1 至 8 月游戏活动中的角色、背景等美术资料。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第1弹",
+      "C95"
+    ],
+    "releaseDate": "2018-12-29",
+    "jan": "4580560590143",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.suruga-ya.jp/product/detail/185166369"
+    ],
+    "image": "old",
+    "mergeIntoOrdinal": 56,
+    "decision": "两条 Mandarake 记录的商品编号均为 0101370241，完整区间与同一封面一致。"
+  },
+  {
+    "ordinal": 60,
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "3 · 2018.09–2019.02",
+    "summary": "FGO Game Artbook 第 3 弹，收录 2018 年 9 月至 2019 年 2 月活动资料，包括 ONILAND、纽约之战及阎魔亭。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第3弹",
+      "ONILAND",
+      "バトル・イン・ニューヨーク2018",
+      "閻魔亭"
+    ],
+    "jan": "4580560591195",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015325"
+    ],
+    "image": "old",
+    "unresolved": [
+      "资料页为 2020 年再版；原二手挂牌未标印次，暂不填入再版日期。"
+    ]
+  },
+  {
+    "ordinal": 61,
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "4 · 2019.02–2019.07",
+    "summary": "FGO Game Artbook 第 4 弹，收录 2019 年 2 至 7 月活动的美术与背景制作访谈，包含大奥、莱妮丝事件簿及最终本能寺。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第4弹",
+      "徳川廻天迷宮 大奥",
+      "レディ・ライネスの事件簿",
+      "ぐだぐだファイナル本能寺2019"
+    ],
+    "jan": "4580560591362",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015324"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 62,
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "6 · 2016.08–2017.04",
+    "summary": "FGO Game Artbook 第 6 弹，收录 2016 年 8 月至 2017 年 4 月活动美术及动作特效访谈，涵盖夏日开拓和魔法少女纪行。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第6弹",
+      "FGO 2016 Summer",
+      "プリズマ・コーズ",
+      "ぐだぐだ明治維新"
+    ],
+    "jan": "4580560592260",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.1999.co.jp/10705744"
+    ],
+    "image": "old",
+    "unresolved": [
+      "初回版附开拓地图贴纸与地图纸；二手记录尚不能确认这些附件是否保留。"
+    ]
+  },
+  {
+    "ordinal": 63,
+    "type": "游戏美术集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Game Artbook",
+    "wave": "7 · 2017.05–2017.12",
+    "summary": "FGO Game Artbook 第 7 弹，收录 2017 年 5 至 12 月活动的战斗角色、敌人、背景和开发访谈，包括 SE.RA.PH 与夏日竞赛。",
+    "tags": [
+      "Fate/Grand Order",
+      "Game Artbook",
+      "游戏美术集",
+      "第7弹",
+      "SE.RA.PH",
+      "サマーレース2017",
+      "冥界のメリークリスマス"
+    ],
+    "jan": "4580560592567",
+    "publisher": "ディライトワークス",
+    "sources": [
+      "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-016990"
+    ],
+    "image": "old",
+    "decision": "与第55条同名同封面，仅照片腰封有差异；因不同 Mandarake 商品编号，先放在同一系列下保留挂牌身份。"
+  },
+  {
+    "ordinal": 64,
+    "type": "视觉设定集",
+    "series": "DIABOLIK LOVERS",
+    "line": "DIABOLIK LOVERS DARK FATE",
+    "summary": "《DIABOLIK LOVERS DARK FATE》的官方视觉资料集，收录角色与游戏美术资料及相关短篇。",
+    "tags": [
+      "DIABOLIK LOVERS",
+      "DARK FATE",
+      "视觉设定集",
+      "Otomate",
+      "Rejet"
+    ],
+    "releaseDate": "2015-03-28",
+    "isbn": "9784047303652",
+    "sources": [
+      "https://www.kadokawa.co.jp/product/301502001023/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 65,
+    "type": "画集",
+    "series": "DIABOLIK LOVERS",
+    "line": "DIABOLIK LOVERS ILLUSTRATIONS",
+    "wave": "II",
+    "summary": "《DIABOLIK LOVERS》官方插画集第二册，汇集 2013 年以后发表的百余幅系列插画。",
+    "tags": [
+      "DIABOLIK LOVERS",
+      "画集",
+      "ILLUSTRATIONS II",
+      "Otomate",
+      "Rejet"
+    ],
+    "releaseDate": "2016-03-31",
+    "isbn": "9784047331365",
+    "sources": [
+      "https://www.kadokawa.co.jp/product/321601000733/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 66,
+    "type": "游戏指南",
+    "series": "DIABOLIK LOVERS",
+    "line": "DIABOLIK LOVERS パーフェクトガイド",
+    "summary": "《DIABOLIK LOVERS》官方指南 Dark Pleasure，介绍 DARK FATE 及系列角色、作品相关情报。",
+    "tags": [
+      "DIABOLIK LOVERS",
+      "DARK FATE",
+      "游戏指南",
+      "Otomate",
+      "Rejet"
+    ],
+    "releaseDate": "2014-12-27",
+    "isbn": "9784047301689",
+    "sources": [
+      "https://www.kadokawa.co.jp/product/301411000834/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 67,
+    "type": "动画原画集",
+    "series": "Fate/stay night",
+    "line": "Fate/stay night Production Drawings",
+    "summary": "一迅社出版的 2006 年 TV 动画《Fate/stay night》原画集，从全 24 话选录九百余张原画并收录制作人员评语。",
+    "tags": [
+      "Fate/stay night",
+      "动画原画集",
+      "2006年TV动画",
+      "一迅社",
+      "Production Drawings"
+    ],
+    "releaseDate": "2007-01-17",
+    "sources": [
+      "https://www.nbcuni.co.jp/rondorobe/anime/staynight/news/archive01.html",
+      "https://www.suruga-ya.jp/product/detail/185007580"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 68,
+    "type": "Blu-ray",
+    "major": "影像",
+    "series": "Fate/Grand Order",
+    "line": "終局特異点 冠位時間神殿ソロモン",
+    "saleForm": "media_bundle",
+    "summary": "动画《Fate/Grand Order 终局特异点 冠位时间神殿所罗门》的完全生产限定版蓝光，原包装包含影碟、原声 CD 与资料册等特典。",
+    "tags": [
+      "Fate/Grand Order",
+      "所罗门",
+      "Blu-ray",
+      "完全生产限定版",
+      "原声CD",
+      "ANZX-14033"
+    ],
+    "releaseDate": "2022-01-19",
+    "sources": [
+      "https://www.aniplex.co.jp/lineup/fgo-solomon/products/detail/?id=4988",
+      "https://auctions.yahoo.co.jp/jp/auction/u1247019340"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 69,
+    "type": "占卜实用书",
+    "series": "elfin books series",
+    "line": "金函玉鏡 方位術奥義",
+    "summary": "林巨征所著、学研出版的《金函玉镜方位术奥义》决定版，是介绍传统方位占术的实用书。",
+    "tags": [
+      "elfin books series",
+      "林巨征",
+      "学研",
+      "占卜",
+      "方位术",
+      "决定版"
+    ],
+    "releaseDate": "2013-12-12",
+    "isbn": "9784058001882",
+    "publisher": "学研",
+    "sources": [
+      "https://hon.gakken.jp/book/2380018800",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I025046713"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 70,
+    "type": "海报",
+    "major": "大型周边",
+    "series": "Fate",
+    "line": "一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial",
+    "wave": "A賞",
+    "summary": "Fate 十周年纪念第一弹 TYPE-MOON Ace Special 一番赏的 A 赏 B1 美术海报，原挂牌注明插画作者为 pako。",
+    "tags": [
+      "Fate",
+      "一番赏",
+      "10周年",
+      "TYPE-MOON Ace Special",
+      "A赏",
+      "海报",
+      "B1",
+      "pako"
+    ],
+    "sources": [
+      "https://auctions.yahoo.co.jp/jp/auction/v1240546023"
+    ],
+    "image": "old",
+    "parent": "family-c9e829b563566a5bf4aef099a16728aa",
+    "relation": "contains",
+    "unresolved": [
+      "现有照片仅显示卷装外盒，尚需展开图确认 A 赏具体图案后才能与对应款式合并。"
+    ]
+  },
+  {
+    "ordinal": 71,
+    "type": "设定集",
+    "series": "Fate/Apocrypha",
+    "line": "Fate/Apocrypha material",
+    "summary": "《Fate/Apocrypha》的完整版官方设定集，收录双方阵营角色资料、设计稿和用语解说，此记录注明附初回特制金属光泽书套。",
+    "tags": [
+      "Fate/Apocrypha",
+      "TYPE-MOON BOOKS",
+      "设定集",
+      "初回版",
+      "特制书套",
+      "東出祐一郎",
+      "近衛乙嗣"
+    ],
+    "releaseDate": "2015-08-14",
+    "jan": "4560158370333",
+    "sources": [
+      "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-005845-R"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 72,
+    "type": "书籍系列目录",
+    "series": "Fate/stay night",
+    "line": "Fate Fantasm BOX",
+    "kind": "set",
+    "summary": "《Fate Fantasm BOX》的系列目录，按卷整理附伊莉雅或黑 Saber 胸像及其他周边的两款视觉书礼包。",
+    "tags": [
+      "Fate/stay night",
+      "Fate Fantasm BOX",
+      "系列目录",
+      "视觉书",
+      "附录手办"
+    ],
+    "sources": [
+      "https://www.kadokawa.co.jp/product/200610000336/",
+      "https://www.kadokawa.co.jp/product/200610000337/"
+    ],
+    "image": "old",
+    "imageRole": "catalogue_reference"
+  },
+  {
+    "ordinal": 73,
+    "type": "附录书籍套装",
+    "series": "Fate/stay night",
+    "line": "Fate Fantasm BOX",
+    "wave": "1",
+    "saleForm": "media_bundle",
+    "summary": "Fate Fantasm BOX 第 1 卷视觉书礼包，附伊莉雅胸像、BerserCAR 回力车和 Fate 角色扑克牌。",
+    "tags": [
+      "Fate/stay night",
+      "Fate Fantasm BOX",
+      "视觉书",
+      "附录手办",
+      "イリヤスフィール",
+      "バーサーカー",
+      "扑克牌"
+    ],
+    "characters": [
+      "イリヤスフィール・フォン・アインツベルン",
+      "ヘラクレス"
+    ],
+    "releaseDate": "2007-07-26",
+    "isbn": "9784049007886",
+    "jan": "4997766612560",
+    "sources": [
+      "https://www.amiami.jp/top/detail/detail?gcode=BOK-0607A",
+      "https://www.kadokawa.co.jp/product/200610000336/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 74,
+    "type": "附录书籍套装",
+    "series": "Fate/stay night",
+    "line": "Fate Fantasm BOX",
+    "wave": "2",
+    "saleForm": "media_bundle",
+    "summary": "Fate Fantasm BOX 第 2 卷视觉书礼包，附黑 Saber 胸像、太阳能液晶挂件和 B2 挂画。",
+    "tags": [
+      "Fate/stay night",
+      "Fate Fantasm BOX",
+      "视觉书",
+      "附录手办",
+      "セイバーオルタ",
+      "挂画",
+      "挂件"
+    ],
+    "characters": [
+      "アルトリア・ペンドラゴン〔オルタ〕"
+    ],
+    "releaseDate": "2007-07-26",
+    "isbn": "9784049007893",
+    "jan": "4997766612577",
+    "sources": [
+      "https://www.amiami.jp/top/detail/detail?gcode=BOK-0607B",
+      "https://www.kadokawa.co.jp/product/200610000337/"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 75,
+    "type": "纪念册及周边套装",
+    "series": "Fate/Grand Order",
+    "line": "1st Episode MEMORIAL BOOK",
+    "saleForm": "media_bundle",
+    "summary": "纪念 FGO 第一部完结的寄稿纪念册，此挂牌为 Aniplex 限定套装，另附芙芙造型防滴手机袋。",
+    "tags": [
+      "Fate/Grand Order",
+      "第一部",
+      "纪念册",
+      "Aniplex限定",
+      "芙芙",
+      "手机袋"
+    ],
+    "sources": [
+      "https://auctions.yahoo.co.jp/jp/auction/e1243825967",
+      "https://online.aniplex.co.jp/itemIpFshQwW.html"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 76,
+    "type": "概念礼装画集",
+    "series": "Fate/Grand Order",
+    "line": "Fate/Grand Order Memories",
+    "wave": "I · 2015.07–2016.12",
+    "summary": "FGO Memories 第一册概念礼装画集，收录第一部 2015 年 7 月至 2016 年 12 月的 244 张礼装图与画师评语。",
+    "tags": [
+      "Fate/Grand Order",
+      "Memories I",
+      "概念礼装",
+      "画集",
+      "第一部"
+    ],
+    "sources": [
+      "https://online.aniplex.co.jp/itemTHgdDmmd.html"
+    ],
+    "image": "old",
+    "decision": "引用 Aniplex 页面明确说明与一般销售相同的书籍本体信息，不将该页面限定画架赠品计入此 Mandarake 商品。"
+  },
+  {
+    "ordinal": 77,
+    "type": "活动周边拼套",
+    "major": "周边",
+    "series": "Fate/hollow ataraxia",
+    "line": "C69 活动周边",
+    "event": "コミックマーケット 69",
+    "kind": "set",
+    "saleForm": "seller_lot",
+    "summary": "与《Fate/hollow ataraxia》C69 发售相关的卖家周边拼套，挂牌包含 T 恤、方巾、透明书套及迷你海报。",
+    "tags": [
+      "Fate/hollow ataraxia",
+      "C69",
+      "活动周边",
+      "T恤",
+      "方巾",
+      "书套",
+      "海报",
+      "卖家拼套"
+    ],
+    "sources": [
+      "https://auctions.yahoo.co.jp/jp/auction/f1245745956"
+    ],
+    "image": "old",
+    "imageRole": "lot_photo",
+    "unresolved": [
+      "尚未找到原始 C69 包装目录，暂按卖家四件拼套记录，未认定为官方固定整套。"
+    ]
+  },
+  {
+    "ordinal": 78,
+    "type": "小说",
+    "series": "Fate/Requiem",
+    "line": "Fate/Requiem",
+    "wave": "2",
+    "summary": "星空流星著、NOCO 绘的 TYPE-MOON 官方小说《Fate/Requiem》第二卷《怀想都市新宿》，描绘圣杯战争结束后的世界。",
+    "tags": [
+      "Fate/Requiem",
+      "TYPE-MOON BOOKS",
+      "小说",
+      "第2卷",
+      "星空めてお",
+      "NOCO",
+      "宇津見エリセ"
+    ],
+    "characters": [
+      "宇津見エリセ"
+    ],
+    "releaseDate": "2020-06-12",
+    "jan": "",
+    "sources": [
+      "https://news.fate-go.jp/2020/requiem_cp/",
+      "https://www.suruga-ya.jp/product/detail/ZHORE232253"
+    ],
+    "image": "old"
+  },
+  {
+    "ordinal": 79,
+    "type": "音乐CD",
+    "major": "影像",
+    "series": "Fate",
+    "line": "Fate song material",
+    "saleForm": "media_bundle",
+    "summary": "汇集 Fate 多部动画及游戏主题歌的双 CD 专辑完全生产限定版，附无字幕 OP/ED 蓝光，此 Aniplex 款另附封面图案亚克力展示架。",
+    "tags": [
+      "Fate",
+      "音乐CD",
+      "主题歌集",
+      "完全生产限定版",
+      "Blu-ray",
+      "Aniplex特典",
+      "亚克力展示架",
+      "武内崇"
+    ],
+    "releaseDate": "2019-12-18",
+    "sources": [
+      "https://online.aniplex.co.jp/itemVuLJnDmY.html"
+    ],
+    "image": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw098a1404/items/items4000/4219/contents/14822.jpg"
+  },
+  {
+    "ordinal": 80,
+    "type": "漫画系列目录",
+    "series": "Fate/stay night",
+    "line": "Fate/stay night アンソロジーコミック",
+    "kind": "set",
+    "summary": "Enterbrain／KADOKAWA 出版的《Fate/stay night》商业漫画 Anthology 系列目录，当前关联第 1 至 10 卷，封面采用第 1 卷参考图。",
+    "tags": [
+      "Fate/stay night",
+      "漫画",
+      "Anthology",
+      "商业漫画选集",
+      "Enterbrain",
+      "KADOKAWA",
+      "系列目录"
+    ],
+    "sources": [
+      "https://www.kadokawa.co.jp/product/200700002632/",
+      "https://jp.mercari.com/shops/product/mrP7SaCHPn5D6CVnoegqNJ"
+    ],
+    "image": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg",
+    "imageRole": "catalogue_reference"
+  }
+]

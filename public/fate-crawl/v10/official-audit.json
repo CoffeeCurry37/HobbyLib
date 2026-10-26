@@ -1,0 +1,186 @@
+{
+  "at": "2026-10-05T05:02:30.347Z",
+  "sources": [
+    {
+      "group": "FDWAmesf",
+      "event": "Fate/Grand Order Fes. 2026 (11周年)",
+      "total": 142,
+      "products": 142,
+      "complete": true
+    },
+    {
+      "group": "OErPGlnI",
+      "event": "Fate/Grand Order Fes. 2025 (10周年)",
+      "total": 145,
+      "products": 145,
+      "complete": true
+    },
+    {
+      "group": "KAlsSsNt",
+      "event": "Fate/Grand Order Fes. 2025 (10周年)",
+      "total": 6,
+      "products": 6,
+      "complete": true
+    },
+    {
+      "group": "QVPQrDru",
+      "event": "Fate/Grand Order Fes. 2024 (9周年)",
+      "total": 125,
+      "products": 125,
+      "complete": true
+    },
+    {
+      "group": "MkwAxisF",
+      "event": "Fate/Grand Order Fes. 2023 (8周年)",
+      "total": 92,
+      "products": 92,
+      "complete": true
+    },
+    {
+      "group": "EpAxjCJW",
+      "event": "Fate/Grand Order Fes. 2022 (7周年)",
+      "total": 70,
+      "products": 70,
+      "complete": true
+    },
+    {
+      "group": "VMmnQogU",
+      "event": "Fate/Grand Order Fes. 2022 (7周年)",
+      "total": 13,
+      "products": 13,
+      "complete": true
+    },
+    {
+      "group": "MtAirtpL",
+      "event": "Fate/Grand Order Fes. 2021 (6周年)",
+      "total": 42,
+      "products": 42,
+      "complete": true
+    },
+    {
+      "group": "lVxaVVrH",
+      "event": "Fate/Grand Order Fes. 2021 (6周年)",
+      "total": 10,
+      "products": 10,
+      "complete": true
+    },
+    {
+      "group": "qMTBWYDR",
+      "event": "Fate/Grand Order 5th Anniversary (2020)",
+      "total": 34,
+      "products": 34,
+      "complete": true
+    },
+    {
+      "group": "aNmiksl",
+      "event": "Fate/Grand Order 5th Anniversary (2020)",
+      "total": 9,
+      "products": 9,
+      "complete": true
+    },
+    {
+      "group": "jaXUujkc",
+      "event": "Fate/Grand Order Fes. 2019 (4周年)",
+      "total": 47,
+      "products": 47,
+      "complete": true
+    },
+    {
+      "group": "ecxsrubi",
+      "event": "Fate/Grand Order Fes. 2019 (4周年)",
+      "total": 8,
+      "products": 8,
+      "complete": true
+    },
+    {
+      "group": "hIhNorUn",
+      "event": "Fate/Grand Order Fes. 2018 (3周年)",
+      "total": 36,
+      "products": 36,
+      "complete": true
+    },
+    {
+      "group": "KgADFddS",
+      "event": "Fate/Grand Order Fes. 2018 (3周年)",
+      "total": 12,
+      "products": 12,
+      "complete": true
+    },
+    {
+      "group": "fgofes-official",
+      "event": "Fate/Grand Order Fes. 2017 (2周年)",
+      "total": 36,
+      "products": 36,
+      "complete": true
+    },
+    {
+      "group": "fgofes-aniplex",
+      "event": "Fate/Grand Order Fes. 2017 (2周年)",
+      "total": 1,
+      "products": 1,
+      "complete": true
+    },
+    {
+      "group": "fgofes-limited_repri",
+      "event": "Fate/Grand Order Fes. 2017 (2周年)",
+      "total": 24,
+      "products": 24,
+      "complete": true
+    },
+    {
+      "group": "ONSODsoi",
+      "event": "Fate/Grand Order 10th Anniversary OVER THE SAME SKY (2025)",
+      "total": 58,
+      "products": 58,
+      "complete": true
+    },
+    {
+      "group": "XJIMHlOZ",
+      "event": "Fate/Grand Order Servant Art Chronicle -最終再臨展-",
+      "total": 88,
+      "products": 88,
+      "complete": true
+    },
+    {
+      "group": "SYzqfIPC",
+      "event": "Fate/Grand Order展 -星見の回廊-",
+      "total": 64,
+      "products": 64,
+      "complete": true
+    },
+    {
+      "group": "itemOgaByXik.html",
+      "event": "Fate/Grand Order 1st Anniversary (2016)",
+      "total": 1,
+      "products": 1,
+      "complete": true
+    },
+    {
+      "group": "itemRxwgxFqe.html",
+      "event": "Fate/Grand Order 1st Anniversary (2016)",
+      "total": 1,
+      "products": 1,
+      "complete": true
+    },
+    {
+      "group": "YpgKjCUM",
+      "event": "Fate/Grand Order 简体字版10周年",
+      "total": 24,
+      "products": 24,
+      "complete": true
+    }
+  ],
+  "details": 905,
+  "variants": 5097,
+  "failures": [],
+  "resolvedFailures": [
+    {
+      "url": "https://online.aniplex.co.jp/itemOgaByXik.html?dwvar_itemOgaByXik_variationNo=001",
+      "error": "来源暂不可读取（HTTP 404）"
+    },
+    {
+      "url": "https://online.aniplex.co.jp/itemRxwgxFqe.html?dwvar_itemRxwgxFqe_variationNo=001",
+      "error": "来源暂不可读取（HTTP 404）"
+    }
+  ]
+}

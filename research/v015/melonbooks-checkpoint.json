@@ -1,0 +1,17 @@
+{
+  "id": "melonbooks",
+  "url": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+  "next": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+  "pages": [],
+  "failures": [
+    {
+      "url": "https://www.melonbooks.co.jp/search/search.php?mode=search&search_disp=&category_id=0&text_type=&name=Fate",
+      "error": "Source returned Site Unavailable; cursor preserved; no bypass attempted",
+      "observedAt": "2026-10-18T05:43:37.796Z"
+    }
+  ],
+  "observations": 0,
+  "status": "paused",
+  "total": null,
+  "updatedAt": "2026-10-18T05:43:42.979Z"
+}

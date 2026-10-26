@@ -1,0 +1,23 @@
+{
+  "campaign": "non-doujin-20261021",
+  "startedAt": "2026-10-22T07:29:38.811Z",
+  "total": 15811,
+  "counts": {
+    "pending": 15731,
+    "partial": 14,
+    "verified": 65,
+    "blocked": 0,
+    "stale": 0,
+    "archived": 1,
+    "excluded": 0,
+    "missing": 0
+  },
+  "matching": 15811,
+  "nextUnstarted": {
+    "ordinal": 81,
+    "id": "member-17vmdp9",
+    "title": "Fate stay night アンソロジーコミック 1"
+  },
+  "newOutsideQueue": 1,
+  "nextOffset": 50
+}

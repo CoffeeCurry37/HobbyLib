@@ -1,0 +1,439 @@
+{
+  "queries": [
+    {
+      "kw": "Fate",
+      "count": 573,
+      "total": 573
+    },
+    {
+      "kw": "TYPE-MOON",
+      "count": 497,
+      "total": 497
+    }
+  ],
+  "details": 624,
+  "images": 558,
+  "failures": [],
+  "excludedDigital": [
+    {
+      "url": "https://www.kadokawa.co.jp/product/322606000860/",
+      "title": "Fate/Grand Order material XVIII",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322602000115/",
+      "title": "Fate/Grand Order material XVII",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/302603001067/",
+      "title": "Fate/Samurai Remnant【分冊版】",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322510000307/",
+      "title": "Fate/Grand Order material XVI",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322503000469/",
+      "title": "Fate/Grand Order material XV",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322410000880/",
+      "title": "Fate/Grand Order material XIV",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322405000409/",
+      "title": "Fate/Grand Order material XIII",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322403000073/",
+      "title": "Fate/Grand Order Arcade material",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322308000866/",
+      "title": "Fate/Grand Order material XII",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322308000865/",
+      "title": "Fate/Grand Order material XI",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322308000864/",
+      "title": "Fate/Grand Order material X",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322303000015/",
+      "title": "グランブルーファンタジー外伝 追憶のアーシヴェル end of fate (3)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322212000694/",
+      "title": "Fate:Lost Einherjar 極光のアスラウグ（１）「亜種二連聖杯戦争」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001093/",
+      "title": "Fate/Grand Order material IX",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/302206003855/",
+      "title": "Fate/stay night［Unlimited Blade Works］【分冊版】",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001092/",
+      "title": "Fate/Grand Order material VIII",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001091/",
+      "title": "Fate/Grand Order material VII",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001090/",
+      "title": "Fate/Grand Order material VI",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001089/",
+      "title": "Fate/Grand Order material V",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001088/",
+      "title": "Fate/Grand Order material IV",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001087/",
+      "title": "Fate/Grand Order material III",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001086/",
+      "title": "Fate/Grand Order material II",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109001085/",
+      "title": "Fate/Grand Order material I",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322202001044/",
+      "title": "Fate/strange Fake (５)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109000838/",
+      "title": "グランブルーファンタジー外伝 追憶のアーシヴェル end of fate (2)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109000836/",
+      "title": "【合本版】グランブルーファンタジー外伝 追憶のアーシヴェル 全4巻",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322109000835/",
+      "title": "グランブルーファンタジー外伝 追憶のアーシヴェル end of fate (1)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/302110004467/",
+      "title": "Ｆａｔｅ／Ｇｒａｎｄ Ｏｒｄｅｒ ‐Ｅｐｉｃ ｏｆ Ｒｅｍｎａｎｔ‐ 亜種特異点II 伝承地底世界 アガルタ アガルタの女【分冊版】",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/302109000330/",
+      "title": "帝都聖杯奇譚 Ｆａｔｅ／ｔｙｐｅ Ｒｅｄｌｉｎｅ【分冊版】",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322005000060/",
+      "title": "Fate/Requiem 2 懐想都市新宿",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321909000479/",
+      "title": "Fate/strange Fake (４)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321909000436/",
+      "title": "Fate/EXTRA CCC VOID LOG:BLOOM ECHO 4 フェイト／エクストラ CCC シナリオ集",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321901000201/",
+      "title": "Fate/Requiem 1 星巡る少年",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321811001133/",
+      "title": "Fate/EXTRA CCC VOID LOG:BLOOM ECHO 3 フェイト／エクストラ CCC シナリオ集",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321805000081/",
+      "title": "Fate/EXTRA CCC VOID LOG:BLOOM ECHO 2 フェイト／エクストラ CCC シナリオ集",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321805000080/",
+      "title": "Fate/EXTRA CCC VOID LOG:BLOOM ECHO 1 フェイト／エクストラ CCC シナリオ集",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321805000079/",
+      "title": "Fate/EXTRA MOON LOG:TYPEWRITER 2 フェイト／エクストラ シナリオ集",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321805000078/",
+      "title": "Fate/EXTRA MOON LOG:TYPEWRITER 1 フェイト／エクストラ シナリオ集",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321805000077/",
+      "title": "Fate/strange Fake (３)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321805000076/",
+      "title": "Fate/strange Fake (２)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321805000075/",
+      "title": "Fate/strange Fake (１)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321804000486/",
+      "title": "Fate/Prototype -Animation material-",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000819/",
+      "title": "ロード・エルメロイII世の事件簿 1 「case.剥離城アドラ」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321706000841/",
+      "title": "Fate/Apocrypha vol.5「邪竜と聖女」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321706000840/",
+      "title": "Fate/Apocrypha vol.4「熾天の杯」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321706000839/",
+      "title": "Fate/Apocrypha vol.3「聖人の凱旋」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321706000838/",
+      "title": "Fate/Apocrypha vol.2「黒の輪舞/赤の祭典」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321706000837/",
+      "title": "Fate/Apocrypha vol.1「外典:聖杯大戦」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/301503001755/",
+      "title": "TOKYO RAVENS 11",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/301411000088/",
+      "title": "GA-REI 12",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/301411000093/",
+      "title": "TOKYO RAVENS 7",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/301411000084/",
+      "title": "GA-REI 9",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/301411000175/",
+      "title": "SAMURAI DRIVE 5",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/301411000092/",
+      "title": "TOKYO RAVENS 6",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/301410000606/",
+      "title": "SAMURAI DRIVE 1",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/301410000597/",
+      "title": "TOKYO RAVENS 1",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322607000764/",
+      "title": "ロード・エルメロイII世の冒険 12 星冠密議(４)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322510000308/",
+      "title": "ロード・エルメロイII世の冒険 11 星冠密議(３)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322503000470/",
+      "title": "ロード・エルメロイII世の冒険 10 星冠密議(２)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322410000879/",
+      "title": "ロード・エルメロイII世の冒険 ９ 星冠密議(１)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322403000072/",
+      "title": "ロード・エルメロイII世の冒険 ８ フェムの船宴(下)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322310000106/",
+      "title": "ロード・エルメロイII世の冒険 ７ フェムの船宴(中)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322307000107/",
+      "title": "ロード・エルメロイII世の冒険 ６ フェムの船宴(上)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322211000850/",
+      "title": "ロード・エルメロイII世の冒険 ５ 錬金術師の遺産(下)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322207000992/",
+      "title": "ロード・エルメロイII世の冒険 ４ 錬金術師の遺産(上)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322112001059/",
+      "title": "ロード・エルメロイII世の冒険 ３ 彷徨海の魔人(下)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322106000021/",
+      "title": "ロード・エルメロイII世の冒険 ２ 彷徨海の魔人(上)",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/322011000788/",
+      "title": "ロード・エルメロイII世の冒険 １ 神を喰らった男",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321903000970/",
+      "title": "ロード・エルメロイII世の事件簿 10 「case.冠位決議(下)」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321811001139/",
+      "title": "ロード・エルメロイII世の事件簿 9 「case.冠位決議(中)」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321807000576/",
+      "title": "ロード・エルメロイII世の事件簿 8 「case.冠位決議(上)」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321711001046/",
+      "title": "ロード・エルメロイII世の事件簿 7 「case.アトラスの契約(下)」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000830/",
+      "title": "ファイヤーガール 3 「青銅の巨人」下巻",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000829/",
+      "title": "ファイヤーガール 3 「青銅の巨人」中巻",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000828/",
+      "title": "ファイヤーガール 3 「青銅の巨人」上巻",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000827/",
+      "title": "ファイヤーガール 2 「白嶺の幻肢虎」下巻",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000826/",
+      "title": "ファイヤーガール 2 「白嶺の幻肢虎」上巻",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000825/",
+      "title": "ファイヤーガール 1 「虚惑星の魔法使い」下巻",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000824/",
+      "title": "ファイヤーガール 1 「虚惑星の魔法使い」上巻",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321709000079/",
+      "title": "ロード・エルメロイII世の事件簿 6 「case.アトラスの契約(上)」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000823/",
+      "title": "ロード・エルメロイII世の事件簿 5 「case.魔眼蒐集列車(下)」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000822/",
+      "title": "ロード・エルメロイII世の事件簿 4 「case.魔眼蒐集列車(上)」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000821/",
+      "title": "ロード・エルメロイII世の事件簿 3 「case.双貌塔イゼルマ(下)」",
+      "form": "電子専売"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321707000820/",
+      "title": "ロード・エルメロイII世の事件簿 2 「case.双貌塔イゼルマ(上)」",
+      "form": "電子専売"
+    }
+  ]
+}

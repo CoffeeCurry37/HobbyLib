@@ -1,0 +1,88 @@
+{
+  "newProducts": 2099,
+  "sources": [
+    {
+      "name": "Aniplex · Fate 全作品官方目录",
+      "url": "https://online.aniplex.co.jp/fateproject",
+      "pages": 368,
+      "count": 366,
+      "total": 366,
+      "status": "completed",
+      "next": null,
+      "uniqueProductPages": 365,
+      "failures": 0,
+      "coverage": "当前公开入口的全部可访问分页"
+    },
+    {
+      "name": "Aniplex · FGO 官方目录",
+      "url": "https://online.aniplex.co.jp/fateGO",
+      "pages": 3,
+      "count": 281,
+      "total": 281,
+      "status": "completed",
+      "next": null,
+      "uniqueProductPages": 281,
+      "failures": 0,
+      "coverage": "列表完整；与 FateProject 重叠详情复用已读取的原站证据"
+    },
+    {
+      "name": "AmiAmi · Fate 手办与玩具",
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_sortkey=regtimed&s_cate_tag=1",
+      "pages": 488,
+      "count": 480,
+      "total": 2037,
+      "status": "bounded",
+      "next": "https://slist.amiami.jp/top/search/list?s_cate_tag=1&s_keywords=Fate&s_sortkey=regtimed&pagemax=60&getcnt=0&pagecnt=9",
+      "uniqueProductPages": 480,
+      "failures": 0,
+      "coverage": "本轮采集新着排序前 8 页 / 480 个商品；剩余分页已保存"
+    },
+    {
+      "name": "AmiAmi · Fate 书籍",
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_sortkey=regtimed&s_cate_tag=8",
+      "pages": 206,
+      "count": 202,
+      "total": 202,
+      "status": "completed",
+      "next": null,
+      "uniqueProductPages": 202,
+      "failures": 0,
+      "coverage": "当前公开入口的全部可访问分页"
+    },
+    {
+      "name": "AmiAmi · Fate 音乐与 CD",
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_sortkey=regtimed&s_cate_tag=7",
+      "pages": 334,
+      "count": 328,
+      "total": 328,
+      "status": "completed",
+      "next": null,
+      "uniqueProductPages": 328,
+      "failures": 0,
+      "coverage": "当前公开入口的全部可访问分页"
+    },
+    {
+      "name": "AmiAmi · TYPE-MOON BOOKS",
+      "url": "https://slist.amiami.jp/top/search/list?pagemax=60&s_cate2=161&s_maker_id=2638",
+      "pages": 88,
+      "count": 86,
+      "total": 86,
+      "status": "completed",
+      "next": null,
+      "uniqueProductPages": 86,
+      "failures": 0,
+      "coverage": "当前公开入口的全部可访问分页"
+    },
+    {
+      "name": "已收录套装原站复核",
+      "url": "https://www.suruga-ya.jp/search?category=&search_word=Fate",
+      "pages": 39,
+      "count": 39,
+      "total": 39,
+      "status": "completed",
+      "next": null,
+      "failures": 0,
+      "coverage": "使用已收录套装的原站链接复核主媒介和内容，并补充三项来源明确的限定版资料"
+    }
+  ]
+}

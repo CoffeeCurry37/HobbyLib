@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-16T14:40:30.274Z",
+  "waferWaves": 22,
+  "waferSlots": 622,
+  "officialNamedWaferSlots": 75,
+  "families": 2,
+  "familySlots": 49,
+  "postcardNamed": 2,
+  "auroraNamed": 14,
+  "files": "lib/radar/collection-catalogue.json",
+  "notes": [
+    "未把稀有度数量行解释为卡号。",
+    "复刻1全31種+1種、复刻2全32種+1種，明确加计隐藏款；うち不重复加。",
+    "图片不超过10张；排除随机包/整盒文字占位图。",
+    "明信片只核对并映射官方003与033，其余保留独立卡面占位。",
+    "Aurora 本地序号不能用于跨站官方卡号匹配。",
+    "Yahoo混合打包 j1245034569 未作为 Lilith 单卡匹配来源。"
+  ]
+}

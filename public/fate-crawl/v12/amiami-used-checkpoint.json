@@ -1,0 +1,32 @@
+{
+  "id": "amiami-used",
+  "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_st_condition_flg=1&s_sortkey=regtimed",
+  "next": null,
+  "pages": [
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&pagemax=60&s_st_condition_flg=1&s_sortkey=regtimed",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&s_sortkey=regtimed&s_st_condition_flg=1&pagemax=60&getcnt=0&pagecnt=2",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&s_sortkey=regtimed&s_st_condition_flg=1&pagemax=60&getcnt=0&pagecnt=3",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&s_sortkey=regtimed&s_st_condition_flg=1&pagemax=60&getcnt=0&pagecnt=4",
+      "count": 60
+    },
+    {
+      "url": "https://slist.amiami.jp/top/search/list?s_keywords=Fate&s_sortkey=regtimed&s_st_condition_flg=1&pagemax=60&getcnt=0&pagecnt=5",
+      "count": 20
+    }
+  ],
+  "observations": 260,
+  "total": 260,
+  "failures": [],
+  "status": "completed",
+  "updatedAt": "2026-10-06T01:43:47.472Z"
+}

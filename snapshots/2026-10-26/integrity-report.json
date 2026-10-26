@@ -1,0 +1,193 @@
+{
+  "verifiedAt": "2026-10-26T05:51:35.524Z",
+  "active": 35020,
+  "archived": 8549,
+  "relations": 1835,
+  "originalPersonalRecordsPreserved": 43569,
+  "ownedRecords": 3,
+  "newActiveItems": 0,
+  "newLogicalParents": 0,
+  "newCardSlots": 0,
+  "collections": [
+    {
+      "key": "fgo-wafer:4570117932908000",
+      "title": "Fate/Grand Order ウエハース15",
+      "expected": 33,
+      "cards": 33,
+      "related": 33
+    },
+    {
+      "key": "fgo-wafer:4570117926587000",
+      "title": "Fate/Grand Order ウエハース14",
+      "expected": 34,
+      "cards": 34,
+      "related": 34
+    },
+    {
+      "key": "fgo-wafer:4570117922701000",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース",
+      "expected": 45,
+      "cards": 45,
+      "related": 46
+    },
+    {
+      "key": "fgo-wafer:4570117918803000",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025",
+      "expected": 24,
+      "cards": 24,
+      "related": 24
+    },
+    {
+      "key": "fgo-wafer:4570117915819000",
+      "title": "Fate/Grand Order ウエハース13",
+      "expected": 34,
+      "cards": 34,
+      "related": 34
+    },
+    {
+      "key": "fgo-wafer:4570117911026000",
+      "title": "Fate/Grand Order ツインウエハース特別弾",
+      "expected": 24,
+      "cards": 24,
+      "related": 24
+    },
+    {
+      "key": "fgo-wafer:4549660958338000",
+      "title": "Fate/Grand Order ウエハース12",
+      "expected": 30,
+      "cards": 30,
+      "related": 30
+    },
+    {
+      "key": "fgo-wafer:4549660738732000",
+      "title": "Fate/Grand Orderウエハース11",
+      "expected": 34,
+      "cards": 34,
+      "related": 34
+    },
+    {
+      "key": "fgo-wafer:4549660626978000",
+      "title": "Fate/Grand Orderウエハース10",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-wafer:4549660542506000",
+      "title": "Fate/Grand Orderウエハース9",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-wafer:4549660465782000",
+      "title": "Fate/Grand Orderウエハース8",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-wafer:4549660464242000",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2",
+      "expected": 28,
+      "cards": 28,
+      "related": 29
+    },
+    {
+      "key": "fgo-wafer:4549660423669000",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース",
+      "expected": 21,
+      "cards": 21,
+      "related": 21
+    },
+    {
+      "key": "fgo-wafer:4549660423850000",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2",
+      "expected": 33,
+      "cards": 33,
+      "related": 33
+    },
+    {
+      "key": "fgo-wafer:4549660340034000",
+      "title": "Fate/Grand Orderウエハース7",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-wafer:4549660338970000",
+      "title": "Fate/Grand Orderウエハース6",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-wafer:4549660290537000",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル",
+      "expected": 32,
+      "cards": 32,
+      "related": 33
+    },
+    {
+      "key": "fgo-wafer:4549660290186000",
+      "title": "Fate/Grand Orderウエハース5",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-wafer:4549660252245000",
+      "title": "Fate/Grand Orderウエハース4",
+      "expected": 25,
+      "cards": 25,
+      "related": 26
+    },
+    {
+      "key": "fgo-wafer:4549660251392000",
+      "title": "Fate/Grand Orderウエハース3",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-wafer:4549660224976000",
+      "title": "Fate/Grand Orderウエハース2",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-wafer:4549660189688000",
+      "title": "Fate/Grand Orderウエハース",
+      "expected": 25,
+      "cards": 25,
+      "related": 25
+    },
+    {
+      "key": "fgo-exhibition-2026:aurora",
+      "title": "Fate/Grand Order展 -星見の回廊- オーロラカードコレクション",
+      "expected": 14,
+      "cards": 14,
+      "related": 16
+    },
+    {
+      "key": "fgo-exhibition-2026:postcard",
+      "title": "Fate/Grand Order展 -星見の回廊- ゲームスチルポストカード",
+      "expected": 35,
+      "cards": 35,
+      "related": 35
+    }
+  ],
+  "snapshot": {
+    "id": "fate-v015-b2bd25ef89b370ea",
+    "nextBatch": 82
+  },
+  "checks": [
+    "personal and manually edited fields unchanged",
+    "complete official-count directories",
+    "unique member identities",
+    "no dangling or duplicate relations",
+    "no hierarchy cycles",
+    "ten-image maximum"
+  ]
+}

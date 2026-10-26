@@ -1,0 +1,34 @@
+import assert from 'node:assert/strict';
+import {spawn} from 'node:child_process';
+import {once} from 'node:events';
+import {mkdtempSync,rmSync,readFileSync} from 'node:fs';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
+import {randomBytes} from 'node:crypto';
+const directory=mkdtempSync(join(tmpdir(),'radar-http-test-'));
+const port=18087,origin=`http://127.0.0.1:${port}`,password=randomBytes(24).toString('base64url');
+const server=spawn(process.execPath,['dist-standalone/server/server.mjs'],{env:{...process.env,PORT:String(port),HOST:'127.0.0.1',RADAR_ORIGIN:origin,RADAR_PASSWORD:password,RADAR_DATA_DIR:directory},stdio:['ignore','pipe','pipe']});
+let errorText='';server.stderr.on('data',c=>{errorText+=c;});
+try{
+ await new Promise((resolve,reject)=>{const timer=setTimeout(()=>reject(new Error('Server startup timed out: '+errorText)),10000);server.stdout.on('data',chunk=>{if(String(chunk).includes('ready at')){clearTimeout(timer);resolve();}});server.on('exit',code=>{clearTimeout(timer);reject(new Error('Server exited '+code+': '+errorText));});});
+ assert.equal((await fetch(origin+'/api/radar')).status,401);
+ assert.equal((await fetch(origin+'/login',{method:'POST',body:new URLSearchParams({password})})).status,403);
+ const login=await fetch(origin+'/login',{method:'POST',headers:{Origin:origin},body:new URLSearchParams({password}),redirect:'manual'});assert.equal(login.status,303);const cookie=login.headers.get('set-cookie').split(';')[0];assert.ok(login.headers.get('set-cookie').includes('HttpOnly'));
+ const headers={Cookie:cookie,Origin:origin,'Content-Type':'application/json'};
+ const home=await fetch(origin+'/',{headers});assert.equal(home.status,200);assert.match(await home.text(),/Collector Radar/);
+ assert.equal((await fetch(origin+'/api/radar',{method:'POST',headers:{...headers,Origin:'https://other.invalid'},body:'{}'})).status,403);
+ const emptyBackup=await (await fetch(origin+'/api/radar?export',{headers})).json();
+ const post=async body=>{const response=await fetch(origin+'/api/radar',{method:'POST',headers,body:JSON.stringify(body)}),data=await response.json();assert.equal(response.ok,true,data.error);return data;};
+ const counts={items:1,archived:0,relations:0,notices:0,scans:0},start=await post({action:'backup-start',metadata:{version:7,prefs:emptyBackup.prefs,counts}});
+ await post({action:'backup-chunk',restoreId:start.restoreId,kind:'items',offset:0,rows:[{id:'http-stage',title:'Fate/Grand Order material III',image:'',evidence:[],offers:[],createdAt:new Date().toISOString()}]});
+ assert.equal((await (await fetch(origin+'/api/radar',{headers})).json()).items.length,0);
+ await post({action:'backup-cancel',restoreId:start.restoreId});
+ const emptyStart=await post({action:'backup-start',metadata:{version:7,prefs:emptyBackup.prefs,counts:{...counts,items:0}}});
+ const finished=await post({action:'backup-finish',restoreId:emptyStart.restoreId});assert.equal(finished.state.items.length,0);
+ console.log('PASS: authenticated HTTP backup staging, invisible partial upload, cancellation and atomic empty restore');
+ const html=readFileSync(process.env.RADAR_HTML_FIXTURE||'tests/fixtures/mandarake-cards.html','utf8');const expected=Number(process.env.RADAR_EXPECTED_COUNT||2);
+ const imported=await (await fetch(origin+'/api/radar',{method:'POST',headers,body:JSON.stringify({action:'html-import',url:'https://order.mandarake.co.jp/order/listPage/list?dispCount=240&categoryCode=01&keyword=TYPE-MOON',html})})).json();assert.equal(imported.count,expected,imported.error);assert.equal(imported.state.items.length,Number(process.env.RADAR_EXPECTED_PRODUCTS||expected));assert.equal(imported.state.notices.length,0);
+ const repeated=await (await fetch(origin+'/api/radar',{method:'POST',headers,body:JSON.stringify({action:'html-import',url:'https://order.mandarake.co.jp/order/listPage/list?dispCount=240&categoryCode=01&keyword=TYPE-MOON',html})})).json();assert.equal(repeated.added,0);assert.equal(repeated.matched,expected);assert.equal(repeated.state.items.length,imported.state.items.length);assert.equal(repeated.state.items.flatMap(i=>i.offers).length,expected);
+ console.log(`PASS: real HTTP login, private API, CSRF, shared UI, ${expected} offers / ${imported.state.items.length} products import and duplicate suppression`);
+ const titles=['FGOマンガ劇場カルデアデルカ vol.04','FGOマンガ劇場 カルデアデルカ Vol.04 4','FGOマンガ劇場 カルデアデルカ Vol.04 5'];const products=titles.map((title,n)=>({title,description:'同人誌',image:'',facts:{origin:'doujin',category:'同人誌',circle:'APERTO',ageRating:'all'},offer:{id:'test-padded-'+n,source:'骏河屋',url:'https://www.suruga-ya.jp/product/detail/TEST04'+n,price:null,currency:'JPY',condition:'fixture',availability:'unknown',bonus:'unknown',observedAt:new Date().toISOString(),history:[]}}));const padded=await post({action:'parsed-source-import',products});assert.equal(padded.added,2);assert.equal(padded.matched,1);assert.equal(padded.state.items.find(i=>i.title===titles[0]).offers.length,2);console.log('PASS: compiled source import matches equivalent padded/repeated volume numbers and preserves differing numbers');
+}finally{server.kill('SIGTERM');await once(server,'exit');rmSync(directory,{recursive:true,force:true});}

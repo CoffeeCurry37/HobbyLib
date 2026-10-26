@@ -1,0 +1,25 @@
+{
+  "id": "mercari",
+  "url": "https://jp.mercari.com/search?keyword=Fate&page_token=v1%3A6",
+  "next": "https://jp.mercari.com/search?keyword=Fate&page_token=v1%3A8",
+  "pages": [
+    {
+      "url": "https://jp.mercari.com/search?keyword=Fate&page_token=v1%3A6",
+      "file": "mercari-0.json",
+      "count": 120,
+      "observedAt": "2026-10-18T05:43:37.795Z"
+    },
+    {
+      "url": "https://jp.mercari.com/search?keyword=Fate&page_token=v1%3A7",
+      "file": "mercari-1.json",
+      "count": 120,
+      "observedAt": "2026-10-18T05:43:44.941Z"
+    }
+  ],
+  "failures": [],
+  "observations": 240,
+  "status": "bounded",
+  "total": null,
+  "uniqueListings": 240,
+  "updatedAt": "2026-10-18T05:43:45.833Z"
+}

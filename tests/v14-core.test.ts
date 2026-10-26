@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import {createItem} from '../lib/radar/engine';
+import {DEFAULT_PREFS} from '../lib/radar/types';
+import {makeOffer} from '../lib/radar/collector';
+import {repairClassification} from '../lib/radar/classification';
+import {sameProduct} from '../lib/radar/identity';
+import {waferWaves,collectionFamilies} from '../lib/radar/collection-facts';
+const wafer=repairClassification({...createItem('FGOウエハース 14弾/2821300 呼延灼【N】 8','',undefined,DEFAULT_PREFS),wave:'8',offers:[makeOffer('https://order.mandarake.co.jp/order/detailPage/item?itemCode=123','',100)]});assert.equal(wafer.wave,'14');assert.equal(wafer.cardNumber,'08');
+const wafer13=repairClassification({...wafer,title:'Fate/Grand Order ウエハース 13弾/2729010 高杉晋作【R】 11',catalogueKey:undefined,cardNumber:undefined});assert.equal(wafer13.wave,'13');assert.equal(wafer13.cardNumber,'11');
+assert.equal(sameProduct({...wafer,jan:'1234567890123'},{...wafer,id:'other',cardNumber:'09',catalogueKey:wafer.catalogueKey!.replace(':08',':09'),jan:'1234567890123'}),null);
+const manga=repairClassification(createItem('週刊少年マガジンKC カワグチタケシ Fate/Grand Order-turas realta- 22','',undefined,DEFAULT_PREFS));assert.equal(manga.majorClass,'书籍');
+const d=repairClassification({...createItem('ヤツカ (ヤツカ)「Fate/Grand Order」 collected vol.2','',undefined,DEFAULT_PREFS),image:'https://img.mandarake.co.jp/webshopimg/04/a.jpg',offers:wafer.offers});assert.equal(d.origin,'doujin');assert.equal(d.circle,'ヤツカ');
+const f=collectionFamilies.find(f=>f.numbering==='official')!,m=f.members.find(m=>m.number==='003')!,a=repairClassification({...createItem('ゲームスチルポストカード(3)','',undefined,DEFAULT_PREFS),offers:[{...makeOffer(f.url,'',300),variant:'003'}]}),b=repairClassification({...createItem('千子村正 ポストカード','',undefined,DEFAULT_PREFS),offers:[makeOffer(m.urls![0],'',300)]});assert.ok(sameProduct(a,b));assert.equal(a.releaseDate,'2026-07-17');assert.equal(waferWaves.reduce((n,f)=>n+f.count,0),622);
+console.log('v14-core: collection numbering, trusted cross-shop mapping and classifications passed');

@@ -1,0 +1,44 @@
+{
+  "id": "suruga-portable",
+  "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On",
+  "next": null,
+  "pages": [
+    {
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On&page=2",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On&page=3",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On&page=4",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On&page=5",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On&page=6",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On&page=7",
+      "count": 24
+    },
+    {
+      "url": "https://www.suruga-ya.jp/search?category=201&search_word=Fate&ck=true&inStock=On&page=8",
+      "count": 18
+    }
+  ],
+  "observations": 186,
+  "total": 186,
+  "failures": [],
+  "status": "completed",
+  "updatedAt": "2026-10-06T01:50:30.818Z"
+}

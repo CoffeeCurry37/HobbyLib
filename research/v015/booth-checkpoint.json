@@ -1,0 +1,25 @@
+{
+  "id": "booth",
+  "url": "https://booth.pm/ja/search/fate?page=4",
+  "next": "https://booth.pm/ja/search/fate?page=6",
+  "pages": [
+    {
+      "url": "https://booth.pm/ja/search/fate?page=4",
+      "file": "booth-0.json",
+      "count": 60,
+      "observedAt": "2026-10-18T05:43:37.797Z"
+    },
+    {
+      "url": "https://booth.pm/ja/search/fate?page=5",
+      "file": "booth-1.json",
+      "count": 60,
+      "observedAt": "2026-10-18T05:43:44.708Z"
+    }
+  ],
+  "failures": [],
+  "observations": 120,
+  "status": "bounded",
+  "total": null,
+  "uniqueListings": 117,
+  "updatedAt": "2026-10-18T05:43:46.440Z"
+}
