@@ -1,0 +1,13 @@
+{
+  "sameInputReused": 15811,
+  "sameInputWritten": 0,
+  "resumeElapsedMs": 7781.411182999999,
+  "changedRowRejected": true,
+  "changedRowRestoredExactly": true,
+  "inputHash": "adc8840c46c1e68098d14e03d91a104e836b755d41e403ca71e7fc16dafb1f7b",
+  "snapshotRowsHash": "cbd5696f2c2ae7137536d53107c3510cd2528c3fd71a8c9192953a80e2d44eca",
+  "rulesHash": "e7bf75289a30a1df1dd85af3c90bcb3f5738c2526cfbacb811a0ddc9bd3e792b",
+  "sourceRequests": 0,
+  "productionApplied": false,
+  "elapsedSeconds": 17.085
+}

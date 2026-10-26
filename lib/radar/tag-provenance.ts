@@ -8,7 +8,8 @@ export const TAG_ALIASES={'TYPE MOON':'TYPE-MOON','タイプムーン':'TYPE-MOO
 // deletions, including tags that resemble an old automatic classification.
 export function tagSuggestions(item:Item){
  const supported=Object.entries(TAG_NAMESPACES).flatMap(([field,namespace])=>{
-  const sources=item.evidence.filter(e=>e.field===field&&e.url&&/来源明确|人工|核对/.test(e.method));
+  const value=item[field as keyof typeof TAG_NAMESPACES],expected=Array.isArray(value)?value.join('、'):String(value||'');
+  const sources=item.evidence.filter(e=>e.field===field&&e.url&&/来源明确|人工|核对/.test(e.method)&&(e.value===expected||['brand','publisher','manufacturer'].includes(field)&&canonicalBrand(e.value)===canonicalBrand(expected)));
   if(!sources.length)return [];
   return metadataTags(item).filter(tag=>tag.startsWith(namespace+':')).map(rawTag=>({tag:['brand','publisher','manufacturer'].includes(field)?namespace+':'+canonicalBrand(rawTag.slice(namespace.length+1)):rawTag,rawTag,field,sources:sources.map(e=>({url:e.url,value:e.value,method:e.method})),vocabularyVersion:TAG_VOCABULARY_VERSION}));
  });

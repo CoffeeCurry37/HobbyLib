@@ -54,6 +54,10 @@ test('events survive truncation, repeat drops/restock, replay and stale concurre
   await run(product(2,200,'sold'));const current=(await stateFor('owner')).items.find(i=>!i.catalogueGroup);assert.equal(current.offers[0].availability,'available');assert.equal(current.offers[0].price,800);
   const left=await stateFor('owner'),right=await stateFor('owner');const simultaneous=await Promise.allSettled([ingest('owner',left,[product(8,700)],true,true),ingest('owner',right,[product(8,700)],true,true)]);assert.equal(simultaneous.filter(x=>x.status==='fulfilled').length,1);assert.equal(db.raw.prepare('SELECT count(*) n FROM notices').get().n,4);
   const stale=await stateFor('owner'),original=stale.items.find(i=>!i.catalogueGroup);await saveItems('owner',[{...original,notes:'USER EDIT',quantity:3,ownership:'owned'}]);await assert.rejects(ingest('owner',stale,[product(9,600)],true,true),/并发/);assert.equal(JSON.parse(db.raw.prepare('SELECT data FROM items WHERE id=?').get(original.id).data).notes,'USER EDIT');assert.equal(db.raw.prepare('SELECT count(*) n FROM notices').get().n,4);
+  const {getStateResponse,postAction}=r.get('service'),backup=await (await getStateResponse(new Request('https://example.test/api/radar?export'),'owner','standalone')).json();
+  const response=await postAction(new Request('https://example.test/api/radar',{method:'POST',body:JSON.stringify({action:'restore-backup',backup})}),'restored','standalone');assert.equal(response.status,200,await response.clone().text());
+  const source=(await stateFor('owner')).items.find(i=>!i.catalogueGroup),restored=(await stateFor('restored')).items.find(i=>i.id===source.id);assert.deepEqual(restored.matchDecision,source.matchDecision);assert.deepEqual(restored.offers,source.offers);assert.equal(restored.notes,'USER EDIT');assert.equal(restored.quantity,3);
+  await ingest('restored',await stateFor('restored'),[product(8,700)],true,true);assert.equal(db.raw.prepare('SELECT count(*) n FROM notices WHERE user_id=?').get('restored').n,4);
  });}finally{db.close();}
 });
 test('unknown ownership and incomparable prices cannot imply a bargain or a missing item',()=>{
@@ -98,4 +102,8 @@ test('manual and unattributed tags survive; preference tags are not source facts
  assert.deepEqual(r.get('metadata').applyMetadata(manual,{publisher:'KADOKAWA'},'https://example.test/book').tags,manual.tags);
  assert.deepEqual(r.get('tag-provenance').tagSuggestions(manual).add,[]);assert.deepEqual(r.get('tag-provenance').tagSuggestions(manual).remove,[]);
  assert.equal(r.get('source-category').sourceCategory(item('tags',{category:'グッズ',tags:['book','comic']})).type,'goods');
+});
+test('explicit reprint and restored edition differences override shared listing and JAN',()=>{
+ const a=item('edition',{category:'小説',offers:[offer()],jan:'4900000000009'});
+ for(const label of ['復刻版','再版','第2版'])assert.equal(identity.findProduct([a],{...a,id:'incoming',title:a.title+' '+label}),null);
 });

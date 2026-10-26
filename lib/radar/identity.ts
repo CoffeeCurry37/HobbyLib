@@ -39,7 +39,7 @@ export function productName(title:string){
  return s.replace(/\s*([,、]?\s*(?:送料無料|送料込み|即購入可|即購入OK))\s*$/gi,'').replace(/[\s\p{P}\p{S}]+/gu,'');
 }
 function part(i:Item){if(i.catalogueGroup)return 'catalogue';const k=resolveKuji(i);if(k&&k.prize.packPieces>1&&k.slot&&!k.full&&!i.kuji?.catalogueGroup)return 'base';if(/特典のみ|特典単品|特典単体|付録のみ|アレ本のみ|(?:購入|店舗|入場|入場者|来場者|連動)特典(?!付)/i.test(i.title)||i.kind==='bonus')return 'bonus';if(/セット|まとめ売り|全\d+巻|全\d+種/i.test(i.title)||i.kind==='set')return 'set';if(i.kind==='component')return 'component';return 'base';}
-function edition(title:string){return [...title.normalize('NFKC').matchAll(/初版|改訂版|新装版|限定版|通常版|特装版|電子書籍|全年齢版|一般向け版|成人向け版|STANDARD\s+EDITIO(?:N)?|LIMITED\s+EDITION|上巻|下巻|前編|後編/gi)].map(m=>m[0].toUpperCase()).sort().join('|');}
+function edition(title:string){return [...title.normalize('NFKC').matchAll(/初版|改訂版|新装版|復刻版|再版|第\d+版|廉価版|限定版|通常版|特装版|電子書籍|全年齢版|一般向け版|成人向け版|STANDARD\s+EDITIO(?:N)?|LIMITED\s+EDITION|上巻|下巻|前編|後編/gi)].map(m=>m[0].toUpperCase()).sort().join('|');}
 const sourceMedium=(item:Item)=>{const medium=primaryMedium(item);if(medium==='book'||!sourceCategory(item).explicit&&bookMedium(item))return 'book';if(medium==='music')return 'cd';if(medium==='game')return 'game';if(!medium&&sourceCategory(item).explicit)return '';const raw=[item.title,...(item.aliases||[]),...item.offers.map(o=>o.listingTitle||''),item.category].join(' ');return /DVD-ROM|ゲーム/i.test(raw)?'game':/Blu[- ]?ray|ブルーレイ|\bBD\b/i.test(raw)?'bd':/DVD/i.test(raw)?'dvd':'';};
 export function identityConflicts(a:Item,b:Item):string[]{
  const fields=new Set<string>(),diff=(field:string,left:unknown,right:unknown)=>{if(left&&right&&left!==right)fields.add(field);};

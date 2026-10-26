@@ -50,3 +50,9 @@ python scripts/snapshot.py extract --output data/collector-radar-backup.json
 已有商品/挂牌分离、分类及标签规则、版本匹配与可撤销归并、套装/组件/特典关系、收藏状态、优先度、采集队列、分组研究和断点恢复。分类由规则实现，未接入额外 LLM API；提醒在应用内展示。独立版具有定时监控逻辑，但没有本次验证的常驻云主机。
 
 分类、图片及系列关系仍有待查项；见 [PROGRESS.md](docs/PROGRESS.md)。本次检查结果见 [SYNC-2026-10-26.md](docs/SYNC-2026-10-26.md)。
+
+## 身份与增量实施（开发分支）
+
+本轮新增统一匹配决定、冲突观测复查、分页只读审计、Prototype 目录关系计划、影子比较及原子通知事件。实现与测试见 [实施记录](docs/IMPLEMENTATION-2026-10-26.md)，接续从 [IDENTITY-HANDOFF](docs/IDENTITY-HANDOFF.md) 开始，脱敏报告见 [验证产物](docs/reports/identity-20261026/README.md)。尚无真实标注留出集；合成结果不代表生产准确率。
+
+`node scripts/test-identity.mjs` 运行新增安全回归，`node scripts/identity-evaluate.mjs` 运行脱敏评测。审计命令必须显式指定本地快照、范围和输出目录。源码 PR、Sites 发布和生产数据库更新仍为独立环节；本轮没有部署、修改生产数据或增加核实完成数。

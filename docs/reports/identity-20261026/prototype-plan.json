@@ -1,0 +1,152 @@
+{
+  "format": "local-revision-v1",
+  "environment": "isolated-local-copy",
+  "inputHash": "adc8840c46c1e68098d14e03d91a104e836b755d41e403ca71e7fc16dafb1f7b",
+  "rulesVersion": 22,
+  "items": [
+    {
+      "id": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "expectedVersion": "fa7faf082e9f1ed81941ed1ce08f6caff0b30c8e58abebf69f68f8ce1f64d8ba"
+    },
+    {
+      "id": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "expectedVersion": "d694238496af8814db370aa0bb10732a9fdaf060ef9c6eb32beacf275bf86f59"
+    },
+    {
+      "id": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "expectedVersion": "306aaba57b5b2dd5f0d147a052d29ae8d314ad4f0e13512aeccd6415f483d608"
+    },
+    {
+      "id": "source-ad7c3d833749fffd927ae606c8a14513",
+      "expectedVersion": "1018553df509008c163abfb821ba6d54c788fc985404f1a46a24a88a81c40074"
+    },
+    {
+      "id": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "expectedVersion": "1c29d828176a1ca7f0f9460762ed9e44b578368a30d0e8573afb72776bfa5777"
+    },
+    {
+      "id": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "expectedVersion": "cdc52c850591e3eb540b53b300da66f52253d589056b2ca90b284605fc7e6397"
+    },
+    {
+      "id": "source-c2b2e148b7681b82c96330739b270d70",
+      "expectedVersion": "5fa86480fa1453d2932d4dccf60e1dac17d5c3094093bff138a310521896e48c"
+    }
+  ],
+  "relationsBefore": "2baa52697ae3caba0276a320c56c9520eea764a27129e2f565912b8d7184b538",
+  "remove": [
+    {
+      "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-48fa7540b407688ad8607f7b",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-c2b2e148b7681b82c96330739b270d70",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-9980e4e05e0144351a997c60",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-b702b2f4010c92b266963e83",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "kind": "contains",
+      "quantity": 1
+    }
+  ],
+  "add": [
+    {
+      "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-48fa7540b407688ad8607f7b",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-c2b2e148b7681b82c96330739b270d70",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-9980e4e05e0144351a997c60",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-b702b2f4010c92b266963e83",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "kind": "contains",
+      "quantity": 1
+    }
+  ],
+  "preserve": [
+    "all Item bytes, including personal/manual fields, offers/history, merge archives and editorial status",
+    "all 15,811 original ordinals",
+    "all relations outside these five edges",
+    "paperback parent #501 and all manga members"
+  ],
+  "evidence": [
+    {
+      "ordinal": 486,
+      "itemId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "isbn": "9784041021279",
+      "url": "https://www.kadokawa.co.jp/product/321405000240/"
+    },
+    {
+      "ordinal": 487,
+      "itemId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "isbn": "9784041021286",
+      "url": "https://www.kadokawa.co.jp/product/321405000241/"
+    },
+    {
+      "ordinal": 488,
+      "itemId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "isbn": "9784041024522",
+      "url": "https://www.kadokawa.co.jp/product/321408000209/"
+    },
+    {
+      "ordinal": 489,
+      "itemId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "isbn": "9784041024539",
+      "url": "https://www.kadokawa.co.jp/product/321408000210/"
+    },
+    {
+      "ordinal": 490,
+      "itemId": "source-c2b2e148b7681b82c96330739b270d70",
+      "isbn": "9784041031445",
+      "url": "https://www.kadokawa.co.jp/product/321502000137/"
+    }
+  ],
+  "fieldChanges": [],
+  "relationshipMeaning": "Legacy contains from catalogueGroup means logical membership, never physical composition",
+  "rollback": "Validate the after graph and all seven item versions; reverse only these five edges. Any later item/relationship edit rejects undo. Production requires a fresh plan and separate authorization."
+}

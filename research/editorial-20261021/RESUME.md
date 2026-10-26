@@ -66,3 +66,7 @@ Full projection validation passed: 227,551,131 bytes -> 44,961,161 bytes (80% le
 - Exact item-level public decisions and image receipts: batch-003/ and batch-004/. Combined live verification: batch-004/live-validation.json.
 
 Resume at #91 plus unresolved items using current workflow/summary.json and packet. All 15,811 IDs remain accounted for, and none of the unfinished records have been silently removed.
+
+## Identity implementation audit (read-only)
+
+The implementation branch completed a fixed-ordinal audit of all 15,811 slots and validated a five-edge Prototype reparenting plan in the complete isolated snapshot. No production curation, new verification, batch replay or Sites publish occurred. Continue at #91 with 42 partials; do not replay batches 001–004. See ../../docs/IDENTITY-HANDOFF.md and the machine-readable report/plan in ../../docs/reports/identity-20261026/. Suggestions and grouping remain separate from source verification.

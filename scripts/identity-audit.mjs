@@ -1,4 +1,5 @@
 // Explicit local SQLite snapshot, fixed queue range, read-only and resumable.
+import {createHash} from 'node:crypto';
 import {DatabaseSync} from 'node:sqlite';
 import {readFileSync,writeFileSync,renameSync,mkdirSync,existsSync,readdirSync} from 'node:fs';
 import {parseArgs} from 'node:util';
@@ -10,15 +11,18 @@ if(!o.snapshot||!o.from||!o.to||!o.out)throw Error('Required: --snapshot local-c
 const manifest=JSON.parse(readFileSync('lib/radar/editorial-manifest.json')),from=Number(o.from),to=Number(o.to);if(!Number.isInteger(from)||!Number.isInteger(to)||from<1||to<from||to>manifest.ids.length)throw Error('Invalid fixed queue range');
 const r=loadRadar(),db=new DatabaseSync(resolve(o.snapshot),{readOnly:true}),at=performance.now();
 try{
+ db.exec('BEGIN');
  const metadata=JSON.parse(db.prepare("SELECT value FROM local_meta WHERE key='snapshot'").get().value),{matchDecision,identityInput,decisionHash}=r.get('match-decision'),{productIndex,IDENTITY_RULE_VERSION:rulesVersion}=r.get('identity'),{EMPTY_FACTS}=r.get('types');
- const inputHash=metadata.inputSha256,config={inputHash,rulesVersion,from,to},folder=resolve(o.out),checkpoint=join(folder,'checkpoint.json');mkdirSync(folder,{recursive:true});
+ const codeHash=createHash('sha256'),codeFiles=[...readdirSync('lib/radar').filter(f=>/\.(ts|json)$/.test(f)).map(f=>join('lib/radar',f)),'scripts/identity-audit.mjs','scripts/editorial-flow-lib.mjs','scripts/load-radar.mjs'];for(const f of codeFiles.sort())codeHash.update(f).update(readFileSync(f,'utf8').replace(/\r\n/g,'\n'));
+ const inputHash=metadata.inputSha256,config={inputHash,rulesVersion,rulesHash:codeHash.digest('hex'),from,to},folder=resolve(o.out),checkpoint=join(folder,'checkpoint.json');mkdirSync(folder,{recursive:true});
  const atomic=(path,value)=>{writeFileSync(path+'.tmp',typeof value==='string'?value:JSON.stringify(value,null,2)+'\n');renameSync(path+'.tmp',path);};
- let cursor=from;if(existsSync(checkpoint)){if(!o.resume)throw Error('Output exists; use --resume');const saved=JSON.parse(readFileSync(checkpoint));if(decisionHash(saved.config)!==decisionHash(config))throw Error('Stale checkpoint/input/rules');cursor=saved.next;}
+ let cursor=from,saved;if(existsSync(checkpoint)){if(!o.resume)throw Error('Output exists; use --resume');saved=JSON.parse(readFileSync(checkpoint));cursor=saved.next;}
  // Reuse compact editorial field definitions while retaining ALL identity evidence.
  const fields=[...new Set([...r.get('editorial-index').INDEX_FIELDS,'tags','createdAt','ageRating','saleForm','cardNumber'])];
- const items=[],byId=new Map();let after='',pages=0;
- for(;;){const page=db.prepare('SELECT id,data FROM items WHERE user_id=? AND id>? ORDER BY id LIMIT 200').all('local-audit',after);if(!page.length)break;pages++;for(const row of page){const full=JSON.parse(row.data),i={...EMPTY_FACTS,description:'',tags:[],evidence:[],offers:[],...Object.fromEntries(fields.filter(k=>full[k]!==undefined).map(k=>[k,full[k]])),...identityInput(full),evidence:full.evidence||[],id:full.id};items.push(i);byId.set(i.id,i);after=row.id;}}
+ const rowHash=createHash('sha256'),items=[],byId=new Map();let after='',pages=0;
+ for(;;){const page=db.prepare('SELECT id,data FROM items WHERE user_id=? AND id>? ORDER BY id LIMIT 200').all('local-audit',after);if(!page.length)break;pages++;for(const row of page){rowHash.update(row.id+'\0'+row.data+'\0');const full=JSON.parse(row.data),i={...EMPTY_FACTS,description:'',tags:[],evidence:[],offers:[],...Object.fromEntries(fields.filter(k=>full[k]!==undefined).map(k=>[k,full[k]])),...identityInput(full),evidence:full.evidence||[],id:full.id};items.push(i);byId.set(i.id,i);after=row.id;}}
  const active=items.filter(i=>!i.archivedInto),index=productIndex(active),relations=db.prepare('SELECT id,from_id AS fromId,to_id AS toId,kind,quantity FROM relations WHERE user_id=? ORDER BY id').all('local-audit');
+ rowHash.update(JSON.stringify(relations));rowHash.update(db.prepare('SELECT data FROM preferences WHERE user_id=?').get('local-audit')?.data||'');config.snapshotRowsHash=rowHash.digest('hex');if(saved&&decisionHash(saved.config)!==decisionHash(config))throw Error('Stale checkpoint/input/rules');
  const receipts=new Map(),cache='research/editorial-20261021/workflow/source-cache';for(const f of readdirSync(cache).filter(f=>f.endsWith('.json'))){const receipt=JSON.parse(readFileSync(join(cache,f)));if(receipt.url)receipts.set(sourceUrl(receipt.url),{status:receipt.status,at:receipt.at});}
  let reused=cursor-from,written=0,cacheHits=0,sourceReferences=0;const counts={matched:0,ambiguous:0,unmatched:0,conflict:0,archived:0,missing:0};
  for(let start=cursor;start<=to;start+=100){const rows=[];for(let ordinal=start;ordinal<=Math.min(to,start+99);ordinal++){

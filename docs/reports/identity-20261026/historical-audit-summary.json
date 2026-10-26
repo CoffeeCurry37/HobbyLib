@@ -1,0 +1,36 @@
+{
+  "inputHash": "adc8840c46c1e68098d14e03d91a104e836b755d41e403ca71e7fc16dafb1f7b",
+  "rulesVersion": 22,
+  "rulesHash": "e7bf75289a30a1df1dd85af3c90bcb3f5738c2526cfbacb811a0ddc9bd3e792b",
+  "from": 1,
+  "to": 15811,
+  "snapshotRowsHash": "cbd5696f2c2ae7137536d53107c3510cd2528c3fd71a8c9192953a80e2d44eca",
+  "queueTotal": 15811,
+  "next": 15812,
+  "countsThisRun": {
+    "matched": 16,
+    "ambiguous": 8,
+    "unmatched": 15315,
+    "conflict": 471,
+    "archived": 1,
+    "missing": 0
+  },
+  "written": 15811,
+  "reused": 0,
+  "sourceReferences": 16750,
+  "cacheHits": 314,
+  "sourceRequests": 0,
+  "cacheNote": "Static receipt reuse only; no inventory/price verification",
+  "readPages": 218,
+  "index": {
+    "keys": 119036,
+    "maxBucket": 53
+  },
+  "active": 35020,
+  "archived": 8549,
+  "relations": 1835,
+  "elapsedMs": 75599.374866,
+  "maxRssKiB": 648060,
+  "verifiedAdded": 0,
+  "dryRun": true
+}

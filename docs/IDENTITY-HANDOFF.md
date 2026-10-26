@@ -1,0 +1,65 @@
+# 身份整理接续入口
+
+本轮基于 main `2003e3d31526821e681b9fdcc1d51b7b6ec7d6be`，开发分支 `feat/explainable-identity`。A 阶段提交 `1549acd`，集成检查点 `ee216a7` 已推送。后续提交与 PR 包含最终报告；先读 [实施记录](IMPLEMENTATION-2026-10-26.md) 和 [验证产物](reports/identity-20261026/README.md)，不要重做已完成的合成复现或完整审计。
+
+## 已完成的独立工作
+
+- 规则 22：有效来源键、统一硬冲突门禁、唯一目标、索引替换/归档清理。`findProduct` 保留兼容返回；`matchDecision` 增加可复现指纹、来源、候选、四态、稳定理由码与证据等级。
+- 摄取保留冲突/歧义观测为稳定 review Item，保护旧 Item；旧观测不回写元数据。`identity-shadow` API 只读且不请求来源，完整旧版比较用离线脚本。摄取不调用商品归并。
+- 全量快照流式副本、分页索引审计与断点；独立逐项建议、受控标签命名空间/别名、未知来源标签保留。Prototype 五卷仅提出关系重归类计划，完整副本验证和回滚通过。
+- 原子保存 Item、关系、偏好及应用内事件；并发版本不符整体拒绝。Offer 的事件水位不依赖最近 300 条通知。新挂牌/首次详情核验、降价、恢复后再次降价、补货、套装缺件均有测试。
+- 同版 JPY 挂价按出售形式、成色、附件和税费分组；未知到手费用/汇率保留 null。逻辑档案不作为可购买商品，未知拥有状态不计明确缺件。
+
+## 无生产写入的复现
+
+Node 24 与锁定的 pnpm 11.25.0；Python 标准库，无额外收费 API。环境如限制用户缓存路径，可设置 `COREPACK_HOME` 与 `XDG_CACHE_HOME` 到工作区目录。不要提交本机环境或缓存。
+
+```sh
+pnpm install --frozen-lockfile
+node scripts/test-core.mjs
+node scripts/test-identity.mjs
+node scripts/test-editorial-flow.mjs
+node scripts/identity-evaluate.mjs
+node scripts/test-workflow.mjs
+pnpm exec tsc --noEmit
+pnpm build:standalone
+pnpm build
+
+python scripts/snapshot-stage.py --snapshot snapshots/2026-10-26/collector-radar-backup.json.gz --output work/identity/full-copy.sqlite
+node scripts/identity-audit.mjs --snapshot work/identity/full-copy.sqlite --from 1 --to 15811 --out work/identity/audit
+node scripts/identity-audit.mjs --snapshot work/identity/full-copy.sqlite --from 1 --to 15811 --out work/identity/audit --resume
+node scripts/prototype-plan.mjs --snapshot work/identity/full-copy.sqlite --out work/identity/prototype --validate
+```
+
+stage 拒绝覆盖文件；audit 以只读 SQLite 打开，不调用会迁移数据的 `stateFor`。输入哈希、实际 Item/关系/偏好内容、规则代码或范围变化拒绝续跑（源码换行统一后哈希）。审计输出约 100 条一页，逐页原子保存后更新游标；重复页覆盖而不重放生产批次。`--validate` 只接受带本地快照标记的完整副本，事务内验证五条关系并回滚，不提供生产提交选项。
+
+完整旧/新比较另建基线 worktree，再运行（只读源码和脱敏观测）：
+
+```sh
+git worktree add --detach ../HobbyLib-baseline 2003e3d31526821e681b9fdcc1d51b7b6ec7d6be
+node scripts/identity-shadow.mjs --baseline ../HobbyLib-baseline --out work/identity/shadow.json
+```
+
+在线人工复查可 POST `{action:"identity-shadow",products:[...Parsed]}`，与摄取和审计使用同一个 `matchDecision`。API 返回旧路由近似差异并明确标记 baseline；完整旧规则差异以离线基线报告为准。该操作不写生产商品、不设 verified、不打开维护窗口。
+
+## 兼容、并发和回滚
+
+没有新增表或数据库迁移，没有改写既有迁移。新增可选 `Item.matchDecision`、`Offer.eventSequence/lastEvent` 随现有 JSON 导出/恢复；已实测恢复后事件去重及个人字段保留；旧数据缺这些字段仍可读。已读通知不被重放改回未读；通知删除后 Offer 水位仍在。同一时间戳不被当成更新，较旧观测不覆盖新数据。
+
+Item 与整个关联图均在同一提交中校验；失败保持原数据。compact 导入在 Sites 和 standalone 共用有界候选读取。用户编辑与摄取冲突需要重读重试；不会让一个旧编辑覆盖另一个新编辑。仅哈希发生变化的 Item，避免每批重复哈希全库。
+
+历史 Relation 的 `contains` 兼容保留；若 from Item 是 `catalogueGroup`，解释为逻辑目录成员，不证明物理齐套。Prototype 计划明确标注该语义；物理套装推断仅使用实际成员证据。没有批量改写历史关系种类或自动补齐卖家拼套。
+
+源码回滚独立于数据库：可审阅后 revert PR；无需数据库降级迁移。回退到旧代码会失去新增保护，旧导入器还可能剥离新的可选 JSON 字段，因此应保留新版完整备份，不把旧格式导出当作事件台账完整备份。修订计划撤销必须校验计划之后的关系指纹和全部受影响 Item 版本；后续用户编辑会拒绝撤销。现有归并存档的恢复保护继续有效。
+
+## 仍依赖后续输入或授权
+
+1. 尚无真实人工标注留出集。24 条合成用例和静态快照审计不能推导生产精确率；按来源、品类补充真实标注与独立系列划分，再决定扩大自动关联策略。新策略不因合成分数自动启用。
+2. 全库的 16 条唯一匹配建议、8 条歧义及 471 条冲突是候选审计结果，不是已确认误合并或已核实商品。需要逐成员来源复核；保留原 15,811 编号。
+3. Prototype 生产应用需新鲜目标/关系指纹、差异和单独授权。当前没有应用生产修订，也没有重放批次 001–004。
+4. 当前资料断点仍是 #91，310 verified、42 partial、1 archived。缺图、真实版本和来源访问限制仍按研究流程处理；本轮新增 verified 为 0。
+5. 常驻监控、外部通知、付费模型、汇率和真实运费/服务费/税费没有配置；不虚构送达、到手最低价或全天运行结果。登录/验证码/年龄墙沿用暂停和游标机制。
+
+现有 v4、v8、fate-snapshot 三项回归仍失败，独立 main 基线可复现；完整 Fate 导入耗时约 22.64 分钟，基线约 7.32 分钟，性能仍需优化。详见实施记录，不能把这三项写成通过。
+
+本地详细日志与完整审计页在忽略目录 `work/identity/`；可分享的合成报告、五卷示例和计划已提交。再次接续先看分支最新提交和这些文档；无需把完整备份放入模型上下文。

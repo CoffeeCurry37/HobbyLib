@@ -46,3 +46,7 @@ HobbyLib 是个人兴趣商品库与中古收藏品发现助手，覆盖书籍�
 ## 接续阅读
 
 [当前进度](PROGRESS.md) → [业务代码索引](ARCHITECTURE.md) → [商品与匹配契约](PRODUCT_IDENTITY_CONTRACT.md) → [本次审查](REVIEW-2026-10-26.md) → [实施 Prompt](CODEX_IMPLEMENTATION_PROMPT.md)。原英文愿景保留在 [VISION.md](VISION.md)。
+
+## 已落地的实施边界
+
+本轮以现有 Item/Offer/Relation 实现可追溯决定和疑难观测保留，没有新增平行商品模型或收费 AI。全量审计复用固定编号、目录规则及来源回执，以单成员证据和指纹形成建议。持久事件水位与兴趣分数分开；同一版本的报价仍只提供 JPY 挂价分组和费用缺项。具体证据、局限和续接见 [实施记录](IMPLEMENTATION-2026-10-26.md)；真实标注质量与生产授权仍是下一步门槛。
