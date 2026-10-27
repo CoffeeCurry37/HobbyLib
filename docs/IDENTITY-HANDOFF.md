@@ -75,3 +75,15 @@ Item 与整个关联图均在同一提交中校验；失败保持原数据。com
 - 本检查点业务 prepared / applied / 新增 verified 均为 0；原生产进度 310 verified / 42 partial 是最后可信快照，不是本次实时读数。Sites 原生表读取截断 Item JSON，维护凭证不可读取，尚未取得新鲜完整投影/目标版本。
 - 下一组：#81–91 Enterbrain 十卷选集与卖家套装；复用 #80 封面回执，然后 #484/#486–490 Prototype 原版小说。继续命令：`node scripts/editorial-flow.mjs packet 91`，按固定编号补入 #91，不把分组排序包当作原始断点。
 - 来源缓存保持 research/editorial-20261021/workflow/；本地完整副本 work/identity/full-copy.sqlite 复用，不重新导入。批次 001–004 绝不能重放。无生产应用、PR 合并或 Sites 发布。额度及重置时间不可见。
+
+## 批次 005 已验证检查点（2026-10-27 UTC）
+
+修复代码检查点 `a541f10` 已推送 PR #2；本节所在提交保存资料检查点，完整SHA见 `git log -1 -- research/editorial-20261021/batch-005`。复用旧完整副本和来源，未重做全量导入或审计。
+
+- 处理 #80–93、#484–490、#493–500，共29条；完整Item ID、before/after、字段证据和expectedVersion见 [批次005](../research/editorial-20261021/batch-005/README.md)及diffs.json。
+- prepared 29 / 生产 applied 0 / isolatedApplied 29 / 隔离 verified 14 / partial 15；43,540条未涉及记录逐字节保留。原42个partial中处理15个，6个可在本批应用后解除；生产计数仍未更新。
+- 29条中文简介和标签修订、29条分类/层级字段（category改变2条）、8条主图、5条Prototype逻辑父级迁移已在完整副本应用并逐项核对。47,433个Offer及历史、个人/人工字段、原文description、8,549条存档、15,811原编号保留。过期计划拒绝、关系完整性和精确回滚通过。
+- 来源复用/新网络交叉证据、公开决定、差异、回执、验证均位于 research/editorial-20261021/batch-005/。私有完整目标/动作/回滚原件和应用后副本在 work/editorial-005/；review.sqlite为已应用隔离副本，不能当生产新鲜目标。first-run.sqlite是验证脚本遇到JSON属性顺序导致版本哈希比较失败的旧隔离产物，非生产回执；最终验证以validation.json为准。
+- #91的套装JAN实为第10卷ISBN；#495混入普通套装与附収納BOX报价，保留具体拆分问题，未挪动报价。#82–90缺封面；#92/#93/#493需图片核对；#494拍卖版本/附件待确认。没有将未解决项计作verified。
+- 原生Sites源码只读clone确认HEAD仍为 `6357bd5f020415c17652bf2bdfdbd26130bdac17`，没有Sites侧新提交；凭证未落盘，未push到Sites。下一步完成发布准备和本地预览；额度/重置时间仍不可见。
+- 生产前仍需新鲜只读投影、目标版本与本批明确批准；当前原生表读取截断，未获得完整生产目标。001–004绝不能重放；005只有隔离回执。下一条命令：`cat research/editorial-20261021/batch-005/validation.json`，再继续发布准备。后续研究可从 #94 Apocrypha 或 #509–511 Requiem 自然组展开。

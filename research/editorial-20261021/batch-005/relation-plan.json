@@ -1,0 +1,147 @@
+{
+  "format": "local-revision-v1",
+  "environment": "isolated-local-copy",
+  "inputHash": "adc8840c46c1e68098d14e03d91a104e836b755d41e403ca71e7fc16dafb1f7b",
+  "rulesVersion": 23,
+  "items": [
+    {
+      "id": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "expectedVersion": "38e12b57fdc42378a399d96a14da1dfd18263655322c8e063a258871449a9da4"
+    },
+    {
+      "id": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "expectedVersion": "e14d28219b5a8911b049afbfff872f216b4e3ccf9ef54ebac0ec8ac5fc05b765"
+    },
+    {
+      "id": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "expectedVersion": "dd77c96282985274d1de4e6791d14a2da705236effd60d20c8039a56a8ee11a2"
+    },
+    {
+      "id": "source-ad7c3d833749fffd927ae606c8a14513",
+      "expectedVersion": "d05bbdf54e1df00ad07fb2ce349e2a274e062069b20558edd342c43189f87bb0"
+    },
+    {
+      "id": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "expectedVersion": "fdb868f41d60f426b54b98b34857e5da397644b0e3461056d361f1eafd8d65ed"
+    },
+    {
+      "id": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "expectedVersion": "c36298eddc84d94c978742abf8424e3c7ce04f606ea2a676347068cd4b1e799b"
+    },
+    {
+      "id": "source-c2b2e148b7681b82c96330739b270d70",
+      "expectedVersion": "c66cffa820473182fc1611e217f427a86b7fe6d8502fe6d850f479881b925dd2"
+    }
+  ],
+  "relationsBefore": "2baa52697ae3caba0276a320c56c9520eea764a27129e2f565912b8d7184b538",
+  "remove": [
+    {
+      "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-48fa7540b407688ad8607f7b",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-c2b2e148b7681b82c96330739b270d70",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-9980e4e05e0144351a997c60",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-b702b2f4010c92b266963e83",
+      "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "kind": "contains",
+      "quantity": 1
+    }
+  ],
+  "add": [
+    {
+      "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-48fa7540b407688ad8607f7b",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-c2b2e148b7681b82c96330739b270d70",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-9980e4e05e0144351a997c60",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "kind": "contains",
+      "quantity": 1
+    },
+    {
+      "id": "family-link-b702b2f4010c92b266963e83",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "kind": "contains",
+      "quantity": 1
+    }
+  ],
+  "preserve": [
+    "All personal/manual fields, original descriptions, original ordinals, offers/history, archives",
+    "Every relation except these five logical membership edges"
+  ],
+  "evidence": [
+    {
+      "ordinal": 486,
+      "itemId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "isbn": "9784041021279",
+      "url": "https://www.kadokawa.co.jp/product/321405000240/"
+    },
+    {
+      "ordinal": 487,
+      "itemId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "isbn": "9784041021286",
+      "url": "https://www.kadokawa.co.jp/product/321405000241/"
+    },
+    {
+      "ordinal": 488,
+      "itemId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "isbn": "9784041024522",
+      "url": "https://www.kadokawa.co.jp/product/321408000209/"
+    },
+    {
+      "ordinal": 489,
+      "itemId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "isbn": "9784041024539",
+      "url": "https://www.kadokawa.co.jp/product/321408000210/"
+    },
+    {
+      "ordinal": 490,
+      "itemId": "source-c2b2e148b7681b82c96330739b270d70",
+      "isbn": "9784041031445",
+      "url": "https://www.kadokawa.co.jp/product/321502000137/"
+    }
+  ]
+}
