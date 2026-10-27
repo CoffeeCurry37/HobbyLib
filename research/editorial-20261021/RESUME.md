@@ -1,3 +1,5 @@
+> Latest checkpoint (2026-10-27): code/data **3fa5d8c** pushed; documentation head is `git log -1`. 32 prepared / 32 isolatedApplied / 0 productionApplied; isolated verified14 / partial18. Sites remains64; release prepared and local HTTP QA passed, browser visual QA unavailable. Read the final two checkpoint sections and batch-005/006 first; preceding production counts describe historical snapshots. Usage quota/reset not visible.
+
 # Exhaustive non-doujin catalogue review
 
 User asks every active non-doujin record to be individually checked against source pages for classification/hierarchy, cover, relevant tags and a one-sentence Chinese summary. No record may be silently skipped. Existing notes, ownership and manual edits must survive.
@@ -84,3 +86,7 @@ Private files work/editorial-005/: targets.json, actions.json, rollback-items.js
 ## Batch006 and atomic relation API checkpoint
 
 #509–511 (Fate/Requiem directory and both published volumes) prepared/applied in the isolated copy; three remain partial for image correspondence. Combined005+006: prepared32, isolatedApplied32, productionApplied0, isolated verified14/partial18, preserved43537 unrelated records. Full before/after: batch-005/FULL-CHANGES.md and batch-006/FULL-CHANGES.md. Batch005 final validation now uses the actual guarded curation relation-revision API for all five moves. For production, stage #484–490 field edits and five moves in one request with fresh endpoint/graph versions; do not replay intermediate rehearsal operations. Current full local copy work/editorial-005/review.sqlite; latest combined hash batch-006/validation.json. No production authorization/receipts. Never replay001–004. Next: release preparation and local HTTP preview; then #94 Apocrypha after fresh target access. Quota/reset not exposed.
+
+## Release preparation complete; no production application
+
+Code/data checkpoint3fa5d8c pushed; this documentation commit adds release/preview receipts. Fixed GitHub3fa5d8c→prepared local Sites7a95d3bb, build passed, no saved version or deployment; live remains64/6357bd5. Authenticated local preview read all32 Items successfully; browser visual QA unavailable. See ../../docs/SITES-RELEASE.md. Current combined32-item application lives only in work/editorial-005/review.sqlite, final hash in batch-006/validation.json. Prepared32 / isolatedApplied32 / productionApplied0 / isolated verified14 / partial18. Full IDs/sources/diffs in both batches. Await concrete32-item/five-edge production approval and fresh complete targets; relation writes also require independently authorized deployment of the supporting API. No replay001–004. Next command: `cat research/editorial-20261021/batch-006/validation.json`; next research group#94 Apocrypha. Usage quota/reset invisible.

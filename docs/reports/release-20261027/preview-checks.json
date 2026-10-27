@@ -1,0 +1,203 @@
+{
+  "localURL": "http://127.0.0.1:8088",
+  "login": 200,
+  "appHTML": 200,
+  "itemReadbacks": [
+    {
+      "ordinal": 80,
+      "id": "family-bd1e9d29d163cfb06f93cbe07b7b0c30",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 81,
+      "id": "member-17vmdp9",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 82,
+      "id": "member-1q1tmhj",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 83,
+      "id": "member-171nkmc",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 84,
+      "id": "member-17bn6bb",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 85,
+      "id": "member-16hod8e",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 86,
+      "id": "member-16rnyxd",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 87,
+      "id": "member-15xp5ug",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 88,
+      "id": "member-167orjf",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 89,
+      "id": "member-15dpygi",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 90,
+      "id": "member-15npk5h",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 91,
+      "id": "8d0ad208-bbb5-4139-97a0-457c57beed04",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 92,
+      "id": "source-8756a25a5dafc97e8e16cc2dfec8c605",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 93,
+      "id": "source-47ed7d0c0174ad78f2164f35017e288a",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 484,
+      "id": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 485,
+      "id": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 486,
+      "id": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 487,
+      "id": "source-ad7c3d833749fffd927ae606c8a14513",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 488,
+      "id": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 489,
+      "id": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 490,
+      "id": "source-c2b2e148b7681b82c96330739b270d70",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 493,
+      "id": "source-6507b9cf8cf301dda6981354e1d1e4ab",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 494,
+      "id": "source-b5830bd4ca18e15655566e1166eb9bee",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 495,
+      "id": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 496,
+      "id": "21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 497,
+      "id": "bab8701d-a249-4022-91c9-625d79a100ff",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 498,
+      "id": "cdab3ad1-68d4-419c-a12c-b3399e72274d",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 499,
+      "id": "2a92ea72-5340-403c-9bc1-71420ee63f9e",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 500,
+      "id": "6cd1e115-1669-450d-b042-be02c96cacb6",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 509,
+      "id": "family-16c4c4278428fb44aff7e22ca7e15479",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 510,
+      "id": "source-0fe194fcad613e09070850be41941fa0",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    },
+    {
+      "ordinal": 511,
+      "id": "source-c29c5b9bf940672edd2e74b51a3943b7",
+      "summaryAndTagsMatch": true,
+      "status": 200
+    }
+  ],
+  "browserVisualQA": "unavailable; no browser automation/remote forwarding tool",
+  "productionTouched": false,
+  "previewDatabase": "isolated copy; owner IDs remapped, monitoring disabled",
+  "stoppedAfterQA": true
+}

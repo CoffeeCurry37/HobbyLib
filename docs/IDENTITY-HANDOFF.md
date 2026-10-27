@@ -1,5 +1,7 @@
 # 身份整理接续入口
 
+最新接续（2026-10-27）：代码/业务检查点 **3fa5d8c** 已推送 PR #2；最终文档提交见 `git log -1`。验收三缺口修复、32条真实商品决定和5条关系已通过隔离应用/回滚；生产应用0，Sites仍64，PR未合并。prepared32 / isolatedApplied32 / 隔离verified14 / partial18。先读本页末尾“发布准备与最终接续”、batch-005/006及SITES-RELEASE.md；下文较早检查点是历史记录。额度/重置不可见。
+
 本轮基于 main `2003e3d31526821e681b9fdcc1d51b7b6ec7d6be`，开发分支 `feat/explainable-identity`。A 阶段提交 `1549acd`，集成检查点 `ee216a7` 已推送。后续提交与 PR 包含最终报告；先读 [实施记录](IMPLEMENTATION-2026-10-26.md) 和 [验证产物](reports/identity-20261026/README.md)，不要重做已完成的合成复现或完整审计。
 
 ## 已完成的独立工作
@@ -93,3 +95,13 @@ Item 与整个关联图均在同一提交中校验；失败保持原数据。com
 批次005当前validation.json已替换为真实catalogue-curation API的五条关系替换验证，不再只是离线SQL移动；相关回归test-curation-revision.mjs覆盖端点遗漏、旧关系指纹、并发备注、成功替换和撤销。curation、验收3项、editorial及类型检查通过。生产应用时，#484–490七条目标字段与五条关系应放在同一revision请求，其他目标分段；不要重放演练的中间步骤。
 
 批次006新增 #509–511，Item ID与全部before/after见batch-006/diffs.json和FULL-CHANGES.md。3条中文简介/标签/分类字段已在同一完整隔离副本应用，3条均因图片核对保留partial。合计prepared32、isolatedApplied32、生产applied0、隔离verified14/partial18、未涉及记录43,537。库为work/editorial-005/review.sqlite；最终组合哈希见batch-006/validation.json。生产新鲜版本仍不可见，旧生产进度仍停#91，001–004不能重放。下一命令：`cat research/editorial-20261021/batch-006/validation.json`；随后执行scripts/prepare-sites-release.py本地准备。Sites源基线6357bd5、版本64、身份/权限/DB均未更改。额度与重置时间不可见。
+
+## 发布准备与最终接续
+
+已推送代码/业务检查点3fa5d8c（前序a541f10、e864510）。当前提交补充发布回执；源码候选仍固定3fa5d8c，不因随后文档提交伪造新构建。GitHub3fa5d8c→本地Sites7a95d3bb→Sites版本未保存；现有线上仍64/6357bd5。Sites与standalone构建通过，登录/首页及32条详情HTTP读取通过；浏览器视觉QA未验证。详见SITES-RELEASE.md和reports/release-20261027/。
+
+最终业务范围：#80–93、#484–490、#493–500、#509–511；Item ID均列于两批diffs.json。prepared32 / isolatedApplied32 / 生产applied0 / 隔离verified14 / partial18；preserved43537。生产旧断点#91与310/42/1仅为最后可信快照。完整目标、动作、回滚原件均在work/editorial-005、006；最终review.sqlite包含两批，组合哈希见006/validation.json。005–006没有生产回执，001–004绝不可重放。
+
+下一步由本轮明确要求的生产批准及新鲜只读目标访问决定。生产关系写入还依赖支持revision的源码已获独立网站发布授权并上线。资料批准不含合并或发布。恢复先执行 `git status --short` 与 `cat research/editorial-20261021/batch-006/validation.json`；复用32条决定，拿到新投影后仅重做指纹变化的成员。未授权前可继续#94 Apocrypha，但不要重复全库导入/审计或无关构建。
+
+本轮新增相关回归通过；原v4、v8、fate-snapshot三项基线失败以及既有完整导入性能回退仍保留，未重复运行或计为通过。额度剩余和重置时间不可见；未购买额度或使用重置权益。
