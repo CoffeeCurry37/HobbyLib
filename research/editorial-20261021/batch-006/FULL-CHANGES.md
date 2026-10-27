@@ -65,4 +65,3 @@ expectedVersion: `963d35de1fc4dec834d919e7b1c0a6b86f6f11599bd575fd962d4e8b04a3f6
 未解决：现有Amiami书影尚未完成逐卷视觉核对；保留原图及准确imageRole，不以HTTP或搜索缩略图标记verified。
 
 expectedVersion: `59ff60b4958f3d836a566dd008a5ec34049ea3f0af93133e091a3b84843217e5`
-

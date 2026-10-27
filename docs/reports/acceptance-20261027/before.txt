@@ -17,7 +17,7 @@ test at scripts/test-acceptance.mjs:9:1
   AssertionError [ERR_ASSERTION]: before-guard overwrote a concurrent user edit
   + actual - expected
   ... Skipped lines
-  
+
     {
       artists: [],
       brand: '',
@@ -89,7 +89,7 @@ test at scripts/test-acceptance.mjs:9:1
       wave: '1',
       year: ''
     }
-  
+
       at TestContext.<anonymous> (file:///workspace/HobbyLib/scripts/test-acceptance.mjs:19:22)
       at async Test.run (node:internal/test_runner/test:1389:7)
       at async startSubtestAfterBootstrap (node:internal/test_runner/harness:387:3) {
@@ -104,9 +104,9 @@ test at scripts/test-acceptance.mjs:9:1
 test at scripts/test-acceptance.mjs:26:1
 ✖ one listing review case retains observations, resolves with versions and resumes formal prices (17.246896ms)
   AssertionError [ERR_ASSERTION]: Do not duplicate the original product inside review
-  
+
   3 !== 2
-  
+
       at file:///workspace/HobbyLib/scripts/test-acceptance.mjs:33:44
       at async TestContext.<anonymous> (file:///workspace/HobbyLib/scripts/test-acceptance.mjs:28:6)
       at async Test.run (node:internal/test_runner/test:1389:7)
@@ -123,7 +123,7 @@ test at scripts/test-acceptance.mjs:44:1
 ✖ full ingest preserves locked manual tag set despite source and classification tags (8.014069ms)
   AssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:
   + actual - expected
-  
+
     [
       'manual tag',
   +   '书籍',
@@ -131,7 +131,7 @@ test at scripts/test-acceptance.mjs:44:1
   +   '类别:小説',
   +   'SOURCE AUTO TAG'
     ]
-  
+
       at file:///workspace/HobbyLib/scripts/test-acceptance.mjs:49:78
       at async TestContext.<anonymous> (file:///workspace/HobbyLib/scripts/test-acceptance.mjs:46:6)
       at async Test.run (node:internal/test_runner/test:1389:7)
