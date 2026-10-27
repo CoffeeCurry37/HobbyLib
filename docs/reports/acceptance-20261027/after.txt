@@ -1,0 +1,11 @@
+✔ refresh-item API protects concurrent edits on success, fetch failure and SQL guard failure (116.470584ms)
+✔ one listing review case retains observations, resolves with versions and resumes formal prices (34.785533ms)
+✔ full ingest preserves locked manual tag set despite source and classification tags (8.702405ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 166.117341

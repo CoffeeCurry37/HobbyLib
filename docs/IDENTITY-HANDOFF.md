@@ -63,3 +63,15 @@ Item 与整个关联图均在同一提交中校验；失败保持原数据。com
 现有 v4、v8、fate-snapshot 三项回归仍失败，独立 main 基线可复现；完整 Fate 导入耗时约 22.64 分钟，基线约 7.32 分钟，性能仍需优化。详见实施记录，不能把这三项写成通过。
 
 本地详细日志与完整审计页在忽略目录 `work/identity/`；可分享的合成报告、五卷示例和计划已提交。再次接续先看分支最新提交和这些文档；无需把完整备份放入模型上下文。
+
+## PR #2 独立验收修复检查点（2026-10-27 UTC）
+
+基于验收 head `760a508f6fddb063b63564e5556bb715e386a786`；当前分支 `feat/explainable-identity`，本节所在提交为修复检查点（用 `git log -1 -- docs/reports/acceptance-20261027` 取完整 SHA）。原三个检查点保留。
+
+- 先在真实 `postAction` / 完整 ingest 入口重现三项失败，再修复。刷新成功、失败和提交时竞态均保护新备注、拥有、数量、人工字段、报价及关系；版本冲突返回 HTTP 409 / VERSION_CONFLICT。
+- 规则 23 将隔离观测从可信候选剥离，同来源案件复用并保留全部观测、解除记录；新增带双方版本保护的明确解除入口和界面，解除后正常刷新正式报价，后续矛盾重新打开同一案件。
+- 完整 ingest 保留 locked 人工 tags 集合；新增 identityReview 可选字段随备份恢复。
+- 验收、identity、core、editorial、相关 workflows、类型检查、standalone 与 Sites 构建通过；详见 [本轮检查](reports/acceptance-20261027/checks.json)。原 v4、v8、fate-snapshot 三个基线失败未改动，未重复运行或计作通过。
+- 本检查点业务 prepared / applied / 新增 verified 均为 0；原生产进度 310 verified / 42 partial 是最后可信快照，不是本次实时读数。Sites 原生表读取截断 Item JSON，维护凭证不可读取，尚未取得新鲜完整投影/目标版本。
+- 下一组：#81–91 Enterbrain 十卷选集与卖家套装；复用 #80 封面回执，然后 #484/#486–490 Prototype 原版小说。继续命令：`node scripts/editorial-flow.mjs packet 91`，按固定编号补入 #91，不把分组排序包当作原始断点。
+- 来源缓存保持 research/editorial-20261021/workflow/；本地完整副本 work/identity/full-copy.sqlite 复用，不重新导入。批次 001–004 绝不能重放。无生产应用、PR 合并或 Sites 发布。额度及重置时间不可见。

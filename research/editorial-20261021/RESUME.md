@@ -70,3 +70,7 @@ Resume at #91 plus unresolved items using current workflow/summary.json and pack
 ## Identity implementation audit (read-only)
 
 The implementation branch completed a fixed-ordinal audit of all 15,811 slots and validated a five-edge Prototype reparenting plan in the complete isolated snapshot. No production curation, new verification, batch replay or Sites publish occurred. Continue at #91 with 42 partials; do not replay batches 001–004. See ../../docs/IDENTITY-HANDOFF.md and the machine-readable report/plan in ../../docs/reports/identity-20261026/. Suggestions and grouping remain separate from source verification.
+
+## PR #2 acceptance checkpoint — 2026-10-27 UTC
+
+Three API/ingest regressions reproduced at 760a508 and fixed on feat/explainable-identity; see ../../docs/IDENTITY-HANDOFF.md and acceptance-20261027 reports. Production remains untouched; batches 001–004 must not be replayed. Fresh native DB rows were truncated, so current production versions are unavailable. Last reliable checkpoint remains #91, 310 verified / 42 partial / 1 archived. Business prepared/applied/newly verified: 0 at this code checkpoint. Continue the complete Enterbrain anthology group #81–91 using prior sources and #80's verified image receipt, then Prototype #484/#486–490. Full copy remains work/identity/full-copy.sqlite; no repeat import or audit. Usage quota and reset time are not exposed.

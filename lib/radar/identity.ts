@@ -8,7 +8,8 @@ import {canonicalEvent} from './event-name';
 import {kujiKey,kujiIdentity,resolveKuji} from './kuji-key';
 import {literalProductName,physicalBookCode,sameCircle,explicitAgeRating,bookPublisher,normalizedCode,validGtin} from './identity-facts';
 import {collectionIdentity,assortmentCard} from './collection-facts';
-export const IDENTITY_RULE_VERSION=22;
+export const IDENTITY_RULE_VERSION=23;
+export const isIdentityReview=(item:Item)=>!!item.identityReview||!!item.provisional&&item.id.startsWith('review-');
 // Empty means unusable for matching. Unknown query parameters are retained: they
 // may select a shop or variant. Only documented tracking/language keys are removed.
 export function listingKey(raw:string){
@@ -127,7 +128,7 @@ export function productIndex(items:Item[]){
 }
 // One decision core is used by legacy callers and the auditable envelope.
 export function evaluateProduct(items:Item[],candidate:Item,index=productIndex(items)){
- const active=index.lookup(candidate).filter(i=>!i.archivedInto&&!i.demo);
+ const active=index.lookup(candidate).filter(i=>!i.archivedInto&&!i.demo&&!isIdentityReview(i));
  const conflicts=active.flatMap(i=>identityConflicts(i,candidate).map(field=>({itemId:i.id,field})));
  const listing=active.filter(i=>sharedListing(i,candidate));
  const matches=strongestProductMatches(candidate,active.filter(i=>sameProduct(i,candidate)));
@@ -148,7 +149,7 @@ export function strongestProductMatches(candidate:Item,matches:Item[]){
 }
 export function canonicalItem(items:Item[]){return [...items].sort((a,b)=>Number(b.ownership==='owned')-Number(a.ownership==='owned')||Number(!!b.locked)-Number(!!a.locked)||a.createdAt.localeCompare(b.createdAt)||a.id.localeCompare(b.id))[0];}
 export function similarity(a:string,b:string){const grams=(s:string)=>new Set(Array.from({length:Math.max(0,s.length-1)},(_,i)=>s.slice(i,i+2)));const aa=grams(a),bb=grams(b);return 2*[...aa].filter(x=>bb.has(x)).length/Math.max(1,aa.size+bb.size);}
-export function duplicateCandidates(items:Item[],excluded=new Set<string>()){const active=items.filter(i=>!i.archivedInto&&!i.demo),out:{fromId:string;toId:string;reason:string;exact:boolean}[]=[],seen=new Set<string>();
+export function duplicateCandidates(items:Item[],excluded=new Set<string>()){const active=items.filter(i=>!i.archivedInto&&!i.demo&&!isIdentityReview(i)),out:{fromId:string;toId:string;reason:string;exact:boolean}[]=[],seen=new Set<string>();
  const buckets=new Map<string,Item[]>();for(const i of active){const name=productName(i.title);for(const key of new Set([...(collectionIdentity(i)?['collection:'+collectionIdentity(i)]:[]),part(i)+':title:'+name,...(i.isbn?['isbn:'+i.isbn]:[]),...(i.jan?['jan:'+i.jan]:[]),...(sequenceKey(i)?['sequence:'+sequenceKey(i)]:[]),part(i)+':near:'+(i.productLine||name.slice(0,10))])){if(!buckets.has(key))buckets.set(key,[]);buckets.get(key)!.push(i);}}
  // Exact identities get the full result budget before broad, capped suggestions.
  // Otherwise an early popular series can fill the list and hide later duplicates.
