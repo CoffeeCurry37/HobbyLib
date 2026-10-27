@@ -1,3 +1,5 @@
+> Current execution authority (2026-10-27): [Issue #3 checkpoint](../../docs/NEXT_TASK.md). NO-GO at 104269b; repair relation/prefs races, then full-copy atomic rehearsal and real browser QA. Issue #3 conditionally authorizes publication and the fixed 32 Items/5 edges only after acceptance. Historical approval/cursor notes below are superseded.
+
 > Latest checkpoint (2026-10-27): code/data **3fa5d8c** pushed; documentation head is `git log -1`. 32 prepared / 32 isolatedApplied / 0 productionApplied; isolated verified14 / partial18. Sites remains64; release prepared and local HTTP QA passed, browser visual QA unavailable. Read the final two checkpoint sections and batch-005/006 first; preceding production counts describe historical snapshots. Usage quota/reset not visible.
 
 # Exhaustive non-doujin catalogue review
@@ -90,3 +92,7 @@ Private files work/editorial-005/: targets.json, actions.json, rollback-items.js
 ## Release preparation complete; no production application
 
 Code/data checkpoint3fa5d8c pushed; this documentation commit adds release/preview receipts. Fixed GitHub3fa5d8c→prepared local Sites7a95d3bb, build passed, no saved version or deployment; live remains64/6357bd5. Authenticated local preview read all32 Items successfully; browser visual QA unavailable. See ../../docs/SITES-RELEASE.md. Current combined32-item application lives only in work/editorial-005/review.sqlite, final hash in batch-006/validation.json. Prepared32 / isolatedApplied32 / productionApplied0 / isolated verified14 / partial18. Full IDs/sources/diffs in both batches. Await concrete32-item/five-edge production approval and fresh complete targets; relation writes also require independently authorized deployment of the supporting API. No replay001–004. Next command: `cat research/editorial-20261021/batch-006/validation.json`; next research group#94 Apocrypha. Usage quota/reset invisible.
+
+## Issue #3 stages 1–2 — 2026-10-27 14:29 UTC
+
+Follow ../../docs/NEXT_TASK.md. Relation/prefs regressions fixed; 8/8 new API cases passed. Seven real Prototype endpoints (#484–490) and five moves applied in one request in the complete disposable snapshot; dismissal races, stale versions, replay and guarded rollback verified. No production writes or new business verification: prepared32 / isolatedApplied32 / productionApplied0 / verifiedDelta0 / partial18. Browser QA now uses installed Chromium; publication remains gated on its result. Reports ../../docs/reports/issue-3/. Never replay001–004 or use historical local actions against production. Quota/reset unavailable. Next command: `cat docs/reports/issue-3/browser-qa.json`.
