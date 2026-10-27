@@ -1,3 +1,5 @@
+import {relationsVersion} from './revision-plan';
+import {VersionConflictError} from './version-conflict';
 import {relationGuard} from './relation-guard';
 import {editorialBasis} from './editorial';
 import {db} from './store';
@@ -7,11 +9,16 @@ import {manualField} from './catalog';
 import {relationCycle,relationKey} from './engine';
 import {jsonChunks} from './import-limits';
 const personal=['ownership','quantity','notes','rating','priority','watchlisted','manualOrder','catalogNodeId','createdAt'] as const;
-export async function curate(user:string,changes:{item:Item;expectedVersion?:string}[],relations:Relation[]){
- const ids=[...new Set([...changes.map(c=>c.item.id),...relations.flatMap(r=>[r.fromId,r.toId])])];
+export async function curate(user:string,changes:{item:Item;expectedVersion?:string}[],relations:Relation[],revision?:{remove:Relation[];expectedVersion:string}){
+ const ids=[...new Set([...changes.map(c=>c.item.id),...[...relations,...revision?.remove||[]].flatMap(r=>[r.fromId,r.toId])])];
  const result=await db().batch([db().prepare('SELECT id,data FROM items WHERE user_id=? AND id IN (SELECT value FROM json_each(?))').bind(user,JSON.stringify(ids)),db().prepare('SELECT id,from_id AS fromId,to_id AS toId,kind,quantity FROM relations WHERE user_id=?').bind(user),db().prepare('SELECT data FROM preferences WHERE user_id=?').bind(user)]);
  const originalRelations=result[1].results as Relation[];
- const rows=result[0].results,byId=new Map<string,Item>(rows.map(r=>[r.id,JSON.parse(r.data)])),links=[...originalRelations],dismissed=JSON.parse(result[2].results[0]?.data||'{}').dismissedRelations||[];
+ if(revision){
+  if(relationsVersion(originalRelations)!==revision.expectedVersion)throw new VersionConflictError();
+  const guarded=new Set(changes.filter(c=>c.expectedVersion).map(c=>c.item.id));if([...relations,...revision.remove].some(r=>!guarded.has(r.fromId)||!guarded.has(r.toId)))throw Error('关系修订需要所有端点的商品版本');
+  if(new Set(revision.remove.map(r=>r.id)).size!==revision.remove.length||revision.remove.some(r=>!originalRelations.some(x=>relationsVersion([x])===relationsVersion([r]))))throw new VersionConflictError();
+ }
+ const rows=result[0].results,byId=new Map<string,Item>(rows.map(r=>[r.id,JSON.parse(r.data)])),links=originalRelations.filter(r=>!revision?.remove.some(x=>x.id===r.id)),dismissed=JSON.parse(result[2].results[0]?.data||'{}').dismissedRelations||[];
  let created=0,updated=0;
  for(const change of changes){const previous=byId.get(change.item.id),next=change.item;
   if(next.editorial){const e=next.editorial;if(e.basis!==editorialBasis(next)||e.imageUrl!==next.image)throw Error('复核依据与商品资料不一致');if(e.status==='verified'&&(!Object.values(e.checks).every(Boolean)||!e.sources.length||e.unresolved.length||!next.summary||!next.productType||!next.image||!next.tags.length))throw Error('资料不完整，不能标记已核实');}
@@ -27,6 +34,7 @@ export async function curate(user:string,changes:{item:Item;expectedVersion?:str
  db().prepare("INSERT INTO scans(user_id,id,data) VALUES(?,?,(SELECT 'verified' WHERE (SELECT COUNT(*) FROM json_each(?) AS expected CROSS JOIN items ON items.id=json_extract(expected.value,'$.id') WHERE items.user_id=? AND items.data=json_extract(expected.value,'$.data'))=?))").bind(user,guard,JSON.stringify(rows),user,rows.length),
  ...jsonChunks(updates).map(chunk=>db().prepare("WITH edits AS (SELECT json_extract(value,'$.id') AS id,value AS data FROM json_each(?)) UPDATE items SET data=(SELECT data FROM edits WHERE edits.id=items.id),updated_at=? WHERE user_id=? AND id IN (SELECT id FROM edits)").bind(chunk,at,user)),
  ...jsonChunks(inserts).map(chunk=>db().prepare("INSERT INTO items(user_id,id,data,updated_at) SELECT ?,json_extract(value,'$.id'),value,? FROM json_each(?)").bind(user,at,chunk)),
+ ...(revision?.remove.length?[db().prepare('DELETE FROM relations WHERE user_id=? AND id IN (SELECT value FROM json_each(?))').bind(user,JSON.stringify(revision.remove.map(r=>r.id)))]:[]),
  ...jsonChunks(added).map(chunk=>db().prepare("INSERT INTO relations(user_id,id,from_id,to_id,kind,quantity) SELECT ?,json_extract(value,'$.id'),json_extract(value,'$.fromId'),json_extract(value,'$.toId'),json_extract(value,'$.kind'),json_extract(value,'$.quantity') FROM json_each(?)").bind(user,chunk)),db().prepare('DELETE FROM scans WHERE user_id=? AND id IN (?,?)').bind(user,guard,guard+'-relations')]);
- return {created,updated,linked:added.length};
+ return {created,updated,linked:added.length,unlinked:revision?.remove.length||0};
 }

@@ -157,7 +157,7 @@
       "visualCheckedPreviously": true
     },
     "expectedVersion": "a29fb56d5d02c60e15736fa5abd162c1505cad7424554c131daa6ffa3d0f3fe7",
-    "afterVersion": "f4b6c4a3a890244c8abcf81f572f56053dcb8a5976f306b1df7a939889c254a3",
+    "afterVersion": "75e2b7862166ce105060cfd30e2de7dd24e601b15b83210af3142fca98825a75",
     "diff": {
       "category": {
         "before": "漫画系列目录",
@@ -393,7 +393,7 @@
       "visualCheckedPreviously": true
     },
     "expectedVersion": "b8970d395a8eff92715bdc3acc78687988f09448c10b5b8c3edbf3986ad65b84",
-    "afterVersion": "2b1e0bf831d20d5795253e294b650be11750606223b9f596b526376eec0c61fc",
+    "afterVersion": "f6a2c819157b208220ad9a64d6981d6af90b3bc5cd48f7af6a6ae50fe0e215a7",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -609,7 +609,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "5b8d4e9ec6d43ec1caabb5d4b2666510147c2682d6a281ba39148a287e0da33a",
-    "afterVersion": "c6e6ef2de105675dcbd2ab93095c844c45204b07ff3c7a1c5f3316a734bf956a",
+    "afterVersion": "1c5e62887ca3cddd9f837e936a02bb04857eff58ff0fb979dd706962b45f8923",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -817,7 +817,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "8529f59e1794af0f23766b72fb7fd66967d8f3fbe5124fc4f5891cd693182486",
-    "afterVersion": "4e633e207fccc77277d5609320b9eb3915feb492ca6196faa76fdfd21b06a07d",
+    "afterVersion": "6910fe0c84f0b9260b33bcb1fd57d57cac25acf665dbf2b905bef52db7b28362",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -1025,7 +1025,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "ce2f63b68efbd7e4149d834ebcf7e886bcf7e792dfd47b81a6b3b3a472013d3e",
-    "afterVersion": "918ebbade60bca00f3f4f29f7c199de21bb7231467a25440c8c4d02cafef4b60",
+    "afterVersion": "2558d0bdcfa529f63b036f80ac4a4f46bbc304750e84a33a0d24a328420e0a90",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -1233,7 +1233,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "8451cdff4018a7af41b00a386d9d1c651b3d57bec69f69e43101b942cb4dbd53",
-    "afterVersion": "3de052b13f90c9728f1618b114188e0793045431ec55dbcd2aee6371419501da",
+    "afterVersion": "2a7ec77d866a28d99acbda90e1de872586bfea69768020a73b60fff174b2c6c6",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -1441,7 +1441,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "ce3b97bffb36cc7d8e40b4f282d58483452d5f5bb20bf44e99b8fbf7e753ff3a",
-    "afterVersion": "574c43de6dd095ddbcd4032a7e79468d4f30ba36bbffb35085f345cad11c6820",
+    "afterVersion": "55a698444044df449c5aeb76833fe3b83c489055d0a86845ce6eb62eaec683d4",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -1649,7 +1649,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "5018ea4273e35f3d68901b347ecb5790602a3521c4be6650cd127f51cbc3a387",
-    "afterVersion": "2b4338ad74e202964eaf42c1ffcc22bea3ac4fdf814c71d53469b42b5f2b06ed",
+    "afterVersion": "bea01f4fa8d21c10047c04507ab7c0c4f5226392d6b29dd4437cd622a04782ff",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -1857,7 +1857,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "8295d006fa60342e5a2af0c2e620983b6af13d175c10c194997538b2b6af1d83",
-    "afterVersion": "9522e4ec05c88307df7cde78755022ae0044efb5b4fe307daf043814c5ff93c0",
+    "afterVersion": "3c63c86b8f4b32f7a0d383a90ad2721248d402018d25d001b976baf1edb44316",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -2065,7 +2065,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "bd25e360ef63e0223592d4a2b37f789f5b698467d66015a339ea02af9a9df1b7",
-    "afterVersion": "d583d34cbaa9fd3a5abb9c0adec8bd3bcc46ca338520f4a1d597f8ec3d700aed",
+    "afterVersion": "3b2e47d846961d6a581507b9f62307136d98a27f6097481590412bafba660745",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -2272,7 +2272,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "a83de31667c8456619a72ffb22b3122313e057293eb73b0821f0db1f3334b3c0",
-    "afterVersion": "a2e8a6fcdf73b27b90f0ea053796c53b0529e782c726ae2366c082e32ada088d",
+    "afterVersion": "f892dc9ce1d38e4bf513d78aa08c9d462d5c484e5d0e6d627cd4ad19fed6c53f",
     "diff": {
       "publisher": {
         "before": "KADOKAWA",
@@ -2501,7 +2501,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "b74463597db4ca85159ab4ded6b9cd4c34c46084ee08eb595c624a44d61b2139",
-    "afterVersion": "6760f964923567420e9ee2503b788fa040561f6462084da663979c7f14598db6",
+    "afterVersion": "bb8856f66160ba313c2b6dfd90fb12a7490d3cdc001fb4582320215f3a0ee70d",
     "diff": {
       "origin": {
         "before": "unknown",
@@ -2760,7 +2760,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "2fa657efd2643ec7da1d2f4a77ca09e3f99accf9c76035609c5b468dc80fe0c7",
-    "afterVersion": "edcea695160ba5e4c57055e63b3a69e2171f56f32741a8ae1e92a786242b1bb3",
+    "afterVersion": "9f64c4d5341e0fe98f2c21f363aeab457609354424530fcddf4032fe5c59df9f",
     "diff": {
       "productType": {
         "before": null,
@@ -3019,7 +3019,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "4e93aec6e55abaa67dd814a533614c50b7fa145a05fc9b8147d7f0cce250b64c",
-    "afterVersion": "a4b8da1095f9c512e783ba9d95567fb370ba04f1ab3fbfa6904b4a16d7e61976",
+    "afterVersion": "3cef882c028135011c18656df9fb621900380bccacd94afe80360953eda9888a",
     "diff": {
       "category": {
         "before": "書籍",
@@ -3285,7 +3285,7 @@
       "fiveChecksPreviouslyTrue": true
     },
     "expectedVersion": "fa7faf082e9f1ed81941ed1ce08f6caff0b30c8e58abebf69f68f8ce1f64d8ba",
-    "afterVersion": "38e12b57fdc42378a399d96a14da1dfd18263655322c8e063a258871449a9da4",
+    "afterVersion": "2318812e888d036a521be68b0b5088a20575070ab9d7908d2cae8220b6f01d62",
     "diff": {
       "origin": {
         "before": "unknown",
@@ -3481,7 +3481,7 @@
       "fiveChecksPreviouslyTrue": true
     },
     "expectedVersion": "d694238496af8814db370aa0bb10732a9fdaf060ef9c6eb32beacf275bf86f59",
-    "afterVersion": "e14d28219b5a8911b049afbfff872f216b4e3ccf9ef54ebac0ec8ac5fc05b765",
+    "afterVersion": "6da7d01ca8d8ed8862e0b08b979f51570be29b38d3664e6473286a3bcafc16a7",
     "diff": {
       "productType": {
         "before": null,
@@ -3770,7 +3770,7 @@
       "matchISBN": "9784041021279"
     },
     "expectedVersion": "306aaba57b5b2dd5f0d147a052d29ae8d314ad4f0e13512aeccd6415f483d608",
-    "afterVersion": "dd77c96282985274d1de4e6791d14a2da705236effd60d20c8039a56a8ee11a2",
+    "afterVersion": "c374b09dedd96fe3784a200d9db54fc120b9565be9848acc4d5e5b89cf08b24f",
     "diff": {
       "member": {
         "before": "Fate/Prototype 蒼銀のフラグメンツ (1)",
@@ -4075,7 +4075,7 @@
       "matchISBN": "9784041021286"
     },
     "expectedVersion": "1018553df509008c163abfb821ba6d54c788fc985404f1a46a24a88a81c40074",
-    "afterVersion": "d05bbdf54e1df00ad07fb2ce349e2a274e062069b20558edd342c43189f87bb0",
+    "afterVersion": "971f34d170ffdee67399d47b1966b30f02517a323b799e1e6dbd50a56f849c3c",
     "diff": {
       "member": {
         "before": "Fate/Prototype 蒼銀のフラグメンツ (2)",
@@ -4383,7 +4383,7 @@
       "matchISBN": "9784041024522"
     },
     "expectedVersion": "1c29d828176a1ca7f0f9460762ed9e44b578368a30d0e8573afb72776bfa5777",
-    "afterVersion": "fdb868f41d60f426b54b98b34857e5da397644b0e3461056d361f1eafd8d65ed",
+    "afterVersion": "bf5be73c00bfb6e7999106bf6ab9eb92b197dca3a6798f3040a95ada6e09db62",
     "diff": {
       "member": {
         "before": "Fate/Prototype 蒼銀のフラグメンツ (3)",
@@ -4706,7 +4706,7 @@
       "matchISBN": "9784041024539"
     },
     "expectedVersion": "cdc52c850591e3eb540b53b300da66f52253d589056b2ca90b284605fc7e6397",
-    "afterVersion": "c36298eddc84d94c978742abf8424e3c7ce04f606ea2a676347068cd4b1e799b",
+    "afterVersion": "71a04b84b7043e4bf8c89d7639ff49d23a75d217a6d10c77488055869a662268",
     "diff": {
       "member": {
         "before": "Fate/Prototype 蒼銀のフラグメンツ (4)",
@@ -5023,7 +5023,7 @@
       "matchISBN": "9784041031445"
     },
     "expectedVersion": "5fa86480fa1453d2932d4dccf60e1dac17d5c3094093bff138a310521896e48c",
-    "afterVersion": "c66cffa820473182fc1611e217f427a86b7fe6d8502fe6d850f479881b925dd2",
+    "afterVersion": "8322201b848053dcc147fce78e3480c865722ac22520b223a2edb568c4160588",
     "diff": {
       "member": {
         "before": "Fate/Prototype 蒼銀のフラグメンツ (5)",
@@ -5278,7 +5278,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "b537619a9b862a454283d73f7850b547366f9abbdaf611a672ec3295ebbd7166",
-    "afterVersion": "faef9840f041677c001f2adc50580a960b92e21b2dcce82d4d44698a7cd30faf",
+    "afterVersion": "ea00334d95c93ba8dc003a73bd1ccb57108b949b4fcada88162904a8e8b7c0db",
     "diff": {
       "productType": {
         "before": null,
@@ -5514,7 +5514,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "290c2d7e8cf5e68a19f598943595befc1eb12176c39268a962673a826606d8b3",
-    "afterVersion": "20e51d6e0cc1d252f6765a250d77e0fc39cde1b9f802cae8ec383345fc1fc4cc",
+    "afterVersion": "9a1015086d5e6fdc79e99ec476932de33852a7ae332801c69e47277eaa28f7a5",
     "diff": {
       "origin": {
         "before": "unknown",
@@ -5773,7 +5773,7 @@
     ],
     "imageEvidence": null,
     "expectedVersion": "f79ebbd28c0b0c54d59b5b64f5a959ec68e0ac72d553f7d20831b82cb20fcf3a",
-    "afterVersion": "2e1a509fb2c6b7f09259866805e6254403c041399f79d164aa30f96c4eb2bcb4",
+    "afterVersion": "35a004a04a7f5caad5d317d0c030755a46982515288446cba22012c5175fbfed",
     "diff": {
       "origin": {
         "before": "unknown",
@@ -6094,7 +6094,7 @@
       "matchISBN": "9784041021279"
     },
     "expectedVersion": "f597b9ceebda988329e21654ad5a88c46e8f1d253916e8ee7208fe404b70facb",
-    "afterVersion": "3632ba5ac32c090d2ae33d715770c29afde51e667cc2f03f230f48f423937b0c",
+    "afterVersion": "04f56edabb5e066b6c835900ba1a41aca9f7aeb929667efdc26d405190f7f820",
     "diff": {
       "origin": {
         "before": "unknown",
@@ -6407,7 +6407,7 @@
       "matchISBN": "9784041021286"
     },
     "expectedVersion": "a3e99b027ebb92ee161eb1ba2848d73548ac04077912648ab3e478e51231eef2",
-    "afterVersion": "aba813e0b5748ff035c501784bef4ab85a5d53994c5d6115754c4a989ffad61f",
+    "afterVersion": "6d1fdd85622a951b84c905976f5dbca0fbe07fa70be002ea96fe82641192313a",
     "diff": {
       "origin": {
         "before": "unknown",
@@ -6723,7 +6723,7 @@
       "matchISBN": "9784041024522"
     },
     "expectedVersion": "0b31b941a96d73d23ecc8de2d453cf15e40cdd77978f16e31b444b92480d0ef0",
-    "afterVersion": "489351acc9618acdaa3822db97a7ca56067e1dc75871ea8520c9734a68e3e9c5",
+    "afterVersion": "9079cfb4c5f4007c4dc059ffd4ccc71e5f91c73d995350132029cacd210c660a",
     "diff": {
       "origin": {
         "before": "unknown",
@@ -7054,7 +7054,7 @@
       "matchISBN": "9784041024539"
     },
     "expectedVersion": "2aa0cd1de617bfcc5b017dda0ae8dd9497f4475c3a3e71e6335f88887ec6434b",
-    "afterVersion": "65887f56283ec50cf19604c90d52acc2d38be996023ff3db068fdeae62a6feba",
+    "afterVersion": "0db8955be36d8da4917684811fd70af537a00c9cdf04e08ebbb22b59953d97cd",
     "diff": {
       "origin": {
         "before": "unknown",
@@ -7379,7 +7379,7 @@
       "matchISBN": "9784041031445"
     },
     "expectedVersion": "6a76a0c4d8ed53f9977607ff8b76ac213304dc02e85fc74837944b203b9481e1",
-    "afterVersion": "e4333ec9c54731eab5bf076a6c9211f2075117e85a32892374dae835566cb750",
+    "afterVersion": "6d9fe8ac851e3648d3bfe01d075ff2e6ac993d6ccb0607256cd2d7884dc6e18f",
     "diff": {
       "origin": {
         "before": "unknown",

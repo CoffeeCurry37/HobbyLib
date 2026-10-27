@@ -87,3 +87,9 @@ Item 与整个关联图均在同一提交中校验；失败保持原数据。com
 - #91的套装JAN实为第10卷ISBN；#495混入普通套装与附収納BOX报价，保留具体拆分问题，未挪动报价。#82–90缺封面；#92/#93/#493需图片核对；#494拍卖版本/附件待确认。没有将未解决项计作verified。
 - 原生Sites源码只读clone确认HEAD仍为 `6357bd5f020415c17652bf2bdfdbd26130bdac17`，没有Sites侧新提交；凭证未落盘，未push到Sites。下一步完成发布准备和本地预览；额度/重置时间仍不可见。
 - 生产前仍需新鲜只读投影、目标版本与本批明确批准；当前原生表读取截断，未获得完整生产目标。001–004绝不能重放；005只有隔离回执。下一条命令：`cat research/editorial-20261021/batch-005/validation.json`，再继续发布准备。后续研究可从 #94 Apocrypha 或 #509–511 Requiem 自然组展开。
+
+## 后续检查点：真实API关系迁移 + Requiem组
+
+批次005当前validation.json已替换为真实catalogue-curation API的五条关系替换验证，不再只是离线SQL移动；相关回归test-curation-revision.mjs覆盖端点遗漏、旧关系指纹、并发备注、成功替换和撤销。curation、验收3项、editorial及类型检查通过。生产应用时，#484–490七条目标字段与五条关系应放在同一revision请求，其他目标分段；不要重放演练的中间步骤。
+
+批次006新增 #509–511，Item ID与全部before/after见batch-006/diffs.json和FULL-CHANGES.md。3条中文简介/标签/分类字段已在同一完整隔离副本应用，3条均因图片核对保留partial。合计prepared32、isolatedApplied32、生产applied0、隔离verified14/partial18、未涉及记录43,537。库为work/editorial-005/review.sqlite；最终组合哈希见batch-006/validation.json。生产新鲜版本仍不可见，旧生产进度仍停#91，001–004不能重放。下一命令：`cat research/editorial-20261021/batch-006/validation.json`；随后执行scripts/prepare-sites-release.py本地准备。Sites源基线6357bd5、版本64、身份/权限/DB均未更改。额度与重置时间不可见。
