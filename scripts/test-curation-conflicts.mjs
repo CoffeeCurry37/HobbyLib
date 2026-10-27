@@ -61,6 +61,10 @@ test('stale Item version returns a clear conflict, not a generic bad request',()
  f.conflict(await f.api(action));assert.deepEqual(f.snapshot(),before);
 }));
 
+test('stale detail editor returns 409 and preserves the complete latest Item',()=>fixture(async f=>{
+ const before=f.snapshot();f.conflict(await f.api({action:'update-item',id:'volume',expectedVersion:'0'.repeat(64),patch:{notes:'stale UI draft'}}));assert.deepEqual(f.snapshot(),before);
+}));
+
 test('exact replacement, replay rejection, explicit quantity replacement, and guarded undo',()=>fixture(async f=>{
  f.savePrefs(f.prefs);const before=f.read(),action=f.action();
  assert.equal((await f.api(action)).status,200);assert.deepEqual(f.links(),[f.next]);

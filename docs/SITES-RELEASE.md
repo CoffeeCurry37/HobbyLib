@@ -1,3 +1,5 @@
+> 当前发布依据（2026-10-27）：[Issue #3 / NEXT_TASK](NEXT_TASK.md)。代码及真实 Chromium 门禁已通过；Issue #3 已条件授权合并/发布/固定32条应用。下方旧 3fa5d8c → 7a95d3bb 为历史准备记录，**禁止复用其候选或包**。发布必须重新建立合并后的 GitHub SHA 与 Sites SHA/包/版本/部署映射。
+
 # GitHub → Sites 发布准备
 
 GitHub CoffeeCurry37/HobbyLib 是开发来源，原 Sites 项目 appgprj_6ab5bd99340881919e4311a732df6eb9 是发布目标，D1绑定 DB 继续承载生产商品库。本轮没有合并PR、推送Sites分支、保存新Sites版本、部署网站或修改生产商品。原 custom 访问权限保持不变。

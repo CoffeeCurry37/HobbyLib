@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-27T14:26:18.397Z",
+  "pass": false,
+  "browser": "installed Chromium / Playwright; real DOM and real local HTTP API",
+  "preview": "complete isolated copy plus two explicitly labelled QA fixtures",
+  "productionTouched": false,
+  "checks": [
+    {
+      "name": "real detail summary, tags and catalogue-reference imageRole",
+      "pass": true
+    },
+    {
+      "name": "Prototype novel/manga parents keep their distinct members",
+      "pass": true
+    },
+    {
+      "name": "stale edit: real 409, persistent prompt, reload preserves newer user note",
+      "pass": false,
+      "error": "Expected values to be strictly equal:\n\n400 !== 409\n"
+    },
+    {
+      "name": "review candidate selection, conflict reload, and successful resolution keep observations",
+      "pass": false,
+      "error": "locator.waitFor: Timeout 3000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: '重新读取', exact: true }) to be visible\u001b[22m\n"
+    },
+    {
+      "name": "mobile 390px and 320px details fit viewport and edit controls work",
+      "pass": false,
+      "error": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByLabel('个人备注', { exact: true }) to be visible\u001b[22m\n"
+    }
+  ],
+  "consoleErrors": [],
+  "privateArtifacts": "/workspace/HobbyLib/work/issue-3/browser-1SClQ9",
+  "serverStopped": true
+}

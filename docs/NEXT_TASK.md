@@ -1,8 +1,8 @@
 # 当前执行入口：Issue #3
 
-更新时间：2026-10-27 14:29 UTC。执行依据：[Issue #3](https://github.com/CoffeeCurry37/HobbyLib/issues/3)。历史接续文档中的“等待生产批准”和“从 #91 开始”不能替代本页顺序。
+更新时间：2026-10-27 14:35 UTC。执行依据：[Issue #3](https://github.com/CoffeeCurry37/HobbyLib/issues/3)。历史接续文档中的“等待生产批准”和“从 #91 开始”不能替代本页顺序。
 
-- 分支 `feat/explainable-identity`，开始 head `104269b75d85696a0933a621d6738bd00e0c242e`；PR #2 未合并，工作树开始时干净。当前 **NO-GO**。
+- 分支 `feat/explainable-identity`，开始 head `104269b75d85696a0933a621d6738bd00e0c242e`；PR #2 未合并，工作树开始时干净。阶段 1–2 已推送 `02a10c7`；阶段 3 浏览器门禁现已通过，下一步核对远端并合并/发布。
 - Sites 最近核实版本 64，source `6357bd5f020415c17652bf2bdfdbd26130bdac17`；尚无本轮部署。旧候选 `7a95d3bb` 不得复用。
 - 资料计数：prepared 32 / isolatedApplied 32 / productionApplied 0 / production verifiedDelta 0 / isolated verified 14 / partial 18。历史 14 条的图片凭证须再逐项定位，不自动增加生产 verified。
 - 批次 001–004 已在生产应用，绝不能重放。005–006 的旧本地 actions 不能用于生产。
@@ -22,7 +22,7 @@
 - 原完整副本 `work/identity/full-copy.sqlite`；已应用 32 条的本地副本 `work/editorial-005/review.sqlite`。均为隔离文件，不能作为生产导入。
 - 逐项编号、Item ID、before/after、来源和五项检查：`research/editorial-20261021/batch-005/diffs.json`、`batch-006/diffs.json`；全部变更分别见 `FULL-CHANGES.md`。
 - 缓存和既有来源：各批次 `source-cache-reuse.json`、`network-crosschecks.json`、既有 workflow 缓存。个人完整记录/动作/回滚资料保留在忽略的 `work/`。
-- 阶段 1–2 已验证：新增 8/8 冲突回归；既有 acceptance 3/3、core 20/20、identity 12/12、curation-revision、editorial-flow、tsc、Sites/standalone 构建通过。完整 43,569 条副本的七端点字段 + 五边同请求、冲突和回滚通过；见 reports/issue-3/。三个旧测试失败详见代码验收报告，未重复全量导入。真实浏览器 QA 正在执行，当前仍 NO-GO。
-- 下一命令：`cat docs/reports/issue-3/browser-qa.json`；若未生成，读取 `work/issue-3/browser-first.log` 并继续浏览器验收。代码验收完成前不新开商品写入组。
+- 阶段 1–2 已验证：新增 9/9 冲突回归（含浏览器发现的详情编辑过期版本）；既有 acceptance 3/3、core 20/20、identity 12/12、curation-revision、editorial-flow、tsc、Sites/standalone 构建通过。完整 43,569 条副本的七端点字段 + 五边同请求、冲突和回滚通过；见 reports/issue-3/。三个旧测试失败详见代码验收报告，未重复全量导入。真实 Chromium 五项 QA 全部通过，截图和详细日志留在忽略的 work/issue-3/browser-hiy67Q；本地外站图片加载受限，不增加图片 verified。Sites 源码远端仍为 6357bd5，无新改动。
+- 下一命令：`git fetch origin main feat/explainable-identity`，核对阶段 3 提交、base 和新差异后按 Issue #3 合并；发布使用新候选。代码验收完成前不新开商品写入组。
 
 每阶段更新本页以及 IDENTITY-HANDOFF.md、研究 RESUME.md；保存测试命令/结果、真实生产回执、当前提交及下一条命令。约 15–20 分钟或一个自然组内形成可审阅检查点并推送已验证内容。

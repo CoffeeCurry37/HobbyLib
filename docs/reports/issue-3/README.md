@@ -30,3 +30,11 @@
 ## 后续门禁
 
 真实 Chromium/Playwright QA 使用完整副本和明确标注的两条本地案件样本，不触及生产。检查详情、imageRole、两个目录、复核选取/解除、409 后重新读取及移动宽度。报告生成于 `browser-qa.json`；未通过前不得合并/发布/应用。现有 32 条业务修订的逐项差异及来源继续在 batch-005/006，生产计数不因测试增长。剩余额度/重置时间不可见。
+
+## 真实浏览器验收与修复（14:35 UTC）
+
+首次真实浏览器结果见 browser-before.json：过期详情编辑返回400，复核冲突无重新读取按钮，移动编辑表单内在宽度溢出。已修为409、保留输入的持续冲突提示和重新读取流程、清除过期候选版本、收窄表单网格。重新读取完成后展示最新资料，用户可据此重新编辑。
+
+最终 [browser-qa.json](browser-qa.json) 五项全部通过。执行命令：`PLAYWRIGHT_MODULE=/opt/codex/cua_node/lib/node_modules/playwright/index.mjs node scripts/test-browser-issue3.mjs`；使用环境已有 Chromium，无新增浏览器安装。真实DOM操作与本地API响应一起断言，保存390/320宽度编辑前后无横向溢出、候选冲突后再选择并解除、两条观测及用户新备注保留。截图经查看；其完整文件留在报告列出的私有目录。外站图像加载受环境网络限制，不据此声称任何封面新核实。
+
+新增详情过期编辑回归后冲突脚本9/9；原curation-revision与acceptance3/3重跑通过。UI变化后重新执行tsc和Sites/standalone构建通过（work/issue-3/*-ui.log）。没有为资料批次重复全库研究或导入。

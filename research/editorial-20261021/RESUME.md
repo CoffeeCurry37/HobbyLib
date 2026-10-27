@@ -96,3 +96,7 @@ Code/data checkpoint3fa5d8c pushed; this documentation commit adds release/previ
 ## Issue #3 stages 1–2 — 2026-10-27 14:29 UTC
 
 Follow ../../docs/NEXT_TASK.md. Relation/prefs regressions fixed; 8/8 new API cases passed. Seven real Prototype endpoints (#484–490) and five moves applied in one request in the complete disposable snapshot; dismissal races, stale versions, replay and guarded rollback verified. No production writes or new business verification: prepared32 / isolatedApplied32 / productionApplied0 / verifiedDelta0 / partial18. Browser QA now uses installed Chromium; publication remains gated on its result. Reports ../../docs/reports/issue-3/. Never replay001–004 or use historical local actions against production. Quota/reset unavailable. Next command: `cat docs/reports/issue-3/browser-qa.json`.
+
+## Issue #3 stage 3 — 2026-10-27 14:35 UTC
+
+Real Chromium QA now passed all five required flows, including stale edit 409/reload, review resolution retaining observations, and mobile390/320. Fixed the observed UI/API issues; fresh type/build checks passed. Code stage1–2 pushed as02a10c7; next head via git log. Native Sites head remains6357bd5/version64/custom. Follow NEXT_TASK for conditionally authorized merge/publication, then fetch fresh fixed32 targets; no new production application or verifiedDelta yet. Image rendering was network-limited locally; locate historical receipts before assigning verified. Quota/reset unavailable.

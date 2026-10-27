@@ -111,3 +111,7 @@ Item 与整个关联图均在同一提交中校验；失败保持原数据。com
 ## Issue #3 阶段 1–2 检查点（2026-10-27 14:29 UTC）
 
 在 104269b 基础上新增 8 组真实 API 回归（修复前 7 失败 / 1 通过，修复后全部通过），严格关系修订、事务内偏好比较及过期 Item 409 已验证。完整副本七件字段 + 五边单请求成功/拒绝/回滚通过；未涉及生产。新增执行入口 docs/NEXT_TASK.md，报告 docs/reports/issue-3/。已有 32 prepared / 32 isolatedApplied / 0 productionApplied / verifiedDelta 0 / partial 18 不变。当前真实 Chromium QA 正在执行；未过门禁不得合并、发布或应用。来源和逐项 ID 继续复用 batch-005/006，无批次重放。额度/重置不可见。
+
+## Issue #3 阶段 3 浏览器门禁（2026-10-27 14:35 UTC）
+
+阶段 1–2 提交 02a10c7 已推送。真实 Chromium 在隔离完整副本上发现并修复详情过期版本400、冲突后缺少重新读取入口及移动表单溢出。五项实际浏览器操作现全部通过；9/9 新API回归、原目录及三项验收、类型检查、两种构建通过。截图私存 work/issue-3/browser-hiy67Q，公开报告 docs/reports/issue-3/browser-qa.json；外站图片网络受限，不将UI验收当图片身份核实。Sites远端重新核实仍6357bd5/64/custom，未写生产。下一步核对GitHub远端并按Issue3条件授权合并/发布；禁止旧7a95d3bb候选。业务计数和001–004禁重放不变，额度不可见。

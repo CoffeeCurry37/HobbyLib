@@ -1,0 +1,32 @@
+{
+  "at": "2026-10-27T14:32:10.295Z",
+  "pass": true,
+  "browser": "installed Chromium / Playwright; real DOM and real local HTTP API",
+  "preview": "complete isolated copy plus two explicitly labelled QA fixtures",
+  "productionTouched": false,
+  "checks": [
+    {
+      "name": "real detail summary, tags and catalogue-reference imageRole",
+      "pass": true
+    },
+    {
+      "name": "Prototype novel/manga parents keep their distinct members",
+      "pass": true
+    },
+    {
+      "name": "stale edit: real 409, persistent prompt, reload preserves newer user note",
+      "pass": true
+    },
+    {
+      "name": "review candidate selection, conflict reload, and successful resolution keep observations",
+      "pass": true
+    },
+    {
+      "name": "mobile 390px and 320px details fit viewport and edit controls work",
+      "pass": true
+    }
+  ],
+  "consoleErrors": [],
+  "privateArtifacts": "/workspace/HobbyLib/work/issue-3/browser-hiy67Q",
+  "serverStopped": true
+}
