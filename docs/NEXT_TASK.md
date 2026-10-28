@@ -1,10 +1,10 @@
 # 当前执行入口：Issue #3
 
-更新时间：2026-10-28 00:20 UTC（America/Chicago 10月27日19:20）。执行依据：[Issue #3](https://github.com/CoffeeCurry37/HobbyLib/issues/3)。历史接续文档中的“等待生产批准”和“从 #91 开始”不能替代本页顺序。
+更新时间：2026-10-28 00:25 UTC（America/Chicago 10月27日19:25）。执行依据：[Issue #3](https://github.com/CoffeeCurry37/HobbyLib/issues/3)。历史接续文档中的“等待生产批准”和“从 #91 开始”不能替代本页顺序。
 
 - 分支 `feat/explainable-identity`，开始 head `104269b75d85696a0933a621d6738bd00e0c242e`；PR #2 已按 Issue #3 的条件授权合并，合并 SHA `14a3f2e9758e6020fbf844fc062e74d27457ab78`；工作分支已切为 `main`。修复检查点 `02a10c7` / `ea7c167` 保留。
 - Sites 已发布 **65**，source `271d287c534bf3a93cc53d8727b6f6f0eafd6917`，deployment `appgdep_6ae13f49c2ac81919a31d77ee9108166` succeeded。原 project/D1 DB/custom 权限不变。完整映射见 reports/issue-3/release.json。旧候选 `7a95d3bb` 不得复用。
-- 资料计数：prepared 32 / isolatedApplied 32 / productionApplied 0 / production verifiedDelta 0 / isolated verified 14 / partial 18。历史 14 条的图片凭证须再逐项定位，不自动增加生产 verified。
+- 资料计数：prepared 32 / isolatedApplied 32 / productionApplied 0 / production verifiedDelta 0 / isolated verified 14 / partial 18。历史14条的图片资格已逐项定位：14条有下载回执，但仅2条有明确视觉记录；12条已在最新方案降为partial。**当前待应用五项资格2 / partial30**，历史14/18不能再用作生产动作。详见 research/editorial-20261021/issue-3-image-review/。
 - 批次 001–004 已在生产应用，绝不能重放。005–006 的旧本地 actions 不能用于生产。
 - 账户剩余额度及重置时间不可见；未购买额度或使用重置权益。
 
@@ -19,7 +19,7 @@
 
 ## 可恢复产物
 
-- 原完整副本 `work/identity/full-copy.sqlite`；已应用 32 条的本地副本 `work/editorial-005/review.sqlite`。均为隔离文件，不能作为生产导入。
+- 原完整副本 `work/identity/full-copy.sqlite`；原已应用32条本地副本 `work/editorial-005/review.sqlite`；最新补充图片降级后的完整副本 `work/issue-3/image-review/applied.sqlite`。均为隔离文件，不能作为生产导入。
 - 逐项编号、Item ID、before/after、来源和五项检查：`research/editorial-20261021/batch-005/diffs.json`、`batch-006/diffs.json`；全部变更分别见 `FULL-CHANGES.md`。
 - 缓存和既有来源：各批次 `source-cache-reuse.json`、`network-crosschecks.json`、既有 workflow 缓存。个人完整记录/动作/回滚资料保留在忽略的 `work/`。
 - 阶段 1–2 已验证：新增 9/9 冲突回归（含浏览器发现的详情编辑过期版本）；既有 acceptance 3/3、core 20/20、identity 12/12、curation-revision、editorial-flow、tsc、Sites/standalone 构建通过。完整 43,569 条副本的七端点字段 + 五边同请求、冲突和回滚通过；见 reports/issue-3/。三个旧测试失败详见代码验收报告，未重复全量导入。真实 Chromium 五项 QA 全部通过，截图和详细日志留在忽略的 work/issue-3/browser-hiy67Q；本地外站图片加载受限，不增加图片 verified。发布前核实 Sites 无额外改动，随后普通 fast-forward 推送新候选并通过原生工具保存/发布65。

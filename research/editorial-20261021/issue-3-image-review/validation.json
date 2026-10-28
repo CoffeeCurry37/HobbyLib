@@ -1,0 +1,39 @@
+{
+  "at": "2026-10-28T00:23:42.327Z",
+  "pass": true,
+  "originalBatchItems": 32,
+  "reviewedHistoricalVerified": 14,
+  "matchedDownloadReceipts": 14,
+  "explicitHistoricalVisualReceipts": 2,
+  "reclassifiedAsPartial": 12,
+  "prepared": 32,
+  "isolatedApplied": 32,
+  "productionApplied": 0,
+  "verifiedEligible": 2,
+  "partial": 30,
+  "verifiedDelta": 0,
+  "unchangedNonTargetRecords": {
+    "count": 43557,
+    "sha256": "c70830d2ebdeb92a30fed0c950811c5ddd2123013442861797d57a2ebd5f851e"
+  },
+  "onlyEditorialChanged": true,
+  "personalManualOffersHistoryDescriptionsPreserved": true,
+  "relationsAndPreferencesPreserved": true,
+  "staleRejected": true,
+  "rollbackItemValuesExact": true,
+  "apply": {
+    "status": 200,
+    "body": {
+      "ok": true,
+      "created": 0,
+      "updated": 12,
+      "linked": 0,
+      "unlinked": 0
+    }
+  },
+  "appliedCopy": "work/issue-3/image-review/applied.sqlite",
+  "originalHistoricalCopy": "work/editorial-005/review.sqlite",
+  "productionRequiresFreshVersions": true,
+  "quota": "unknown",
+  "quotaReset": "unknown"
+}

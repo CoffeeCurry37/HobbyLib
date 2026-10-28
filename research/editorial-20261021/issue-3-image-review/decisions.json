@@ -1,0 +1,1206 @@
+[
+  {
+    "ordinal": 80,
+    "itemId": "family-bd1e9d29d163cfb06f93cbe07b7b0c30",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "75e2b7862166ce105060cfd30e2de7dd24e601b15b83210af3142fca98825a75",
+    "imageUrl": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg",
+    "imageRole": "catalogue_reference",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/200700002632/",
+      "https://www.kadokawa.co.jp/product/200700002943/",
+      "https://jp.mercari.com/shops/product/mrP7SaCHPn5D6CVnoegqNJ"
+    ],
+    "identityBasis": "catalogueGroup=true 保留，contains 为逻辑成员；不表示可购买的十册套装。",
+    "receiptPath": "research/editorial-20261021/batch-002-image-receipts.json",
+    "receiptOrdinal": 80,
+    "receipt": {
+      "ordinal": 80,
+      "id": "family-bd1e9d29d163cfb06f93cbe07b7b0c30",
+      "url": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg",
+      "at": "2026-10-23T06:09:52.682Z",
+      "ok": true,
+      "bytes": 67284,
+      "type": "image/jpeg",
+      "sha256": "7ad948d565345031f006dbd414d49ee44b560bf08996c0d4dbbe995675b7f76e",
+      "visualChecked": true
+    },
+    "identityDecision": null,
+    "explicitHistoricalVisualReceipt": true,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002632/",
+        "https://www.kadokawa.co.jp/product/200700002943/",
+        "https://jp.mercari.com/shops/product/mrP7SaCHPn5D6CVnoegqNJ"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate stay night アンソロジーコミック\",\"コミック\",\"书籍\",\"漫画选集系列目录\",\"commercial\",\"Fate/stay night\",\"\",\"Fate/stay night アンソロジーコミック\",\"\",\"set\",\"single\",\"Enterbrain「マジキューコミックス」《Fate/stay night》日文漫画选集的逻辑目录，按第1至第10卷组织独立单册。目录图采用第一卷的书影，各卷ISBN和挂牌分别保留。\",[\"Fate/stay night\",\"漫画选集\",\"エンターブレイン\",\"マジキューコミックス\",\"系列目录\"],[]]",
+      "imageUrl": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002632/",
+        "https://www.kadokawa.co.jp/product/200700002943/",
+        "https://jp.mercari.com/shops/product/mrP7SaCHPn5D6CVnoegqNJ"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate stay night アンソロジーコミック\",\"コミック\",\"书籍\",\"漫画选集系列目录\",\"commercial\",\"Fate/stay night\",\"\",\"Fate/stay night アンソロジーコミック\",\"\",\"set\",\"single\",\"Enterbrain「マジキューコミックス」《Fate/stay night》日文漫画选集的逻辑目录，按第1至第10卷组织独立单册。目录图采用第一卷的书影，各卷ISBN和挂牌分别保留。\",[\"Fate/stay night\",\"漫画选集\",\"エンターブレイン\",\"マジキューコミックス\",\"系列目录\"],[]]",
+      "imageUrl": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg"
+    },
+    "lifecycle": "preserved",
+    "unresolved": []
+  },
+  {
+    "ordinal": 81,
+    "itemId": "member-17vmdp9",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "f6a2c819157b208220ad9a64d6981d6af90b3bc5cd48f7af6a6ae50fe0e215a7",
+    "imageUrl": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/200700002632/",
+      "https://mottainaihonpo.com/shop/Item/bkui3105mblgqcfc"
+    ],
+    "identityBasis": "原始ISBN 9784757717954 与第1卷一一对应；保留日文标题、发布日期及原始description。Enterbrain/エンターブレイン统一为后者；移除重复品类与产品线自动标签，不添加角色或附件。零售按月出版时间不覆盖出版社精确发售日。",
+    "receiptPath": "research/editorial-20261021/batch-002-image-receipts.json",
+    "receiptOrdinal": 80,
+    "receipt": {
+      "ordinal": 80,
+      "id": "family-bd1e9d29d163cfb06f93cbe07b7b0c30",
+      "url": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg",
+      "at": "2026-10-23T06:09:52.682Z",
+      "ok": true,
+      "bytes": 67284,
+      "type": "image/jpeg",
+      "sha256": "7ad948d565345031f006dbd414d49ee44b560bf08996c0d4dbbe995675b7f76e",
+      "visualChecked": true
+    },
+    "identityDecision": null,
+    "explicitHistoricalVisualReceipt": true,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002632/",
+        "https://mottainaihonpo.com/shop/Item/bkui3105mblgqcfc"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/stay night アンソロジーコミック1\",\"コミック\",\"书籍\",\"漫画选集\",\"commercial\",\"Fate/stay night\",\"\",\"Fate/stay night アンソロジーコミック\",\"1\",\"base\",\"single\",\"Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第1卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。\",[\"Fate/stay night\",\"漫画选集\",\"エンターブレイン\",\"マジキューコミックス\"],[]]",
+      "imageUrl": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002632/",
+        "https://mottainaihonpo.com/shop/Item/bkui3105mblgqcfc"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/stay night アンソロジーコミック1\",\"コミック\",\"书籍\",\"漫画选集\",\"commercial\",\"Fate/stay night\",\"\",\"Fate/stay night アンソロジーコミック\",\"1\",\"base\",\"single\",\"Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第1卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。\",[\"Fate/stay night\",\"漫画选集\",\"エンターブレイン\",\"マジキューコミックス\"],[]]",
+      "imageUrl": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg"
+    },
+    "lifecycle": "preserved",
+    "unresolved": []
+  },
+  {
+    "ordinal": 484,
+    "itemId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "2318812e888d036a521be68b0b5088a20575070ab9d7908d2cae8220b6f01d62",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+    "imageRole": "catalogue_reference",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321405000240/",
+      "https://www.kadokawa.co.jp/product/321405000241/",
+      "https://www.kadokawa.co.jp/product/321408000209/",
+      "https://www.kadokawa.co.jp/product/321408000210/",
+      "https://www.kadokawa.co.jp/product/321502000137/"
+    ],
+    "identityBasis": "保留catalogueGroup，逻辑contains不代表物理套装；封面为原版第一卷参考图。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 486,
+    "receipt": {
+      "ordinal": 486,
+      "id": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "url": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+      "at": "2026-10-25T14:21:12.715Z",
+      "ok": true,
+      "bytes": 111764,
+      "type": "image/webp",
+      "sha256": "5770fb73881376e816b528541fd4eeda9b63b24478c2c8468fae675210878ff6",
+      "width": 682,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 486,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321405000240/",
+        "value": "9784041021279"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.kadokawa.co.jp/product/321502000137/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ\",\"小説\",\"书籍\",\"小说系列目录\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"\",\"set\",\"single\",\"桜井光著、中原绘制插画的《Fate/Prototype 蒼銀のフラグメンツ》原版单行本小说目录，共五卷，描写《Fate/Prototype》八年前的圣杯战争。此目录组织原版各卷和店铺记录，文库改版与鈴木ツタ漫画版分别编目。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"系列目录\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.kadokawa.co.jp/product/321502000137/"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ\",\"小説\",\"书籍\",\"小说系列目录\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"\",\"set\",\"single\",\"桜井光著、中原绘制插画的《Fate/Prototype 蒼銀のフラグメンツ》原版单行本小说目录，共五卷，描写《Fate/Prototype》八年前的圣杯战争。此目录组织原版各卷和店铺记录，文库改版与鈴木ツタ漫画版分别编目。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"系列目录\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "b2f7037ff23e438b320acb9458921a464565676cd7b673aff311a81357995c68"
+  },
+  {
+    "ordinal": 485,
+    "itemId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "6da7d01ca8d8ed8862e0b08b979f51570be29b38d3664e6473286a3bcafc16a7",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/322404/322404000993.webp",
+    "imageRole": "catalogue_reference",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/322404000993/",
+      "https://www.kadokawa.co.jp/product/322404000992/"
+    ],
+    "identityBasis": "原图是小说第4卷，替换为已核对的漫画第1卷通常版目录参考图；五条小说contains迁出后context成立。不将特装版和通常版合并。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 492,
+    "receipt": {
+      "ordinal": 492,
+      "id": "source-b6346a6e98aad1a268ad8b5a7280a750",
+      "url": "https://cdn.kdkw.jp/cover_1000/322404/322404000993.webp",
+      "at": "2026-10-25T14:21:13.116Z",
+      "ok": true,
+      "bytes": 103982,
+      "type": "image/webp",
+      "sha256": "0a0d08efdf4ec1d8791e39277b2c213e82fbb9ef41d92c319e7d12f103b11869",
+      "width": 704,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 492,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/322404000993/",
+        "value": "9784041152669"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/322404000993/",
+        "https://www.kadokawa.co.jp/product/322404000992/"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ\",\"コミック\",\"书籍\",\"漫画系列目录\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ 漫画版\",\"\",\"set\",\"single\",\"鈴木ツタ改编《Fate/Prototype 蒼銀のフラグメンツ》小说的漫画版目录，以沙条爱歌与Saber参与的圣杯战争为故事背景。第一卷通常版与附亚克力立牌的特装版分别保留，原版小说各卷移入小说目录。\",[\"Fate/Prototype\",\"漫画\",\"KADOKAWA\",\"鈴木ツタ\",\"系列目录\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/322404/322404000993.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/322404000993/",
+        "https://www.kadokawa.co.jp/product/322404000992/"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ\",\"コミック\",\"书籍\",\"漫画系列目录\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ 漫画版\",\"\",\"set\",\"single\",\"鈴木ツタ改编《Fate/Prototype 蒼銀のフラグメンツ》小说的漫画版目录，以沙条爱歌与Saber参与的圣杯战争为故事背景。第一卷通常版与附亚克力立牌的特装版分别保留，原版小说各卷移入小说目录。\",[\"Fate/Prototype\",\"漫画\",\"KADOKAWA\",\"鈴木ツタ\",\"系列目录\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/322404/322404000993.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "e129a7a5236c793bd2200c5d016a38f8dc75d1e7452d6c1a95b3cdedea898540"
+  },
+  {
+    "ordinal": 486,
+    "itemId": "source-9447610c42728f7b86ee5d52ba4486ca",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "c374b09dedd96fe3784a200d9db54fc120b9565be9848acc4d5e5b89cf08b24f",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321405000240/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+    ],
+    "identityBasis": "第1卷ISBN 9784041021279 与骏河屋 2M2990逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。 移动逻辑父级 #485→#484 后本批 context 才成立。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 486,
+    "receipt": {
+      "ordinal": 486,
+      "id": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "url": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+      "at": "2026-10-25T14:21:12.715Z",
+      "ok": true,
+      "bytes": 111764,
+      "type": "image/webp",
+      "sha256": "5770fb73881376e816b528541fd4eeda9b63b24478c2c8468fae675210878ff6",
+      "width": 682,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 486,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321405000240/",
+        "value": "9784041021279"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (1)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"1\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第1卷。以1991年的圣杯战争为起点，描写沙条爱歌与Saber的契约，以及年幼的绫香所见的姐姐。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"沙条愛歌\",\"沙条綾香\",\"セイバー\"],[\"沙条愛歌\",\"沙条綾香\",\"セイバー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (1)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"1\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第1卷。以1991年的圣杯战争为起点，描写沙条爱歌与Saber的契约，以及年幼的绫香所见的姐姐。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"沙条愛歌\",\"沙条綾香\",\"セイバー\"],[\"沙条愛歌\",\"沙条綾香\",\"セイバー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "825e38f676699a8197dc91138af11b009162a9447c0c5851bd17a5be58211b05"
+  },
+  {
+    "ordinal": 487,
+    "itemId": "source-ad7c3d833749fffd927ae606c8a14513",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "971f34d170ffdee67399d47b1966b30f02517a323b799e1e6dbd50a56f849c3c",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321405000241/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+    ],
+    "identityBasis": "第2卷ISBN 9784041021286 与骏河屋 2M2991逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。 移动逻辑父级 #485→#484 后本批 context 才成立。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 487,
+    "receipt": {
+      "ordinal": 487,
+      "id": "source-ad7c3d833749fffd927ae606c8a14513",
+      "url": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp",
+      "at": "2026-10-25T14:21:12.788Z",
+      "ok": true,
+      "bytes": 93378,
+      "type": "image/webp",
+      "sha256": "8847d508edd6b8a42a086841a1900783c1d1183b9029879b52bbe8fa27d310c6",
+      "width": 688,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 487,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321405000241/",
+        "value": "9784041021286"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (2)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"2\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第2卷。延续《Fate/Prototype》的前日谭，以交错的阵营心愿推进圣杯战争；本卷官方介绍明确收录中原绘制的全彩插画。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (2)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"2\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第2卷。延续《Fate/Prototype》的前日谭，以交错的阵营心愿推进圣杯战争；本卷官方介绍明确收录中原绘制的全彩插画。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "e0cc25fde6e8dbf00833f4204a29973159aaf20d96bd264e176ece31e76c7355"
+  },
+  {
+    "ordinal": 488,
+    "itemId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "bf5be73c00bfb6e7999106bf6ab9eb92b197dca3a6798f3040a95ada6e09db62",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321408000209/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+    ],
+    "identityBasis": "第3卷ISBN 9784041024522 与骏河屋 2M3447逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。 移动逻辑父级 #485→#484 后本批 context 才成立。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 488,
+    "receipt": {
+      "ordinal": 488,
+      "id": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "url": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp",
+      "at": "2026-10-25T14:21:12.800Z",
+      "ok": true,
+      "bytes": 85910,
+      "type": "image/webp",
+      "sha256": "82105c88aa78e411abc23cda6394a46f11a5670aa3727021399c04ccd9a7925b",
+      "width": 685,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 488,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321408000209/",
+        "value": "9784041024522"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (3)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"3\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第3卷。围绕Assassin的自我矛盾、曾统治世界的Rider，以及试图阻止圣杯战争的Berserker，展开不同从者的参战立场。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"アサシン\",\"ライダー\",\"バーサーカー\"],[\"アサシン\",\"ライダー\",\"バーサーカー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (3)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"3\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第3卷。围绕Assassin的自我矛盾、曾统治世界的Rider，以及试图阻止圣杯战争的Berserker，展开不同从者的参战立场。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"アサシン\",\"ライダー\",\"バーサーカー\"],[\"アサシン\",\"ライダー\",\"バーサーカー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "a01b807fd1d060f12a4492e5559000fdbdbcd5fd88c595e512ecf737659d36d2"
+  },
+  {
+    "ordinal": 489,
+    "itemId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "71a04b84b7043e4bf8c89d7639ff49d23a75d217a6d10c77488055869a662268",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321408000210/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+    ],
+    "identityBasis": "第4卷ISBN 9784041024539 与骏河屋 2M4603逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。 移动逻辑父级 #485→#484 后本批 context 才成立。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 489,
+    "receipt": {
+      "ordinal": 489,
+      "id": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "url": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp",
+      "at": "2026-10-25T14:21:12.872Z",
+      "ok": true,
+      "bytes": 102782,
+      "type": "image/webp",
+      "sha256": "d9b84e6ded4a58da901bd7dc503b99af4ff363290043838f55869a286df55cb4",
+      "width": 683,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 489,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321408000210/",
+        "value": "9784041024539"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (4)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"4\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第4卷。聚焦Archer与御主エルザ・西条的共同作战，以及Lancer受ナイジェル・セイワード灵药支配的困境。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"アーチャー\",\"エルザ・西条\",\"ランサー\",\"ナイジェル・セイワード\"],[\"アーチャー\",\"エルザ・西条\",\"ランサー\",\"ナイジェル・セイワード\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (4)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"4\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第4卷。聚焦Archer与御主エルザ・西条的共同作战，以及Lancer受ナイジェル・セイワード灵药支配的困境。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"アーチャー\",\"エルザ・西条\",\"ランサー\",\"ナイジェル・セイワード\"],[\"アーチャー\",\"エルザ・西条\",\"ランサー\",\"ナイジェル・セイワード\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "371e1459f67fb1e31c22bdb9149e6140422c1610dbbf9efacde521e514ed1c38"
+  },
+  {
+    "ordinal": 490,
+    "itemId": "source-c2b2e148b7681b82c96330739b270d70",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "8322201b848053dcc147fce78e3480c865722ac22520b223a2edb568c4160588",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321502000137/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+    ],
+    "identityBasis": "第5卷ISBN 9784041031445 与骏河屋 2M5568逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。店铺旧发售日2017-03-10与官方2017-04-26不同，Item采用官方日，Offer旧日期保留。 移动逻辑父级 #485→#484 后本批 context 才成立。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 490,
+    "receipt": {
+      "ordinal": 490,
+      "id": "source-c2b2e148b7681b82c96330739b270d70",
+      "url": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp",
+      "at": "2026-10-25T14:21:12.921Z",
+      "ok": true,
+      "bytes": 93802,
+      "type": "image/webp",
+      "sha256": "9f6582c64dd8f37d4a52cb67522edf2b07eb9693e026a8eb101333fd0b930132",
+      "width": 681,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 490,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321502000137/",
+        "value": "9784041031445"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321502000137/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (5)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"5\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第5卷。五卷原版小说的完结卷，围绕沙条爱歌的愿望与Saber推进圣杯战争的最终局面。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"沙条愛歌\",\"セイバー\"],[\"沙条愛歌\",\"セイバー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321502000137/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ (5)\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"5\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第5卷。五卷原版小说的完结卷，围绕沙条爱歌的愿望与Saber推进圣杯战争的最终局面。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"沙条愛歌\",\"セイバー\"],[\"沙条愛歌\",\"セイバー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "55397ff34b5921a636f48bb89a2dd242c663ed514351b333f5fe8d97d7796b01"
+  },
+  {
+    "ordinal": 496,
+    "itemId": "21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "04f56edabb5e066b6c835900ba1a41aca9f7aeb929667efdc26d405190f7f820",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321405000240/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+    ],
+    "identityBasis": "第1卷ISBN 9784041021279 与骏河屋 2M2990逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 486,
+    "receipt": {
+      "ordinal": 486,
+      "id": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "url": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+      "at": "2026-10-25T14:21:12.715Z",
+      "ok": true,
+      "bytes": 111764,
+      "type": "image/webp",
+      "sha256": "5770fb73881376e816b528541fd4eeda9b63b24478c2c8468fae675210878ff6",
+      "width": 682,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 486,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321405000240/",
+        "value": "9784041021279"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(1) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"1\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第1卷。以1991年的圣杯战争为起点，描写沙条爱歌与Saber的契约，以及年幼的绫香所见的姐姐。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"沙条愛歌\",\"沙条綾香\",\"セイバー\"],[\"沙条愛歌\",\"沙条綾香\",\"セイバー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(1) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"1\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第1卷。以1991年的圣杯战争为起点，描写沙条爱歌与Saber的契约，以及年幼的绫香所见的姐姐。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"沙条愛歌\",\"沙条綾香\",\"セイバー\"],[\"沙条愛歌\",\"沙条綾香\",\"セイバー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "7e53388abb5d1d93c3b4129ca3e562cf439f28e3b60cf7ee7df5c09259e0be66"
+  },
+  {
+    "ordinal": 497,
+    "itemId": "bab8701d-a249-4022-91c9-625d79a100ff",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "6d1fdd85622a951b84c905976f5dbca0fbe07fa70be002ea96fe82641192313a",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321405000241/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+    ],
+    "identityBasis": "第2卷ISBN 9784041021286 与骏河屋 2M2991逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 487,
+    "receipt": {
+      "ordinal": 487,
+      "id": "source-ad7c3d833749fffd927ae606c8a14513",
+      "url": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp",
+      "at": "2026-10-25T14:21:12.788Z",
+      "ok": true,
+      "bytes": 93378,
+      "type": "image/webp",
+      "sha256": "8847d508edd6b8a42a086841a1900783c1d1183b9029879b52bbe8fa27d310c6",
+      "width": 688,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 487,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321405000241/",
+        "value": "9784041021286"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(2) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"2\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第2卷。延续《Fate/Prototype》的前日谭，以交错的阵营心愿推进圣杯战争；本卷官方介绍明确收录中原绘制的全彩插画。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(2) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"2\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第2卷。延续《Fate/Prototype》的前日谭，以交错的阵营心愿推进圣杯战争；本卷官方介绍明确收录中原绘制的全彩插画。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\"],[]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "61fe2a772afa5d61178c3ccf91e105db84b21186a72ce9eaebb0fd56858609e5"
+  },
+  {
+    "ordinal": 498,
+    "itemId": "cdab3ad1-68d4-419c-a12c-b3399e72274d",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "9079cfb4c5f4007c4dc059ffd4ccc71e5f91c73d995350132029cacd210c660a",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321408000209/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+    ],
+    "identityBasis": "第3卷ISBN 9784041024522 与骏河屋 2M3447逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 488,
+    "receipt": {
+      "ordinal": 488,
+      "id": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "url": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp",
+      "at": "2026-10-25T14:21:12.800Z",
+      "ok": true,
+      "bytes": 85910,
+      "type": "image/webp",
+      "sha256": "82105c88aa78e411abc23cda6394a46f11a5670aa3727021399c04ccd9a7925b",
+      "width": 685,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 488,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321408000209/",
+        "value": "9784041024522"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(3) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"3\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第3卷。围绕Assassin的自我矛盾、曾统治世界的Rider，以及试图阻止圣杯战争的Berserker，展开不同从者的参战立场。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"アサシン\",\"ライダー\",\"バーサーカー\"],[\"アサシン\",\"ライダー\",\"バーサーカー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(3) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"3\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第3卷。围绕Assassin的自我矛盾、曾统治世界的Rider，以及试图阻止圣杯战争的Berserker，展开不同从者的参战立场。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"アサシン\",\"ライダー\",\"バーサーカー\"],[\"アサシン\",\"ライダー\",\"バーサーカー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "fc8666d8287d30edbf4320dbab45d383983b24692827ed5696f59a04b73c3f3a"
+  },
+  {
+    "ordinal": 499,
+    "itemId": "2a92ea72-5340-403c-9bc1-71420ee63f9e",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "0db8955be36d8da4917684811fd70af537a00c9cdf04e08ebbb22b59953d97cd",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321408000210/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+    ],
+    "identityBasis": "第4卷ISBN 9784041024539 与骏河屋 2M4603逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 489,
+    "receipt": {
+      "ordinal": 489,
+      "id": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "url": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp",
+      "at": "2026-10-25T14:21:12.872Z",
+      "ok": true,
+      "bytes": 102782,
+      "type": "image/webp",
+      "sha256": "d9b84e6ded4a58da901bd7dc503b99af4ff363290043838f55869a286df55cb4",
+      "width": 683,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 489,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321408000210/",
+        "value": "9784041024539"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(4) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"4\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第4卷。聚焦Archer与御主エルザ・西条的共同作战，以及Lancer受ナイジェル・セイワード灵药支配的困境。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"アーチャー\",\"エルザ・西条\",\"ランサー\",\"ナイジェル・セイワード\"],[\"アーチャー\",\"エルザ・西条\",\"ランサー\",\"ナイジェル・セイワード\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(4) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"4\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第4卷。聚焦Archer与御主エルザ・西条的共同作战，以及Lancer受ナイジェル・セイワード灵药支配的困境。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"アーチャー\",\"エルザ・西条\",\"ランサー\",\"ナイジェル・セイワード\"],[\"アーチャー\",\"エルザ・西条\",\"ランサー\",\"ナイジェル・セイワード\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "3e60a7014cc9f46bd2112fb27bec0d306d277ff206c122ad94cf8a5bf8691129"
+  },
+  {
+    "ordinal": 500,
+    "itemId": "6cd1e115-1669-450d-b042-be02c96cacb6",
+    "scope": "isolated post-005/006 target; fresh production version still required",
+    "expectedVersion": "6d9fe8ac851e3648d3bfe01d075ff2e6ac993d6ccb0607256cd2d7884dc6e18f",
+    "imageUrl": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp",
+    "imageRole": "product",
+    "sourceUrls": [
+      "https://www.kadokawa.co.jp/product/321502000137/",
+      "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+    ],
+    "identityBasis": "第5卷ISBN 9784041031445 与骏河屋 2M5568逐项对应。出版社页导航标“コミックス”，正文明确スピンオフノベル；归入小説。保留不同店铺Item，不合并。店铺旧发售日2017-03-10与官方2017-04-26不同，Item采用官方日，Offer旧日期保留。",
+    "receiptPath": "research/editorial-20261021/batch-004/image-checks.json",
+    "receiptOrdinal": 490,
+    "receipt": {
+      "ordinal": 490,
+      "id": "source-c2b2e148b7681b82c96330739b270d70",
+      "url": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp",
+      "at": "2026-10-25T14:21:12.921Z",
+      "ok": true,
+      "bytes": 93802,
+      "type": "image/webp",
+      "sha256": "9f6582c64dd8f37d4a52cb67522edf2b07eb9693e026a8eb101333fd0b930132",
+      "width": 681,
+      "height": 1000
+    },
+    "identityDecision": {
+      "ordinal": 490,
+      "match": {
+        "by": "isbn",
+        "url": "https://www.kadokawa.co.jp/product/321502000137/",
+        "value": "9784041031445"
+      },
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      }
+    },
+    "explicitHistoricalVisualReceipt": false,
+    "before": {
+      "campaign": "non-doujin-20261021",
+      "status": "verified",
+      "at": "2026-10-27T06:10:02.352Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321502000137/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+      ],
+      "unresolved": [],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(5) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"5\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第5卷。五卷原版小说的完结卷，围绕沙条爱歌的愿望与Saber推进圣杯战争的最终局面。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"沙条愛歌\",\"セイバー\"],[\"沙条愛歌\",\"セイバー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp"
+    },
+    "after": {
+      "campaign": "non-doujin-20261021",
+      "status": "partial",
+      "at": "2026-10-28T00:23:42.327Z",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321502000137/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+      ],
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ(5) / 桜井光\",\"小説\",\"书籍\",\"小说\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"5\",\"base\",\"single\",\"桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第5卷。五卷原版小说的完结卷，围绕沙条爱歌的愿望与Saber推进圣杯战争的最终局面。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"前传\",\"沙条愛歌\",\"セイバー\"],[\"沙条愛歌\",\"セイバー\"]]",
+      "imageUrl": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp"
+    },
+    "lifecycle": "prepared",
+    "unresolved": [
+      "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+    ],
+    "afterVersion": "0b0be7f3d62241429da990c231e4bc4570085a57c4d4def1f52e49df0fbc834d"
+  }
+]
