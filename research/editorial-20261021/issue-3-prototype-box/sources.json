@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://www.suruga-ya.jp/product/detail/2Y1040",
+    "checkedAt": "2026-10-28T00:22:00Z",
+    "method": "web tool open; product detail body",
+    "facts": [
+      "书籍全5卷中古套装，商品号2Y1040。",
+      "原标题及正文未承诺随附收纳盒，不能由此写成确定缺盒。",
+      "店铺标注2017/03/10和角川文庫，但该日期早于出版社原版第5卷发售，标签不能推定文库改版。"
+    ]
+  },
+  {
+    "url": "https://www.suruga-ya.jp/product/detail/2Y1252",
+    "checkedAt": "2026-10-28T00:22:00Z",
+    "method": "web tool open; product detail remarks",
+    "facts": [
+      "书籍全5卷套装，原标题明确収納BOX付，商品号2Y1252。",
+      "正文明确ComptiQ×Animate全卷购买活动特典收纳盒。",
+      "不是广播剧CD全卷套装；不能借用CD版BOX的图样或其他附件信息。"
+    ]
+  },
+  {
+    "url": "https://www.suruga-ya.jp/product/detail/608516830?tenpo_cd=400476",
+    "checkedAt": "2026-10-28T00:28:00Z",
+    "method": "web tool open; seller product detail body",
+    "facts": [
+      "608516830为小说Animate全卷购买特典收纳盒的独立商品号。",
+      "店铺标制造方アニメイト/角川書店，盒体单独出售不含书籍和其他特典。",
+      "未组装展开尺寸约高29.5×宽26厘米。",
+      "与2Y1252所附盒的视觉对应尚未完成，拟议组件边仍待验收。"
+    ]
+  },
+  {
+    "url": "https://www.kadokawa.co.jp/product/321502000137/",
+    "checkedAt": "2026-10-28T00:22:00Z",
+    "method": "publisher product body, ISBN/format/date",
+    "facts": [
+      "ISBN9784041031445对应原版小说第5卷，不是五卷套装的独立ISBN。",
+      "出版社标2017-04-26，四六变形开本328页；不能以导航コミックス或店铺文库标签改变媒介。",
+      "当前文本工具的图片链接指向noimage占位图，不算新封面核实。"
+    ]
+  },
+  {
+    "url": "https://www.aniplex.co.jp/lineup/fate-pt-sougin/news/detail/?id=52162",
+    "checkedAt": "2026-10-28T00:22:00Z",
+    "method": "official search result; exclusion evidence only",
+    "facts": [
+      "这是Drama CD & Original Soundtrack全卷购买BOX公告，媒介不同；本计划不引用其附件、图案、日期作为小说BOX事实。"
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 # 当前执行入口：Issue #3
 
-更新时间：2026-10-28 00:25 UTC（America/Chicago 10月27日19:25）。执行依据：[Issue #3](https://github.com/CoffeeCurry37/HobbyLib/issues/3)。历史接续文档中的“等待生产批准”和“从 #91 开始”不能替代本页顺序。
+更新时间：2026-10-28 00:32 UTC（America/Chicago 10月27日19:32）。执行依据：[Issue #3](https://github.com/CoffeeCurry37/HobbyLib/issues/3)。历史接续文档中的“等待生产批准”和“从 #91 开始”不能替代本页顺序。
 
 - 分支 `feat/explainable-identity`，开始 head `104269b75d85696a0933a621d6738bd00e0c242e`；PR #2 已按 Issue #3 的条件授权合并，合并 SHA `14a3f2e9758e6020fbf844fc062e74d27457ab78`；工作分支已切为 `main`。修复检查点 `02a10c7` / `ea7c167` 保留。
 - Sites 已发布 **65**，source `271d287c534bf3a93cc53d8727b6f6f0eafd6917`，deployment `appgdep_6ae13f49c2ac81919a31d77ee9108166` succeeded。原 project/D1 DB/custom 权限不变。完整映射见 reports/issue-3/release.json。旧候选 `7a95d3bb` 不得复用。
@@ -27,3 +27,7 @@
 - 下一命令：`cat docs/reports/issue-3/release.json`，然后检查 cloud_environment.environment_status 的有效允许列表。放行后取完整32目标、catalogMeta（含偏好/全图）与紧凑投影，重新生成动作；未放行期间继续历史图片凭证及只读资料整理。
 
 每阶段更新本页以及 IDENTITY-HANDOFF.md、研究 RESUME.md；保存测试命令/结果、真实生产回执、当前提交及下一条命令。约 15–20 分钟或一个自然组内形成可审阅检查点并推送已验证内容。
+
+## 只读风险组后续
+
+#495的普通/附BOX混合已形成独立3Item方案并在完整副本SQL演练/精确回滚；见 research/editorial-20261021/issue-3-prototype-box/。不在固定32条的Offer迁移授权内，不发送生产。下一只读自然组：#94 KADOKAWA小说目录、#106/#111–114五个推定成员及来源#107；先核对套装的实际版本，不能凭裸标题填ISBN。

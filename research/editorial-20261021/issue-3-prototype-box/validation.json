@@ -1,0 +1,40 @@
+{
+  "pass": true,
+  "scope": "full isolated snapshot; SQL transaction rehearsal, not production API",
+  "at": "2026-10-28T00:30:36.065Z",
+  "before": {
+    "items": 43569,
+    "archives": 8549,
+    "offers": 47433
+  },
+  "after": {
+    "items": 43571,
+    "archives": 8549,
+    "offers": 47433
+  },
+  "sourceItemsChanged": 1,
+  "unrelatedOriginalItemsPreserved": 43568,
+  "newItems": 2,
+  "movedOffers": 1,
+  "totalOffersAndHistoriesPreserved": true,
+  "duplicateSameIdOffersPreserved": true,
+  "personalAndManualFieldsPreserved": true,
+  "newItemOwnershipUnknown": true,
+  "archivesPreserved": true,
+  "originalOrdinalsHash": "adddae32e1bd39167cd52b8466bbce89bb4afefe0955b0564c765985408fd6a4",
+  "relationsBefore": 1835,
+  "relationsAfter": 1841,
+  "relationIntegrity": true,
+  "staleApplyRejected": true,
+  "concurrentNotePreserved": true,
+  "staleRollbackRejected": true,
+  "rollbackExactRowsIncludingUpdatedAt": true,
+  "beforeAndRolledBackHash": "c1150ab4ad73268168b2328b94c9d662d864ba4d2ccd16966b17ab3577b2df2b",
+  "productionApplied": 0,
+  "verifiedDelta": 0,
+  "partial": 3,
+  "notApprovedForProduction": true,
+  "productionReady": false,
+  "quota": "unknown",
+  "quotaReset": "unknown"
+}

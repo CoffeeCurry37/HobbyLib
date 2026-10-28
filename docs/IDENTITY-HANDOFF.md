@@ -119,3 +119,7 @@ Item 与整个关联图均在同一提交中校验；失败保持原数据。com
 ## Issue #3 阶段 3 浏览器门禁（2026-10-27 14:35 UTC）
 
 阶段 1–2 提交 02a10c7 已推送。真实 Chromium 在隔离完整副本上发现并修复详情过期版本400、冲突后缺少重新读取入口及移动表单溢出。五项实际浏览器操作现全部通过；9/9 新API回归、原目录及三项验收、类型检查、两种构建通过。截图私存 work/issue-3/browser-hiy67Q，公开报告 docs/reports/issue-3/browser-qa.json；外站图片网络受限，不将UI验收当图片身份核实。Sites远端重新核实仍6357bd5/64/custom，未写生产。下一步核对GitHub远端并按Issue3条件授权合并/发布；禁止旧7a95d3bb候选。业务计数和001–004禁重放不变，额度不可见。
+
+## #495 自然风险组（2026-10-28 00:32 UTC）
+
+证实2Y1252附ComptiQ×Animate小说全卷活动BOX，2Y1040未承诺附盒；独立组件号608516830，不能混用CD版特典。完整方案及逐字段before/after见research/editorial-20261021/issue-3-prototype-box/。完整副本SQL事务演练已通过：保留原#495、拟新增拼套及盒体2Item、迁移1条完整Offer、拟增6边，全部47,433报价历史保留；并发与过期回滚拒绝，正常回滚恢复原始行和图。prepared3/isolatedApplied3/production0/verifiedDelta0/partial3，和固定32条有1件重叠，不能简单相加。现有API缺完整split/undo，盒体视觉对应待查；本方案未获生产授权。下一独立只读自然组#94小说目录及其5个推定成员，先核对#107来源确定原版/文库。额度不可见。

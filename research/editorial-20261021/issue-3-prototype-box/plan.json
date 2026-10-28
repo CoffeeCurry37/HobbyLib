@@ -1,0 +1,439 @@
+{
+  "format": "isolated-split-proposal-v1",
+  "at": "2026-10-28T00:30:36.065Z",
+  "status": "prepared; not approved for production",
+  "basis": "post-005/006 plus conservative image revalidation in complete local snapshot; fresh production read required",
+  "itemChanges": [
+    {
+      "ordinal": 495,
+      "itemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "expectedVersion": "35a004a04a7f5caad5d317d0c030755a46982515288446cba22012c5175fbfed",
+      "before": {
+        "title": "Fate/Prototype 蒼銀のフラグメンツ 全5巻セット / 桜井光",
+        "description": "全5巻セット",
+        "summary": "《Fate/Prototype 蒼銀のフラグメンツ》原版小说五卷的中古合售记录。现存挂牌包含普通五卷套装与标明附収納BOX的另一款，收纳盒是否随附须以各条挂牌为准。",
+        "majorClass": "书籍",
+        "category": "小説",
+        "kind": "set",
+        "saleForm": "seller_lot",
+        "productType": "小说卖家套装",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "wave": "1–5",
+        "member": "原版第1–5卷合售",
+        "isbn": "",
+        "jan": "",
+        "publisher": "KADOKAWA",
+        "manufacturer": "",
+        "releaseDate": "2017-03-10",
+        "year": "2017",
+        "msrp": 7044,
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "卖家拼套"
+        ],
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/2y1040.jpg.webp",
+        "imageRole": "catalogue_reference",
+        "editorial": {
+          "campaign": "non-doujin-20261021",
+          "status": "partial",
+          "at": "2026-10-27T06:10:02.352Z",
+          "sources": [
+            "https://www.suruga-ya.jp/kaitori/kaitori_detail/2Y1040",
+            "https://www.suruga-ya.jp/kaitori/kaitori_detail/2Y1252",
+            "https://www.kadokawa.co.jp/product/321502000137/"
+          ],
+          "unresolved": [
+            "同一Item存在普通套装与収納BOX付两类挂牌，需后续带报价迁移回执的拆分决定；本批不挪动或删除报价。",
+            "套装参考图尚未视觉核验。"
+          ],
+          "checks": {
+            "classification": true,
+            "context": false,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ 全5巻セット / 桜井光\",\"小説\",\"书籍\",\"小说卖家套装\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"1–5\",\"set\",\"seller_lot\",\"《Fate/Prototype 蒼銀のフラグメンツ》原版小说五卷的中古合售记录。现存挂牌包含普通五卷套装与标明附収納BOX的另一款，收纳盒是否随附须以各条挂牌为准。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"卖家拼套\"],[]]",
+          "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/2y1040.jpg.webp"
+        }
+      },
+      "after": {
+        "title": "Fate/Prototype 蒼銀のフラグメンツ 全5巻セット / 桜井光",
+        "description": "全5巻セット",
+        "summary": "桜井光著、中原绘制插画的《Fate/Prototype 苍银的碎片》原版小说第1—5卷中古合售。此条对应骏河屋2Y1040，挂牌未承诺附收纳盒；带全卷购买特典收纳盒的合售另行记录。",
+        "majorClass": "书籍",
+        "category": "小説",
+        "kind": "set",
+        "saleForm": "seller_lot",
+        "productType": "小说卖家套装",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "wave": "1–5",
+        "member": "原版第1–5卷合售",
+        "isbn": "",
+        "jan": "",
+        "publisher": "KADOKAWA",
+        "manufacturer": "",
+        "releaseDate": "",
+        "year": "",
+        "msrp": null,
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "卖家拼套"
+        ],
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/2y1040.jpg.webp",
+        "imageRole": "catalogue_reference",
+        "editorial": {
+          "campaign": "non-doujin-20261021",
+          "status": "partial",
+          "at": "2026-10-28T00:30:36.065Z",
+          "sources": [
+            "https://www.suruga-ya.jp/product/detail/2Y1040",
+            "https://www.kadokawa.co.jp/product/321502000137/"
+          ],
+          "unresolved": [
+            "普通拼套图片尚未视觉核验；源挂牌没有承诺附盒，不把未注明误写为确定缺盒。",
+            "店铺拼套日期2017-03-10早于出版社第5卷2017-04-26，不能作原厂套装发行日期；套装无独立已核实发行日或定价。"
+          ],
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ 全5巻セット / 桜井光\",\"小説\",\"书籍\",\"小说卖家套装\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"1–5\",\"set\",\"seller_lot\",\"桜井光著、中原绘制插画的《Fate/Prototype 苍银的碎片》原版小说第1—5卷中古合售。此条对应骏河屋2Y1040，挂牌未承诺附收纳盒；带全卷购买特典收纳盒的合售另行记录。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"卖家拼套\"],[]]",
+          "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/2y1040.jpg.webp"
+        }
+      },
+      "sourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/2Y1040",
+        "https://www.suruga-ya.jp/product/detail/2Y1252"
+      ],
+      "identityBasis": "2Y1040未承诺附盒，2Y1252明确另一套装发售内容；保留#495及其原标题",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "普通拼套图片尚未视觉核验；源挂牌没有承诺附盒，不把未注明误写为确定缺盒。",
+        "店铺拼套日期2017-03-10早于出版社第5卷2017-04-26，不能作原厂套装发行日期；套装无独立已核实发行日或定价。"
+      ]
+    },
+    {
+      "ordinal": null,
+      "itemId": "planned-split-a2a6d5bfd675c587bb76b8d954d1cb84",
+      "expectedAbsent": true,
+      "before": null,
+      "after": {
+        "title": "Fate/Prototype 蒼銀のフラグメンツ 全5巻セット 収納BOX付 / 桜井光",
+        "description": "全5巻セット／コンプティーク×アニメイト 全巻購入キャンペーン特典収納BOX付",
+        "summary": "《Fate/Prototype 苍银的碎片》原版小说全五卷与收纳盒的中古合售，对应骏河屋2Y1252。店铺注明附ComptiQ×Animate全卷购买活动特典收纳盒；这是书籍合售，与广播剧CD及其收纳盒分别记录。",
+        "majorClass": "书籍",
+        "category": "小説",
+        "kind": "set",
+        "saleForm": "seller_lot",
+        "setMode": "lot",
+        "productType": "附特典收纳盒的小说卖家拼套",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "wave": "1–5",
+        "member": "原版小说五卷＋全卷购买特典收纳盒",
+        "isbn": "",
+        "jan": "",
+        "publisher": "KADOKAWA",
+        "manufacturer": "",
+        "releaseDate": "",
+        "year": "",
+        "msrp": null,
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "卖家拼套",
+          "収納BOX付",
+          "アニメイト",
+          "コンプティーク"
+        ],
+        "image": "",
+        "imageRole": "lot_photo",
+        "editorial": {
+          "campaign": "non-doujin-20261021",
+          "status": "partial",
+          "at": "2026-10-28T00:30:36.065Z",
+          "sources": [
+            "https://www.suruga-ya.jp/product/detail/2Y1252",
+            "https://www.kadokawa.co.jp/product/321502000137/"
+          ],
+          "unresolved": [
+            "拼套及收纳盒图片尚未视觉核验。",
+            "随附收纳盒与独立商品608516830的外观对应仍需确认；拟议contains暂不视为已核实。"
+          ],
+          "checks": {
+            "classification": true,
+            "context": false,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "basis": "[\"Fate/Prototype 蒼銀のフラグメンツ 全5巻セット 収納BOX付 / 桜井光\",\"小説\",\"书籍\",\"附特典收纳盒的小说卖家拼套\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ\",\"1–5\",\"set\",\"seller_lot\",\"《Fate/Prototype 苍银的碎片》原版小说全五卷与收纳盒的中古合售，对应骏河屋2Y1252。店铺注明附ComptiQ×Animate全卷购买活动特典收纳盒；这是书籍合售，与广播剧CD及其收纳盒分别记录。\",[\"Fate/Prototype\",\"小说\",\"KADOKAWA\",\"桜井光\",\"中原\",\"卖家拼套\",\"収納BOX付\",\"アニメイト\",\"コンプティーク\"],[]]",
+          "imageUrl": ""
+        }
+      },
+      "sourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/2Y1252"
+      ],
+      "identityBasis": "仅接收原#495中URL精确为2Y1252的单条Offer，不新抓价，不归并另外两条同ID的2Y1040记录",
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "拼套及收纳盒图片尚未视觉核验。",
+        "随附收纳盒与独立商品608516830的外观对应仍需确认；拟议contains暂不视为已核实。"
+      ]
+    },
+    {
+      "ordinal": null,
+      "itemId": "planned-bonus-1431aeb89732f1ee5c99103cfe2d9397",
+      "expectedAbsent": true,
+      "before": null,
+      "after": {
+        "title": "集合 全巻収納BOX 「ライトノベル Fate/Prototype 蒼銀のフラグメンツ」 アニメイト全巻購入特典",
+        "description": "ライトノベル全巻購入特典の収納BOX。書籍及びその他特典は付属しない。",
+        "summary": "《Fate/Prototype 苍银的碎片》小说的Animate全卷购买特典收纳盒，骏河屋独立商品号608516830。店铺说明盒体单独出售时不含书籍或其他特典，展开尺寸约高29.5×宽26厘米；与广播剧CD的特典盒区分。",
+        "majorClass": "周边",
+        "category": "特典系収納BOX",
+        "kind": "bonus",
+        "saleForm": "single",
+        "productType": "小说全卷购买特典收纳盒",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ 小説全巻購入特典",
+        "member": "小说全卷购买特典收纳盒",
+        "isbn": "",
+        "jan": "",
+        "publisher": "",
+        "manufacturer": "アニメイト/角川書店",
+        "releaseDate": "",
+        "year": "",
+        "msrp": null,
+        "tags": [
+          "Fate/Prototype",
+          "收纳盒",
+          "全卷购买特典",
+          "アニメイト",
+          "角川書店"
+        ],
+        "image": "",
+        "imageRole": "product",
+        "editorial": {
+          "campaign": "non-doujin-20261021",
+          "status": "partial",
+          "at": "2026-10-28T00:30:36.065Z",
+          "sources": [
+            "https://www.suruga-ya.jp/product/detail/608516830?tenpo_cd=400476"
+          ],
+          "unresolved": [
+            "收纳盒缺已视觉核实的图片。",
+            "与2Y1252随附收纳盒的外观对应仍需确认。"
+          ],
+          "checks": {
+            "classification": true,
+            "context": false,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "basis": "[\"集合 全巻収納BOX 「ライトノベル Fate/Prototype 蒼銀のフラグメンツ」 アニメイト全巻購入特典\",\"特典系収納BOX\",\"周边\",\"小说全卷购买特典收纳盒\",\"commercial\",\"Fate/Prototype\",\"\",\"Fate/Prototype 蒼銀のフラグメンツ 小説全巻購入特典\",null,\"bonus\",\"single\",\"《Fate/Prototype 苍银的碎片》小说的Animate全卷购买特典收纳盒，骏河屋独立商品号608516830。店铺说明盒体单独出售时不含书籍或其他特典，展开尺寸约高29.5×宽26厘米；与广播剧CD的特典盒区分。\",[\"Fate/Prototype\",\"收纳盒\",\"全卷购买特典\",\"アニメイト\",\"角川書店\"],[]]",
+          "imageUrl": ""
+        }
+      },
+      "sourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/608516830?tenpo_cd=400476"
+      ],
+      "identityBasis": "608516830正文明确小说特典收纳盒；不混用广播剧CD全卷特典608871981",
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "收纳盒缺已视觉核实的图片。",
+        "与2Y1252随附收纳盒的外观对应仍需确认。"
+      ]
+    }
+  ],
+  "offerRouting": [
+    {
+      "fromItemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "fromIndex": 0,
+      "offerId": "surugaya:/product/detail/2Y1040:main",
+      "sourceUrl": "https://www.suruga-ya.jp/product/detail/2Y1040",
+      "fullRecordHash": "16fc8c5604311f0428abe4cfb8df2db1fd68c2172047c34afaaa17f5682b4dea",
+      "toItemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "historyUnchanged": true
+    },
+    {
+      "fromItemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "fromIndex": 1,
+      "offerId": "surugaya:/product/detail/2Y1040:main",
+      "sourceUrl": "https://www.suruga-ya.jp/product/detail/2Y1040",
+      "fullRecordHash": "9932a2a37409a24803407377748a99afeeeb0c27602d4f2a76c1703ef4f15458",
+      "toItemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "historyUnchanged": true
+    },
+    {
+      "fromItemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "fromIndex": 2,
+      "offerId": "surugaya:/product/detail/2Y1252:main",
+      "sourceUrl": "https://www.suruga-ya.jp/product/detail/2Y1252",
+      "fullRecordHash": "f73aaee12ecf7e802c5275a6554a87495f2c9b78c5c91f4ffba1f6d2126e0b75",
+      "toItemId": "planned-split-a2a6d5bfd675c587bb76b8d954d1cb84",
+      "historyUnchanged": true
+    }
+  ],
+  "relations": {
+    "expectedVersion": "08ef06a56adc6cb6784ef450b9f6b47dd856e38aefad2582bfe48c5c6200c5b5",
+    "preserveOriginalFive": [
+      {
+        "id": "set-member-1fdof4l",
+        "fromId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+        "toId": "2a92ea72-5340-403c-9bc1-71420ee63f9e",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "set-member-1s4b2q0",
+        "fromId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+        "toId": "21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "set-member-paj64q",
+        "fromId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+        "toId": "bab8701d-a249-4022-91c9-625d79a100ff",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "set-member-rqq83o",
+        "fromId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+        "toId": "cdab3ad1-68d4-419c-a12c-b3399e72274d",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "set-member-sj4nnz",
+        "fromId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+        "toId": "6cd1e115-1669-450d-b042-be02c96cacb6",
+        "kind": "contains",
+        "quantity": 1
+      }
+    ],
+    "add": [
+      {
+        "id": "planned-box-member-0",
+        "fromId": "planned-split-a2a6d5bfd675c587bb76b8d954d1cb84",
+        "toId": "2a92ea72-5340-403c-9bc1-71420ee63f9e",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "planned-box-member-1",
+        "fromId": "planned-split-a2a6d5bfd675c587bb76b8d954d1cb84",
+        "toId": "21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "planned-box-member-2",
+        "fromId": "planned-split-a2a6d5bfd675c587bb76b8d954d1cb84",
+        "toId": "bab8701d-a249-4022-91c9-625d79a100ff",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "planned-box-member-3",
+        "fromId": "planned-split-a2a6d5bfd675c587bb76b8d954d1cb84",
+        "toId": "cdab3ad1-68d4-419c-a12c-b3399e72274d",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "planned-box-member-4",
+        "fromId": "planned-split-a2a6d5bfd675c587bb76b8d954d1cb84",
+        "toId": "6cd1e115-1669-450d-b042-be02c96cacb6",
+        "kind": "contains",
+        "quantity": 1
+      },
+      {
+        "id": "planned-box-component",
+        "fromId": "planned-split-a2a6d5bfd675c587bb76b8d954d1cb84",
+        "toId": "planned-bonus-1431aeb89732f1ee5c99103cfe2d9397",
+        "kind": "contains",
+        "quantity": 1
+      }
+    ],
+    "tentativeBoxEdge": "planned-box-component",
+    "requireVisualConfirmationBeforeProduction": true
+  },
+  "preferencesFingerprint": "ec96faf35c3e35a846cf1b04265b39fdc1039fbf23713345e4bb1344c487c43d",
+  "guardedMemberVersions": [
+    {
+      "id": "2a92ea72-5340-403c-9bc1-71420ee63f9e",
+      "expectedVersion": "3e60a7014cc9f46bd2112fb27bec0d306d277ff206c122ad94cf8a5bf8691129"
+    },
+    {
+      "id": "21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+      "expectedVersion": "7e53388abb5d1d93c3b4129ca3e562cf439f28e3b60cf7ee7df5c09259e0be66"
+    },
+    {
+      "id": "bab8701d-a249-4022-91c9-625d79a100ff",
+      "expectedVersion": "61fe2a772afa5d61178c3ccf91e105db84b21186a72ce9eaebb0fd56858609e5"
+    },
+    {
+      "id": "cdab3ad1-68d4-419c-a12c-b3399e72274d",
+      "expectedVersion": "fc8666d8287d30edbf4320dbab45d383983b24692827ed5696f59a04b73c3f3a"
+    },
+    {
+      "id": "6cd1e115-1669-450d-b042-be02c96cacb6",
+      "expectedVersion": "0b0be7f3d62241429da990c231e4bc4570085a57c4d4def1f52e49df0fbc834d"
+    }
+  ],
+  "productionBlockers": [
+    "超出Issue3固定32条/五边的身份与Offer迁移授权，须单独验收。",
+    "缺新鲜完整生产目标，当前网络策略阻断网站。",
+    "盒体的实拍对应及新增商品图片待核对。",
+    "本次使用隔离SQL事务演练；现有公开API没有完整split/undo命令，未部署新接口。"
+  ],
+  "counts": {
+    "prepared": 3,
+    "isolatedApplied": 3,
+    "productionApplied": 0,
+    "verified": 0,
+    "partial": 3,
+    "newItems": 2,
+    "movedOffers": 1,
+    "newRelations": 6
+  }
+}

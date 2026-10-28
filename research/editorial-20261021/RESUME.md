@@ -104,3 +104,7 @@ Follow ../../docs/NEXT_TASK.md. Relation/prefs regressions fixed; 8/8 new API ca
 ## Issue #3 stage 3 — 2026-10-27 14:35 UTC
 
 Real Chromium QA now passed all five required flows, including stale edit 409/reload, review resolution retaining observations, and mobile390/320. Fixed the observed UI/API issues; fresh type/build checks passed. Code stage1–2 pushed as02a10c7; next head via git log. Native Sites head remains6357bd5/version64/custom. Follow NEXT_TASK for conditionally authorized merge/publication, then fetch fresh fixed32 targets; no new production application or verifiedDelta yet. Image rendering was network-limited locally; locate historical receipts before assigning verified. Quota/reset unavailable.
+
+## Prototype BOX risk group — 2026-10-28 00:32 UTC
+
+Read issue-3-prototype-box/README.md and plan.json. Exact evidence separates ordinary2Y1040, boxed2Y1252 and novel-campaign box608516830; CD box excluded. Full-copy guarded SQL simulation moved one preserved Offer, added2 planned Items/6 edges, retained47,433 Offers/history and all personal/archive/ordinal data; concurrent edits and stale rollback rejected, exact rollback passed. prepared3/isolatedApplied3/production0/verifiedDelta0/partial3, one overlaps fixed32. Not production-approved or API-ready. Private records work/issue-3/prototype-box-v2/. Next independent group#94 and five inferred novel members; resolve#107 source edition before assigning ISBNs. Site65 remains live; production fixed32 blocked by network config. Quota/resetunknown.
