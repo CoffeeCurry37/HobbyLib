@@ -32,7 +32,7 @@ export function sourceCategory(item:Pick<Item,'category'>&Partial<Pick<Item,'evi
   const score=(e:typeof a)=>e.field==='来源分类'?100:/^(?:グッズ|書籍|books?|goods)$/i.test(e.value)?1:5;
   return score(b)-score(a)||b.at.localeCompare(a.at);
  });
- const exactTag=(item.evidence||[]).filter(e=>e.field==='来源关键词').flatMap(e=>e.value.split('、')).concat((item.tags||[]).filter(t=>/^(?:book|comic|manga|novel)$/i.test(t))).find(t=>/^(?:book|comic|manga|novel|figure|toy|同人誌)$/i.test(t));
+ const exactTag=(item.evidence||[]).filter(e=>e.field==='来源关键词'&&/^https:\/\//.test(e.url)&&/商品结构化数据|商品区域/.test(e.method)).flatMap(e=>e.value.split('、')).find(t=>/^(?:book|comic|manga|novel|figure|toy|同人誌)$/i.test(t));
  const value=candidates[0]?.value||exactTag||item.category;
  return {value,type:categoryType(value),explicit:!!candidates.length||!!exactTag};
 }

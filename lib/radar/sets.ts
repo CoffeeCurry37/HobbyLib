@@ -55,7 +55,7 @@ export function inferSetMembers(state:State):{items:Item[];relations:Relation[];
    const r:Relation={id:'set-member-'+stableId(set.id+':'+item.id),fromId:set.id,toId:item.id,kind:'contains',quantity:1},key=relationKey(r);if(existing.has(key)||dismissed.has(key))continue;links.push(r);existing.add(key);
   }
  }
- for(const set of state.items){if(set.kind!=='set'||set.demo)continue;const range=setVolumes(set);if(!range||!range.line||!book(set))continue;const medium=bookMedium(set),pub=publisher(set);
+ for(const set of state.items){if(set.provisional||set.kind!=='set'||set.demo)continue;const range=setVolumes(set);if(!range||!range.line||!book(set))continue;const medium=bookMedium(set),pub=publisher(set);
   for(const volume of range.volumes){const key=normal(range.line)+':'+volume;const options=(index.get(key)||[]).filter(i=>(!pub||!publisher(i)||pub===publisher(i))&&(!medium||!bookMedium(i)||medium===bookMedium(i))&&edition(set)===edition(i));
    if(options.length>1){ambiguous++;continue;}let item=options[0];
    if(!item){const itemId='member-'+stableId([normal(range.line),pub,medium,edition(set),volume].join(':'));if(allIds.has(itemId)){ambiguous++;continue;}
@@ -69,11 +69,11 @@ export function inferSetMembers(state:State):{items:Item[];relations:Relation[];
 }
 function stableId(s:string){let h=2166136261;for(const c of s){h^=c.charCodeAt(0);h=Math.imul(h,16777619);}return (h>>>0).toString(36);}
 export function setMembers(set:Item,state:Pick<State,'items'|'relations'>){const byId=new Map(state.items.map(i=>[i.id,i]));return sortByNumber(state.relations.filter(r=>r.kind==='contains'&&r.fromId===set.id).flatMap(r=>byId.has(r.toId)?[{item:byId.get(r.toId)!,quantity:r.quantity}]:[]),r=>r.item);}
-export function ownershipSummary(set:Item,state:Pick<State,'items'|'relations'>){const members=setMembers(set,state);let owned=0,total=0,unmarked=0;for(const r of members){total+=r.quantity;owned+=r.item.ownership==='owned'?Math.min(r.quantity,Math.max(1,r.item.quantity)):0;if(r.item.ownership==='unknown')unmarked+=r.quantity;}const missing=total-owned;return {members,total,owned,missing,unmarked,status:total?owned===total?'owned':owned>0?'partial':'missing':set.ownership,label:total?owned===total?'全部拥有':owned>0?`部分拥有 ${owned}/${total}`:`未拥有 ${total} 件`:'成员待核对'};}
+export function ownershipSummary(set:Item,state:Pick<State,'items'|'relations'>){const members=setMembers(set,state);let owned=0,total=0,unmarked=0;for(const r of members){total+=r.quantity;owned+=r.item.ownership==='owned'?Math.min(r.quantity,Math.max(1,r.item.quantity)):0;if(r.item.ownership==='unknown')unmarked+=r.quantity;}const missing=total-owned-unmarked;return {members,total,owned,missing,unmarked,status:total?owned===total?'owned':owned>0?'partial':unmarked===total?'unknown':'missing':set.ownership,label:total?owned===total?'全部拥有':owned>0?`部分拥有 ${owned}/${total}`:`明确缺少 ${missing} 件；${unmarked} 件拥有状态未知`:'成员待核对'};}
 export function memberLots(item:Item,state:Pick<State,'items'|'relations'>){const parents=new Set(state.relations.filter(r=>r.kind==='contains'&&r.toId===item.id).map(r=>r.fromId));return state.items.filter(i=>parents.has(i.id)&&stockedLot(i));}
 export type PurchaseComparison={complete:boolean;individualTotal:number|null;bundlePrice:number|null;overlap:number;bundle:Offer|null;missing:{item:Item;needed:number;offer:Offer|null;price:number|null}[];scope:string};
 export function compareSet(set:Item,state:Pick<State,'items'|'relations'>):PurchaseComparison{
  const summary=ownershipSummary(set,state),missing=summary.members.filter(r=>r.item.ownership!=='owned'||Math.max(1,r.item.quantity)<r.quantity).map(r=>{const needed=r.quantity-(r.item.ownership==='owned'?Math.max(1,r.item.quantity):0),offer=availableOffers(r.item).filter(o=>o.priceKind==='ask'&&o.bonus!=='only').sort((a,b)=>a.price!-b.price!)[0]||null;return {item:r.item,needed,offer,price:offer?offer.price!*needed:null};});
- const complete=summary.total>0&&missing.every(r=>r.offer),bundle=availableOffers(set).filter(o=>o.priceKind==='ask').sort((a,b)=>a.price!-b.price!)[0]||null;
+ const complete=summary.total>0&&summary.unmarked===0&&missing.every(r=>r.offer),bundle=availableOffers(set).filter(o=>o.priceKind==='ask').sort((a,b)=>a.price!-b.price!)[0]||null;
  return {complete,individualTotal:complete?missing.reduce((sum,r)=>sum+r.price!,0):null,bundlePrice:bundle?.price??null,overlap:summary.owned,bundle,missing,scope:'仅比较 24 小时内详情复核的即时售价；运费、跨店费用及成色差异另计'};
 }

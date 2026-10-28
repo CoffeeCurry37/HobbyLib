@@ -1,3 +1,4 @@
+import {quoteComparison} from './price-comparison';
 import {applyTitleCatalogue,catalogueKeywords,catalogueTitle,editionVariant} from './catalog';
 import {availableOffers} from './identity';
 import {Item,Offer,Prefs,Relation,State,EMPTY_FACTS} from './types';
@@ -43,6 +44,7 @@ function scoringIndex(state:Pick<State,'items'|'relations'>){const items=new Map
 export function scoreCatalogue(state:Pick<State,'items'|'relations'|'prefs'>,learned:Record<string,number>={}){const index=scoringIndex(state);return state.items.map(item=>({item,...scoreItem(item,state,learned,index)}));}
 export function scoreItem(item:Item,state:Pick<State,'items'|'relations'|'prefs'>,learned:Record<string,number>={},index?:ReturnType<typeof scoringIndex>){
  const {prefs,items,relations}=state;const reasons:string[]=[];
+ if(item.catalogueGroup)return {score:0,reasons:['逻辑系列档案，不是可购买商品'],blocked:false,missing:0,owned:0,unknown:0};
  const text=normalize(item.title+' '+item.tags.join(' '));
  const blocked=prefs.rules.some(r=>r.type==='block'&&text.includes(normalize(r.keyword)));
  if(blocked)return{score:0,reasons:['命中屏蔽规则'],blocked:true,missing:0,owned:0,unknown:0};
@@ -67,9 +69,10 @@ export function scoreItem(item:Item,state:Pick<State,'items'|'relations'|'prefs'
  if(item.kind==='set'&&!parts.length)reasons.push('套装组件未整理，尚不能计算重复比例');
  if(item.review)reasons.push('分类待确认');
  if(item.bucket==='junk'){score-=20;reasons.push('小垃圾/凑单 −20');}
- const current=availableOffers(item).sort((a,b)=>(a.price??Infinity)-(b.price??Infinity))[0];
+ const current=availableOffers(item).filter(o=>o.priceKind==='ask'&&o.priceBasis==='tax_included'&&!item.provisional).sort((a,b)=>(a.price??Infinity)-(b.price??Infinity))[0];
+ if(availableOffers(item).length)reasons.push('JPY 挂价；成色、附件与税费口径需逐项比较，国内/国际运费、服务费及适用税费未计，不代表成交价或最低到手价');
  if(current){const past=current.history.filter(h=>(h.priceBasis||'unspecified')===(current.priceBasis||'unspecified')).map(x=>x.price).filter((x):x is number=>x!==null);const max=Math.max(0,...past);if(max>0&&current.price!==null&&current.price<max){const n=Math.min(15,15*(max-current.price)/max);score+=n;reasons.push(`该挂牌较同税费口径历史高价下降 ${Math.round((max-current.price)/max*100)}%`);}}
- return{score:Math.max(0,Math.min(100,Math.round(score))),reasons,blocked:false,missing,owned,unknown};
+ return{priceComparison:quoteComparison(item),identityReliable:!item.provisional&&(!item.matchDecision||item.matchDecision.status==='matched'),score:Math.max(0,Math.min(100,Math.round(score))),reasons,blocked:false,missing,owned,unknown};
 }
 export {suggestMatches,automaticRelations,relationKey} from './relations';
 export function translate(title:string,prefs:Prefs){if(prefs.language==='ja')return title;let out=title;for(const [ja,zh] of Object.entries(prefs.glossary).sort((a,b)=>b[0].length-a[0].length))out=out.replaceAll(ja,zh);return out;}

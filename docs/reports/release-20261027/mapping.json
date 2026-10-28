@@ -1,0 +1,22 @@
+{
+  "projectId": "appgprj_6ab5bd99340881919e4311a732df6eb9",
+  "githubCommit": "3fa5d8c0efaf190bd2fd5e60d350c6ac820cbcaf",
+  "sitesBaseCommit": "6357bd5f020415c17652bf2bdfdbd26130bdac17",
+  "preparedSitesSourceCommit": "7a95d3bb696b464edade2506f970af6b7822a216",
+  "identicalSourceTree": true,
+  "fastForwardFromObservedSitesHead": true,
+  "sitesVersion": null,
+  "baselineSitesVersion": 64,
+  "build": "passed",
+  "archive": "/workspace/HobbyLib/work/release/pr2/site.tar.gz",
+  "archiveSha256": "0bdd3eb7c314232bc6b038b4edaac27092d820040e956db59abe65f95ebbe9db",
+  "archiveBytes": 8057287,
+  "archiveFiles": 309,
+  "pushedToSites": false,
+  "savedVersion": false,
+  "published": false,
+  "productionDatabaseModified": false,
+  "accessMode": "custom; unchanged",
+  "nativePublishOnPushAccepted": false,
+  "next": "After separate publication authorization: refresh native site/source HEAD; require unchanged base; push this candidate without force; save_site_version with its exact SHA and archive; deploy saved version preserving audience; read terminal deployment status. Record returned version/deployment IDs. Rebuild if any source changes."
+}

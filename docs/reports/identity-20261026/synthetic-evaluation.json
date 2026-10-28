@@ -1,0 +1,1493 @@
+{
+  "format": "identity-evaluation-v1",
+  "inputHash": "109b069eca6dc8f28f27b3448af9b20a4c61f16e5423e57c583bfabf23ca8342",
+  "rulesVersion": 22,
+  "scope": "Synthetic regression only; not an estimate of production accuracy. No real labelled holdout yet; new matching policies remain shadow/advisory.",
+  "metrics": {
+    "samples": 24,
+    "autoLinked": 5,
+    "correct": 5,
+    "precision": 1,
+    "precisionWilson95": [
+      0.5655085052479191,
+      1
+    ],
+    "recall": 1,
+    "reviewRate": 0.7916666666666666,
+    "hardConflictFalseMatches": 0,
+    "exactLabelFailures": []
+  },
+  "bySplit": {
+    "tuning": {
+      "samples": 12,
+      "autoLinked": 4,
+      "correct": 4,
+      "precision": 1,
+      "precisionWilson95": [
+        0.5100999795960008,
+        1
+      ],
+      "recall": 1,
+      "reviewRate": 0.6666666666666666,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "holdout": {
+      "samples": 12,
+      "autoLinked": 1,
+      "correct": 1,
+      "precision": 1,
+      "precisionWilson95": [
+        0.20654329147389294,
+        1
+      ],
+      "recall": 1,
+      "reviewRate": 0.9166666666666666,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    }
+  },
+  "bySource": {
+    "骏河屋": {
+      "samples": 4,
+      "autoLinked": 4,
+      "correct": 4,
+      "precision": 1,
+      "precisionWilson95": [
+        0.5100999795960008,
+        1
+      ],
+      "recall": 1,
+      "reviewRate": 0,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "Mandarake": {
+      "samples": 19,
+      "autoLinked": 1,
+      "correct": 1,
+      "precision": 1,
+      "precisionWilson95": [
+        0.20654329147389294,
+        1
+      ],
+      "recall": 1,
+      "reviewRate": 0.9473684210526315,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "Mercari": {
+      "samples": 1,
+      "autoLinked": 0,
+      "correct": 0,
+      "precision": null,
+      "precisionWilson95": null,
+      "recall": null,
+      "reviewRate": 1,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    }
+  },
+  "byCategory": {
+    "books": {
+      "samples": 8,
+      "autoLinked": 3,
+      "correct": 3,
+      "precision": 1,
+      "precisionWilson95": [
+        0.43849391955098227,
+        1
+      ],
+      "recall": 1,
+      "reviewRate": 0.625,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "games": {
+      "samples": 2,
+      "autoLinked": 0,
+      "correct": 0,
+      "precision": null,
+      "precisionWilson95": null,
+      "recall": null,
+      "reviewRate": 1,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "goods": {
+      "samples": 4,
+      "autoLinked": 1,
+      "correct": 1,
+      "precision": 1,
+      "precisionWilson95": [
+        0.20654329147389294,
+        1
+      ],
+      "recall": 1,
+      "reviewRate": 0.75,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "kuji": {
+      "samples": 1,
+      "autoLinked": 0,
+      "correct": 0,
+      "precision": null,
+      "precisionWilson95": null,
+      "recall": null,
+      "reviewRate": 1,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "cards": {
+      "samples": 2,
+      "autoLinked": 0,
+      "correct": 0,
+      "precision": null,
+      "precisionWilson95": null,
+      "recall": null,
+      "reviewRate": 1,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "sets": {
+      "samples": 2,
+      "autoLinked": 0,
+      "correct": 0,
+      "precision": null,
+      "precisionWilson95": null,
+      "recall": null,
+      "reviewRate": 1,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "doujin": {
+      "samples": 4,
+      "autoLinked": 1,
+      "correct": 1,
+      "precision": 1,
+      "precisionWilson95": [
+        0.20654329147389294,
+        1
+      ],
+      "recall": 1,
+      "reviewRate": 0.75,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    },
+    "unknown": {
+      "samples": 1,
+      "autoLinked": 0,
+      "correct": 0,
+      "precision": null,
+      "precisionWilson95": null,
+      "recall": null,
+      "reviewRate": 1,
+      "hardConflictFalseMatches": 0,
+      "exactLabelFailures": []
+    }
+  },
+  "performance": {
+    "elapsedMs": 73.639185,
+    "maxRssKiB": 252976,
+    "sourceRequests": 0,
+    "paidApiRequests": 0
+  },
+  "rows": [
+    {
+      "id": "same-volume-condition-extras",
+      "split": "tuning",
+      "source": "骏河屋",
+      "category": "books",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "matched",
+        "targetItemId": "target-10000"
+      },
+      "actual": {
+        "status": "matched",
+        "targetItemId": "target-10000"
+      },
+      "hardConflict": false,
+      "decision": {
+        "inputFingerprint": "1ca24370c8c5eedda5c2e36e97c1304fcf88292e89dddb766e4587aca377a7c8",
+        "rulesVersion": 22,
+        "sourceKey": "surugaya:/product/detail/12001:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/12001:main"
+        ],
+        "status": "matched",
+        "targetItemId": "target-10000",
+        "candidateIds": [
+          "target-10000"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/12001",
+            "value": "surugaya:/product/detail/12001:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/12001",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整书名及出版社一致；忽略旧自动产品线差异",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-22",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "b7d67bab4843ecdf0031a0a322dce7a45cb0219a334cee1779ada7a4dd551fa3"
+      }
+    },
+    {
+      "id": "novel-vs-manga",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "books",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "34982fe29faf10f83bdb21196e518c6315d30c8401394472a1d5c0d80d6ed46e",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10001",
+        "sourceKeys": [
+          "mandarake:10001"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10001"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10001",
+            "value": "mandarake:10001",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10001",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10001",
+            "field": "bookMedium"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "b397272771674ce01e0a80859395d687786f507ea96c97b1611c3bd7310ebe2d"
+      }
+    },
+    {
+      "id": "original-vs-paperback",
+      "split": "tuning",
+      "source": "Mandarake",
+      "category": "books",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "554ccfa5f7b200071231bd0585c886f4fd9c8cfade3d76ed7f17c17112d8ced8",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10002",
+        "sourceKeys": [
+          "mandarake:10002"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10002"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10002",
+            "value": "mandarake:10002",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10002",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10002",
+            "field": "format"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "82d72b0ac34f1bea255abca4eb8702da4f3a7a5872879ad9760a530629d55f35"
+      }
+    },
+    {
+      "id": "volume-url-reuse",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "books",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "ae733ad36ca58f2d9e05b1799062bd5f4e2921249f8dd414fede6c6bd8330bb6",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10003",
+        "sourceKeys": [
+          "mandarake:10003"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10003"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10003",
+            "value": "mandarake:10003",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10003",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10003",
+            "field": "volume"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "a35df555f876cee4d6b936673800769a030ea5e69a75e6fadef615c25f9ee8b1"
+      }
+    },
+    {
+      "id": "platform-url-reuse",
+      "split": "tuning",
+      "source": "Mandarake",
+      "category": "games",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "4a4760282d6e2bb89568bd75d8e85696bf7d31a41159ba173ee3fe89b63a6bbf",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10004",
+        "sourceKeys": [
+          "mandarake:10004"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10004"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10004",
+            "value": "mandarake:10004",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10004",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10004",
+            "field": "platform"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "e429675c60cee36d02adb7efa7d2c05a496ed7e96712877766fb9c21b570491a"
+      }
+    },
+    {
+      "id": "base-vs-bonus",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "goods",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "8e1bb654723a388e92978680be7a23118d40732662b4d2948863f155d79e5779",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10005",
+        "sourceKeys": [
+          "mandarake:10005"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10005"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10005",
+            "value": "mandarake:10005",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10005",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10005",
+            "field": "component"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "1d0bebf941e5f271726ffc6c6dabffeda0be6a4693e9bd433fe33e294d5bb18c"
+      }
+    },
+    {
+      "id": "base-vs-component",
+      "split": "tuning",
+      "source": "Mandarake",
+      "category": "goods",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "acdbadd66ebbd2c2f1859759b21c7b05770354f4a2654c8394a701bbaa45ffda",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10006",
+        "sourceKeys": [
+          "mandarake:10006"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10006"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10006",
+            "value": "mandarake:10006",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10006",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10006",
+            "field": "component"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "8ac15465e56019bfe62b9b406eab4f9f9c7a36df7191e1b1fad7ed00ed499f0a"
+      }
+    },
+    {
+      "id": "edition-url-reuse",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "games",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "85218f8af596546a9546a92ca3c546506511b8496a69f785725f6e7de4466c43",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10007",
+        "sourceKeys": [
+          "mandarake:10007"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10007"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10007",
+            "value": "mandarake:10007",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10007",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10007",
+            "field": "edition"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "26e7d1e2be1a3982fc0aab2882c1df1e7b2660d626d057256f32622776eba21e"
+      }
+    },
+    {
+      "id": "same-isbn-different-shop",
+      "split": "tuning",
+      "source": "骏河屋",
+      "category": "books",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "matched",
+        "targetItemId": "target-10008"
+      },
+      "actual": {
+        "status": "matched",
+        "targetItemId": "target-10008"
+      },
+      "hardConflict": false,
+      "decision": {
+        "inputFingerprint": "70f1d5e970bd0c73fc13be234e92090c0f435bca6ddfc62f2d9e2c82c7747f1a",
+        "rulesVersion": 22,
+        "sourceKey": "surugaya:/product/detail/12002:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/12002:main"
+        ],
+        "status": "matched",
+        "targetItemId": "target-10008",
+        "candidateIds": [
+          "target-10008"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/12002",
+            "value": "surugaya:/product/detail/12002:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/12002",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "isbn",
+            "raw": "9784041099605",
+            "value": "9784041099605",
+            "source": "unattributed",
+            "url": "",
+            "scope": "physical-edition",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "同一实体书 ISBN（兼容 ISBN 存入 JAN 字段）",
+            "value": "ISBN_EDITION",
+            "source": "rule-22",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "ISBN_EDITION"
+        ],
+        "confidenceTier": "identifier",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "54a0feedd0dff6dcf7605cf64d986a027afc6c232f26b625c66f3349ed4055d1"
+      }
+    },
+    {
+      "id": "distinct-isbn",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "books",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "12d12a0a71450c9c1535b26b25b94ef262deba6c6323d53647738299c042ce5d",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10009",
+        "sourceKeys": [
+          "mandarake:10009"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10009"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10009",
+            "value": "mandarake:10009",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10009",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "isbn",
+            "raw": "9784041099599",
+            "value": "9784041099599",
+            "source": "unattributed",
+            "url": "",
+            "scope": "physical-edition",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10009",
+            "field": "bookCode"
+          },
+          {
+            "itemId": "target-10009",
+            "field": "isbn"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "f575fc74b27faad3d92564b4cef789fc4a1c375e2796529724f57dd897ed9205"
+      }
+    },
+    {
+      "id": "legacy-isbn-in-jan",
+      "split": "tuning",
+      "source": "骏河屋",
+      "category": "books",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "matched",
+        "targetItemId": "target-10010"
+      },
+      "actual": {
+        "status": "matched",
+        "targetItemId": "target-10010"
+      },
+      "hardConflict": false,
+      "decision": {
+        "inputFingerprint": "e6800bca2ec048131f7a4ed5bce6ce3b62d779cf5e8bff965d419bd344d82489",
+        "rulesVersion": 22,
+        "sourceKey": "surugaya:/product/detail/12003:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/12003:main"
+        ],
+        "status": "matched",
+        "targetItemId": "target-10010",
+        "candidateIds": [
+          "target-10010"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/12003",
+            "value": "surugaya:/product/detail/12003:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/12003",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "isbn",
+            "raw": "9784041099605",
+            "value": "9784041099605",
+            "source": "unattributed",
+            "url": "",
+            "scope": "physical-edition",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "同一实体书 ISBN（兼容 ISBN 存入 JAN 字段）",
+            "value": "ISBN_EDITION",
+            "source": "rule-22",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "ISBN_EDITION"
+        ],
+        "confidenceTier": "identifier",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "a3a31bdd6731a7d4e11c9c9d0ee41e47f188eb70283d5289f1886fc24334c4ef"
+      }
+    },
+    {
+      "id": "shared-jan-prize-variant",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "kuji",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "cac0a458c099f03308d1e081a24180f773090b541376c0d9176df3b87f507836",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10011",
+        "sourceKeys": [
+          "mandarake:10011"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10011"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10011",
+            "value": "mandarake:10011",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10011",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4900000000009",
+            "value": "4900000000009",
+            "source": "unattributed",
+            "url": "",
+            "scope": "assortment",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10011",
+            "field": "award"
+          },
+          {
+            "itemId": "target-10011",
+            "field": "variant"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "a3cd696332103291f6fabb08d8627e8f52dc3720c01c220270736f4de97a0784"
+      }
+    },
+    {
+      "id": "same-character-different-card",
+      "split": "tuning",
+      "source": "Mandarake",
+      "category": "cards",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "2c80dcce12021341e62ed159b65a5958106ae51f13c4811c927e37c5ed68562f",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10012",
+        "sourceKeys": [
+          "mandarake:10012"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10012"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10012",
+            "value": "mandarake:10012",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10012",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4900000000009",
+            "value": "4900000000009",
+            "source": "unattributed",
+            "url": "",
+            "scope": "release",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10012",
+            "field": "artwork"
+          },
+          {
+            "itemId": "target-10012",
+            "field": "cardNumber"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "80722a813fffb0818c889498b3e87f3864ef5ea79da8c7933b3d7a1def04328b"
+      }
+    },
+    {
+      "id": "card-release",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "cards",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "b64f7f77463322445a1ed8bcc7910f638da0957626e54f3984a11910ff7eb609",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10013",
+        "sourceKeys": [
+          "mandarake:10013"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10013"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10013",
+            "value": "mandarake:10013",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10013",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10013",
+            "field": "wave"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "cf9d20ca27e3af8320f97a740c95e85f48c4a9f45573957fa68155a60b5841e1"
+      }
+    },
+    {
+      "id": "seller-lot-vs-factory",
+      "split": "tuning",
+      "source": "Mercari",
+      "category": "sets",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "0d1fc1ca7bc8d1dc0e092ea31c91f5878b03c16712bf13d6ea637a31aaa67721",
+        "rulesVersion": 22,
+        "sourceKey": "mercari:/item/m10014",
+        "sourceKeys": [
+          "mercari:/item/m10014"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10014"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://jp.mercari.com/item/m10014",
+            "value": "mercari:/item/m10014",
+            "source": "Mercari",
+            "url": "https://jp.mercari.com/item/m10014",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10014",
+            "field": "saleForm"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "cdb9b8b4f09c952a47f58ebf91f31e594d068caa61a6426eee35a7bca1ae7df3"
+      }
+    },
+    {
+      "id": "logical-vs-physical",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "sets",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "5d6f855a9fe8897a625b257ef9ae15252ba0a9d76dafef8ea7fe873b8f2ae146",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10015",
+        "sourceKeys": [
+          "mandarake:10015"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10015"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10015",
+            "value": "mandarake:10015",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10015",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10015",
+            "field": "component"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "b34831877aeca2c81d3d119319fe380877f51834df54c6fbdd6e54980a9f03e2"
+      }
+    },
+    {
+      "id": "doujin-circle",
+      "split": "tuning",
+      "source": "Mandarake",
+      "category": "doujin",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "73ef043831671fb1af5e6312b598b8a020a623904ac2ecdebc7e5c05bcb3f2f7",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10016",
+        "sourceKeys": [
+          "mandarake:10016"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10016"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10016",
+            "value": "mandarake:10016",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10016",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10016",
+            "field": "circle"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "2ab2f0d699c7968d8dd54e039f5721ac1c57a4aa475bbef559598b8cca2e2c47"
+      }
+    },
+    {
+      "id": "doujin-edition",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "doujin",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "9987dd2fbee9fb4875e6e953224c0e31769fc20de05b8cedb8991c3708322a42",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10017",
+        "sourceKeys": [
+          "mandarake:10017"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10017"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10017",
+            "value": "mandarake:10017",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10017",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10017",
+            "field": "edition"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "54adc6c66ef779ff5bf900b6141847e108ba43afefdcf73ce0c9ff09ad0a1ed0"
+      }
+    },
+    {
+      "id": "default-age-not-evidence",
+      "split": "tuning",
+      "source": "Mandarake",
+      "category": "doujin",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "matched",
+        "targetItemId": "target-10018"
+      },
+      "actual": {
+        "status": "matched",
+        "targetItemId": "target-10018"
+      },
+      "hardConflict": false,
+      "decision": {
+        "inputFingerprint": "35fd7d8bd9780f8ff0d6cac1bb0cfac8b1a2e615f5acd830148972560de1dc3d",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10018",
+        "sourceKeys": [
+          "mandarake:10018"
+        ],
+        "status": "matched",
+        "targetItemId": "target-10018",
+        "candidateIds": [
+          "target-10018"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10018",
+            "value": "mandarake:10018",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10018",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "ageRating",
+            "raw": "r18",
+            "value": "r18",
+            "source": "classification",
+            "url": "",
+            "scope": "default-policy",
+            "valid": false
+          },
+          {
+            "kind": "match-rule",
+            "raw": "相同挂牌编号且组件、版本无冲突",
+            "value": "LISTING_CONTINUITY",
+            "source": "rule-22",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "LISTING_CONTINUITY"
+        ],
+        "confidenceTier": "listing",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "10227098d314a6a54cabeeef91ed30fc0221a355e7d42c71c8bfe33db8994fb0"
+      }
+    },
+    {
+      "id": "explicit-age-conflict",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "doujin",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "conflict",
+        "targetItemId": null
+      },
+      "hardConflict": true,
+      "decision": {
+        "inputFingerprint": "0de9d106480d46e459536be7a00c2ac9d69db2c0621a4a4877e9e877815fcf73",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10019",
+        "sourceKeys": [
+          "mandarake:10019"
+        ],
+        "status": "conflict",
+        "candidateIds": [
+          "target-10019"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10019",
+            "value": "mandarake:10019",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10019",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "target-10019",
+            "field": "ageRating"
+          }
+        ],
+        "reasonCodes": [
+          "IDENTITY_CONFLICT"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "765fcf9403eabf6308b989b837bafd2f8092d2bfd1b3d68acef0e5ccdcbd36e4"
+      }
+    },
+    {
+      "id": "same-url-two-targets",
+      "split": "tuning",
+      "source": "Mandarake",
+      "category": "books",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "ambiguous",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "ambiguous",
+        "targetItemId": null
+      },
+      "hardConflict": false,
+      "decision": {
+        "inputFingerprint": "a802e4db9a45cf00d57f51a859858facc1cf9326ea02c60bfc6be2a07d768d91",
+        "rulesVersion": 22,
+        "sourceKey": "mandarake:10020",
+        "sourceKeys": [
+          "mandarake:10020"
+        ],
+        "status": "ambiguous",
+        "candidateIds": [
+          "second-target",
+          "target-10020"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10020",
+            "value": "mandarake:10020",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=10020",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "MULTIPLE_RELIABLE_TARGETS"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "42d3ae30d43ff3556a4e7100918a9fde7e17ee710fcfaa4dd69cbb9a68e068da"
+      }
+    },
+    {
+      "id": "broad-alias-two-targets",
+      "split": "holdout",
+      "source": "Mandarake",
+      "category": "goods",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "ambiguous",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "ambiguous",
+        "targetItemId": null
+      },
+      "hardConflict": false,
+      "decision": {
+        "inputFingerprint": "e0f9cdfcafdb43a151353d4d4f6c4f8efc807f44a4320f8396e75d70c71be386",
+        "rulesVersion": 22,
+        "sourceKey": null,
+        "sourceKeys": [],
+        "status": "ambiguous",
+        "candidateIds": [
+          "alias-second",
+          "target-10021"
+        ],
+        "evidence": [],
+        "conflicts": [],
+        "reasonCodes": [
+          "MULTIPLE_RELIABLE_TARGETS"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "0558edf0c54c1916b6f92b7e86c54eb43531e2e8a8d13c9aa90635572577bc75"
+      }
+    },
+    {
+      "id": "invalid-listing-no-identifiers",
+      "split": "tuning",
+      "source": "Mandarake",
+      "category": "unknown",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "unmatched",
+        "targetItemId": null
+      },
+      "actual": {
+        "status": "unmatched",
+        "targetItemId": null
+      },
+      "hardConflict": false,
+      "decision": {
+        "inputFingerprint": "fb063b75bf0fdb0ed8585a0cc662e24e4e58e94b911d10b921bd1ac1f70b3283",
+        "rulesVersion": 22,
+        "sourceKey": null,
+        "sourceKeys": [],
+        "status": "unmatched",
+        "candidateIds": [],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item",
+            "value": "",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item",
+            "scope": "listing",
+            "valid": false
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "NO_CANDIDATES"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "21fd5c1e13c6760badd5c55f97b75c688ef7d0605b4d3bbf1694260540160ce5"
+      }
+    },
+    {
+      "id": "valid-jan-same-edition",
+      "split": "holdout",
+      "source": "骏河屋",
+      "category": "goods",
+      "labelKind": "synthetic",
+      "expected": {
+        "status": "matched",
+        "targetItemId": "target-10023"
+      },
+      "actual": {
+        "status": "matched",
+        "targetItemId": "target-10023"
+      },
+      "hardConflict": false,
+      "decision": {
+        "inputFingerprint": "90d5ac566a70611f8479f18e661bc048e833701d409b6354feabea4c5a2c95d9",
+        "rulesVersion": 22,
+        "sourceKey": "surugaya:/product/detail/12004:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/12004:main"
+        ],
+        "status": "matched",
+        "targetItemId": "target-10023",
+        "candidateIds": [
+          "target-10023"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/12004",
+            "value": "surugaya:/product/detail/12004:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/12004",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4900000000009",
+            "value": "4900000000009",
+            "source": "unattributed",
+            "url": "",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "JAN 一致且组件、版本无冲突",
+            "value": "SCOPED_GTIN",
+            "source": "rule-22",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-26T00:00:00.000Z",
+        "decisionId": "b50af1964d05b2f8ff005f95deb2037b198487b28b6993b9603fb2ccb70b35cd"
+      }
+    }
+  ]
+}

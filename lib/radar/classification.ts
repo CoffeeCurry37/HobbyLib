@@ -80,5 +80,6 @@ export function repairClassification(item:Item,frequent?:Set<string>):Item{
  for(const [key,value] of Object.entries(knownCollection))if(!manualField(item,key))(next as any)[key]=value;
  next.majorClass=productClass(next);
  if(!manualField(item,'tags'))next.tags=[next.majorClass,...(next.majorClass==='游戏'?gamePlatforms(next).map(p=>'平台:'+p):[]),...next.tags.filter(t=>!PRODUCT_CLASSES.includes(t as any)&&!t.startsWith('平台:'))].slice(0,50);
+ if(manualField(item,'tags'))next.tags=item.tags;
  return applyTitleCatalogue(next);
 }

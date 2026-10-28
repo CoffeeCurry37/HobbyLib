@@ -1,0 +1,52 @@
+[
+  {
+    "root": "/workspace/HobbyLib",
+    "v8Ownership": {
+      "owned": 3,
+      "missing": 0,
+      "unmarked": 6,
+      "total": 9
+    },
+    "v8Taxonomy": [
+      "TYPE-MOON",
+      "FGO",
+      "FGO 综合",
+      "卡片",
+      "威化卡片"
+    ],
+    "fateSnapshot": {
+      "publicId": "fate-v0121-0a8c22aa23939085",
+      "runtimeId": "fate-v015-b2bd25ef89b370ea",
+      "publicBatches": 64,
+      "runtimeBatches": 82,
+      "lastPublicBatchHTTP": 200,
+      "scans": 0,
+      "fullImportRerun": false
+    }
+  },
+  {
+    "root": "/workspace/HobbyLib-baseline",
+    "v8Ownership": {
+      "owned": 3,
+      "missing": 6,
+      "unmarked": 6,
+      "total": 9
+    },
+    "v8Taxonomy": [
+      "TYPE-MOON",
+      "FGO",
+      "FGO 综合",
+      "卡片",
+      "威化卡片"
+    ],
+    "fateSnapshot": {
+      "publicId": "fate-v0121-0a8c22aa23939085",
+      "runtimeId": "fate-v015-b2bd25ef89b370ea",
+      "publicBatches": 64,
+      "runtimeBatches": 82,
+      "lastPublicBatchHTTP": 200,
+      "scans": 0,
+      "fullImportRerun": false
+    }
+  }
+]

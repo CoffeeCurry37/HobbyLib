@@ -1,0 +1,467 @@
+{
+  "campaign": "non-doujin-20261021",
+  "productionApplied": 0,
+  "requiresFreshProductionVersions": true,
+  "groups": [
+    {
+      "id": "b8d54d0706cc52a42c34555e",
+      "members": [
+        {
+          "ordinal": 509,
+          "itemId": "family-16c4c4278428fb44aff7e22ca7e15479",
+          "fingerprint": "fc317897181b312538400c9dd2967a53cfc6331c388e60e82c7d8d5b9258a079",
+          "naturalGroup": "fate-requiem-published-volumes",
+          "lifecycle": "prepared",
+          "fields": {
+            "majorClass": "书籍",
+            "category": "小説",
+            "origin": "commercial",
+            "series": "Fate/Requiem",
+            "productLine": "Fate/Requiem",
+            "publisher": "TYPE-MOON BOOKS",
+            "productType": "小说系列目录",
+            "tags": [
+              "Fate/Requiem",
+              "小说",
+              "TYPE-MOON BOOKS",
+              "星空めてお",
+              "NOCO",
+              "系列目录"
+            ],
+            "imageRole": "catalogue_reference",
+            "summary": "星空めてお著、NOCO绘制插画的TYPE-MOON BOOKS《Fate/Requiem》小说系列目录。故事描写圣杯战争结束后的世界，以没有圣杯的少女宇津见绘里濑与神秘少年相遇为起点；此目录按独立卷次组织，已核对第一卷「星巡る少年」和第二卷「懐想都市新宿」。"
+          },
+          "sources": [
+            "https://www.typemoon.com/products/tmbooks/requiem/"
+          ],
+          "match": {
+            "by": "catalogue-entry",
+            "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+            "value": "Book section: vol 1 星巡る少年 and vol 2 懐想都市新宿; logical directory"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "status": "partial",
+          "unresolved": [
+            "现有Amiami书影尚未完成逐卷视觉核对；保留原图及准确imageRole，不以HTTP或搜索缩略图标记verified。"
+          ],
+          "identityBasis": "官方Book分卷介绍、发行公告与Amiami逐卷JAN对应；456开头为商品JAN，不能因其他书店标作ISBN而移入isbn。第一卷公告含C95先行销售，但该零售记录不推定会场限定版。",
+          "fieldEvidence": [
+            {
+              "field": "majorClass",
+              "value": "书籍",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "category",
+              "value": "小説",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "origin",
+              "value": "commercial",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "series",
+              "value": "Fate/Requiem",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "productLine",
+              "value": "Fate/Requiem",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "publisher",
+              "value": "TYPE-MOON BOOKS",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "productType",
+              "value": "小说系列目录",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "tags",
+              "value": [
+                "Fate/Requiem",
+                "小说",
+                "TYPE-MOON BOOKS",
+                "星空めてお",
+                "NOCO",
+                "系列目录"
+              ],
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "imageRole",
+              "value": "catalogue_reference",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "summary",
+              "value": "星空めてお著、NOCO绘制插画的TYPE-MOON BOOKS《Fate/Requiem》小说系列目录。故事描写圣杯战争结束后的世界，以没有圣杯的少女宇津见绘里濑与神秘少年相遇为起点；此目录按独立卷次组织，已核对第一卷「星巡る少年」和第二卷「懐想都市新宿」。",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            }
+          ]
+        },
+        {
+          "ordinal": 510,
+          "itemId": "source-0fe194fcad613e09070850be41941fa0",
+          "fingerprint": "114b2f10110f4aa2552dc0d598da69795f4cbb7fcab4a67e5cb3cf1efb94f08f",
+          "naturalGroup": "fate-requiem-published-volumes",
+          "lifecycle": "prepared",
+          "fields": {
+            "majorClass": "书籍",
+            "category": "小説",
+            "origin": "commercial",
+            "series": "Fate/Requiem",
+            "productLine": "Fate/Requiem",
+            "publisher": "TYPE-MOON BOOKS",
+            "productType": "小说",
+            "tags": [
+              "Fate/Requiem",
+              "小说",
+              "TYPE-MOON BOOKS",
+              "星空めてお",
+              "NOCO",
+              "宇津見エリセ"
+            ],
+            "imageRole": "product",
+            "wave": "1",
+            "member": "第1卷 星巡る少年",
+            "kind": "base",
+            "saleForm": "single",
+            "releaseDate": "2018-12-31",
+            "year": "2018",
+            "characters": [
+              "宇津見エリセ"
+            ],
+            "summary": "TYPE-MOON BOOKS发行、星空めてお著、NOCO绘制插画的《Fate/Requiem》第一卷「星巡る少年」。在圣杯战争结束、人人拥有圣杯并召唤从者的世界里，唯独没有圣杯的宇津见绘里濑遇见了最后被召唤的神秘少年。"
+          },
+          "sources": [
+            "https://www.typemoon.com/products/tmbooks/requiem/",
+            "https://typemoon.com/news/2018/-Ms4ny",
+            "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659"
+          ],
+          "match": {
+            "by": "jan",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+            "value": "4560158370692"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "status": "partial",
+          "unresolved": [
+            "现有Amiami书影尚未完成逐卷视觉核对；保留原图及准确imageRole，不以HTTP或搜索缩略图标记verified。"
+          ],
+          "identityBasis": "官方Book分卷介绍、发行公告与Amiami逐卷JAN对应；456开头为商品JAN，不能因其他书店标作ISBN而移入isbn。第一卷公告含C95先行销售，但该零售记录不推定会场限定版。",
+          "fieldEvidence": [
+            {
+              "field": "majorClass",
+              "value": "书籍",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "category",
+              "value": "小説",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "origin",
+              "value": "commercial",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "series",
+              "value": "Fate/Requiem",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "productLine",
+              "value": "Fate/Requiem",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "publisher",
+              "value": "TYPE-MOON BOOKS",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "productType",
+              "value": "小说",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "tags",
+              "value": [
+                "Fate/Requiem",
+                "小说",
+                "TYPE-MOON BOOKS",
+                "星空めてお",
+                "NOCO",
+                "宇津見エリセ"
+              ],
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "imageRole",
+              "value": "product",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "wave",
+              "value": "1",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "member",
+              "value": "第1卷 星巡る少年",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "kind",
+              "value": "base",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "saleForm",
+              "value": "single",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "releaseDate",
+              "value": "2018-12-31",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "year",
+              "value": "2018",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "characters",
+              "value": [
+                "宇津見エリセ"
+              ],
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "summary",
+              "value": "TYPE-MOON BOOKS发行、星空めてお著、NOCO绘制插画的《Fate/Requiem》第一卷「星巡る少年」。在圣杯战争结束、人人拥有圣杯并召唤从者的世界里，唯独没有圣杯的宇津见绘里濑遇见了最后被召唤的神秘少年。",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            }
+          ]
+        },
+        {
+          "ordinal": 511,
+          "itemId": "source-c29c5b9bf940672edd2e74b51a3943b7",
+          "fingerprint": "448d20c4a8d69891164a24ec239e02bfa89fa36aea8efda72c4291ff1ecd1d9e",
+          "naturalGroup": "fate-requiem-published-volumes",
+          "lifecycle": "prepared",
+          "fields": {
+            "majorClass": "书籍",
+            "category": "小説",
+            "origin": "commercial",
+            "series": "Fate/Requiem",
+            "productLine": "Fate/Requiem",
+            "publisher": "TYPE-MOON BOOKS",
+            "productType": "小说",
+            "tags": [
+              "Fate/Requiem",
+              "小说",
+              "TYPE-MOON BOOKS",
+              "星空めてお",
+              "NOCO",
+              "宇津見エリセ"
+            ],
+            "imageRole": "product",
+            "wave": "2",
+            "member": "第2卷 懐想都市新宿",
+            "kind": "base",
+            "saleForm": "single",
+            "releaseDate": "2020-06-12",
+            "year": "2020",
+            "characters": [
+              "宇津見エリセ"
+            ],
+            "summary": "TYPE-MOON BOOKS发行、星空めてお著、NOCO绘制插画的《Fate/Requiem》第二卷「懐想都市新宿」。宇津见绘里濑与金色少年踏上寻找失落“废都冬木”的旅程，从临海都市秋叶原前往怀想都市新宿，继续探索重构后的世界。"
+          },
+          "sources": [
+            "https://www.typemoon.com/products/tmbooks/requiem/",
+            "https://typemoon.com/news/2020/KUuKXN",
+            "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842"
+          ],
+          "match": {
+            "by": "jan",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+            "value": "4560158370777"
+          },
+          "checks": {
+            "classification": true,
+            "context": true,
+            "image": false,
+            "tags": true,
+            "summary": true
+          },
+          "status": "partial",
+          "unresolved": [
+            "现有Amiami书影尚未完成逐卷视觉核对；保留原图及准确imageRole，不以HTTP或搜索缩略图标记verified。"
+          ],
+          "identityBasis": "官方Book分卷介绍、发行公告与Amiami逐卷JAN对应；456开头为商品JAN，不能因其他书店标作ISBN而移入isbn。第一卷公告含C95先行销售，但该零售记录不推定会场限定版。",
+          "fieldEvidence": [
+            {
+              "field": "majorClass",
+              "value": "书籍",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "category",
+              "value": "小説",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "origin",
+              "value": "commercial",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "series",
+              "value": "Fate/Requiem",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "productLine",
+              "value": "Fate/Requiem",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "publisher",
+              "value": "TYPE-MOON BOOKS",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "productType",
+              "value": "小说",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "tags",
+              "value": [
+                "Fate/Requiem",
+                "小说",
+                "TYPE-MOON BOOKS",
+                "星空めてお",
+                "NOCO",
+                "宇津見エリセ"
+              ],
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "imageRole",
+              "value": "product",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "wave",
+              "value": "2",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "member",
+              "value": "第2卷 懐想都市新宿",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "kind",
+              "value": "base",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "saleForm",
+              "value": "single",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "releaseDate",
+              "value": "2020-06-12",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "year",
+              "value": "2020",
+              "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "characters",
+              "value": [
+                "宇津見エリセ"
+              ],
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            },
+            {
+              "field": "summary",
+              "value": "TYPE-MOON BOOKS发行、星空めてお著、NOCO绘制插画的《Fate/Requiem》第二卷「懐想都市新宿」。宇津见绘里濑与金色少年踏上寻找失落“废都冬木”的旅程，从临海都市秋叶原前往怀想都市新宿，继续探索重构后的世界。",
+              "url": "https://www.typemoon.com/products/tmbooks/requiem/",
+              "reason": "官方分卷介绍与原挂牌对应；保留原日文标题、description及所有Offer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

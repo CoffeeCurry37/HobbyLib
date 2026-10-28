@@ -1,0 +1,328 @@
+{
+  "format": "identity-shadow-v1",
+  "baselineCommit": "2003e3d31526821e681b9fdcc1d51b7b6ec7d6be",
+  "baselineIdentityHash": "3c1797f99eaa075065fba247630d116c9479134a47a0b210e037efa26297b86a",
+  "baselineRule": 21,
+  "rulesVersion": 22,
+  "inputHash": "109b069eca6dc8f28f27b3448af9b20a4c61f16e5423e57c583bfabf23ca8342",
+  "samples": 24,
+  "changed": 18,
+  "writes": 0,
+  "sourceRequests": 0,
+  "elapsedMs": 96.42452700000013,
+  "maxRssKiB": 331076,
+  "rows": [
+    {
+      "id": "same-volume-condition-extras",
+      "source": "骏河屋",
+      "category": "books",
+      "legacyTargetId": "target-10000",
+      "newTargetId": "target-10000",
+      "status": "matched",
+      "decisionId": "b7d67bab4843ecdf0031a0a322dce7a45cb0219a334cee1779ada7a4dd551fa3",
+      "reasonCodes": [
+        "EXACT_NAME_FACTS"
+      ],
+      "changed": false
+    },
+    {
+      "id": "novel-vs-manga",
+      "source": "Mandarake",
+      "category": "books",
+      "legacyTargetId": "target-10001",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "b397272771674ce01e0a80859395d687786f507ea96c97b1611c3bd7310ebe2d",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "original-vs-paperback",
+      "source": "Mandarake",
+      "category": "books",
+      "legacyTargetId": "target-10002",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "82d72b0ac34f1bea255abca4eb8702da4f3a7a5872879ad9760a530629d55f35",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "volume-url-reuse",
+      "source": "Mandarake",
+      "category": "books",
+      "legacyTargetId": "target-10003",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "a35df555f876cee4d6b936673800769a030ea5e69a75e6fadef615c25f9ee8b1",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "platform-url-reuse",
+      "source": "Mandarake",
+      "category": "games",
+      "legacyTargetId": "target-10004",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "e429675c60cee36d02adb7efa7d2c05a496ed7e96712877766fb9c21b570491a",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "base-vs-bonus",
+      "source": "Mandarake",
+      "category": "goods",
+      "legacyTargetId": "target-10005",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "1d0bebf941e5f271726ffc6c6dabffeda0be6a4693e9bd433fe33e294d5bb18c",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "base-vs-component",
+      "source": "Mandarake",
+      "category": "goods",
+      "legacyTargetId": "target-10006",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "8ac15465e56019bfe62b9b406eab4f9f9c7a36df7191e1b1fad7ed00ed499f0a",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "edition-url-reuse",
+      "source": "Mandarake",
+      "category": "games",
+      "legacyTargetId": "target-10007",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "26e7d1e2be1a3982fc0aab2882c1df1e7b2660d626d057256f32622776eba21e",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "same-isbn-different-shop",
+      "source": "骏河屋",
+      "category": "books",
+      "legacyTargetId": "target-10008",
+      "newTargetId": "target-10008",
+      "status": "matched",
+      "decisionId": "54a0feedd0dff6dcf7605cf64d986a027afc6c232f26b625c66f3349ed4055d1",
+      "reasonCodes": [
+        "ISBN_EDITION"
+      ],
+      "changed": false
+    },
+    {
+      "id": "distinct-isbn",
+      "source": "Mandarake",
+      "category": "books",
+      "legacyTargetId": "target-10009",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "f575fc74b27faad3d92564b4cef789fc4a1c375e2796529724f57dd897ed9205",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "legacy-isbn-in-jan",
+      "source": "骏河屋",
+      "category": "books",
+      "legacyTargetId": "target-10010",
+      "newTargetId": "target-10010",
+      "status": "matched",
+      "decisionId": "a3a31bdd6731a7d4e11c9c9d0ee41e47f188eb70283d5289f1886fc24334c4ef",
+      "reasonCodes": [
+        "ISBN_EDITION"
+      ],
+      "changed": false
+    },
+    {
+      "id": "shared-jan-prize-variant",
+      "source": "Mandarake",
+      "category": "kuji",
+      "legacyTargetId": "target-10011",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "a3cd696332103291f6fabb08d8627e8f52dc3720c01c220270736f4de97a0784",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "same-character-different-card",
+      "source": "Mandarake",
+      "category": "cards",
+      "legacyTargetId": "target-10012",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "80722a813fffb0818c889498b3e87f3864ef5ea79da8c7933b3d7a1def04328b",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "card-release",
+      "source": "Mandarake",
+      "category": "cards",
+      "legacyTargetId": "target-10013",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "cf9d20ca27e3af8320f97a740c95e85f48c4a9f45573957fa68155a60b5841e1",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "seller-lot-vs-factory",
+      "source": "Mercari",
+      "category": "sets",
+      "legacyTargetId": "target-10014",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "cdb9b8b4f09c952a47f58ebf91f31e594d068caa61a6426eee35a7bca1ae7df3",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "logical-vs-physical",
+      "source": "Mandarake",
+      "category": "sets",
+      "legacyTargetId": "target-10015",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "b34831877aeca2c81d3d119319fe380877f51834df54c6fbdd6e54980a9f03e2",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "doujin-circle",
+      "source": "Mandarake",
+      "category": "doujin",
+      "legacyTargetId": "target-10016",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "2ab2f0d699c7968d8dd54e039f5721ac1c57a4aa475bbef559598b8cca2e2c47",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "doujin-edition",
+      "source": "Mandarake",
+      "category": "doujin",
+      "legacyTargetId": "target-10017",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "54adc6c66ef779ff5bf900b6141847e108ba43afefdcf73ce0c9ff09ad0a1ed0",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "default-age-not-evidence",
+      "source": "Mandarake",
+      "category": "doujin",
+      "legacyTargetId": "target-10018",
+      "newTargetId": "target-10018",
+      "status": "matched",
+      "decisionId": "10227098d314a6a54cabeeef91ed30fc0221a355e7d42c71c8bfe33db8994fb0",
+      "reasonCodes": [
+        "LISTING_CONTINUITY"
+      ],
+      "changed": false
+    },
+    {
+      "id": "explicit-age-conflict",
+      "source": "Mandarake",
+      "category": "doujin",
+      "legacyTargetId": "target-10019",
+      "newTargetId": null,
+      "status": "conflict",
+      "decisionId": "765fcf9403eabf6308b989b837bafd2f8092d2bfd1b3d68acef0e5ccdcbd36e4",
+      "reasonCodes": [
+        "IDENTITY_CONFLICT"
+      ],
+      "changed": true
+    },
+    {
+      "id": "same-url-two-targets",
+      "source": "Mandarake",
+      "category": "books",
+      "legacyTargetId": "second-target",
+      "newTargetId": null,
+      "status": "ambiguous",
+      "decisionId": "42d3ae30d43ff3556a4e7100918a9fde7e17ee710fcfaa4dd69cbb9a68e068da",
+      "reasonCodes": [
+        "MULTIPLE_RELIABLE_TARGETS"
+      ],
+      "changed": true
+    },
+    {
+      "id": "broad-alias-two-targets",
+      "source": "Mandarake",
+      "category": "goods",
+      "legacyTargetId": "alias-second",
+      "newTargetId": null,
+      "status": "ambiguous",
+      "decisionId": "0558edf0c54c1916b6f92b7e86c54eb43531e2e8a8d13c9aa90635572577bc75",
+      "reasonCodes": [
+        "MULTIPLE_RELIABLE_TARGETS"
+      ],
+      "changed": true
+    },
+    {
+      "id": "invalid-listing-no-identifiers",
+      "source": "Mandarake",
+      "category": "unknown",
+      "legacyTargetId": null,
+      "newTargetId": null,
+      "status": "unmatched",
+      "decisionId": "21fd5c1e13c6760badd5c55f97b75c688ef7d0605b4d3bbf1694260540160ce5",
+      "reasonCodes": [
+        "NO_CANDIDATES"
+      ],
+      "changed": false
+    },
+    {
+      "id": "valid-jan-same-edition",
+      "source": "骏河屋",
+      "category": "goods",
+      "legacyTargetId": "target-10023",
+      "newTargetId": "target-10023",
+      "status": "matched",
+      "decisionId": "b50af1964d05b2f8ff005f95deb2037b198487b28b6993b9603fb2ccb70b35cd",
+      "reasonCodes": [
+        "SCOPED_GTIN"
+      ],
+      "changed": false
+    }
+  ]
+}

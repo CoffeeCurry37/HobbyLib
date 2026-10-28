@@ -6,9 +6,13 @@ export function bookPublisher(item:Item){
  return /^(?:エンターブレイン|アスキー[・･]メディアワークス)(?:\s*[/／]\s*KADOKAWA)?$/i.test(value)?'KADOKAWA':value;
 }
 export const literalProductName=(title:string)=>cleanProductTitle(title).normalize('NFKC').toLowerCase().replace(/[\s\p{P}\p{S}]+/gu,'');
+export const normalizedCode=(code:string)=>code.normalize('NFKC').replace(/[\s-]/g,'').toUpperCase();
+export function validGtin(raw:string){const code=normalizedCode(raw);return /^(?:\d{8}|\d{13})$/.test(code)&&[...code].reduce((n,d,i)=>n+Number(d)*((code.length-1-i)%2?3:1),0)%10===0;}
 export function physicalBookCode(item:Item){
- const valid=(code:string)=>/^97[89]\d{10}$/.test(code)&&[...code].reduce((n,d,i)=>n+Number(d)*(i%2?3:1),0)%10===0;
- return [item.isbn,item.jan].find(code=>code&&valid(code))||'';
+ for(const raw of [item.isbn,item.jan]){const code=normalizedCode(raw);
+  if(/^97[89]\d{10}$/.test(code)&&validGtin(code))return code;
+  if(/^\d{9}[\dX]$/.test(code)&&[...code].reduce((n,d,i)=>n+(d==='X'?10:Number(d))*(10-i),0)%11===0){const prefix='978'+code.slice(0,9),check=(10-[...prefix].reduce((n,d,i)=>n+Number(d)*(i%2?3:1),0)%10)%10;return prefix+check;}
+ }return '';
 }
 const key=(s:string)=>s.normalize('NFKC').replace(/\s+/g,'').toLowerCase();
 const cleanCircle=(s:string)=>s.normalize('NFKC').replace(/^[Cc]\d{2,3}\s+/,'').replace(/[、,]\s*(?:JAN|ISBN)\s*[:：].*$/i,'').trim();

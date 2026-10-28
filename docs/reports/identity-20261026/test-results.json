@@ -1,0 +1,48 @@
+{
+  "baseline": "2003e3d31526821e681b9fdcc1d51b7b6ec7d6be",
+  "core": {
+    "passed": 20,
+    "failed": 0
+  },
+  "identity": {
+    "passed": 12,
+    "failed": 0,
+    "includes": "backup restore retains MatchDecision, event watermark, personal fields and replay deduplication"
+  },
+  "editorialFlow": "passed",
+  "typecheck": "passed",
+  "builds": {
+    "standalone": "passed",
+    "sites": "passed",
+    "deployment": false
+  },
+  "workflowPassed": 16,
+  "knownFailures": [
+    {
+      "suite": "v4 (default entrypoint)",
+      "baselineAlsoFails": true,
+      "assertion": "宙出版 TYPE-MOON 月姫読本PlusPeriod title vs TYPE MOON normalization"
+    },
+    {
+      "suite": "v8",
+      "baselineAlsoFails": true,
+      "assertion": "legacy 华夫饼卡片 taxonomy label"
+    },
+    {
+      "suite": "fate-snapshot",
+      "baselineAlsoFails": true,
+      "assertion": "scan audit count 0 != 4",
+      "allImportBatchesCompleted": 64,
+      "baselineElapsedSeconds": 438.925,
+      "branchElapsedSeconds": 1358.507,
+      "postAssertionChecks": "not reached"
+    }
+  ],
+  "notRun": [
+    "production replay/migrations/deploy",
+    "browser interaction QA",
+    "24-hour monitoring"
+  ],
+  "productionWrites": 0,
+  "verifiedAdded": 0
+}

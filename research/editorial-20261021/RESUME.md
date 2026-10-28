@@ -1,3 +1,7 @@
+> Current execution authority (2026-10-27): [Issue #3 checkpoint](../../docs/NEXT_TASK.md). NO-GO at 104269b; repair relation/prefs races, then full-copy atomic rehearsal and real browser QA. Issue #3 conditionally authorizes publication and the fixed 32 Items/5 edges only after acceptance. Historical approval/cursor notes below are superseded.
+
+> Latest checkpoint (2026-10-27): code/data **3fa5d8c** pushed; documentation head is `git log -1`. 32 prepared / 32 isolatedApplied / 0 productionApplied; isolated verified14 / partial18. Sites remains64; release prepared and local HTTP QA passed, browser visual QA unavailable. Read the final two checkpoint sections and batch-005/006 first; preceding production counts describe historical snapshots. Usage quota/reset not visible.
+
 # Exhaustive non-doujin catalogue review
 
 User asks every active non-doujin record to be individually checked against source pages for classification/hierarchy, cover, relevant tags and a one-sentence Chinese summary. No record may be silently skipped. Existing notes, ownership and manual edits must survive.
@@ -66,3 +70,33 @@ Full projection validation passed: 227,551,131 bytes -> 44,961,161 bytes (80% le
 - Exact item-level public decisions and image receipts: batch-003/ and batch-004/. Combined live verification: batch-004/live-validation.json.
 
 Resume at #91 plus unresolved items using current workflow/summary.json and packet. All 15,811 IDs remain accounted for, and none of the unfinished records have been silently removed.
+
+## Identity implementation audit (read-only)
+
+The implementation branch completed a fixed-ordinal audit of all 15,811 slots and validated a five-edge Prototype reparenting plan in the complete isolated snapshot. No production curation, new verification, batch replay or Sites publish occurred. Continue at #91 with 42 partials; do not replay batches 001–004. See ../../docs/IDENTITY-HANDOFF.md and the machine-readable report/plan in ../../docs/reports/identity-20261026/. Suggestions and grouping remain separate from source verification.
+
+## PR #2 acceptance checkpoint — 2026-10-27 UTC
+
+Three API/ingest regressions reproduced at 760a508 and fixed on feat/explainable-identity; see ../../docs/IDENTITY-HANDOFF.md and acceptance-20261027 reports. Production remains untouched; batches 001–004 must not be replayed. Fresh native DB rows were truncated, so current production versions are unavailable. Last reliable checkpoint remains #91, 310 verified / 42 partial / 1 archived. Business prepared/applied/newly verified: 0 at this code checkpoint. Continue the complete Enterbrain anthology group #81–91 using prior sources and #80's verified image receipt, then Prototype #484/#486–490. Full copy remains work/identity/full-copy.sqlite; no repeat import or audit. Usage quota and reset time are not exposed.
+
+## Batch 005 prepared and applied in isolated copy — 2026-10-27 UTC
+
+Current branch feat/explainable-identity, code checkpoint a541f10 pushed. This commit saves 29 prepared decisions: #80–93, #484–490, #493–500. Full IDs and differences: batch-005/diffs.json. Production applied 0; isolatedApplied 29; isolated verified 14 / partial 15; production progress is not advanced. Six previous partials can resolve after approved application; nine anthology covers remain unresolved. All 47,433 offers/history, 8,549 archives, personal/manual fields, original descriptions and 15,811 ordinals preserved; 43,540 untouched records byte-identical. Five Prototype logical edges moved, stale plans and undo-after-edit rejected, exact rollback passed. See batch-005/README.md, validation.json, source-cache-reuse.json and network-crosschecks.json.
+
+Private files work/editorial-005/: targets.json, actions.json, rollback-items.json, review.sqlite (applied local copy). No production receipts for 005; never replay 001–004. Fresh production projection and target versions still unavailable because native table JSON is truncated. Do not send snapshot actions. Next: Sites release preparation/local preview, then #509–511 Requiem or #94 Apocrypha. Run `cat research/editorial-20261021/batch-005/validation.json` first. Quota/reset invisible.
+
+## Batch006 and atomic relation API checkpoint
+
+#509–511 (Fate/Requiem directory and both published volumes) prepared/applied in the isolated copy; three remain partial for image correspondence. Combined005+006: prepared32, isolatedApplied32, productionApplied0, isolated verified14/partial18, preserved43537 unrelated records. Full before/after: batch-005/FULL-CHANGES.md and batch-006/FULL-CHANGES.md. Batch005 final validation now uses the actual guarded curation relation-revision API for all five moves. For production, stage #484–490 field edits and five moves in one request with fresh endpoint/graph versions; do not replay intermediate rehearsal operations. Current full local copy work/editorial-005/review.sqlite; latest combined hash batch-006/validation.json. No production authorization/receipts. Never replay001–004. Next: release preparation and local HTTP preview; then #94 Apocrypha after fresh target access. Quota/reset not exposed.
+
+## Release preparation complete; no production application
+
+Code/data checkpoint3fa5d8c pushed; this documentation commit adds release/preview receipts. Fixed GitHub3fa5d8c→prepared local Sites7a95d3bb, build passed, no saved version or deployment; live remains64/6357bd5. Authenticated local preview read all32 Items successfully; browser visual QA unavailable. See ../../docs/SITES-RELEASE.md. Current combined32-item application lives only in work/editorial-005/review.sqlite, final hash in batch-006/validation.json. Prepared32 / isolatedApplied32 / productionApplied0 / isolated verified14 / partial18. Full IDs/sources/diffs in both batches. Await concrete32-item/five-edge production approval and fresh complete targets; relation writes also require independently authorized deployment of the supporting API. No replay001–004. Next command: `cat research/editorial-20261021/batch-006/validation.json`; next research group#94 Apocrypha. Usage quota/reset invisible.
+
+## Issue #3 stages 1–2 — 2026-10-27 14:29 UTC
+
+Follow ../../docs/NEXT_TASK.md. Relation/prefs regressions fixed; 8/8 new API cases passed. Seven real Prototype endpoints (#484–490) and five moves applied in one request in the complete disposable snapshot; dismissal races, stale versions, replay and guarded rollback verified. No production writes or new business verification: prepared32 / isolatedApplied32 / productionApplied0 / verifiedDelta0 / partial18. Browser QA now uses installed Chromium; publication remains gated on its result. Reports ../../docs/reports/issue-3/. Never replay001–004 or use historical local actions against production. Quota/reset unavailable. Next command: `cat docs/reports/issue-3/browser-qa.json`.
+
+## Issue #3 stage 3 — 2026-10-27 14:35 UTC
+
+Real Chromium QA now passed all five required flows, including stale edit 409/reload, review resolution retaining observations, and mobile390/320. Fixed the observed UI/API issues; fresh type/build checks passed. Code stage1–2 pushed as02a10c7; next head via git log. Native Sites head remains6357bd5/version64/custom. Follow NEXT_TASK for conditionally authorized merge/publication, then fetch fresh fixed32 targets; no new production application or verifiedDelta yet. Image rendering was network-limited locally; locate historical receipts before assigning verified. Quota/reset unavailable.

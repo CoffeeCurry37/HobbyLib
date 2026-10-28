@@ -47,3 +47,22 @@ classification/context/image/tags/summary 五项全满足且无 unresolved 才�
 ## 发布边界
 
 GitHub 源码、线上 D1、Sites 发布是三个独立环节。维护端点还要求短期令牌、截止时间和目标账号。读取/备份不需要开启维护窗口。本次同步没有提交部署密钥或浏览器会话。
+
+## 规则 22 实施索引
+
+| 模块 | 当前行为 |
+| --- | --- |
+| identity.ts / identity-facts.ts | 有效来源键；统一硬冲突；ISBN-10/13、历史 JAN 中 ISBN；替换索引移除旧键；唯一目标 |
+| match-decision.ts | 四态决定、稳定理由码、SHA-256 输入/决定、原值/作用域证据；与 findProduct 共用 evaluateProduct |
+| service.ts / atomic-ingest.ts | 同键冲突进入稳定 review Item；旧观测不覆盖资料；Item/Offer/关系/通知事务提交；并发变更拒绝；compact 导入共用有界候选 |
+| relation-guard.ts | curation/merge/ingest 对读取的关系图作原子校验，防止仅保护 Item 后覆盖关系 |
+| market-events.ts | Offer 内事件序号与类型；new_listing / restock / price_drop；通知删除或读取窗口之外仍不重放 |
+| price-comparison.ts | 成色、附件、税制、出售形式分组；竞拍/整套标识，未知到手费用和汇率保留 null |
+| tag-provenance.ts | 命名空间、别名与字段证据投影；兼容 string[]，保护人工标签，来源不明旧标签保留 |
+| revision-plan.ts / prototype-plan.mjs | 本地计划的 Item/关系/规则保护、图完整性与撤销校验；无生产执行端点 |
+| snapshot-stage.py / identity-audit.mjs | 流式完整本地副本、分页读取、候选索引、固定编号、输入/代码/数据哈希与可恢复产物 |
+| identity-evaluate.mjs / identity-shadow.mjs | 无系列/挂牌跨 split 泄漏的合成评测；完整旧 checkout 与当前规则只读比较 |
+
+新增 Item.matchDecision 与 Offer.eventSequence/lastEvent 都是可选 JSON 字段，现有导入/导出 schema 接受它们；没有新增 SQL 表或改写迁移。API 的 `identity-shadow` 在 stateFor 之前只读召回，既不迁移历史记录，也不请求来源。其旧路由比较与完整旧规则回放分别标注，不能混称。
+
+逻辑系列仍兼容历史 `contains` 存储，但 catalogueGroup 的边表示目录成员；不会据此把目录当作可售实物或推定物理齐套。售罄/补货、拥有状态、附件和版本分别处理。[兼容与回滚](IDENTITY-HANDOFF.md) 包含复现命令及发布边界。

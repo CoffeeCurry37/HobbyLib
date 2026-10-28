@@ -1,0 +1,85 @@
+{
+  "scope": "isolated complete snapshot; no production writes",
+  "pass": true,
+  "items": 43569,
+  "archives": 8549,
+  "offers": 47433,
+  "relations": 1835,
+  "endpoints": [
+    "family-ece84739ad4d11735dbc4948fe7edd5f",
+    "source-1a19408b2f4ef5af6c71b43dde757f3c",
+    "source-c2b2e148b7681b82c96330739b270d70",
+    "source-ad7c3d833749fffd927ae606c8a14513",
+    "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+    "source-9447610c42728f7b86ee5d52ba4486ca",
+    "family-c91ba4972ab712e2ca5b67ef3132eeb1"
+  ],
+  "endpointChangesInSingleRequest": 7,
+  "relationMovesInSameRequest": 5,
+  "unchangedRecords": 43562,
+  "unrelatedBytesPreserved": true,
+  "personalManualOffersDescriptionsTitlesPreserved": true,
+  "staleItemRejected": true,
+  "existingDismissalRejected": true,
+  "racingDismissalPreserved": true,
+  "replayRejected": true,
+  "staleRollbackRejected": true,
+  "rollback": {
+    "itemValuesExact": true,
+    "relationsExact": true,
+    "preferencesBytesExact": true,
+    "itemJSONPropertyOrderMayChange": true
+  },
+  "beforeHash": "a394412e33cd39fd5ffd3a6dddc8ef90c00eafc7152cbdf2a913bba47011f8a9",
+  "afterHash": "738c3f6952460737c180a01f9791411ec9b329950e16ccebf4ff63c3c3e132a4",
+  "untouchedHash": "31d20efecafa4c53af2fe15f10a7793eaa39a470a85320c5959f6c9435565b81",
+  "receipts": [
+    {
+      "label": "already dismissed target",
+      "status": 409,
+      "body": {
+        "error": "目标关联已被用户取消，请重新读取并复核修订计划",
+        "code": "RELATION_DISMISSED"
+      }
+    },
+    {
+      "label": "concurrent dismissal",
+      "status": 409,
+      "body": {
+        "error": "商品、偏好或关联已有并发修改，请重新读取后重试",
+        "code": "VERSION_CONFLICT"
+      }
+    },
+    {
+      "label": "stale Item",
+      "status": 409,
+      "body": {
+        "error": "商品、偏好或关联已有并发修改，请重新读取后重试",
+        "code": "VERSION_CONFLICT"
+      }
+    },
+    {
+      "label": "one request: seven fields + five moves",
+      "status": 200,
+      "body": {
+        "ok": true,
+        "created": 0,
+        "updated": 7,
+        "linked": 5,
+        "unlinked": 5
+      }
+    },
+    {
+      "label": "replay rejected",
+      "status": 409,
+      "body": {
+        "error": "商品、偏好或关联已有并发修改，请重新读取后重试",
+        "code": "VERSION_CONFLICT"
+      }
+    }
+  ],
+  "productionApplied": 0,
+  "verifiedDelta": 0,
+  "quota": "not exposed",
+  "quotaReset": "not exposed"
+}

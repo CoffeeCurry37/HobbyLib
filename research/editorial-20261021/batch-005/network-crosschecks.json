@@ -1,0 +1,140 @@
+{
+  "checkedAt": "2026-10-27",
+  "method": "native web indexed/detail pages + retained publisher cache; no live quote update",
+  "facts": [
+    {
+      "ordinals": [
+        91
+      ],
+      "urls": [
+        "https://www.suruga-ya.jp/product/detail/WN1316?branch_number=0002",
+        "https://www.kadokawa.co.jp/product/200700002943/"
+      ],
+      "facts": [
+        "WN1316 is full ten-volume seller lot, branch 0002 rank B",
+        "9784757723528 identifies anthology volume 10, not the lot"
+      ],
+      "image": "URL located; visual inspection unavailable"
+    },
+    {
+      "ordinals": [
+        92,
+        93
+      ],
+      "urls": [
+        "https://typemoon.com/products/tmbooks/aslaug/",
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-032171-R",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/ZHORE256167"
+      ],
+      "facts": [
+        "official vol 1: 桜井光 / 三輪士郎, 亜種二連聖杯戦争",
+        "Amiami JAN 4560158371057; Suruga store code 0400310302762; do not equate codes",
+        "paper book release 2022-12-31; ebook is separately dated 2023-01-20"
+      ],
+      "image": "not visually checked"
+    },
+    {
+      "ordinals": [
+        495
+      ],
+      "urls": [
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2Y1040",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2Y1252"
+      ],
+      "facts": [
+        "2Y1040 original five-volume set; 2Y1252 explicitly 収納BOX付",
+        "Both use final-volume ISBN, which does not identify a box set"
+      ],
+      "unresolved": "mixed offer variants need a separately reviewed split; none moved"
+    },
+    {
+      "ordinals": [
+        493
+      ],
+      "urls": [
+        "https://www.kadokawa.co.jp/product/322404000992/",
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-041430"
+      ],
+      "facts": [
+        "manga vol1 special edition ISBN 9784041152652",
+        "鈴木ツタ manga; Saber acrylic stand included in this special edition"
+      ],
+      "image": "not visually checked; normal-edition cover not substituted"
+    },
+    {
+      "ordinals": [
+        486,
+        496
+      ],
+      "urls": [
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+      ],
+      "facts": [
+        "vol 1; JAN/ISBN 9784041021279; 桜井光, 中原, TYPE-MOON",
+        "novel; publisher navigation classification does not change medium"
+      ],
+      "dateConflict": null
+    },
+    {
+      "ordinals": [
+        487,
+        497
+      ],
+      "urls": [
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+      ],
+      "facts": [
+        "vol 2; JAN/ISBN 9784041021286; 桜井光, 中原, TYPE-MOON",
+        "novel; publisher navigation classification does not change medium"
+      ],
+      "dateConflict": null
+    },
+    {
+      "ordinals": [
+        488,
+        498
+      ],
+      "urls": [
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+      ],
+      "facts": [
+        "vol 3; JAN/ISBN 9784041024522; 桜井光, 中原, TYPE-MOON",
+        "novel; publisher navigation classification does not change medium"
+      ],
+      "dateConflict": null
+    },
+    {
+      "ordinals": [
+        489,
+        499
+      ],
+      "urls": [
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+      ],
+      "facts": [
+        "vol 4; JAN/ISBN 9784041024539; 桜井光, 中原, TYPE-MOON",
+        "novel; publisher navigation classification does not change medium"
+      ],
+      "dateConflict": null
+    },
+    {
+      "ordinals": [
+        490,
+        500
+      ],
+      "urls": [
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+      ],
+      "facts": [
+        "vol 5; JAN/ISBN 9784041031445; 桜井光, 中原, TYPE-MOON",
+        "novel; publisher navigation classification does not change medium"
+      ],
+      "dateConflict": "store 2017-03-10 versus publisher 2017-04-26; publisher preferred for Item, Offer preserved"
+    }
+  ],
+  "rejectedSources": [
+    "ISBN 9784757720633 misused on unrelated Chinese-language books; excluded",
+    "generic navigation/search result terms excluded"
+  ],
+  "limitation": "native web image responses contained text markers only; no new visual checks claimed"
+}

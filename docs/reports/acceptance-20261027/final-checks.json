@@ -1,0 +1,29 @@
+{
+  "codeCommit": "3fa5d8c0efaf190bd2fd5e60d350c6ac820cbcaf",
+  "newChecks": {
+    "test-acceptance": "3 passed",
+    "test-curation-revision": "passed",
+    "test-editorial-flow": "passed",
+    "tsc --noEmit": "passed",
+    "Sites build": "passed",
+    "standalone build": "passed",
+    "batch-005 actual API field and relation application": "passed",
+    "batch-006 actual API field application": "passed",
+    "authenticated local app/32 item reads": "passed"
+  },
+  "reusedEarlierChecks": [
+    "core",
+    "identity",
+    "related workflows"
+  ],
+  "knownBaselineFailures": [
+    "v4 title/publisher",
+    "v8 taxonomy",
+    "fate-snapshot scans 0!=4"
+  ],
+  "baselineFailuresRerun": false,
+  "browserVisualQA": false,
+  "productionWritten": false,
+  "quotaVisible": false,
+  "quotaResetVisible": false
+}

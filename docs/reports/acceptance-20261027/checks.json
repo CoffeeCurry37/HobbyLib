@@ -1,0 +1,43 @@
+[
+  {
+    "name": "acceptance",
+    "exit": 0,
+    "seconds": 1.189
+  },
+  {
+    "name": "identity",
+    "exit": 0,
+    "seconds": 1.127
+  },
+  {
+    "name": "core",
+    "exit": 0,
+    "seconds": 0.9
+  },
+  {
+    "name": "editorial",
+    "exit": 0,
+    "seconds": 4.648
+  },
+  {
+    "name": "workflows",
+    "exit": 0,
+    "seconds": 3.704
+  },
+  {
+    "name": "types",
+    "exit": 0,
+    "seconds": 4.729,
+    "rerun": "type annotation corrected; tsc --noEmit passed"
+  },
+  {
+    "name": "standalone-build",
+    "exit": 0,
+    "seconds": 3.031
+  },
+  {
+    "name": "sites-build",
+    "exit": 0,
+    "seconds": 9.102
+  }
+]
