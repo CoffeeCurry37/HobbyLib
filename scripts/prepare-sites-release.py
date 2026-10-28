@@ -20,9 +20,11 @@ with (out/'build.log').open('w') as log:subprocess.run(['pnpm','build'],cwd=root
 dist=root/'dist';hosting=json.loads((dist/'.openai/hosting.json').read_text());assert hosting['project_id']==manifest['project_id'];assert (dist/'server/index.js').is_file()
 archive=out/'site.tar.gz'
 with tarfile.open(archive,'w:gz') as tar:
- for child in sorted(dist.iterdir()):tar.add(child,arcname=child.name,recursive=True)
+ tar.add(dist/'.openai',arcname='.openai',recursive=True)
+ for child in sorted(dist.iterdir()):
+  if child.name!='.openai':tar.add(child,arcname='dist/'+child.name,recursive=True)
 with tarfile.open(archive) as tar:
- names=tar.getnames();assert '.openai/hosting.json' in names;assert 'server/index.js' in names
+ names=tar.getnames();assert '.openai/hosting.json' in names;assert 'dist/server/index.js' in names
  assert not any(n.startswith(('snapshots/','research/','work/','data/')) or n.endswith(('.sqlite','.sqlite-wal','.key')) for n in names)
 receipt=dict(projectId=manifest['project_id'],githubCommit=commit,sitesBaseCommit=expected,preparedSitesSourceCommit=candidate,identicalSourceTree=True,fastForwardFromObservedSitesHead=True,sitesVersion=None,baselineSitesVersion=64,build='passed',archive=str(archive),archiveSha256=hashlib.sha256(archive.read_bytes()).hexdigest(),archiveBytes=archive.stat().st_size,archiveFiles=len(names),pushedToSites=False,savedVersion=False,published=False,productionDatabaseModified=False,accessMode='custom; unchanged',nativePublishOnPushAccepted=False,next='After separate publication authorization: refresh native site/source HEAD; require unchanged base; push this candidate without force; save_site_version with its exact SHA and archive; deploy saved version preserving audience; read terminal deployment status. Record returned version/deployment IDs. Rebuild if any source changes.')
 (out/'mapping.json').write_text(json.dumps(receipt,indent=2)+'\n');print(json.dumps(receipt))

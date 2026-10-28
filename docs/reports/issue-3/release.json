@@ -1,0 +1,56 @@
+{
+  "at": "2026-10-28T00:19:00Z",
+  "github": {
+    "pr": 2,
+    "sha": "14a3f2e9758e6020fbf844fc062e74d27457ab78",
+    "merged": true,
+    "message": "Pull Request successfully merged",
+    "reviewedHead": "ea7c167129c57b7fc515b1ffe73b4c12b2c905a7"
+  },
+  "sitesBase": "6357bd5f020415c17652bf2bdfdbd26130bdac17",
+  "sitesSourceCommit": "271d287c534bf3a93cc53d8727b6f6f0eafd6917",
+  "localArchiveSha256": "89fc0f7e1064347dfa8c989dedf3e33d25bb79dcfce52f5ba67ea5ffb1f8b88a",
+  "savedVersion": {
+    "id": "appgprj_6ab5bd99340881919e4311a732df6eb9~appgver_7d7492a4b3708191a6411c811baf056e",
+    "project_id": "appgprj_6ab5bd99340881919e4311a732df6eb9",
+    "version_number": 65,
+    "source": {
+      "commit_sha": "271d287c534bf3a93cc53d8727b6f6f0eafd6917"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_0000000070b081f7a9b0dec4d81fb48d",
+      "content_hash": "sha256:5ea2f4496ef51a95fd724fc6da10744892ece2b40bec8ad5c849d47e3e7b5bf0",
+      "size_bytes": 104048640,
+      "file_count": 281
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ae13f49c2ac81919a31d77ee9108166",
+    "project_id": "appgprj_6ab5bd99340881919e4311a732df6eb9",
+    "title": "Collector Radar · 收藏雷达",
+    "version_id": "appgprj_6ab5bd99340881919e4311a732df6eb9~appgver_7d7492a4b3708191a6411c811baf056e",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://collector-radar.martainjonn.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab5bd99340881919e4311a732df6eb9",
+    "failure_message": null,
+    "env_set_revision": 62,
+    "updated_at": "2026-10-28T00:18:29.216122+00:00"
+  },
+  "postDeployment": {
+    "version": 65,
+    "access": "custom",
+    "url": "https://collector-radar.martainjonn.chatgpt.site"
+  },
+  "productionApplied": 0,
+  "verifiedDelta": 0,
+  "maintenanceEnvironmentChanged": false,
+  "productionBlocker": "enforced cloud egress denies collector-radar.martainjonn.chatgpt.site with CONNECT 403; native D1 row values truncated; cannot safely read fresh complete targets",
+  "quota": "not exposed",
+  "quotaReset": "not exposed"
+}
