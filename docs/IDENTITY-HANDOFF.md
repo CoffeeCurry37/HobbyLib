@@ -1,3 +1,5 @@
+> 暂停检查点（2026-10-28 00:36 UTC）：用户要求立即终止，留待下个对话接续。用户已告知网站域名加入环境允许列表，实际策略/连通性尚未重验；本轮不再执行生产动作。分支 main，前一成果 bcbee8a，暂停提交见 git log -1。PR #2 已合并、Sites65 已发布；固定32 prepared / 32 isolatedApplied / 0 productionApplied / 0 verifiedDelta / 2 verifiedEligible / 30 partial。#495 三Item拆分方案只在隔离副本演练；Apocrypha 七Item仅开始定位，决定0、应用0，见研究 issue-3-apocrypha-start.json。以 [NEXT_TASK.md](NEXT_TASK.md) 的下一命令为准，禁止重放001–004或旧005–006动作。额度/重置不可见。
+
 > 图片状态更新（2026-10-28 00:25 UTC）：固定32条当前待应用五项资格2 / partial30，生产0 / verifiedDelta0。12条缺独立视觉凭证，已通过真实API在完整副本降级并验证保留/回滚；不能再使用旧14/18生成生产动作。逐项证据见 research/editorial-20261021/issue-3-image-review/。下一自然风险组：#495 普通五卷拼套与ComptiQ×Animate BOX付拼套拆分计划（仅研究/隔离，未获生产授权）。
 
 > 最新状态（2026-10-28 00:20 UTC）：PR #2已合并14a3f2e，Sites65已成功发布，source271d287c / deployment appgdep_6ae13f49c2ac81919a31d77ee9108166。工作分支main。生产32条尚未应用：环境网络策略拒绝网站域名，需完整新鲜目标；已请求配置放行。下一步见 [NEXT_TASK](NEXT_TASK.md)，下面旧NO-GO/等待发布段落是历史。额度/重置不可见。

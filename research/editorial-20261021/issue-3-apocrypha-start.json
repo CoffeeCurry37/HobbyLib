@@ -1,0 +1,33 @@
+{
+  "checkpointUTC": "2026-10-28T00:36:00Z",
+  "status": "research-started-paused-by-user",
+  "basis": "Existing isolated snapshot work/identity/full-copy.sqlite; not fresh production",
+  "counts": {"located": 7, "prepared": 0, "isolatedApplied": 0, "productionApplied": 0, "verified": 0},
+  "targets": [
+    {"ordinal": 94, "itemId": "family-0781a9fea9ace11c74847369876b90b6", "role": "logical novel parent"},
+    {"ordinal": 106, "itemId": "member-19n9abq", "volume": 1, "inferredMember": true},
+    {"ordinal": 111, "itemId": "member-19d9omr", "volume": 2, "inferredMember": true},
+    {"ordinal": 112, "itemId": "member-193a2xs", "volume": 3, "inferredMember": true},
+    {"ordinal": 113, "itemId": "member-1b17asl", "volume": 4, "inferredMember": true},
+    {"ordinal": 114, "itemId": "member-1ar7p3m", "volume": 5, "inferredMember": true},
+    {"ordinal": 107, "itemId": "01056bf0-b133-4df0-87a8-ff15cfc0f249", "role": "seller lot", "existingJan": "9784041085387"}
+  ],
+  "locatedSources": [
+    {"url": "https://www.suruga-ya.jp/product/detail/2W7901", "observation": "Page title identifies a paperback light-novel 1–5 seller lot, still labelled 未完. This does not prove uniform editions or supplied extras.", "receipt": "turn647793view0", "state": "opened-title-seen; complete product facts still need extraction"},
+    {"url": "https://www.kadokawa.co.jp/product/321904000278/", "title": "Fate/Apocrypha Vol.1 外典：聖杯大戦", "isbn": "9784041085349", "edition": "角川文庫", "receipt": "turn647793search0", "state": "search-result-located; page body and exact target correspondence not yet checked"},
+    {"url": "https://www.kadokawa.co.jp/product/321904000283/", "title": "Fate/Apocrypha Vol.5 邪竜と聖女", "isbn": "9784041085387", "edition": "角川文庫", "receipt": "turn647793search2", "state": "search-result-located; page body and exact target correspondence not yet checked"},
+    {"url": "https://www.kadokawa.co.jp/product/321706000837/", "title": "Fate/Apocrypha vol.1 外典:聖杯大戦", "edition": "TYPE-MOON BOOKS", "receipt": "turn647793search7", "state": "different-edition candidate; do not conflate with paperback"}
+  ],
+  "possibleExistingDuplicates": [
+    {"ordinal": 104, "itemId": "c6d57360-d89b-417f-92ae-64d21a68b4de", "volume": 3, "isbn": "9784041085363"},
+    {"ordinal": 105, "itemId": "2461b13e-e135-46a5-8bed-2855b55d7281", "volume": 4, "isbn": "9784041085370"}
+  ],
+  "unresolved": [
+    "Determine the seller lot's actual edition before assigning ISBNs to inferred members.",
+    "The seller lot stores volume 5 ISBN as JAN; separate aggregate identity from per-volume identity without changing raw Offer evidence.",
+    "Check bounded ISBN matches for existing actual volumes before proposing any identity merge or relationship edit.",
+    "Read publisher product bodies and cached receipts for all five members; retain different TYPE-MOON BOOKS editions.",
+    "Chinese summaries, manual-tag-safe changes, image role and visual checks, before/after, versions, isolated API application and rollback remain undone."
+  ],
+  "nextStep": "After live access verification and fixed32 work per Issue #3, resume this group from these links and the existing workflow/source-cache. Do not count these seven as prepared or verified. No production authority inferred for new identity merges."
+}
