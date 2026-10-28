@@ -1,0 +1,3245 @@
+{
+  "schemaVersion": 1,
+  "issue": "https://github.com/CoffeeCurry37/HobbyLib/issues/3",
+  "readiness": "review_list_only_not_an_action_file",
+  "sourceSha": "7c3b20439b6d535db73c7914a34666154676ebeb",
+  "sourceFiles": {
+    "research/editorial-20261021/batch-005/diffs.json": "92d331f57c6c32d42988c1a17881d3734b12d61e8072603b687fdd1ceebc5f3d",
+    "research/editorial-20261021/batch-006/diffs.json": "cdfcd4de075c9c49a1df1096f8662936d4cb3da002cd3d831c773bdb53ae7b1e",
+    "research/editorial-20261021/issue-3-image-review/decisions.json": "c5c9ae48617cbd4cfbed6f0ebc8a1c91a79107a08f6748118ceae650f4ac3b9f"
+  },
+  "beforeValues": "Historical batch-005/006 baseline; current production values have not been read.",
+  "prepared": 32,
+  "historicalIsolatedApplied": 32,
+  "productionAppliedRecorded": 0,
+  "productionAppliedThisRun": 0,
+  "productionStateIndependentlyConfirmed": false,
+  "blockedItems": 32,
+  "failedWriteRequests": 0,
+  "verifiedDeltaThisRun": 0,
+  "verifiedEligible": 2,
+  "partial": 30,
+  "plannedBatches": [
+    [
+      80,
+      81
+    ],
+    [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    [
+      91,
+      92,
+      93
+    ],
+    [
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490
+    ],
+    [
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500
+    ],
+    [
+      509,
+      510,
+      511
+    ]
+  ],
+  "relations": [
+    {
+      "before": {
+        "id": "family-link-b702b2f4010c92b266963e83",
+        "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+        "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+        "kind": "contains",
+        "quantity": 1
+      },
+      "after": {
+        "id": "family-link-b702b2f4010c92b266963e83",
+        "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+        "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+        "kind": "contains",
+        "quantity": 1
+      }
+    },
+    {
+      "before": {
+        "id": "family-link-9980e4e05e0144351a997c60",
+        "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+        "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+        "kind": "contains",
+        "quantity": 1
+      },
+      "after": {
+        "id": "family-link-9980e4e05e0144351a997c60",
+        "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+        "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+        "kind": "contains",
+        "quantity": 1
+      }
+    },
+    {
+      "before": {
+        "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+        "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+        "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+        "kind": "contains",
+        "quantity": 1
+      },
+      "after": {
+        "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+        "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+        "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+        "kind": "contains",
+        "quantity": 1
+      }
+    },
+    {
+      "before": {
+        "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+        "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+        "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+        "kind": "contains",
+        "quantity": 1
+      },
+      "after": {
+        "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+        "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+        "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+        "kind": "contains",
+        "quantity": 1
+      }
+    },
+    {
+      "before": {
+        "id": "family-link-48fa7540b407688ad8607f7b",
+        "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+        "toId": "source-c2b2e148b7681b82c96330739b270d70",
+        "kind": "contains",
+        "quantity": 1
+      },
+      "after": {
+        "id": "family-link-48fa7540b407688ad8607f7b",
+        "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+        "toId": "source-c2b2e148b7681b82c96330739b270d70",
+        "kind": "contains",
+        "quantity": 1
+      }
+    }
+  ],
+  "items": [
+    {
+      "ordinal": 80,
+      "itemId": "family-bd1e9d29d163cfb06f93cbe07b7b0c30",
+      "title": "Fate stay night アンソロジーコミック",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=family-bd1e9d29d163cfb06f93cbe07b7b0c30",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "verified",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [],
+      "diff": {
+        "category": {
+          "before": "漫画系列目录",
+          "after": "コミック"
+        },
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "productType": {
+          "before": "漫画系列目录",
+          "after": "漫画选集系列目录"
+        },
+        "summary": {
+          "before": "Enterbrain／KADOKAWA 出版的《Fate/stay night》商业漫画 Anthology 系列目录，当前关联第 1 至 10 卷，封面采用第 1 卷参考图。",
+          "after": "Enterbrain「マジキューコミックス」《Fate/stay night》日文漫画选集的逻辑目录，按第1至第10卷组织独立单册。目录图采用第一卷的书影，各卷ISBN和挂牌分别保留。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画",
+            "Anthology",
+            "商业漫画选集",
+            "Enterbrain",
+            "KADOKAWA",
+            "系列目录"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス",
+            "系列目录"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集系列目录",
+        "summary": "Enterbrain「マジキューコミックス」《Fate/stay night》日文漫画选集的逻辑目录，按第1至第10卷组织独立单册。目录图采用第一卷的书影，各卷ISBN和挂牌分别保留。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス",
+          "系列目录"
+        ],
+        "imageRole": "catalogue_reference"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002632/",
+        "https://www.kadokawa.co.jp/product/200700002943/",
+        "https://jp.mercari.com/shops/product/mrP7SaCHPn5D6CVnoegqNJ"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 81,
+      "itemId": "member-17vmdp9",
+      "title": "Fate/stay night アンソロジーコミック1",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-17vmdp9",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "verified",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": true,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック1》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第1卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 1",
+          "after": "第1卷"
+        },
+        "image": {
+          "before": "",
+          "after": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg"
+        },
+        "imageRole": {
+          "before": null,
+          "after": "product"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第1卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "1",
+        "member": "第1卷",
+        "kind": "base",
+        "saleForm": "single",
+        "image": "https://assets.mercari-shops-static.com/-/large/plain/WWSMRtZgDAuJfFEUGQLxfi.jpg@jpg",
+        "imageRole": "product"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002632/",
+        "https://mottainaihonpo.com/shop/Item/bkui3105mblgqcfc"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 82,
+      "itemId": "member-1q1tmhj",
+      "title": "Fate/stay night アンソロジーコミック10",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-1q1tmhj",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック10》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第10卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 10",
+          "after": "第10卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第10卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "10",
+        "member": "第10卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002943/",
+        "https://item.rakuten.co.jp/comicset/4757723520/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 83,
+      "itemId": "member-171nkmc",
+      "title": "Fate/stay night アンソロジーコミック2",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-171nkmc",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック2》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第2卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 2",
+          "after": "第2卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第2卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "2",
+        "member": "第2卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002647/",
+        "https://www.honyaclub.com/shop/goods/goods.aspx?goods=11979716"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 84,
+      "itemId": "member-17bn6bb",
+      "title": "Fate/Stay night アンソロジーコミック3",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-17bn6bb",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/Stay night アンソロジーコミック3》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第3卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。本卷书目记载150页。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 3",
+          "after": "第3卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第3卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。本卷书目记载150页。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "3",
+        "member": "第3卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002704/",
+        "https://books.rakuten.co.jp/rb/1694636/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 85,
+      "itemId": "member-16hod8e",
+      "title": "Fate/Stay night アンソロジーコミック4",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-16hod8e",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/Stay night アンソロジーコミック4》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第4卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 4",
+          "after": "第4卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第4卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "4",
+        "member": "第4卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002717/",
+        "https://jp.mercari.com/shops/product/2ypWsJBAooQgZgtiBBLuCL"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 86,
+      "itemId": "member-16rnyxd",
+      "title": "Fate/stay night アンソロジーコミック5",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-16rnyxd",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック5》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第5卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。本卷书目记载142页。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 5",
+          "after": "第5卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第5卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。本卷书目记载142页。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "5",
+        "member": "第5卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002742/",
+        "https://books.rakuten.co.jp/rb/1713007/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 87,
+      "itemId": "member-15xp5ug",
+      "title": "Fate/Stay night アンソロジーコミック6",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-15xp5ug",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/Stay night アンソロジーコミック6》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第6卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 6",
+          "after": "第6卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第6卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "6",
+        "member": "第6卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002776/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/WR666"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 88,
+      "itemId": "member-167orjf",
+      "title": "Fate/stay night アンソロジーコミック7",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-167orjf",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック7》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第7卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 7",
+          "after": "第7卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第7卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "7",
+        "member": "第7卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002817/",
+        "https://store.kadokawa.co.jp/shop/g/g200700002817/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 89,
+      "itemId": "member-15dpygi",
+      "title": "Fate/stay night アンソロジーコミック8",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-15dpygi",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック8》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第8卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 8",
+          "after": "第8卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第8卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "8",
+        "member": "第8卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002863/",
+        "https://store.kadokawa.co.jp/shop/g/g200700002863/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 90,
+      "itemId": "member-15npk5h",
+      "title": "Fate/stay night アンソロジーコミック9",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=member-15npk5h",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "出版社该卷封面旧回执为404；新增书目对应已核对，仍缺本卷可视觉确认的封面。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "KADOKAWA",
+          "after": "エンターブレイン"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/stay night アンソロジーコミック9》是漫画选集，收录围绕原作角色创作的商业短篇漫画。",
+          "after": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第9卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。"
+        },
+        "tags": {
+          "before": [
+            "Fate/stay night",
+            "漫画选集",
+            "Fate/stay night アンソロジーコミック",
+            "KADOKAWA",
+            "商业漫画选集",
+            "Enterbrain"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス"
+          ]
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 9",
+          "after": "第9卷"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集",
+        "summary": "Enterbrain「マジキューコミックス」出版的《Fate/stay night》日文漫画选集第9卷，属于这套十卷选集中的独立单册。以原作世界与人物为题材的选集形式，与同名故事漫画的连续改编卷次分别编目。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス"
+        ],
+        "wave": "9",
+        "member": "第9卷",
+        "kind": "base",
+        "saleForm": "single"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200700002906/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 91,
+      "itemId": "8d0ad208-bbb5-4139-97a0-457c57beed04",
+      "title": "Fate stay night アンソロジーコミック 全10巻セット(ランクB)",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=8d0ad208-bbb5-4139-97a0-457c57beed04",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "series": {
+          "before": "Fate",
+          "after": "Fate/stay night"
+        },
+        "productLine": {
+          "before": "Fate stay night アンソロジーコミック 全10巻セット(ランクB)",
+          "after": "Fate/stay night アンソロジーコミック"
+        },
+        "productType": {
+          "before": null,
+          "after": "漫画选集卖家套装"
+        },
+        "summary": {
+          "before": null,
+          "after": "骏河屋把Enterbrain版《Fate/stay night アンソロジーコミック》第1至第10卷合售的中古套装；本条原挂牌为ランクB。十册对应独立出版卷次，成色随挂牌保留。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "卖家拼套",
+            "アンソロジー",
+            "コミック",
+            "ランク",
+            "Fate",
+            "品牌:エンターブレイン",
+            "产品线:Fate stay night アンソロジーコミック 全10巻セット(ランクB)",
+            "作品:Fate",
+            "发售年:2005",
+            "出版社:エンターブレイン"
+          ],
+          "after": [
+            "Fate/stay night",
+            "漫画选集",
+            "エンターブレイン",
+            "マジキューコミックス",
+            "卖家拼套"
+          ]
+        },
+        "jan": {
+          "before": "9784757723528",
+          "after": ""
+        },
+        "wave": {
+          "before": null,
+          "after": "1–10"
+        },
+        "member": {
+          "before": "Fate stay night アンソロジーコミック 全10巻セット(ランクB)",
+          "after": "第1–10卷合售"
+        },
+        "imageRole": {
+          "before": null,
+          "after": "catalogue_reference"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "series": "Fate/stay night",
+        "productLine": "Fate/stay night アンソロジーコミック",
+        "publisher": "エンターブレイン",
+        "productType": "漫画选集卖家套装",
+        "summary": "骏河屋把Enterbrain版《Fate/stay night アンソロジーコミック》第1至第10卷合售的中古套装；本条原挂牌为ランクB。十册对应独立出版卷次，成色随挂牌保留。",
+        "tags": [
+          "Fate/stay night",
+          "漫画选集",
+          "エンターブレイン",
+          "マジキューコミックス",
+          "卖家拼套"
+        ],
+        "jan": "",
+        "wave": "1–10",
+        "member": "第1–10卷合售",
+        "kind": "set",
+        "saleForm": "seller_lot",
+        "imageRole": "catalogue_reference"
+      },
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/WN1316?branch_number=0002",
+        "https://www.kadokawa.co.jp/product/200700002943/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 92,
+      "itemId": "source-8756a25a5dafc97e8e16cc2dfec8c605",
+      "title": "Fate:Lost Einherjar 極光のアスラウグ 1巻 亜種二連聖杯戦争 (書籍)",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-8756a25a5dafc97e8e16cc2dfec8c605",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "series": {
+          "before": "Fate",
+          "after": "Fate:Lost Einherjar"
+        },
+        "productLine": {
+          "before": "Fate:Lost Einherjar 極光のアスラウグ 1巻 亜種二連聖杯戦争 (書籍)",
+          "after": "Fate:Lost Einherjar 極光のアスラウグ"
+        },
+        "wave": {
+          "before": null,
+          "after": "1"
+        },
+        "member": {
+          "before": "Fate:Lost Einherjar 極光のアスラウグ 1巻 亜種二連聖杯戦争 (書籍)",
+          "after": "第1卷 亜種二連聖杯戦争"
+        },
+        "summary": {
+          "before": null,
+          "after": "TYPE-MOON BOOKS发行、桜井光著、三輪士郎绘制插画的《Fate:Lost Einherjar 極光のアスラウグ》第一卷「亜種二連聖杯戦争」。故事从九世纪北欧延伸到201X年的奥斯陆，阿斯拉乌格与拉格纳作为从者被召唤，卷入二连圣杯战争。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Lost",
+            "聖杯",
+            "戦争",
+            "書籍",
+            "Fate",
+            "品牌:TYPE-MOON TYPE-MOON BOOKS",
+            "产品线:Fate:Lost Einherjar 極光のアスラウグ 1巻 亜種二連聖杯戦争 (書籍)",
+            "出版社:TYPE-MOON BOOKS",
+            "作品:Fate",
+            "发售年:2022",
+            "零售目录",
+            "TYPE-MOON"
+          ],
+          "after": [
+            "Fate:Lost Einherjar",
+            "小说",
+            "TYPE-MOON BOOKS",
+            "桜井光",
+            "三輪士郎",
+            "アスラウグ",
+            "ラグナル・ロズブローク"
+          ]
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "アスラウグ",
+            "ラグナル・ロズブローク"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate:Lost Einherjar",
+        "productLine": "Fate:Lost Einherjar 極光のアスラウグ",
+        "publisher": "TYPE-MOON BOOKS",
+        "wave": "1",
+        "member": "第1卷 亜種二連聖杯戦争",
+        "kind": "base",
+        "saleForm": "single",
+        "summary": "TYPE-MOON BOOKS发行、桜井光著、三輪士郎绘制插画的《Fate:Lost Einherjar 極光のアスラウグ》第一卷「亜種二連聖杯戦争」。故事从九世纪北欧延伸到201X年的奥斯陆，阿斯拉乌格与拉格纳作为从者被召唤，卷入二连圣杯战争。",
+        "tags": [
+          "Fate:Lost Einherjar",
+          "小说",
+          "TYPE-MOON BOOKS",
+          "桜井光",
+          "三輪士郎",
+          "アスラウグ",
+          "ラグナル・ロズブローク"
+        ],
+        "characters": [
+          "アスラウグ",
+          "ラグナル・ロズブローク"
+        ]
+      },
+      "sources": [
+        "https://typemoon.com/products/tmbooks/aslaug/",
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-032171-R"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 93,
+      "itemId": "source-47ed7d0c0174ad78f2164f35017e288a",
+      "title": "Fate:Lost Einherjar 極光のアスラウグ 1巻 亜種二連聖杯戦争 / 桜井光 / 三輪士郎 / TYPE-MOON",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-47ed7d0c0174ad78f2164f35017e288a",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "骏河屋内部编码0400310302762与Amiami发行JAN不同；不移植另一挂牌JAN、不自动合并，待书体/版权页与版本照片确认。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "category": {
+          "before": "書籍",
+          "after": "小説"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "series": {
+          "before": "Fate",
+          "after": "Fate:Lost Einherjar"
+        },
+        "productLine": {
+          "before": "Fate:Lost Einherjar 極光のアスラウグ 1巻 亜種二連聖杯戦争",
+          "after": "Fate:Lost Einherjar 極光のアスラウグ"
+        },
+        "publisher": {
+          "before": "TYPE-MOON",
+          "after": "TYPE-MOON BOOKS"
+        },
+        "wave": {
+          "before": null,
+          "after": "1"
+        },
+        "member": {
+          "before": "Fate:Lost Einherjar 極光のアスラウグ 1巻 亜種二連聖杯戦争 / 桜井光 / 三輪士郎 / TYPE-MOON",
+          "after": "第1卷 亜種二連聖杯戦争"
+        },
+        "summary": {
+          "before": null,
+          "after": "TYPE-MOON BOOKS发行、桜井光著、三輪士郎绘制插画的《Fate:Lost Einherjar 極光のアスラウグ》第一卷「亜種二連聖杯戦争」。故事从九世纪北欧延伸到201X年的奥斯陆，阿斯拉乌格与拉格纳作为从者被召唤，卷入二连圣杯战争。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Lost",
+            "聖杯",
+            "戦争",
+            "桜井",
+            "士郎",
+            "Fate",
+            "同人誌",
+            "品牌:TYPE－MOON",
+            "出版社:TYPE-MOON",
+            "作品:Fate",
+            "发售年:2022",
+            "类别:書籍"
+          ],
+          "after": [
+            "Fate:Lost Einherjar",
+            "小说",
+            "TYPE-MOON BOOKS",
+            "桜井光",
+            "三輪士郎",
+            "アスラウグ",
+            "ラグナル・ロズブローク"
+          ]
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "アスラウグ",
+            "ラグナル・ロズブローク"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate:Lost Einherjar",
+        "productLine": "Fate:Lost Einherjar 極光のアスラウグ",
+        "publisher": "TYPE-MOON BOOKS",
+        "wave": "1",
+        "member": "第1卷 亜種二連聖杯戦争",
+        "kind": "base",
+        "saleForm": "single",
+        "summary": "TYPE-MOON BOOKS发行、桜井光著、三輪士郎绘制插画的《Fate:Lost Einherjar 極光のアスラウグ》第一卷「亜種二連聖杯戦争」。故事从九世纪北欧延伸到201X年的奥斯陆，阿斯拉乌格与拉格纳作为从者被召唤，卷入二连圣杯战争。",
+        "tags": [
+          "Fate:Lost Einherjar",
+          "小说",
+          "TYPE-MOON BOOKS",
+          "桜井光",
+          "三輪士郎",
+          "アスラウグ",
+          "ラグナル・ロズブローク"
+        ],
+        "characters": [
+          "アスラウグ",
+          "ラグナル・ロズブローク"
+        ]
+      },
+      "sources": [
+        "https://typemoon.com/products/tmbooks/aslaug/",
+        "https://www.suruga-ya.jp/product/detail/ZHORE256167"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 484,
+      "itemId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说系列目录"
+        },
+        "publisher": {
+          "before": "角川書店/KADOKAWA",
+          "after": "KADOKAWA"
+        },
+        "summary": {
+          "before": null,
+          "after": "桜井光著、中原绘制插画的《Fate/Prototype 蒼銀のフラグメンツ》原版单行本小说目录，共五卷，描写《Fate/Prototype》八年前的圣杯战争。此目录组织原版各卷和店铺记录，文库改版与鈴木ツタ漫画版分别编目。"
+        },
+        "tags": {
+          "before": [
+            "系列档案"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "系列目录"
+          ]
+        },
+        "image": {
+          "before": "https://cdn.suruga-ya.jp/database/pics_webp/game/2m2990.jpg.webp",
+          "after": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说系列目录",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "summary": "桜井光著、中原绘制插画的《Fate/Prototype 蒼銀のフラグメンツ》原版单行本小说目录，共五卷，描写《Fate/Prototype》八年前的圣杯战争。此目录组织原版各卷和店铺记录，文库改版与鈴木ツタ漫画版分别编目。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "系列目录"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+        "imageRole": "catalogue_reference"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.kadokawa.co.jp/product/321502000137/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 485,
+      "itemId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=family-ece84739ad4d11735dbc4948fe7edd5f",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "productType": {
+          "before": null,
+          "after": "漫画系列目录"
+        },
+        "productLine": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ",
+          "after": "Fate/Prototype 蒼銀のフラグメンツ 漫画版"
+        },
+        "summary": {
+          "before": null,
+          "after": "鈴木ツタ改编《Fate/Prototype 蒼銀のフラグメンツ》小说的漫画版目录，以沙条爱歌与Saber参与的圣杯战争为故事背景。第一卷通常版与附亚克力立牌的特装版分别保留，原版小说各卷移入小说目录。"
+        },
+        "tags": {
+          "before": [
+            "系列档案"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "漫画",
+            "KADOKAWA",
+            "鈴木ツタ",
+            "系列目录"
+          ]
+        },
+        "image": {
+          "before": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp",
+          "after": "https://cdn.kdkw.jp/cover_1000/322404/322404000993.webp"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "productType": "漫画系列目录",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ 漫画版",
+        "publisher": "KADOKAWA",
+        "summary": "鈴木ツタ改编《Fate/Prototype 蒼銀のフラグメンツ》小说的漫画版目录，以沙条爱歌与Saber参与的圣杯战争为故事背景。第一卷通常版与附亚克力立牌的特装版分别保留，原版小说各卷移入小说目录。",
+        "tags": [
+          "Fate/Prototype",
+          "漫画",
+          "KADOKAWA",
+          "鈴木ツタ",
+          "系列目录"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/322404/322404000993.webp",
+        "imageRole": "catalogue_reference"
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/322404000993/",
+        "https://www.kadokawa.co.jp/product/322404000992/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 486,
+      "itemId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ (1)",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-9447610c42728f7b86ee5d52ba4486ca",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ (1)",
+          "after": "第1卷（原版单行本）"
+        },
+        "kind": {
+          "before": "unknown",
+          "after": "base"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/Prototype 蒼銀のフラグメンツ (1)》是小说，桜井光创作的 Fate/Prototype 前传小说。",
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第1卷。以1991年的圣杯战争为起点，描写沙条爱歌与Saber的契约，以及年幼的绫香所见的姐姐。"
+        },
+        "tags": {
+          "before": [
+            "Fate/Prototype",
+            "小说",
+            "Fate/Prototype 蒼銀のフラグメンツ",
+            "KADOKAWA",
+            "桜井光",
+            "前传"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传",
+            "沙条愛歌",
+            "沙条綾香",
+            "セイバー"
+          ]
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "沙条愛歌",
+            "沙条綾香",
+            "セイバー"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "1",
+        "member": "第1卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041021279",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第1卷。以1991年的圣杯战争为起点，描写沙条爱歌与Saber的契约，以及年幼的绫香所见的姐姐。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传",
+          "沙条愛歌",
+          "沙条綾香",
+          "セイバー"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+        "imageRole": "product",
+        "releaseDate": "2014-09-10",
+        "year": "2014",
+        "characters": [
+          "沙条愛歌",
+          "沙条綾香",
+          "セイバー"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+      ],
+      "relations": [
+        {
+          "before": {
+            "id": "family-link-b702b2f4010c92b266963e83",
+            "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+            "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+            "kind": "contains",
+            "quantity": 1
+          },
+          "after": {
+            "id": "family-link-b702b2f4010c92b266963e83",
+            "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+            "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+            "kind": "contains",
+            "quantity": 1
+          }
+        }
+      ]
+    },
+    {
+      "ordinal": 487,
+      "itemId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ (2)",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-ad7c3d833749fffd927ae606c8a14513",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ (2)",
+          "after": "第2卷（原版单行本）"
+        },
+        "kind": {
+          "before": "unknown",
+          "after": "base"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/Prototype 蒼銀のフラグメンツ (2)》是小说，桜井光创作的 Fate/Prototype 前传小说。",
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第2卷。延续《Fate/Prototype》的前日谭，以交错的阵营心愿推进圣杯战争；本卷官方介绍明确收录中原绘制的全彩插画。"
+        },
+        "tags": {
+          "before": [
+            "Fate/Prototype",
+            "小说",
+            "Fate/Prototype 蒼銀のフラグメンツ",
+            "KADOKAWA",
+            "桜井光",
+            "前传"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "2",
+        "member": "第2卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041021286",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第2卷。延续《Fate/Prototype》的前日谭，以交错的阵营心愿推进圣杯战争；本卷官方介绍明确收录中原绘制的全彩插画。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp",
+        "imageRole": "product",
+        "releaseDate": "2014-10-10",
+        "year": "2014",
+        "characters": []
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+      ],
+      "relations": [
+        {
+          "before": {
+            "id": "family-link-9980e4e05e0144351a997c60",
+            "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+            "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+            "kind": "contains",
+            "quantity": 1
+          },
+          "after": {
+            "id": "family-link-9980e4e05e0144351a997c60",
+            "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+            "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+            "kind": "contains",
+            "quantity": 1
+          }
+        }
+      ]
+    },
+    {
+      "ordinal": 488,
+      "itemId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ (3)",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ (3)",
+          "after": "第3卷（原版单行本）"
+        },
+        "kind": {
+          "before": "unknown",
+          "after": "base"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/Prototype 蒼銀のフラグメンツ (3)》是小说，桜井光创作的 Fate/Prototype 前传小说。",
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第3卷。围绕Assassin的自我矛盾、曾统治世界的Rider，以及试图阻止圣杯战争的Berserker，展开不同从者的参战立场。"
+        },
+        "tags": {
+          "before": [
+            "Fate/Prototype",
+            "小说",
+            "Fate/Prototype 蒼銀のフラグメンツ",
+            "KADOKAWA",
+            "桜井光",
+            "前传"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传",
+            "アサシン",
+            "ライダー",
+            "バーサーカー"
+          ]
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "アサシン",
+            "ライダー",
+            "バーサーカー"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "3",
+        "member": "第3卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041024522",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第3卷。围绕Assassin的自我矛盾、曾统治世界的Rider，以及试图阻止圣杯战争的Berserker，展开不同从者的参战立场。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传",
+          "アサシン",
+          "ライダー",
+          "バーサーカー"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp",
+        "imageRole": "product",
+        "releaseDate": "2015-03-26",
+        "year": "2015",
+        "characters": [
+          "アサシン",
+          "ライダー",
+          "バーサーカー"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+      ],
+      "relations": [
+        {
+          "before": {
+            "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+            "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+            "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+            "kind": "contains",
+            "quantity": 1
+          },
+          "after": {
+            "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+            "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+            "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+            "kind": "contains",
+            "quantity": 1
+          }
+        }
+      ]
+    },
+    {
+      "ordinal": 489,
+      "itemId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ (4)",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ (4)",
+          "after": "第4卷（原版单行本）"
+        },
+        "kind": {
+          "before": "unknown",
+          "after": "base"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/Prototype 蒼銀のフラグメンツ (4)》是小说，桜井光创作的 Fate/Prototype 前传小说。",
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第4卷。聚焦Archer与御主エルザ・西条的共同作战，以及Lancer受ナイジェル・セイワード灵药支配的困境。"
+        },
+        "tags": {
+          "before": [
+            "Fate/Prototype",
+            "小说",
+            "Fate/Prototype 蒼銀のフラグメンツ",
+            "KADOKAWA",
+            "桜井光",
+            "前传"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传",
+            "アーチャー",
+            "エルザ・西条",
+            "ランサー",
+            "ナイジェル・セイワード"
+          ]
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "アーチャー",
+            "エルザ・西条",
+            "ランサー",
+            "ナイジェル・セイワード"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "4",
+        "member": "第4卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041024539",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第4卷。聚焦Archer与御主エルザ・西条的共同作战，以及Lancer受ナイジェル・セイワード灵药支配的困境。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传",
+          "アーチャー",
+          "エルザ・西条",
+          "ランサー",
+          "ナイジェル・セイワード"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp",
+        "imageRole": "product",
+        "releaseDate": "2016-03-10",
+        "year": "2016",
+        "characters": [
+          "アーチャー",
+          "エルザ・西条",
+          "ランサー",
+          "ナイジェル・セイワード"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+      ],
+      "relations": [
+        {
+          "before": {
+            "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+            "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+            "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+            "kind": "contains",
+            "quantity": 1
+          },
+          "after": {
+            "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+            "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+            "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+            "kind": "contains",
+            "quantity": 1
+          }
+        }
+      ]
+    },
+    {
+      "ordinal": 490,
+      "itemId": "source-c2b2e148b7681b82c96330739b270d70",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ (5)",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-c2b2e148b7681b82c96330739b270d70",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ (5)",
+          "after": "第5卷（原版单行本）"
+        },
+        "kind": {
+          "before": "unknown",
+          "after": "base"
+        },
+        "summary": {
+          "before": "KADOKAWA书目收录的《Fate/Prototype 蒼銀のフラグメンツ (5)》是小说，桜井光创作的 Fate/Prototype 前传小说。",
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第5卷。五卷原版小说的完结卷，围绕沙条爱歌的愿望与Saber推进圣杯战争的最终局面。"
+        },
+        "tags": {
+          "before": [
+            "Fate/Prototype",
+            "小说",
+            "Fate/Prototype 蒼銀のフラグメンツ",
+            "KADOKAWA",
+            "桜井光",
+            "前传"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传",
+            "沙条愛歌",
+            "セイバー"
+          ]
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "沙条愛歌",
+            "セイバー"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "5",
+        "member": "第5卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041031445",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第5卷。五卷原版小说的完结卷，围绕沙条爱歌的愿望与Saber推进圣杯战争的最终局面。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传",
+          "沙条愛歌",
+          "セイバー"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp",
+        "imageRole": "product",
+        "releaseDate": "2017-04-26",
+        "year": "2017",
+        "characters": [
+          "沙条愛歌",
+          "セイバー"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321502000137/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+      ],
+      "relations": [
+        {
+          "before": {
+            "id": "family-link-48fa7540b407688ad8607f7b",
+            "fromId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+            "toId": "source-c2b2e148b7681b82c96330739b270d70",
+            "kind": "contains",
+            "quantity": 1
+          },
+          "after": {
+            "id": "family-link-48fa7540b407688ad8607f7b",
+            "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+            "toId": "source-c2b2e148b7681b82c96330739b270d70",
+            "kind": "contains",
+            "quantity": 1
+          }
+        }
+      ]
+    },
+    {
+      "ordinal": 493,
+      "itemId": "source-6507b9cf8cf301dda6981354e1d1e4ab",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ 1 アクリルスタンド付き特装版 (書籍)[KADOKAWA]《在庫切れ》",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-6507b9cf8cf301dda6981354e1d1e4ab",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "productType": {
+          "before": null,
+          "after": "附特典漫画特装版"
+        },
+        "productLine": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ",
+          "after": "Fate/Prototype 蒼銀のフラグメンツ 漫画版"
+        },
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ 1 アクリルスタンド付き特装版 (書籍)[KADOKAWA]《在庫切れ》",
+          "after": "第1卷 亚克力立牌特装版"
+        },
+        "summary": {
+          "before": null,
+          "after": "鈴木ツタ绘制的《Fate/Prototype 蒼銀のフラグメンツ》漫画第一卷特装版，在漫画书之外附Saber全身亚克力立牌。改编桜井光的前日谭小说，以1991年东京的圣杯战争为舞台；本版ISBN与漫画通常版不同。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "アクリルスタンド",
+            "Prototype",
+            "フラグ",
+            "メンツ",
+            "アクリル",
+            "スタンド",
+            "付き",
+            "書籍",
+            "KADOKAWA",
+            "在庫",
+            "切れ",
+            "TYPE-MOON",
+            "Fate",
+            "奈須きのこ",
+            "特典",
+            "品牌:KADOKAWA",
+            "产品线:Fate/Prototype 蒼銀のフラグメンツ",
+            "出版社:KADOKAWA",
+            "作品:Fate/Prototype",
+            "发售年:2024",
+            "零售目录",
+            "类别:コミック",
+            "画师/作者:鈴木 ツタ",
+            "画师/作者:桜井 光",
+            "画师/作者:イラスト 中原",
+            "画师/作者:ＴＹＰＥ－ＭＯＯＮ",
+            "亚克力立牌",
+            "出版社档案"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "漫画",
+            "KADOKAWA",
+            "鈴木ツタ",
+            "特装版",
+            "アクリルスタンド",
+            "セイバー"
+          ]
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "セイバー"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "コミック",
+        "productType": "附特典漫画特装版",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ 漫画版",
+        "publisher": "KADOKAWA",
+        "wave": "1",
+        "member": "第1卷 亚克力立牌特装版",
+        "kind": "base",
+        "saleForm": "single",
+        "summary": "鈴木ツタ绘制的《Fate/Prototype 蒼銀のフラグメンツ》漫画第一卷特装版，在漫画书之外附Saber全身亚克力立牌。改编桜井光的前日谭小说，以1991年东京的圣杯战争为舞台；本版ISBN与漫画通常版不同。",
+        "tags": [
+          "Fate/Prototype",
+          "漫画",
+          "KADOKAWA",
+          "鈴木ツタ",
+          "特装版",
+          "アクリルスタンド",
+          "セイバー"
+        ],
+        "characters": [
+          "セイバー"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/322404000992/",
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-041430"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 494,
+      "itemId": "source-b5830bd4ca18e15655566e1166eb9bee",
+      "title": "Fate/prototype 蒼銀のフラグメンツ 1~5巻セット+Fate/Labyrinth 桜井光",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-b5830bd4ca18e15655566e1166eb9bee",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "原拍卖照片未能重新核验，不能确定每册版本与附件；不新建物理组件关系。",
+        "尚未完成本版本图片的视觉对应核验；现有链接不作为核实凭据。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说卖家拼套"
+        },
+        "productLine": {
+          "before": "Fate/prototype 蒼銀のフラグメンツ 1~5巻セット+Fate/Labyrinth 桜井光",
+          "after": "Fate/Prototype 蒼銀のフラグメンツ"
+        },
+        "wave": {
+          "before": null,
+          "after": "1–5"
+        },
+        "member": {
+          "before": "Fate/prototype 蒼銀のフラグメンツ 1~5巻セット+Fate/Labyrinth 桜井光",
+          "after": "苍银第1–5卷与Fate/Labyrinth合售"
+        },
+        "summary": {
+          "before": null,
+          "after": "原拍卖标题将《Fate/Prototype 蒼銀のフラグメンツ》第1至第5卷与《Fate/Labyrinth》一起出售，是跨书目卖家拼套。具体各册版本、书况和附属物仍需原拍卖照片确认。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "卖家拼套",
+            "Fate",
+            "作品:Fate/Prototype"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "Fate/Labyrinth",
+            "小说",
+            "卖家拼套",
+            "桜井光"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说卖家拼套",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "kind": "set",
+        "saleForm": "seller_lot",
+        "wave": "1–5",
+        "member": "苍银第1–5卷与Fate/Labyrinth合售",
+        "summary": "原拍卖标题将《Fate/Prototype 蒼銀のフラグメンツ》第1至第5卷与《Fate/Labyrinth》一起出售，是跨书目卖家拼套。具体各册版本、书况和附属物仍需原拍卖照片确认。",
+        "tags": [
+          "Fate/Prototype",
+          "Fate/Labyrinth",
+          "小说",
+          "卖家拼套",
+          "桜井光"
+        ]
+      },
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/u1223034656",
+        "https://www.kadokawa.co.jp/product/321502000137/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 495,
+      "itemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ 全5巻セット / 桜井光",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": false,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "同一Item存在普通套装与収納BOX付两类挂牌，需后续带报价迁移回执的拆分决定；本批不挪动或删除报价。",
+        "套装参考图尚未视觉核验。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说卖家套装"
+        },
+        "productLine": {
+          "before": null,
+          "after": "Fate/Prototype 蒼銀のフラグメンツ"
+        },
+        "publisher": {
+          "before": "角川書店/KADOKAWA",
+          "after": "KADOKAWA"
+        },
+        "jan": {
+          "before": "9784041031445",
+          "after": ""
+        },
+        "wave": {
+          "before": null,
+          "after": "1–5"
+        },
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ 全5巻セット / 桜井光",
+          "after": "原版第1–5卷合售"
+        },
+        "summary": {
+          "before": null,
+          "after": "《Fate/Prototype 蒼銀のフラグメンツ》原版小说五卷的中古合售记录。现存挂牌包含普通五卷套装与标明附収納BOX的另一款，收纳盒是否随附须以各条挂牌为准。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "卖家拼套",
+            "Prototype",
+            "フラグ",
+            "メンツ",
+            "桜井",
+            "Fate",
+            "品牌:角川書店/KADOKAWA",
+            "出版社:角川書店/KADOKAWA",
+            "画师/作者:中原",
+            "特典",
+            "发售年:2017"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "卖家拼套"
+          ]
+        },
+        "imageRole": {
+          "before": null,
+          "after": "catalogue_reference"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说卖家套装",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "kind": "set",
+        "saleForm": "seller_lot",
+        "jan": "",
+        "wave": "1–5",
+        "member": "原版第1–5卷合售",
+        "summary": "《Fate/Prototype 蒼銀のフラグメンツ》原版小说五卷的中古合售记录。现存挂牌包含普通五卷套装与标明附収納BOX的另一款，收纳盒是否随附须以各条挂牌为准。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "卖家拼套"
+        ],
+        "imageRole": "catalogue_reference"
+      },
+      "sources": [
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2Y1040",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2Y1252",
+        "https://www.kadokawa.co.jp/product/321502000137/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 496,
+      "itemId": "21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ(1) / 桜井光",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "publisher": {
+          "before": "角川書店/KADOKAWA",
+          "after": "KADOKAWA"
+        },
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ(1) / 桜井光",
+          "after": "第1卷（原版单行本）"
+        },
+        "isbn": {
+          "before": "",
+          "after": "9784041021279"
+        },
+        "summary": {
+          "before": null,
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第1卷。以1991年的圣杯战争为起点，描写沙条爱歌与Saber的契约，以及年幼的绫香所见的姐姐。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Prototype",
+            "フラグ",
+            "メンツ",
+            "桜井",
+            "Fate",
+            "品牌:角川書店/KADOKAWA",
+            "出版社:角川書店/KADOKAWA",
+            "画师/作者:中原",
+            "产品线:Fate/Prototype 蒼銀のフラグメンツ",
+            "发售年:2014"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传",
+            "沙条愛歌",
+            "沙条綾香",
+            "セイバー"
+          ]
+        },
+        "image": {
+          "before": "https://cdn.suruga-ya.jp/database/pics_webp/game/2m2990.jpg.webp",
+          "after": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp"
+        },
+        "imageRole": {
+          "before": null,
+          "after": "product"
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "沙条愛歌",
+            "沙条綾香",
+            "セイバー"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "1",
+        "member": "第1卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041021279",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第1卷。以1991年的圣杯战争为起点，描写沙条爱歌与Saber的契约，以及年幼的绫香所见的姐姐。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传",
+          "沙条愛歌",
+          "沙条綾香",
+          "セイバー"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321405/321405000240.webp",
+        "imageRole": "product",
+        "releaseDate": "2014-09-10",
+        "year": "2014",
+        "characters": [
+          "沙条愛歌",
+          "沙条綾香",
+          "セイバー"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000240/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2990"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 497,
+      "itemId": "bab8701d-a249-4022-91c9-625d79a100ff",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ(2) / 桜井光",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=bab8701d-a249-4022-91c9-625d79a100ff",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "publisher": {
+          "before": "角川書店/KADOKAWA",
+          "after": "KADOKAWA"
+        },
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ(2) / 桜井光",
+          "after": "第2卷（原版单行本）"
+        },
+        "isbn": {
+          "before": "",
+          "after": "9784041021286"
+        },
+        "summary": {
+          "before": null,
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第2卷。延续《Fate/Prototype》的前日谭，以交错的阵营心愿推进圣杯战争；本卷官方介绍明确收录中原绘制的全彩插画。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Prototype",
+            "フラグ",
+            "メンツ",
+            "桜井",
+            "Fate",
+            "品牌:角川書店/KADOKAWA",
+            "出版社:角川書店/KADOKAWA",
+            "画师/作者:中原",
+            "产品线:Fate/Prototype 蒼銀のフラグメンツ",
+            "发售年:2014"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传"
+          ]
+        },
+        "image": {
+          "before": "https://cdn.suruga-ya.jp/database/pics_webp/game/2m2991.jpg.webp",
+          "after": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp"
+        },
+        "imageRole": {
+          "before": null,
+          "after": "product"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "2",
+        "member": "第2卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041021286",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第2卷。延续《Fate/Prototype》的前日谭，以交错的阵营心愿推进圣杯战争；本卷官方介绍明确收录中原绘制的全彩插画。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321405/321405000241.webp",
+        "imageRole": "product",
+        "releaseDate": "2014-10-10",
+        "year": "2014",
+        "characters": []
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321405000241/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M2991"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 498,
+      "itemId": "cdab3ad1-68d4-419c-a12c-b3399e72274d",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ(3) / 桜井光",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=cdab3ad1-68d4-419c-a12c-b3399e72274d",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "publisher": {
+          "before": "角川書店/KADOKAWA",
+          "after": "KADOKAWA"
+        },
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ(3) / 桜井光",
+          "after": "第3卷（原版单行本）"
+        },
+        "isbn": {
+          "before": "",
+          "after": "9784041024522"
+        },
+        "summary": {
+          "before": null,
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第3卷。围绕Assassin的自我矛盾、曾统治世界的Rider，以及试图阻止圣杯战争的Berserker，展开不同从者的参战立场。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Prototype",
+            "フラグ",
+            "メンツ",
+            "桜井",
+            "Fate",
+            "品牌:角川書店/KADOKAWA",
+            "出版社:角川書店/KADOKAWA",
+            "画师/作者:中原",
+            "产品线:Fate/Prototype 蒼銀のフラグメンツ",
+            "发售年:2015"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传",
+            "アサシン",
+            "ライダー",
+            "バーサーカー"
+          ]
+        },
+        "image": {
+          "before": "https://cdn.suruga-ya.jp/database/pics_webp/game/2m3447.jpg.webp",
+          "after": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp"
+        },
+        "imageRole": {
+          "before": null,
+          "after": "product"
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "アサシン",
+            "ライダー",
+            "バーサーカー"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "3",
+        "member": "第3卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041024522",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第3卷。围绕Assassin的自我矛盾、曾统治世界的Rider，以及试图阻止圣杯战争的Berserker，展开不同从者的参战立场。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传",
+          "アサシン",
+          "ライダー",
+          "バーサーカー"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321408/321408000209.webp",
+        "imageRole": "product",
+        "releaseDate": "2015-03-26",
+        "year": "2015",
+        "characters": [
+          "アサシン",
+          "ライダー",
+          "バーサーカー"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000209/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M3447"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 499,
+      "itemId": "2a92ea72-5340-403c-9bc1-71420ee63f9e",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ(4) / 桜井光",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=2a92ea72-5340-403c-9bc1-71420ee63f9e",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "publisher": {
+          "before": "角川書店/KADOKAWA",
+          "after": "KADOKAWA"
+        },
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ(4) / 桜井光",
+          "after": "第4卷（原版单行本）"
+        },
+        "isbn": {
+          "before": "",
+          "after": "9784041024539"
+        },
+        "summary": {
+          "before": null,
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第4卷。聚焦Archer与御主エルザ・西条的共同作战，以及Lancer受ナイジェル・セイワード灵药支配的困境。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Prototype",
+            "フラグ",
+            "メンツ",
+            "桜井",
+            "Fate",
+            "品牌:角川書店/KADOKAWA",
+            "出版社:角川書店/KADOKAWA",
+            "画师/作者:中原",
+            "产品线:Fate/Prototype 蒼銀のフラグメンツ",
+            "发售年:2016"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传",
+            "アーチャー",
+            "エルザ・西条",
+            "ランサー",
+            "ナイジェル・セイワード"
+          ]
+        },
+        "image": {
+          "before": "https://cdn.suruga-ya.jp/database/pics_webp/game/2m4603.jpg.webp",
+          "after": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp"
+        },
+        "imageRole": {
+          "before": null,
+          "after": "product"
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "アーチャー",
+            "エルザ・西条",
+            "ランサー",
+            "ナイジェル・セイワード"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "4",
+        "member": "第4卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041024539",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第4卷。聚焦Archer与御主エルザ・西条的共同作战，以及Lancer受ナイジェル・セイワード灵药支配的困境。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传",
+          "アーチャー",
+          "エルザ・西条",
+          "ランサー",
+          "ナイジェル・セイワード"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321408/321408000210.webp",
+        "imageRole": "product",
+        "releaseDate": "2016-03-10",
+        "year": "2016",
+        "characters": [
+          "アーチャー",
+          "エルザ・西条",
+          "ランサー",
+          "ナイジェル・セイワード"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321408000210/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M4603"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 500,
+      "itemId": "6cd1e115-1669-450d-b042-be02c96cacb6",
+      "title": "Fate/Prototype 蒼銀のフラグメンツ(5) / 桜井光",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=6cd1e115-1669-450d-b042-be02c96cacb6",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "历史回执有图片哈希及尺寸，但未定位独立视觉核对记录；需确认封面与具体卷次/版本对应。"
+      ],
+      "diff": {
+        "origin": {
+          "before": "unknown",
+          "after": "commercial"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "publisher": {
+          "before": "角川書店/KADOKAWA",
+          "after": "KADOKAWA"
+        },
+        "member": {
+          "before": "Fate/Prototype 蒼銀のフラグメンツ(5) / 桜井光",
+          "after": "第5卷（原版单行本）"
+        },
+        "isbn": {
+          "before": "",
+          "after": "9784041031445"
+        },
+        "summary": {
+          "before": null,
+          "after": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第5卷。五卷原版小说的完结卷，围绕沙条爱歌的愿望与Saber推进圣杯战争的最终局面。"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Prototype",
+            "フラグ",
+            "メンツ",
+            "桜井",
+            "Fate",
+            "品牌:角川書店/KADOKAWA",
+            "出版社:角川書店/KADOKAWA",
+            "画师/作者:中原",
+            "产品线:Fate/Prototype 蒼銀のフラグメンツ",
+            "发售年:2017"
+          ],
+          "after": [
+            "Fate/Prototype",
+            "小说",
+            "KADOKAWA",
+            "桜井光",
+            "中原",
+            "前传",
+            "沙条愛歌",
+            "セイバー"
+          ]
+        },
+        "image": {
+          "before": "https://cdn.suruga-ya.jp/database/pics_webp/game/2m5568.jpg.webp",
+          "after": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp"
+        },
+        "imageRole": {
+          "before": null,
+          "after": "product"
+        },
+        "releaseDate": {
+          "before": "2017-03-10",
+          "after": "2017-04-26"
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "沙条愛歌",
+            "セイバー"
+          ]
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "origin": "commercial",
+        "category": "小説",
+        "productType": "小说",
+        "series": "Fate/Prototype",
+        "productLine": "Fate/Prototype 蒼銀のフラグメンツ",
+        "publisher": "KADOKAWA",
+        "wave": "5",
+        "member": "第5卷（原版单行本）",
+        "kind": "base",
+        "saleForm": "single",
+        "isbn": "9784041031445",
+        "summary": "桜井光著、中原绘制插画的《苍银的碎片》原版日文小说第5卷。五卷原版小说的完结卷，围绕沙条爱歌的愿望与Saber推进圣杯战争的最终局面。",
+        "tags": [
+          "Fate/Prototype",
+          "小说",
+          "KADOKAWA",
+          "桜井光",
+          "中原",
+          "前传",
+          "沙条愛歌",
+          "セイバー"
+        ],
+        "image": "https://cdn.kdkw.jp/cover_1000/321502/321502000137.webp",
+        "imageRole": "product",
+        "releaseDate": "2017-04-26",
+        "year": "2017",
+        "characters": [
+          "沙条愛歌",
+          "セイバー"
+        ]
+      },
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321502000137/",
+        "https://www.suruga-ya.jp/kaitori/kaitori_detail/2M5568"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 509,
+      "itemId": "family-16c4c4278428fb44aff7e22ca7e15479",
+      "title": "Fate/Requiem",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=family-16c4c4278428fb44aff7e22ca7e15479",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "现有Amiami书影尚未完成逐卷视觉核对；保留原图及准确imageRole，不以HTTP或搜索缩略图标记verified。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "TYPE-MOON",
+          "after": "TYPE-MOON BOOKS"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说系列目录"
+        },
+        "tags": {
+          "before": [
+            "系列档案"
+          ],
+          "after": [
+            "Fate/Requiem",
+            "小说",
+            "TYPE-MOON BOOKS",
+            "星空めてお",
+            "NOCO",
+            "系列目录"
+          ]
+        },
+        "summary": {
+          "before": null,
+          "after": "星空めてお著、NOCO绘制插画的TYPE-MOON BOOKS《Fate/Requiem》小说系列目录。故事描写圣杯战争结束后的世界，以没有圣杯的少女宇津见绘里濑与神秘少年相遇为起点；此目录按独立卷次组织，已核对第一卷「星巡る少年」和第二卷「懐想都市新宿」。"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "category": "小説",
+        "origin": "commercial",
+        "series": "Fate/Requiem",
+        "productLine": "Fate/Requiem",
+        "publisher": "TYPE-MOON BOOKS",
+        "productType": "小说系列目录",
+        "tags": [
+          "Fate/Requiem",
+          "小说",
+          "TYPE-MOON BOOKS",
+          "星空めてお",
+          "NOCO",
+          "系列目录"
+        ],
+        "imageRole": "catalogue_reference",
+        "summary": "星空めてお著、NOCO绘制插画的TYPE-MOON BOOKS《Fate/Requiem》小说系列目录。故事描写圣杯战争结束后的世界，以没有圣杯的少女宇津见绘里濑与神秘少年相遇为起点；此目录按独立卷次组织，已核对第一卷「星巡る少年」和第二卷「懐想都市新宿」。"
+      },
+      "sources": [
+        "https://www.typemoon.com/products/tmbooks/requiem/"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 510,
+      "itemId": "source-0fe194fcad613e09070850be41941fa0",
+      "title": "Fate/Requiem 1 『星巡る少年』 / 星空めてお / NOCO / TYPE-MOON",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-0fe194fcad613e09070850be41941fa0",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "现有Amiami书影尚未完成逐卷视觉核对；保留原图及准确imageRole，不以HTTP或搜索缩略图标记verified。"
+      ],
+      "diff": {
+        "publisher": {
+          "before": "TYPE-MOON",
+          "after": "TYPE-MOON BOOKS"
+        },
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Requiem",
+            "巡る",
+            "少年",
+            "星空",
+            "TYPE-MOON",
+            "Fate",
+            "同人誌",
+            "品牌:TYPE-MOON",
+            "产品线:Fate/Requiem",
+            "出版社:TYPE-MOON",
+            "发售年:2018",
+            "品牌:TYPE-MOON TYPE-MOON BOOKS",
+            "出版社:TYPE-MOON BOOKS",
+            "零售目录"
+          ],
+          "after": [
+            "Fate/Requiem",
+            "小说",
+            "TYPE-MOON BOOKS",
+            "星空めてお",
+            "NOCO",
+            "宇津見エリセ"
+          ]
+        },
+        "imageRole": {
+          "before": null,
+          "after": "product"
+        },
+        "member": {
+          "before": "Fate/Requiem 1 『星巡る少年』 / 星空めてお / NOCO / TYPE-MOON",
+          "after": "第1卷 星巡る少年"
+        },
+        "releaseDate": {
+          "before": "2018/12/29",
+          "after": "2018-12-31"
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "宇津見エリセ"
+          ]
+        },
+        "summary": {
+          "before": null,
+          "after": "TYPE-MOON BOOKS发行、星空めてお著、NOCO绘制插画的《Fate/Requiem》第一卷「星巡る少年」。在圣杯战争结束、人人拥有圣杯并召唤从者的世界里，唯独没有圣杯的宇津见绘里濑遇见了最后被召唤的神秘少年。"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "category": "小説",
+        "origin": "commercial",
+        "series": "Fate/Requiem",
+        "productLine": "Fate/Requiem",
+        "publisher": "TYPE-MOON BOOKS",
+        "productType": "小说",
+        "tags": [
+          "Fate/Requiem",
+          "小说",
+          "TYPE-MOON BOOKS",
+          "星空めてお",
+          "NOCO",
+          "宇津見エリセ"
+        ],
+        "imageRole": "product",
+        "wave": "1",
+        "member": "第1卷 星巡る少年",
+        "kind": "base",
+        "saleForm": "single",
+        "releaseDate": "2018-12-31",
+        "year": "2018",
+        "characters": [
+          "宇津見エリセ"
+        ],
+        "summary": "TYPE-MOON BOOKS发行、星空めてお著、NOCO绘制插画的《Fate/Requiem》第一卷「星巡る少年」。在圣杯战争结束、人人拥有圣杯并召唤从者的世界里，唯独没有圣杯的宇津见绘里濑遇见了最后被召唤的神秘少年。"
+      },
+      "sources": [
+        "https://www.typemoon.com/products/tmbooks/requiem/",
+        "https://typemoon.com/news/2018/-Ms4ny",
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012659"
+      ],
+      "relations": []
+    },
+    {
+      "ordinal": 511,
+      "itemId": "source-c29c5b9bf940672edd2e74b51a3943b7",
+      "title": "Fate/Requiem 2 『懐想都市新宿』 (書籍)[TYPE-MOON BOOKS]《在庫切れ》",
+      "url": "https://collector-radar.martainjonn.chatgpt.site/?item=source-c29c5b9bf940672edd2e74b51a3943b7",
+      "productionStatus": "blocked_before_fresh_read",
+      "proposedEditorialStatus": "partial",
+      "checks": {
+        "classification": true,
+        "context": true,
+        "image": false,
+        "tags": true,
+        "summary": true
+      },
+      "unresolved": [
+        "现有Amiami书影尚未完成逐卷视觉核对；保留原图及准确imageRole，不以HTTP或搜索缩略图标记verified。"
+      ],
+      "diff": {
+        "productType": {
+          "before": null,
+          "after": "小说"
+        },
+        "tags": {
+          "before": [
+            "书籍",
+            "Requiem",
+            "都市",
+            "新宿",
+            "書籍",
+            "BOOKS",
+            "在庫",
+            "切れ",
+            "TYPE-MOON",
+            "Fate",
+            "品牌:TYPE-MOON TYPE-MOON BOOKS",
+            "产品线:Fate/Requiem",
+            "出版社:TYPE-MOON BOOKS",
+            "发售年:2020",
+            "零售目录"
+          ],
+          "after": [
+            "Fate/Requiem",
+            "小说",
+            "TYPE-MOON BOOKS",
+            "星空めてお",
+            "NOCO",
+            "宇津見エリセ"
+          ]
+        },
+        "imageRole": {
+          "before": null,
+          "after": "product"
+        },
+        "member": {
+          "before": "Fate/Requiem 2 『懐想都市新宿』 (書籍)[TYPE-MOON BOOKS]《在庫切れ》",
+          "after": "第2卷 懐想都市新宿"
+        },
+        "releaseDate": {
+          "before": "20年06月12日",
+          "after": "2020-06-12"
+        },
+        "characters": {
+          "before": [],
+          "after": [
+            "宇津見エリセ"
+          ]
+        },
+        "summary": {
+          "before": null,
+          "after": "TYPE-MOON BOOKS发行、星空めてお著、NOCO绘制插画的《Fate/Requiem》第二卷「懐想都市新宿」。宇津见绘里濑与金色少年踏上寻找失落“废都冬木”的旅程，从临海都市秋叶原前往怀想都市新宿，继续探索重构后的世界。"
+        }
+      },
+      "proposedFields": {
+        "majorClass": "书籍",
+        "category": "小説",
+        "origin": "commercial",
+        "series": "Fate/Requiem",
+        "productLine": "Fate/Requiem",
+        "publisher": "TYPE-MOON BOOKS",
+        "productType": "小说",
+        "tags": [
+          "Fate/Requiem",
+          "小说",
+          "TYPE-MOON BOOKS",
+          "星空めてお",
+          "NOCO",
+          "宇津見エリセ"
+        ],
+        "imageRole": "product",
+        "wave": "2",
+        "member": "第2卷 懐想都市新宿",
+        "kind": "base",
+        "saleForm": "single",
+        "releaseDate": "2020-06-12",
+        "year": "2020",
+        "characters": [
+          "宇津見エリセ"
+        ],
+        "summary": "TYPE-MOON BOOKS发行、星空めてお著、NOCO绘制插画的《Fate/Requiem》第二卷「懐想都市新宿」。宇津见绘里濑与金色少年踏上寻找失落“废都冬木”的旅程，从临海都市秋叶原前往怀想都市新宿，继续探索重构后的世界。"
+      },
+      "sources": [
+        "https://www.typemoon.com/products/tmbooks/requiem/",
+        "https://typemoon.com/news/2020/KUuKXN",
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015842"
+      ],
+      "relations": []
+    }
+  ]
+}

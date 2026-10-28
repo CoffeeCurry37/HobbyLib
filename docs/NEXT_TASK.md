@@ -1,5 +1,47 @@
 # 当前执行入口：Issue #3
 
+更新时间：2026-10-28 18:06:48 UTC（America/Chicago：2026-10-28 13:06:48）。本轮用户已要求接续；先前“立即停止”和未发布NO-GO均为历史，不能作为继续等待生产授权的理由。执行依据为 [Issue #3 最新指令](https://github.com/CoffeeCurry37/HobbyLib/issues/3)（updated 2026-10-28 06:17:21 UTC）。
+
+## 当前结果
+
+- GitHub只读确认远端main为`7c3b20439b6d535db73c7914a34666154676ebeb`；本云检出分支为`work`。本轮检查点提交用`git log -1 --oneline`读取。
+- Sites原生查询确认原项目仍为**65版 / active / custom**，地址 https://collector-radar.martainjonn.chatgpt.site 。既有部署映射仍见[release.json](reports/issue-3/release.json)。应用运行时代码未改，不重构建或重发布。
+- **本轮生产成功0 / 跳过0 / 因前置网络阻断待处理32；五条关系成功0、待处理5；verifiedDelta0。** 已保存记录的productionApplied仍为0，本轮尚无新鲜生产完整读回，不能宣称独立确认了32条线上现状。
+- prepared32 / 历史isolatedApplied32 / verifiedEligible2 / partial30。已叠加图片复核，不使用历史14/18口径。
+- [32条用户验收清单](reports/issue-3/REVIEW-32.md)含现有详情链接、历史旧值→建议值、来源、未决问题、生产状态；[机器清单](reports/issue-3/review-list.json)只是方案，不含可重放动作或expectedVersion。
+
+## 当前任务有效网络：已复验，但域名规则未进入本实例
+
+`environment_status`报告observations_current=true、running/connected、restricted/enforced；自定义allowed_hosts为空，仅package_managers预设。`/etc/codex/network-policy.json` v1一致，VPN未配置。网站域名不在effective_allowed_hosts。具体配置/版本ID见[本轮回执](reports/issue-3/resume-20261028.json)。
+
+首次未给命令网络权限时，代理连接失败；赋予命令网络权限、保留代理和TLS验证后：GitHub `git ls-remote`成功；网站只读GET在HTTPS CONNECT阶段返回403（curl56、envoy，2026-10-28 18:03:58 UTC）。尚未到达应用，没有JSON/账号验证，也没有网站重定向。这是本任务实际代理策略的证据，不将用户已修改其他设置等同于当前实例已应用。
+
+已请用户把域名允许规则应用到本聊天绑定的环境；若设置只对新环境生效需重新附加。当前工具没有环境配置写入能力。等待配置期间完成了32条验收清单；未绕过代理、改公开权限、轮换密钥、打开维护窗口或发送生产动作。
+
+## 配置到位后的下一步（原范围已授权）
+
+1. 重读`cloud_environment.environment_status`，确认网站域名进入已生效策略。再执行下面只读探测；无凭证探测只能验证传输。随后通过受支持的现有服务凭证与维护/账号访问方式确认完整JSON和预期账号；不打印凭证，不无依据轮换。
+2. 完整读取固定32目标、catalogMeta（偏好和全图）及active紧凑目录投影（含同人）；含个人数据的原件、动作、读回和版本保护回滚放忽略的`work/`。这台新执行环境**没有**旧文档列出的3个隔离SQLite文件；不要把旧路径存在当成事实，也不为文档工作重复解压全备份。
+3. 以batch-005/006字段决定+issue-3-image-review/decisions.json的状态重建方案。核对身份/待改字段变化与人工锁，保留最新个人字段及Offer历史；不得重放旧actions或expectedVersion。
+4. 建议六组：#80–81（2件无关系依赖试点）、#82–90（9）、#91–93（3）、#484–490（7件+5边同一revision）、#493–500（8）、#509–511（3）。每组逐项读回、保存去重回执和可保护回滚版本后再开下一组；冲突只停受影响组。已成功组不重放。
+5. 更新验收清单为真实生产结果；实际计算verifiedDelta。#93版本、#494拍卖内容、#495普通/BOX混杂继续保留未决。#495拆分/Offer转移不在本次授权内。代表路径检查即可；无运行时代码变化不重跑构建和旧测试。
+6. 32条完成后进入用户反馈及一次有界active覆盖扫描；保持15,811原编号。下一独立研究组#94/#106/#107/#111–114，初始定位见`research/editorial-20261021/issue-3-apocrypha-start.json`。
+
+下一条本地命令（需执行器网络权限，不能移除代理）：
+
+```sh
+curl --silent --show-error --connect-timeout 10 --max-time 20 --output /tmp/hobbylib-access-body --dump-header /tmp/hobbylib-access-headers --write-out 'http_code=%{http_code} content_type=%{content_type} redirect=%{redirect_url}\n' 'https://collector-radar.martainjonn.chatgpt.site/api/radar?catalogMeta=1'
+```
+
+## 本轮验证与用量
+
+已核对远端SHA、Sites版本/权限、有效策略及只读请求，并验证清单32个唯一ID与原编号、2/30状态、5条唯一边及六组≤20限制。未重跑旧回归、浏览器、构建或全量导入；原通过/失败记录仍是历史结果。额度剩余及重置时间均unknown，无可用查询工具；五小时窗口不代表保证工作五小时。每自然组或15–20分钟保存检查点；限制提示或可读剩余≤20%时完成当前原子操作和读回后落盘，不开长任务。
+
+<details>
+<summary>历史：2026-10-28 00:36 UTC暂停检查点（当前已恢复，不能覆盖上文）</summary>
+
+# 当前执行入口：Issue #3
+
 更新时间：2026-10-28 00:36 UTC（America/Chicago 10月27日19:36）。执行依据：[Issue #3](https://github.com/CoffeeCurry37/HobbyLib/issues/3)。历史接续文档中的“等待生产批准”和“从 #91 开始”不能替代本页顺序。
 
 **用户要求立即停止，已保存后暂停。** 用户已告知网站域名加入环境允许列表；本轮未重新核验有效策略或连通性，未开启维护窗口。下一对话先读本页，再核验网络配置。当前分支 `main`，前一成果提交 `bcbee8a`；本次仅文档断点提交由 `git log -1 --oneline` 获取，不重跑已通过的代码测试。额度及重置时间仍不可见。
@@ -33,3 +75,5 @@
 ## 只读风险组后续
 
 #495的普通/附BOX混合已形成独立3Item方案并在完整副本SQL演练/精确回滚；见 research/editorial-20261021/issue-3-prototype-box/。不在固定32条的Offer迁移授权内，不发送生产。下一只读自然组：#94 KADOKAWA小说目录、#106/#111–114五个推定成员及来源#107；先核对套装的实际版本，不能凭裸标题填ISBN。暂停时仅完成初始定位，7件均未形成可应用决定，不计 prepared/applied/verified；已发现的 Item ID、来源与待查问题保存于 `research/editorial-20261021/issue-3-apocrypha-start.json`，下次直接接续，勿重新搜索已定位的第1/5卷出版社链接。
+
+</details>

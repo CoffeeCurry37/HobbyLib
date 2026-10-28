@@ -1,0 +1,95 @@
+{
+  "at": "2026-10-28 18:06:48 UTC",
+  "sourceIssueUpdatedAt": "2026-10-28T06:17:21Z",
+  "github": {
+    "remote": "CoffeeCurry37/HobbyLib",
+    "main": "7c3b20439b6d535db73c7914a34666154676ebeb",
+    "readOnlyProbe": "git ls-remote origin refs/heads/main succeeded"
+  },
+  "site": {
+    "id": "appgprj_6ab5bd99340881919e4311a732df6eb9",
+    "url": "https://collector-radar.martainjonn.chatgpt.site",
+    "version": 65,
+    "accessMode": "custom",
+    "status": "active",
+    "confirmedVia": "sites_get_site",
+    "deploymentFromSavedRelease": "appgdep_6ae13f49c2ac81919a31d77ee9108166",
+    "runtimeCodeChanged": false,
+    "republished": false
+  },
+  "environment": {
+    "id": "ccarenv_b64_Y2NhcmVudl85YTZjMmQ4NzQ0MTA4MTkxYTBmOTdmMjVkYjBiZWZiZA",
+    "sourceConfigId": "981c809b-a3ef-4a13-b4ee-37c633274080~cecfg_6ade42695d348194842b2a44988d38f1",
+    "sourceConfigVersionId": "981c809b-a3ef-4a13-b4ee-37c633274080~cecfgver_6ade4432a9c88194ad94d28fd651ffaf",
+    "observationsCurrent": true,
+    "specRevision": "1",
+    "observedSpecRevision": "1",
+    "observedPhase": "running",
+    "connectivity": "connected",
+    "mode": "restricted",
+    "state": "enforced",
+    "presets": [
+      "package_managers"
+    ],
+    "customAllowedHosts": [],
+    "targetInEffectiveAllowedHosts": false,
+    "vpnConfigured": false
+  },
+  "probe": {
+    "at": "2026-10-28T18:03:58Z",
+    "method": "GET",
+    "url": "https://collector-radar.martainjonn.chatgpt.site/api/radar?catalogMeta=1",
+    "execNetworkPermission": true,
+    "inheritedProxyPreserved": true,
+    "tlsVerificationEnabled": true,
+    "result": "proxy_connect_denied",
+    "curlExitCode": 56,
+    "connectStatus": 403,
+    "httpStatus": null,
+    "requestReachedApplication": false,
+    "authenticatedJsonConfirmed": false,
+    "expectedAccountConfirmed": false,
+    "redirectSeen": false,
+    "credentialsSent": false,
+    "initialSandboxAttempt": "Without per-command network permission both GitHub and website failed to connect to proxy; repeated with network permission: GitHub succeeded, website CONNECT 403."
+  },
+  "business": {
+    "prepared": 32,
+    "historicalIsolatedApplied": 32,
+    "productionAppliedPreviouslyRecorded": 0,
+    "productionAppliedThisRun": 0,
+    "productionStateIndependentlyConfirmed": false,
+    "blocked": 32,
+    "skipped": 0,
+    "writeRequestsSent": 0,
+    "relationsAppliedThisRun": 0,
+    "relationsBlocked": 5,
+    "verifiedEligible": 2,
+    "partial": 30,
+    "verifiedDeltaThisRun": 0,
+    "maintenanceEnvironmentChanged": false
+  },
+  "validation": {
+    "thisRun": [
+      "Remote main read-only check",
+      "Sites version/access read-only check",
+      "Policy snapshot and website proxy probe",
+      "32 IDs/ordinals matched permanent manifest",
+      "14 image decisions overlaid; verifiedEligible2/partial30",
+      "Five unique planned edges and six groups <=20 verified"
+    ],
+    "notRerun": [
+      "Runtime regression tests",
+      "Typecheck/builds",
+      "Browser QA",
+      "Full import or full-copy rehearsal"
+    ],
+    "reason": "No runtime changes; previous tests retained as historical evidence. Production readback blocked."
+  },
+  "quota": {
+    "remaining": "unknown",
+    "resetAt": "unknown",
+    "reason": "No usage/quota interface available; five-hour window does not guarantee continuous runtime."
+  },
+  "next": "Apply hostname rule to this task's environment through supported settings, then re-read environment_status and retry a read-only request. On access success verify JSON/account before reading full targets/meta/projection or generating fresh guarded actions."
+}

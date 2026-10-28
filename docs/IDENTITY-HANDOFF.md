@@ -1,3 +1,5 @@
+> 本轮接续检查点（2026-10-28 18:06:48 UTC）：用户已要求继续，旧停止/NO-GO记录均属历史。Sites原生查询仍65/active/custom；远端main只读确认7c3b204。当前任务策略restricted/enforced，custom allowed_hosts=[]、无网站域名；命令网络权限开启后GitHub成功，网站CONNECT403，尚未进入应用鉴权。固定32条本轮成功0/跳过0/阻断32、五边成功0、verifiedDelta0；方案资格2/partial30。用户已收到将允许规则应用到本任务环境的具体请求。已生成[32条验收清单](reports/issue-3/REVIEW-32.md)，含详情链接与历史旧值→建议值；尚无新鲜生产读回。无运行时代码变化，不重跑构建和历史测试。额度/重置unknown。先读[NEXT_TASK](NEXT_TASK.md)及网络回执；网络生效后重读目标/偏好/全图和投影再生成受保护动作。旧忽略目录里的完整副本在此新执行器不存在，不能复用旧路径作生产输入。
+
 > 暂停检查点（2026-10-28 00:36 UTC）：用户要求立即终止，留待下个对话接续。用户已告知网站域名加入环境允许列表，实际策略/连通性尚未重验；本轮不再执行生产动作。分支 main，前一成果 bcbee8a，暂停提交见 git log -1。PR #2 已合并、Sites65 已发布；固定32 prepared / 32 isolatedApplied / 0 productionApplied / 0 verifiedDelta / 2 verifiedEligible / 30 partial。#495 三Item拆分方案只在隔离副本演练；Apocrypha 七Item仅开始定位，决定0、应用0，见研究 issue-3-apocrypha-start.json。以 [NEXT_TASK.md](NEXT_TASK.md) 的下一命令为准，禁止重放001–004或旧005–006动作。额度/重置不可见。
 
 > 图片状态更新（2026-10-28 00:25 UTC）：固定32条当前待应用五项资格2 / partial30，生产0 / verifiedDelta0。12条缺独立视觉凭证，已通过真实API在完整副本降级并验证保留/回滚；不能再使用旧14/18生成生产动作。逐项证据见 research/editorial-20261021/issue-3-image-review/。下一自然风险组：#495 普通五卷拼套与ComptiQ×Animate BOX付拼套拆分计划（仅研究/隔离，未获生产授权）。
