@@ -1,0 +1,1181 @@
+{
+  "at": "2026-10-29T14:27:06.350Z",
+  "localTime": "2026-10-29 09:27:06 America/Chicago",
+  "githubSha": "47dcb62f32e30127009f100457a818e1e8ed3146",
+  "site": {
+    "projectId": "appgprj_6ab5bd99340881919e4311a732df6eb9",
+    "version": 65,
+    "sourceSha": "271d287c534bf3a93cc53d8727b6f6f0eafd6917",
+    "url": "https://collector-radar.martainjonn.chatgpt.site",
+    "access": "custom",
+    "db": "DB",
+    "runtimeChanged": false,
+    "maintenanceOpen": {
+      "id": "appgdep_6ae3559697ac8191bed65bec3d861a16",
+      "project_id": "appgprj_6ab5bd99340881919e4311a732df6eb9",
+      "title": "Collector Radar · 收藏雷达",
+      "version_id": "appgprj_6ab5bd99340881919e4311a732df6eb9~appgver_7d7492a4b3708191a6411c811baf056e",
+      "type": "publish",
+      "status": "succeeded",
+      "url": "https://collector-radar.martainjonn.chatgpt.site",
+      "has_mcp": false,
+      "screenshot_asset_pointer": null,
+      "provider_deployment_id": "site---6ab5bd99340881919e4311a732df6eb9",
+      "failure_message": null,
+      "env_set_revision": 64,
+      "updated_at": "2026-10-29T14:18:09.943107+00:00"
+    },
+    "maintenanceClose": {
+      "id": "appgdep_6ae357973dec8191a7305d3be88d2293",
+      "project_id": "appgprj_6ab5bd99340881919e4311a732df6eb9",
+      "title": "Collector Radar · 收藏雷达",
+      "version_id": "appgprj_6ab5bd99340881919e4311a732df6eb9~appgver_7d7492a4b3708191a6411c811baf056e",
+      "type": "publish",
+      "status": "succeeded",
+      "url": "https://collector-radar.martainjonn.chatgpt.site",
+      "has_mcp": false,
+      "screenshot_asset_pointer": null,
+      "provider_deployment_id": "site---6ab5bd99340881919e4311a732df6eb9",
+      "failure_message": null,
+      "env_set_revision": 65,
+      "updated_at": "2026-10-29T14:26:39.714301+00:00"
+    },
+    "maintenanceWindowClosed": true,
+    "closureProbe": {
+      "at": "2026-10-29T14:26:40Z",
+      "http": 401,
+      "error": "UNAUTHENTICATED",
+      "usedCurrentWindowCredentials": true
+    },
+    "priorInterruptedWindow": {
+      "envRevision": 63,
+      "deploymentId": "appgdep_6ae2b1aca6048191865e27a411ceb1cb",
+      "openedAt": "2026-10-29T02:38:44.578759+00:00",
+      "expiredBeforeResume": true,
+      "productWrites": 0
+    },
+    "environmentChangesOnly": true
+  },
+  "prepared": 32,
+  "historicalIsolatedApplied": 32,
+  "productionApplied": 32,
+  "skipped": 0,
+  "blocked": 0,
+  "failed": 0,
+  "verifiedDelta": 1,
+  "verified": 2,
+  "partial": 30,
+  "relationsApplied": 5,
+  "countsBefore": {
+    "main": 15811,
+    "doujin": 19209,
+    "archive": 8549
+  },
+  "countsAfter": {
+    "main": 15811,
+    "doujin": 19209,
+    "archive": 8549
+  },
+  "auditBefore": {
+    "pending": 15458,
+    "partial": 42,
+    "verified": 310,
+    "blocked": 0,
+    "stale": 0,
+    "archived": 1,
+    "excluded": 0,
+    "missing": 0
+  },
+  "auditAfter": {
+    "pending": 15442,
+    "partial": 57,
+    "verified": 311,
+    "blocked": 0,
+    "stale": 0,
+    "archived": 1,
+    "excluded": 0,
+    "missing": 0
+  },
+  "groups": [
+    {
+      "at": "2026-10-29T14:20:57.382Z",
+      "group": 1,
+      "ordinals": [
+        80,
+        81
+      ],
+      "productionApplied": 2,
+      "verifiedDelta": 1,
+      "relationsMoved": 0,
+      "preferencesPreserved": true,
+      "countsPreserved": true,
+      "fullReadbackPassed": true,
+      "results": [
+        {
+          "ordinal": 80,
+          "itemId": "family-bd1e9d29d163cfb06f93cbe07b7b0c30",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:19:35.395Z",
+          "beforeVersion": "a29fb56d5d02c60e15736fa5abd162c1505cad7424554c131daa6ffa3d0f3fe7",
+          "afterVersion": "c18439cf5a42e8301e520ace3282758fc7522e7a88427dc3de7f022fc6018850",
+          "beforeStatus": "verified",
+          "afterStatus": "verified",
+          "changedFields": [
+            "summary",
+            "productType",
+            "publisher",
+            "category",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "b5eee84f7564bb5a06e6f807179a9f9d4bcc2eada69eb136e38ef3e47a9e7fba",
+          "offersBeforeSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "offersAfterSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 81,
+          "itemId": "member-17vmdp9",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:19:35.781Z",
+          "beforeVersion": "b8970d395a8eff92715bdc3acc78687988f09448c10b5b8c3edbf3986ad65b84",
+          "afterVersion": "062b48dec7da140d59c8f1b35b7ee95befbe56a69943da31879fa61b762aa18f",
+          "beforeStatus": "partial",
+          "afterStatus": "verified",
+          "changedFields": [
+            "summary",
+            "image",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence",
+            "imageRole",
+            "images"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "0373cc93f764df5cfb5e8302b2d5ca62d72a77f68d6d50196f374a9e8558b147",
+          "offersAfterSha256": "0373cc93f764df5cfb5e8302b2d5ca62d72a77f68d6d50196f374a9e8558b147",
+          "preserved": true,
+          "adjustments": []
+        }
+      ],
+      "receipt": {
+        "at": "2026-10-29T14:19:34.910565+00:00",
+        "http": 200,
+        "body": {
+          "ok": true,
+          "created": 0,
+          "updated": 2,
+          "linked": 0,
+          "unlinked": 0
+        }
+      }
+    },
+    {
+      "at": "2026-10-29T14:20:59.736Z",
+      "group": 2,
+      "ordinals": [
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "productionApplied": 9,
+      "verifiedDelta": 0,
+      "relationsMoved": 0,
+      "preferencesPreserved": true,
+      "countsPreserved": true,
+      "fullReadbackPassed": true,
+      "results": [
+        {
+          "ordinal": 82,
+          "itemId": "member-1q1tmhj",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:03.805Z",
+          "beforeVersion": "5b8d4e9ec6d43ec1caabb5d4b2666510147c2682d6a281ba39148a287e0da33a",
+          "afterVersion": "4dabb2b435cb2c1903bad23918c22e9e6118ee4752ecc8f4d5d5fe752ad9b7c0",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "ecbbc8787e8e1dd6feb5567e0f19f81bf3ba7f4488a324fdb3db749334a8b36d",
+          "offersAfterSha256": "ecbbc8787e8e1dd6feb5567e0f19f81bf3ba7f4488a324fdb3db749334a8b36d",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 83,
+          "itemId": "member-171nkmc",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:04.112Z",
+          "beforeVersion": "8529f59e1794af0f23766b72fb7fd66967d8f3fbe5124fc4f5891cd693182486",
+          "afterVersion": "13e700a09420a9a83203c79f7d895504e75e6c481f1d428dceb1da45bb531934",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "74370450836be777f23a5ab1e3c6d7f7b8f73337e6f9f2829f25a4845a0a4abb",
+          "offersAfterSha256": "74370450836be777f23a5ab1e3c6d7f7b8f73337e6f9f2829f25a4845a0a4abb",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 84,
+          "itemId": "member-17bn6bb",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:04.449Z",
+          "beforeVersion": "ce2f63b68efbd7e4149d834ebcf7e886bcf7e792dfd47b81a6b3b3a472013d3e",
+          "afterVersion": "8241e1ad1880a04e926d798b2a166889ad6cdb03f3ceef975840cd10f5fb54e8",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "ca4b3567d38b428dda64eb53bb1dd285f8f011e1d03a6a2c1389fb1e6ac79472",
+          "offersAfterSha256": "ca4b3567d38b428dda64eb53bb1dd285f8f011e1d03a6a2c1389fb1e6ac79472",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 85,
+          "itemId": "member-16hod8e",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:04.747Z",
+          "beforeVersion": "8451cdff4018a7af41b00a386d9d1c651b3d57bec69f69e43101b942cb4dbd53",
+          "afterVersion": "85f7246fa856b82eed49c8fcdbf18785d38bbb8ffa969f7e3b72a31003cb3cf8",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "0fa9b3cb3162ca3d5bfd98d16b55329bf728c87d808b2e873f266da770bd2363",
+          "offersAfterSha256": "0fa9b3cb3162ca3d5bfd98d16b55329bf728c87d808b2e873f266da770bd2363",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 86,
+          "itemId": "member-16rnyxd",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:05.051Z",
+          "beforeVersion": "ce3b97bffb36cc7d8e40b4f282d58483452d5f5bb20bf44e99b8fbf7e753ff3a",
+          "afterVersion": "3da9ef4e49d7f4c1f96a75db6ce7a47e70bf3dce146003b4c4e55fe024540821",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "72759ab1a41c0c9bbf75cc6a3e7c1f9c0935f720ab4543755e10eeba995f0843",
+          "offersAfterSha256": "72759ab1a41c0c9bbf75cc6a3e7c1f9c0935f720ab4543755e10eeba995f0843",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 87,
+          "itemId": "member-15xp5ug",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:05.344Z",
+          "beforeVersion": "5018ea4273e35f3d68901b347ecb5790602a3521c4be6650cd127f51cbc3a387",
+          "afterVersion": "31de9919e4be73f65deff0fb9dd6cd0a0703a8f088cf7d1f482d2c7e6774d654",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "01c7b07ed1dbbb3cab57586ca3a1da19cf96eb887492bd57cbf4194dec3456cf",
+          "offersAfterSha256": "01c7b07ed1dbbb3cab57586ca3a1da19cf96eb887492bd57cbf4194dec3456cf",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 88,
+          "itemId": "member-167orjf",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:05.888Z",
+          "beforeVersion": "8295d006fa60342e5a2af0c2e620983b6af13d175c10c194997538b2b6af1d83",
+          "afterVersion": "ab98cca8fc5b619337a2a6ffd8b97b06db4ca74168377e89660fa9a742d1c19d",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "2d222b6d8ddbf73bdf310e4f27d38bec33b0fb0f35f2dd9fbee51c6550fda24b",
+          "offersAfterSha256": "2d222b6d8ddbf73bdf310e4f27d38bec33b0fb0f35f2dd9fbee51c6550fda24b",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 89,
+          "itemId": "member-15dpygi",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:06.256Z",
+          "beforeVersion": "bd25e360ef63e0223592d4a2b37f789f5b698467d66015a339ea02af9a9df1b7",
+          "afterVersion": "1d94ecb4d454c7b26a558cf108eaef09870a6d1e6987aa5b7d43d068f4bfabf9",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "5734013d58189630167507cdca0009cbae06940af8c1f561b66b9133fdf4bf71",
+          "offersAfterSha256": "5734013d58189630167507cdca0009cbae06940af8c1f561b66b9133fdf4bf71",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 90,
+          "itemId": "member-15npk5h",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:20:06.546Z",
+          "beforeVersion": "a83de31667c8456619a72ffb22b3122313e057293eb73b0821f0db1f3334b3c0",
+          "afterVersion": "c42d225a62a268d8b79a88763d6e00018a61c8abafc9df37f78eccf2a4966b9c",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "publisher",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "3dc3f50c9cde3b49051fbb1bd4737ea53c26af3eae3aff6b230bd9c7e51a805a",
+          "offersAfterSha256": "3dc3f50c9cde3b49051fbb1bd4737ea53c26af3eae3aff6b230bd9c7e51a805a",
+          "preserved": true,
+          "adjustments": []
+        }
+      ],
+      "receipt": {
+        "at": "2026-10-29T14:20:03.500332+00:00",
+        "http": 200,
+        "body": {
+          "ok": true,
+          "created": 0,
+          "updated": 9,
+          "linked": 0,
+          "unlinked": 0
+        }
+      }
+    },
+    {
+      "at": "2026-10-29T14:21:04.550Z",
+      "group": 3,
+      "ordinals": [
+        91,
+        92,
+        93
+      ],
+      "productionApplied": 3,
+      "verifiedDelta": 0,
+      "relationsMoved": 0,
+      "preferencesPreserved": true,
+      "countsPreserved": true,
+      "fullReadbackPassed": true,
+      "results": [
+        {
+          "ordinal": 91,
+          "itemId": "8d0ad208-bbb5-4139-97a0-457c57beed04",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:21:01.795Z",
+          "beforeVersion": "b74463597db4ca85159ab4ded6b9cd4c34c46084ee08eb595c624a44d61b2139",
+          "afterVersion": "2e287e6ba043ed33ec9d4389d5a9ad2b10e5d5df66a2ff729f5c1244cde1523b",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "jan",
+            "origin",
+            "evidence",
+            "series",
+            "tags",
+            "productLine",
+            "member",
+            "productType",
+            "summary",
+            "wave",
+            "imageRole",
+            "editorial"
+          ],
+          "descriptionSha256": "260dd70104bd715af3446e676fa6f578833ff82c790e4a7e846fccf21e7a6dda",
+          "offersBeforeSha256": "81afd8ac3c026eb7dd31ef8152a9b89a845aea3ee3f93c55418a265047010f75",
+          "offersAfterSha256": "2a4d79d9c1bc09f7aa94857832af5d8b2cd045ce6aae4b5944c3d336a5ea4a8d",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 92,
+          "itemId": "source-8756a25a5dafc97e8e16cc2dfec8c605",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:21:02.081Z",
+          "beforeVersion": "2fa657efd2643ec7da1d2f4a77ca09e3f99accf9c76035609c5b468dc80fe0c7",
+          "afterVersion": "65400b6303a65588e7c388fa619d23880d25f039ee07aa2558a3883be182112a",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "characters",
+            "evidence",
+            "series",
+            "tags",
+            "productLine",
+            "member",
+            "productType",
+            "wave",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "a3f8e009230c21b748d27c120af2534ab08b9d6d0daad74787d4280cda20017f",
+          "offersBeforeSha256": "0522e191d0f7a0202f6a9e2d0c5b4da58479b9369414ab3cd95697295b2c858f",
+          "offersAfterSha256": "9103cb99d3c02015496bfd837c0e4264d44053da5164e23b7e4962a85c422a16",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 93,
+          "itemId": "source-47ed7d0c0174ad78f2164f35017e288a",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:21:02.367Z",
+          "beforeVersion": "4e93aec6e55abaa67dd814a533614c50b7fa145a05fc9b8147d7f0cce250b64c",
+          "afterVersion": "43c117b43a2de8e26c02013cc832537b95ae8eafa969c390698da0366b0833d6",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "characters",
+            "evidence",
+            "series",
+            "category",
+            "tags",
+            "member",
+            "productLine",
+            "productType",
+            "wave",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "f453c3c7c04413653f29414de076ffae1ffc4f6769fe8558ffcb6ad0c1f3ad9b",
+          "offersBeforeSha256": "5a75b5afb8287824abea16ac40e0aca8fc3856e8fa61e10da3522c0dc29e7b6a",
+          "offersAfterSha256": "73b97469e9c5e5bf7e3c1f27561a6e2c9dc98912391ec8c62adf91e4b9c0e7c4",
+          "preserved": true,
+          "adjustments": []
+        }
+      ],
+      "receipt": {
+        "at": "2026-10-29T14:21:01.477936+00:00",
+        "http": 200,
+        "body": {
+          "ok": true,
+          "created": 0,
+          "updated": 3,
+          "linked": 0,
+          "unlinked": 0
+        }
+      }
+    },
+    {
+      "at": "2026-10-29T14:23:06.547Z",
+      "group": 4,
+      "ordinals": [
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490
+      ],
+      "productionApplied": 7,
+      "verifiedDelta": 0,
+      "relationsMoved": 5,
+      "preferencesPreserved": true,
+      "countsPreserved": true,
+      "fullReadbackPassed": true,
+      "results": [
+        {
+          "ordinal": 484,
+          "itemId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:00.620Z",
+          "beforeVersion": "fa7faf082e9f1ed81941ed1ce08f6caff0b30c8e58abebf69f68f8ce1f64d8ba",
+          "afterVersion": "7c7bf9fbb017055bda04e8a79f4bf84db38cf831241e33821b5e6889c135a2e6",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "image",
+            "images",
+            "publisher",
+            "origin",
+            "tags",
+            "evidence",
+            "productType",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "b5eee84f7564bb5a06e6f807179a9f9d4bcc2eada69eb136e38ef3e47a9e7fba",
+          "offersBeforeSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "offersAfterSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 485,
+          "itemId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:01.065Z",
+          "beforeVersion": "d694238496af8814db370aa0bb10732a9fdaf060ef9c6eb32beacf275bf86f59",
+          "afterVersion": "de9e4d20c66391221bdecb034a19d50c1bcbf64e7c2ca86459036b526c37ae8c",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "image",
+            "images",
+            "productLine",
+            "tags",
+            "evidence",
+            "productType",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "b5eee84f7564bb5a06e6f807179a9f9d4bcc2eada69eb136e38ef3e47a9e7fba",
+          "offersBeforeSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "offersAfterSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 486,
+          "itemId": "source-9447610c42728f7b86ee5d52ba4486ca",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:01.568Z",
+          "beforeVersion": "306aaba57b5b2dd5f0d147a052d29ae8d314ad4f0e13512aeccd6415f483d608",
+          "afterVersion": "93df418198f8b52984f422e9cc1ef7021ecc7c4e4a0403cc732d67b8545b0046",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "characters",
+            "kind",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "c03f9aa92d558b0d14c99358c96b6fe517a899b8efd770c04ffb0b635f1daadb",
+          "offersBeforeSha256": "51c30fb64be0b5e4eba9ae203a62f53cf0b8c8db55ef332cc5aa097bf1d07f16",
+          "offersAfterSha256": "51c30fb64be0b5e4eba9ae203a62f53cf0b8c8db55ef332cc5aa097bf1d07f16",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 487,
+          "itemId": "source-ad7c3d833749fffd927ae606c8a14513",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:01.884Z",
+          "beforeVersion": "1018553df509008c163abfb821ba6d54c788fc985404f1a46a24a88a81c40074",
+          "afterVersion": "38c7fd65a07dc66d184af6710b26a8274c0e64bd29e60d807ca6e501e47e84f2",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "kind",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "58c07ee9b21292061827677b3214ec0e630bea7cef0c4f53f61a57f01d43e08a",
+          "offersBeforeSha256": "2b494e079ce433d55e2ccba2e247cd0aa221b8ab8086290870b50a9dcbec7dde",
+          "offersAfterSha256": "2b494e079ce433d55e2ccba2e247cd0aa221b8ab8086290870b50a9dcbec7dde",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 488,
+          "itemId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:02.290Z",
+          "beforeVersion": "1c29d828176a1ca7f0f9460762ed9e44b578368a30d0e8573afb72776bfa5777",
+          "afterVersion": "54624d69b516735613155fc992fca6cadaa29f18af18773835d4e39a40826433",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "characters",
+            "kind",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "2c37c3781b1077038ecf2899448a9969a1d7e38a2daab6c4016374c920ffb852",
+          "offersBeforeSha256": "03573411becf386b43b8fe17c99404ead471ef79bf5451f6a26fa9f9afb7840a",
+          "offersAfterSha256": "03573411becf386b43b8fe17c99404ead471ef79bf5451f6a26fa9f9afb7840a",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 489,
+          "itemId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:02.701Z",
+          "beforeVersion": "cdc52c850591e3eb540b53b300da66f52253d589056b2ca90b284605fc7e6397",
+          "afterVersion": "2439f0fd482d8f3bed5f8a6c5bd941dd433433b04fe63936e7f02942f96be67e",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "characters",
+            "kind",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "880d42a64efddaf4055a6ddfc0517816e166326ebfbaab888a4b7139ec95e1c1",
+          "offersBeforeSha256": "749464ca43f3ad247b4f603f0405ccb9115bb5df53c028ac29c3d2433b4582d3",
+          "offersAfterSha256": "749464ca43f3ad247b4f603f0405ccb9115bb5df53c028ac29c3d2433b4582d3",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 490,
+          "itemId": "source-c2b2e148b7681b82c96330739b270d70",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:03.097Z",
+          "beforeVersion": "5fa86480fa1453d2932d4dccf60e1dac17d5c3094093bff138a310521896e48c",
+          "afterVersion": "f32fc28f58a0f158f9c5d5a5d289a098afe902d391074ad44b11156b1fad5bb8",
+          "beforeStatus": "partial",
+          "afterStatus": "partial",
+          "changedFields": [
+            "summary",
+            "member",
+            "characters",
+            "kind",
+            "tags",
+            "editorial",
+            "evidence"
+          ],
+          "descriptionSha256": "740f591d76378682469073fab42922d20bd3d49c0dcac8049cfae14143dc568a",
+          "offersBeforeSha256": "6efdb35f866208d57bc20dbae4cc76622ec3387474cf7ab23fe72d677d206d85",
+          "offersAfterSha256": "6efdb35f866208d57bc20dbae4cc76622ec3387474cf7ab23fe72d677d206d85",
+          "preserved": true,
+          "adjustments": []
+        }
+      ],
+      "receipt": {
+        "at": "2026-10-29T14:23:00.007155+00:00",
+        "http": 200,
+        "body": {
+          "ok": true,
+          "created": 0,
+          "updated": 7,
+          "linked": 5,
+          "unlinked": 5
+        }
+      }
+    },
+    {
+      "at": "2026-10-29T14:23:41.703Z",
+      "group": 5,
+      "ordinals": [
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500
+      ],
+      "productionApplied": 8,
+      "verifiedDelta": 0,
+      "relationsMoved": 0,
+      "preferencesPreserved": true,
+      "countsPreserved": true,
+      "fullReadbackPassed": true,
+      "results": [
+        {
+          "ordinal": 493,
+          "itemId": "source-6507b9cf8cf301dda6981354e1d1e4ab",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:35.344Z",
+          "beforeVersion": "b537619a9b862a454283d73f7850b547366f9abbdaf611a672ec3295ebbd7166",
+          "afterVersion": "0f74b3b5d715c8fd5f826302d2000430ceff015f8f2b425a813587944e668341",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "characters",
+            "evidence",
+            "tags",
+            "productLine",
+            "member",
+            "productType",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "4f4df9deb85e453c85e59ec789551dd92c2b594c360e3c7f816b6fe0078a629e",
+          "offersBeforeSha256": "facc220340a936b7e5922a5af839eeaec5a3cf210715b37003ae94a87836b6ec",
+          "offersAfterSha256": "a99d15053bd3c6e58c3c155e57cd5cd8e6a4e2e14808ac73db1ad6477994d6d9",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 494,
+          "itemId": "source-b5830bd4ca18e15655566e1166eb9bee",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:35.670Z",
+          "beforeVersion": "290c2d7e8cf5e68a19f598943595befc1eb12176c39268a962673a826606d8b3",
+          "afterVersion": "0faf3657ffd01e8e8ffd2c3f10abf828c63645e1a5eebf6ed0bd27918d4c3e5f",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "origin",
+            "tags",
+            "evidence",
+            "member",
+            "productLine",
+            "productType",
+            "wave",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "68f5b9637ad0b871155acdee378933d8920c4cb368c345bc03418b4ed83bcfd4",
+          "offersBeforeSha256": "c67dd4e2637503c3ba7e01175f7fb26dce2dfab2e70f4117f9714107b5df6014",
+          "offersAfterSha256": "c67dd4e2637503c3ba7e01175f7fb26dce2dfab2e70f4117f9714107b5df6014",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 495,
+          "itemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:36.332Z",
+          "beforeVersion": "f79ebbd28c0b0c54d59b5b64f5a959ec68e0ac72d553f7d20831b82cb20fcf3a",
+          "afterVersion": "aaacffd9c0ee2b216753e44a588748dc3cb61514bd3b5016531d756c08b791cb",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "jan",
+            "origin",
+            "evidence",
+            "tags",
+            "member",
+            "productType",
+            "productLine",
+            "wave",
+            "summary",
+            "imageRole",
+            "editorial"
+          ],
+          "descriptionSha256": "05ad5061bbdb8db3080f5aece2a7f77050ea1a9acea37d6ef531806e13e7f78c",
+          "offersBeforeSha256": "7ee7ffe84047a42f3212fe233dcc4b908c2adfbf0a4e02e698b14976fdabb910",
+          "offersAfterSha256": "ed54f0ea3156529ea87a68bdd17718804c668c3437d01232d01bc2df0a437c92",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 496,
+          "itemId": "21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:36.719Z",
+          "beforeVersion": "f597b9ceebda988329e21654ad5a88c46e8f1d253916e8ee7208fe404b70facb",
+          "afterVersion": "0016671fa72dfb5ba3d28f960d33e13b2997d7dcf490a877f801e42be6364e4f",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "characters",
+            "origin",
+            "evidence",
+            "isbn",
+            "tags",
+            "member",
+            "productType",
+            "summary",
+            "imageRole",
+            "editorial"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "d697b86be90b3fc1fe0dbd25b314b535d4f6d9590a90ca568c6da9e0d5a75699",
+          "offersAfterSha256": "9bbf020c51d595642a41dbfd6918cc0a6302bb0b1184386af7ad78269d7341a3",
+          "preserved": true,
+          "adjustments": [
+            "图片缺少独立视觉凭证，按NEXT_TASK保留生产原图；仍为partial。"
+          ]
+        },
+        {
+          "ordinal": 497,
+          "itemId": "bab8701d-a249-4022-91c9-625d79a100ff",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:37.205Z",
+          "beforeVersion": "a3e99b027ebb92ee161eb1ba2848d73548ac04077912648ab3e478e51231eef2",
+          "afterVersion": "2f2ae9e31252aab9081285bf57a934b923e63fac82d7a21bafd15673c50af928",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "origin",
+            "evidence",
+            "isbn",
+            "tags",
+            "member",
+            "productType",
+            "summary",
+            "imageRole",
+            "editorial"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "dac24c3b6e89c0a6c0ec90c440e05e7c1473fcdff5acbc00962b33c45df0b058",
+          "offersAfterSha256": "9ddd81446b0367804a5758966ded9bd42b406138484cf5b50c01cc6a2bf0846c",
+          "preserved": true,
+          "adjustments": [
+            "图片缺少独立视觉凭证，按NEXT_TASK保留生产原图；仍为partial。"
+          ]
+        },
+        {
+          "ordinal": 498,
+          "itemId": "cdab3ad1-68d4-419c-a12c-b3399e72274d",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:37.579Z",
+          "beforeVersion": "0b31b941a96d73d23ecc8de2d453cf15e40cdd77978f16e31b444b92480d0ef0",
+          "afterVersion": "3b26b265cce4945c7fb8a647b932c28ada615457474ea678300e5707927ccaa3",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "characters",
+            "origin",
+            "evidence",
+            "isbn",
+            "tags",
+            "member",
+            "productType",
+            "summary",
+            "imageRole",
+            "editorial"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "90238b2d1684f73697b581a54d2f8e8f91f2584eab5542b3b44551fb730e19ea",
+          "offersAfterSha256": "c0a9051cad443dddcc097baabc2c30963c49530463d748a453c179205a920b22",
+          "preserved": true,
+          "adjustments": [
+            "图片缺少独立视觉凭证，按NEXT_TASK保留生产原图；仍为partial。"
+          ]
+        },
+        {
+          "ordinal": 499,
+          "itemId": "2a92ea72-5340-403c-9bc1-71420ee63f9e",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:38.534Z",
+          "beforeVersion": "2aa0cd1de617bfcc5b017dda0ae8dd9497f4475c3a3e71e6335f88887ec6434b",
+          "afterVersion": "b22699e8a9942af2494bcb2800e9941afe8192280f64b07f2aeebeea87005805",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "characters",
+            "origin",
+            "evidence",
+            "isbn",
+            "tags",
+            "member",
+            "productType",
+            "summary",
+            "imageRole",
+            "editorial"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "12e558660589c70b22852428cc5e30ebcce4feb4fad90f5c1b0e48f8a8cf0cae",
+          "offersAfterSha256": "a4e43741df56a4c9098798ec69bb6408430ce4a9abd46f907594036815466a92",
+          "preserved": true,
+          "adjustments": [
+            "图片缺少独立视觉凭证，按NEXT_TASK保留生产原图；仍为partial。"
+          ]
+        },
+        {
+          "ordinal": 500,
+          "itemId": "6cd1e115-1669-450d-b042-be02c96cacb6",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:23:38.997Z",
+          "beforeVersion": "6a76a0c4d8ed53f9977607ff8b76ac213304dc02e85fc74837944b203b9481e1",
+          "afterVersion": "02bdb0500e6c8d04e836721b7424934cfccc61648dd5fba9353ba76144cda181",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "characters",
+            "releaseDate",
+            "origin",
+            "evidence",
+            "isbn",
+            "tags",
+            "member",
+            "productType",
+            "summary",
+            "imageRole",
+            "editorial"
+          ],
+          "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "offersBeforeSha256": "3d29f25b0e25b83ec506dec19493e9e7217dce2f0253ddfc077e3ec3c86c1651",
+          "offersAfterSha256": "2dcafba74c8bfd0e1d89a80301a43206a6dbc6c44e62b969ce8d7219d04ef3f3",
+          "preserved": true,
+          "adjustments": [
+            "图片缺少独立视觉凭证，按NEXT_TASK保留生产原图；仍为partial。"
+          ]
+        }
+      ],
+      "receipt": {
+        "at": "2026-10-29T14:23:34.967259+00:00",
+        "http": 200,
+        "body": {
+          "ok": true,
+          "created": 0,
+          "updated": 8,
+          "linked": 0,
+          "unlinked": 0
+        }
+      }
+    },
+    {
+      "at": "2026-10-29T14:25:27.063Z",
+      "group": 6,
+      "ordinals": [
+        509,
+        510,
+        511
+      ],
+      "productionApplied": 3,
+      "verifiedDelta": 0,
+      "relationsMoved": 0,
+      "preferencesPreserved": true,
+      "countsPreserved": true,
+      "fullReadbackPassed": true,
+      "results": [
+        {
+          "ordinal": 509,
+          "itemId": "family-16c4c4278428fb44aff7e22ca7e15479",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:25:23.794Z",
+          "beforeVersion": "06e7fef66ebdd0e8a0d97ba5b1e9777f112ea6033a93e86077fe6a0dc5443d56",
+          "afterVersion": "d7ecbeee640e53c39a3c0337e2ed6580dcb1c86bdbd44bcc4fc1893a49ecd276",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "tags",
+            "evidence",
+            "productType",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "b5eee84f7564bb5a06e6f807179a9f9d4bcc2eada69eb136e38ef3e47a9e7fba",
+          "offersBeforeSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "offersAfterSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 510,
+          "itemId": "source-0fe194fcad613e09070850be41941fa0",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:25:24.174Z",
+          "beforeVersion": "963d35de1fc4dec834d919e7b1c0a6b86f6f11599bd575fd962d4e8b04a3f6c0",
+          "afterVersion": "932b83a02cc7a294e62d8318eec8ed0cbc0115c59ac89e829610c66c20c08305",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "publisher",
+            "characters",
+            "releaseDate",
+            "evidence",
+            "tags",
+            "member",
+            "productType",
+            "imageRole",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "2397f058c9438e44e62f1d77f4d3af6c11e0b10bf2cd41279cce44e094f8a2a8",
+          "offersBeforeSha256": "0c0f7c190139e45552ef533d63096b0c0e4ee29244accdf9044f709fd9ee0465",
+          "offersAfterSha256": "deeb61d9eb53a5ba18482744981e3d5c023131285c535975ba93faecbad96d28",
+          "preserved": true,
+          "adjustments": []
+        },
+        {
+          "ordinal": 511,
+          "itemId": "source-c29c5b9bf940672edd2e74b51a3943b7",
+          "productionStatus": "applied_readback_verified",
+          "readbackAt": "2026-10-29T14:25:24.778Z",
+          "beforeVersion": "59ff60b4958f3d836a566dd008a5ec34049ea3f0af93133e091a3b84843217e5",
+          "afterVersion": "3b654e6a80b4256ffeb702eb8fe10bd7980bbe25924b16d63699df83c5a330f1",
+          "beforeStatus": "pending",
+          "afterStatus": "partial",
+          "changedFields": [
+            "characters",
+            "releaseDate",
+            "evidence",
+            "tags",
+            "member",
+            "productType",
+            "imageRole",
+            "summary",
+            "editorial"
+          ],
+          "descriptionSha256": "60d3f6aea2c369d4a6bae8dbd9d21a687ca602564e7ec5e96e1f3626090bb0b1",
+          "offersBeforeSha256": "4a0109aae38dc1e4580b8403abfe25e7e19e9962d728eff725128e294e08543f",
+          "offersAfterSha256": "20a057b47836fbca1b0571d16e46f56b13ded091c2622852e982f34090c52419",
+          "preserved": true,
+          "adjustments": []
+        }
+      ],
+      "receipt": {
+        "at": "2026-10-29T14:25:23.472774+00:00",
+        "http": 200,
+        "body": {
+          "ok": true,
+          "created": 0,
+          "updated": 3,
+          "linked": 0,
+          "unlinked": 0
+        }
+      }
+    }
+  ],
+  "coverage": {
+    "main": {
+      "at": "2026-10-29T14:19:05.350996+00:00",
+      "scope": "main",
+      "count": 15811,
+      "pages": 28,
+      "after": null,
+      "complete": true,
+      "readOnly": true
+    },
+    "doujin": {
+      "at": "2026-10-29T14:19:27.150091+00:00",
+      "scope": "doujin",
+      "count": 19209,
+      "pages": 34,
+      "after": null,
+      "complete": true,
+      "readOnly": true
+    },
+    "uniqueActive": 35020,
+    "semanticVerification": false,
+    "originalOrdinals": 15811,
+    "riskQueue": {
+      "at": "2026-10-29T14:33:32.865Z",
+      "count": 1000,
+      "flags": {
+        "edition_or_bundle_needs_confirmation": 974,
+        "explicit_unresolved": 30
+      },
+      "stableIds": true,
+      "pairwiseComparison": false,
+      "unchangedBetweenReadScans": 35020,
+      "final32Overlay": true,
+      "artifact": "work/current-stage/risk-queue.jsonl",
+      "meaning": "Read-only candidates for future user-scoped review; not verified errors and no further work authorized"
+    }
+  },
+  "preservation": {
+    "personalFields": true,
+    "manualFieldsAndTags": true,
+    "originalTitleAndDescription": true,
+    "offersAndAllHistory": true,
+    "preferences": true,
+    "unrelatedRelations": true,
+    "archivedCount": true,
+    "archiveRowsNotWritten": true,
+    "scopeLimitedTo32ExistingIds": true
+  },
+  "checksThisRun": [
+    "Latest main and unchanged runtime release mapping",
+    "Authenticated owner digest and complete JSON",
+    "32 source fingerprints, permanent ordinals and fresh field baselines",
+    "Six guarded atomic writes, 32 individual full-record readbacks",
+    "Five logical parent replacements in one seven-item revision",
+    "Full graph validity, preference and row-count preservation",
+    "Protected rollback with applied versions, graph and preferences guards",
+    "35020 unique active IDs including doujin with stable cursors"
+  ],
+  "notRun": [
+    "New browser QA: no new interaction or application code",
+    "Runtime regression/build/full import: unchanged application",
+    "Full archive byte comparison: archived rows were outside the write scope"
+  ],
+  "knownFailuresUnchanged": [
+    "v4",
+    "v8",
+    "fate-snapshot",
+    "historical full import ~3.10x slowdown"
+  ],
+  "quota": "unknown",
+  "stage": "waiting_user_acceptance",
+  "userAccepted": false,
+  "nextStageStarted": false,
+  "localPreparationCorrection": {
+    "group": 6,
+    "stage": "before_network_write",
+    "cause": "batch-006 fieldEvidence uses url; batch-005 uses sources[]",
+    "resolution": "normalize url or sources[0], assert it appears in the explicit source list",
+    "writesBeforeCorrection": 0
+  }
+}
