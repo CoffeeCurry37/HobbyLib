@@ -1,0 +1,39 @@
+{
+  "reviewedHead": "c6ac70cbd0ee9925a9720ecd7a243512da112b9c",
+  "dateLocal": "2026-10-28",
+  "timezone": "America/Chicago",
+  "sourceValidation": {
+    "gitBlobsCompared": 984,
+    "mismatches": 0
+  },
+  "command": "node --test scripts/test-curation-conflicts.mjs scripts/test-curation-revision.mjs scripts/test-acceptance.mjs scripts/test-identity.mjs scripts/test-core.mjs scripts/test-editorial-flow.mjs",
+  "result": {
+    "exitCode": 0,
+    "tests": 46,
+    "passed": 46,
+    "failed": 0,
+    "skipped": 0,
+    "registeredCases": 44,
+    "scriptEntries": 2,
+    "durationMs": 7409.0927
+  },
+  "output": "✔ refresh-item API protects concurrent edits on success, fetch failure and SQL guard failure (520.5902ms)\n✔ one listing review case retains observations, resolves with versions and resumes formal prices (78.4344ms)\n✔ full ingest preserves locked manual tag set despite source and classification tags (9.8868ms)\n✔ Unknown price never becomes cheap junk (3.0114ms)\n✔ Bonus only, missing bonus, and base remain separate (0.2634ms)\n✔ No year inferred from arbitrary title digits (0.2169ms)\n✔ Missing bonus not suppressed by owned base (33.6088ms)\n✔ Bundle counts partial quantity and penalizes duplicate components (6.5358ms)\n✔ Blacklist outranks whitelist (1.4428ms)\n✔ Demonstration labels excluded from learning; explicit labels drive weights (2.6924ms)\n✔ Directed containment rejects cycles (0.3157ms)\n✔ Japanese fallback preserves canonical name (0.3258ms)\n✔ List cards keep title price and availability scoped (7.5609ms)\n✔ JSON-LD foreign currencies are not mislabelled as yen (3.3127ms)\n✔ Crawl URL and redirect hosts are restricted (0.4604ms)\n✔ Empty marketing page is not silently a valid zero-item catalogue (0.3965ms)\n✔ Standalone postcard is not assumed to be a purchase bonus (0.1831ms)\n✔ Explicit source facts retain MSRP, creators and original release granularity (1.9414ms)\n✔ Metadata does not silently overwrite manual fields and does not infer MSRP from offer (1.8557ms)\n✔ Automatic links require unique full parent title and preserve ownership (7.9117ms)\n✔ Different volumes and editions do not auto-link, Japanese titles produce recommendations (3.0811ms)\n✔ Verification forms pause sources but ordinary age labels do not (1.0418ms)\n✔ Real Mandarake card structure keeps tax and inventory-check distinct (3.4502ms)\n✔ previously dismissed replacement rejects the whole revision, preserving metadata and old edge (72.804ms)\n✔ dismissal racing final transaction rejects atomically (preferences inserted) (8.3566ms)\n✔ dismissal racing final transaction rejects atomically (preferences updated) (6.1912ms)\n✔ existing target with quantity 1 rejects instead of silently skipping (7.2471ms)\n✔ existing target with quantity 3 rejects instead of silently skipping (6.3172ms)\n✔ duplicate additions and conflicting edge IDs reject without partial writes (7.039ms)\n✔ stale Item version returns a clear conflict, not a generic bad request (4.0379ms)\n✔ stale detail editor returns 409 and preserves the complete latest Item (3.6717ms)\n✔ exact replacement, replay rejection, explicit quantity replacement, and guarded undo (12.5399ms)\nPASS atomic curation relation move: versions, endpoints, concurrent user edit, apply and undo\n✔ scripts\\test-curation-revision.mjs (3332.9089ms)\n{\"unitPass\":true,\"checks\":[\"all slots accounted\",\"no automatic verification\",\"cache/variants/years\",\"bounded packet\",\"projection/owner isolation\",\"guarded updates\",\"personal/manual preservation\",\"reject stale decisions\"]}\n✔ scripts\\test-editorial-flow.mjs (7368.1332ms)\n✔ same listing never bypasses known medium, platform or component conflicts (76.9603ms)\n✔ same listing does not collapse volumes (3.1466ms)\n✔ missing or empty source identifiers are not shared keys (0.4171ms)\n✔ index replacement removes previous keys, including when archived (1.4069ms)\n✔ multiple items on the same listing require review (41.9954ms)\n✔ conflicting observations are retained once, original and other users survive; shadow writes nothing (275.246ms)\n✔ events survive truncation, repeat drops/restock, replay and stale concurrent writers (111.7043ms)\n✔ unknown ownership and incomparable prices cannot imply a bargain or a missing item (1.6123ms)\n✔ relation races abort curation and merge atomically; merge undo protects later edits (7.0296ms)\n✔ physical lot alerts require known missing ownership and never re-emit old offer events (15.3843ms)\n✔ manual and unattributed tags survive; preference tags are not source facts (1.9246ms)\n✔ explicit reprint and restored edition differences override shared listing and JAN (2.6463ms)\nℹ tests 46\nℹ suites 0\nℹ pass 46\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 7409.0927\n",
+  "productionWrites": 0,
+  "productionReadback": false,
+  "newDeployment": false,
+  "notRun": [
+    "full workflow",
+    "full Fate import",
+    "builds",
+    "typecheck",
+    "browser",
+    "snapshot verify/extract",
+    "24h monitoring"
+  ],
+  "knownHistoricalFailures": [
+    "v4",
+    "v8",
+    "fate-snapshot"
+  ],
+  "historicalFullImportSlowdown": 3.1
+}

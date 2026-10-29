@@ -1,3 +1,5 @@
+> 历史隔离验收记录：下文14/18等资格数字不能直接用于生产。固定32条最新方案为 verifiedEligible2 / partial30，须叠加 [图片复核决定](../issue-3-image-review/decisions.json)。生产应用必须读取新鲜目标和最新成功回执；当前任务与人工验收停止点见 [NEXT_TASK](../../../docs/NEXT_TASK.md)。
+
 # 批次006：Fate/Requiem完整已刊研究组
 
 3条prepared；在批次005应用后的完整隔离副本继续应用，逐项读回通过。生产applied 0；verified 0、partial 3（逐卷封面视觉对应未完成）。两卷与逻辑目录全部纳入，不把已查到JAN或成功网页算作图片核实。

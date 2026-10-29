@@ -1,6 +1,6 @@
 # 业务规则与代码索引
 
-以下根据实际源码整理；细节以实现及回归用例为准。
+当前执行顺序见 [NEXT_TASK.md](NEXT_TASK.md)：已上线逻辑用于现有商品整理，用户人工验收后再进入下一阶段。以下根据实际源码整理；细节以实现及回归用例为准。
 
 长期目标见 [项目章程](PROJECT_CHARTER.md)；目标行为与现有模型的映射见 [商品契约](PRODUCT_IDENTITY_CONTRACT.md)。[2026-10-26 审查](REVIEW-2026-10-26.md) 区分已实现能力、静态风险及待验证事项；后续开发使用 [实施 Prompt](CODEX_IMPLEMENTATION_PROMPT.md)。这些设计要求不代表当前代码已经实现。
 
@@ -48,13 +48,14 @@ classification/context/image/tags/summary 五项全满足且无 unresolved 才�
 
 GitHub 源码、线上 D1、Sites 发布是三个独立环节。维护端点还要求短期令牌、截止时间和目标账号。读取/备份不需要开启维护窗口。本次同步没有提交部署密钥或浏览器会话。
 
-## 规则 22 实施索引
+## 规则 23 实施索引
 
 | 模块 | 当前行为 |
 | --- | --- |
 | identity.ts / identity-facts.ts | 有效来源键；统一硬冲突；ISBN-10/13、历史 JAN 中 ISBN；替换索引移除旧键；唯一目标 |
 | match-decision.ts | 四态决定、稳定理由码、SHA-256 输入/决定、原值/作用域证据；与 findProduct 共用 evaluateProduct |
 | service.ts / atomic-ingest.ts | 同键冲突进入稳定 review Item；旧观测不覆盖资料；Item/Offer/关系/通知事务提交；并发变更拒绝；compact 导入共用有界候选 |
+| identity-review.ts | 同来源案件复用，隔离观测不作为可信候选；双方版本保护的明确解除，矛盾重现时重新打开 |
 | relation-guard.ts | curation/merge/ingest 对读取的关系图作原子校验，防止仅保护 Item 后覆盖关系 |
 | market-events.ts | Offer 内事件序号与类型；new_listing / restock / price_drop；通知删除或读取窗口之外仍不重放 |
 | price-comparison.ts | 成色、附件、税制、出售形式分组；竞拍/整套标识，未知到手费用和汇率保留 null |

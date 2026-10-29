@@ -1,3 +1,5 @@
+> 历史报告：此文件保留当时的实现/测试证据。PR #2 后续已合并、Sites65已上线；当前状态和人工验收停止点见 [NEXT_TASK.md](NEXT_TASK.md)，不要把下文历史待办或未发布状态当作现状。
+
 # HobbyLib 身份、审计与增量实施记录
 
 基线为私有仓库最新 main `2003e3d31526821e681b9fdcc1d51b7b6ec7d6be`；开始时确认连接具有 pull/push 权限，PR #1 已合并，本地旧 checkout 无未提交改动。保留原分支，建立 `feat/explainable-identity`。检查点 `1549acd` 和 `ee216a7` 已推送；源码 PR 不自动合并或部署。

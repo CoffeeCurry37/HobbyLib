@@ -1,58 +1,50 @@
 # HobbyLib
 
-个人兴趣商品库与中古商品发现助手，涵盖书籍、漫画、手办、玩具及其他收藏品。当前运行中的网站名为 **Collector Radar · 收藏雷达**。
+个人兴趣商品库与中古商品发现助手。当前网站为 **Collector Radar · 收藏雷达**。
 
-- [在线收藏雷达](https://collector-radar.martainjonn.chatgpt.site)（本人登录）
-- [当前进度与下一步](docs/PROGRESS.md)
+**当前阶段：先确认修改后的逻辑上线，整理现有商品，由用户人工确认后再进入下一阶段。**
+
+- [打开收藏雷达](https://collector-radar.martainjonn.chatgpt.site)（按现有账号权限登录）
+- [当前任务 / 完整 Codex Prompt](docs/NEXT_TASK.md)
+- [当前进度](docs/PROGRESS.md)
+- [32 条商品验收清单](docs/reports/issue-3/REVIEW-32.md)（目前是待应用方案，查看每项生产状态）
+- [本次仓库检查与清理](docs/REPOSITORY-REVIEW-2026-10-28.md)
+- [Sites 发布映射](docs/SITES-RELEASE.md)
 - [业务规则与代码索引](docs/ARCHITECTURE.md)
-- [项目章程与长期方向](docs/PROJECT_CHARTER.md)
 - [商品身份、层级、标签与匹配契约](docs/PRODUCT_IDENTITY_CONTRACT.md)
-- [代码审查与实施差距](docs/REVIEW-2026-10-26.md)
-- [可直接交给 Codex 的实施 Prompt](docs/CODEX_IMPLEMENTATION_PROMPT.md)
-- [数据来源、备份与恢复](docs/DATA.md)
-- [继续逐项复查](research/editorial-20261021/RESUME.md)
+- [项目章程](docs/PROJECT_CHARTER.md)、[长期愿景](docs/VISION.md)
+- [数据备份与恢复](docs/DATA.md)、[研究断点](research/editorial-20261021/RESUME.md)
 - [独立运行说明](standalone/README.zh-CN.md)
-- [原 HobbyLib 愿景](docs/VISION.md)
 
-## 当前数据
+## 已上线与待完成
 
-2026-10-26 线上完整导出：**35,020 条现有商品、8,549 条合并存档、1,835 条关系**。其中同人商品 19,209 条。备份保留个人备注、拥有状态、报价与历史信息；本仓库应保持私有。
+2026-10-28（America/Chicago）原生查询确认：**Sites 65 / active / custom**，部署 succeeded。PR #2 已合并；后续主分支没有新的应用运行逻辑需要补发。GitHub 源码、Sites 发布、生产商品修订是独立环节。
 
-原非同人复查队列共 15,811 个编号：310 已核实、42 待补查、1 已归档、15,458 未完成。下一个未开始编号为 **91**。已应用批次 001–004 不得重放。预检、分组和抓取网页均不等于完成商品核实。
+固定 32 条修订及 5 条父级关系仍无生产应用回执；仓库记录 productionApplied=0，本次未完整读取生产商品，不能据此断言实时数据未被其他操作改变。当前方案五项资格为 **2 条、partial 30 条**；旧 14/18 口径已被图片复核取代。
 
-本次同步包含网站第 64 版源码、全部已保存采集批次和研究断点，以及完整线上数据库备份。**GitHub 提交不等于线上发布**；网站仍通过原 Sites 项目发布。
+下一执行先核验线上状态，再读取新鲜目标应用有依据的字段，给用户页面链接、差异及待判断问题。**交付后等待用户明确确认逻辑，再进入下一阶段。** 不需要把全库都标成 verified 才让用户试用。
+
+## 数据基线
+
+2026-10-26 备份：35,020 active（含 19,209 同人）、8,549 合并存档、1,835 关系。原 15,811 个非同人固定编号：310 verified、42 partial、1 archived、15,458 pending，历史下一未开始 #91。以上都是历史快照；实时数量和断点必须重新读取，001–004 不得重放。
 
 ## 本地开发
 
-需要 Node.js 24+；沿用 package.json 指定的 pnpm 版本及锁文件。
+Node.js 24+，使用 package.json 指定的 pnpm 版本与锁文件。
 
 ```text
 pnpm install --frozen-lockfile
 pnpm test:core
+node scripts/test-identity.mjs
+node scripts/test-curation-conflicts.mjs
+node scripts/test-curation-revision.mjs
+node scripts/test-acceptance.mjs
 node scripts/test-editorial-flow.mjs
-pnpm test:workflow
 pnpm build:standalone
 ```
 
-独立版使用 RADAR_PASSWORD（至少 16 字符）、RADAR_ORIGIN、RADAR_DATA_DIR，启动命令为 `pnpm start:standalone`。完整说明及 Windows 启动方式见 standalone/。
+按实际改动选择检查。完整 workflow 有 v4、v8、fate-snapshot 三项已记录失败，另有历史全量导入约 3.10 倍耗时回退；见 [历史诊断](docs/reports/issue-3/README.md)。本次限定回归通过不代表全套 CI 全绿，仓库目前没有 Actions 运行记录。
 
-验证及解压备份（Python 3 标准库）：
+独立版需要 RADAR_PASSWORD（至少 16 字符）、RADAR_ORIGIN、RADAR_DATA_DIR，使用 `pnpm start:standalone`。备份校验用 `python scripts/snapshot.py verify`；恢复细节见 DATA.md。不要为整理商品把旧备份覆盖生产。
 
-```text
-python scripts/snapshot.py verify
-python scripts/snapshot.py extract --output data/collector-radar-backup.json
-```
-
-应用内导入解压后的 JSON 可恢复本次商品库。恢复会替换目标账号数据，应先备份目标数据库。
-
-## 已实现与待完成
-
-已有商品/挂牌分离、分类及标签规则、版本匹配与可撤销归并、套装/组件/特典关系、收藏状态、优先度、采集队列、分组研究和断点恢复。分类由规则实现，未接入额外 LLM API；提醒在应用内展示。独立版具有定时监控逻辑，但没有本次验证的常驻云主机。
-
-分类、图片及系列关系仍有待查项；见 [PROGRESS.md](docs/PROGRESS.md)。本次检查结果见 [SYNC-2026-10-26.md](docs/SYNC-2026-10-26.md)。
-
-## 身份与增量实施（开发分支）
-
-本轮新增统一匹配决定、冲突观测复查、分页只读审计、Prototype 目录关系计划、影子比较及原子通知事件。实现与测试见 [实施记录](docs/IMPLEMENTATION-2026-10-26.md)，接续从 [IDENTITY-HANDOFF](docs/IDENTITY-HANDOFF.md) 开始，脱敏报告见 [验证产物](docs/reports/identity-20261026/README.md)。尚无真实标注留出集；合成结果不代表生产准确率。
-
-`node scripts/test-identity.mjs` 运行新增安全回归，`node scripts/identity-evaluate.mjs` 运行脱敏评测。审计命令必须显式指定本地快照、范围和输出目录。源码 PR、Sites 发布和生产数据库更新仍为独立环节；本轮没有部署、修改生产数据或增加核实完成数。
+统一身份决定、冲突复查、分页审计、关系事务保护及应用内事件已实现；[实施记录](docs/IMPLEMENTATION-2026-10-26.md)为历史技术证据。真实人工标注留出集、常驻云监控、站外通知及到手费用模型未完成，本阶段不扩展这些能力。
