@@ -5,7 +5,7 @@
 3. GitHub 提交不等于 Sites 发布或数据库同步。保留 .openai/hosting.json 的项目身份、DB 绑定及访问权限；运行逻辑未变且已上线时不重复发布。
 4. 商品与挂牌分离；本体、特典、组件、套装拥有状态独立。卷号、ISBN/JAN、平台、媒介、版本、卡面、来源变体不得因标题相似而合并。
 5. 原 15,811 个复查编号不可重新生成或丢弃。001–004 已应用不能重放；005–006 先查最新生产回执和新鲜目标，不能重放隔离动作。历史 #91 / 42 partial 不是实时断点。
-6. 研究再读 research/editorial-20261021/RESUME.md、WORKFLOW.md 和 workflow/summary.json。优先紧凑投影、已有证据与未变指纹，不默认加载全备份或历史采集。
+6. 商品知识与增量识别先读 [设计记忆](docs/PRODUCT_KNOWLEDGE_DESIGN.md) 的快速入口，再按需读 [试点与验收方案](docs/PRODUCT_KNOWLEDGE_PILOT.md)；这是设计，不能当作已实施或用户验收。实际研究再读 research/editorial-20261021/RESUME.md、WORKFLOW.md 和 workflow/summary.json。优先紧凑投影、已有证据与未变指纹，不默认加载全备份或历史采集。
 7. 五项 checks 和来源匹配满足、无未决项才 verified。预检、分组、抓取及图片 HTTP 成功不等于核实；partial 不阻止应用有证据的安全字段。
 8. 写前完整读取新目标，使用 expectedVersion 和关系/偏好保护；保留备注、拥有、数量、优先度、人工字段及报价历史。结构调整在完整副本验证；新拆分、归并或 Offer 迁移需具体方案。
 9. 静态缓存不替代实时库存。登录、验证码、年龄确认及访问限制保留断点，不绕过。旧环境阻断仅为旧环境证据，新任务检查实际环境。

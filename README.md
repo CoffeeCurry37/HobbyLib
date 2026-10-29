@@ -7,6 +7,8 @@
 - [打开收藏雷达](https://collector-radar.martainjonn.chatgpt.site)（按现有账号权限登录）
 - [当前任务 / 完整 Codex Prompt](docs/NEXT_TASK.md)
 - [当前进度](docs/PROGRESS.md)
+- [商品知识整理与增量识别：设计记忆](docs/PRODUCT_KNOWLEDGE_DESIGN.md)（2026-10-29 研究结论，含 AI 快速入口）
+- [AI 分工、32 条验收与 300 条试点方案](docs/PRODUCT_KNOWLEDGE_PILOT.md)（待实施建议，不表示验收通过）
 - [32 条商品验收清单](docs/reports/issue-3/REVIEW-32.md)（目前是待应用方案，查看每项生产状态）
 - [本次仓库检查与清理](docs/REPOSITORY-REVIEW-2026-10-28.md)
 - [Sites 发布映射](docs/SITES-RELEASE.md)
