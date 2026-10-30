@@ -9,7 +9,7 @@
 - [当前进度](docs/PROGRESS.md)
 - [商品知识整理与增量识别：设计记忆](docs/PRODUCT_KNOWLEDGE_DESIGN.md)（2026-10-29 研究结论，含 AI 快速入口）
 - [AI 分工、32 条验收与 300 条试点方案](docs/PRODUCT_KNOWLEDGE_PILOT.md)（待实施建议，不表示验收通过）
-- [32 条商品验收清单](docs/reports/issue-3/REVIEW-32.md)（目前是待应用方案，查看每项生产状态）
+- [32 条商品验收清单](docs/reports/issue-3/REVIEW-32.md)（32条及五边已应用并读回，查看未决项与验收问题）
 - [本次仓库检查与清理](docs/REPOSITORY-REVIEW-2026-10-28.md)
 - [Sites 发布映射](docs/SITES-RELEASE.md)
 - [业务规则与代码索引](docs/ARCHITECTURE.md)
@@ -22,9 +22,9 @@
 
 2026-10-28（America/Chicago）原生查询确认：**Sites 65 / active / custom**，部署 succeeded。PR #2 已合并；后续主分支没有新的应用运行逻辑需要补发。GitHub 源码、Sites 发布、生产商品修订是独立环节。
 
-固定 32 条修订及 5 条父级关系仍无生产应用回执；仓库记录 productionApplied=0，本次未完整读取生产商品，不能据此断言实时数据未被其他操作改变。当前方案五项资格为 **2 条、partial 30 条**；旧 14/18 口径已被图片复核取代。
+固定32条及五条父级关系已完成生产应用，原执行回执来自PR #4并已同步到main。本轮独立读取32条，完整记录、原文、Offer与报价历史指纹全部一致；新增写入0。当前为 **2条verified、30条partial**，原执行实际新增verified1。详情见[生产回执](docs/reports/issue-3/production-20261029.json)和[独立核对](docs/reports/issue-3/reconciliation-20261029.json)。
 
-下一执行先核验线上状态，再读取新鲜目标应用有依据的字段，给用户页面链接、差异及待判断问题。**交付后等待用户明确确认逻辑，再进入下一阶段。** 不需要把全库都标成 verified 才让用户试用。
+已交付页面、真实差异与问题清单。#484同卷重复条目、#495未知/缺少展示语义仍待处理；001–006成功动作禁止重放。下一执行按用户具体反馈修正指定范围。**交付后等待用户明确确认逻辑，再进入下一阶段。** 不需要把全库都标成 verified 才让用户试用。
 
 ## 数据基线
 

@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "task": "fixed32-production-reconciliation",
+  "localDate": "2026-10-29 America/Chicago",
+  "promptCommit": "34be10400dc17d590c6ee9e4f965d4f37b2621a5",
+  "originalExecution": {
+    "pullRequest": 4,
+    "commit": "10bcca30951cd0baa4135a6434deabb08e16ead9",
+    "receipt": "production-20261029.json",
+    "productionApplied": 32,
+    "relationsMoved": 5,
+    "verifiedDelta": 1
+  },
+  "readAt": "2026-10-29T20:57:56.648Z",
+  "productionAppliedThisRun": 0,
+  "duplicateWritesAvoided": 32,
+  "all32RecordVersionsMatched": true,
+  "all32DescriptionsMatched": true,
+  "all32OffersAndHistoryMatched": true,
+  "beforeAfterReadEqual": true,
+  "verified": 2,
+  "partial": 30,
+  "checks": [
+    {
+      "ordinal": 80,
+      "itemId": "family-bd1e9d29d163cfb06f93cbe07b7b0c30",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 81,
+      "itemId": "member-17vmdp9",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 82,
+      "itemId": "member-1q1tmhj",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 83,
+      "itemId": "member-171nkmc",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 84,
+      "itemId": "member-17bn6bb",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 85,
+      "itemId": "member-16hod8e",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 86,
+      "itemId": "member-16rnyxd",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 87,
+      "itemId": "member-15xp5ug",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 88,
+      "itemId": "member-167orjf",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 89,
+      "itemId": "member-15dpygi",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 90,
+      "itemId": "member-15npk5h",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 91,
+      "itemId": "8d0ad208-bbb5-4139-97a0-457c57beed04",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 92,
+      "itemId": "source-8756a25a5dafc97e8e16cc2dfec8c605",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 93,
+      "itemId": "source-47ed7d0c0174ad78f2164f35017e288a",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 484,
+      "itemId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 485,
+      "itemId": "family-ece84739ad4d11735dbc4948fe7edd5f",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 486,
+      "itemId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 487,
+      "itemId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 488,
+      "itemId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 489,
+      "itemId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 490,
+      "itemId": "source-c2b2e148b7681b82c96330739b270d70",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 493,
+      "itemId": "source-6507b9cf8cf301dda6981354e1d1e4ab",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 494,
+      "itemId": "source-b5830bd4ca18e15655566e1166eb9bee",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 495,
+      "itemId": "b3c2f3ac-46ad-427b-b106-0ecd3e4bf579",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 496,
+      "itemId": "21bf754b-7370-4f5e-83c4-9adeafdcd83d",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 497,
+      "itemId": "bab8701d-a249-4022-91c9-625d79a100ff",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 498,
+      "itemId": "cdab3ad1-68d4-419c-a12c-b3399e72274d",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 499,
+      "itemId": "2a92ea72-5340-403c-9bc1-71420ee63f9e",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 500,
+      "itemId": "6cd1e115-1669-450d-b042-be02c96cacb6",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 509,
+      "itemId": "family-16c4c4278428fb44aff7e22ca7e15479",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 510,
+      "itemId": "source-0fe194fcad613e09070850be41941fa0",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    },
+    {
+      "ordinal": 511,
+      "itemId": "source-c29c5b9bf940672edd2e74b51a3943b7",
+      "versionMatches": true,
+      "descriptionMatches": true,
+      "offersMatches": true,
+      "statusMatches": true
+    }
+  ],
+  "relations": [
+    {
+      "id": "family-link-2a4a5c4992aa263ed6ac7db5",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-1a19408b2f4ef5af6c71b43dde757f3c",
+      "kind": "contains",
+      "quantity": 1,
+      "matched": true
+    },
+    {
+      "id": "family-link-48fa7540b407688ad8607f7b",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-c2b2e148b7681b82c96330739b270d70",
+      "kind": "contains",
+      "quantity": 1,
+      "matched": true
+    },
+    {
+      "id": "family-link-9980e4e05e0144351a997c60",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-ad7c3d833749fffd927ae606c8a14513",
+      "kind": "contains",
+      "quantity": 1,
+      "matched": true
+    },
+    {
+      "id": "family-link-a0808fe0e4c5d1a9ce26fb69",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-ee54ecbcd5737dd27cc7f4192c7a2040",
+      "kind": "contains",
+      "quantity": 1,
+      "matched": true
+    },
+    {
+      "id": "family-link-b702b2f4010c92b266963e83",
+      "fromId": "family-c91ba4972ab712e2ca5b67ef3132eeb1",
+      "toId": "source-9447610c42728f7b86ee5d52ba4486ca",
+      "kind": "contains",
+      "quantity": 1,
+      "matched": true
+    }
+  ],
+  "ui": {
+    "checked": [
+      "#80",
+      "#484",
+      "#495"
+    ],
+    "checkedAt": "2026-10-30 01:02:11 UTC",
+    "findings": [
+      {
+        "id": "prototype-duplicate-volumes",
+        "scope": "#484 contains #486–490 and #496–500",
+        "observation": "小说目录实际显示10个条目，每个卷次各两条；五条父级修正正确，但商品去重尚未完成。",
+        "resolution": "记录为后续身份/归并研究，不在固定32条中自动合并或搬迁Offer。"
+      },
+      {
+        "id": "unknown-ownership-label",
+        "scope": "#495",
+        "observation": "页面汇总显示5件拥有状态未知，但下方成员同时显示“还缺1”；未知与缺少的展示语义不一致。",
+        "resolution": "记录为待修正的界面/规则验收问题；本轮未改代码或收藏状态。"
+      }
+    ],
+    "notClaimed": "未做32页逐页视觉核对，不将封面显示成功计为视觉身份核实。"
+  },
+  "maintenance": {
+    "closed": true,
+    "closeDeployment": "appgdep_6ae3eb4e55248191b2e7b84c3f9b3d3b",
+    "environmentRevision": 68,
+    "status": "succeeded",
+    "authenticatedProbeStatus": 401,
+    "sourceVersion": 65,
+    "applicationCodeChanged": false
+  },
+  "accessLimit": {
+    "fullExport": false,
+    "catalogMetaSaved": false,
+    "readScope": "32个完整目标及现有接口返回的关系图；无全库商品导出。",
+    "reviewRejections": [
+      "全库导出超出本次32条范围",
+      "catalogMeta可能保存额外私人数据"
+    ],
+    "resolution": "改用获准的editorialItems读取；该接口已含所需关系，不再请求全库导出或catalogMeta。"
+  },
+  "userAccepted": false,
+  "nextStageStarted": false
+}
