@@ -1,0 +1,272 @@
+[
+  {
+    "id": "P001",
+    "file": "public/fate-crawl/v10-expanded/batch-1.json",
+    "index": 31,
+    "sha256": "e66a5a760ebed723530e6120becfded7b2b5f17a70d6d91dffe37d11a535a862",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008296-R",
+    "title": "Fate/Grand Order material I(書籍)",
+    "stratum": "books"
+  },
+  {
+    "id": "P002",
+    "file": "public/fate-crawl/v10-expanded/batch-1.json",
+    "index": 33,
+    "sha256": "e66a5a760ebed723530e6120becfded7b2b5f17a70d6d91dffe37d11a535a862",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008297-R",
+    "title": "Fate/Grand Order material II(書籍)",
+    "stratum": "books"
+  },
+  {
+    "id": "P003",
+    "file": "public/fate-crawl/v10-expanded/batch-1.json",
+    "index": 38,
+    "sha256": "e66a5a760ebed723530e6120becfded7b2b5f17a70d6d91dffe37d11a535a862",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-009096-R",
+    "title": "Fate/Grand Order material III (書籍)",
+    "stratum": "books"
+  },
+  {
+    "id": "P004",
+    "file": "public/fate-crawl/v10-expanded/batch-1.json",
+    "index": 87,
+    "sha256": "e66a5a760ebed723530e6120becfded7b2b5f17a70d6d91dffe37d11a535a862",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015843-R",
+    "title": "Fate/Grand Order material VIII (書籍)",
+    "stratum": "books"
+  },
+  {
+    "id": "P005",
+    "file": "public/fate-crawl/v10-expanded/batch-4.json",
+    "index": 73,
+    "sha256": "fe24c7fcfb2445756b6991813e404b77168fac145e87dff6e0ece11177a75d58",
+    "url": "https://www.suruga-ya.jp/product/detail/WK13678",
+    "title": "★未完)Fate/Grand Order-turas realta- 1～22巻セット / カワグチタケシ",
+    "stratum": "books"
+  },
+  {
+    "id": "P006",
+    "file": "public/fate-crawl/v12/batch-5.json",
+    "index": 7,
+    "sha256": "75392494a3402ccd8b7466371b33475674b83067a063dd4040b9471fb641f9b2",
+    "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900668&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+    "title": "バンダイ FGOウエハース 14弾/2821300 ダンテ・アリギエーリ【SR】 30",
+    "stratum": "cards"
+  },
+  {
+    "id": "P007",
+    "file": "public/fate-crawl/v12/batch-5.json",
+    "index": 8,
+    "sha256": "75392494a3402ccd8b7466371b33475674b83067a063dd4040b9471fb641f9b2",
+    "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900577&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+    "title": "バンダイ フェイトグランドオーダーウエハース 6弾/2468675 メルトリリス【SSR】 25",
+    "stratum": "cards"
+  },
+  {
+    "id": "P008",
+    "file": "public/fate-crawl/v12/batch-5.json",
+    "index": 9,
+    "sha256": "75392494a3402ccd8b7466371b33475674b83067a063dd4040b9471fb641f9b2",
+    "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900460&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+    "title": "バンダイ FGOウエハース 14弾/2821300 両儀式【TM】 22",
+    "stratum": "cards"
+  },
+  {
+    "id": "P009",
+    "file": "public/fate-crawl/v12/batch-5.json",
+    "index": 65,
+    "sha256": "75392494a3402ccd8b7466371b33475674b83067a063dd4040b9471fb641f9b2",
+    "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1110268223&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+    "title": "BANDAI フェイトグランドオーダーウエハース 2452765/5弾 エリザベート・バートリー〔ブレイブ〕 13",
+    "stratum": "cards"
+  },
+  {
+    "id": "P010",
+    "file": "public/fate-crawl/v12/batch-4.json",
+    "index": 218,
+    "sha256": "b99a8d31859a7d8bd45343aa6b320a333e040395ce8232a4fa467bc6d6d82560",
+    "url": "https://jp.mercari.com/item/m29853131899",
+    "title": "Fate ウエハース カード クー・フーリン",
+    "stratum": "cards"
+  },
+  {
+    "id": "P011",
+    "file": "public/fate-crawl/v12/batch-0.json",
+    "index": 491,
+    "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+    "url": "https://www.suruga-ya.jp/product/other/107000643",
+    "title": "Fate/EXTELLA [通常版]",
+    "stratum": "games"
+  },
+  {
+    "id": "P012",
+    "file": "public/fate-crawl/v12/batch-0.json",
+    "index": 489,
+    "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+    "url": "https://www.suruga-ya.jp/product/other/109000022",
+    "title": "Fate/EXTELLA LIMITED BOX [限定版]",
+    "stratum": "games"
+  },
+  {
+    "id": "P013",
+    "file": "public/fate-crawl/v12/batch-0.json",
+    "index": 476,
+    "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+    "url": "https://www.suruga-ya.jp/product/detail/107001683",
+    "title": "Fate/EXTELLA LINK[プレミアム限定版]",
+    "stratum": "games"
+  },
+  {
+    "id": "P014",
+    "file": "public/fate-crawl/v12/batch-4.json",
+    "index": 42,
+    "sha256": "b99a8d31859a7d8bd45343aa6b320a333e040395ce8232a4fa467bc6d6d82560",
+    "url": "https://auctions.yahoo.co.jp/jp/auction/h1247177232",
+    "title": "Fate/EXTELLA LINK フェイト エクステラリンク 限定版特典 スカサハ着用衣装「魔境のサージェント」コード PS4 Vita",
+    "stratum": "games"
+  },
+  {
+    "id": "P015",
+    "file": "research/pilot-300-20261029/extra-observation.json",
+    "index": 0,
+    "sha256": "f058ad3207e6c25c384c184eb891a15152170ce3f411fab45ce25c55bf7d2a0a",
+    "url": "https://jp.mercari.com/item/m27190268962",
+    "title": "Fate/EXTELLA あみあみ 予約特典A3タペストリー",
+    "stratum": "games"
+  },
+  {
+    "id": "P016",
+    "file": "public/fate-crawl/v12/batch-2.json",
+    "index": 433,
+    "sha256": "2284cd7d4d4b93ea7ff600bf3b3714cc1a49db3c1bcf6d67ddd168292f32a317",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-048263-R",
+    "title": "【中古】(本体A/箱B)Fate/Grand Order セイバー/アルトリア・ペンドラゴン 英霊正装Ver. 1/7 完成品フィギュア[グッドスマイルカンパニー]《発売済・在庫品》",
+    "stratum": "figures"
+  },
+  {
+    "id": "P017",
+    "file": "public/fate-crawl/v12/batch-2.json",
+    "index": 447,
+    "sha256": "2284cd7d4d4b93ea7ff600bf3b3714cc1a49db3c1bcf6d67ddd168292f32a317",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-140121-R",
+    "title": "【中古】(本体A/箱B)figma Fate/Grand Order ランサー/アルトリア・ペンドラゴン DX Edition[マックスファクトリー]《発売済・在庫品》",
+    "stratum": "figures"
+  },
+  {
+    "id": "P018",
+    "file": "public/fate-crawl/v12/batch-3.json",
+    "index": 5,
+    "sha256": "09cb038f401290b882c345949adf3a5a4a7aeb1d4b8af7bbe4908506e12ec3fd",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183273-R",
+    "title": "ねんどろいどどーる おようふくセット Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.",
+    "stratum": "figures"
+  },
+  {
+    "id": "P019",
+    "file": "public/fate-crawl/v12/batch-3.json",
+    "index": 6,
+    "sha256": "09cb038f401290b882c345949adf3a5a4a7aeb1d4b8af7bbe4908506e12ec3fd",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183272-R",
+    "title": "ねんどろいどどーる Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.",
+    "stratum": "figures"
+  },
+  {
+    "id": "P020",
+    "file": "public/fate-crawl/v121/batch-0.json",
+    "index": 138,
+    "sha256": "0a8c22aa239390859bc0f936cf9ccedce0809a3b7cebeec428d2fb2674468685",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-143065-R",
+    "title": "figma 目閉じドヤ顔 (figma Fate/EXTELLA ネロ・クラウディウス特典)",
+    "stratum": "figures"
+  },
+  {
+    "id": "P021",
+    "file": "public/fate-crawl/v12/batch-0.json",
+    "index": 156,
+    "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+    "url": "https://www.suruga-ya.jp/product/detail/873122822",
+    "title": "アサシン/カーマ サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ～10th Anniversary～」",
+    "stratum": "recent"
+  },
+  {
+    "id": "P022",
+    "file": "public/fate-crawl/v12/batch-0.json",
+    "index": 158,
+    "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+    "url": "https://www.suruga-ya.jp/product/detail/561358660",
+    "title": "バーサーカー/ロウヒ スノードーム 「Fate/Grand Order Fes. 2025 ～10th Anniversary～」",
+    "stratum": "recent"
+  },
+  {
+    "id": "P023",
+    "file": "public/fate-crawl/v12/batch-0.json",
+    "index": 159,
+    "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+    "url": "https://www.suruga-ya.jp/product/detail/561358658",
+    "title": "Fate/Final Journey デスクラバーマット 「Fate/Grand Order Fes. 2025 ～10th Anniversary～」",
+    "stratum": "recent"
+  },
+  {
+    "id": "P024",
+    "file": "public/fate-crawl/v12/batch-0.json",
+    "index": 167,
+    "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+    "url": "https://www.suruga-ya.jp/product/detail/873122739",
+    "title": "キャスター/アスクレピオス サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ～10th Anniversary～」",
+    "stratum": "recent"
+  },
+  {
+    "id": "P025",
+    "file": "public/fate-crawl/v12/batch-0.json",
+    "index": 28,
+    "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+    "url": "https://www.suruga-ya.jp/product/detail/887078213",
+    "title": "ライダー/レオナルド・ダ・ヴィンチ 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭～11th Anniversary～」",
+    "stratum": "recent"
+  },
+  {
+    "id": "P026",
+    "file": "public/fate-crawl/v11/batch-14.json",
+    "index": 21,
+    "sha256": "da4aa741920565b97a14db44edaa7dd3025ad9f15818d782b6312b4e1720a7ec",
+    "url": "https://auctions.yahoo.co.jp/jp/auction/e1240903214",
+    "title": "Fate シリーズ関連の映画グッズ 一番くじ景品・色紙・アクリルスタンド・広告・ウエハースカード・コミックなど まとめセット Type Moon",
+    "stratum": "lots"
+  },
+  {
+    "id": "P027",
+    "file": "public/fate-crawl/v12/batch-4.json",
+    "index": 235,
+    "sha256": "b99a8d31859a7d8bd45343aa6b320a333e040395ce8232a4fa467bc6d6d82560",
+    "url": "https://jp.mercari.com/item/m21101839771",
+    "title": "Fate カドック ベリル ウエハースカードセット",
+    "stratum": "lots"
+  },
+  {
+    "id": "P028",
+    "file": "public/fate-crawl/v12/batch-4.json",
+    "index": 216,
+    "sha256": "b99a8d31859a7d8bd45343aa6b320a333e040395ce8232a4fa467bc6d6d82560",
+    "url": "https://jp.mercari.com/item/m63381541922",
+    "title": "Fate/EXTELLA LINK 缶バッジ 2個セット",
+    "stratum": "lots"
+  },
+  {
+    "id": "P029",
+    "file": "public/fate-crawl/v12/batch-1.json",
+    "index": 89,
+    "sha256": "f1bf2b2da270f605fb43dfa45072ee13a04a785887e0f4c036bf7fac3b81527e",
+    "url": "https://www.suruga-ya.jp/product/detail/105007167",
+    "title": "Fate/EXTELLA VELBER BOX(状態：PS4ソフト欠品)",
+    "stratum": "lots"
+  },
+  {
+    "id": "P030",
+    "file": "public/fate-crawl/v12/batch-3.json",
+    "index": 495,
+    "sha256": "09cb038f401290b882c345949adf3a5a4a7aeb1d4b8af7bbe4908506e12ec3fd",
+    "url": "https://auctions.yahoo.co.jp/jp/auction/n1247140939",
+    "title": "048K747★【未開封品】Fate/EXTELLA 10th ANNIVERSARY Celebration BOX 10周年記念 同梱 ワダアルコ描き下ろしキャラファイングラフ",
+    "stratum": "lots"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "preparedAt": "2026-10-30T01:24:37.082Z",
+  "scope": "Historical secondhand listings plus one search-index observation; no current inventory claim. Curated development cases, not random accuracy evaluation.",
+  "prepared": 300,
+  "firstBatch": 30,
+  "rawManifestHash": "5a0c47b066a305c41c46cca33060dfd76bca24e3de97d2fada3dfa68f53ace7f",
+  "sources": {
+    "www.amiami.jp": 59,
+    "骏河屋": 175,
+    "Mandarake": 8,
+    "Mercari": 19,
+    "Yahoo 拍卖": 39
+  },
+  "strata": {
+    "books": 46,
+    "cards": 60,
+    "games": 60,
+    "figures": 40,
+    "recent": 22,
+    "lots": 72
+  },
+  "targets": {
+    "books": 60,
+    "cards": 60,
+    "games": 60,
+    "figures": 40,
+    "recent": 40,
+    "lots": 40
+  },
+  "split": {
+    "development": 100,
+    "holdout": 200
+  },
+  "groups": 202,
+  "materialBooks": 21,
+  "previouslyResearched": 23,
+  "holdoutStatus": "reserved-unlabelled; grouping needs human audit before a blind generalization test",
+  "catalogScope": "15811 historical non-doujin compact records; not a fresh complete production export",
+  "humanLabels": 0,
+  "productionWrites": 0,
+  "paidApiRequests": 0,
+  "lastValidatedAt": "2026-10-30T06:33:07.848Z"
+}

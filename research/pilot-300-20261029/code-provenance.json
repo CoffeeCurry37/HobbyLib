@@ -1,0 +1,467 @@
+{
+  "commit": "044155730e21684700366d250f24cb89f58d8c39",
+  "files": [
+    {
+      "path": "lib/radar/accounts.ts",
+      "expected": "cb78e46038e94ba6ad6b3c5b5a729fd9e71a1a33",
+      "actual": "cb78e46038e94ba6ad6b3c5b5a729fd9e71a1a33",
+      "match": true
+    },
+    {
+      "path": "lib/radar/aniplex-events.ts",
+      "expected": "e1861c83ffbf10d838729cbae6ac546630b5a055",
+      "actual": "e1861c83ffbf10d838729cbae6ac546630b5a055",
+      "match": true
+    },
+    {
+      "path": "lib/radar/atomic-ingest.ts",
+      "expected": "88cad7ecb4abe39bb07f94407cfd37b48974b82b",
+      "actual": "88cad7ecb4abe39bb07f94407cfd37b48974b82b",
+      "match": true
+    },
+    {
+      "path": "lib/radar/backup-transfer.ts",
+      "expected": "067f0a5b6231002501443161e7187a89e457cc7f",
+      "actual": "067f0a5b6231002501443161e7187a89e457cc7f",
+      "match": true
+    },
+    {
+      "path": "lib/radar/book-release-catalogue.json",
+      "expected": "d8f97d48aec2060a45ec25e92d754145bea4b057",
+      "actual": "d8f97d48aec2060a45ec25e92d754145bea4b057",
+      "match": true
+    },
+    {
+      "path": "lib/radar/capture.ts",
+      "expected": "dd78868034724849e31e0cd2879441958880bc05",
+      "actual": "dd78868034724849e31e0cd2879441958880bc05",
+      "match": true
+    },
+    {
+      "path": "lib/radar/catalog-client.ts",
+      "expected": "7cfe9c63c459c35a6d2dafe5e96a0e48a4d77d58",
+      "actual": "7cfe9c63c459c35a6d2dafe5e96a0e48a4d77d58",
+      "match": true
+    },
+    {
+      "path": "lib/radar/catalog-state.ts",
+      "expected": "7d8b9c0df97e86d9d89e345990cdb98275c8bff2",
+      "actual": "7d8b9c0df97e86d9d89e345990cdb98275c8bff2",
+      "match": true
+    },
+    {
+      "path": "lib/radar/catalog.ts",
+      "expected": "82e71e3a0df47adc01957ed53e7d50e1999a1ebd",
+      "actual": "82e71e3a0df47adc01957ed53e7d50e1999a1ebd",
+      "match": true
+    },
+    {
+      "path": "lib/radar/catalogue-families.ts",
+      "expected": "910e72bb87d5c9032b15f60f9f461d5bb47a0293",
+      "actual": "910e72bb87d5c9032b15f60f9f461d5bb47a0293",
+      "match": true
+    },
+    {
+      "path": "lib/radar/classification.ts",
+      "expected": "4355db38954c850da2483f90551aa016b38f35cf",
+      "actual": "4355db38954c850da2483f90551aa016b38f35cf",
+      "match": true
+    },
+    {
+      "path": "lib/radar/collection-catalogue.json",
+      "expected": "f036691a02c17fb62b7b4fa28b798c2de561edae",
+      "actual": "f036691a02c17fb62b7b4fa28b798c2de561edae",
+      "match": true
+    },
+    {
+      "path": "lib/radar/collection-facts.ts",
+      "expected": "ae061d91e720b787218453c98cbed9a91ce298db",
+      "actual": "ae061d91e720b787218453c98cbed9a91ce298db",
+      "match": true
+    },
+    {
+      "path": "lib/radar/collector.ts",
+      "expected": "4e30bbe97eca128a88d38978e89083fb515590ea",
+      "actual": "4e30bbe97eca128a88d38978e89083fb515590ea",
+      "match": true
+    },
+    {
+      "path": "lib/radar/crawl-progress.ts",
+      "expected": "9417b4b5dafb5ff295e2778daa3c2ef07d0f8c2c",
+      "actual": "9417b4b5dafb5ff295e2778daa3c2ef07d0f8c2c",
+      "match": true
+    },
+    {
+      "path": "lib/radar/crawl-queue.ts",
+      "expected": "3f56cb487f371e15922220820dbd6574bac0da9b",
+      "actual": "3f56cb487f371e15922220820dbd6574bac0da9b",
+      "match": true
+    },
+    {
+      "path": "lib/radar/curation.ts",
+      "expected": "eb14dc75f89c96783d8e9dcd5b2ec8caa37ab9b0",
+      "actual": "eb14dc75f89c96783d8e9dcd5b2ec8caa37ab9b0",
+      "match": true
+    },
+    {
+      "path": "lib/radar/database-export.ts",
+      "expected": "809b40b0f8d1b350f282e61174e954c93189c975",
+      "actual": "809b40b0f8d1b350f282e61174e954c93189c975",
+      "match": true
+    },
+    {
+      "path": "lib/radar/demo.ts",
+      "expected": "e8da536eadac3c6772d781b2a1ceabaaa9554466",
+      "actual": "e8da536eadac3c6772d781b2a1ceabaaa9554466",
+      "match": true
+    },
+    {
+      "path": "lib/radar/diagnostics.ts",
+      "expected": "99a7d752a8822c1056d4844440f3ec1117d490fb",
+      "actual": "99a7d752a8822c1056d4844440f3ec1117d490fb",
+      "match": true
+    },
+    {
+      "path": "lib/radar/doujin-catalogue.json",
+      "expected": "79dcb82f8f7984e13eb05778869cdfaadbef3397",
+      "actual": "79dcb82f8f7984e13eb05778869cdfaadbef3397",
+      "match": true
+    },
+    {
+      "path": "lib/radar/duplicate-groups.ts",
+      "expected": "67f38e263c944ee188669eb465b11f3f033c9b1c",
+      "actual": "67f38e263c944ee188669eb465b11f3f033c9b1c",
+      "match": true
+    },
+    {
+      "path": "lib/radar/editorial-index.ts",
+      "expected": "a5dcf141d2a93cfcd9245460a97e62bd0de2f77a",
+      "actual": "a5dcf141d2a93cfcd9245460a97e62bd0de2f77a",
+      "match": true
+    },
+    {
+      "path": "lib/radar/editorial-manifest.json",
+      "expected": "afab4ed08fb5784da4a5b0077dd4d2d7dc3d0e67",
+      "actual": "afab4ed08fb5784da4a5b0077dd4d2d7dc3d0e67",
+      "match": true
+    },
+    {
+      "path": "lib/radar/editorial-state.ts",
+      "expected": "ec62eb9e45e0dff58b96e62c365cafcd4b9b5620",
+      "actual": "ec62eb9e45e0dff58b96e62c365cafcd4b9b5620",
+      "match": true
+    },
+    {
+      "path": "lib/radar/editorial-workflow-summary.json",
+      "expected": "7305d2e17eeeb95d171b50b7c37237b2d02939be",
+      "actual": "7305d2e17eeeb95d171b50b7c37237b2d02939be",
+      "match": true
+    },
+    {
+      "path": "lib/radar/editorial.ts",
+      "expected": "d68ba04e1469c4ee6dbffae0a15b45c8cafe96e4",
+      "actual": "d68ba04e1469c4ee6dbffae0a15b45c8cafe96e4",
+      "match": true
+    },
+    {
+      "path": "lib/radar/engine.ts",
+      "expected": "c3f0c8e2c69236fd9e44de9b29bb3eeb439a9579",
+      "actual": "c3f0c8e2c69236fd9e44de9b29bb3eeb439a9579",
+      "match": true
+    },
+    {
+      "path": "lib/radar/event-name.ts",
+      "expected": "ebfcf6e5aaec1eb130a1981a1b67f7c5aaecfdbe",
+      "actual": "ebfcf6e5aaec1eb130a1981a1b67f7c5aaecfdbe",
+      "match": true
+    },
+    {
+      "path": "lib/radar/fate-crawl-audit.json",
+      "expected": "c96b6636985f8a08793ac5eec975052a1cf585ab",
+      "actual": "c96b6636985f8a08793ac5eec975052a1cf585ab",
+      "match": true
+    },
+    {
+      "path": "lib/radar/fate-crawl-manifest.json",
+      "expected": "8ff1cad478cf8995277457807e56f2a5b91098b3",
+      "actual": "8ff1cad478cf8995277457807e56f2a5b91098b3",
+      "match": true
+    },
+    {
+      "path": "lib/radar/game-packages.ts",
+      "expected": "e286063d16a5b4c06dbcdb2326130f74641a924e",
+      "actual": "e286063d16a5b4c06dbcdb2326130f74641a924e",
+      "match": true
+    },
+    {
+      "path": "lib/radar/game-platform.ts",
+      "expected": "51e823ff49dfbd17ada061120c4e3645e09230ed",
+      "actual": "51e823ff49dfbd17ada061120c4e3645e09230ed",
+      "match": true
+    },
+    {
+      "path": "lib/radar/html.ts",
+      "expected": "53cd29d520a849b2092bcbe5bfa839475d6302f3",
+      "actual": "53cd29d520a849b2092bcbe5bfa839475d6302f3",
+      "match": true
+    },
+    {
+      "path": "lib/radar/identity-facts.ts",
+      "expected": "c8a463cf3dd56ed8e31592459940f78ec7df1b1c",
+      "actual": "c8a463cf3dd56ed8e31592459940f78ec7df1b1c",
+      "match": true
+    },
+    {
+      "path": "lib/radar/identity-review.ts",
+      "expected": "c643b3cec0e7952c39c997efbedd10cfa2375ad2",
+      "actual": "c643b3cec0e7952c39c997efbedd10cfa2375ad2",
+      "match": true
+    },
+    {
+      "path": "lib/radar/identity.ts",
+      "expected": "a70632739983a75e68b5fc3a074045830b369755",
+      "actual": "a70632739983a75e68b5fc3a074045830b369755",
+      "match": true
+    },
+    {
+      "path": "lib/radar/image-source.ts",
+      "expected": "891e064e7d72c31fd85dfafbfe6efc05e190e2d6",
+      "actual": "891e064e7d72c31fd85dfafbfe6efc05e190e2d6",
+      "match": true
+    },
+    {
+      "path": "lib/radar/import-fate-snapshot.ts",
+      "expected": "8ca5992249c6b08ea4a5c96189d7c46e3711de7a",
+      "actual": "8ca5992249c6b08ea4a5c96189d7c46e3711de7a",
+      "match": true
+    },
+    {
+      "path": "lib/radar/import-limits.ts",
+      "expected": "5eeabc973e03f45096ac79651565214be94f70e5",
+      "actual": "5eeabc973e03f45096ac79651565214be94f70e5",
+      "match": true
+    },
+    {
+      "path": "lib/radar/item-record.ts",
+      "expected": "e40b531b0272885287fcf886bdb5661e529b98f4",
+      "actual": "e40b531b0272885287fcf886bdb5661e529b98f4",
+      "match": true
+    },
+    {
+      "path": "lib/radar/keywords.ts",
+      "expected": "75d098d4467ccbf5c48840142407ce31fc69e26f",
+      "actual": "75d098d4467ccbf5c48840142407ce31fc69e26f",
+      "match": true
+    },
+    {
+      "path": "lib/radar/kuji-catalogue.json",
+      "expected": "f692569a439a203ea5b5936c73f9cf44a8609e5a",
+      "actual": "f692569a439a203ea5b5936c73f9cf44a8609e5a",
+      "match": true
+    },
+    {
+      "path": "lib/radar/kuji-key.ts",
+      "expected": "bc59b47d228a935ef50f481052b36d550ab2f2c4",
+      "actual": "bc59b47d228a935ef50f481052b36d550ab2f2c4",
+      "match": true
+    },
+    {
+      "path": "lib/radar/kuji-members.ts",
+      "expected": "951c29ea646a708b1b85e205dc811c2cd2c5ae2a",
+      "actual": "951c29ea646a708b1b85e205dc811c2cd2c5ae2a",
+      "match": true
+    },
+    {
+      "path": "lib/radar/lean.ts",
+      "expected": "8f34308781e130f4599ee60ff84ba54674f68dc9",
+      "actual": "8f34308781e130f4599ee60ff84ba54674f68dc9",
+      "match": true
+    },
+    {
+      "path": "lib/radar/lot-images.ts",
+      "expected": "7635002cd9a0e00703e4ed47e8094fc009c9a814",
+      "actual": "7635002cd9a0e00703e4ed47e8094fc009c9a814",
+      "match": true
+    },
+    {
+      "path": "lib/radar/lot-visual-catalogue.json",
+      "expected": "d7921352b1793cb1d823184b293a616cfbd7b46c",
+      "actual": "d7921352b1793cb1d823184b293a616cfbd7b46c",
+      "match": true
+    },
+    {
+      "path": "lib/radar/maintenance.ts",
+      "expected": "d88a6f3da2a157357178daab4b3530077181ecd9",
+      "actual": "d88a6f3da2a157357178daab4b3530077181ecd9",
+      "match": true
+    },
+    {
+      "path": "lib/radar/market-events.ts",
+      "expected": "a466c6f9ef30b5aa8b4939e2a7c0a4e731e1d5a4",
+      "actual": "a466c6f9ef30b5aa8b4939e2a7c0a4e731e1d5a4",
+      "match": true
+    },
+    {
+      "path": "lib/radar/match-decision.ts",
+      "expected": "f83af5005318c1bc563345c55eacdd5b7a3f7e66",
+      "actual": "f83af5005318c1bc563345c55eacdd5b7a3f7e66",
+      "match": true
+    },
+    {
+      "path": "lib/radar/merge-plan.ts",
+      "expected": "8d5bdf966f17308204e6681724fed8ab4e28bbea",
+      "actual": "8d5bdf966f17308204e6681724fed8ab4e28bbea",
+      "match": true
+    },
+    {
+      "path": "lib/radar/metadata.ts",
+      "expected": "7591c705c5d525fc66dfb37c2f2d3ad55be580a6",
+      "actual": "7591c705c5d525fc66dfb37c2f2d3ad55be580a6",
+      "match": true
+    },
+    {
+      "path": "lib/radar/operation-lock.ts",
+      "expected": "816b4c453e31129ac864c3acadf08192094a47a2",
+      "actual": "816b4c453e31129ac864c3acadf08192094a47a2",
+      "match": true
+    },
+    {
+      "path": "lib/radar/price-comparison.ts",
+      "expected": "4ffc7c339870c0f8e4f59809fa42a97e00af0e39",
+      "actual": "4ffc7c339870c0f8e4f59809fa42a97e00af0e39",
+      "match": true
+    },
+    {
+      "path": "lib/radar/product-class.ts",
+      "expected": "a9b571e9b667d754b9fbd44e66b23feda794eb7d",
+      "actual": "a9b571e9b667d754b9fbd44e66b23feda794eb7d",
+      "match": true
+    },
+    {
+      "path": "lib/radar/product-features.ts",
+      "expected": "20a3d03c042572172d1a84aec1a5d524502e233b",
+      "actual": "20a3d03c042572172d1a84aec1a5d524502e233b",
+      "match": true
+    },
+    {
+      "path": "lib/radar/product-object.ts",
+      "expected": "aa08f2be30ac14b7411feb28fdbc1d023b2f81de",
+      "actual": "aa08f2be30ac14b7411feb28fdbc1d023b2f81de",
+      "match": true
+    },
+    {
+      "path": "lib/radar/reader.ts",
+      "expected": "442e9908cc0cddf48aa38e39400a677a44d8f766",
+      "actual": "442e9908cc0cddf48aa38e39400a677a44d8f766",
+      "match": true
+    },
+    {
+      "path": "lib/radar/recognition.ts",
+      "expected": "36b44a2383a25ed1ca32799f9cb0bdc722a0fb81",
+      "actual": "36b44a2383a25ed1ca32799f9cb0bdc722a0fb81",
+      "match": true
+    },
+    {
+      "path": "lib/radar/relation-guard.ts",
+      "expected": "ba308fb45f0545415b3b207ac9bfdc651333974a",
+      "actual": "ba308fb45f0545415b3b207ac9bfdc651333974a",
+      "match": true
+    },
+    {
+      "path": "lib/radar/relations.ts",
+      "expected": "2a0840b071cc1422e1474c5bd5380f51174c18fd",
+      "actual": "2a0840b071cc1422e1474c5bd5380f51174c18fd",
+      "match": true
+    },
+    {
+      "path": "lib/radar/research.ts",
+      "expected": "50635578b38d05ad0a9a26e80b106608c8c55a6c",
+      "actual": "50635578b38d05ad0a9a26e80b106608c8c55a6c",
+      "match": true
+    },
+    {
+      "path": "lib/radar/revision-plan.ts",
+      "expected": "012f036a56c2806283dc6a42ce964d405ff5991b",
+      "actual": "012f036a56c2806283dc6a42ce964d405ff5991b",
+      "match": true
+    },
+    {
+      "path": "lib/radar/search.ts",
+      "expected": "3448cfe374e135b22c43962b894370cb04780882",
+      "actual": "3448cfe374e135b22c43962b894370cb04780882",
+      "match": true
+    },
+    {
+      "path": "lib/radar/service.ts",
+      "expected": "28473efe6ac190ae444e48c61e875a0d93aa0b1c",
+      "actual": "28473efe6ac190ae444e48c61e875a0d93aa0b1c",
+      "match": true
+    },
+    {
+      "path": "lib/radar/sets.ts",
+      "expected": "ea1b381099af4c18afae0ba6f9182eebb6624c97",
+      "actual": "ea1b381099af4c18afae0ba6f9182eebb6624c97",
+      "match": true
+    },
+    {
+      "path": "lib/radar/source-category.ts",
+      "expected": "b44d229dd88494fa2f0df5ccbaea7f7168d3a6fa",
+      "actual": "b44d229dd88494fa2f0df5ccbaea7f7168d3a6fa",
+      "match": true
+    },
+    {
+      "path": "lib/radar/source-presets.ts",
+      "expected": "b425f0cf8c566fb64e6c126b1bb12ba28f2a19cf",
+      "actual": "b425f0cf8c566fb64e6c126b1bb12ba28f2a19cf",
+      "match": true
+    },
+    {
+      "path": "lib/radar/store.ts",
+      "expected": "2210b930eb01c89781344bf1e3192a75b6b912aa",
+      "actual": "2210b930eb01c89781344bf1e3192a75b6b912aa",
+      "match": true
+    },
+    {
+      "path": "lib/radar/suruga-snapshot.json",
+      "expected": "573e6359faef350527c37af411f0dae463aa0316",
+      "actual": "573e6359faef350527c37af411f0dae463aa0316",
+      "match": true
+    },
+    {
+      "path": "lib/radar/tag-provenance.ts",
+      "expected": "c5043439aeec325a0bd0320099d2f2ed8ecb9bc9",
+      "actual": "c5043439aeec325a0bd0320099d2f2ed8ecb9bc9",
+      "match": true
+    },
+    {
+      "path": "lib/radar/taxonomy.ts",
+      "expected": "c8eda953cd8504c389262ec95c1c4b53214df594",
+      "actual": "c8eda953cd8504c389262ec95c1c4b53214df594",
+      "match": true
+    },
+    {
+      "path": "lib/radar/types.ts",
+      "expected": "ecfc07991c9059b048195e3059096b8ead0a6b27",
+      "actual": "ecfc07991c9059b048195e3059096b8ead0a6b27",
+      "match": true
+    },
+    {
+      "path": "lib/radar/version-conflict.ts",
+      "expected": "171e84aba9e29b7239efd4c2b50f7b5aa0d52e59",
+      "actual": "171e84aba9e29b7239efd4c2b50f7b5aa0d52e59",
+      "match": true
+    },
+    {
+      "path": "lib/radar/work-identity.ts",
+      "expected": "4184be59dbe9d3467d45a576a7456e7123ddd379",
+      "actual": "4184be59dbe9d3467d45a576a7456e7123ddd379",
+      "match": true
+    },
+    {
+      "path": "scripts/load-radar.mjs",
+      "expected": "e2113690e99336ea82e331e09c3c0157e38b38f5",
+      "actual": "e2113690e99336ea82e331e09c3c0157e38b38f5",
+      "match": true
+    }
+  ]
+}

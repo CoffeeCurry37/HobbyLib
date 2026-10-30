@@ -1,0 +1,53 @@
+{
+  "verifiedAt": "2026-10-30T06:41:42.803Z",
+  "pilotTests": {
+    "passed": 6,
+    "failed": 0,
+    "command": "node --test tools/pilot-workbench/test.mjs"
+  },
+  "existingIdentityTests": {
+    "passed": 12,
+    "failed": 0,
+    "command": "node scripts/test-identity.mjs"
+  },
+  "syntheticEvaluation": {
+    "cases": 24,
+    "exactLabelFailures": 0,
+    "scope": "synthetic regression only; no real accuracy claim"
+  },
+  "sourceCode": {
+    "files": 77,
+    "matchingCommit": "044155730e21684700366d250f24cb89f58d8c39",
+    "allMatch": true
+  },
+  "frozenReplay": {
+    "manifestHash": "5a0c47b066a305c41c46cca33060dfd76bca24e3de97d2fada3dfa68f53ace7f",
+    "unchanged": true
+  },
+  "browser": {
+    "scope": "local test copy on port8790; deliverable port8789 has zero review records",
+    "checks": [
+      "first30 list",
+      "200 reserved filter",
+      "search by ID",
+      "38 material characters visible",
+      "related catalogue visible",
+      "hide advice disables prediction tabs",
+      "save review then reload survives",
+      "script-like input rendered as text",
+      "no browser error/warn logs",
+      "deliverable shows 300/30/0/0"
+    ],
+    "responsiveBreakpointsTested": false
+  },
+  "humanReferenceLabels": 0,
+  "productionWrites": 0,
+  "productionDeployments": 0,
+  "paidModelApiCalls": 0,
+  "notRun": [
+    "full production ingest",
+    "production database export",
+    "remaining270 predictions",
+    "independent labelled holdout evaluation"
+  ]
+}

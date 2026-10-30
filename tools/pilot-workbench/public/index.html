@@ -1,0 +1,9 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HobbyLib · 商品识别试点</title><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head><body>
+<header><a class="brand" href="/">H<span>◎</span>BBYLIB <small>RESEARCH ROOM</small></a><span class="local">● 仅本机实验库 · 正式库未连接</span><a href="/api/reviews" download>导出审核记录 ↗</a></header>
+<section class="intro"><div><p class="eyebrow">PILOT 01 / 商品身份与发行关系</p><h1>从一条挂牌，找到它的来历。</h1><p class="sub">核对商品、查证来源、补全关联。每一个判断，都留下依据。</p></div><div class="metrics" id="metrics"></div></section>
+<section class="notice"><strong>首批 30 条已研究</strong><span>300 条为真实历史挂牌观察，非实时库存。规则结果与本次 AI 辅助查证分开呈现；尚无人工作为标准答案。</span><button id="reportToggle">查看范围与成本</button></section>
+<section id="report" class="report hidden"></section>
+<main><aside><div class="sidehead"><h2>样本册</h2><span id="listCount"></span></div><label class="sr" for="search">搜索样本</label><input id="search" placeholder="标题、编号或来源"><div class="filters"><select id="scope" aria-label="样本范围"><option value="first">首批 30 条</option><option value="all">全部 300 条</option><option value="holdout">冻结候选 200 条</option><option value="reviewed">已有审核</option></select><select id="category" aria-label="商品分类"><option value="all">所有类型</option><option value="books">书籍 / 资料集</option><option value="cards">卡片 / 随机周边</option><option value="games">游戏 / 特典</option><option value="figures">手办 / 配件</option><option value="recent">活动周边</option><option value="lots">其他 / 疑难挂牌</option></select></div><nav id="samples" aria-label="样本列表"></nav></aside>
+<article id="detail"><p>正在载入本地样本…</p></article></main>
+<footer>HobbyLib 隔离试点 · 原始观察、规则输出、研究建议与人工审核分别保存 · 无生产写入入口</footer>
+</body></html>

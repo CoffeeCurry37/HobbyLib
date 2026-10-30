@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "material",
+    "url": "https://typemoon.com/news/2016/7l_yus",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:15.178Z",
+    "bodySha256": "7a0ced62fe071478dfce91290dbe4dfb06358a08d8fafe4d0af6226f5124ac89",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "turas",
+    "url": "https://www.kodansha.co.jp/titles/1000030527",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:15.660Z",
+    "bodySha256": "36a2d38cd9e0f5ae0c9c445c8b1afa0ea060f61fbe9cb80d1485879d8cb2e1c8",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "wafer14",
+    "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117926587000",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:16.469Z",
+    "bodySha256": "46bb22b0f04d30666e5e00a4aaedf790a850fc66c7d7e62dd0b16f56c92ade13",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "wafer6",
+    "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660338970000",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:17.914Z",
+    "bodySha256": "22547f4e3509fa30eeebc5b90fa3200aa968b7d791a4d53f7518ac82a499e491",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "wafer5",
+    "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660290186000",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:18.989Z",
+    "bodySha256": "26d59a5f950c90676f774488a5e98056091c7438bc87be51c60411795ef2e3f4",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "wafer1",
+    "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660189688000",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:19.594Z",
+    "bodySha256": "4bc207cd8ace11e6aa2c102b58a623011b7e264a102c720674c3b40452c00594",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "extella",
+    "url": "https://fate-extella.jp/spec/",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:20.475Z",
+    "bodySha256": "0385ad595c8df98ce602adf29fc02e58f089bb3b43e3faae5ed421015352db96",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "extella-bonus",
+    "url": "https://fate-extella.jp/spec/index3.html",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:21.145Z",
+    "bodySha256": "d46825c1fe4a2a102aa53e5935cec209e92e7e575ef9bd0ce4158f29c79d5542",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "extella-artist",
+    "url": "https://info.fate-extella.jp/siteupdate_12.html",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:21.843Z",
+    "bodySha256": "9a45d113c795fa42b16e982839253361e1d538eb42ab1e5efe5077a4b52c938a",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "extella-switch",
+    "url": "https://fate-extella.jp/switch/",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:22.430Z",
+    "bodySha256": "be85b310a259a96e27432f7d2563367cf751db6785e8557476b6539d312b83e5",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "extella-link",
+    "url": "https://fate-extella-link.jp/product/",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:22.579Z",
+    "bodySha256": "234f69dcaadbad2750412a04ac1d75a91035c0c3d5e175f248133497b311aae3",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "artoria-formal",
+    "url": "https://www.goodsmile.com/ja/product/5958/セイバー+アルトリア・ペンドラゴン+英霊正装Ver.",
+    "grade": "official",
+    "access": "official-search-extract",
+    "retrievedAt": null,
+    "bodySha256": null,
+    "accessNote": "直接读取失败（503）；使用官方页面的搜索索引摘录，未取得完整页面",
+    "directAttemptedAt": "2026-10-30T06:06:23.247Z",
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z"
+  },
+  {
+    "id": "artoria-dx",
+    "url": "https://www.goodsmile.info/ja/product/12701/figma+ランサー+アルトリア+ペンドラゴン+DX+Edition.html",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:24.279Z",
+    "bodySha256": "d3166ffcb218ed3d3eb4606b4577ba3a2ac181d022157b7cd6f3d148e91d6f41",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "mash-doll",
+    "url": "https://www.goodsmile.com/ja/product/62223/ねんどろいどどーる+シールダー+マシュ・キリエライト+私服Ver.",
+    "grade": "official",
+    "access": "official-search-extract",
+    "retrievedAt": null,
+    "bodySha256": null,
+    "accessNote": "直接读取失败（503）；使用官方页面的搜索索引摘录，未取得完整页面",
+    "directAttemptedAt": "2026-10-30T06:06:25.054Z",
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z"
+  },
+  {
+    "id": "mash-outfit",
+    "url": "https://www.goodsmile.com/ja/product/62224/ねんどろいどどーる+おようふくセット+シールダー+マシュ・キリエライト+私服Ver.",
+    "grade": "official",
+    "access": "official-search-extract",
+    "retrievedAt": null,
+    "bodySha256": null,
+    "accessNote": "直接读取失败（503）；使用官方页面的搜索索引摘录，未取得完整页面",
+    "directAttemptedAt": "2026-10-30T06:06:25.066Z",
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z"
+  },
+  {
+    "id": "nero-face",
+    "url": "https://www.goodsmile.info/ja/product/6757/figma+ネロ+クラウディウス.html",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:25.080Z",
+    "bodySha256": "bfa1c855188de045247f000428564cd8cf7ad0350526ec5a15b81691902d4b26",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "fes-kama",
+    "url": "https://online.aniplex.co.jp/itemPTVfRKzA96.html",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:25.556Z",
+    "bodySha256": "77688b79bb4b716098758fea360ec0bc0076c23c4be92d5a8b28f5fc5cd3ee87",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "fes-louhi",
+    "url": "https://online.aniplex.co.jp/itemPTVfRKzA110.html",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:26.051Z",
+    "bodySha256": "f39b40f1a5f6cf738b7804385d2e645276f388ba55c5b07be40c9fbf6d09549a",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "fes-mat",
+    "url": "https://online.aniplex.co.jp/itemPTVfRKzA108.html",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:06:26.336Z",
+    "bodySha256": "404b1147ab28353c2e5be815744c363521c00892214a7ef61462c5bb84d53d68",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "fes-asclepius",
+    "url": "https://online.aniplex.co.jp/itemPTVfRKzA95.html",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:09:58.935Z",
+    "bodySha256": "0b19578abba1df491d0df3c71d73e8f1a9bb56aab1e366baf478914810f4210d",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "turas23",
+    "url": "https://www.kodansha.co.jp/comic/products/0000431853",
+    "grade": "official",
+    "access": "cached-html",
+    "retrievedAt": "2026-10-30T06:09:59.378Z",
+    "bodySha256": "641beefe0a6e116a3c19e0f3daf63d6cd93a6ab12da29056f1382a8b0caf6210",
+    "accessNote": "已保存官方页面，完整正文仅保存在本地忽略目录"
+  },
+  {
+    "id": "extella-art-image",
+    "url": "https://fate-extella.jp/assets/img/spec/store_bigthum_3.png",
+    "grade": "official",
+    "access": "visual-reference",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "已实际查看官方参考图：尼禄与玉藻前；未查看已失效挂牌的实物图"
+  },
+  {
+    "id": "wafer14-image-2",
+    "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000239731_2.jpg",
+    "grade": "official",
+    "access": "visual-reference",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "已实际查看官方阵容参考图；图片位置不充当卡号"
+  },
+  {
+    "id": "wafer14-image-6",
+    "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000239731_6.jpg",
+    "grade": "official",
+    "access": "visual-reference",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "已实际查看官方阵容参考图；图片位置不充当卡号"
+  },
+  {
+    "id": "wafer14-image-7",
+    "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000239731_7.jpg",
+    "grade": "official",
+    "access": "visual-reference",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "已实际查看官方阵容参考图；图片位置不充当卡号"
+  },
+  {
+    "id": "cu-back",
+    "url": "https://static.mercdn.net/item/detail/orig/photos/m29853131899_3.jpg?1782546214",
+    "grade": "listing",
+    "access": "visual-listing",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "已查看挂牌卡背：Caster、クー・フーリン、N 07 可见；系列印刷码不够清楚"
+  },
+  {
+    "id": "wafer5-community",
+    "url": "https://bikkuriman.zonosite.com/2018/11/12/post-86/",
+    "grade": "community",
+    "access": "search-extract",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "第5弹名单含07库丘林；稀有度分布与官方文字有冲突，只作弹次线索"
+  },
+  {
+    "id": "wafer14-retailer",
+    "url": "https://shop.toysanta.jp/?pid=189285729",
+    "grade": "retailer",
+    "access": "search-extract",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "零售商列出34种候选；列表顺序不能当印刷卡号，未逐张对照"
+  },
+  {
+    "id": "extra10",
+    "url": "https://corp.marv.jp/img/200928_fateEX10th.pdf",
+    "grade": "official",
+    "access": "search-extract",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "Marvelous 2020-09-28 新闻稿：EXTRA十周年盒装、Wada装裱印画，2021-02-11发售"
+  },
+  {
+    "id": "switch-release",
+    "url": "https://corp.marv.jp/img/170413_Fateswitch.pdf",
+    "grade": "official",
+    "access": "search-extract",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "Marvelous Nintendo Switch版发行资料，2017-07-20"
+  },
+  {
+    "id": "mash-shipping",
+    "url": "https://www.goodsmile.com/ja/news/6529",
+    "grade": "official",
+    "access": "search-extract",
+    "retrievedAt": null,
+    "observedDate": "2026-10-30",
+    "recordedAt": "2026-10-30T06:40:18.598Z",
+    "bodySha256": null,
+    "accessNote": "2025-10-27出货通知分别列出人偶与衣服套装及不同JAN"
+  },
+  {
+    "id": "listing:P001",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008296-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-05T06:52:28.984Z",
+    "bodySha256": "e63c2670e424a51b1048c547667149b3283a8e8700391d75d96092f0d66e96ed",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v10-expanded/batch-1.json",
+      "index": 31,
+      "sha256": "e66a5a760ebed723530e6120becfded7b2b5f17a70d6d91dffe37d11a535a862",
+      "rowSha256": "e63c2670e424a51b1048c547667149b3283a8e8700391d75d96092f0d66e96ed"
+    }
+  },
+  {
+    "id": "listing:P002",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008297-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-05T06:52:26.330Z",
+    "bodySha256": "35f570f490e361ef45cc552b143f4bf60f2a7cc863e92a0ca481e309ca062d58",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v10-expanded/batch-1.json",
+      "index": 33,
+      "sha256": "e66a5a760ebed723530e6120becfded7b2b5f17a70d6d91dffe37d11a535a862",
+      "rowSha256": "35f570f490e361ef45cc552b143f4bf60f2a7cc863e92a0ca481e309ca062d58"
+    }
+  },
+  {
+    "id": "listing:P003",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-009096-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-05T06:52:18.418Z",
+    "bodySha256": "39559df8851b348359fcf2878ec63c628512c2b5789f6a7650db51d3d8fcfd2a",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v10-expanded/batch-1.json",
+      "index": 38,
+      "sha256": "e66a5a760ebed723530e6120becfded7b2b5f17a70d6d91dffe37d11a535a862",
+      "rowSha256": "39559df8851b348359fcf2878ec63c628512c2b5789f6a7650db51d3d8fcfd2a"
+    }
+  },
+  {
+    "id": "listing:P004",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015843-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-05T06:52:11.686Z",
+    "bodySha256": "3ce3732e3ac89fede6d3f2dbf71e6f01edcff2c0599ea012d3688c918e577e9f",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v10-expanded/batch-1.json",
+      "index": 87,
+      "sha256": "e66a5a760ebed723530e6120becfded7b2b5f17a70d6d91dffe37d11a535a862",
+      "rowSha256": "3ce3732e3ac89fede6d3f2dbf71e6f01edcff2c0599ea012d3688c918e577e9f"
+    }
+  },
+  {
+    "id": "listing:P005",
+    "url": "https://www.suruga-ya.jp/product/detail/WK13678",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-05T07:15:02.317Z",
+    "bodySha256": "ce80b9e4ba67c340cb7d9f74b8e1d1e137ce1ece7a03e909a6920d991f202e36",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v10-expanded/batch-4.json",
+      "index": 73,
+      "sha256": "fe24c7fcfb2445756b6991813e404b77168fac145e87dff6e0ece11177a75d58",
+      "rowSha256": "ce80b9e4ba67c340cb7d9f74b8e1d1e137ce1ece7a03e909a6920d991f202e36"
+    }
+  },
+  {
+    "id": "listing:P006",
+    "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900668&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:42:12.737Z",
+    "bodySha256": "8034380b27223cf9248327fb99fb67be9ea45d055412f96e86cd8e3128e69a4d",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-5.json",
+      "index": 7,
+      "sha256": "75392494a3402ccd8b7466371b33475674b83067a063dd4040b9471fb641f9b2",
+      "rowSha256": "8034380b27223cf9248327fb99fb67be9ea45d055412f96e86cd8e3128e69a4d"
+    }
+  },
+  {
+    "id": "listing:P007",
+    "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900577&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:42:12.737Z",
+    "bodySha256": "81055dfe3a2147521298d6200d6e5a543a2c20d9537db69af19bce663b34457c",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-5.json",
+      "index": 8,
+      "sha256": "75392494a3402ccd8b7466371b33475674b83067a063dd4040b9471fb641f9b2",
+      "rowSha256": "81055dfe3a2147521298d6200d6e5a543a2c20d9537db69af19bce663b34457c"
+    }
+  },
+  {
+    "id": "listing:P008",
+    "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900460&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:42:12.737Z",
+    "bodySha256": "a57a9f108e092f024fb738d45c56db2a4365fcb530e98be4efa684bf483cbea5",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-5.json",
+      "index": 9,
+      "sha256": "75392494a3402ccd8b7466371b33475674b83067a063dd4040b9471fb641f9b2",
+      "rowSha256": "a57a9f108e092f024fb738d45c56db2a4365fcb530e98be4efa684bf483cbea5"
+    }
+  },
+  {
+    "id": "listing:P009",
+    "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1110268223&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:42:48.540Z",
+    "bodySha256": "c1ce1962c6286f73db47999b2e0388a4012ee69fab662c687817f668e8a0e203",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-5.json",
+      "index": 65,
+      "sha256": "75392494a3402ccd8b7466371b33475674b83067a063dd4040b9471fb641f9b2",
+      "rowSha256": "c1ce1962c6286f73db47999b2e0388a4012ee69fab662c687817f668e8a0e203"
+    }
+  },
+  {
+    "id": "listing:P010",
+    "url": "https://jp.mercari.com/item/m29853131899",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:51:48.696Z",
+    "bodySha256": "d5fcba18b052ab2bd18e2b2340d6b5efe6bb3a013bd8ccfedf16b7a28021fc40",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-4.json",
+      "index": 218,
+      "sha256": "b99a8d31859a7d8bd45343aa6b320a333e040395ce8232a4fa467bc6d6d82560",
+      "rowSha256": "d5fcba18b052ab2bd18e2b2340d6b5efe6bb3a013bd8ccfedf16b7a28021fc40"
+    }
+  },
+  {
+    "id": "listing:P011",
+    "url": "https://www.suruga-ya.jp/product/other/107000643",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:53:10.959Z",
+    "bodySha256": "a7c3353815171ba5103d3b9ba832a4dbfa435f51bbe7e31e9052947cc3302784",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-0.json",
+      "index": 491,
+      "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+      "rowSha256": "a7c3353815171ba5103d3b9ba832a4dbfa435f51bbe7e31e9052947cc3302784"
+    }
+  },
+  {
+    "id": "listing:P012",
+    "url": "https://www.suruga-ya.jp/product/other/109000022",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:53:04.498Z",
+    "bodySha256": "553f5ac9c37088334e75edcb9205f1a457641c193c4a4e0c93d04c73b37f133a",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-0.json",
+      "index": 489,
+      "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+      "rowSha256": "553f5ac9c37088334e75edcb9205f1a457641c193c4a4e0c93d04c73b37f133a"
+    }
+  },
+  {
+    "id": "listing:P013",
+    "url": "https://www.suruga-ya.jp/product/detail/107001683",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:52:34.142Z",
+    "bodySha256": "d5d19f4c4c7748b8a4a184e75ade3ea24356113db840263e0b0cef3f0638cf6f",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-0.json",
+      "index": 476,
+      "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+      "rowSha256": "d5d19f4c4c7748b8a4a184e75ade3ea24356113db840263e0b0cef3f0638cf6f"
+    }
+  },
+  {
+    "id": "listing:P014",
+    "url": "https://auctions.yahoo.co.jp/jp/auction/h1247177232",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:40:58.333Z",
+    "bodySha256": "d11cc7dcbd8fe8ebf849f82ffd295cbed3cb59703c2602195b86beadf6e503d4",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-4.json",
+      "index": 42,
+      "sha256": "b99a8d31859a7d8bd45343aa6b320a333e040395ce8232a4fa467bc6d6d82560",
+      "rowSha256": "d11cc7dcbd8fe8ebf849f82ffd295cbed3cb59703c2602195b86beadf6e503d4"
+    }
+  },
+  {
+    "id": "listing:P015",
+    "url": "https://jp.mercari.com/item/m27190268962",
+    "grade": "listing",
+    "access": "historical-search-index",
+    "retrievedAt": "2026-10-30T01:24:35.222Z",
+    "bodySha256": "f9378933d1940ff5bb38ef8b8a343b9730733173f9954d4b288e3868661032bb",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "research/pilot-300-20261029/extra-observation.json",
+      "index": 0,
+      "sha256": "f058ad3207e6c25c384c184eb891a15152170ce3f411fab45ce25c55bf7d2a0a",
+      "rowSha256": "f9378933d1940ff5bb38ef8b8a343b9730733173f9954d4b288e3868661032bb"
+    }
+  },
+  {
+    "id": "listing:P016",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-048263-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:58:16.801Z",
+    "bodySha256": "510a815761eb1a19692a6d83500bdcfa029231fc8760178b17812fed6ba39ea2",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-2.json",
+      "index": 433,
+      "sha256": "2284cd7d4d4b93ea7ff600bf3b3714cc1a49db3c1bcf6d67ddd168292f32a317",
+      "rowSha256": "510a815761eb1a19692a6d83500bdcfa029231fc8760178b17812fed6ba39ea2"
+    }
+  },
+  {
+    "id": "listing:P017",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-140121-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:58:44.619Z",
+    "bodySha256": "fc98b749b83ed68672c32ee3adc65d86e6f749db74711b3dee4e62371fe98d6c",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-2.json",
+      "index": 447,
+      "sha256": "2284cd7d4d4b93ea7ff600bf3b3714cc1a49db3c1bcf6d67ddd168292f32a317",
+      "rowSha256": "fc98b749b83ed68672c32ee3adc65d86e6f749db74711b3dee4e62371fe98d6c"
+    }
+  },
+  {
+    "id": "listing:P018",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183273-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T02:00:55.576Z",
+    "bodySha256": "a18776d135a2981e34bc4efb207cbcd0ecff2f98f4bbffec5e0b950906a3942a",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-3.json",
+      "index": 5,
+      "sha256": "09cb038f401290b882c345949adf3a5a4a7aeb1d4b8af7bbe4908506e12ec3fd",
+      "rowSha256": "a18776d135a2981e34bc4efb207cbcd0ecff2f98f4bbffec5e0b950906a3942a"
+    }
+  },
+  {
+    "id": "listing:P019",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183272-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T02:00:57.482Z",
+    "bodySha256": "7838f0b045bca9a864bf2f360946193251439f02149abdabf1ee1b8904c07e90",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-3.json",
+      "index": 6,
+      "sha256": "09cb038f401290b882c345949adf3a5a4a7aeb1d4b8af7bbe4908506e12ec3fd",
+      "rowSha256": "7838f0b045bca9a864bf2f360946193251439f02149abdabf1ee1b8904c07e90"
+    }
+  },
+  {
+    "id": "listing:P020",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-143065-R",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T06:56:09.649Z",
+    "bodySha256": "482788c026f7dd813bfa1099fe605bb4c950db1f4a2b8faa8ddc2da2ed2ee0ff",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v121/batch-0.json",
+      "index": 138,
+      "sha256": "0a8c22aa239390859bc0f936cf9ccedce0809a3b7cebeec428d2fb2674468685",
+      "rowSha256": "482788c026f7dd813bfa1099fe605bb4c950db1f4a2b8faa8ddc2da2ed2ee0ff"
+    }
+  },
+  {
+    "id": "listing:P021",
+    "url": "https://www.suruga-ya.jp/product/detail/873122822",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:41:10.465Z",
+    "bodySha256": "e47c9cba1ab5481ad5defed2cc0856d4ad303428ed1efb025db35ba3648b8477",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-0.json",
+      "index": 156,
+      "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+      "rowSha256": "e47c9cba1ab5481ad5defed2cc0856d4ad303428ed1efb025db35ba3648b8477"
+    }
+  },
+  {
+    "id": "listing:P022",
+    "url": "https://www.suruga-ya.jp/product/detail/561358660",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:41:10.465Z",
+    "bodySha256": "f8d41c52d2f07460ad85a9686431ff9bbd23beef90a410399e362b5bb6598945",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-0.json",
+      "index": 158,
+      "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+      "rowSha256": "f8d41c52d2f07460ad85a9686431ff9bbd23beef90a410399e362b5bb6598945"
+    }
+  },
+  {
+    "id": "listing:P023",
+    "url": "https://www.suruga-ya.jp/product/detail/561358658",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:41:10.465Z",
+    "bodySha256": "8464360793822d5725b84c4b55005d9d40a3df75e2a03e7d3cdc31958a514b73",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-0.json",
+      "index": 159,
+      "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+      "rowSha256": "8464360793822d5725b84c4b55005d9d40a3df75e2a03e7d3cdc31958a514b73"
+    }
+  },
+  {
+    "id": "listing:P024",
+    "url": "https://www.suruga-ya.jp/product/detail/873122739",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:41:15.867Z",
+    "bodySha256": "5e6ce2b8a69fef89e6eeb348bf7bceebf5261d94d9e799ddac234fe184c86ea8",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-0.json",
+      "index": 167,
+      "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+      "rowSha256": "5e6ce2b8a69fef89e6eeb348bf7bceebf5261d94d9e799ddac234fe184c86ea8"
+    }
+  },
+  {
+    "id": "listing:P025",
+    "url": "https://www.suruga-ya.jp/product/detail/887078213",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:40:43.114Z",
+    "bodySha256": "0c73d5f02555da2dd108ff226e40392ddff4f22e3766db577a7472bf2a810ed3",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-0.json",
+      "index": 28,
+      "sha256": "49eb42ab9ae23ce907785453af1fb4432e6c5bc964933433e48abc5ddfe86a81",
+      "rowSha256": "0c73d5f02555da2dd108ff226e40392ddff4f22e3766db577a7472bf2a810ed3"
+    }
+  },
+  {
+    "id": "listing:P026",
+    "url": "https://auctions.yahoo.co.jp/jp/auction/e1240903214",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-05T20:16:55.788Z",
+    "bodySha256": "5034a5872d3bab4c7a51547ac4bea0f262ab2d9486830fa9d5aa9f5929cc1b59",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v11/batch-14.json",
+      "index": 21,
+      "sha256": "da4aa741920565b97a14db44edaa7dd3025ad9f15818d782b6312b4e1720a7ec",
+      "rowSha256": "5034a5872d3bab4c7a51547ac4bea0f262ab2d9486830fa9d5aa9f5929cc1b59"
+    }
+  },
+  {
+    "id": "listing:P027",
+    "url": "https://jp.mercari.com/item/m21101839771",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:52:33.492Z",
+    "bodySha256": "fdd86605b53e26bf4bb78fe7c0c5471f46b60e27cea468a211958c8b8d8c0656",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-4.json",
+      "index": 235,
+      "sha256": "b99a8d31859a7d8bd45343aa6b320a333e040395ce8232a4fa467bc6d6d82560",
+      "rowSha256": "fdd86605b53e26bf4bb78fe7c0c5471f46b60e27cea468a211958c8b8d8c0656"
+    }
+  },
+  {
+    "id": "listing:P028",
+    "url": "https://jp.mercari.com/item/m63381541922",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:51:44.259Z",
+    "bodySha256": "b996c5c183ffda1a1f09cfe046358c1ca40e3b0df45d0a79ce8f66e6e2663d68",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-4.json",
+      "index": 216,
+      "sha256": "b99a8d31859a7d8bd45343aa6b320a333e040395ce8232a4fa467bc6d6d82560",
+      "rowSha256": "b996c5c183ffda1a1f09cfe046358c1ca40e3b0df45d0a79ce8f66e6e2663d68"
+    }
+  },
+  {
+    "id": "listing:P029",
+    "url": "https://www.suruga-ya.jp/product/detail/105007167",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:57:43.919Z",
+    "bodySha256": "033464f6b090b19aad469d7310b5f9edf9c2319754165d1f892815634b056df3",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-1.json",
+      "index": 89,
+      "sha256": "f1bf2b2da270f605fb43dfa45072ee13a04a785887e0f4c036bf7fac3b81527e",
+      "rowSha256": "033464f6b090b19aad469d7310b5f9edf9c2319754165d1f892815634b056df3"
+    }
+  },
+  {
+    "id": "listing:P030",
+    "url": "https://auctions.yahoo.co.jp/jp/auction/n1247140939",
+    "grade": "listing",
+    "access": "historical-listing-snapshot",
+    "retrievedAt": "2026-10-06T01:40:53.843Z",
+    "bodySha256": "dfe68534b8bcd4689e467435e343ad66c2b0f38ab943a232704107cb7110e387",
+    "accessNote": "历史挂牌观察；不代表当前仍在售",
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-3.json",
+      "index": 495,
+      "sha256": "09cb038f401290b882c345949adf3a5a4a7aeb1d4b8af7bbe4908506e12ec3fd",
+      "rowSha256": "dfe68534b8bcd4689e467435e343ad66c2b0f38ab943a232704107cb7110e387"
+    }
+  },
+  {
+    "id": "catalogue:turas-1",
+    "url": "https://www.kodansha.co.jp/comic/products/0000052938",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:17:29.285Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 189,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-2",
+    "url": "https://www.kodansha.co.jp/comic/products/0000116163",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:24:44.389Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 211,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-3",
+    "url": "https://www.kodansha.co.jp/comic/products/0000313652",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:24:25.422Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 210,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-4",
+    "url": "https://www.kodansha.co.jp/comic/products/0000319474",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:24:10.229Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 209,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-5",
+    "url": "https://www.kodansha.co.jp/comic/products/0000321359",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:23:50.298Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 208,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-6",
+    "url": "https://www.kodansha.co.jp/comic/products/0000325290",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:23:31.137Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 207,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-7",
+    "url": "https://www.kodansha.co.jp/comic/products/0000330338",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:23:07.411Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 206,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-8",
+    "url": "https://www.kodansha.co.jp/comic/products/0000343486",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:22:48.541Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 205,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-9",
+    "url": "https://www.kodansha.co.jp/comic/products/0000347305",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:22:32.724Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 204,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-10",
+    "url": "https://www.kodansha.co.jp/comic/products/0000351473",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:28:18.025Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 203,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-11",
+    "url": "https://www.kodansha.co.jp/comic/products/0000356190",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:21:48.340Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 202,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-12",
+    "url": "https://www.kodansha.co.jp/comic/products/0000362768",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:21:21.667Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 201,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-13",
+    "url": "https://www.kodansha.co.jp/comic/products/0000367968",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:21:00.174Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 200,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-14",
+    "url": "https://www.kodansha.co.jp/comic/products/0000373108",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:20:35.784Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 199,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-15",
+    "url": "https://www.kodansha.co.jp/comic/products/0000377832",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:20:17.955Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 198,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-16",
+    "url": "https://www.kodansha.co.jp/comic/products/0000383228",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:20:00.260Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 197,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-17",
+    "url": "https://www.kodansha.co.jp/comic/products/0000393877",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:19:38.155Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 196,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-18",
+    "url": "https://www.kodansha.co.jp/comic/products/0000399662",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:19:19.403Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 195,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-19",
+    "url": "https://www.kodansha.co.jp/comic/products/0000409996",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:19:01.733Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 194,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-20",
+    "url": "https://www.kodansha.co.jp/comic/products/0000417035",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:18:40.733Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 193,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-21",
+    "url": "https://www.kodansha.co.jp/comic/products/0000421983",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:18:22.026Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 192,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-22",
+    "url": "https://www.kodansha.co.jp/comic/products/0000426874",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:18:04.498Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 191,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  },
+  {
+    "id": "catalogue:turas-23",
+    "url": "https://www.kodansha.co.jp/comic/products/0000431853",
+    "grade": "official",
+    "access": "historical-publisher-snapshot",
+    "retrievedAt": "2026-10-06T02:17:44.986Z",
+    "bodySha256": null,
+    "provenance": {
+      "file": "public/fate-crawl/v12/batch-8.json",
+      "index": 190,
+      "sha256": "59a7cd39dff2e0515cbb5630233ae660587983dc06787e26a4e0d1d4c3536550"
+    },
+    "accessNote": "仓库既有出版社观察；本轮只重新读取系列页和23卷详情"
+  }
+]

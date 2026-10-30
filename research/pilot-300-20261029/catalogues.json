@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "material",
+    "title": "FGO material 资料集系列",
+    "type": "逻辑系列",
+    "sources": [
+      "material"
+    ],
+    "note": "已查来源列出I–XII，不声明全系列已完结；下方角色是书中收录。",
+    "members": [
+      {
+        "name": "material I",
+        "status": "supported",
+        "characters": [
+          "マシュ・キリエライト",
+          "アルトリア・ペンドラゴン",
+          "アルトリア・ペンドラゴン〔オルタ〕",
+          "アルトリア・ペンドラゴン〔リリィ〕",
+          "ネロ・クラウディウス",
+          "ジークフリート",
+          "ガイウス・ユリウス・カエサル",
+          "アルテラ",
+          "ジル・ド・レェ（セイバー）",
+          "シュヴァリエ・デオン",
+          "エミヤ",
+          "ギルガメッシュ",
+          "ロビンフッド",
+          "アタランテ",
+          "エウリュアレ",
+          "アーラシュ",
+          "クー・フーリン（ランサー）",
+          "エリザベート・バートリー",
+          "武蔵坊弁慶",
+          "クー・フーリン〔プロトタイプ〕",
+          "レオニダス一世",
+          "ロムルス",
+          "メドゥーサ",
+          "ゲオルギウス",
+          "エドワード・ティーチ",
+          "ブーディカ",
+          "牛若丸",
+          "アレキサンダー",
+          "マリー・アントワネット",
+          "マルタ",
+          "メディア",
+          "ジル・ド・レェ（キャスター）",
+          "ハンス・クリスチャン・アンデルセン",
+          "ウィリアム・シェイクスピア",
+          "メフィストフェレス",
+          "ヴォルフガング・アマデウス・モーツァルト",
+          "諸葛孔明〔エルメロイⅡ世〕",
+          "クー・フーリン（キャスター）"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material II",
+        "status": "supported",
+        "characters": [
+          "佐々木小次郎",
+          "呪腕のハサン",
+          "ステンノ",
+          "荊軻",
+          "シャルル＝アンリ・サンソン",
+          "ファントム・オブ・ジ・オペラ",
+          "マタ・ハリ",
+          "カーミラ",
+          "ヘラクレス",
+          "ランスロット",
+          "呂布奉先",
+          "スパルタクス",
+          "坂田金時",
+          "ヴラド三世",
+          "アステリオス",
+          "カリギュラ",
+          "ダレイオス三世",
+          "清姫",
+          "エイリーク・ブラッドアクス",
+          "タマモキャット",
+          "ジャンヌ・ダルク",
+          "オリオン",
+          "エリザベート・バートリー〔ハロウィン〕",
+          "玉藻の前",
+          "ダビデ",
+          "ヘクトール",
+          "フランシス・ドレイク",
+          "アン・ボニー＆メアリー・リード",
+          "メディア〔リリィ〕",
+          "沖田総司",
+          "織田信長",
+          "スカサハ",
+          "ディルムッド・オディナ",
+          "フェルグス・マック・ロイ",
+          "アルトリア・ペンドラゴン〔サンタオルタ〕"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material III",
+        "status": "supported",
+        "characters": [
+          "ナーサリー・ライム",
+          "ジャック・ザ・リッパー",
+          "モードレッド",
+          "ニコラ・テスラ",
+          "アルトリア・ペンドラゴン〔オルタ〕",
+          "ヴァン・ホーエンハイム・パラケルスス",
+          "チャールズ・バベッジ",
+          "ヘンリー・ジキル＆ハイド",
+          "フランケンシュタイン",
+          "アルジュナ",
+          "カルナ",
+          "謎のヒロインX",
+          "フィン・マックール",
+          "ブリュンヒルデ",
+          "ベオウルフ",
+          "ネロ・クラウディウス〔ブライド〕",
+          "両儀式〔セイバー〕",
+          "両儀式〔アサシン〕",
+          "天草四郎",
+          "アストルフォ",
+          "子ギル",
+          "巌窟王 エドモン・ダンテス",
+          "ナイチンゲール",
+          "クー・フーリン[オルタ]",
+          "女王メイヴ",
+          "エレナ・ブラヴァツキー",
+          "ラーマ",
+          "神槍 李書文",
+          "トーマス・エジソン",
+          "ジェロニモ",
+          "ビリー・ザ・キッド",
+          "ジャンヌ・ダルク〔オルタ〕",
+          "アンリマユ",
+          "イスカンダル",
+          "エミヤ〔アサシン〕",
+          "百貌のハサン",
+          "アイリスフィール〔天の衣〕"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material IV",
+        "status": "supported",
+        "characters": [
+          "酒呑童子",
+          "三蔵法師",
+          "源頼光",
+          "坂田金時〔ライダー〕",
+          "茨木童子",
+          "風魔小太郎",
+          "オジマンディアス",
+          "アルトリア・ペンドラゴン〔ランサー〕/ ニトクリス",
+          "ランスロット",
+          "トリスタン",
+          "ガウェイン",
+          "静謐のハサン",
+          "俵藤太",
+          "ベディヴィエール",
+          "レオナルド・ダ・ヴィンチ",
+          "玉藻の前〔ランサー〕",
+          "アルトリア・ペンドラゴン〔アーチャー〕/ マリー・アントワネット〔キャスター〕",
+          "アン・ボニー＆メアリー・リード〔アーチャー〕/ モードレッド〔ライダー〕",
+          "スカサハ〔アサシン〕",
+          "清姫〔ランサー〕",
+          "マルタ〔ルーラー〕",
+          "イリヤスフィール・フォン・アインツベルン",
+          "クロエ・フォン・アインツベルン",
+          "エリザベート・バートリー〔ブレイブ〕",
+          "クレオパトラ",
+          "ヴラド三世〔EXTRA〕",
+          "ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+          "イシュタル",
+          "エルキドゥ",
+          "ケツァル・コアトル",
+          "ギルガメッシュ〔キャスター〕",
+          "メドゥーサ〔ランサー〕",
+          "ゴルゴーン",
+          "ジャガーマン",
+          "ティアマト",
+          "マーリン",
+          "ゲーティア",
+          "ソロモン"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material V",
+        "status": "supported",
+        "characters": [
+          "宮本武蔵",
+          "“山の翁”",
+          "謎のヒロインＸ〔オルタ〕",
+          "新宿のアーチャー",
+          "エミヤ〔オルタ〕",
+          "新宿のアヴェンジャー",
+          "新宿のアサシン",
+          "アーサー・ペンドラゴン〔プロトタイプ〕",
+          "土方歳三",
+          "茶々",
+          "メルトリリス",
+          "パッションリップ",
+          "鈴鹿御前",
+          "BB",
+          "殺生院キアラ",
+          "ビーストⅢ／Ｒ",
+          "不夜城のキャスター",
+          "不夜城のアサシン",
+          "エルドラドのバーサーカー",
+          "レジスタンスのライダー",
+          "シャーロック・ホームズ",
+          "ポール・バニヤン",
+          "ネロ・クラウディウス〔キャスター〕",
+          "フランケンシュタイン〔セイバー〕",
+          "ニトクリス〔アサシン〕",
+          "織田信長〔バーサーカー〕",
+          "アルトリア・ペンドラゴン〔オルタ〕〔ライダー〕",
+          "エレナ・ブラヴァツキー〔アーチャー〕",
+          "源頼光〔ランサー〕",
+          "イシュタル〔ライダー〕",
+          "パールヴァティー"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material VI",
+        "status": "supported",
+        "characters": [
+          "アーチャー・インフェルノ",
+          "アサシン・パライソ",
+          "宝蔵院胤舜",
+          "柳生但馬守宗矩",
+          "加藤段蔵",
+          "刑部姫",
+          "メカエリチャン",
+          "メカエリチャンⅡ号機",
+          "オケアノスのキャスター",
+          "哪吒",
+          "ミドラーシュのキャスター",
+          "アビゲイル・ウィリアムズ",
+          "エレシュキガル",
+          "アルテラ・ザ・サン〔タ〕",
+          "葛飾北斎",
+          "セミラミス",
+          "浅上藤乃"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material VII",
+        "status": "supported",
+        "characters": [
+          "アナスタシア",
+          "アタランテ〔オルタ〕",
+          "アヴィケブロン",
+          "アントニオ・サリエリ",
+          "イヴァン雷帝",
+          "アキレウス",
+          "ケイローン",
+          "ジーク",
+          "沖田総司〔オルタ〕",
+          "岡田以蔵",
+          "坂本龍馬",
+          "ナポレオン",
+          "シグルド",
+          "ワルキューレ　(オルトリンデ、ヒルド、スルーズ)",
+          "スカサハ=スカディ",
+          "ジャンヌ・ダルク〔アーチャー〕",
+          "茨木童子〔ランサー〕",
+          "牛若丸〔アサシン〕",
+          "ジャンヌ・ダルク〔オルタ〕",
+          "BB〔ムーンキャンサー〕",
+          "女王メイヴ〔セイバー〕",
+          "謎のヒロインXX〔フォーリナー〕",
+          "ディルムッド・オディナ",
+          "シトナイ",
+          "酒呑童子〔キャスター〕"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material VIII",
+        "status": "supported",
+        "characters": [
+          "項羽",
+          "蘭陵王",
+          "秦良玉",
+          "始皇帝",
+          "虞美人",
+          "赤兎馬",
+          "ブラダマンテ",
+          "ケツァル・コアトル〔サンバ/サンタ〕",
+          "紅閻魔",
+          "李書文〔アサシン〕",
+          "美遊・エーデルフェルト",
+          "紫式部",
+          "キングプロテア",
+          "カーマ",
+          "ビーストⅢ／L",
+          "司馬懿〔ライネス〕",
+          "アストライア",
+          "グレイ",
+          "大いなる石像神",
+          "ラクシュミー・バーイー",
+          "ウィリアム・テル",
+          "アルジュナ〔オルタ〕",
+          "アシュヴァッターマン",
+          "アスクレピオス"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material IX",
+        "status": "supported",
+        "characters": [
+          "魔王信長",
+          "森長可",
+          "長尾景虎",
+          "レオナルド・ダ・ヴィンチ〔ライダー〕",
+          "イアソン",
+          "パリス",
+          "ガレス",
+          "バーソロミュー・ロバーツ",
+          "陳宮",
+          "シャルロット・コルデー",
+          "サロメ",
+          "宮本武蔵〔バーサーカー〕",
+          "刑部姫〔アーチャー〕",
+          "カーミラ〔ライダー〕",
+          "葛飾北斎〔セイバー〕",
+          "アルトリア・ペンドラゴン〔ルーラー〕",
+          "謎のアルターエゴ・Λ",
+          "オキタ・J・ソウジ"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material X",
+        "status": "supported",
+        "characters": [
+          "スペース・イシュタル",
+          "カラミティ・ジェーン",
+          "アストルフォ",
+          "ナイチンゲール〔サンタ〕",
+          "超人オリオン",
+          "マンドリカルド",
+          "エウロペ",
+          "楊貴妃",
+          "清少納言",
+          "オデュッセウス",
+          "ディオスクロイ",
+          "カイニス",
+          "ロムルス=クィリヌス",
+          "ボイジャー",
+          "鬼女紅葉",
+          "宇津見エリセ",
+          "アルトリア・キャスター"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material XI",
+        "status": "supported",
+        "characters": [
+          "殺生院キアラ",
+          "イリヤスフィール・フォン・アインツベルン",
+          "ブリュンヒルデ",
+          "虞美人",
+          "アビゲイル・ウィリアムズ〔夏〕",
+          "巴御前",
+          "紫式部",
+          "卑弥呼",
+          "斎藤一",
+          "織田信勝",
+          "ヴァン・ゴッホ",
+          "ネモ"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      },
+      {
+        "name": "material XII",
+        "status": "supported",
+        "characters": [
+          "蘆屋道満",
+          "渡辺綱",
+          "伊吹童子",
+          "ヴリトラ",
+          "カルナ〔サンタ〕",
+          "千子村正",
+          "平景清",
+          "鬼一法眼",
+          "カレン・Ｃ・オルテンシア",
+          "ガラテア",
+          "ミス・クレーン",
+          "謎のアイドルX〔オルタ〕"
+        ],
+        "relation": "features_in_content",
+        "sources": [
+          "material"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turas",
+    "title": "turas réalta 漫画系列",
+    "type": "逻辑系列",
+    "sources": [
+      "turas",
+      "turas23"
+    ],
+    "note": "2026-10-30查到23卷；挂牌1–22卷套装保持原范围。单卷ISBN不继承为套装ISBN。",
+    "members": [
+      {
+        "name": "第1卷",
+        "isbn": "9784065107645",
+        "releaseDate": "2018年01月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000052938",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-1"
+        ]
+      },
+      {
+        "name": "第2卷",
+        "isbn": "9784065114063",
+        "releaseDate": "2018年05月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000116163",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-2"
+        ]
+      },
+      {
+        "name": "第3卷",
+        "isbn": "9784065129876",
+        "releaseDate": "2018年10月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000313652",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-3"
+        ]
+      },
+      {
+        "name": "第4卷",
+        "isbn": "9784065144398",
+        "releaseDate": "2019年03月08日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000319474",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-4"
+        ]
+      },
+      {
+        "name": "第5卷",
+        "isbn": "9784065153031",
+        "releaseDate": "2019年07月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000321359",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-5"
+        ]
+      },
+      {
+        "name": "第6卷",
+        "isbn": "9784065173046",
+        "releaseDate": "2019年11月08日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000325290",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-6"
+        ]
+      },
+      {
+        "name": "第7卷",
+        "isbn": "9784065185124",
+        "releaseDate": "2020年03月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000330338",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-7"
+        ]
+      },
+      {
+        "name": "第8卷",
+        "isbn": "9784065203248",
+        "releaseDate": "2020年08月07日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000343486",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-8"
+        ]
+      },
+      {
+        "name": "第9卷",
+        "isbn": "9784065216767",
+        "releaseDate": "2020年12月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000347305",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-9"
+        ]
+      },
+      {
+        "name": "第10卷",
+        "isbn": "9784065231562",
+        "releaseDate": "2021年05月07日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000351473",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-10"
+        ]
+      },
+      {
+        "name": "第11卷",
+        "isbn": "9784065251331",
+        "releaseDate": "2021年10月08日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000356190",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-11"
+        ]
+      },
+      {
+        "name": "第12卷",
+        "isbn": "9784065272701",
+        "releaseDate": "2022年03月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000362768",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-12"
+        ]
+      },
+      {
+        "name": "第13卷",
+        "isbn": "9784065286630",
+        "releaseDate": "2022年08月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000367968",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-13"
+        ]
+      },
+      {
+        "name": "第14卷",
+        "isbn": "9784065305287",
+        "releaseDate": "2023年02月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000373108",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-14"
+        ]
+      },
+      {
+        "name": "第15卷",
+        "isbn": "9784065321690",
+        "releaseDate": "2023年07月07日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000377832",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-15"
+        ]
+      },
+      {
+        "name": "第16卷",
+        "isbn": "9784065338827",
+        "releaseDate": "2024年01月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000383228",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-16"
+        ]
+      },
+      {
+        "name": "第17卷",
+        "isbn": "9784065361269",
+        "releaseDate": "2024年07月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000393877",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-17"
+        ]
+      },
+      {
+        "name": "第18卷",
+        "isbn": "9784065374269",
+        "releaseDate": "2024年11月08日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000399662",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-18"
+        ]
+      },
+      {
+        "name": "第19卷",
+        "isbn": "9784065390559",
+        "releaseDate": "2025年04月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000409996",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-19"
+        ]
+      },
+      {
+        "name": "第20卷",
+        "isbn": "9784065403525",
+        "releaseDate": "2025年08月07日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000417035",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-20"
+        ]
+      },
+      {
+        "name": "第21卷",
+        "isbn": "9784065418932",
+        "releaseDate": "2025年12月09日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000421983",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-21"
+        ]
+      },
+      {
+        "name": "第22卷",
+        "isbn": "9784065436097",
+        "releaseDate": "2026年05月08日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000426874",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-22"
+        ]
+      },
+      {
+        "name": "第23卷",
+        "isbn": "9784065452684",
+        "releaseDate": "2026年10月08日",
+        "url": "https://www.kodansha.co.jp/comic/products/0000431853",
+        "status": "supported",
+        "sources": [
+          "catalogue:turas-23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wafer14",
+    "title": "FGO威化 第14弹",
+    "type": "随机商品目录",
+    "expectedCount": 34,
+    "sources": [
+      "wafer14",
+      "wafer14-retailer"
+    ],
+    "note": "官方确认总计34种（含2种秘密款）。以下34个名字来自零售目录，尚未逐卡确认；列表序号不是印刷卡号。",
+    "members": [
+      {
+        "name": "渡辺綱",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "織田信勝",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "雑賀孫一",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ドブルイニャ・ニキチッチ",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ヴァン・ゴッホ(マイナー)",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ネモ(サンタ)",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ジェロニモ",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "呼延灼",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "岸波白野(男)",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "アビゲイル・ウイリアムズ(サンタ)",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "リチャードI世",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "プトレマイオス",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ビーマ",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "武田晴信",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "アンドロメダ",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "小野小町",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ロウヒ",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "徐福",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "マリー・アントワネット(オルタ)",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "テノチティトラン",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "謎のヒロインXX(オルタ)",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "両儀式",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ひびき＆千鍵",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "謎の代行者C.I.E.L",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "蒼崎青子",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ファンタズムーン",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "巌窟王 モンテ・クリスト",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "上杉謙信",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "カズラドロップ",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ダンテ・アリギエーリ",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "エレシュキガル",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "ゴールデンBB",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "カマソッソ",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      },
+      {
+        "name": "岸波白野(女)",
+        "status": "proposed",
+        "sources": [
+          "wafer14-retailer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wafer5",
+    "title": "FGO威化 第5弹",
+    "type": "不完整目录",
+    "expectedCount": 25,
+    "sources": [
+      "wafer5"
+    ],
+    "note": "官方总种数已查；本轮未建立完整逐卡名单，未知槽位不造角色。",
+    "members": [
+      {
+        "name": "FGO ウエハース5 13 エリザベート・バートリー〔ブレイブ〕",
+        "status": "proposed",
+        "sampleId": "P009",
+        "sources": [
+          "wafer5",
+          "listing:P009"
+        ]
+      },
+      {
+        "name": "FGO 威化卡 Caster／クー・フーリン N07（候选第5弹）",
+        "status": "proposed",
+        "sampleId": "P010",
+        "sources": [
+          "cu-back",
+          "wafer5-community",
+          "wafer5",
+          "listing:P010"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wafer6",
+    "title": "FGO威化 第6弹",
+    "type": "不完整目录",
+    "expectedCount": 25,
+    "sources": [
+      "wafer6"
+    ],
+    "note": "官方总种数已查；本轮未建立完整逐卡名单，未知槽位不造角色。",
+    "members": [
+      {
+        "name": "FGO ウエハース6 25 メルトリリス",
+        "status": "proposed",
+        "sampleId": "P007",
+        "sources": [
+          "wafer6",
+          "listing:P007"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fes-b",
+    "title": "FGO Fes.2025 B2半裁挂画 B组",
+    "type": "可选款式目录",
+    "sources": [
+      "fes-asclepius"
+    ],
+    "note": "每个角色是可选款式；不是一件商品附送全组，也不是随机盲盒。",
+    "members": [
+      {
+        "name": "テノチティトラン",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "メリュジーヌ",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "沖田総司",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "マンドリカルド",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "マーリン",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "カルナ",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "アルテラ・ザ・サン〔タ〕",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "百貌のハサン",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "呼延灼",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "望月千代女",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "土方歳三",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "アスクレピオス",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "マリー・アントワネット",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "パーシヴァル",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      },
+      {
+        "name": "黄飛虎",
+        "status": "supported",
+        "sources": [
+          "fes-asclepius"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fes-c",
+    "title": "FGO Fes.2025 B2半裁挂画 C组",
+    "type": "可选款式目录",
+    "sources": [
+      "fes-kama"
+    ],
+    "note": "每个角色是可选款式；不是一件商品附送全组，也不是随机盲盒。",
+    "members": [
+      {
+        "name": "始皇帝",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "ステンノ",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "エウリュアレ",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "カーマ",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "ジャック・ザ・リッパー",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "武則天",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "ジャック・ド・モレー",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "渡辺綱",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "ゼノビア",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "アルトリア・ペンドラゴン〔オルタ〕（ランサー）",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "ヴラド三世",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "鬼一法眼",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "杉谷善住坊",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "果心居士",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "赤兎馬",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "山南敬助",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      },
+      {
+        "name": "カラミティ・ジェーン",
+        "status": "supported",
+        "sources": [
+          "fes-kama"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "extella",
+    "title": "EXTELLA：版本、店铺特典与拆售组件",
+    "type": "关联图谱建议",
+    "sources": [],
+    "note": "母商品与组件保持独立身份。所有关系只保存在试点，不创建正式商品。",
+    "members": [
+      {
+        "name": "Fate/EXTELLA PS4 通常版",
+        "sampleId": "P011",
+        "status": "proposed",
+        "sources": [
+          "extella",
+          "listing:P011"
+        ],
+        "relationships": [
+          {
+            "type": "work_version",
+            "target": "Fate/EXTELLA",
+            "note": "与Switch版和LINK续作分开。",
+            "sources": [
+              "extella"
+            ],
+            "status": "supported"
+          }
+        ]
+      },
+      {
+        "name": "Fate/EXTELLA Nintendo Switch LIMITED BOX",
+        "sampleId": "P012",
+        "status": "proposed",
+        "sources": [
+          "extella-switch",
+          "switch-release",
+          "listing:P012"
+        ],
+        "relationships": [
+          {
+            "type": "edition_of",
+            "target": "Fate/EXTELLA",
+            "note": "LIMITED BOX是版本；附件拥有情况独立。",
+            "sources": [
+              "extella-switch"
+            ],
+            "status": "supported"
+          }
+        ]
+      },
+      {
+        "name": "Fate/EXTELLA LINK PS4 プレミアム限定版",
+        "sampleId": "P013",
+        "status": "proposed",
+        "sources": [
+          "extella-link",
+          "listing:P013"
+        ],
+        "relationships": [
+          {
+            "type": "edition_of",
+            "target": "Fate/EXTELLA LINK",
+            "note": "版本归属。",
+            "sources": [
+              "extella-link"
+            ],
+            "status": "supported"
+          }
+        ]
+      },
+      {
+        "name": "Fate/EXTELLA LINK 斯卡哈「魔境のサージェント」服装码",
+        "sampleId": "P014",
+        "status": "proposed",
+        "sources": [
+          "extella-link",
+          "listing:P014"
+        ],
+        "relationships": [
+          {
+            "type": "bonus_for",
+            "target": "Fate/EXTELLA LINK",
+            "note": "数字特典，核销与有效性属于挂牌状态。",
+            "sources": [
+              "extella-link"
+            ],
+            "status": "supported"
+          }
+        ]
+      },
+      {
+        "name": "Fate/EXTELLA あみあみ特典 A3挂画／尼禄＆玉藻前",
+        "sampleId": "P015",
+        "status": "proposed",
+        "sources": [
+          "extella-bonus",
+          "extella-artist",
+          "extella-art-image",
+          "listing:P015"
+        ],
+        "relationships": [
+          {
+            "type": "store_bonus_for",
+            "target": "Fate/EXTELLA",
+            "note": "建议在游戏二级页面展示独立特典；不并入游戏本体。",
+            "sources": [
+              "extella-bonus"
+            ],
+            "status": "supported"
+          }
+        ]
+      },
+      {
+        "name": "Fate/EXTELLA LINK 吉尔伽美什＆无铭 徽章2个套装",
+        "sampleId": "P028",
+        "status": "proposed",
+        "sources": [
+          "extella-link",
+          "listing:P028"
+        ],
+        "relationships": [
+          {
+            "type": "claimed_store_bonus_for",
+            "target": "Fate/EXTELLA LINK",
+            "note": "只记录卖家声称，不能直接升级为官方关系。",
+            "sources": [
+              "listing:P028"
+            ],
+            "status": "seller-claimed"
+          }
+        ]
+      },
+      {
+        "name": "Fate/EXTELLA VELBER BOX（缺PS4游戏本体）",
+        "sampleId": "P029",
+        "status": "proposed",
+        "sources": [
+          "extella",
+          "listing:P029"
+        ],
+        "relationships": [
+          {
+            "type": "incomplete_offer_of",
+            "target": "Fate/EXTELLA VELBER BOX",
+            "note": "缺件影响挂牌内容与价值；不等于另一个完整官方版本。",
+            "sources": [
+              "listing:P029"
+            ],
+            "status": "seller-claimed"
+          }
+        ]
+      },
+      {
+        "name": "Fate/EXTRA 10th ANNIVERSARY Celebration BOX Wada印画（单件）",
+        "sampleId": "P030",
+        "status": "proposed",
+        "sources": [
+          "extra10",
+          "listing:P030"
+        ],
+        "relationships": [
+          {
+            "type": "component_of",
+            "target": "Fate/EXTRA 10th ANNIVERSARY Celebration BOX",
+            "note": "独立组件；PS4/Switch母套装归属需要进一步确认。",
+            "sources": [
+              "extra10"
+            ],
+            "status": "supported"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mash",
+    "title": "玛修私服人偶与衣服套装",
+    "type": "关联图谱建议",
+    "sources": [],
+    "note": "母商品与组件保持独立身份。所有关系只保存在试点，不创建正式商品。",
+    "members": [
+      {
+        "name": "ねんどろいどどーる 玛修私服 衣服套装",
+        "sampleId": "P018",
+        "status": "proposed",
+        "sources": [
+          "mash-outfit",
+          "mash-shipping",
+          "listing:P018"
+        ],
+        "relationships": [
+          {
+            "type": "outfit_for",
+            "target": "P019",
+            "note": "独立服装商品；不与含本体商品去重。",
+            "sources": [
+              "mash-outfit",
+              "mash-doll"
+            ],
+            "status": "supported"
+          }
+        ]
+      },
+      {
+        "name": "ねんどろいどどーる 玛修私服 人偶",
+        "sampleId": "P019",
+        "status": "proposed",
+        "sources": [
+          "mash-doll",
+          "mash-shipping",
+          "listing:P019"
+        ],
+        "relationships": [
+          {
+            "type": "includes_outfit_type",
+            "target": "P018",
+            "note": "标准包装中的服装与单独销售的衣服套装相关。",
+            "sources": [
+              "mash-doll",
+              "mash-outfit"
+            ],
+            "status": "supported"
+          }
+        ]
+      }
+    ]
+  }
+]

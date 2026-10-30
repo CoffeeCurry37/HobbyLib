@@ -1,0 +1,4576 @@
+{
+  "version": 1,
+  "runAt": "2026-10-30T06:29:26.789Z",
+  "mode": "existing-rule-23-offline-compact-index-probe",
+  "rulesVersion": 23,
+  "codeSource": "044155730e21684700366d250f24cb89f58d8c39",
+  "catalogHash": "6e32e80cbfbf319dfd80d5fe37417a54c35767db294afcb5ab95f7a194b444a2",
+  "catalogSize": 15810,
+  "catalogDate": "2026-10-25",
+  "sameListingShortcut": "disabled: all reference offers removed",
+  "scope": "Candidate normalization reuses createItem/applyMetadata/repairClassification. No network enrichment, full ingest, production write, or human accuracy labels.",
+  "processed": 30,
+  "remaining": 270,
+  "counts": {
+    "matched": 27,
+    "ambiguous": 2,
+    "conflict": 0,
+    "unmatched": 1
+  },
+  "accuracy": null,
+  "humanLabels": 0,
+  "sourceRequests": 0,
+  "paidApiRequests": 0,
+  "elapsedMs": 7390,
+  "rows": [
+    {
+      "id": "P001",
+      "inputHash": "e63c2670e424a51b1048c547667149b3283a8e8700391d75d96092f0d66e96ed",
+      "decision": {
+        "inputFingerprint": "0c57f2d4969fc6747b2146a11851e1a9aab8055b77d39f0150b4bd18af187624",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:MED-BOOK-008296-R",
+        "sourceKeys": [
+          "amiami:MED-BOOK-008296-R"
+        ],
+        "status": "matched",
+        "targetItemId": "381a5911-4a34-4a13-a12a-2ced69f8dd0c",
+        "candidateIds": [
+          "381a5911-4a34-4a13-a12a-2ced69f8dd0c"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008296-R",
+            "value": "amiami:MED-BOOK-008296-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008296-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4560158370531",
+            "value": "4560158370531",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008296-R",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "产品线与卷号一致（罗马数字/阿拉伯数字统一；版本、出版社、媒介无冲突）",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-05T06:52:28.984Z",
+        "decisionId": "4a899bd4aae9c9b4205c0eb4f686392a9e6ce75ee2775da55ae2c2a0b00f5170"
+      },
+      "candidates": [
+        {
+          "id": "381a5911-4a34-4a13-a12a-2ced69f8dd0c",
+          "ordinal": 278,
+          "title": "Fate/Grand Order material1",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370531",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "1",
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-c80fd1bd4865f204cf3686df9729b0a7",
+          "ordinal": 257,
+          "title": "Fate/Grand Order material VI (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370722",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "6",
+          "manufacturer": "",
+          "similarity": 0.939
+        },
+        {
+          "id": "source-0c7c1ec999e04aa90549e9e83c1dec5f",
+          "ordinal": 258,
+          "title": "Fate/Grand Order material VII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370746",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "7",
+          "manufacturer": "",
+          "similarity": 0.92
+        },
+        {
+          "id": "source-30231f0bd15a822d51a60cdb7f4926ad",
+          "ordinal": 259,
+          "title": "Fate/Grand Order material VIII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370760",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "8",
+          "manufacturer": "",
+          "similarity": 0.92
+        },
+        {
+          "id": "family-df714c3524167dbf68759030e1b4ac14",
+          "ordinal": 246,
+          "title": "Fate/Grand Order material",
+          "category": "書籍",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.884
+        },
+        {
+          "id": "381a5911-4a34-4a13-a12a-2ced69f8dd0c",
+          "ordinal": 278,
+          "title": "Fate/Grand Order material1",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370531",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "1",
+          "manufacturer": "",
+          "similarity": 0.864
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/Grand Order material I(書籍)",
+        "category": "画集",
+        "kind": "base",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "4560158370531",
+        "wave": "1"
+      },
+      "elapsedMs": 219.33,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P002",
+      "inputHash": "35f570f490e361ef45cc552b143f4bf60f2a7cc863e92a0ca481e309ca062d58",
+      "decision": {
+        "inputFingerprint": "03c4c04f22d5d183a25b0b7588e67059056ed1c2554cc3584192291de3d5160a",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:MED-BOOK-008297-R",
+        "sourceKeys": [
+          "amiami:MED-BOOK-008297-R"
+        ],
+        "status": "matched",
+        "targetItemId": "d138f7a7-71a5-4eea-b30e-ec003e754971",
+        "candidateIds": [
+          "d138f7a7-71a5-4eea-b30e-ec003e754971"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008297-R",
+            "value": "amiami:MED-BOOK-008297-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008297-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4560158370524",
+            "value": "4560158370524",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-008297-R",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "产品线与卷号一致（罗马数字/阿拉伯数字统一；版本、出版社、媒介无冲突）",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-05T06:52:26.330Z",
+        "decisionId": "47440272bb705b51880270c664eef8f322ffa2cff1eb4e3c09e97bfa4e12ed0f"
+      },
+      "candidates": [
+        {
+          "id": "d138f7a7-71a5-4eea-b30e-ec003e754971",
+          "ordinal": 247,
+          "title": "Fate/Grand Order material 2 ムック",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370524",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "2",
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-0c7c1ec999e04aa90549e9e83c1dec5f",
+          "ordinal": 258,
+          "title": "Fate/Grand Order material VII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370746",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "7",
+          "manufacturer": "",
+          "similarity": 0.941
+        },
+        {
+          "id": "source-30231f0bd15a822d51a60cdb7f4926ad",
+          "ordinal": 259,
+          "title": "Fate/Grand Order material VIII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370760",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "8",
+          "manufacturer": "",
+          "similarity": 0.941
+        },
+        {
+          "id": "source-c80fd1bd4865f204cf3686df9729b0a7",
+          "ordinal": 257,
+          "title": "Fate/Grand Order material VI (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370722",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "6",
+          "manufacturer": "",
+          "similarity": 0.92
+        },
+        {
+          "id": "family-df714c3524167dbf68759030e1b4ac14",
+          "ordinal": 246,
+          "title": "Fate/Grand Order material",
+          "category": "書籍",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.864
+        },
+        {
+          "id": "381a5911-4a34-4a13-a12a-2ced69f8dd0c",
+          "ordinal": 278,
+          "title": "Fate/Grand Order material1",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370531",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "1",
+          "manufacturer": "",
+          "similarity": 0.844
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/Grand Order material II(書籍)",
+        "category": "画集",
+        "kind": "base",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "4560158370524",
+        "wave": "2"
+      },
+      "elapsedMs": 220.74,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P003",
+      "inputHash": "39559df8851b348359fcf2878ec63c628512c2b5789f6a7650db51d3d8fcfd2a",
+      "decision": {
+        "inputFingerprint": "b5cd8611a4d1a0161f15246effb8cec0c1ae086cac416f18a8f6729f3a9b1788",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:MED-BOOK-009096-R",
+        "sourceKeys": [
+          "amiami:MED-BOOK-009096-R"
+        ],
+        "status": "matched",
+        "targetItemId": "aa9bdb1f-c0be-4e5c-9786-5791c5af63b4",
+        "candidateIds": [
+          "aa9bdb1f-c0be-4e5c-9786-5791c5af63b4"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-009096-R",
+            "value": "amiami:MED-BOOK-009096-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-009096-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4560158370548",
+            "value": "4560158370548",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-009096-R",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "产品线与卷号一致（罗马数字/阿拉伯数字统一；版本、出版社、媒介无冲突）",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-05T06:52:18.418Z",
+        "decisionId": "aad0437fd0e1bfc97f1f49bdc71a41ba52673f751ccffad3db873072054889ce"
+      },
+      "candidates": [
+        {
+          "id": "aa9bdb1f-c0be-4e5c-9786-5791c5af63b4",
+          "ordinal": 248,
+          "title": "Fate/Grand Order material 3",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370548",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "3",
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-0c7c1ec999e04aa90549e9e83c1dec5f",
+          "ordinal": 258,
+          "title": "Fate/Grand Order material VII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370746",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "7",
+          "manufacturer": "",
+          "similarity": 0.941
+        },
+        {
+          "id": "source-30231f0bd15a822d51a60cdb7f4926ad",
+          "ordinal": 259,
+          "title": "Fate/Grand Order material VIII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370760",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "8",
+          "manufacturer": "",
+          "similarity": 0.941
+        },
+        {
+          "id": "source-c80fd1bd4865f204cf3686df9729b0a7",
+          "ordinal": 257,
+          "title": "Fate/Grand Order material VI (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370722",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "6",
+          "manufacturer": "",
+          "similarity": 0.92
+        },
+        {
+          "id": "family-df714c3524167dbf68759030e1b4ac14",
+          "ordinal": 246,
+          "title": "Fate/Grand Order material",
+          "category": "書籍",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.864
+        },
+        {
+          "id": "381a5911-4a34-4a13-a12a-2ced69f8dd0c",
+          "ordinal": 278,
+          "title": "Fate/Grand Order material1",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370531",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "1",
+          "manufacturer": "",
+          "similarity": 0.844
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/Grand Order material III (書籍)",
+        "category": "画集",
+        "kind": "base",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "4560158370548",
+        "wave": "3"
+      },
+      "elapsedMs": 217.62,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P004",
+      "inputHash": "3ce3732e3ac89fede6d3f2dbf71e6f01edcff2c0599ea012d3688c918e577e9f",
+      "decision": {
+        "inputFingerprint": "a9a7ae1977699d898345c08c584b62d62aef4c1626fabf3c782cebd28f0d110a",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:MED-BOOK-015843-R",
+        "sourceKeys": [
+          "amiami:MED-BOOK-015843-R"
+        ],
+        "status": "matched",
+        "targetItemId": "source-30231f0bd15a822d51a60cdb7f4926ad",
+        "candidateIds": [
+          "934d08e0-cdb6-434b-a017-067380f03a95",
+          "source-30231f0bd15a822d51a60cdb7f4926ad"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015843-R",
+            "value": "amiami:MED-BOOK-015843-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015843-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4560158370760",
+            "value": "4560158370760",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-015843-R",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整书名及出版社一致；忽略旧自动产品线差异",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "934d08e0-cdb6-434b-a017-067380f03a95",
+            "field": "jan"
+          }
+        ],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-05T06:52:11.686Z",
+        "decisionId": "6a1d9bbf3476f16a3608675c73eda09c15379a3c689e80b27d7e5a94e003aff2"
+      },
+      "candidates": [
+        {
+          "id": "934d08e0-cdb6-434b-a017-067380f03a95",
+          "ordinal": 253,
+          "title": "Fate/Grand Order material 8",
+          "category": "書籍",
+          "productType": null,
+          "isbn": "",
+          "jan": "0400308258798",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "8",
+          "manufacturer": ""
+        },
+        {
+          "id": "source-30231f0bd15a822d51a60cdb7f4926ad",
+          "ordinal": 259,
+          "title": "Fate/Grand Order material VIII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370760",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "8",
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-0c7c1ec999e04aa90549e9e83c1dec5f",
+          "ordinal": 258,
+          "title": "Fate/Grand Order material VII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370746",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "7",
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-30231f0bd15a822d51a60cdb7f4926ad",
+          "ordinal": 259,
+          "title": "Fate/Grand Order material VIII (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370760",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "8",
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-c80fd1bd4865f204cf3686df9729b0a7",
+          "ordinal": 257,
+          "title": "Fate/Grand Order material VI (書籍)",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370722",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "6",
+          "manufacturer": "",
+          "similarity": 0.98
+        },
+        {
+          "id": "family-df714c3524167dbf68759030e1b4ac14",
+          "ordinal": 246,
+          "title": "Fate/Grand Order material",
+          "category": "書籍",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.844
+        },
+        {
+          "id": "381a5911-4a34-4a13-a12a-2ced69f8dd0c",
+          "ordinal": 278,
+          "title": "Fate/Grand Order material1",
+          "category": "画集",
+          "productType": null,
+          "isbn": "",
+          "jan": "4560158370531",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "1",
+          "manufacturer": "",
+          "similarity": 0.826
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/Grand Order material VIII (書籍)",
+        "category": "画集",
+        "kind": "base",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "4560158370760",
+        "wave": "8"
+      },
+      "elapsedMs": 216.01,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P005",
+      "inputHash": "ce80b9e4ba67c340cb7d9f74b8e1d1e137ce1ece7a03e909a6920d991f202e36",
+      "decision": {
+        "inputFingerprint": "b688bf3f6abdc6d6d0f9e89a47f252c712cdb623eb9d5c0bb279cc89f16fb8fa",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/WK13678:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/WK13678:main"
+        ],
+        "status": "matched",
+        "targetItemId": "99580aa8-c85e-44ee-90d1-38be2b146bc8",
+        "candidateIds": [
+          "99580aa8-c85e-44ee-90d1-38be2b146bc8",
+          "member-1bl4yl3"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/WK13678",
+            "value": "surugaya:/product/detail/WK13678:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/WK13678",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "9784065436097",
+            "value": "9784065436097",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.suruga-ya.jp/product/detail/WK13678",
+            "scope": "physical-edition",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "ISBN 一致且组件、版本无冲突",
+            "value": "ISBN_EDITION",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "member-1bl4yl3",
+            "field": "component"
+          },
+          {
+            "itemId": "member-1bl4yl3",
+            "field": "saleForm"
+          }
+        ],
+        "reasonCodes": [
+          "ISBN_EDITION"
+        ],
+        "confidenceTier": "identifier",
+        "observedAt": "2026-10-05T07:15:02.317Z",
+        "decisionId": "17f247e3ef4a00fd4f7b8bde829780c5fb0f9322afdc53da40c34722cb4f7991"
+      },
+      "candidates": [
+        {
+          "id": "99580aa8-c85e-44ee-90d1-38be2b146bc8",
+          "ordinal": 403,
+          "title": "Fate/Grand Order-turas realta- 1~22巻セット / カワグチタケシ",
+          "category": "コミック",
+          "productType": null,
+          "isbn": "",
+          "jan": "9784065436097",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": ""
+        },
+        {
+          "id": "member-1bl4yl3",
+          "ordinal": 407,
+          "title": "Fate/Grand Order-turas realta- 22",
+          "category": "コミック",
+          "productType": null,
+          "isbn": "9784065436097",
+          "jan": "9784065436097",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "22",
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "99580aa8-c85e-44ee-90d1-38be2b146bc8",
+          "ordinal": 403,
+          "title": "Fate/Grand Order-turas realta- 1~22巻セット / カワグチタケシ",
+          "category": "コミック",
+          "productType": null,
+          "isbn": "",
+          "jan": "9784065436097",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "member-15hguto",
+          "ordinal": 404,
+          "title": "Fate/Grand Order-turas realta- 16",
+          "category": "コミック",
+          "productType": null,
+          "isbn": "9784065338827",
+          "jan": "9784065338827",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "16",
+          "manufacturer": "",
+          "similarity": 0.771
+        },
+        {
+          "id": "member-1bl4yl3",
+          "ordinal": 407,
+          "title": "Fate/Grand Order-turas realta- 22",
+          "category": "コミック",
+          "productType": null,
+          "isbn": "9784065436097",
+          "jan": "9784065436097",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "22",
+          "manufacturer": "",
+          "similarity": 0.771
+        },
+        {
+          "id": "family-b2dccdb61ccca484a2b9ee8fd58317f1",
+          "ordinal": 402,
+          "title": "Fate/Grand Order-turas realta-",
+          "category": "コミック",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.765
+        },
+        {
+          "id": "member-1bv4ka2",
+          "ordinal": 406,
+          "title": "Fate/Grand Order-turas realta- 21",
+          "category": "コミック",
+          "productType": null,
+          "isbn": "9784065418932",
+          "jan": "9784065418932",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "21",
+          "manufacturer": "",
+          "similarity": 0.743
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/Grand Order-turas realta- 1~22巻セット / カワグチタケシ",
+        "category": "セット",
+        "kind": "set",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "9784065436097"
+      },
+      "elapsedMs": 237.79,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P006",
+      "inputHash": "8034380b27223cf9248327fb99fb67be9ea45d055412f96e86cd8e3128e69a4d",
+      "decision": {
+        "inputFingerprint": "6c3bffa53edd7b141038c885ebaf8137908376db94a7ad4004e28b651ad5f47d",
+        "rulesVersion": 23,
+        "sourceKey": "mandarake:1349900668?dispCount=240&keyword=Fate&soldOut=1",
+        "sourceKeys": [
+          "mandarake:1349900668?dispCount=240&keyword=Fate&soldOut=1"
+        ],
+        "status": "matched",
+        "targetItemId": "source-d81f353cbcc4d07401995374dfe0747a",
+        "candidateIds": [
+          "source-d81f353cbcc4d07401995374dfe0747a"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900668&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+            "value": "mandarake:1349900668?dispCount=240&keyword=Fate&soldOut=1",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900668&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "已核对的发行系列与款式编号一致",
+            "value": "SCOPED_CATALOGUE",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_CATALOGUE"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:42:12.737Z",
+        "decisionId": "881bd934656a687bb04161bb7ba3bf7e14cfe5f5443a4bc273a966dac4ab87ef"
+      },
+      "candidates": [
+        {
+          "id": "source-d81f353cbcc4d07401995374dfe0747a",
+          "ordinal": 10130,
+          "title": "FGOウエハース 14弾/2821300 ダンテ・アリギエーリ【SR】 30",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-d81f353cbcc4d07401995374dfe0747a",
+          "ordinal": 10130,
+          "title": "FGOウエハース 14弾/2821300 ダンテ・アリギエーリ【SR】 30",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 1
+        },
+        {
+          "id": "source-0ae6211e89fe08cb3351a125060964ed",
+          "ordinal": 10132,
+          "title": "FGOウエハース 14弾/2821300 巌窟王 モンテ・クリスト【SR】 27",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.676
+        },
+        {
+          "id": "28dcc24e-015e-4568-a36b-7cb1dd98991b",
+          "ordinal": 10133,
+          "title": "FGOウエハース 14弾/2821300 呼延灼【N】 8",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.621
+        },
+        {
+          "id": "source-57edd68e7c52383280399ebef5af6164",
+          "ordinal": 10134,
+          "title": "FGOウエハース 14弾/2821300 両儀式【TM】 22",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.6
+        },
+        {
+          "id": "a0d0ce89-f827-40b3-a8d7-72df94f7de62",
+          "ordinal": 10131,
+          "title": "FGOウエハース 14弾/2821300 ネモ(サンタ)【N】 6",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.581
+        }
+      ],
+      "inputFacts": {
+        "title": "FGOウエハース 14弾/2821300 ダンテ・アリギエーリ【SR】 30",
+        "category": "トレーディングカード",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "",
+        "wave": "14"
+      },
+      "elapsedMs": 223.23,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P007",
+      "inputHash": "81055dfe3a2147521298d6200d6e5a543a2c20d9537db69af19bce663b34457c",
+      "decision": {
+        "inputFingerprint": "ea972de87e63c57b38d8e2d2501ffef81d3db06b64be6e081e6b7f0ebf4195b9",
+        "rulesVersion": 23,
+        "sourceKey": "mandarake:1349900577?dispCount=240&keyword=Fate&soldOut=1",
+        "sourceKeys": [
+          "mandarake:1349900577?dispCount=240&keyword=Fate&soldOut=1"
+        ],
+        "status": "matched",
+        "targetItemId": "source-ac98783a04b8f68f417e02a00e3ca3e1",
+        "candidateIds": [
+          "source-ac98783a04b8f68f417e02a00e3ca3e1"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900577&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+            "value": "mandarake:1349900577?dispCount=240&keyword=Fate&soldOut=1",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900577&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "已核对的发行系列与款式编号一致",
+            "value": "SCOPED_CATALOGUE",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_CATALOGUE"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:42:12.737Z",
+        "decisionId": "4b948151fc6ceb299d1b75701ef6fafb65f91e3a82300d455793dedcbdcce017"
+      },
+      "candidates": [
+        {
+          "id": "source-ac98783a04b8f68f417e02a00e3ca3e1",
+          "ordinal": 13634,
+          "title": "フェイトグランドオーダーウエハース 6弾/2468675 メルトリリス【SSR】 25",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "6",
+          "manufacturer": "万代 BANDAI"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-ac98783a04b8f68f417e02a00e3ca3e1",
+          "ordinal": 13634,
+          "title": "フェイトグランドオーダーウエハース 6弾/2468675 メルトリリス【SSR】 25",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "6",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 1
+        },
+        {
+          "id": "acd91acf-640b-4f53-aa9b-f80ea1606cab",
+          "ordinal": 13620,
+          "title": "フェイトグランドオーダーウエハース 3弾/2435058 トリスタン 2",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "3",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.592
+        },
+        {
+          "id": "e9885ce1-d667-4769-8715-a47c5803199a",
+          "ordinal": 13643,
+          "title": "フェイトグランドオーダーウエハース 8弾/2527205 蘭陵王 2",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "8",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.551
+        },
+        {
+          "id": "source-51d43b2903a022ea2e5dee5fbb015c9c",
+          "ordinal": 13640,
+          "title": "フェイトグランドオーダーウエハース 8弾/2527205 赤兎馬 7",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "8",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.551
+        },
+        {
+          "id": "source-703eca12b4bcf2334ecbeaecbbc4371c",
+          "ordinal": 13639,
+          "title": "フェイトグランドオーダーウエハース 8弾/2527205 項羽 19",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "8",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.551
+        }
+      ],
+      "inputFacts": {
+        "title": "フェイトグランドオーダーウエハース 6弾/2468675 メルトリリス【SSR】 25",
+        "category": "トレーディングカード",
+        "kind": "unknown",
+        "series": "Fate",
+        "isbn": "",
+        "jan": "",
+        "wave": "6"
+      },
+      "elapsedMs": 230.17,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P008",
+      "inputHash": "a57a9f108e092f024fb738d45c56db2a4365fcb530e98be4efa684bf483cbea5",
+      "decision": {
+        "inputFingerprint": "b990f157c13a92de6d710489253f3d9685dd24bfb52aac05ac7b2496f45f23f6",
+        "rulesVersion": 23,
+        "sourceKey": "mandarake:1349900460?dispCount=240&keyword=Fate&soldOut=1",
+        "sourceKeys": [
+          "mandarake:1349900460?dispCount=240&keyword=Fate&soldOut=1"
+        ],
+        "status": "matched",
+        "targetItemId": "source-57edd68e7c52383280399ebef5af6164",
+        "candidateIds": [
+          "source-57edd68e7c52383280399ebef5af6164"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900460&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+            "value": "mandarake:1349900460?dispCount=240&keyword=Fate&soldOut=1",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900460&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "已核对的发行系列与款式编号一致",
+            "value": "SCOPED_CATALOGUE",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_CATALOGUE"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:42:12.737Z",
+        "decisionId": "1f1223d7235d2babc8ffc77c8ac0a1054fce5347a32b6b2b293315af301ee85e"
+      },
+      "candidates": [
+        {
+          "id": "source-57edd68e7c52383280399ebef5af6164",
+          "ordinal": 10134,
+          "title": "FGOウエハース 14弾/2821300 両儀式【TM】 22",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-57edd68e7c52383280399ebef5af6164",
+          "ordinal": 10134,
+          "title": "FGOウエハース 14弾/2821300 両儀式【TM】 22",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 1
+        },
+        {
+          "id": "28dcc24e-015e-4568-a36b-7cb1dd98991b",
+          "ordinal": 10133,
+          "title": "FGOウエハース 14弾/2821300 呼延灼【N】 8",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.692
+        },
+        {
+          "id": "a0d0ce89-f827-40b3-a8d7-72df94f7de62",
+          "ordinal": 10131,
+          "title": "FGOウエハース 14弾/2821300 ネモ(サンタ)【N】 6",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.643
+        },
+        {
+          "id": "source-0ae6211e89fe08cb3351a125060964ed",
+          "ordinal": 10132,
+          "title": "FGOウエハース 14弾/2821300 巌窟王 モンテ・クリスト【SR】 27",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.613
+        },
+        {
+          "id": "source-d81f353cbcc4d07401995374dfe0747a",
+          "ordinal": 10130,
+          "title": "FGOウエハース 14弾/2821300 ダンテ・アリギエーリ【SR】 30",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "14",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.6
+        }
+      ],
+      "inputFacts": {
+        "title": "FGOウエハース 14弾/2821300 両儀式【TM】 22",
+        "category": "トレーディングカード",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "",
+        "wave": "14"
+      },
+      "elapsedMs": 203.41,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P009",
+      "inputHash": "c1ce1962c6286f73db47999b2e0388a4012ee69fab662c687817f668e8a0e203",
+      "decision": {
+        "inputFingerprint": "ac4ddc392d2c527d67f94dce24b3dd268be257313d10b7ef5287a19c314a247f",
+        "rulesVersion": 23,
+        "sourceKey": "mandarake:1110268223?dispCount=240&keyword=Fate&soldOut=1",
+        "sourceKeys": [
+          "mandarake:1110268223?dispCount=240&keyword=Fate&soldOut=1"
+        ],
+        "status": "matched",
+        "targetItemId": "113340e7-a0ca-4019-840a-ba6382a201df",
+        "candidateIds": [
+          "113340e7-a0ca-4019-840a-ba6382a201df"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1110268223&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+            "value": "mandarake:1110268223?dispCount=240&keyword=Fate&soldOut=1",
+            "source": "Mandarake",
+            "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1110268223&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "已核对的发行系列与款式编号一致",
+            "value": "SCOPED_CATALOGUE",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_CATALOGUE"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:42:48.540Z",
+        "decisionId": "d65a2d84579bf7534f6e1879003d97c981bf7d29d26416060dbfb1c3bbaf7489"
+      },
+      "candidates": [
+        {
+          "id": "113340e7-a0ca-4019-840a-ba6382a201df",
+          "ordinal": 13611,
+          "title": "フェイトグランドオーダーウエハース 2452765/5弾 エリザベート・バートリー〔ブレイブ〕 13",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "5",
+          "manufacturer": "万代 BANDAI"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "113340e7-a0ca-4019-840a-ba6382a201df",
+          "ordinal": 13611,
+          "title": "フェイトグランドオーダーウエハース 2452765/5弾 エリザベート・バートリー〔ブレイブ〕 13",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "5",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 1
+        },
+        {
+          "id": "3beea537-a4fd-4153-8f98-69de75fff6a1",
+          "ordinal": 13612,
+          "title": "フェイトグランドオーダーウエハース 2452765/5弾 刑部姫 18",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "5",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.684
+        },
+        {
+          "id": "ef34f5fc-0b3f-4085-9b68-c4e953befda0",
+          "ordinal": 13610,
+          "title": "フェイトグランドオーダーウエハース 2452765/5弾 ☆茶々 12",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "5",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.684
+        },
+        {
+          "id": "ac18bb61-84a6-4703-929e-77e3d715293d",
+          "ordinal": 13632,
+          "title": "フェイトグランドオーダーウエハース 5弾/2452765 ブーディカ 6",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "5",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.597
+        },
+        {
+          "id": "source-3bf734db5285a564335fa325eb9572ea",
+          "ordinal": 13633,
+          "title": "フェイトグランドオーダーウエハース 5弾/2452765 ロビンフッド 14",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "5",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.582
+        }
+      ],
+      "inputFacts": {
+        "title": "フェイトグランドオーダーウエハース 2452765/5弾 エリザベート・バートリー〔ブレイブ〕 13",
+        "category": "トレーディングカード",
+        "kind": "unknown",
+        "series": "Fate",
+        "isbn": "",
+        "jan": "",
+        "wave": "5"
+      },
+      "elapsedMs": 238.45,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P010",
+      "inputHash": "d5fcba18b052ab2bd18e2b2340d6b5efe6bb3a013bd8ccfedf16b7a28021fc40",
+      "decision": {
+        "inputFingerprint": "d0d51d8d563ca6e57fa32ae5e14677082e71ba9df9be9ca68568f66286967b1f",
+        "rulesVersion": 23,
+        "sourceKey": "mercari:/item/m29853131899",
+        "sourceKeys": [
+          "mercari:/item/m29853131899"
+        ],
+        "status": "matched",
+        "targetItemId": "source-fdc71a5be52469031c0a6c4a3bd7376e",
+        "candidateIds": [
+          "source-fdc71a5be52469031c0a6c4a3bd7376e"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://jp.mercari.com/item/m29853131899",
+            "value": "mercari:/item/m29853131899",
+            "source": "Mercari",
+            "url": "https://jp.mercari.com/item/m29853131899",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:51:48.696Z",
+        "decisionId": "683026aca225472c38f87a6e6a71dc194613183357dcff9ba4c6ca30b5bd7551"
+      },
+      "candidates": [
+        {
+          "id": "source-fdc71a5be52469031c0a6c4a3bd7376e",
+          "ordinal": 6140,
+          "title": "Fate ウエハース カード クー・フーリン",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "",
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-fdc71a5be52469031c0a6c4a3bd7376e",
+          "ordinal": 6140,
+          "title": "Fate ウエハース カード クー・フーリン",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-e553e5f3a814ecb7ef5f715afb243e5a",
+          "ordinal": 6141,
+          "title": "Fate エミヤ ウエハースカード",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.625
+        },
+        {
+          "id": "catalogue-d3b968f2307aa1a602488edb52cf7dde",
+          "ordinal": 8878,
+          "title": "Fate/Grand Orderウエハース No.23 クー・フーリン",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "1",
+          "manufacturer": "万代 BANDAI",
+          "similarity": 0.531
+        },
+        {
+          "id": "source-b4e7f9c1ff323dd89e186829d059403e",
+          "ordinal": 6143,
+          "title": "Fate カドック ベリル ウエハースカードセット",
+          "category": "セット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.513
+        },
+        {
+          "id": "source-c9ce059a665c8efd2a0c851efc012031",
+          "ordinal": 8279,
+          "title": "Fate/Grand Order カード クー・フーリン(オルタ)",
+          "category": "",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.511
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate ウエハース カード クー・フーリン",
+        "category": "トレーディングカード",
+        "kind": "unknown",
+        "series": "Fate",
+        "isbn": "",
+        "jan": "",
+        "wave": ""
+      },
+      "elapsedMs": 193.62,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P011",
+      "inputHash": "a7c3353815171ba5103d3b9ba832a4dbfa435f51bbe7e31e9052947cc3302784",
+      "decision": {
+        "inputFingerprint": "2914bc2af016913f521ee6d6a2e94a944b3dd82b41a7e1368c56d99125907ee9",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/107000643:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/107000643:main"
+        ],
+        "status": "ambiguous",
+        "candidateIds": [
+          "source-2e0fef6c61ceaa2c0bc9d4501e7b9fc1",
+          "source-4944cd6506cf1882558c9626a736fd90",
+          "source-c058bb7427eedc21bc50926eec9ad3ad"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/other/107000643",
+            "value": "surugaya:/product/detail/107000643:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/other/107000643",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "MULTIPLE_RELIABLE_TARGETS"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-06T01:53:10.959Z",
+        "decisionId": "0447de6283fe15541242b953e64c4b5cc7a8c02723b9382df899cfa9c5c58961"
+      },
+      "candidates": [
+        {
+          "id": "source-2e0fef6c61ceaa2c0bc9d4501e7b9fc1",
+          "ordinal": 6278,
+          "title": "Fate/EXTELLA [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302656",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス"
+        },
+        {
+          "id": "source-4944cd6506cf1882558c9626a736fd90",
+          "ordinal": 6279,
+          "title": "Fate/EXTELLA [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302571",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス"
+        },
+        {
+          "id": "source-c058bb7427eedc21bc50926eec9ad3ad",
+          "ordinal": 6280,
+          "title": "Fate/EXTELLA [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302564",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-2e0fef6c61ceaa2c0bc9d4501e7b9fc1",
+          "ordinal": 6278,
+          "title": "Fate/EXTELLA [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302656",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 1
+        },
+        {
+          "id": "source-4944cd6506cf1882558c9626a736fd90",
+          "ordinal": 6279,
+          "title": "Fate/EXTELLA [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302571",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 1
+        },
+        {
+          "id": "source-c058bb7427eedc21bc50926eec9ad3ad",
+          "ordinal": 6280,
+          "title": "Fate/EXTELLA [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302564",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 1
+        },
+        {
+          "id": "source-d12f35fb25fd3a049374cba8cf54eee5",
+          "ordinal": 6359,
+          "title": "Fate/EXTRA [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506301215",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラスエンタテイメント",
+          "similarity": 0.828
+        },
+        {
+          "id": "8bcf403a-5092-4e0f-8bf9-31406825a7d4",
+          "ordinal": 6288,
+          "title": "Fate/EXTELLA LINK [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302779",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.824
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/EXTELLA [通常版]",
+        "category": "ゲームソフト",
+        "kind": "unknown",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 187.13,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P012",
+      "inputHash": "553f5ac9c37088334e75edcb9205f1a457641c193c4a4e0c93d04c73b37f133a",
+      "decision": {
+        "inputFingerprint": "b6f86792a6af3dfcba5f5b1f4cecce8e5477f78da07c02d0f24aac8ccdbd1c95",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/109000022:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/109000022:main"
+        ],
+        "status": "matched",
+        "targetItemId": "source-9d381d8f543e1d6cdd961f532937271c",
+        "candidateIds": [
+          "source-9d381d8f543e1d6cdd961f532937271c"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/other/109000022",
+            "value": "surugaya:/product/detail/109000022:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/other/109000022",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:53:04.498Z",
+        "decisionId": "8da451ea6a3a1eaa8b3ecb15439e154a2df596145609e4204abfebb05b650c84"
+      },
+      "candidates": [
+        {
+          "id": "source-9d381d8f543e1d6cdd961f532937271c",
+          "ordinal": 6286,
+          "title": "Fate/EXTELLA LIMITED BOX [限定版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-9d381d8f543e1d6cdd961f532937271c",
+          "ordinal": 6286,
+          "title": "Fate/EXTELLA LIMITED BOX [限定版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "5860adb1-13d2-42e6-9c2b-cf6109336d4a",
+          "ordinal": 6313,
+          "title": "Fate/EXTELLA REGALIA BOX",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302540",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.636
+        },
+        {
+          "id": "source-92943227ca3edcf56cc0876e4fab9c95",
+          "ordinal": 6314,
+          "title": "Fate/EXTELLA REGALIA BOX",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302557",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.636
+        },
+        {
+          "id": "526488a1-004e-4456-95a1-b10f444bad3c",
+          "ordinal": 6287,
+          "title": "Fate/EXTELLA LINK",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302915",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.632
+        },
+        {
+          "id": "115deb04-1006-4b00-ba43-6284953d2b39",
+          "ordinal": 6304,
+          "title": "Fate/EXTELLA LINK プレミアム限定版",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302762",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.609
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/EXTELLA LIMITED BOX [限定版]",
+        "category": "ゲームソフト",
+        "kind": "set",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 203.25,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P013",
+      "inputHash": "d5d19f4c4c7748b8a4a184e75ade3ea24356113db840263e0b0cef3f0638cf6f",
+      "decision": {
+        "inputFingerprint": "0ba8d975473b46ab085313699f501a4b9c65e6c67a32dd9bd8f06346540ef4bd",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/107001683:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/107001683:main"
+        ],
+        "status": "matched",
+        "targetItemId": "115deb04-1006-4b00-ba43-6284953d2b39",
+        "candidateIds": [
+          "115deb04-1006-4b00-ba43-6284953d2b39",
+          "source-f36b99cf0321a137d3ad11ba71b28cc8"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/107001683",
+            "value": "surugaya:/product/detail/107001683:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/107001683",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4535506302762",
+            "value": "4535506302762",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.suruga-ya.jp/product/detail/107001683",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "JAN 一致且组件、版本无冲突",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [
+          {
+            "itemId": "source-f36b99cf0321a137d3ad11ba71b28cc8",
+            "field": "jan"
+          }
+        ],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:52:34.142Z",
+        "decisionId": "00ea5cde65b4ef5a4b9483a4156b82e8c53c365534baddedb4e2641d7b4ad5cf"
+      },
+      "candidates": [
+        {
+          "id": "115deb04-1006-4b00-ba43-6284953d2b39",
+          "ordinal": 6304,
+          "title": "Fate/EXTELLA LINK プレミアム限定版",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302762",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス"
+        },
+        {
+          "id": "source-f36b99cf0321a137d3ad11ba71b28cc8",
+          "ordinal": 6305,
+          "title": "Fate/EXTELLA LINK プレミアム限定版",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302786",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "115deb04-1006-4b00-ba43-6284953d2b39",
+          "ordinal": 6304,
+          "title": "Fate/EXTELLA LINK プレミアム限定版",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302762",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.913
+        },
+        {
+          "id": "source-f36b99cf0321a137d3ad11ba71b28cc8",
+          "ordinal": 6305,
+          "title": "Fate/EXTELLA LINK プレミアム限定版",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302786",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.913
+        },
+        {
+          "id": "8bcf403a-5092-4e0f-8bf9-31406825a7d4",
+          "ordinal": 6288,
+          "title": "Fate/EXTELLA LINK [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302779",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.744
+        },
+        {
+          "id": "source-e669525b872eabfa7e799a8aca0809b3",
+          "ordinal": 6289,
+          "title": "Fate/EXTELLA LINK [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.744
+        },
+        {
+          "id": "526488a1-004e-4456-95a1-b10f444bad3c",
+          "ordinal": 6287,
+          "title": "Fate/EXTELLA LINK",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302915",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.737
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/EXTELLA LINK[プレミアム限定版]",
+        "category": "ゲームソフト",
+        "kind": "set",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": "4535506302762"
+      },
+      "elapsedMs": 201.58,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P014",
+      "inputHash": "d11cc7dcbd8fe8ebf849f82ffd295cbed3cb59703c2602195b86beadf6e503d4",
+      "decision": {
+        "inputFingerprint": "3d22c773427b7171367cf36ffaede93f9fc52041befee9abdc0126f2009ec5a0",
+        "rulesVersion": 23,
+        "sourceKey": "yahoo-auction:/jp/auction/h1247177232",
+        "sourceKeys": [
+          "yahoo-auction:/jp/auction/h1247177232"
+        ],
+        "status": "matched",
+        "targetItemId": "source-1eeea0dd8f471ab13e4772a429d1b705",
+        "candidateIds": [
+          "source-1eeea0dd8f471ab13e4772a429d1b705"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://auctions.yahoo.co.jp/jp/auction/h1247177232",
+            "value": "yahoo-auction:/jp/auction/h1247177232",
+            "source": "Yahoo 拍卖",
+            "url": "https://auctions.yahoo.co.jp/jp/auction/h1247177232",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:40:58.333Z",
+        "decisionId": "368f1e2d16a903063dbfce43b30316217ff481060cdb5a13a8e123fc917e9bf4"
+      },
+      "candidates": [
+        {
+          "id": "source-1eeea0dd8f471ab13e4772a429d1b705",
+          "ordinal": 6303,
+          "title": "Fate/EXTELLA LINK フェイト エクステラリンク 限定版特典 スカサハ着用衣装「魔境のサージェント」コード PS4 Vita",
+          "category": "",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-1eeea0dd8f471ab13e4772a429d1b705",
+          "ordinal": 6303,
+          "title": "Fate/EXTELLA LINK フェイト エクステラリンク 限定版特典 スカサハ着用衣装「魔境のサージェント」コード PS4 Vita",
+          "category": "",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "1c17d567-8476-4122-adde-2e3ac3324f31",
+          "ordinal": 10648,
+          "title": "PS4 Fate/EXTELLA LINK(フェイト/エクステラ リンク) 通常版 通常版",
+          "category": "",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.542
+        },
+        {
+          "id": "source-9319c5f9c99851201521cf2322aa7ce8",
+          "ordinal": 6298,
+          "title": "Fate/EXTELLA LINK スカサハ 魔境のサージェント 1/7 完成品フィギュア",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.51
+        },
+        {
+          "id": "source-c3761dc45350e06fb856b9081f91a85d",
+          "ordinal": 10647,
+          "title": "PS4 Fate EXTELLA LINK Fate/EXTELLA エクステラ セット",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.46
+        },
+        {
+          "id": "source-516e81f261b41897bee3c4a8e7cf9a4d",
+          "ordinal": 3518,
+          "title": "【限定販売】Fate/EXTELLA LINK スカサハ 魔境のサージェント 1/7 完成品フィギュア[あみあみ×AMAKUNI]《発売済・在庫品》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4981932515960",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "あみあみ×AMAKUNI",
+          "similarity": 0.444
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/EXTELLA LINK フェイト エクステラリンク 限定版特典 スカサハ着用衣装「魔境のサージェント」コード PS4 Vita",
+        "category": "",
+        "kind": "unknown",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 282.55,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P015",
+      "inputHash": "f9378933d1940ff5bb38ef8b8a343b9730733173f9954d4b288e3868661032bb",
+      "decision": {
+        "inputFingerprint": "aa6687ebe55a614c3b83896273102d64ca3d5fa1d41c8716d75069fe8d4040eb",
+        "rulesVersion": 23,
+        "sourceKey": "mercari:/item/m27190268962",
+        "sourceKeys": [
+          "mercari:/item/m27190268962"
+        ],
+        "status": "unmatched",
+        "candidateIds": [],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://jp.mercari.com/item/m27190268962",
+            "value": "mercari:/item/m27190268962",
+            "source": "Mercari",
+            "url": "https://jp.mercari.com/item/m27190268962",
+            "scope": "listing",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "NO_CANDIDATES"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-30T01:24:35.222Z",
+        "decisionId": "818e50b32f8e08a60612453ac9f99fdd881765c8078af7e5ad80e97b619c3963"
+      },
+      "candidates": [],
+      "textNeighbours": [
+        {
+          "id": "ccc30e88-f38a-48d7-a854-48d8c3eb084c",
+          "ordinal": 6309,
+          "title": "Fate/EXTELLA LINK 購入特典タペストリー トレーダー",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "bonus",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.593
+        },
+        {
+          "id": "source-4e750854030de3fe1c49d16efab5a688",
+          "ordinal": 13984,
+          "title": "ムービック タペストリー Fate/EXTELLA ビッグタペストリー カルナ",
+          "category": "",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.577
+        },
+        {
+          "id": "source-e821878efa15202c5c1ebd0cf67bf1c3",
+          "ordinal": 6274,
+          "title": "Fate/EXTELLA",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.571
+        },
+        {
+          "id": "source-6f9e608df09a1728585ee9f23196715f",
+          "ordinal": 6387,
+          "title": "Fate/EXTRA Last Encore タペストリー",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.531
+        },
+        {
+          "id": "526488a1-004e-4456-95a1-b10f444bad3c",
+          "ordinal": 6287,
+          "title": "Fate/EXTELLA LINK",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302915",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.513
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/EXTELLA あみあみ 予約特典A3タペストリー",
+        "category": "グッズ",
+        "kind": "bonus",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 203.26,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P016",
+      "inputHash": "510a815761eb1a19692a6d83500bdcfa029231fc8760178b17812fed6ba39ea2",
+      "decision": {
+        "inputFingerprint": "ac097364d5419cd1a815a1204c9753a40a6cd36bc8d4f7ed59c5d1d3651bd066",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:FIGURE-048263-R",
+        "sourceKeys": [
+          "amiami:FIGURE-048263-R"
+        ],
+        "status": "matched",
+        "targetItemId": "source-0de9e7a2a2b817ab2f7a016f034a2764",
+        "candidateIds": [
+          "source-0de9e7a2a2b817ab2f7a016f034a2764"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-048263-R",
+            "value": "amiami:FIGURE-048263-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-048263-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4580416941136",
+            "value": "4580416941136",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-048263-R",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "JAN 一致且组件、版本无冲突",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:58:16.801Z",
+        "decisionId": "02f252c58b4198bc2f158ac93bbbad5ebf0baf7e17eceb0d8dc8637f7ca69597"
+      },
+      "candidates": [
+        {
+          "id": "source-0de9e7a2a2b817ab2f7a016f034a2764",
+          "ordinal": 8455,
+          "title": "Fate/Grand Order セイバー/アルトリア・ペンドラゴン 英霊正装Ver. 1/7 完成品フィギュア[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580416941136",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-0de9e7a2a2b817ab2f7a016f034a2764",
+          "ordinal": 8455,
+          "title": "Fate/Grand Order セイバー/アルトリア・ペンドラゴン 英霊正装Ver. 1/7 完成品フィギュア[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580416941136",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 1
+        },
+        {
+          "id": "source-05715f056f0797793cda32589a2cba47",
+          "ordinal": 8464,
+          "title": "Fate/Grand Order セイバー/アルトリア・ペンドラゴン〔オルタ〕 英霊旅装Ver. 1/7 完成品フィギュア[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580416942997",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.916
+        },
+        {
+          "id": "source-7e59506d225fc13e450e98cda5dffc3b",
+          "ordinal": 8637,
+          "title": "Fate/Grand Order ランサー/アルトリア・ペンドラゴン 1/8 完成品フィギュア[グッドスマイルカンパニー]【送料無料】《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580416940689",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.824
+        },
+        {
+          "id": "source-09eca3a233b6b75053dd1c1b9031d1a4",
+          "ordinal": 8483,
+          "title": "Fate/Grand Order セイバー/沖田総司 最終再臨Ver. 1/7 完成品フィギュア[グッドスマイルカンパニー]【送料無料】《11月予約》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580828664104",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.78
+        },
+        {
+          "id": "source-1ac0408ed2811f2fc252f6c103da10f9",
+          "ordinal": 10624,
+          "title": "POP UP PARADE Fate/Grand Order セイバー/アルトリア・ペンドラゴン[リリィ] 第二再臨 完成品フィギュア[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580416941372",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.776
+        }
+      ],
+      "inputFacts": {
+        "title": "【中古】(本体A/箱B)Fate/Grand Order セイバー/アルトリア・ペンドラゴン 英霊正装Ver. 1/7 完成品フィギュア[グッドスマイルカンパニー]《発売済・在庫品》",
+        "category": "フィギュア",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "4580416941136"
+      },
+      "elapsedMs": 279.71,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P017",
+      "inputHash": "fc98b749b83ed68672c32ee3adc65d86e6f749db74711b3dee4e62371fe98d6c",
+      "decision": {
+        "inputFingerprint": "ae19f9d6d639b8bde3b06851e153fa5466a447aed10592aa89e4cf760cf9267f",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:FIGURE-140121-R",
+        "sourceKeys": [
+          "amiami:FIGURE-140121-R"
+        ],
+        "status": "matched",
+        "targetItemId": "source-56b0c4b45add06f03b8bdb629d17f0fc",
+        "candidateIds": [
+          "source-56b0c4b45add06f03b8bdb629d17f0fc"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-140121-R",
+            "value": "amiami:FIGURE-140121-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-140121-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4545784068281",
+            "value": "4545784068281",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-140121-R",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "JAN 一致且组件、版本无冲突",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:58:44.619Z",
+        "decisionId": "0176381038c843f6755fe88cbf38f646634fa7d738cdc68a10ae294d2d728ff2"
+      },
+      "candidates": [
+        {
+          "id": "source-56b0c4b45add06f03b8bdb629d17f0fc",
+          "ordinal": 3573,
+          "title": "【限定販売】figma Fate/Grand Order ランサー/アルトリア・ペンドラゴン DX Edition[マックスファクトリー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4545784068281",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "マックスファクトリー"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-56b0c4b45add06f03b8bdb629d17f0fc",
+          "ordinal": 3573,
+          "title": "【限定販売】figma Fate/Grand Order ランサー/アルトリア・ペンドラゴン DX Edition[マックスファクトリー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4545784068281",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "マックスファクトリー",
+          "similarity": 0.949
+        },
+        {
+          "id": "source-c6f46b311a25d119cdc78653a8cfa0a6",
+          "ordinal": 10287,
+          "title": "figma Fate/Grand Order ランサー/アルトリア・ペンドラゴン[マックスファクトリー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4545784068274",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "マックスファクトリー",
+          "similarity": 0.893
+        },
+        {
+          "id": "source-ca8f8563ecdddca5fae71ed3823c5dd9",
+          "ordinal": 8636,
+          "title": "Fate/Grand Order ランサー アルトリア・ペンドラゴン DX Edition フィギュア",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "Max Factory",
+          "similarity": 0.76
+        },
+        {
+          "id": "source-d14859e76feb8cf6c586957b364365d5",
+          "ordinal": 10271,
+          "title": "figma Fate/Grand Order セイバー/アルトリア・ペンドラゴン〔オルタ〕新宿ver.[マックスファクトリー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4545784065761",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "マックスファクトリー",
+          "similarity": 0.743
+        },
+        {
+          "id": "source-0455aa10916147ca9773f97d597ff8a2",
+          "ordinal": 10289,
+          "title": "figma Fate/Grand Order ランサー/スカサハ[マックスファクトリー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4545784065297",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "マックスファクトリー",
+          "similarity": 0.729
+        }
+      ],
+      "inputFacts": {
+        "title": "【中古】(本体A/箱B)figma Fate/Grand Order ランサー/アルトリア・ペンドラゴン DX Edition[マックスファクトリー]《発売済・在庫品》",
+        "category": "フィギュア",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "4545784068281"
+      },
+      "elapsedMs": 272.68,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P018",
+      "inputHash": "a18776d135a2981e34bc4efb207cbcd0ecff2f98f4bbffec5e0b950906a3942a",
+      "decision": {
+        "inputFingerprint": "a5f9ff78e190d7f08719914e32c223d6562f4b07ffea81624f056712207b999a",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:FIGURE-183273-R",
+        "sourceKeys": [
+          "amiami:FIGURE-183273-R"
+        ],
+        "status": "matched",
+        "targetItemId": "source-cd66a26961bce028097c5b295fde0484",
+        "candidateIds": [
+          "source-cd66a26961bce028097c5b295fde0484"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183273-R",
+            "value": "amiami:FIGURE-183273-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183273-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4580590209640",
+            "value": "4580590209640",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183273-R",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "JAN 一致且组件、版本无冲突",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T02:00:55.576Z",
+        "decisionId": "25ce0e4b7c834e79952c46d43aacf3c53e943ecacde43d41c5cdba678afc455a"
+      },
+      "candidates": [
+        {
+          "id": "source-cd66a26961bce028097c5b295fde0484",
+          "ordinal": 13299,
+          "title": "ねんどろいどどーる おようふくセット Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580590209640",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-d126428d33392bd48c56bb661d2ab1b3",
+          "ordinal": 13305,
+          "title": "ねんどろいどどーる おようふくセット シールダー/マシュ・キリエライト 私服Ver. 「Fate/Grand Order」",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.943
+        },
+        {
+          "id": "source-cd66a26961bce028097c5b295fde0484",
+          "ordinal": 13299,
+          "title": "ねんどろいどどーる おようふくセット Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580590209640",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.881
+        },
+        {
+          "id": "source-0b106548725186f0fb4e832f37ee6df9",
+          "ordinal": 13308,
+          "title": "ねんどろいどどーる シールダー/マシュ・キリエライト 私服Ver. 「Fate/Grand Order」",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.857
+        },
+        {
+          "id": "source-27fd6604af4edea0e2cb39b897b8dde6",
+          "ordinal": 13286,
+          "title": "ねんどろいどどーる Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580590209633",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.782
+        },
+        {
+          "id": "source-640e5bc3d723cc42af9862e7e1b763f8",
+          "ordinal": 13140,
+          "title": "ねんどろいど Fate/Grand Order シールダー/マシュ・キリエライト[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580416902120",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.686
+        }
+      ],
+      "inputFacts": {
+        "title": "ねんどろいどどーる おようふくセット Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.",
+        "category": "フィギュア",
+        "kind": "set",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "4580590209640"
+      },
+      "elapsedMs": 261.35,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P019",
+      "inputHash": "7838f0b045bca9a864bf2f360946193251439f02149abdabf1ee1b8904c07e90",
+      "decision": {
+        "inputFingerprint": "54c8d028c5d065885368ca2d9589e108a1228ca4cd3d78c1b01cee75767f2fb7",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:FIGURE-183272-R",
+        "sourceKeys": [
+          "amiami:FIGURE-183272-R"
+        ],
+        "status": "matched",
+        "targetItemId": "source-27fd6604af4edea0e2cb39b897b8dde6",
+        "candidateIds": [
+          "source-27fd6604af4edea0e2cb39b897b8dde6"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183272-R",
+            "value": "amiami:FIGURE-183272-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183272-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4580590209633",
+            "value": "4580590209633",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183272-R",
+            "scope": "release",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "JAN 一致且组件、版本无冲突",
+            "value": "SCOPED_GTIN",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "SCOPED_GTIN"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T02:00:57.482Z",
+        "decisionId": "a7a52e072c9cd7620a0107f139a4744cc70c901dd90d719c830640e8e0bc9e6d"
+      },
+      "candidates": [
+        {
+          "id": "source-27fd6604af4edea0e2cb39b897b8dde6",
+          "ordinal": 13286,
+          "title": "ねんどろいどどーる Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580590209633",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-0b106548725186f0fb4e832f37ee6df9",
+          "ordinal": 13308,
+          "title": "ねんどろいどどーる シールダー/マシュ・キリエライト 私服Ver. 「Fate/Grand Order」",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.933
+        },
+        {
+          "id": "source-27fd6604af4edea0e2cb39b897b8dde6",
+          "ordinal": 13286,
+          "title": "ねんどろいどどーる Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580590209633",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.863
+        },
+        {
+          "id": "source-d126428d33392bd48c56bb661d2ab1b3",
+          "ordinal": 13305,
+          "title": "ねんどろいどどーる おようふくセット シールダー/マシュ・キリエライト 私服Ver. 「Fate/Grand Order」",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.857
+        },
+        {
+          "id": "source-cd66a26961bce028097c5b295fde0484",
+          "ordinal": 13299,
+          "title": "ねんどろいどどーる おようふくセット Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580590209640",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.782
+        },
+        {
+          "id": "source-640e5bc3d723cc42af9862e7e1b763f8",
+          "ordinal": 13140,
+          "title": "ねんどろいど Fate/Grand Order シールダー/マシュ・キリエライト[グッドスマイルカンパニー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4580416902120",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "グッドスマイルカンパニー",
+          "similarity": 0.745
+        }
+      ],
+      "inputFacts": {
+        "title": "ねんどろいどどーる Fate/Grand Order シールダー/マシュ・キリエライト 私服Ver.",
+        "category": "フィギュア",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": "4580590209633"
+      },
+      "elapsedMs": 255.45,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P020",
+      "inputHash": "482788c026f7dd813bfa1099fe605bb4c950db1f4a2b8faa8ddc2da2ed2ee0ff",
+      "decision": {
+        "inputFingerprint": "9a1792020245e0352059e1c20ab54b6df285c3a0d776a1fb57d478805c93f19c",
+        "rulesVersion": 23,
+        "sourceKey": "amiami:FIGURE-143065-R",
+        "sourceKeys": [
+          "amiami:FIGURE-143065-R"
+        ],
+        "status": "matched",
+        "targetItemId": "source-b7aab4ac3692a4db14df0b7be7888e35",
+        "candidateIds": [
+          "source-b7aab4ac3692a4db14df0b7be7888e35"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-143065-R",
+            "value": "amiami:FIGURE-143065-R",
+            "source": "www.amiami.jp",
+            "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-143065-R",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T06:56:09.649Z",
+        "decisionId": "2ca4636ed009c23cf1a7b13f0fef3284edb7293061647bdd2149deae91c1c90e"
+      },
+      "candidates": [
+        {
+          "id": "source-b7aab4ac3692a4db14df0b7be7888e35",
+          "ordinal": 10338,
+          "title": "figma 目閉じドヤ顔 (figma Fate/EXTELLA ネロ・クラウディウス特典)",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-b7aab4ac3692a4db14df0b7be7888e35",
+          "ordinal": 10338,
+          "title": "figma 目閉じドヤ顔 (figma Fate/EXTELLA ネロ・クラウディウス特典)",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-1d3f50a2289510f5b6fa19059bc5656a",
+          "ordinal": 10248,
+          "title": "figma Fate/EXTELLA ネロ・クラウディウス[マックスファクトリー]《在庫切れ》",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "4545784065136",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マックスファクトリー",
+          "similarity": 0.685
+        },
+        {
+          "id": "source-02041b0ff875cf2e4a339146af43ed90",
+          "ordinal": 6350,
+          "title": "Fate/EXTELLA 眼鏡 ネロ・クラウディウス<PCレンズ>",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "4534530840622",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.585
+        },
+        {
+          "id": "source-9a9fd542ac3ae55351f470b916c192c0",
+          "ordinal": 10492,
+          "title": "ma figma 370 Fate/EXTELLA ネロ・クラウディウス マックスファクトリー 可動フィギュア ma◇66",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.581
+        },
+        {
+          "id": "source-c510fdd5670ae1768574eab18c76a889",
+          "ordinal": 10339,
+          "title": "figma 目閉じ笑顔 (figma Fate/Grand Order セイバー/ネロ・クラウディウス〔ブライド〕特典)",
+          "category": "フィギュア",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.581
+        }
+      ],
+      "inputFacts": {
+        "title": "figma 目閉じドヤ顔 (figma Fate/EXTELLA ネロ・クラウディウス特典)",
+        "category": "フィギュア",
+        "kind": "unknown",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 237.52,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P021",
+      "inputHash": "e47c9cba1ab5481ad5defed2cc0856d4ad303428ed1efb025db35ba3648b8477",
+      "decision": {
+        "inputFingerprint": "4cc6b24f8903426fa71451d0ca99f0478ae577fe5af93a6e9e04d3e108a71b8f",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/873122822:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/873122822:main"
+        ],
+        "status": "matched",
+        "targetItemId": "source-14b12456f75e74dc1e4c4d2247b95de3",
+        "candidateIds": [
+          "source-14b12456f75e74dc1e4c4d2247b95de3"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/873122822",
+            "value": "surugaya:/product/detail/873122822:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/873122822",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:41:10.465Z",
+        "decisionId": "54e1fe1c5fabe42961aa857c7bba81372dbe55e145db92f5ac4b8d2c1c90964d"
+      },
+      "candidates": [
+        {
+          "id": "source-14b12456f75e74dc1e4c4d2247b95de3",
+          "ordinal": 11806,
+          "title": "アサシン/カーマ サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-14b12456f75e74dc1e4c4d2247b95de3",
+          "ordinal": 11806,
+          "title": "アサシン/カーマ サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-6b76d8563226cd24b3b648c8fd2b63ea",
+          "ordinal": 12137,
+          "title": "キャスター/アスクレピオス サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.859
+        },
+        {
+          "id": "source-3b8085d4d8a02f79619da2d0e4848ad7",
+          "ordinal": 2721,
+          "title": "【FGO Fes. 2025】サーヴァント別 描き下ろしイラスト B2半裁タペストリー(カーマ)/ Fate/Grand Order",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.723
+        },
+        {
+          "id": "source-6c86ebf2cbd56ac9bad865c9d2c40ff9",
+          "ordinal": 7762,
+          "title": "Fate/Grand Order Fes. 2022 (7周年) サーヴァント別 描き下ろしイラスト B2半裁タペストリー(カーマ)/ Fate/Grand Order",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.718
+        },
+        {
+          "id": "source-486c34423b30ea3b962eae22b36d3db9",
+          "ordinal": 3740,
+          "title": "【中古】キーホルダー セイバー/セタンタ サーヴァント別 描き下ろしイラスト アクリルマスコット 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.715
+        }
+      ],
+      "inputFacts": {
+        "title": "アサシン/カーマ サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+        "category": "グッズ",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 298.6,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P022",
+      "inputHash": "f8d41c52d2f07460ad85a9686431ff9bbd23beef90a410399e362b5bb6598945",
+      "decision": {
+        "inputFingerprint": "1ecb63e6ec80f7ca4e117b649bf66d20c2ac7f7b9a218909c9d205e6a1576efa",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/561358660:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/561358660:main"
+        ],
+        "status": "matched",
+        "targetItemId": "source-56d3472d5b5fc62e60ea91ed6be7fe4f",
+        "candidateIds": [
+          "source-56d3472d5b5fc62e60ea91ed6be7fe4f"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/561358660",
+            "value": "surugaya:/product/detail/561358660:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/561358660",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:41:10.465Z",
+        "decisionId": "44815c471a6479cb74844c416ec1e17721b044890026de5433787e07cbad65c4"
+      },
+      "candidates": [
+        {
+          "id": "source-56d3472d5b5fc62e60ea91ed6be7fe4f",
+          "ordinal": 13375,
+          "title": "バーサーカー/ロウヒ スノードーム 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "置物・装飾品",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-56d3472d5b5fc62e60ea91ed6be7fe4f",
+          "ordinal": 13375,
+          "title": "バーサーカー/ロウヒ スノードーム 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "置物・装飾品",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "c2ea362a-b6f7-42cf-a47c-fd3d5655ef9e",
+          "ordinal": 13376,
+          "title": "バーサーカー/ロウヒ 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.772
+        },
+        {
+          "id": "source-353bf1a89c34b3627db0271f76ebc6fe",
+          "ordinal": 13363,
+          "title": "バーサーカー/フラン 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.719
+        },
+        {
+          "id": "9fe75de4-ad4d-407d-9bf7-b89d752c0fc0",
+          "ordinal": 13370,
+          "title": "バーサーカー/モルガン カルデア学園生徒会 腕章 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "腕章",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.695
+        },
+        {
+          "id": "source-3c786e750d68690214779f92d6902703",
+          "ordinal": 15213,
+          "title": "周年ビジュアルイラストカード Fate/Grand Order Fes. 2025 10th Anniversary",
+          "category": "",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.692
+        }
+      ],
+      "inputFacts": {
+        "title": "バーサーカー/ロウヒ スノードーム 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+        "category": "置物・装飾品",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 263.35,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P023",
+      "inputHash": "8464360793822d5725b84c4b55005d9d40a3df75e2a03e7d3cdc31958a514b73",
+      "decision": {
+        "inputFingerprint": "ab07c78b69d35885aa746b4779acd9950ee4ab36b06460337ab5e695ff92bbaa",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/561358658:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/561358658:main"
+        ],
+        "status": "matched",
+        "targetItemId": "source-e3609f457928bb71e70df3fe8bfb10b8",
+        "candidateIds": [
+          "source-e3609f457928bb71e70df3fe8bfb10b8"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/561358658",
+            "value": "surugaya:/product/detail/561358658:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/561358658",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:41:10.465Z",
+        "decisionId": "8b50d14e7b160647687232e33eacc4d52acc2a225281d9255ae4d2d25573b998"
+      },
+      "candidates": [
+        {
+          "id": "source-e3609f457928bb71e70df3fe8bfb10b8",
+          "ordinal": 6424,
+          "title": "Fate/Final Journey デスクラバーマット 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "卓上マット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-e3609f457928bb71e70df3fe8bfb10b8",
+          "ordinal": 6424,
+          "title": "Fate/Final Journey デスクラバーマット 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "卓上マット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-56597fbafb93982eb2319b9956971f3c",
+          "ordinal": 2559,
+          "title": "【FGO Fes. 2025】「Fate/Final Journey」デスクラバーマット / Fate/Grand Order",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.75
+        },
+        {
+          "id": "source-56d3472d5b5fc62e60ea91ed6be7fe4f",
+          "ordinal": 13375,
+          "title": "バーサーカー/ロウヒ スノードーム 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "置物・装飾品",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.69
+        },
+        {
+          "id": "source-b14ad93edebb966e95ef33772ed9dfac",
+          "ordinal": 8,
+          "title": "【FGO Fes. 2025】Fate/Grand Order 10th Anniversary ALBUM",
+          "category": "纪念画册",
+          "productType": "纪念画册",
+          "isbn": "",
+          "jan": "",
+          "kind": "base",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.642
+        },
+        {
+          "id": "source-3c786e750d68690214779f92d6902703",
+          "ordinal": 15213,
+          "title": "周年ビジュアルイラストカード Fate/Grand Order Fes. 2025 10th Anniversary",
+          "category": "",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.618
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/Final Journey デスクラバーマット 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+        "category": "卓上マット",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 290.98,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P024",
+      "inputHash": "5e6ce2b8a69fef89e6eeb348bf7bceebf5261d94d9e799ddac234fe184c86ea8",
+      "decision": {
+        "inputFingerprint": "eb024835126a11e5563430a32909f13ca74ccc0c0b8b1bc2973992e020c65838",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/873122739:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/873122739:main"
+        ],
+        "status": "matched",
+        "targetItemId": "source-6b76d8563226cd24b3b648c8fd2b63ea",
+        "candidateIds": [
+          "source-6b76d8563226cd24b3b648c8fd2b63ea"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/873122739",
+            "value": "surugaya:/product/detail/873122739:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/873122739",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:41:15.867Z",
+        "decisionId": "4f4b01b18d4b4a29c823bdea1d9f587dc681a95f6828eecb3ab0f4be1572804a"
+      },
+      "candidates": [
+        {
+          "id": "source-6b76d8563226cd24b3b648c8fd2b63ea",
+          "ordinal": 12137,
+          "title": "キャスター/アスクレピオス サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-6b76d8563226cd24b3b648c8fd2b63ea",
+          "ordinal": 12137,
+          "title": "キャスター/アスクレピオス サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-14b12456f75e74dc1e4c4d2247b95de3",
+          "ordinal": 11806,
+          "title": "アサシン/カーマ サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.859
+        },
+        {
+          "id": "source-f382d0f91f5c66db4243cc52bd21fc27",
+          "ordinal": 2705,
+          "title": "【FGO Fes. 2025】サーヴァント別 描き下ろしイラスト B2半裁タペストリー(アスクレピオス)/ Fate/Grand Order",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.734
+        },
+        {
+          "id": "source-674f434b8cbb506e431bbe67c434c5c1",
+          "ordinal": 12148,
+          "title": "キャスター/アルトリア・キャスター 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ ポートレイトコレクション Fes.2021描き下ろしサーヴァントB」",
+          "category": "紙製品",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.723
+        },
+        {
+          "id": "source-041fac9ee978d6ac0a3813895e8e02ff",
+          "ordinal": 2135,
+          "title": "【FGO Fes. 2023】サーヴァント別 描き下ろしイラスト B2半裁タペストリー(アスクレピオス)/ Fate/Grand Order",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.719
+        }
+      ],
+      "inputFacts": {
+        "title": "キャスター/アスクレピオス サーヴァント別 描き下ろしイラスト B2半裁タペストリー 「Fate/Grand Order Fes. 2025 ~10th Anniversary~」",
+        "category": "グッズ",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 310.31,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P025",
+      "inputHash": "0c73d5f02555da2dd108ff226e40392ddff4f22e3766db577a7472bf2a810ed3",
+      "decision": {
+        "inputFingerprint": "9bd1f8d0c98be257c487c318a6e1cd85f9d929e80dd4d9f0d347be41c5744c3d",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/887078213:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/887078213:main"
+        ],
+        "status": "matched",
+        "targetItemId": "4487ad0a-1f22-4a91-ae9c-79de36b266d2",
+        "candidateIds": [
+          "4487ad0a-1f22-4a91-ae9c-79de36b266d2"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/887078213",
+            "value": "surugaya:/product/detail/887078213:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/887078213",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:40:43.114Z",
+        "decisionId": "88342f61f7dbf2768a94327c72029f9b739c06054f2f95c9aec7e74369802ecb"
+      },
+      "candidates": [
+        {
+          "id": "4487ad0a-1f22-4a91-ae9c-79de36b266d2",
+          "ordinal": 14175,
+          "title": "ライダー/レオナルド・ダ・ヴィンチ 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "4487ad0a-1f22-4a91-ae9c-79de36b266d2",
+          "ordinal": 14175,
+          "title": "ライダー/レオナルド・ダ・ヴィンチ 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-b2bae09732d1ca312970afbb7ca72bdb",
+          "ordinal": 14150,
+          "title": "ライダー/ネモ 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.869
+        },
+        {
+          "id": "source-cdd716e30d80f019e7844081bcd31a0d",
+          "ordinal": 14160,
+          "title": "ライダー/マルタ 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.862
+        },
+        {
+          "id": "source-1b3f6066dddb0c72978824b5a5c84b66",
+          "ordinal": 14179,
+          "title": "ライダー/女王メイヴ 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.848
+        },
+        {
+          "id": "484490de-b36b-4496-99d9-143b6523a990",
+          "ordinal": 14125,
+          "title": "ライダー/アレキサンダー 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.841
+        }
+      ],
+      "inputFacts": {
+        "title": "ライダー/レオナルド・ダ・ヴィンチ 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」",
+        "category": "グッズ",
+        "kind": "unknown",
+        "series": "Fate/Grand Order",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 294.26,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P026",
+      "inputHash": "5034a5872d3bab4c7a51547ac4bea0f262ab2d9486830fa9d5aa9f5929cc1b59",
+      "decision": {
+        "inputFingerprint": "e32860af20c0ce94bdc20762f02f2ee7bc59dd03e64c28d6e6d4d50c9a4df356",
+        "rulesVersion": 23,
+        "sourceKey": "yahoo-auction:/jp/auction/e1240903214",
+        "sourceKeys": [
+          "yahoo-auction:/jp/auction/e1240903214"
+        ],
+        "status": "matched",
+        "targetItemId": "source-7e17c57a87bd419a6934bdc4f3b1623c",
+        "candidateIds": [
+          "source-7e17c57a87bd419a6934bdc4f3b1623c"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://auctions.yahoo.co.jp/jp/auction/e1240903214",
+            "value": "yahoo-auction:/jp/auction/e1240903214",
+            "source": "Yahoo 拍卖",
+            "url": "https://auctions.yahoo.co.jp/jp/auction/e1240903214",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整书名及出版社一致；忽略旧自动产品线差异",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-05T20:16:55.788Z",
+        "decisionId": "dc32fd448a3db79f83e09bc452b2202e5576bd3744b6c877b21214b20609aa55"
+      },
+      "candidates": [
+        {
+          "id": "source-7e17c57a87bd419a6934bdc4f3b1623c",
+          "ordinal": 6157,
+          "title": "Fate シリーズ関連の映画グッズ 一番くじ景品・色紙・アクリルスタンド・広告・ウエハースカード・コミックなど まとめセット Type Moon",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-7e17c57a87bd419a6934bdc4f3b1623c",
+          "ordinal": 6157,
+          "title": "Fate シリーズ関連の映画グッズ 一番くじ景品・色紙・アクリルスタンド・広告・ウエハースカード・コミックなど まとめセット Type Moon",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate シリーズ関連の映画グッズ 一番くじ景品・色紙・アクリルスタンド・広告・ウエハースカード・コミックなど まとめセット Type Moon",
+        "category": "コミック",
+        "kind": "set",
+        "series": "Fate",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 292.35,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P027",
+      "inputHash": "fdd86605b53e26bf4bb78fe7c0c5471f46b60e27cea468a211958c8b8d8c0656",
+      "decision": {
+        "inputFingerprint": "6b96ed4828d0bdc4ff6dd122b3ec2f77f6887d5da6a1f128c757530a5da67d9b",
+        "rulesVersion": 23,
+        "sourceKey": "mercari:/item/m21101839771",
+        "sourceKeys": [
+          "mercari:/item/m21101839771"
+        ],
+        "status": "matched",
+        "targetItemId": "source-b4e7f9c1ff323dd89e186829d059403e",
+        "candidateIds": [
+          "source-b4e7f9c1ff323dd89e186829d059403e"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://jp.mercari.com/item/m21101839771",
+            "value": "mercari:/item/m21101839771",
+            "source": "Mercari",
+            "url": "https://jp.mercari.com/item/m21101839771",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:52:33.492Z",
+        "decisionId": "dca42f7d662d9f0f715e051270383e0d4d50faf4940f79955843c8528289554d"
+      },
+      "candidates": [
+        {
+          "id": "source-b4e7f9c1ff323dd89e186829d059403e",
+          "ordinal": 6143,
+          "title": "Fate カドック ベリル ウエハースカードセット",
+          "category": "セット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-b4e7f9c1ff323dd89e186829d059403e",
+          "ordinal": 6143,
+          "title": "Fate カドック ベリル ウエハースカードセット",
+          "category": "セット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "source-e553e5f3a814ecb7ef5f715afb243e5a",
+          "ordinal": 6141,
+          "title": "Fate エミヤ ウエハースカード",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.571
+        },
+        {
+          "id": "source-fdc71a5be52469031c0a6c4a3bd7376e",
+          "ordinal": 6140,
+          "title": "Fate ウエハース カード クー・フーリン",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.513
+        },
+        {
+          "id": "source-ee8d99a3956e827906518a53ac619ff4",
+          "ordinal": 8135,
+          "title": "Fate/Grand Order ウエハース カード 2枚セット",
+          "category": "セット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/Grand Order",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.5
+        },
+        {
+          "id": "source-4b917a908e9719ce733faba0c32ad5ec",
+          "ordinal": 6139,
+          "title": "Fate ウエハース カード FGO ST CR SR R 大量 未開封",
+          "category": "トレーディングカード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/Grand Order",
+          "wave": "",
+          "manufacturer": "",
+          "similarity": 0.426
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate カドック ベリル ウエハースカードセット",
+        "category": "セット",
+        "kind": "set",
+        "series": "Fate",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 203.03,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P028",
+      "inputHash": "b996c5c183ffda1a1f09cfe046358c1ca40e3b0df45d0a79ce8f66e6e2663d68",
+      "decision": {
+        "inputFingerprint": "31ec379a272017163b50fd1ca41ccb459b66f8a6b6d353aa22d66494c854171e",
+        "rulesVersion": 23,
+        "sourceKey": "mercari:/item/m63381541922",
+        "sourceKeys": [
+          "mercari:/item/m63381541922"
+        ],
+        "status": "matched",
+        "targetItemId": "source-d18a4f4e046b22e0786a82b2d5f50af1",
+        "candidateIds": [
+          "source-d18a4f4e046b22e0786a82b2d5f50af1"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://jp.mercari.com/item/m63381541922",
+            "value": "mercari:/item/m63381541922",
+            "source": "Mercari",
+            "url": "https://jp.mercari.com/item/m63381541922",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:51:44.259Z",
+        "decisionId": "2c05df00672e9fca48bbf5a8ed1b8f33b03730413d39971837ae3e294c0852af"
+      },
+      "candidates": [
+        {
+          "id": "source-d18a4f4e046b22e0786a82b2d5f50af1",
+          "ordinal": 6306,
+          "title": "Fate/EXTELLA LINK 缶バッジ 2個セット",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-d18a4f4e046b22e0786a82b2d5f50af1",
+          "ordinal": 6306,
+          "title": "Fate/EXTELLA LINK 缶バッジ 2個セット",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "526488a1-004e-4456-95a1-b10f444bad3c",
+          "ordinal": 6287,
+          "title": "Fate/EXTELLA LINK",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302915",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.757
+        },
+        {
+          "id": "8bcf403a-5092-4e0f-8bf9-31406825a7d4",
+          "ordinal": 6288,
+          "title": "Fate/EXTELLA LINK [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302779",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.667
+        },
+        {
+          "id": "source-e669525b872eabfa7e799a8aca0809b3",
+          "ordinal": 6289,
+          "title": "Fate/EXTELLA LINK [通常版]",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.667
+        },
+        {
+          "id": "source-7e35362af4c0a91c11b06c8e58b4918c",
+          "ordinal": 6358,
+          "title": "Fate/EXTELLALINK FGO ロビンフッド セット",
+          "category": "セット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.653
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/EXTELLA LINK 缶バッジ 2個セット",
+        "category": "グッズ",
+        "kind": "set",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 200.3,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P029",
+      "inputHash": "033464f6b090b19aad469d7310b5f9edf9c2319754165d1f892815634b056df3",
+      "decision": {
+        "inputFingerprint": "7ed75c4ab4712b00f3945697581006e8dbcb5166896e13ee3149a37f89ef2acd",
+        "rulesVersion": 23,
+        "sourceKey": "surugaya:/product/detail/105007167:main",
+        "sourceKeys": [
+          "surugaya:/product/detail/105007167:main"
+        ],
+        "status": "ambiguous",
+        "candidateIds": [
+          "e514fc7c-0f5d-49c3-8c80-6c635c84c79f",
+          "source-df27e40bfec555310d76293163ebd082"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://www.suruga-ya.jp/product/detail/105007167",
+            "value": "surugaya:/product/detail/105007167:main",
+            "source": "骏河屋",
+            "url": "https://www.suruga-ya.jp/product/detail/105007167",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "jan",
+            "raw": "4535506302588",
+            "value": "4535506302588",
+            "source": "来源明确字段；保留出处",
+            "url": "https://www.suruga-ya.jp/product/detail/105007167",
+            "scope": "release",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "MULTIPLE_RELIABLE_TARGETS"
+        ],
+        "confidenceTier": "insufficient",
+        "observedAt": "2026-10-06T01:57:43.919Z",
+        "decisionId": "969659a4d17553ef35edd5f4808b56b5229ab0fdf1d9d76ddb5795b9c595e885"
+      },
+      "candidates": [
+        {
+          "id": "e514fc7c-0f5d-49c3-8c80-6c635c84c79f",
+          "ordinal": 6316,
+          "title": "Fate/EXTELLA VELBER BOX",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302588",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス"
+        },
+        {
+          "id": "source-df27e40bfec555310d76293163ebd082",
+          "ordinal": 6317,
+          "title": "Fate/EXTELLA VELBER BOX",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302588",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス"
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "e514fc7c-0f5d-49c3-8c80-6c635c84c79f",
+          "ordinal": 6316,
+          "title": "Fate/EXTELLA VELBER BOX",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302588",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 1
+        },
+        {
+          "id": "source-df27e40bfec555310d76293163ebd082",
+          "ordinal": 6317,
+          "title": "Fate/EXTELLA VELBER BOX",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "4535506302588",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 1
+        },
+        {
+          "id": "source-e821878efa15202c5c1ebd0cf67bf1c3",
+          "ordinal": 6274,
+          "title": "Fate/EXTELLA",
+          "category": "ゲームソフト",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "マーベラス",
+          "similarity": 0.714
+        },
+        {
+          "id": "game-member-124tvv4",
+          "ordinal": 6318,
+          "title": "Fate/EXTELLA VELBER BOX ワダアルコ描き下ろし収納ボックス",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "base",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.692
+        },
+        {
+          "id": "5d5aaf72-a597-467c-9768-91cb6e4a8c13",
+          "ordinal": 145,
+          "title": "Fate/EXTELLA material",
+          "category": "書籍",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "base",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.647
+        }
+      ],
+      "inputFacts": {
+        "title": "Fate/EXTELLA VELBER BOX",
+        "category": "ゲームソフト",
+        "kind": "set",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": "4535506302588"
+      },
+      "elapsedMs": 186.67,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    },
+    {
+      "id": "P030",
+      "inputHash": "dfe68534b8bcd4689e467435e343ad66c2b0f38ab943a232704107cb7110e387",
+      "decision": {
+        "inputFingerprint": "46d52751ce02496024c5a20a708851e8f62824c33bf2540828d02b05e12770f4",
+        "rulesVersion": 23,
+        "sourceKey": "yahoo-auction:/jp/auction/n1247140939",
+        "sourceKeys": [
+          "yahoo-auction:/jp/auction/n1247140939"
+        ],
+        "status": "matched",
+        "targetItemId": "source-e6d3422f39f154ea36487bb2d2b30978",
+        "candidateIds": [
+          "source-e6d3422f39f154ea36487bb2d2b30978"
+        ],
+        "evidence": [
+          {
+            "kind": "listing",
+            "raw": "https://auctions.yahoo.co.jp/jp/auction/n1247140939",
+            "value": "yahoo-auction:/jp/auction/n1247140939",
+            "source": "Yahoo 拍卖",
+            "url": "https://auctions.yahoo.co.jp/jp/auction/n1247140939",
+            "scope": "listing",
+            "valid": true
+          },
+          {
+            "kind": "match-rule",
+            "raw": "完整名称一致（保留卷号、版本和组件区别）",
+            "value": "EXACT_NAME_FACTS",
+            "source": "rule-23",
+            "url": "",
+            "scope": "identity",
+            "valid": true
+          }
+        ],
+        "conflicts": [],
+        "reasonCodes": [
+          "EXACT_NAME_FACTS"
+        ],
+        "confidenceTier": "composite",
+        "observedAt": "2026-10-06T01:40:53.843Z",
+        "decisionId": "3286e02e9a8af7c815f244a2ff7af61659f01dd02ce4124dcbeb5147bd2dba16"
+      },
+      "candidates": [
+        {
+          "id": "source-e6d3422f39f154ea36487bb2d2b30978",
+          "ordinal": 4039,
+          "title": "048K747★【未開封品】Fate/EXTELLA 10th ANNIVERSARY Celebration BOX 10周年記念 同梱 ワダアルコ描き下ろしキャラファイングラフ",
+          "category": "セット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": ""
+        }
+      ],
+      "textNeighbours": [
+        {
+          "id": "source-e6d3422f39f154ea36487bb2d2b30978",
+          "ordinal": 4039,
+          "title": "048K747★【未開封品】Fate/EXTELLA 10th ANNIVERSARY Celebration BOX 10周年記念 同梱 ワダアルコ描き下ろしキャラファイングラフ",
+          "category": "セット",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "set",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 1
+        },
+        {
+          "id": "984ea97c-1e5f-4ecf-86da-520febb0e500",
+          "ordinal": 9657,
+          "title": "fate/stay night 20th anniversary concert キャラファイングラフ(A4)",
+          "category": "原画イラストボード",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/stay night",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.455
+        },
+        {
+          "id": "game-member-124tvv4",
+          "ordinal": 6318,
+          "title": "Fate/EXTELLA VELBER BOX ワダアルコ描き下ろし収納ボックス",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "base",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.414
+        },
+        {
+          "id": "source-d32a21e4bc2b4c44625580e69d7aa748",
+          "ordinal": 3797,
+          "title": "【中古】原画イラストボード 付属品付)fate/stay night 20th anniversary concert キャラファイングラフ(A3)",
+          "category": "",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "unknown",
+          "series": "Fate/stay night",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.409
+        },
+        {
+          "id": "game-member-1vu5ekx",
+          "ordinal": 6315,
+          "title": "Fate/EXTELLA REGALIA BOX ワダアルコ描き下ろし収納ボックス",
+          "category": "グッズ",
+          "productType": null,
+          "isbn": "",
+          "jan": "",
+          "kind": "base",
+          "series": "Fate/EXTRA",
+          "wave": null,
+          "manufacturer": "",
+          "similarity": 0.389
+        }
+      ],
+      "inputFacts": {
+        "title": "048K747★【未開封品】Fate/EXTELLA 10th ANNIVERSARY Celebration BOX 10周年記念 同梱 ワダアルコ描き下ろしキャラファイングラフ",
+        "category": "セット",
+        "kind": "set",
+        "series": "Fate/EXTRA",
+        "isbn": "",
+        "jan": ""
+      },
+      "elapsedMs": 313.84,
+      "replayIdentical": true,
+      "sameListingRescan": {
+        "targetMatched": true,
+        "reasons": [
+          "LISTING_CONTINUITY"
+        ],
+        "scope": "separate synthetic one-record rescan; not accuracy evidence"
+      }
+    }
+  ]
+}
