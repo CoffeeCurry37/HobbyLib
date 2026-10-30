@@ -1,0 +1,750 @@
+{
+  "schemaVersion": 1,
+  "recordedDate": "2026-10-30",
+  "reviewer": "user",
+  "source": "Current conversation: numbered user feedback 1–15 on first 30 pilot proposals",
+  "reviewMode": "post-prediction-domain-feedback",
+  "blindGold": false,
+  "independentReferenceLabels": 0,
+  "runtimeApplied": false,
+  "productionApplied": false,
+  "workbenchReviewTableImported": false,
+  "interpretation": "Field-scoped human feedback; do not interpret as 30 fully verified records or blind accuracy.",
+  "baseCommit": "4abc3f9edb05c218287b5230a794c878dc782f42",
+  "manifestHash": "5a0c47b066a305c41c46cca33060dfd76bca24e3de97d2fada3dfa68f53ace7f",
+  "proposalFile": "proposals-30.json",
+  "proposalFileSha256": "b1f32c515a466bbec066a12c59920bea487c8c6a96a39326a519fcfb2f601c09",
+  "rowHashMethod": "SHA-256 of UTF-8 JSON.stringify(original proposal row), preserving parsed field order",
+  "policy": "../../docs/PRODUCT_CATALOG_POLICY.md",
+  "groups": [
+    {
+      "feedbackNo": 1,
+      "sampleIds": [
+        "P001",
+        "P002",
+        "P003",
+        "P004"
+      ],
+      "topic": "FGO material资料集",
+      "userDecision": "用户明确认可整理与匹配，认为完全可信。",
+      "acceptedAspects": [
+        "商品身份",
+        "当前收录角色整理",
+        "匹配方向"
+      ],
+      "requestedPolicy": "永久单册页。简介用1–3句话写类型、卷次、代表角色和有依据的发行背景；完整收录人物保存在结构化关系，避免简介过长。漫画剧情需对应具体卷的来源。",
+      "unresolved": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+      "futureDisposition": "permanent",
+      "nextAction": "为四册保存有来源的简短简介示例；下一阶段在工作台展示完整角色关系和可检索标签。"
+    },
+    {
+      "feedbackNo": 2,
+      "sampleIds": [
+        "P005"
+      ],
+      "topic": "turas réalta 1–22卷套装",
+      "userDecision": "确认是1–22卷套装，认可查到第23卷。",
+      "acceptedAspects": [
+        "出售范围1–22卷",
+        "系列延伸查证"
+      ],
+      "requestedPolicy": "系列一级页下单册1–22永久保留；1–22卖家套装临时展示，所有挂牌明确售出/结束后撤下。出版社证实23卷时先去重再建永久页。骏河屋/Mandarake明确标题对出售范围优先于误用的单卷ISBN；约9000日元仅辅助佐证。",
+      "unresolved": "套装逐卷品相、缺卷状态未核实；23卷不属于此1–22套装，不能反推历史挂牌日已发售。",
+      "futureDisposition": "temporary_set_with_permanent_members",
+      "nextAction": "做套装生命周期演示；分开单卷ISBN与套装销售范围，不以价格单独判套装。"
+    },
+    {
+      "feedbackNo": 3,
+      "sampleIds": [
+        "P006",
+        "P007",
+        "P008",
+        "P009"
+      ],
+      "topic": "FGO威化卡片与14弹目录",
+      "userDecision": "认可研究；要求完整卡表确认后补全全部二级卡片页面。",
+      "acceptedAspects": [
+        "现有研究方向",
+        "按弹次建目录"
+      ],
+      "requestedPolicy": "14弹完整清单逐卡核实后，所有确认成员可建永久页，零挂牌也显示。P007是6弹、P009是5弹，不能因本次反馈统一移到14弹。",
+      "unresolved": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+      "futureDisposition": "permanent_after_member_verification",
+      "nextAction": "补全14弹来源与逐卡映射；按已确认成员/官方总数展示完整度，不臆造空缺角色。"
+    },
+    {
+      "feedbackNo": 4,
+      "sampleIds": [
+        "P010"
+      ],
+      "topic": "Caster库丘林同名消歧",
+      "userDecision": "指出是Caster，要求结合弹次目录和图像确认。",
+      "acceptedAspects": [
+        "Caster角色判断方向"
+      ],
+      "requestedPolicy": "区分角色、职阶、形态、卡面、弹次、卡号。优先官方本弹角色清单与实物卡背，Mooncell/Wiki可辅助立绘和职阶确认。",
+      "unresolved": "卡背Caster、N07与候选第5弹之间仍需可靠逐卡映射；Wiki立绘不能单独证明商品弹次。",
+      "futureDisposition": "review_before_precise_match",
+      "nextAction": "按有限候选做官方图/卡背比对；证据不够保留候选，不按同名强配。"
+    },
+    {
+      "feedbackNo": 5,
+      "sampleIds": [
+        "P011",
+        "P012",
+        "P013"
+      ],
+      "topic": "五部游戏、版本与特典层级",
+      "userDecision": "认为通常版雷达多候选有重复问题；给出游戏与版本分层要求及官网截图。",
+      "acceptedAspects": [
+        "通常版多候选需要检查"
+      ],
+      "requestedPolicy": "EXTRA、EXTRA CCC、EXTELLA、EXTELLA LINK、EXTRA Record五作品独立。各游戏一级页下分永久版本、永久游戏特典、临时捆绑套装；同版本不同平台可在一页展示但保留平台/SKU身份。",
+      "unresolved": "三个候选需区分真实重复与不同平台/版本，不能直接合并；P013属于EXTELLA LINK。发行矩阵按官网实际组合，不做平台与版本的全排列。",
+      "futureDisposition": "permanent_with_display_grouping_review",
+      "nextAction": "在隔离工作台给出版本矩阵和多候选差异；VELBER BOX是同时含PS4+PSV的盒装。"
+    },
+    {
+      "feedbackNo": 6,
+      "sampleIds": [
+        "P014"
+      ],
+      "topic": "斯卡哈服装兑换码",
+      "userDecision": "认可核实；认为低价拍卖不必过度研究，可作临时商品。",
+      "acceptedAspects": [
+        "服装码识别",
+        "有限研究方向"
+      ],
+      "requestedPolicy": "标题/说明足以支持的字段可保留；出处未知不编造。单次兑换码临时收录，控制研究投入。",
+      "unresolved": "平台、是否已用、有效期和最初取得条件仍未知；竞拍起价不能代表真实价值。",
+      "futureDisposition": "temporary",
+      "nextAction": "保存未知项和来源；达到研究上限停查，不承诺可兑换。"
+    },
+    {
+      "feedbackNo": 7,
+      "sampleIds": [
+        "P015"
+      ],
+      "topic": "Mercari EXTELLA预约特典挂画",
+      "userDecision": "反馈链接已失效；指出Mercari标题可靠度和链接持久性较低。",
+      "acceptedAspects": [
+        "失效状态反馈"
+      ],
+      "requestedPolicy": "官方已证实的AmiAmi特典仍可有永久页；这次卖家观察标不可访问，历史证据与官方发行事实分开保存。",
+      "unresolved": "无法复核当前实物、品相、在售状态及此次购买适用版本；404不是已售证据。",
+      "futureDisposition": "permanent_bonus_with_unreachable_listing",
+      "nextAction": "记录来源失败与观察日期；不声称当前已看图或仍在售，不反复无界重试。"
+    },
+    {
+      "feedbackNo": 8,
+      "sampleIds": [
+        "P016",
+        "P017",
+        "P018",
+        "P019",
+        "P020"
+      ],
+      "topic": "手办、粘土人服装与官店特典",
+      "userDecision": "认可手办、玛修本体/服装及figma尼禄特典的整理。",
+      "acceptedAspects": [
+        "手办身份",
+        "本体与服装分离",
+        "尼禄特典识别"
+      ],
+      "requestedPolicy": "厂商/品牌下设figma、粘土人等产品线导航。P016–P019永久独立；P018官方单卖服装不属于拆售排除。P020单卖特典为临时入口，本体简介记官店特典事实，尽可能附官网单独特典参考图。",
+      "unresolved": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+      "futureDisposition": "mixed_permanent_and_temporary_bonus",
+      "nextAction": "展示产品线模块和本体/服装关系；P020执行手办特典例外，不套用游戏特典永久页规则。"
+    },
+    {
+      "feedbackNo": 9,
+      "sampleIds": [
+        "P021",
+        "P022",
+        "P023",
+        "P024"
+      ],
+      "topic": "Fes2025官方周边",
+      "userDecision": "认可整理，要求以Aniplex线上发售信息建立永久页。",
+      "acceptedAspects": [
+        "活动与商品整理"
+      ],
+      "requestedPolicy": "官方商品永久建档，新挂牌匹配原页；新证据可补简介/标签，但保持简洁，不能每次扫描追加一句。",
+      "unresolved": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+      "futureDisposition": "permanent",
+      "nextAction": "以规范事实差异更新同一简介；重复扫描不增文、不重复标签，保护人工改写。"
+    },
+    {
+      "feedbackNo": 10,
+      "sampleIds": [
+        "P025"
+      ],
+      "topic": "Rider达芬奇学生证卡",
+      "userDecision": "用户确认是入场特典，不参与线上售卖，并提出历史挂牌/系列交叉验证。",
+      "acceptedAspects": [
+        "用户提供入场特典与非线上贩售的领域判断"
+      ],
+      "requestedPolicy": "没有Aniplex页面不能否定存在；用独立历史挂牌、图案规格、活动与系列一致性佐证，有歧义交人工。",
+      "unresolved": "本记录是用户领域确认，不是已找到官方入场发放公告；完整系列成员仍未补齐。冻结标题为Fes2026，不能因邻近Fes2025案例自动改年份。",
+      "futureDisposition": "conditional_permanent_series_member",
+      "nextAction": "把用户断言与官方/历史证据分开保存；核对活动年份、职阶及系列，再形成永久页提案。"
+    },
+    {
+      "feedbackNo": 11,
+      "sampleIds": [
+        "P026"
+      ],
+      "topic": "Yahoo混合大包",
+      "userDecision": "反馈链接打不开，猜测是大量周边组合；允许只分大IP进入专门模块。",
+      "acceptedAspects": [
+        "用户接受粗粒度临时大包处理"
+      ],
+      "requestedPolicy": "Fate混合套装临时模块，可选低成本识图；不强制逐件拆分或补全角色与数量。",
+      "unresolved": "“一大堆set”是用户猜测，不能升级为逐件确认；当前图片、成员、数量与在售状态不明。",
+      "futureDisposition": "temporary_mixed_lot",
+      "nextAction": "替换原先必须逐件研究的默认要求，保留可选深查与未知字段。"
+    },
+    {
+      "feedbackNo": 12,
+      "sampleIds": [
+        "P027"
+      ],
+      "topic": "两张威化卡拼套",
+      "userDecision": "确认是描述清楚的两张卡set，临时链接即可。",
+      "acceptedAspects": [
+        "两张卡出售范围"
+      ],
+      "requestedPolicy": "临时组合；可以保存卡多克、贝里尔的已支持描述，单卡弹次与编号仍独立核实，不能因此把组合升级为官方固定套装。",
+      "unresolved": "用户已确认件数为2；弹次、编号、稀有度和实物状况仍未知。",
+      "futureDisposition": "temporary_two_card_set",
+      "nextAction": "在新增反馈层覆盖原建议的数量疑问，冻结原研究不改；不强行建未知单卡身份。"
+    },
+    {
+      "feedbackNo": 13,
+      "sampleIds": [
+        "P028"
+      ],
+      "topic": "固定官方套装拆件不收录",
+      "userDecision": "链接失效，可能是特典的一部分；明确固定整套拆卖与集换系列的不同政策。",
+      "acceptedAspects": [
+        "收录边界规则"
+      ],
+      "requestedPolicy": "官方直接固定整套售卖且非单款收集机制，卖家拆出的部分不新增独立商品页。系列单品、集换式卡片可以收录；先查清P028的原始销售形式。",
+      "unresolved": "P028是否完整官方特典组合/系列单品/固定套装的拆件尚待查证，不能预先宣布排除或永久收录。",
+      "futureDisposition": "conditional_admission_review",
+      "nextAction": "按官网原始组合核对；低成本无法查清则暂缓，不因标题含set就判定。"
+    },
+    {
+      "feedbackNo": 14,
+      "sampleIds": [
+        "P029"
+      ],
+      "topic": "VELBER BOX缺件",
+      "userDecision": "确认是Fate/EXTELLA VELBER BOX，但缺件。",
+      "acceptedAspects": [
+        "母版本身份",
+        "缺件状态"
+      ],
+      "requestedPolicy": "母版本永久页，挂牌记缺PS4游戏；必要时用临时出售入口。整体盒装缺件与孤立拆出的单件不同，不能一律排除。",
+      "unresolved": "其余配件完整性、两个候选是否同身份重复仍待核对。",
+      "futureDisposition": "permanent_parent_with_incomplete_offer",
+      "nextAction": "保留缺件差异和候选复查，不把双平台盒装错误转换为PSV单平台版本或齐套。"
+    },
+    {
+      "feedbackNo": 15,
+      "sampleIds": [
+        "P030"
+      ],
+      "topic": "卖家错写EXTRA十周年印画",
+      "userDecision": "确认卖家写错，认可规则纠正，认为需要人工处理。",
+      "acceptedAspects": [
+        "错名检测",
+        "EXTRA十周年主题纠正方向",
+        "人工处理"
+      ],
+      "requestedPolicy": "保留原题与纠正证据，人工确认。结合第13点固定整套拆件政策：不新增该单件印画的独立商品页，可作为母盒装内容记录。",
+      "unresolved": "实际印画同款与品相未看图确认；不以此授权删除历史商品、个人记录或迁移Offer。",
+      "futureDisposition": "exclude_new_standalone_component_review",
+      "nextAction": "明确区分识别正确与值得建档；保留拒收理由和母套装关系，不静默改掉原题。"
+    }
+  ],
+  "rows": [
+    {
+      "id": "P001",
+      "feedbackNo": 1,
+      "canonicalTitleAtReview": "Fate/Grand Order material I",
+      "inputHash": "e63c2670e424a51b1048c547667149b3283a8e8700391d75d96092f0d66e96ed",
+      "proposalRowSha256": "556470b694aebb274367516bae0c9ed99f67d13e4378c82e03fb9adfa780a656",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "商品身份",
+        "当前收录角色整理",
+        "匹配方向"
+      ],
+      "scopeNote": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P002",
+      "feedbackNo": 1,
+      "canonicalTitleAtReview": "Fate/Grand Order material II",
+      "inputHash": "35f570f490e361ef45cc552b143f4bf60f2a7cc863e92a0ca481e309ca062d58",
+      "proposalRowSha256": "d8fd80e248db6d18b2a9422e414b038a759a3838e9fada44ba54a993fbe360ea",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "商品身份",
+        "当前收录角色整理",
+        "匹配方向"
+      ],
+      "scopeNote": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P003",
+      "feedbackNo": 1,
+      "canonicalTitleAtReview": "Fate/Grand Order material III",
+      "inputHash": "39559df8851b348359fcf2878ec63c628512c2b5789f6a7650db51d3d8fcfd2a",
+      "proposalRowSha256": "2556805ac1de90affe23dc8d7e1c21b56ee43f214f23f3056b114697f3a8e55c",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "商品身份",
+        "当前收录角色整理",
+        "匹配方向"
+      ],
+      "scopeNote": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P004",
+      "feedbackNo": 1,
+      "canonicalTitleAtReview": "Fate/Grand Order material VIII",
+      "inputHash": "3ce3732e3ac89fede6d3f2dbf71e6f01edcff2c0599ea012d3688c918e577e9f",
+      "proposalRowSha256": "333339c21abc53e0027be7f9c55a5cf59e5455824a7c3ee3b0ee734ef96c5013",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "商品身份",
+        "当前收录角色整理",
+        "匹配方向"
+      ],
+      "scopeNote": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P005",
+      "feedbackNo": 2,
+      "canonicalTitleAtReview": "Fate/Grand Order -turas réalta- 1–22卷套装",
+      "inputHash": "ce80b9e4ba67c340cb7d9f74b8e1d1e137ce1ece7a03e909a6920d991f202e36",
+      "proposalRowSha256": "b91a76291c5b2539018d9b980843106178ac88cbf24342b12c8216ac66b21e5f",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "出售范围1–22卷",
+        "系列延伸查证"
+      ],
+      "scopeNote": "套装逐卷品相、缺卷状态未核实；23卷不属于此1–22套装，不能反推历史挂牌日已发售。",
+      "proposedDisposition": "temporary_set_with_permanent_members"
+    },
+    {
+      "id": "P006",
+      "feedbackNo": 3,
+      "canonicalTitleAtReview": "FGO ウエハース14 30 ダンテ・アリギエーリ",
+      "inputHash": "8034380b27223cf9248327fb99fb67be9ea45d055412f96e86cd8e3128e69a4d",
+      "proposalRowSha256": "7307d26d006ae8375d434010ff7f13086246e4c7ac5ef25515f2e78f72c85c0f",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "现有研究方向",
+        "按弹次建目录"
+      ],
+      "scopeNote": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+      "proposedDisposition": "permanent_after_member_verification"
+    },
+    {
+      "id": "P007",
+      "feedbackNo": 3,
+      "canonicalTitleAtReview": "FGO ウエハース6 25 メルトリリス",
+      "inputHash": "81055dfe3a2147521298d6200d6e5a543a2c20d9537db69af19bce663b34457c",
+      "proposalRowSha256": "5c65f21a10a932408583c03fe7fef85581ab045a04f2e976dd2dc92f5518adbc",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "现有研究方向",
+        "按弹次建目录"
+      ],
+      "scopeNote": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+      "proposedDisposition": "permanent_after_member_verification"
+    },
+    {
+      "id": "P008",
+      "feedbackNo": 3,
+      "canonicalTitleAtReview": "FGO ウエハース14 22 両儀式",
+      "inputHash": "a57a9f108e092f024fb738d45c56db2a4365fcb530e98be4efa684bf483cbea5",
+      "proposalRowSha256": "ded10716182dadb062d0535f3e50d433f0f7fc27d6e6999b4c45c026ce87dd19",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "现有研究方向",
+        "按弹次建目录"
+      ],
+      "scopeNote": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+      "proposedDisposition": "permanent_after_member_verification"
+    },
+    {
+      "id": "P009",
+      "feedbackNo": 3,
+      "canonicalTitleAtReview": "FGO ウエハース5 13 エリザベート・バートリー〔ブレイブ〕",
+      "inputHash": "c1ce1962c6286f73db47999b2e0388a4012ee69fab662c687817f668e8a0e203",
+      "proposalRowSha256": "f235feb9a997501735d59af2f4da63c0d01ef195dfefb910ccedc4b7ad28b65a",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "现有研究方向",
+        "按弹次建目录"
+      ],
+      "scopeNote": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+      "proposedDisposition": "permanent_after_member_verification"
+    },
+    {
+      "id": "P010",
+      "feedbackNo": 4,
+      "canonicalTitleAtReview": "FGO 威化卡 Caster／クー・フーリン N07（候选第5弹）",
+      "inputHash": "d5fcba18b052ab2bd18e2b2340d6b5efe6bb3a013bd8ccfedf16b7a28021fc40",
+      "proposalRowSha256": "d99b8bfbc694c7acbd51a373fbccff5d9b4d277c16a9d338295883055ffaa946",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "Caster角色判断方向"
+      ],
+      "scopeNote": "卡背Caster、N07与候选第5弹之间仍需可靠逐卡映射；Wiki立绘不能单独证明商品弹次。",
+      "proposedDisposition": "review_before_precise_match"
+    },
+    {
+      "id": "P011",
+      "feedbackNo": 5,
+      "canonicalTitleAtReview": "Fate/EXTELLA PS4 通常版",
+      "inputHash": "a7c3353815171ba5103d3b9ba832a4dbfa435f51bbe7e31e9052947cc3302784",
+      "proposalRowSha256": "db47541893b31038f62cda3b77021cfb44ecf64f5e8c3d881394749268b5c353",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "通常版多候选需要检查"
+      ],
+      "scopeNote": "三个候选需区分真实重复与不同平台/版本，不能直接合并；P013属于EXTELLA LINK。发行矩阵按官网实际组合，不做平台与版本的全排列。",
+      "proposedDisposition": "permanent_with_display_grouping_review"
+    },
+    {
+      "id": "P012",
+      "feedbackNo": 5,
+      "canonicalTitleAtReview": "Fate/EXTELLA Nintendo Switch LIMITED BOX",
+      "inputHash": "553f5ac9c37088334e75edcb9205f1a457641c193c4a4e0c93d04c73b37f133a",
+      "proposalRowSha256": "6a183e86d3a7f44648b7631d32aace0e90c747092d0243d187140f7239ce2372",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "通常版多候选需要检查"
+      ],
+      "scopeNote": "三个候选需区分真实重复与不同平台/版本，不能直接合并；P013属于EXTELLA LINK。发行矩阵按官网实际组合，不做平台与版本的全排列。",
+      "proposedDisposition": "permanent_with_display_grouping_review"
+    },
+    {
+      "id": "P013",
+      "feedbackNo": 5,
+      "canonicalTitleAtReview": "Fate/EXTELLA LINK PS4 プレミアム限定版",
+      "inputHash": "d5d19f4c4c7748b8a4a184e75ade3ea24356113db840263e0b0cef3f0638cf6f",
+      "proposalRowSha256": "ad05ed574b893c39820e6fdee8d5688442e898fcaf8d65c4b315f027580e2dd6",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "通常版多候选需要检查"
+      ],
+      "scopeNote": "三个候选需区分真实重复与不同平台/版本，不能直接合并；P013属于EXTELLA LINK。发行矩阵按官网实际组合，不做平台与版本的全排列。",
+      "proposedDisposition": "permanent_with_display_grouping_review"
+    },
+    {
+      "id": "P014",
+      "feedbackNo": 6,
+      "canonicalTitleAtReview": "Fate/EXTELLA LINK 斯卡哈「魔境のサージェント」服装码",
+      "inputHash": "d11cc7dcbd8fe8ebf849f82ffd295cbed3cb59703c2602195b86beadf6e503d4",
+      "proposalRowSha256": "c67497a504256562ee72a0e09e344159704bcca7658f97a6c72e55651b7600bf",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "服装码识别",
+        "有限研究方向"
+      ],
+      "scopeNote": "平台、是否已用、有效期和最初取得条件仍未知；竞拍起价不能代表真实价值。",
+      "proposedDisposition": "temporary"
+    },
+    {
+      "id": "P015",
+      "feedbackNo": 7,
+      "canonicalTitleAtReview": "Fate/EXTELLA あみあみ特典 A3挂画／尼禄＆玉藻前",
+      "inputHash": "f9378933d1940ff5bb38ef8b8a343b9730733173f9954d4b288e3868661032bb",
+      "proposalRowSha256": "4ca0dc32a423cd99962fcc09939178c0fc4c7d4836e802ce33cc6cf5fca34ebb",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "失效状态反馈"
+      ],
+      "scopeNote": "无法复核当前实物、品相、在售状态及此次购买适用版本；404不是已售证据。",
+      "proposedDisposition": "permanent_bonus_with_unreachable_listing"
+    },
+    {
+      "id": "P016",
+      "feedbackNo": 8,
+      "canonicalTitleAtReview": "Saber／阿尔托莉雅 英霊正装Ver. 1/7",
+      "inputHash": "510a815761eb1a19692a6d83500bdcfa029231fc8760178b17812fed6ba39ea2",
+      "proposalRowSha256": "54b846b72e4612df274dcd4acdefad3fd8313530e28bd10356a06f29025d7031",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "手办身份",
+        "本体与服装分离",
+        "尼禄特典识别"
+      ],
+      "scopeNote": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P017",
+      "feedbackNo": 8,
+      "canonicalTitleAtReview": "figma Lancer／阿尔托莉雅 DX Edition 568-DX",
+      "inputHash": "fc98b749b83ed68672c32ee3adc65d86e6f749db74711b3dee4e62371fe98d6c",
+      "proposalRowSha256": "b2f00a0f2b647953a318a90d740a51bf41ac2cb3e37c03a905a448a3138b0feb",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "手办身份",
+        "本体与服装分离",
+        "尼禄特典识别"
+      ],
+      "scopeNote": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P018",
+      "feedbackNo": 8,
+      "canonicalTitleAtReview": "ねんどろいどどーる 玛修私服 衣服套装",
+      "inputHash": "a18776d135a2981e34bc4efb207cbcd0ecff2f98f4bbffec5e0b950906a3942a",
+      "proposalRowSha256": "9aaaf5e51f14187858be569e5fb0cd2e6a8d26443359469b3000eae43a8d792d",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "手办身份",
+        "本体与服装分离",
+        "尼禄特典识别"
+      ],
+      "scopeNote": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P019",
+      "feedbackNo": 8,
+      "canonicalTitleAtReview": "ねんどろいどどーる 玛修私服 人偶",
+      "inputHash": "7838f0b045bca9a864bf2f360946193251439f02149abdabf1ee1b8904c07e90",
+      "proposalRowSha256": "e37120e71f44d7ab72b3e9ab9d694fc397ea3e7b0267a785bde824a8eca5cc35",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "手办身份",
+        "本体与服装分离",
+        "尼禄特典识别"
+      ],
+      "scopeNote": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P020",
+      "feedbackNo": 8,
+      "canonicalTitleAtReview": "figma 尼禄「目閉じドヤ顔」店铺特典替换脸",
+      "inputHash": "482788c026f7dd813bfa1099fe605bb4c950db1f4a2b8faa8ddc2da2ed2ee0ff",
+      "proposalRowSha256": "0105d1b5b18a637eb37b167101c691aa439f378c636f5891795a81cbeb7a683b",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "手办身份",
+        "本体与服装分离",
+        "尼禄特典识别"
+      ],
+      "scopeNote": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+      "proposedDisposition": "temporary_bonus"
+    },
+    {
+      "id": "P021",
+      "feedbackNo": 9,
+      "canonicalTitleAtReview": "FGO Fes.2025 迦摩 B2半裁挂画",
+      "inputHash": "e47c9cba1ab5481ad5defed2cc0856d4ad303428ed1efb025db35ba3648b8477",
+      "proposalRowSha256": "0013de3d4ce1623998f9d81a9cb7d68f24083110fd4cb7471ee480dd140e78db",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "活动与商品整理"
+      ],
+      "scopeNote": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P022",
+      "feedbackNo": 9,
+      "canonicalTitleAtReview": "FGO Fes.2025 洛乌希雪景球",
+      "inputHash": "f8d41c52d2f07460ad85a9686431ff9bbd23beef90a410399e362b5bb6598945",
+      "proposalRowSha256": "8fc8148afb00eeb54fd2fea99a281c6b554e0eed560040581bad961a580baa47",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "活动与商品整理"
+      ],
+      "scopeNote": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P023",
+      "feedbackNo": 9,
+      "canonicalTitleAtReview": "FGO Fes.2025 Final Journey 桌面橡胶垫",
+      "inputHash": "8464360793822d5725b84c4b55005d9d40a3df75e2a03e7d3cdc31958a514b73",
+      "proposalRowSha256": "716e03ca7dcdc15ea75b615475ba6a4424cf78748233d92bf81522e780a3d226",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "活动与商品整理"
+      ],
+      "scopeNote": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P024",
+      "feedbackNo": 9,
+      "canonicalTitleAtReview": "FGO Fes.2025 阿斯克勒庇俄斯 B2半裁挂画",
+      "inputHash": "5e6ce2b8a69fef89e6eeb348bf7bceebf5261d94d9e799ddac234fe184c86ea8",
+      "proposalRowSha256": "f22a590f26efae2c3d6a561234618d96053bb196a0c528ac85f98ad8e27a6d7d",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "活动与商品整理"
+      ],
+      "scopeNote": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+      "proposedDisposition": "permanent"
+    },
+    {
+      "id": "P025",
+      "feedbackNo": 10,
+      "canonicalTitleAtReview": "FGO Fes.2026 Rider／达芬奇 学生证卡",
+      "inputHash": "0c73d5f02555da2dd108ff226e40392ddff4f22e3766db577a7472bf2a810ed3",
+      "proposalRowSha256": "2e34ed095465d877b292244e14d07f6de58ab47e4c3d781410c568af781581fa",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "用户提供入场特典与非线上贩售的领域判断"
+      ],
+      "scopeNote": "本记录是用户领域确认，不是已找到官方入场发放公告；完整系列成员仍未补齐。冻结标题为Fes2026，不能因邻近Fes2025案例自动改年份。",
+      "proposedDisposition": "conditional_permanent_series_member"
+    },
+    {
+      "id": "P026",
+      "feedbackNo": 11,
+      "canonicalTitleAtReview": "Fate 混合周边拼包（逐件身份待拆）",
+      "inputHash": "5034a5872d3bab4c7a51547ac4bea0f262ab2d9486830fa9d5aa9f5929cc1b59",
+      "proposalRowSha256": "4e16c12fe75692f22ee96df12e6801e2690345c9e04356279f3c508c765771b7",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "用户接受粗粒度临时大包处理"
+      ],
+      "scopeNote": "“一大堆set”是用户猜测，不能升级为逐件确认；当前图片、成员、数量与在售状态不明。",
+      "proposedDisposition": "temporary_mixed_lot"
+    },
+    {
+      "id": "P027",
+      "feedbackNo": 12,
+      "canonicalTitleAtReview": "FGO 威化卡 卡多克＆贝里尔拼套",
+      "inputHash": "fdd86605b53e26bf4bb78fe7c0c5471f46b60e27cea468a211958c8b8d8c0656",
+      "proposalRowSha256": "38da3e733ceb75fe371066ca10426b378c951e958f007afc0edc243177ff5417",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "两张卡出售范围"
+      ],
+      "scopeNote": "用户已确认件数为2；弹次、编号、稀有度和实物状况仍未知。",
+      "proposedDisposition": "temporary_two_card_set"
+    },
+    {
+      "id": "P028",
+      "feedbackNo": 13,
+      "canonicalTitleAtReview": "Fate/EXTELLA LINK 吉尔伽美什＆无铭 徽章2个套装",
+      "inputHash": "b996c5c183ffda1a1f09cfe046358c1ca40e3b0df45d0a79ce8f66e6e2663d68",
+      "proposalRowSha256": "ce98a6de769f40af314edd4f399be3aa6852ee0210302a416020811ca92a5e08",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "收录边界规则"
+      ],
+      "scopeNote": "P028是否完整官方特典组合/系列单品/固定套装的拆件尚待查证，不能预先宣布排除或永久收录。",
+      "proposedDisposition": "conditional_admission_review"
+    },
+    {
+      "id": "P029",
+      "feedbackNo": 14,
+      "canonicalTitleAtReview": "Fate/EXTELLA VELBER BOX（缺PS4游戏本体）",
+      "inputHash": "033464f6b090b19aad469d7310b5f9edf9c2319754165d1f892815634b056df3",
+      "proposalRowSha256": "00974175f14d007a427f7edb08290d5c3396c207ae57246232d41586af717708",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "母版本身份",
+        "缺件状态"
+      ],
+      "scopeNote": "其余配件完整性、两个候选是否同身份重复仍待核对。",
+      "proposedDisposition": "permanent_parent_with_incomplete_offer"
+    },
+    {
+      "id": "P030",
+      "feedbackNo": 15,
+      "canonicalTitleAtReview": "Fate/EXTRA 10th ANNIVERSARY Celebration BOX Wada印画（单件）",
+      "inputHash": "dfe68534b8bcd4689e467435e343ad66c2b0f38ab943a232704107cb7110e387",
+      "proposalRowSha256": "a6f781a662738dd2b6de3cc8c12d721b5352d5e0c8c5575bb76f6ce75641cbb7",
+      "originalResearchVersion": 1,
+      "userFeedbackRecorded": true,
+      "blindGold": false,
+      "acceptedAspects": [
+        "错名检测",
+        "EXTRA十周年主题纠正方向",
+        "人工处理"
+      ],
+      "scopeNote": "实际印画同款与品相未看图确认；不以此授权删除历史商品、个人记录或迁移Offer。",
+      "proposedDisposition": "exclude_new_standalone_component_review"
+    }
+  ]
+}

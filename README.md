@@ -2,15 +2,18 @@
 
 个人兴趣商品库与中古商品发现助手。当前网站为 **Collector Radar · 收藏雷达**。
 
-**当前阶段：300条真实挂牌已准备，首30条隔离试点已交付，等待用户审核；正式商品库未改。**
+**当前阶段：300条已冻结，首30条试点已交付；用户15点反馈已逐项归档并同步设计。下一阶段方案为首30条V2→70条开发→200条冻结评测，尚未执行；正式商品库未改。**
 
 - [打开收藏雷达](https://collector-radar.martainjonn.chatgpt.site)（按现有账号权限登录）
 - [当前任务 / 完整 Codex Prompt](docs/NEXT_TASK.md)
 - [当前进度](docs/PROGRESS.md)
+- [首30条用户反馈：15点逐项记录](docs/PILOT_FEEDBACK_2026-10-30.md)
+- [一级/二级页面、永久/临时、收录与简介政策](docs/PRODUCT_CATALOG_POLICY.md)
+- [下一阶段实施、验收与成本方案](docs/PILOT_PHASE2_PLAN.md)
 - [300条试点：首30条结果与下一步](research/pilot-300-20261029/REPORT.md)
 - [本地试点工作台：启动与隔离说明](tools/pilot-workbench/README.md)
-- [商品知识整理与增量识别：设计记忆](docs/PRODUCT_KNOWLEDGE_DESIGN.md)（2026-10-29 研究结论，含 AI 快速入口）
-- [AI 分工、32 条验收与 300 条试点方案](docs/PRODUCT_KNOWLEDGE_PILOT.md)（待实施建议，不表示验收通过）
+- [商品知识整理与增量识别：设计记忆](docs/PRODUCT_KNOWLEDGE_DESIGN.md)（原研究与2026-10-30反馈入口，含 AI 快速入口）
+- [AI 分工、32 条验收与 300 条试点方案](docs/PRODUCT_KNOWLEDGE_PILOT.md)（历史方案及当前状态入口，不表示全部实施或验收通过）
 - [32 条商品验收清单](docs/reports/issue-3/REVIEW-32.md)（32条及五边已应用并读回，查看未决项与验收问题）
 - [本次仓库检查与清理](docs/REPOSITORY-REVIEW-2026-10-28.md)
 - [Sites 发布映射](docs/SITES-RELEASE.md)

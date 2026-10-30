@@ -1,11 +1,11 @@
 # HobbyLib 工作入口
 
 1. 先读 README.md、docs/NEXT_TASK.md、docs/PROGRESS.md。NEXT_TASK.md 是当前阶段唯一完整执行 Prompt；历史报告不能覆盖用户最新指令。
-2. 当前300条真实挂牌已冻结、首30条隔离研究与工作台已交付。先读research/pilot-300-20261029/REPORT.md，等待用户反馈；不自动运行后270条。仅操作本地实验库，正式商品库只读且不部署正式Site；旧32条已完成但遗留语义问题仍保留。完整范围以docs/NEXT_TASK.md为准。
+2. 当前300条真实挂牌已冻结，首30条隔离研究与工作台已交付，用户15点反馈已归档并覆盖30条。先读docs/PILOT_FEEDBACK_2026-10-30.md、PRODUCT_CATALOG_POLICY.md和PILOT_PHASE2_PLAN.md（后两者也在docs/）。本轮仅同步文档和审核记忆；下一阶段建议先做30条V2，再70条开发、200条冻结评测，不自动执行。正式商品库不写入、不部署；完整范围以docs/NEXT_TASK.md为准。
 3. GitHub 提交不等于 Sites 发布或数据库同步。保留 .openai/hosting.json 的项目身份、DB 绑定及访问权限；运行逻辑未变且已上线时不重复发布。
-4. 商品与挂牌分离；本体、特典、组件、套装拥有状态独立。卷号、ISBN/JAN、平台、媒介、版本、卡面、来源变体不得因标题相似而合并。
+4. 商品与挂牌分离；本体、特典、组件、套装拥有状态独立。卷号、ISBN/JAN作用域、平台、媒介、版本、卡面、来源变体不得因标题相似而合并。同版不同平台可共用展示页但保留身份；永久页零挂牌也保留，临时页只在确认结束后撤下，链接失效不等于已售。固定套装拆件的新收录边界与特典例外按PRODUCT_CATALOG_POLICY执行。
 5. 原 15,811 个复查编号不可重新生成或丢弃。001–006 固定成功动作均不能重放；32条和五边已应用且独立复读通过。先查最新生产回执、新鲜目标和用户具体反馈，不能重放隔离动作。历史 #91 / 42 partial 不是实时断点。
-6. 商品知识与增量识别先读 [设计记忆](docs/PRODUCT_KNOWLEDGE_DESIGN.md) 的快速入口，再按需读 [试点与验收方案](docs/PRODUCT_KNOWLEDGE_PILOT.md)；这是设计，不能当作已实施或用户验收。实际研究再读 research/editorial-20261021/RESUME.md、WORKFLOW.md 和 workflow/summary.json。优先紧凑投影、已有证据与未变指纹，不默认加载全备份或历史采集。
+6. 商品知识与增量识别先读 [设计记忆](docs/PRODUCT_KNOWLEDGE_DESIGN.md) 的快速入口，再按需读 [试点与验收方案](docs/PRODUCT_KNOWLEDGE_PILOT.md)；这些历史设计需结合2026-10-30反馈；不能当作全部已实施或全量验收。反馈是看过预测后的领域判断，不是独立盲测答案，也不自动将30条变为verified。实际研究再读 research/editorial-20261021/RESUME.md、WORKFLOW.md 和 workflow/summary.json。优先紧凑投影、已有证据与未变指纹，不默认加载全备份或历史采集。
 7. 五项 checks 和来源匹配满足、无未决项才 verified。预检、分组、抓取及图片 HTTP 成功不等于核实；partial 不阻止应用有证据的安全字段。
 8. 写前完整读取新目标，使用 expectedVersion 和关系/偏好保护；保留备注、拥有、数量、优先度、人工字段及报价历史。结构调整在完整副本验证；新拆分、归并或 Offer 迁移需具体方案。
 9. 静态缓存不替代实时库存。登录、验证码、年龄确认及访问限制保留断点，不绕过。旧环境阻断仅为旧环境证据，新任务检查实际环境。

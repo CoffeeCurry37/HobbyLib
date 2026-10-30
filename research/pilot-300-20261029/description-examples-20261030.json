@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "status": "documentation_examples_not_applied",
+  "purpose": "Concise product descriptions grounded in original proposal facts; full character lists remain structured.",
+  "policy": "../../docs/PRODUCT_CATALOG_POLICY.md",
+  "rows": [
+    {
+      "id": "P001",
+      "canonicalTitle": "Fate/Grand Order material I",
+      "description": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第1卷，全彩设定资料集。收录38项从者资料，包括玛修、阿尔托莉雅和尼禄等角色。",
+      "sentenceCount": 2,
+      "sources": [
+        "material"
+      ],
+      "sourceProposal": "proposals-30.json",
+      "sourceInputHash": "e63c2670e424a51b1048c547667149b3283a8e8700391d75d96092f0d66e96ed",
+      "fullContentEntryCount": 38,
+      "characterScope": "features_in_content; not necessarily cover characters",
+      "appliedToRuntime": false,
+      "appliedToProduction": false
+    },
+    {
+      "id": "P002",
+      "canonicalTitle": "Fate/Grand Order material II",
+      "description": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第2卷，全彩设定资料集。收录35项从者资料，包括佐佐木小次郎、咒腕哈桑和斯忒诺等角色。",
+      "sentenceCount": 2,
+      "sources": [
+        "material"
+      ],
+      "sourceProposal": "proposals-30.json",
+      "sourceInputHash": "35f570f490e361ef45cc552b143f4bf60f2a7cc863e92a0ca481e309ca062d58",
+      "fullContentEntryCount": 35,
+      "characterScope": "features_in_content; not necessarily cover characters",
+      "appliedToRuntime": false,
+      "appliedToProduction": false
+    },
+    {
+      "id": "P003",
+      "canonicalTitle": "Fate/Grand Order material III",
+      "description": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第3卷，全彩设定资料集。收录37项从者资料，包括童谣、开膛手杰克和莫德雷德等角色。",
+      "sentenceCount": 2,
+      "sources": [
+        "material"
+      ],
+      "sourceProposal": "proposals-30.json",
+      "sourceInputHash": "39559df8851b348359fcf2878ec63c628512c2b5789f6a7650db51d3d8fcfd2a",
+      "fullContentEntryCount": 37,
+      "characterScope": "features_in_content; not necessarily cover characters",
+      "appliedToRuntime": false,
+      "appliedToProduction": false
+    },
+    {
+      "id": "P004",
+      "canonicalTitle": "Fate/Grand Order material VIII",
+      "description": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第8卷，全彩设定资料集。收录24项从者资料，包括项羽、兰陵王和秦良玉等角色。",
+      "sentenceCount": 2,
+      "sources": [
+        "material"
+      ],
+      "sourceProposal": "proposals-30.json",
+      "sourceInputHash": "3ce3732e3ac89fede6d3f2dbf71e6f01edcff2c0599ea012d3688c918e577e9f",
+      "fullContentEntryCount": 24,
+      "characterScope": "features_in_content; not necessarily cover characters",
+      "appliedToRuntime": false,
+      "appliedToProduction": false
+    }
+  ]
+}
