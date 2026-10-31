@@ -1,0 +1,4960 @@
+{
+  "version": "series-evidence-v3",
+  "products": [
+    {
+      "id": "material-1",
+      "identityKey": "fgo-material:physical:1",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material I",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 1
+      },
+      "characters": [
+        "マシュ・キリエライト",
+        "アルトリア・ペンドラゴン",
+        "アルトリア・ペンドラゴン〔オルタ〕",
+        "アルトリア・ペンドラゴン〔リリィ〕",
+        "ネロ・クラウディウス",
+        "ジークフリート",
+        "ガイウス・ユリウス・カエサル",
+        "アルテラ",
+        "ジル・ド・レェ（セイバー）",
+        "シュヴァリエ・デオン",
+        "エミヤ",
+        "ギルガメッシュ",
+        "ロビンフッド",
+        "アタランテ",
+        "エウリュアレ",
+        "アーラシュ",
+        "クー・フーリン（ランサー）",
+        "エリザベート・バートリー",
+        "武蔵坊弁慶",
+        "クー・フーリン〔プロトタイプ〕",
+        "レオニダス一世",
+        "ロムルス",
+        "メドゥーサ",
+        "ゲオルギウス",
+        "エドワード・ティーチ",
+        "ブーディカ",
+        "牛若丸",
+        "アレキサンダー",
+        "マリー・アントワネット",
+        "マルタ",
+        "メディア",
+        "ジル・ド・レェ（キャスター）",
+        "ハンス・クリスチャン・アンデルセン",
+        "ウィリアム・シェイクスピア",
+        "メフィストフェレス",
+        "ヴォルフガング・アマデウス・モーツァルト",
+        "諸葛孔明〔エルメロイⅡ世〕",
+        "クー・フーリン（キャスター）"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i8468ac8336d1b38cc833c97f7fe79c3amg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "15b967d10f16642d91a49e9c641b5ae8b41fe2452b30583cc5bcbb5f03659271",
+          "localPath": "/image/6a340a1978df2571f33758a4257a712c3812c766acf6ac0338b26f7038073068",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第1卷，B5变形全彩、附书套。收录38项从者资料，包括マシュ・キリエライト、アルトリア・ペンドラゴン、アルトリア・ペンドラゴン〔オルタ〕等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-2",
+      "identityKey": "fgo-material:physical:2",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material II",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 2
+      },
+      "characters": [
+        "佐々木小次郎",
+        "呪腕のハサン",
+        "ステンノ",
+        "荊軻",
+        "シャルル＝アンリ・サンソン",
+        "ファントム・オブ・ジ・オペラ",
+        "マタ・ハリ",
+        "カーミラ",
+        "ヘラクレス",
+        "ランスロット",
+        "呂布奉先",
+        "スパルタクス",
+        "坂田金時",
+        "ヴラド三世",
+        "アステリオス",
+        "カリギュラ",
+        "ダレイオス三世",
+        "清姫",
+        "エイリーク・ブラッドアクス",
+        "タマモキャット",
+        "ジャンヌ・ダルク",
+        "オリオン",
+        "エリザベート・バートリー〔ハロウィン〕",
+        "玉藻の前",
+        "ダビデ",
+        "ヘクトール",
+        "フランシス・ドレイク",
+        "アン・ボニー＆メアリー・リード",
+        "メディア〔リリィ〕",
+        "沖田総司",
+        "織田信長",
+        "スカサハ",
+        "ディルムッド・オディナ",
+        "フェルグス・マック・ロイ",
+        "アルトリア・ペンドラゴン〔サンタオルタ〕"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/ia88ca5c13085b364ad580b5baa081896mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "57be42257ed9ceeeb1b73fa2839125f5e69057950521364e6f925f1b91fa6afe",
+          "localPath": "/image/2d78037dd39ea713c974fcba3536bebc2c69d43ca1693a3a3e0bbcaf870a1221",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第2卷，B5变形全彩、附书套。收录35项从者资料，包括佐々木小次郎、呪腕のハサン、ステンノ等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-3",
+      "identityKey": "fgo-material:physical:3",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material III",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 3
+      },
+      "characters": [
+        "ナーサリー・ライム",
+        "ジャック・ザ・リッパー",
+        "モードレッド",
+        "ニコラ・テスラ",
+        "アルトリア・ペンドラゴン〔オルタ〕",
+        "ヴァン・ホーエンハイム・パラケルスス",
+        "チャールズ・バベッジ",
+        "ヘンリー・ジキル＆ハイド",
+        "フランケンシュタイン",
+        "アルジュナ",
+        "カルナ",
+        "謎のヒロインX",
+        "フィン・マックール",
+        "ブリュンヒルデ",
+        "ベオウルフ",
+        "ネロ・クラウディウス〔ブライド〕",
+        "両儀式〔セイバー〕",
+        "両儀式〔アサシン〕",
+        "天草四郎",
+        "アストルフォ",
+        "子ギル",
+        "巌窟王 エドモン・ダンテス",
+        "ナイチンゲール",
+        "クー・フーリン[オルタ]",
+        "女王メイヴ",
+        "エレナ・ブラヴァツキー",
+        "ラーマ",
+        "神槍 李書文",
+        "トーマス・エジソン",
+        "ジェロニモ",
+        "ビリー・ザ・キッド",
+        "ジャンヌ・ダルク〔オルタ〕",
+        "アンリマユ",
+        "イスカンダル",
+        "エミヤ〔アサシン〕",
+        "百貌のハサン",
+        "アイリスフィール〔天の衣〕"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i9402a4c81d19263d68c973a0f742754dmg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "b6a715391619cfdce5073659237be5fbfdc7cfe1702c2c87b0099986356ff865",
+          "localPath": "/image/18558ab3bfe3e62fe60b8e2dec5ff3689f9633d0bc62909da897f96a19457ffe",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第3卷，B5变形全彩、附书套。收录37项从者资料，包括ナーサリー・ライム、ジャック・ザ・リッパー、モードレッド等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-4",
+      "identityKey": "fgo-material:physical:4",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material IV",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 4
+      },
+      "characters": [
+        "酒呑童子",
+        "三蔵法師",
+        "源頼光",
+        "坂田金時〔ライダー〕",
+        "茨木童子",
+        "風魔小太郎",
+        "オジマンディアス",
+        "アルトリア・ペンドラゴン〔ランサー〕/ ニトクリス",
+        "ランスロット",
+        "トリスタン",
+        "ガウェイン",
+        "静謐のハサン",
+        "俵藤太",
+        "ベディヴィエール",
+        "レオナルド・ダ・ヴィンチ",
+        "玉藻の前〔ランサー〕",
+        "アルトリア・ペンドラゴン〔アーチャー〕/ マリー・アントワネット〔キャスター〕",
+        "アン・ボニー＆メアリー・リード〔アーチャー〕/ モードレッド〔ライダー〕",
+        "スカサハ〔アサシン〕",
+        "清姫〔ランサー〕",
+        "マルタ〔ルーラー〕",
+        "イリヤスフィール・フォン・アインツベルン",
+        "クロエ・フォン・アインツベルン",
+        "エリザベート・バートリー〔ブレイブ〕",
+        "クレオパトラ",
+        "ヴラド三世〔EXTRA〕",
+        "ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+        "イシュタル",
+        "エルキドゥ",
+        "ケツァル・コアトル",
+        "ギルガメッシュ〔キャスター〕",
+        "メドゥーサ〔ランサー〕",
+        "ゴルゴーン",
+        "ジャガーマン",
+        "ティアマト",
+        "マーリン",
+        "ゲーティア",
+        "ソロモン"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i396b3902099ca5bcac89d0f1eeb60317mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "0481dc594a82b3df936d860ae8b3860a983f9cad05a0b041010c2ae09261803c",
+          "localPath": "/image/3bbeb6b5071f6a5520315b6fdf0b365e86f1e0d16b71f0c8636565bd61228db1",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第4卷，B5变形全彩、附书套。收录38项从者资料，包括酒呑童子、三蔵法師、源頼光等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-5",
+      "identityKey": "fgo-material:physical:5",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material V",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 5
+      },
+      "characters": [
+        "宮本武蔵",
+        "“山の翁”",
+        "謎のヒロインＸ〔オルタ〕",
+        "新宿のアーチャー",
+        "エミヤ〔オルタ〕",
+        "新宿のアヴェンジャー",
+        "新宿のアサシン",
+        "アーサー・ペンドラゴン〔プロトタイプ〕",
+        "土方歳三",
+        "茶々",
+        "メルトリリス",
+        "パッションリップ",
+        "鈴鹿御前",
+        "BB",
+        "殺生院キアラ",
+        "ビーストⅢ／Ｒ",
+        "不夜城のキャスター",
+        "不夜城のアサシン",
+        "エルドラドのバーサーカー",
+        "レジスタンスのライダー",
+        "シャーロック・ホームズ",
+        "ポール・バニヤン",
+        "ネロ・クラウディウス〔キャスター〕",
+        "フランケンシュタイン〔セイバー〕",
+        "ニトクリス〔アサシン〕",
+        "織田信長〔バーサーカー〕",
+        "アルトリア・ペンドラゴン〔オルタ〕〔ライダー〕",
+        "エレナ・ブラヴァツキー〔アーチャー〕",
+        "源頼光〔ランサー〕",
+        "イシュタル〔ライダー〕",
+        "パールヴァティー"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i54a9d971af30954bb98bf77ac3463d32mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "ea2984b6753905128c26e7ee1c9e337392b86a0a54283b756132ce9c40aa16b6",
+          "localPath": "/image/ee1f7f5aae5c7ac63f9f8e8641b6654ff1e1130866f25c03ee2ba5bfc4cb42be",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第5卷，B5变形全彩、附书套。收录31项从者资料，包括宮本武蔵、“山の翁”、謎のヒロインＸ〔オルタ〕等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-6",
+      "identityKey": "fgo-material:physical:6",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material VI",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 6
+      },
+      "characters": [
+        "アーチャー・インフェルノ",
+        "アサシン・パライソ",
+        "宝蔵院胤舜",
+        "柳生但馬守宗矩",
+        "加藤段蔵",
+        "刑部姫",
+        "メカエリチャン",
+        "メカエリチャンⅡ号機",
+        "オケアノスのキャスター",
+        "哪吒",
+        "ミドラーシュのキャスター",
+        "アビゲイル・ウィリアムズ",
+        "エレシュキガル",
+        "アルテラ・ザ・サン〔タ〕",
+        "葛飾北斎",
+        "セミラミス",
+        "浅上藤乃"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i556930832911f042165ce53021ebb6f0mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "ed60125b55bd45a1af88b9c69f2d161674d87af32e387c0d1bbe665647c917f9",
+          "localPath": "/image/b903a52b6d77491f4ab3c7ae82afab2d4df9b22bb09af8697f26a81f782a3b6a",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第6卷，B5变形全彩、附书套。收录17项从者资料，包括アーチャー・インフェルノ、アサシン・パライソ、宝蔵院胤舜等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-7",
+      "identityKey": "fgo-material:physical:7",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material VII",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 7
+      },
+      "characters": [
+        "アナスタシア",
+        "アタランテ〔オルタ〕",
+        "アヴィケブロン",
+        "アントニオ・サリエリ",
+        "イヴァン雷帝",
+        "アキレウス",
+        "ケイローン",
+        "ジーク",
+        "沖田総司〔オルタ〕",
+        "岡田以蔵",
+        "坂本龍馬",
+        "ナポレオン",
+        "シグルド",
+        "ワルキューレ　(オルトリンデ、ヒルド、スルーズ)",
+        "スカサハ=スカディ",
+        "ジャンヌ・ダルク〔アーチャー〕",
+        "茨木童子〔ランサー〕",
+        "牛若丸〔アサシン〕",
+        "ジャンヌ・ダルク〔オルタ〕",
+        "BB〔ムーンキャンサー〕",
+        "女王メイヴ〔セイバー〕",
+        "謎のヒロインXX〔フォーリナー〕",
+        "ディルムッド・オディナ",
+        "シトナイ",
+        "酒呑童子〔キャスター〕"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i0e5431f2a30e67757ac07196319a9850mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "fa0f6e7f3a4a6b5ca35862bd3f717bf7fee863044bf18468bbf9ca50da045b54",
+          "localPath": "/image/f316043253c23a1f7f4b36463cb73a73b0e994b5c27d5567d091ac92d702d5ab",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第7卷，B5变形全彩、附书套。收录25项从者资料，包括アナスタシア、アタランテ〔オルタ〕、アヴィケブロン等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-8",
+      "identityKey": "fgo-material:physical:8",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material VIII",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 8
+      },
+      "characters": [
+        "項羽",
+        "蘭陵王",
+        "秦良玉",
+        "始皇帝",
+        "虞美人",
+        "赤兎馬",
+        "ブラダマンテ",
+        "ケツァル・コアトル〔サンバ/サンタ〕",
+        "紅閻魔",
+        "李書文〔アサシン〕",
+        "美遊・エーデルフェルト",
+        "紫式部",
+        "キングプロテア",
+        "カーマ",
+        "ビーストⅢ／L",
+        "司馬懿〔ライネス〕",
+        "アストライア",
+        "グレイ",
+        "大いなる石像神",
+        "ラクシュミー・バーイー",
+        "ウィリアム・テル",
+        "アルジュナ〔オルタ〕",
+        "アシュヴァッターマン",
+        "アスクレピオス"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/ibb48d8c9bdaaebdfd1619a2a5f5504b6mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "e60944784305c8074917eb270c678753325eb222d56e0e1df76e0ff5d2e2ef65",
+          "localPath": "/image/694c4af22bf9f7be75c9b7e399e0b3613e3bd968091b2f3f15f681c08fe7cc4e",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第8卷，B5变形全彩、附书套。收录24项从者资料，包括項羽、蘭陵王、秦良玉等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-9",
+      "identityKey": "fgo-material:physical:9",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material IX",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 9
+      },
+      "characters": [
+        "魔王信長",
+        "森長可",
+        "長尾景虎",
+        "レオナルド・ダ・ヴィンチ〔ライダー〕",
+        "イアソン",
+        "パリス",
+        "ガレス",
+        "バーソロミュー・ロバーツ",
+        "陳宮",
+        "シャルロット・コルデー",
+        "サロメ",
+        "宮本武蔵〔バーサーカー〕",
+        "刑部姫〔アーチャー〕",
+        "カーミラ〔ライダー〕",
+        "葛飾北斎〔セイバー〕",
+        "アルトリア・ペンドラゴン〔ルーラー〕",
+        "謎のアルターエゴ・Λ",
+        "オキタ・J・ソウジ"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i0a126060468d33a19b7265871bacb72emg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "b1326f7ae611b6df3901ca03af97322c139d6a4bf9c03c996ba1dbcd8eb1d787",
+          "localPath": "/image/4d0c5cb6ac1fe7a44d316dccf84a89a353b62ba483579970332ab307ee161a4d",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第9卷，B5变形全彩、附书套。收录18项从者资料，包括魔王信長、森長可、長尾景虎等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-10",
+      "identityKey": "fgo-material:physical:10",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material X",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 10
+      },
+      "characters": [
+        "スペース・イシュタル",
+        "カラミティ・ジェーン",
+        "アストルフォ",
+        "ナイチンゲール〔サンタ〕",
+        "超人オリオン",
+        "マンドリカルド",
+        "エウロペ",
+        "楊貴妃",
+        "清少納言",
+        "オデュッセウス",
+        "ディオスクロイ",
+        "カイニス",
+        "ロムルス=クィリヌス",
+        "ボイジャー",
+        "鬼女紅葉",
+        "宇津見エリセ",
+        "アルトリア・キャスター"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i618b2a07358663d163d36f1839d0a9d7mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "d35eca3f5f76feec70cdaf9c81167fd653952b0204cf239173c9892b8764f3dd",
+          "localPath": "/image/c93dfabb6e10e88c54023faa184d7d264e755606b33da5a66420bb7e2dae6c60",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第10卷，B5变形全彩、附书套。收录17项从者资料，包括スペース・イシュタル、カラミティ・ジェーン、アストルフォ等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-11",
+      "identityKey": "fgo-material:physical:11",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XI",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 11
+      },
+      "characters": [
+        "殺生院キアラ",
+        "イリヤスフィール・フォン・アインツベルン",
+        "ブリュンヒルデ",
+        "虞美人",
+        "アビゲイル・ウィリアムズ〔夏〕",
+        "巴御前",
+        "紫式部",
+        "卑弥呼",
+        "斎藤一",
+        "織田信勝",
+        "ヴァン・ゴッホ",
+        "ネモ"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i8d696e50d344a14f29f1160d6f636f87mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "cd6c3bc8f6d5d9073eae71f29686556ec34a684b0f348baebef28f0c08bc80ff",
+          "localPath": "/image/f02d92bab21f3b46f7e28dc4ec25bd3ef8ff2a17fb901b344f95e63c3caaa85b",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第11卷，B5变形全彩、附书套。收录12项从者资料，包括殺生院キアラ、イリヤスフィール・フォン・アインツベルン、ブリュンヒルデ等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-12",
+      "identityKey": "fgo-material:physical:12",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XII",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 12
+      },
+      "characters": [
+        "蘆屋道満",
+        "渡辺綱",
+        "伊吹童子",
+        "ヴリトラ",
+        "カルナ〔サンタ〕",
+        "千子村正",
+        "平景清",
+        "鬼一法眼",
+        "カレン・Ｃ・オルテンシア",
+        "ガラテア",
+        "ミス・クレーン",
+        "謎のアイドルX〔オルタ〕"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/icd285dbe6c3650368e2a97c7205f4068mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "1d71ec67e91f7253f42d1362fced681838ebd87ecdeaefc8ec7d604a39120d0d",
+          "localPath": "/image/cd57ae8d17ac76a8ff77d674b799aa598db0de1929292dbb394b09f30cc06677",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第12卷，B5变形全彩、附书套。收录12项从者资料，包括蘆屋道満、渡辺綱、伊吹童子等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-13",
+      "identityKey": "fgo-material:physical:13",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XIII",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 13
+      },
+      "characters": [
+        "モルガン",
+        "妖精騎士ガウェイン",
+        "妖精騎士トリスタン",
+        "妖精騎士ランスロット",
+        "パーシヴァル",
+        "光のコヤンスカヤ",
+        "ハベトロット",
+        "オベロン"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/ia44794b0595fe8ebe9b1ab109e562126mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "5dbce1211e831c02f2082edb3ea7070e155c036d90e72bab9d671d3fd741e030",
+          "localPath": "/image/bce3a57f76472c34eaa3da7f1edb12a2177441ec3eaa26640e95ab83883769bf",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第13卷，B5变形全彩、附书套。收录8项从者资料，包括モルガン、妖精騎士ガウェイン、妖精騎士トリスタン等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-14",
+      "identityKey": "fgo-material:physical:14",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XIV",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 14
+      },
+      "characters": [
+        "沖田総司〔オルタ〕",
+        "アナスタシア&ヴィイ",
+        "シャルロット・コルデー",
+        "レオナルド・ダ・ヴィンチ",
+        "カーマ",
+        "カイニス",
+        "清少納言",
+        "ジャック・ド・モレー",
+        "ゼノビア",
+        "エリザベート・バートリー〔シンデレラ〕",
+        "出雲阿国",
+        "謎の蘭丸X",
+        "坂本龍馬"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i34b71b3fe346b38f7b6d99c44a6faa66mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "1d1b968020d1dfbd7bc3229ea102ae1f5e5688e363bc84c3c3f1c279edd80e12",
+          "localPath": "/image/cb2e2345f279c008130d5627978c4331830c93beb3eb807378ffff89c982bd65",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第14卷，B5变形全彩、附书套。收录13项从者资料，包括沖田総司〔オルタ〕、アナスタシア&ヴィイ、シャルロット・コルデー等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-15",
+      "identityKey": "fgo-material:physical:15",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XV",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 15
+      },
+      "characters": [
+        "マルタ〔サンタ〕",
+        "太公望",
+        "ドブルイニャ・ニキチッチ",
+        "ビーストⅣ",
+        "闇のコヤンスカヤ",
+        "ヘファイスティオン",
+        "マナナン・マク・リール〔バゼット〕",
+        "徴姉妹",
+        "太歳星君",
+        "スーパーバニヤン",
+        "大黒天",
+        "メアリー・アニング"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i1d1a8020dd67e04779a3c3a063d71809mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "e63978be9ad2490041b60cc47584efbcf316fdfbafe1a6f9bc87abcac32938e3",
+          "localPath": "/image/5ff7ba8625e672504d6cf46fa35e42077994442489ec500a350d540120ac0af6",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第15卷，B5变形全彩、附书套。收录12项从者资料，包括マルタ〔サンタ〕、太公望、ドブルイニャ・ニキチッチ等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-16",
+      "identityKey": "fgo-material:physical:16",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XVI",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 16
+      },
+      "characters": [
+        "コンスタンティノス11世",
+        "シャルルマーニュ",
+        "ローラン",
+        "クリームヒルト /ジェームズ・モリアーティ",
+        "ドン・キホーテ",
+        "張角",
+        "曲亭馬琴",
+        "源為朝",
+        "アーキタイプ:アース",
+        "徐福"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/ic4e3c934c27ce4586726aa6e6dc0fb83mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "871be2edc7ce947f73803c73f67ff73ea99df1a50500f292b11431c3cf1c15f4",
+          "localPath": "/image/800b5a09cf5566f19e2e472ef481e98838404996f5a32ea392e7a06507f6c549",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第16卷，B5变形全彩、附书套。收录10项从者资料，包括コンスタンティノス11世、シャルルマーニュ、ローラン等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-17",
+      "identityKey": "fgo-material:physical:17",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XVII",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 17
+      },
+      "characters": [
+        "レディ・アヴァロン",
+        "ガレス〔セイバー〕",
+        "伊吹童子〔バーサーカー〕",
+        "宇津見エリセ〔アヴェンジャー〕",
+        "スカサハ＝スカディ〔ルーラー〕",
+        "武則天〔キャスター〕",
+        "スルーズ〔アサシン〕",
+        "ヒルド〔アサシン〕",
+        "オルトリンデ〔アサシン〕"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i96aab7e4075ceb757c6188dd9a985635mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "61d2b1d663ecacec54c095be0bf65128fc1b07c79f9044ac33e92259479a78cf",
+          "localPath": "/image/49b3ce32d896d9ae63a7e1bda2d777a70d5f4c6934e80908069d6f3c4098f510",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第17卷，B5变形全彩、附书套。收录9项从者资料，包括レディ・アヴァロン、ガレス〔セイバー〕、伊吹童子〔バーサーカー〕等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-18",
+      "identityKey": "fgo-material:physical:18",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XVIII",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 18
+      },
+      "characters": [
+        "千利休",
+        "山南敬助",
+        "壱与",
+        "呼延灼",
+        "黄飛虎",
+        "九紋竜エリザ",
+        "ブリトマート",
+        "グレゴリー・ラスプーチン",
+        "女教皇ヨハンナ",
+        "高杉晋作"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i00ff26dd7ce37b4e8860a214ff36d3femg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "5b8dff15eaaefc3280ccead460bfbd59e7613e8754835eee5b8b68963d28b8fb",
+          "localPath": "/image/d2cac9ab6f059ba96464f057ec3fcff6ece82c22611131c51f90ee7bb16780e1",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第18卷，B5变形全彩、附书套。收录10项从者资料，包括千利休、山南敬助、壱与等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-19",
+      "identityKey": "fgo-material:physical:19",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XIX",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 19
+      },
+      "characters": [
+        "ニトクリス〔オルタ〕",
+        "テスカトリポカ",
+        "トラロック",
+        "ククルカン"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i97842412214548aa29bbe9810b5b8709mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "16012f553a116aac9e07ca6b2cfcbb116bccc2d1db74b16259c6d8ee67bce28c",
+          "localPath": "/image/0a7d66d59330a8c831b8c69089aff774c5f28108bf76098f22fd48dd5d2d8ebd",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第19卷，B5变形全彩、附书套。收录4项从者资料，包括ニトクリス〔オルタ〕、テスカトリポカ、トラロック等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "material-20",
+      "identityKey": "fgo-material:physical:20",
+      "mode": "permanent",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XX",
+      "type": "设定资料集",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "书籍",
+        "edition": "material",
+        "medium": "实体",
+        "volume": 20
+      },
+      "characters": [
+        "ラーヴァ/ティアマト",
+        "ソドムズビースト/ドラコー",
+        "ロクスタ",
+        "セタンタ",
+        "果心居士",
+        "ビーマ",
+        "ドゥリーヨダナ",
+        "ドゥルガー",
+        "メドゥーサ〔セイバー〕"
+      ],
+      "tags": [
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "sources": [
+        "https://typemoon.com/news/2025/7l_yus"
+      ],
+      "images": [
+        {
+          "url": "https://cache.typemoon.com/images/i32c0b2361be2431b06125064a58c5f84mg",
+          "role": "官方封面",
+          "sourceUrl": "https://typemoon.com/news/2025/7l_yus",
+          "status": "captured",
+          "contentHash": "ce10ce57286755cb9c1831626c13300e4f66486f1add5cc0b3ae88a0ca5c2eb5",
+          "localPath": "/image/2faf25556aba1c69b17221b1f65bccf9ba72ebfda81a02bb38ca7bdb033c154f",
+          "error": null
+        }
+      ],
+      "summary": "TYPE-MOON发行的FGO设定资料集第20卷，B5变形全彩、附书套。收录9项从者资料，包括ラーヴァ/ティアマト、ソドムズビースト/ドラコー、ロクスタ等。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "书籍",
+        "设定资料集",
+        "FGO material"
+      ],
+      "evidence": {
+        "method": "official-html-parser",
+        "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
+        "scope": "physical-volume; no date inferred from page header"
+      }
+    },
+    {
+      "id": "wafer6-1",
+      "identityKey": "fgo-wafer:6:1",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · ガイウス・ユリウス・カエサル (Saber)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N01",
+        "className": "Saber",
+        "character": "ガイウス・ユリウス・カエサル"
+      },
+      "characters": [
+        "ガイウス・ユリウス・カエサル"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Saber"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.25,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的ガイウス・ユリウス・カエサル卡片，职阶为Saber。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-2",
+      "identityKey": "fgo-wafer:6:2",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · ビリー・ザ・キッド (Archer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N02",
+        "className": "Archer",
+        "character": "ビリー・ザ・キッド"
+      },
+      "characters": [
+        "ビリー・ザ・キッド"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Archer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.3732142857142857,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的ビリー・ザ・キッド卡片，职阶为Archer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-3",
+      "identityKey": "fgo-wafer:6:3",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · 織田信長 (Archer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N03",
+        "className": "Archer",
+        "character": "織田信長"
+      },
+      "characters": [
+        "織田信長"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Archer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.49642857142857144,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的織田信長卡片，职阶为Archer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-4",
+      "identityKey": "fgo-wafer:6:4",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · レオニダス一世 (Lancer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N04",
+        "className": "Lancer",
+        "character": "レオニダス一世"
+      },
+      "characters": [
+        "レオニダス一世"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Lancer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.6196428571428572,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的レオニダス一世卡片，职阶为Lancer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-5",
+      "identityKey": "fgo-wafer:6:5",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · ヘクトール (Lancer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N05",
+        "className": "Lancer",
+        "character": "ヘクトール"
+      },
+      "characters": [
+        "ヘクトール"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Lancer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.7428571428571429,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的ヘクトール卡片，职阶为Lancer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-6",
+      "identityKey": "fgo-wafer:6:6",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · メドゥーサ (Rider)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N06",
+        "className": "Rider",
+        "character": "メドゥーサ"
+      },
+      "characters": [
+        "メドゥーサ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Rider"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.8660714285714286,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的メドゥーサ卡片，职阶为Rider。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-7",
+      "identityKey": "fgo-wafer:6:7",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · ヴォルフガング・アマデウス・モーツァルト (Caster)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N07",
+        "className": "Caster",
+        "character": "ヴォルフガング・アマデウス・モーツァルト"
+      },
+      "characters": [
+        "ヴォルフガング・アマデウス・モーツァルト"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Caster"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.25,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的ヴォルフガング・アマデウス・モーツァルト卡片，职阶为Caster。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-8",
+      "identityKey": "fgo-wafer:6:8",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · ウィリアム・シェイクスピア (Caster)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N08",
+        "className": "Caster",
+        "character": "ウィリアム・シェイクスピア"
+      },
+      "characters": [
+        "ウィリアム・シェイクスピア"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Caster"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.3732142857142857,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的ウィリアム・シェイクスピア卡片，职阶为Caster。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-9",
+      "identityKey": "fgo-wafer:6:9",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · 呪腕のハサン (Assassin)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N09",
+        "className": "Assassin",
+        "character": "呪腕のハサン"
+      },
+      "characters": [
+        "呪腕のハサン"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Assassin"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.49642857142857144,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的呪腕のハサン卡片，职阶为Assassin。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-10",
+      "identityKey": "fgo-wafer:6:10",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · ヘンリー・ジキル＆ハイド (Assassin)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N10",
+        "className": "Assassin",
+        "character": "ヘンリー・ジキル＆ハイド"
+      },
+      "characters": [
+        "ヘンリー・ジキル＆ハイド"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Assassin"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.6196428571428572,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的ヘンリー・ジキル＆ハイド卡片，职阶为Assassin。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-11",
+      "identityKey": "fgo-wafer:6:11",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · フランケンシュタイン (Berserker)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N11",
+        "className": "Berserker",
+        "character": "フランケンシュタイン"
+      },
+      "characters": [
+        "フランケンシュタイン"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Berserker"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.7428571428571429,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的フランケンシュタイン卡片，职阶为Berserker。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-12",
+      "identityKey": "fgo-wafer:6:12",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · BB (MoonCancer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "N12",
+        "className": "MoonCancer",
+        "character": "BB"
+      },
+      "characters": [
+        "BB"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "MoonCancer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.8660714285714286,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的BB卡片，职阶为MoonCancer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-13",
+      "identityKey": "fgo-wafer:6:13",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · アルテラ (Saber)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "R13",
+        "className": "Saber",
+        "character": "アルテラ"
+      },
+      "characters": [
+        "アルテラ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Saber"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.25,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的アルテラ卡片，职阶为Saber。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-14",
+      "identityKey": "fgo-wafer:6:14",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · アタランテ (Archer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "R14",
+        "className": "Archer",
+        "character": "アタランテ"
+      },
+      "characters": [
+        "アタランテ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Archer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.3732142857142857,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的アタランテ卡片，职阶为Archer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-15",
+      "identityKey": "fgo-wafer:6:15",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · 哪吒 (Lancer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "R15",
+        "className": "Lancer",
+        "character": "哪吒"
+      },
+      "characters": [
+        "哪吒"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Lancer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.49642857142857144,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的哪吒卡片，职阶为Lancer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-16",
+      "identityKey": "fgo-wafer:6:16",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · 坂田金時 (Rider)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "R16",
+        "className": "Rider",
+        "character": "坂田金時"
+      },
+      "characters": [
+        "坂田金時"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Rider"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.6196428571428572,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的坂田金時卡片，职阶为Rider。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-17",
+      "identityKey": "fgo-wafer:6:17",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · オケアノスのキャスター (Caster)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "R17",
+        "className": "Caster",
+        "character": "オケアノスのキャスター"
+      },
+      "characters": [
+        "オケアノスのキャスター"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Caster"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.7428571428571429,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的オケアノスのキャスター卡片，职阶为Caster。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-18",
+      "identityKey": "fgo-wafer:6:18",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · 静謐のハサン (Assassin)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "R18",
+        "className": "Assassin",
+        "character": "静謐のハサン"
+      },
+      "characters": [
+        "静謐のハサン"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Assassin"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.8660714285714286,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的静謐のハサン卡片，职阶为Assassin。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-19",
+      "identityKey": "fgo-wafer:6:19",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · ランスロット (Berserker)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "R19",
+        "className": "Berserker",
+        "character": "ランスロット"
+      },
+      "characters": [
+        "ランスロット"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Berserker"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.01607142857142857,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的ランスロット卡片，职阶为Berserker。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-20",
+      "identityKey": "fgo-wafer:6:20",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · パッションリップ (AlterEgo)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "R20",
+        "className": "AlterEgo",
+        "character": "パッションリップ"
+      },
+      "characters": [
+        "パッションリップ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "AlterEgo"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.1392857142857143,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的パッションリップ卡片，职阶为AlterEgo。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-21",
+      "identityKey": "fgo-wafer:6:21",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · アルトリア・ペンドラゴン (Lancer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "SR21",
+        "className": "Lancer",
+        "character": "アルトリア・ペンドラゴン"
+      },
+      "characters": [
+        "アルトリア・ペンドラゴン"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Lancer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.2625,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的アルトリア・ペンドラゴン卡片，职阶为Lancer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-22",
+      "identityKey": "fgo-wafer:6:22",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · セミラミス (Assassin)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "SR22",
+        "className": "Assassin",
+        "character": "セミラミス"
+      },
+      "characters": [
+        "セミラミス"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Assassin"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.38571428571428573,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的セミラミス卡片，职阶为Assassin。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-23",
+      "identityKey": "fgo-wafer:6:23",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · 土方歳三 (Berserker)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "SR23",
+        "className": "Berserker",
+        "character": "土方歳三"
+      },
+      "characters": [
+        "土方歳三"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Berserker"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.5089285714285714,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的土方歳三卡片，职阶为Berserker。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-24",
+      "identityKey": "fgo-wafer:6:24",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · 葛飾北斎 (Foreigner)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "SR24",
+        "className": "Foreigner",
+        "character": "葛飾北斎"
+      },
+      "characters": [
+        "葛飾北斎"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "Foreigner"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+          "crop": [
+            0.6321428571428571,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "c5d9a269e7913e03aa6b6945621c1421e8af8f1e74a90820cb7b2642415d4672",
+          "localPath": "/image/827518452a5f7fecc794db1df03a789aa33acba23d70c2e4bc417363119d0de4",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的葛飾北斎卡片，职阶为Foreigner。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer6-25",
+      "identityKey": "fgo-wafer:6:25",
+      "mode": "permanent",
+      "groupId": "wafer6",
+      "title": "FGO 威化第6弹 · メルトリリス (AlterEgo)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 6,
+        "cardNumber": "SSR25",
+        "className": "AlterEgo",
+        "character": "メルトリリス"
+      },
+      "characters": [
+        "メルトリリス"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第6弹",
+        "AlterEgo"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900577&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://img.mandarake.co.jp/webshopimg/03/30/225/0330314225/s_03303142253.jpg",
+          "role": "店铺单卡图",
+          "sourceUrl": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349900577&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "status": "captured",
+          "contentHash": "ceb4dc613f8ca3d9bf9179b5fcb666e48e0247f0301ccad83cc3ad5752d372f7",
+          "localPath": "/image/3b5178abe66f4ebdc3450c0c86a3b2c86543edebec65cd15c921ed19b12df345",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第6弹的メルトリリス卡片，职阶为AlterEgo。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第6弹"
+      ],
+      "evidence": {
+        "method": "retailer-title-plus-official-wave",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
+        "rarityNote": null
+      }
+    },
+    {
+      "id": "wafer5-1",
+      "identityKey": "fgo-wafer:5:1",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · 鈴鹿御前 (Saber)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N01",
+        "className": "Saber",
+        "character": "鈴鹿御前"
+      },
+      "characters": [
+        "鈴鹿御前"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Saber"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.25,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的鈴鹿御前卡片，职阶为Saber。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-2",
+      "identityKey": "fgo-wafer:5:2",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · ラーマ (Saber)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N02",
+        "className": "Saber",
+        "character": "ラーマ"
+      },
+      "characters": [
+        "ラーマ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Saber"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.3732142857142857,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的ラーマ卡片，职阶为Saber。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-3",
+      "identityKey": "fgo-wafer:5:3",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · ダビデ (Archer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N03",
+        "className": "Archer",
+        "character": "ダビデ"
+      },
+      "characters": [
+        "ダビデ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Archer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.49642857142857144,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的ダビデ卡片，职阶为Archer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-4",
+      "identityKey": "fgo-wafer:5:4",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · アルテラ・ザ・サン〔タ〕 (Archer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N04",
+        "className": "Archer",
+        "character": "アルテラ・ザ・サン〔タ〕"
+      },
+      "characters": [
+        "アルテラ・ザ・サン〔タ〕"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Archer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.6196428571428572,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的アルテラ・ザ・サン〔タ〕卡片，职阶为Archer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-5",
+      "identityKey": "fgo-wafer:5:5",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · ディルムッド・オディナ (Lancer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N05",
+        "className": "Lancer",
+        "character": "ディルムッド・オディナ"
+      },
+      "characters": [
+        "ディルムッド・オディナ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Lancer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1342306380&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.7428571428571429,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的ディルムッド・オディナ卡片，职阶为Lancer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-6",
+      "identityKey": "fgo-wafer:5:6",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · ブーディカ (Rider)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N06",
+        "className": "Rider",
+        "character": "ブーディカ"
+      },
+      "characters": [
+        "ブーディカ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Rider"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1333631545&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.8660714285714286,
+            0.16071428571428573,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的ブーディカ卡片，职阶为Rider。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-7",
+      "identityKey": "fgo-wafer:5:7",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · クー・フーリン (Caster)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N07",
+        "className": "Caster",
+        "character": "クー・フーリン"
+      },
+      "characters": [
+        "クー・フーリン"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Caster"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.25,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的クー・フーリン卡片，职阶为Caster。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-8",
+      "identityKey": "fgo-wafer:5:8",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · メディア〔リリィ〕 (Caster)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N08",
+        "className": "Caster",
+        "character": "メディア〔リリィ〕"
+      },
+      "characters": [
+        "メディア〔リリィ〕"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Caster"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.3732142857142857,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的メディア〔リリィ〕卡片，职阶为Caster。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-9",
+      "identityKey": "fgo-wafer:5:9",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · マタ・ハリ (Assassin)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N09",
+        "className": "Assassin",
+        "character": "マタ・ハリ"
+      },
+      "characters": [
+        "マタ・ハリ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Assassin"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.49642857142857144,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的マタ・ハリ卡片，职阶为Assassin。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-10",
+      "identityKey": "fgo-wafer:5:10",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · 風魔小太郎 (Assassin)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N10",
+        "className": "Assassin",
+        "character": "風魔小太郎"
+      },
+      "characters": [
+        "風魔小太郎"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Assassin"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.6196428571428572,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的風魔小太郎卡片，职阶为Assassin。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-11",
+      "identityKey": "fgo-wafer:5:11",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · アステリオス (Berserker)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N11",
+        "className": "Berserker",
+        "character": "アステリオス"
+      },
+      "characters": [
+        "アステリオス"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Berserker"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.7428571428571429,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的アステリオス卡片，职阶为Berserker。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-12",
+      "identityKey": "fgo-wafer:5:12",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · 茶々 (Berserker)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "N12",
+        "className": "Berserker",
+        "character": "茶々"
+      },
+      "characters": [
+        "茶々"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Berserker"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1104194064&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.8660714285714286,
+            0.33214285714285713,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的茶々卡片，职阶为Berserker。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-13",
+      "identityKey": "fgo-wafer:5:13",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · エリザベート・バートリー〔ブレイブ〕 (Saber)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "R13",
+        "className": "Saber",
+        "character": "エリザベート・バートリー〔ブレイブ〕"
+      },
+      "characters": [
+        "エリザベート・バートリー〔ブレイブ〕"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Saber"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1110268223&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.25,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的エリザベート・バートリー〔ブレイブ〕卡片，职阶为Saber。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-14",
+      "identityKey": "fgo-wafer:5:14",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · ロビンフッド (Archer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "R14",
+        "className": "Archer",
+        "character": "ロビンフッド"
+      },
+      "characters": [
+        "ロビンフッド"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Archer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1342306549&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.3732142857142857,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的ロビンフッド卡片，职阶为Archer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-15",
+      "identityKey": "fgo-wafer:5:15",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · パールヴァティー (Lancer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "R15",
+        "className": "Lancer",
+        "character": "パールヴァティー"
+      },
+      "characters": [
+        "パールヴァティー"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Lancer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1342306731&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.49642857142857144,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的パールヴァティー卡片，职阶为Lancer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-16",
+      "identityKey": "fgo-wafer:5:16",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · アルトリア・ペンドラゴン〔サンタオルタ〕 (Rider)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "R16",
+        "className": "Rider",
+        "character": "アルトリア・ペンドラゴン〔サンタオルタ〕"
+      },
+      "characters": [
+        "アルトリア・ペンドラゴン〔サンタオルタ〕"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Rider"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.6196428571428572,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的アルトリア・ペンドラゴン〔サンタオルタ〕卡片，职阶为Rider。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-17",
+      "identityKey": "fgo-wafer:5:17",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · ナーサリー・ライム (Caster)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "R17",
+        "className": "Caster",
+        "character": "ナーサリー・ライム"
+      },
+      "characters": [
+        "ナーサリー・ライム"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Caster"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.7428571428571429,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的ナーサリー・ライム卡片，职阶为Caster。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-18",
+      "identityKey": "fgo-wafer:5:18",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · 刑部姫 (Assassin)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "R18",
+        "className": "Assassin",
+        "character": "刑部姫"
+      },
+      "characters": [
+        "刑部姫"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Assassin"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1104193882&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.8660714285714286,
+            0.5035714285714286,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的刑部姫卡片，职阶为Assassin。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-19",
+      "identityKey": "fgo-wafer:5:19",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · 茨木童子 (Berserker)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "R19",
+        "className": "Berserker",
+        "character": "茨木童子"
+      },
+      "characters": [
+        "茨木童子"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Berserker"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.01607142857142857,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的茨木童子卡片，职阶为Berserker。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-20",
+      "identityKey": "fgo-wafer:5:20",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · 新宿のアヴェンジャー (Avenger)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "R20",
+        "className": "Avenger",
+        "character": "新宿のアヴェンジャー"
+      },
+      "characters": [
+        "新宿のアヴェンジャー"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Avenger"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.1392857142857143,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的新宿のアヴェンジャー卡片，职阶为Avenger。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-21",
+      "identityKey": "fgo-wafer:5:21",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · モードレッド (Saber)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "SR21",
+        "className": "Saber",
+        "character": "モードレッド"
+      },
+      "characters": [
+        "モードレッド"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Saber"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.2625,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的モードレッド卡片，职阶为Saber。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-22",
+      "identityKey": "fgo-wafer:5:22",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · エレシュキガル (Lancer)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "SR22",
+        "className": "Lancer",
+        "character": "エレシュキガル"
+      },
+      "characters": [
+        "エレシュキガル"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Lancer"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.38571428571428573,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的エレシュキガル卡片，职阶为Lancer。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-23",
+      "identityKey": "fgo-wafer:5:23",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · イスカンダル (Rider)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "SR23",
+        "className": "Rider",
+        "character": "イスカンダル"
+      },
+      "characters": [
+        "イスカンダル"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Rider"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.5089285714285714,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的イスカンダル卡片，职阶为Rider。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-24",
+      "identityKey": "fgo-wafer:5:24",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · アビゲイル・ウィリアムズ (Foreigner)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "SR24",
+        "className": "Foreigner",
+        "character": "アビゲイル・ウィリアムズ"
+      },
+      "characters": [
+        "アビゲイル・ウィリアムズ"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Foreigner"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html"
+      ],
+      "images": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+          "role": "官方总表中的对应卡面",
+          "sourceUrl": "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+          "crop": [
+            0.6321428571428571,
+            0.6696428571428571,
+            0.12321428571428572,
+            0.16964285714285715
+          ],
+          "status": "captured",
+          "contentHash": "7f8f82705a99f4396791da0d570f259b5785b746289c762b3f4b41f8e6140d24",
+          "localPath": "/image/214dab702ed65ff696944e3d7c73c20576863cd19816d2a1ce1564a38f50bbe8",
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的アビゲイル・ウィリアムズ卡片，职阶为Foreigner。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "assistant-visual-transcription-of-official-numbered-grid",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "wafer5-25",
+      "identityKey": "fgo-wafer:5:25",
+      "mode": "permanent",
+      "groupId": "wafer5",
+      "title": "FGO 威化第5弹 · アーサー・ペンドラゴン〔プロトタイプ〕 (Saber)",
+      "type": "威化单卡",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "卡片",
+        "wave": 5,
+        "cardNumber": "SSR25",
+        "className": "Saber",
+        "character": "アーサー・ペンドラゴン〔プロトタイプ〕"
+      },
+      "characters": [
+        "アーサー・ペンドラゴン〔プロトタイプ〕"
+      ],
+      "tags": [
+        "BANDAI",
+        "威化第5弹",
+        "Saber"
+      ],
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660290186000.html",
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1342307108&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ],
+      "images": [
+        {
+          "url": "https://img.mandarake.co.jp/webshopimg/03/00/885/0300895885/s_03008958857.jpg",
+          "role": "店铺单卡图",
+          "sourceUrl": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1342307108&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "summary": "BANDAI《Fate/Grand Order》威化第5弹的アーサー・ペンドラゴン〔プロトタイプ〕卡片，职阶为Saber。单卡可独立收藏；同名角色的其他弹次与职阶另行区分。",
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "FGO 综合",
+        "卡片",
+        "威化卡片",
+        "第5弹"
+      ],
+      "evidence": {
+        "method": "retailer-title-plus-official-wave",
+        "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
+        "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
+      }
+    },
+    {
+      "id": "extella-link-regular",
+      "identityKey": "extella-link-regular",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK 通常版",
+      "type": "游戏",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "游戏",
+        "edition": "通常版",
+        "medium": "实体",
+        "region": "JP"
+      },
+      "variants": [
+        {
+          "platform": "PS4",
+          "region": "JP",
+          "medium": "实体"
+        },
+        {
+          "platform": "PS Vita",
+          "region": "JP",
+          "medium": "实体"
+        },
+        {
+          "platform": "Switch",
+          "region": "JP",
+          "medium": "实体"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/normal_ps4.png?v=1540891672652",
+          "role": "官方版本图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "captured",
+          "contentHash": "5f2bbaf939df531c7fe625d3e7f7e260788fe95fdb6d550bc7f8fa19d458cf1d",
+          "localPath": "/image/4c8d0477c3d60065c47a3d90c1f6d06cb26bdff42da57676ae77de214697c0e9",
+          "error": null
+        },
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/normal_vita.png?v=1540891672652",
+          "role": "官方版本图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "captured",
+          "contentHash": "a181fa24469a3c092f7fba78ccd433e9691faef64e91c109f47d24aed416c35c",
+          "localPath": "/image/6d42c221aaf7f465aac73cf29576a69758b8341da321d7c9e2238e668e06b813",
+          "error": null
+        },
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/normal_switch.png?1901",
+          "role": "官方版本图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "captured",
+          "contentHash": "8b05ca3530cc2d6a1462e06d6620b77ded5ab8fefd26cd010b9e8b35c801112b",
+          "localPath": "/image/4ccbdb9c83f3fa0533f9b0beb819484fcd7205c4adf7418b70c032db4e36c1b0",
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》通常版实体游戏，PS4、PS Vita和Switch按平台区分挂牌。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "游戏",
+        "游戏软件"
+      ],
+      "characters": [],
+      "tags": [
+        "Fate/EXTELLA LINK",
+        "通常版"
+      ]
+    },
+    {
+      "id": "extella-link-premium",
+      "identityKey": "extella-link-premium",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK プレミアム限定版",
+      "type": "游戏",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "游戏",
+        "edition": "PREMIUM",
+        "medium": "实体",
+        "region": "JP"
+      },
+      "variants": [
+        {
+          "platform": "PS4",
+          "region": "JP",
+          "medium": "实体"
+        },
+        {
+          "platform": "PS Vita",
+          "region": "JP",
+          "medium": "实体"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/special_ps4_image.jpg?v=1540891672652",
+          "role": "官方版本图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "captured",
+          "contentHash": "10289341df4d1d94c145247e3ac8d38aa1963ee0aff91e4ca48c88e32680510e",
+          "localPath": "/image/6b0fa87cfa0334aa2ec61a6c63aab7cd6a4ac28d1e144fd93b0d389c0bca472b",
+          "error": null
+        },
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/special_vita_image.jpg?v=1540891672652",
+          "role": "官方版本图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "captured",
+          "contentHash": "4e1f76e356578740bdd7286446791a6487d8493efc7c6a36b7e31b297ee8556e",
+          "localPath": "/image/03c865297964d7e34ea2d2d6df0f543617d312250964355c0003112b3641ec67",
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》日版限定套装，包含游戏、月之圣牌和原声音乐等内容。PS4与PS Vita所附服装兑换码不同，具体附件按挂牌记录。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "游戏",
+        "游戏软件"
+      ],
+      "characters": [],
+      "tags": [
+        "Fate/EXTELLA LINK",
+        "PREMIUM"
+      ]
+    },
+    {
+      "id": "extella-celebration",
+      "identityKey": "extella-celebration",
+      "mode": "permanent",
+      "groupId": "extella",
+      "title": "Fate/EXTRA 10th ANNIVERSARY Celebration BOX",
+      "type": "游戏",
+      "identity": {
+        "work": "Fate/EXTELLA",
+        "major": "游戏",
+        "edition": "CELEBRATION BOX",
+        "medium": "实体",
+        "region": "JP"
+      },
+      "variants": [
+        {
+          "platform": "PS4",
+          "region": "JP",
+          "medium": "实体"
+        },
+        {
+          "platform": "Switch",
+          "region": "JP",
+          "medium": "实体"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://celebration.fate-extella.jp/images/top/prize-ps4.jpg",
+          "role": "官方盒装内容",
+          "sourceUrl": "https://celebration.fate-extella.jp/",
+          "status": "captured",
+          "contentHash": "102d8febe30b05a0e85ce0c4c087dfa8c9c3470aced906063f5b08a5012ea75f",
+          "localPath": "/image/419bc13bbed4732df15ffaacc568433e3b69405e15bafefdaf2078d9f3448fb8",
+          "error": null
+        },
+        {
+          "url": "https://celebration.fate-extella.jp/images/top/prize-swich.jpg",
+          "role": "官方盒装内容",
+          "sourceUrl": "https://celebration.fate-extella.jp/",
+          "status": "captured",
+          "contentHash": "26d25127a82901b1c4f29278ff0625defac4730d5c79ee71d9aab806c8a88c23",
+          "localPath": "/image/5887387b402463d61a58ed01e66f316207f093b50148af9e9447b1e857478eef",
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://celebration.fate-extella.jp/"
+      ],
+      "summary": "为Fate/EXTRA十周年推出的官方盒装，实际包含EXTELLA与EXTELLA LINK两款游戏。PS4和Switch分别发行，附纪念电子宠物及複製画等内容。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA",
+        "游戏",
+        "游戏软件"
+      ],
+      "characters": [],
+      "tags": [
+        "Fate/EXTELLA",
+        "CELEBRATION BOX"
+      ],
+      "relatedWorks": [
+        "Fate/EXTELLA",
+        "Fate/EXTELLA LINK"
+      ],
+      "alsoGroupIds": [
+        "extella-link"
+      ]
+    },
+    {
+      "id": "extella-link-fleeting-glory",
+      "identityKey": "extella-link-fleeting-glory",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK Fleeting Glory Edition",
+      "type": "游戏",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "游戏",
+        "edition": "Fleeting Glory Edition",
+        "region": "NA",
+        "medium": "实体"
+      },
+      "variants": [
+        {
+          "platform": "PS4",
+          "region": "NA",
+          "medium": "实体"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://marvelous-usa.com/wp-content/uploads/2023/05/FateEXTELLA_LINK_Logo-for-bubble-1024x432.png",
+          "role": "北美发行方盒装图",
+          "sourceUrl": "https://marvelous-usa.com/2018/09/28/xseed-games-reveals-fate-extella-link-fleeting-glory-edition-details-for-ps4-announces-q1-2019-release-window-for-ps4-and-ps-vita/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://marvelous-usa.com/2018/09/28/xseed-games-reveals-fate-extella-link-fleeting-glory-edition-details-for-ps4-announces-q1-2019-release-window-for-ps4-and-ps-vita/"
+      ],
+      "summary": "XSEED公布的北美PS4收藏版，附原声CD、角色卡、布质海报及亚克力场景。与日版プレミアム限定版分开建档。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "游戏",
+        "游戏软件"
+      ],
+      "characters": [],
+      "tags": [
+        "Fate/EXTELLA LINK",
+        "Fleeting Glory Edition"
+      ]
+    },
+    {
+      "id": "link-bonus-42fd3edf592a",
+      "identityKey": "link-bonus-42fd3edf592a",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · アニメイト · 描き下ろしA5アクリルパネル ＆54mm缶バッジセット",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "アニメイト",
+        "edition": "店铺特典",
+        "scope": "描き下ろしA5アクリルパネル\n＆54mm缶バッジセット"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/animate1.png?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        },
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/animate2.png?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的アニメイト购买特典：描き下ろしA5アクリルパネル ＆54mm缶バッジセット。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "アニメイト"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    },
+    {
+      "id": "link-bonus-fb4c837d8bdc",
+      "identityKey": "link-bonus-fb4c837d8bdc",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · あみあみ · オリジナルスリムタペストリー",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "あみあみ",
+        "edition": "店铺特典",
+        "scope": "オリジナルスリムタペストリー"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/amiami.jpg?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的あみあみ购买特典：オリジナルスリムタペストリー。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "あみあみ"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    },
+    {
+      "id": "link-bonus-21b619b98c77",
+      "identityKey": "link-bonus-21b619b98c77",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · イーカプコン · オリジナルアクリルスタンド ※限定版のみ",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "イーカプコン",
+        "edition": "店铺特典",
+        "scope": "オリジナルアクリルスタンド\n※限定版のみ"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/ecapcom.jpg?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的イーカプコン购买特典：オリジナルアクリルスタンド ※限定版のみ。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "イーカプコン"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    },
+    {
+      "id": "link-bonus-231bf4c3dbe8",
+      "identityKey": "link-bonus-231bf4c3dbe8",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · エビテン · オリジナルB3タペストリー",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "エビテン",
+        "edition": "店铺特典",
+        "scope": "オリジナルB3タペストリー"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/ebten.jpg?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的エビテン购买特典：オリジナルB3タペストリー。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "エビテン"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    },
+    {
+      "id": "link-bonus-99d43a08fa15",
+      "identityKey": "link-bonus-99d43a08fa15",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · ゲーマーズ · オリジナルB5マイクロファイバータオル",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "ゲーマーズ",
+        "edition": "店铺特典",
+        "scope": "オリジナルB5マイクロファイバータオル"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/gamers.jpg?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的ゲーマーズ购买特典：オリジナルB5マイクロファイバータオル。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "ゲーマーズ"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    },
+    {
+      "id": "link-bonus-1803f1878bb7",
+      "identityKey": "link-bonus-1803f1878bb7",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · ソフマップ · 描き下ろしWスエードB2タペストリー≪日本製≫                ※限定版のみ",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "ソフマップ",
+        "edition": "店铺特典",
+        "scope": "描き下ろしWスエードB2タペストリー≪日本製≫\n\n              ※限定版のみ"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/sofmap.jpg?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的ソフマップ购买特典：描き下ろしWスエードB2タペストリー≪日本製≫                ※限定版のみ。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "ソフマップ"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    },
+    {
+      "id": "link-bonus-3ee9005f6198",
+      "identityKey": "link-bonus-3ee9005f6198",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · トレーダー · 描き下ろし特大タペストリー",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "トレーダー",
+        "edition": "店铺特典",
+        "scope": "描き下ろし特大タペストリー"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/trader.jpg?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的トレーダー购买特典：描き下ろし特大タペストリー。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "トレーダー"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    },
+    {
+      "id": "link-bonus-ebc160519685",
+      "identityKey": "link-bonus-ebc160519685",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · 古本市場 · オリジナルマウスパッド",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "古本市場",
+        "edition": "店铺特典",
+        "scope": "オリジナルマウスパッド"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/furuichi.jpg?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的古本市場购买特典：オリジナルマウスパッド。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "古本市場"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    },
+    {
+      "id": "link-bonus-d063f50c6f60",
+      "identityKey": "link-bonus-d063f50c6f60",
+      "mode": "permanent",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK · WonderGOO · 描き下ろしB2タペストリー                ※限定版のみ",
+      "type": "游戏店铺特典",
+      "identity": {
+        "work": "Fate/EXTELLA LINK",
+        "major": "周边",
+        "shop": "WonderGOO",
+        "edition": "店铺特典",
+        "scope": "描き下ろしB2タペストリー\n\n              ※限定版のみ"
+      },
+      "images": [
+        {
+          "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/wondergoo.jpg?v=1540891672652",
+          "role": "官方店铺特典参考图",
+          "sourceUrl": "https://fate-extella-link.jp/product/",
+          "status": "not-fetched",
+          "contentHash": null,
+          "localPath": null,
+          "error": null
+        }
+      ],
+      "sources": [
+        "https://fate-extella-link.jp/product/"
+      ],
+      "summary": "《Fate/EXTELLA LINK》的WonderGOO购买特典：描き下ろしB2タペストリー                ※限定版のみ。属于发行特典目录，不表示二手游戏必然附送。",
+      "path": [
+        "TYPE-MOON",
+        "Fate",
+        "Fate/EXTELLA LINK",
+        "特典"
+      ],
+      "characters": [],
+      "tags": [
+        "店铺特典",
+        "WonderGOO"
+      ],
+      "evidence": {
+        "method": "official-shop-table-parser",
+        "bundleScope": "whole-listed-bonus; no split of fixed components"
+      }
+    }
+  ],
+  "families": [
+    {
+      "familyKey": "fgo-material",
+      "expected": 20,
+      "discovered": 20
+    },
+    {
+      "familyKey": "fgo-wafer-6",
+      "expected": 25,
+      "discovered": 25
+    },
+    {
+      "familyKey": "fgo-wafer-5",
+      "expected": 25,
+      "discovered": 25
+    },
+    {
+      "familyKey": "extella-link",
+      "discovered": 12
+    },
+    {
+      "familyKey": "extella",
+      "discovered": 1
+    }
+  ],
+  "automation": "HTML extraction and idempotent merge are code; card visual transcription is a hash-bound assistant result, not unattended model inference."
+}
