@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-31",
+  "timezone": "America/Chicago",
+  "tests": {
+    "command": "node --test tools/recognition/test.mjs",
+    "passed": 13,
+    "failed": 0,
+    "scope": "isolated recognition and read-only local viewer"
+  },
+  "browser": {
+    "moduleHierarchy": true,
+    "detailGallery": true,
+    "newRows": 70,
+    "visualLots": 4,
+    "linkPremiumOffers": [
+      "P013:PS4",
+      "P166:PS Vita"
+    ],
+    "desktopViewport": 1280,
+    "narrowViewport": 390,
+    "narrowDocumentWidth": 375,
+    "narrowScrollWidth": 375,
+    "viewportReset": true
+  },
+  "frozenInputsUnchanged": 5,
+  "stats": {
+    "newProcessed": 70,
+    "inherited": 30,
+    "holdoutNotRun": 200,
+    "products": 245,
+    "permanent": 228,
+    "visible": 237,
+    "seriesCreated": 67,
+    "seriesReused": 16,
+    "new70Actions": {
+      "reuse-permanent": 18,
+      "add-permanent-proposal": 10,
+      "reuse-existing-catalogue": 32,
+      "temporary-sale-object": 8,
+      "exclude-fixed-part": 1,
+      "retain-candidate": 1
+    },
+    "imageCoverage": {
+      "localProducts": 241,
+      "linkedUnavailable": 4,
+      "noImage": 0,
+      "new70WithLocalImage": 69
+    },
+    "vision": {
+      "lots": 4,
+      "regions": 27,
+      "unattended": false
+    },
+    "independentAccuracy": null,
+    "productionWrites": 0,
+    "productionDeploys": 0
+  },
+  "productionWrites": 0,
+  "deployments": 0,
+  "holdoutProcessed": 0,
+  "independentAccuracy": null,
+  "restorePlan": {
+    "images": 223,
+    "networkRequests": 0
+  }
+}

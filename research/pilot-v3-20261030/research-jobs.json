@@ -1,0 +1,728 @@
+[
+  {
+    "id": "research-08ba8f8044b4e38e",
+    "familyKey": "fgo-material",
+    "sampleIds": [
+      "P032",
+      "P033",
+      "P034",
+      "P036",
+      "P042",
+      "P046"
+    ],
+    "reuse": true,
+    "queries": [
+      "Fate/Grand Order 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "Fate/Grand Order material VI (書籍) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "resolved-from-series-cache",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-16fdb3ea706ca144",
+    "familyKey": "line-8c6259ade5694820",
+    "sampleIds": [
+      "P035"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Apocrypha 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "Fate/Apocrypha material(特製スリーブ付)(書籍) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-30e7ba9562f7108e",
+    "familyKey": "line-5b32ad4c3b97f0ea",
+    "sampleIds": [
+      "P038"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/stay night 商品"
+    ],
+    "imageQueries": [
+      "劇場版「Fate/stay night [Heaven’s Feel] II.lost butterfly」ufotable限定店舗特典 Animation Material II 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-2d35dfa140231aea",
+    "familyKey": "line-9f5b7efa1b17cb43",
+    "sampleIds": [
+      "P039"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/EXTRA 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "【1円~】Fate/EXTRA material 初回限定版 未開封 設定資料集 TYPE-MOON 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-764513b62fbc96ea",
+    "familyKey": "line-a1476baac70c485d",
+    "sampleIds": [
+      "P043"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "OrangeMaru (YD) Fate/Grand Order H Material 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-eaf8e6b6670f8af4",
+    "familyKey": "line-4b24404ddb83f0a2",
+    "sampleIds": [
+      "P047"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "METAJAN (ケースワベ) Fate/Grand Order JUNK MATERIAL 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-4712fb139d246284",
+    "familyKey": "fgo-seraph",
+    "sampleIds": [
+      "P049"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "★未完)Fate/Grand Order -Epic of Remnant- 亜種特異点EX 深海電脳楽土 SE.RA.PH 1~8巻セット / 西出ケンゴロー 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-287c427168e2009d",
+    "familyKey": "line-355e81366992c121",
+    "sampleIds": [
+      "P052"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "Fate/Grand Order カルデアエース VOL.2 (書籍) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-7c4ef10f09129a71",
+    "familyKey": "line-24560faffe2f597b",
+    "sampleIds": [
+      "P058"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/stay night 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "劇場版「Fate/stay night [Heaven’s Feel]」 アニメビジュアルガイド (書籍) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-4721cd45833e0d88",
+    "familyKey": "line-5f37550e2b7c2d76",
+    "sampleIds": [
+      "P062"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Lost Einherjar 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "Fate:Lost Einherjar 極光のアスラウグ 1巻 亜種二連聖杯戦争 (書籍) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-a4262f4e209f07b8",
+    "familyKey": "line-78653db5121e2531",
+    "sampleIds": [
+      "P069"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "<<PC・スマホゲーム書籍>> 【FGO Fes. 2025】Fate/Grand Order 10th Anniversary ALBUM 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-0bdc903289f14520",
+    "familyKey": "line-43c5f4eac9ff4248",
+    "sampleIds": [
+      "P070"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/stay night 書籍 シリーズ"
+    ],
+    "imageQueries": [
+      "Fate/stay night[Unlimited Blade Works] アニメビジュアルガイド(書籍) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-851587e74c3a1e77",
+    "familyKey": "line-a9d90f1a2195924b",
+    "sampleIds": [
+      "P072"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/strange Fake 商品"
+    ],
+    "imageQueries": [
+      "キャスター&オーランド・リーヴ 「TVアニメ Fate/strange Fake トレーディングオーロラアクリルカード」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-55b19f8e772c2620",
+    "familyKey": "kuji-8964709026ff2f93",
+    "sampleIds": [
+      "P085",
+      "P112"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "セイバー/ジークフリート ラバーストラップ きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order~水着剣豪七色勝負!~」 G賞 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-15e1e054a0abe09b",
+    "familyKey": "line-c6ff1c39ed956441",
+    "sampleIds": [
+      "P089"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/strange Fake 商品"
+    ],
+    "imageQueries": [
+      "ランサー Cafe ver. アクリルカード 「TVアニメ Fate/strange Fake」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-f552718d7242aec8",
+    "familyKey": "line-2ad48964062c19d8",
+    "sampleIds": [
+      "P090"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "キャスター/マーリン 「Fate/Grand Order 10th Anniversary “OVER THE SAME SKY” コレクションブロマイド 【中国・四国】」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-7f22b37f8a77bf98",
+    "familyKey": "line-ec2e35968fc537ab",
+    "sampleIds": [
+      "P098"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "ルーラー/シャーロック・ホームズ 「Fate/Grand Order 10th Anniversary “OVER THE SAME SKY” コレクションブロマイド 【北海道・東北】」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-6c0c85a781a13f0c",
+    "familyKey": "kuji-17aff7ea753c7732",
+    "sampleIds": [
+      "P108",
+      "P244",
+      "P267"
+    ],
+    "reuse": false,
+    "queries": [
+      "作品待确认 商品"
+    ],
+    "imageQueries": [
+      "イリヤ ちびちゅきラバーストラップ 「一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial」 F賞 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-94a827d1db17d695",
+    "familyKey": "kuji-2ac38b92d6b87b97",
+    "sampleIds": [
+      "P116",
+      "P274"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "全12種セット 色紙 色コレ 「一番くじ 劇場版 Fate/Grand Order -神聖円卓領域キャメロット-」 E賞 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-7ada4580891de964",
+    "familyKey": "extella",
+    "sampleIds": [
+      "P127",
+      "P138",
+      "P144",
+      "P145",
+      "P152",
+      "P167",
+      "P173",
+      "P177"
+    ],
+    "reuse": true,
+    "queries": [
+      "Fate/EXTELLA 製品情報 限定版"
+    ],
+    "imageQueries": [
+      "Fate/EXTELLA [BEST版] (箱説なし) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "resolved-from-series-cache",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-2192a95c1d4059f8",
+    "familyKey": "line-09bda9de20a570ea",
+    "sampleIds": [
+      "P137",
+      "P180",
+      "P181"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/EXTELLA 製品情報 限定版"
+    ],
+    "imageQueries": [
+      "プレイステーション4本体 PlayStation4 Fate/EXTELLA Edition 1TB(状態:コントローラ状態難) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-bc048be3b0613545",
+    "familyKey": "687ad48b69ebec21",
+    "sampleIds": [
+      "P140"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/EXTRA 製品情報 限定版"
+    ],
+    "imageQueries": [
+      "北米版 FATE/EXTRA LIMITED EDITION (国内版本体可) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-f36d20e707e80b84",
+    "familyKey": "extella-link",
+    "sampleIds": [
+      "P163",
+      "P166",
+      "P169",
+      "P175"
+    ],
+    "reuse": true,
+    "queries": [
+      "Fate/EXTELLA LINK 製品情報 限定版"
+    ],
+    "imageQueries": [
+      "Fate/EXTELLA LINK [通常版] (箱説なし) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "resolved-from-series-cache",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-dec80b97119bd8cc",
+    "familyKey": "line-634286b634f2ff98",
+    "sampleIds": [
+      "P165"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/tiger colosseum 商品"
+    ],
+    "imageQueries": [
+      "令呪 特製ポーチ 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-e705a7849456ddfa",
+    "familyKey": "line-858e88025f34ae12",
+    "sampleIds": [
+      "P182"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/hollow ataraxia 商品"
+    ],
+    "imageQueries": [
+      "ねんどろいど ぷち Fate/hollow ataraxia ディスプレイステージ (サークルKサンクス限定) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-0e10211b3d73fd82",
+    "familyKey": "line-ca479591a2cbad2f",
+    "sampleIds": [
+      "P217",
+      "P222"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "アーチャー/杉谷善住坊 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ ポートレイトコレクション Fes.2025描き下ろしサーヴァントB」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-04274203c4a1c441",
+    "familyKey": "line-4f28a20973474f4c",
+    "sampleIds": [
+      "P218"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "セイバー/ジークフリート 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ ポートレイトコレクション Fes.2022描き下ろしサーヴァントA」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-e993373f2ee68205",
+    "familyKey": "line-fb33ceda2c05b997",
+    "sampleIds": [
+      "P219"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "ルーラー/ジェームズ・モリアーティ 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ ポートレイトコレクション Fes.2025描き下ろしサーヴァントE」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-37c92c19e066786d",
+    "familyKey": "line-0125743ea653753a",
+    "sampleIds": [
+      "P220"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "プリテンダー/オベロン 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ ポートレイトコレクション Fes.2025描き下ろしサーヴァントC」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-fa29a880cf1e01b7",
+    "familyKey": "line-f8544cade2c34ca4",
+    "sampleIds": [
+      "P221"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "アルターエゴ/キングプロテア 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ “under the same sky” ポートレイトコレクション A」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-4a20819141310b03",
+    "familyKey": "fes-student-2026",
+    "sampleIds": [
+      "P223",
+      "P226",
+      "P227",
+      "P228",
+      "P229",
+      "P231",
+      "P232"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "フォーリナー/葛飾北斎 学生証 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-93deff1cb7265b5d",
+    "familyKey": "line-786c9355fa65bdf5",
+    "sampleIds": [
+      "P224"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "ルーラー/シャーロック・ホームズ 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ ポートレイトコレクション Fes.2018描き下ろしサーヴァントA」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-be1562330dccf987",
+    "familyKey": "line-f0bb983b69d4f57f",
+    "sampleIds": [
+      "P225"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "集合(グリーン) 「Fate/Grand Order Fes. 2026 カルデア学園祭~11th Anniversary~ サーヴァント別 描き下ろしイラスト ランダムシールシート」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-b80c4c64c8295c9d",
+    "familyKey": "line-7defcdc69c4b6895",
+    "sampleIds": [
+      "P230"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "バーサーカー/クー・フーリン〔オルタ〕 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ “under the same sky” ポートレイトコレクション B」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-f35d5d34aab28a01",
+    "familyKey": "line-25d89de00e2d14c8",
+    "sampleIds": [
+      "P233"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "キャスター/アルトリア・キャスター 「Fate/Grand Order Fes. 2025 ~10th Anniversary~ ポートレイトコレクション Fes.2021描き下ろしサーヴァントB」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-cb65d3c2698186f0",
+    "familyKey": "line-6ffbfb50cb98d1bb",
+    "sampleIds": [
+      "P235"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "不備有)Fate/Grand Order -MOONLIGHT/LOSTROOM- [FGO Fes. 2018限定版/Rouge ver.](状態:特典DISC欠品) 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-4f1d3aabc09de221",
+    "familyKey": "line-9e7bf6f7a46ef963",
+    "sampleIds": [
+      "P241",
+      "P282"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "本庄雷太展 FGO 缶バッジ モリアーティ 若森2種セット 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-f71e9852cee5cdfc",
+    "familyKey": "line-c36cc2baa80e444c",
+    "sampleIds": [
+      "P243"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Grand Order 商品"
+    ],
+    "imageQueries": [
+      "【まとめ売り】 5個 FGO フィギュア カイニス スカサハ マシュキリエライト 等 一番くじ H555 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-19552bc53816aa0c",
+    "familyKey": "line-68a315390918e13c",
+    "sampleIds": [
+      "P262"
+    ],
+    "reuse": false,
+    "queries": [
+      "多IP混合 商品"
+    ],
+    "imageQueries": [
+      "[BG-4-4] オーバーロード Fate 艦これ らき☆すた ホロライブ 魔法少女まどか☆マギカ プライズ 一番くじ フィギュア まとめ売り 未開封 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-a46e5ae9f980c1e8",
+    "familyKey": "line-2a7b6112cf321329",
+    "sampleIds": [
+      "P268"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/Apocrypha 商品"
+    ],
+    "imageQueries": [
+      "Fate/Apocrypha 単巻全12巻セット 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  },
+  {
+    "id": "research-e55720194839505f",
+    "familyKey": "line-b24a999fb347a1a9",
+    "sampleIds": [
+      "P285"
+    ],
+    "reuse": false,
+    "queries": [
+      "Fate/strange Fake 商品"
+    ],
+    "imageQueries": [
+      "[新品] アーチャー Cafe ver. アクリルスタンド 「TVアニメ Fate/strange Fake」 商品画像"
+    ],
+    "decision": "evidence-before-add",
+    "status": "bounded-title-and-source-evidence",
+    "modelWorker": "session-assisted; external model adapter not configured"
+  }
+]

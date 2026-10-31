@@ -1,0 +1,102 @@
+{
+  "sourceCapture": {
+    "runs": [
+      {
+        "name": "capture-plan",
+        "planned": 12,
+        "requests": 12,
+        "cacheHits": 0,
+        "captured": 12,
+        "unavailable": 0,
+        "requestElapsedMs": 16495
+      },
+      {
+        "name": "images-plan",
+        "planned": 166,
+        "requests": 156,
+        "cacheHits": 7,
+        "captured": 78,
+        "unavailable": 88,
+        "requestElapsedMs": 61457
+      },
+      {
+        "name": "gallery-plan",
+        "planned": 39,
+        "requests": 39,
+        "cacheHits": 0,
+        "captured": 39,
+        "unavailable": 0,
+        "requestElapsedMs": 10467
+      },
+      {
+        "name": "supplement-images",
+        "planned": 84,
+        "requests": 59,
+        "cacheHits": 0,
+        "captured": 55,
+        "unavailable": 29,
+        "requestElapsedMs": 31559
+      },
+      {
+        "name": "official-details-plan",
+        "planned": 41,
+        "requests": 42,
+        "cacheHits": 0,
+        "captured": 41,
+        "unavailable": 0,
+        "requestElapsedMs": 41021
+      },
+      {
+        "name": "image-search-plan",
+        "planned": 28,
+        "requests": 28,
+        "cacheHits": 0,
+        "captured": 28,
+        "unavailable": 0,
+        "requestElapsedMs": 7999
+      },
+      {
+        "name": "final-new-images",
+        "planned": 2,
+        "requests": 2,
+        "cacheHits": 0,
+        "captured": 2,
+        "unavailable": 0,
+        "requestElapsedMs": 1255
+      },
+      {
+        "name": "inherited-series-image",
+        "planned": 1,
+        "requests": 1,
+        "cacheHits": 0,
+        "captured": 1,
+        "unavailable": 0,
+        "requestElapsedMs": 1310
+      },
+      {
+        "name": "inherited-picture-fill",
+        "planned": 7,
+        "requests": 7,
+        "cacheHits": 0,
+        "captured": 7,
+        "unavailable": 0,
+        "requestElapsedMs": 922
+      }
+    ],
+    "totalRequests": 346,
+    "totalCacheHits": 7,
+    "requestElapsedMs": 172485
+  },
+  "assistedWeb": {
+    "recordedCalls": 13,
+    "searchQueries": 25,
+    "imageQueries": 10,
+    "opens": 9,
+    "scope": "Includes preceding series-discovery session as recorded in continuation; not a billing invoice."
+  },
+  "paidModelApiCalls": 0,
+  "paidModelApiUSD": 0,
+  "sessionModelCostUSD": null,
+  "humanMinutes": null,
+  "accuracy": null
+}

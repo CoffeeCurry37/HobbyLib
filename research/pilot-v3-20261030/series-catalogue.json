@@ -948,7 +948,13 @@
         "method": "official-html-parser",
         "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
         "scope": "physical-volume; no date inferred from page header"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "material-14",
@@ -1010,7 +1016,13 @@
         "method": "official-html-parser",
         "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
         "scope": "physical-volume; no date inferred from page header"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "material-15",
@@ -1071,7 +1083,13 @@
         "method": "official-html-parser",
         "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
         "scope": "physical-volume; no date inferred from page header"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "material-16",
@@ -1130,7 +1148,13 @@
         "method": "official-html-parser",
         "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
         "scope": "physical-volume; no date inferred from page header"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "material-17",
@@ -1188,7 +1212,13 @@
         "method": "official-html-parser",
         "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
         "scope": "physical-volume; no date inferred from page header"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "material-18",
@@ -1221,7 +1251,8 @@
         "资料集"
       ],
       "sources": [
-        "https://typemoon.com/news/2025/7l_yus"
+        "https://typemoon.com/news/2025/7l_yus",
+        "https://www.suruga-ya.jp/product/detail/185276204"
       ],
       "images": [
         {
@@ -1232,6 +1263,15 @@
           "contentHash": "5b8dff15eaaefc3280ccead460bfbd59e7613e8754835eee5b8b68963d28b8fb",
           "localPath": "/image/d2cac9ab6f059ba96464f057ec3fcff6ece82c22611131c51f90ee7bb16780e1",
           "error": null
+        },
+        {
+          "url": "https://www.suruga-ya.jp/database/photo.php?shinaban=185276204&size=m",
+          "role": "同来源历史目录图",
+          "sourceUrl": "https://www.suruga-ya.jp/product/detail/185276204",
+          "status": "unavailable",
+          "contentHash": null,
+          "localPath": null,
+          "error": "HTTP 403"
         }
       ],
       "summary": "TYPE-MOON发行的FGO设定资料集第18卷，B5变形全彩、附书套。收录10项从者资料，包括千利休、山南敬助、壱与等。",
@@ -1247,7 +1287,61 @@
         "method": "official-html-parser",
         "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
         "scope": "physical-volume; no date inferred from page header"
-      }
+      },
+      "offers": [
+        {
+          "variant": "",
+          "id": "surugaya:/product/detail/185276204:main",
+          "source": "骏河屋",
+          "url": "https://www.suruga-ya.jp/product/detail/185276204",
+          "price": 3100,
+          "currency": "JPY",
+          "priceBasis": "tax_included",
+          "priceKind": "ask",
+          "condition": "中古",
+          "availability": "available",
+          "extras": [
+            {
+              "name": "付録",
+              "status": "included"
+            }
+          ],
+          "bonus": "unknown",
+          "observation": "list",
+          "stockNote": "搜索页列出可售价格；详情库存待复核",
+          "observedAt": "2026-10-06T01:40:48.635Z",
+          "history": [],
+          "productKey": "185276204",
+          "listingTitle": "付録付)Fate／Grand Order material XVIII",
+          "sampleId": "P042",
+          "variantIdentity": {
+            "work": "Fate/Grand Order",
+            "major": "书籍",
+            "subtype": "设定资料集",
+            "edition": null,
+            "region": "JP",
+            "platform": null,
+            "volume": 18,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conditionDetails": [],
+          "historical": true,
+          "currentStockVerified": false
+        }
+      ],
+      "sampleIds": [
+        "P042"
+      ],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "material-19",
@@ -1274,7 +1368,8 @@
         "资料集"
       ],
       "sources": [
-        "https://typemoon.com/news/2025/7l_yus"
+        "https://typemoon.com/news/2025/7l_yus",
+        "https://www.suruga-ya.jp/product/other/185278212"
       ],
       "images": [
         {
@@ -1285,6 +1380,15 @@
           "contentHash": "16012f553a116aac9e07ca6b2cfcbb116bccc2d1db74b16259c6d8ee67bce28c",
           "localPath": "/image/0a7d66d59330a8c831b8c69089aff774c5f28108bf76098f22fd48dd5d2d8ebd",
           "error": null
+        },
+        {
+          "url": "https://www.suruga-ya.jp/database/photo.php?shinaban=185278212&size=m",
+          "role": "同来源历史目录图",
+          "sourceUrl": "https://www.suruga-ya.jp/product/other/185278212",
+          "status": "unavailable",
+          "contentHash": null,
+          "localPath": null,
+          "error": "HTTP 403"
         }
       ],
       "summary": "TYPE-MOON发行的FGO设定资料集第19卷，B5变形全彩、附书套。收录4项从者资料，包括ニトクリス〔オルタ〕、テスカトリポカ、トラロック等。",
@@ -1300,7 +1404,61 @@
         "method": "official-html-parser",
         "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
         "scope": "physical-volume; no date inferred from page header"
-      }
+      },
+      "offers": [
+        {
+          "variant": "",
+          "id": "surugaya:/product/other/185278212:main",
+          "source": "骏河屋",
+          "url": "https://www.suruga-ya.jp/product/other/185278212",
+          "price": null,
+          "currency": "JPY",
+          "priceBasis": "unspecified",
+          "priceKind": "ask",
+          "condition": "详情待核对",
+          "availability": "sold",
+          "extras": [
+            {
+              "name": "付属品",
+              "status": "included"
+            }
+          ],
+          "bonus": "unknown",
+          "observation": "list",
+          "stockNote": "",
+          "observedAt": "2026-10-06T01:41:15.871Z",
+          "history": [],
+          "productKey": "185278212",
+          "listingTitle": "付属品付)Fate/Grand Order material XIX",
+          "sampleId": "P033",
+          "variantIdentity": {
+            "work": "Fate/Grand Order",
+            "major": "书籍",
+            "subtype": "设定资料集",
+            "edition": null,
+            "region": "JP",
+            "platform": null,
+            "volume": 19,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conditionDetails": [],
+          "historical": true,
+          "currentStockVerified": false
+        }
+      ],
+      "sampleIds": [
+        "P033"
+      ],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "material-20",
@@ -1358,7 +1516,13 @@
         "method": "official-html-parser",
         "bodyHash": "de8e56e7362df27fdb948607bcfd607bacd2fb0e097dca85b06bea44950d646d",
         "scope": "physical-volume; no date inferred from page header"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-1",
@@ -1416,7 +1580,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-2",
@@ -1474,7 +1644,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-3",
@@ -1532,7 +1708,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-4",
@@ -1590,7 +1772,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-5",
@@ -1648,7 +1836,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-6",
@@ -1706,7 +1900,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-7",
@@ -1764,7 +1964,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-8",
@@ -1822,7 +2028,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-9",
@@ -1880,7 +2092,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-10",
@@ -1938,7 +2156,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-11",
@@ -1996,7 +2220,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-12",
@@ -2054,7 +2284,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-13",
@@ -2112,7 +2348,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-14",
@@ -2170,7 +2412,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-15",
@@ -2228,7 +2476,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-16",
@@ -2286,7 +2540,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-17",
@@ -2344,7 +2604,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-18",
@@ -2402,7 +2668,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-19",
@@ -2460,7 +2732,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-20",
@@ -2518,7 +2796,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-21",
@@ -2576,7 +2860,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-22",
@@ -2634,7 +2924,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-23",
@@ -2692,7 +2988,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer6-24",
@@ -2750,10 +3052,16 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/M6v/000000229526xXES9BfcBLArj3GfRxHDEx28orjwNbVAwM6v.jpg",
         "rarityNote": null
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
-      "id": "wafer6-25",
+      "id": "sample-P007",
       "identityKey": "fgo-wafer:6:25",
       "mode": "permanent",
       "groupId": "wafer6",
@@ -2861,7 +3169,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-2",
@@ -2919,7 +3233,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-3",
@@ -2977,7 +3297,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-4",
@@ -3035,7 +3361,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-5",
@@ -3094,7 +3426,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-6",
@@ -3153,10 +3491,16 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
-      "id": "wafer5-7",
+      "id": "sample-P010",
       "identityKey": "fgo-wafer:5:7",
       "mode": "permanent",
       "groupId": "wafer5",
@@ -3269,7 +3613,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-9",
@@ -3327,7 +3677,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-10",
@@ -3385,7 +3741,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-11",
@@ -3443,7 +3805,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-12",
@@ -3502,10 +3870,16 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
-      "id": "wafer5-13",
+      "id": "sample-P009",
       "identityKey": "fgo-wafer:5:13",
       "mode": "permanent",
       "groupId": "wafer5",
@@ -3620,7 +3994,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-15",
@@ -3679,7 +4059,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-16",
@@ -3737,7 +4123,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-17",
@@ -3795,7 +4187,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-18",
@@ -3854,7 +4252,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-19",
@@ -3912,7 +4316,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-20",
@@ -3970,7 +4380,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-21",
@@ -4028,7 +4444,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-22",
@@ -4086,7 +4508,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-23",
@@ -4144,7 +4572,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-24",
@@ -4202,7 +4636,13 @@
         "method": "assistant-visual-transcription-of-official-numbered-grid",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "wafer5-25",
@@ -4236,9 +4676,9 @@
           "url": "https://img.mandarake.co.jp/webshopimg/03/00/885/0300895885/s_03008958857.jpg",
           "role": "店铺单卡图",
           "sourceUrl": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1342307108&ref=list&dispCount=240&soldOut=1&keyword=Fate",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "7ca6a23414cfe015f2ffaa3caafdafd61418c0f66e75708f90996e256f265073",
+          "localPath": "/image/0da16ed0e87d2153ef742b839d6fbf8cad7a4aef17a75914b1e6c9ec48306dff",
           "error": null
         }
       ],
@@ -4255,7 +4695,13 @@
         "method": "retailer-title-plus-official-wave",
         "sourceImage": "https://www.bandai.co.jp/candy/published/bnc_files/product/BsL/000000223437L5qxhKc888eke5rQeunx4EYh0TDWoTrFfBsL.jpg",
         "rarityNote": "官网文字稀有度数量与官方图片不一致，本表依据印刷图示；不据文字总数补造卡片。"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "extella-link-regular",
@@ -4315,27 +4761,197 @@
           "contentHash": "8b05ca3530cc2d6a1462e06d6620b77ded5ab8fefd26cd010b9e8b35c801112b",
           "localPath": "/image/4ccbdb9c83f3fa0533f9b0beb819484fcd7205c4adf7418b70c032db4e36c1b0",
           "error": null
+        },
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/205002056.jpg.webp",
+          "role": "同来源历史目录图",
+          "sourceUrl": "https://www.suruga-ya.jp/product/detail/205002056",
+          "status": "captured",
+          "contentHash": "79c251ae1e0069d09b9ac1a7be5c14dd314de677615e8286a1e1bb863c81cb17",
+          "localPath": "/image/f31b2f9e5a32f7ecb25df42f3bca436cb3c9216b0d4e6d31afac93c96d309d9c",
+          "error": null
+        },
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/107900169.jpg.webp",
+          "role": "同来源历史目录图",
+          "sourceUrl": "https://www.suruga-ya.jp/product/detail/107900169",
+          "status": "captured",
+          "contentHash": "edb992b8f5179ece7262c4c1d1a11bdecb8014f67c5907a0d21facdad5ce2296",
+          "localPath": "/image/86bdfd1ba27faae5bdcfeb3a0b3d1fa3bc1fdea01d2cd8a65801baf50e47f1aa",
+          "error": null
+        },
+        {
+          "url": "https://www.suruga-ya.jp/database/images/no_photo.jpg",
+          "role": "同来源历史目录图",
+          "sourceUrl": "https://www.suruga-ya.jp/product/other/109000397",
+          "status": "unavailable",
+          "contentHash": null,
+          "localPath": null,
+          "error": "HTTP 403"
         }
       ],
       "sources": [
-        "https://fate-extella-link.jp/product/"
+        "https://fate-extella-link.jp/product/",
+        "https://www.suruga-ya.jp/product/detail/205002056",
+        "https://www.suruga-ya.jp/product/other/109000397",
+        "https://www.suruga-ya.jp/product/detail/107900169"
       ],
       "summary": "《Fate/EXTELLA LINK》通常版实体游戏，PS4、PS Vita和Switch按平台区分挂牌。",
       "path": [
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "游戏",
-        "游戏软件"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
         "Fate/EXTELLA LINK",
         "通常版"
-      ]
+      ],
+      "offers": [
+        {
+          "variant": "通常版",
+          "id": "surugaya:/product/detail/205002056:main",
+          "source": "骏河屋",
+          "url": "https://www.suruga-ya.jp/product/detail/205002056",
+          "price": 840,
+          "currency": "JPY",
+          "priceBasis": "unspecified",
+          "priceKind": "ask",
+          "condition": "UsedCondition",
+          "availability": "sold",
+          "extras": [
+            {
+              "name": "箱説",
+              "status": "absent"
+            }
+          ],
+          "bonus": "unknown",
+          "observation": "detail",
+          "verifiedAt": "2026-10-06T02:53:02.889Z",
+          "stockNote": "",
+          "observedAt": "2026-10-06T01:57:11.491Z",
+          "history": [],
+          "listingTitle": "Fate/EXTELLA LINK [通常版] (箱説なし)",
+          "sampleId": "P163",
+          "variantIdentity": {
+            "work": "Fate/EXTELLA LINK",
+            "major": "游戏",
+            "subtype": "游戏软件",
+            "edition": "通常版",
+            "region": "JP",
+            "platform": "PS Vita",
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conditionDetails": [],
+          "historical": true,
+          "currentStockVerified": false
+        },
+        {
+          "variant": "",
+          "id": "surugaya:/product/other/109000397:main",
+          "source": "骏河屋",
+          "url": "https://www.suruga-ya.jp/product/other/109000397",
+          "price": null,
+          "currency": "JPY",
+          "priceBasis": "unspecified",
+          "priceKind": "ask",
+          "condition": "未提取",
+          "availability": "unknown",
+          "extras": [],
+          "bonus": "unknown",
+          "observation": "list",
+          "stockNote": "跳转到各店列表，价格区间不能当作单店报价；需浏览器加载",
+          "observedAt": "2026-10-06T01:52:32.067Z",
+          "history": [],
+          "productKey": "109000397",
+          "shop": "各店列表待加载",
+          "listingTitle": "Fate/EXTELLA LINK",
+          "sampleId": "P169",
+          "variantIdentity": {
+            "work": "Fate/EXTELLA LINK",
+            "major": "游戏",
+            "subtype": "游戏软件",
+            "edition": "通常版",
+            "region": "JP",
+            "platform": "Switch",
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conditionDetails": [],
+          "historical": true,
+          "currentStockVerified": false
+        },
+        {
+          "variant": "通常版",
+          "id": "surugaya:/product/detail/107900169:main",
+          "source": "骏河屋",
+          "url": "https://www.suruga-ya.jp/product/detail/107900169",
+          "price": 450,
+          "currency": "JPY",
+          "priceBasis": "unspecified",
+          "priceKind": "ask",
+          "condition": "UsedCondition",
+          "availability": "sold",
+          "extras": [],
+          "bonus": "unknown",
+          "observation": "detail",
+          "verifiedAt": "2026-10-06T02:53:04.159Z",
+          "stockNote": "",
+          "observedAt": "2026-10-06T01:53:42.600Z",
+          "history": [],
+          "listingTitle": "ランクB)Fate/EXTELLA LINK [通常版]",
+          "sampleId": "P175",
+          "variantIdentity": {
+            "work": "Fate/EXTELLA LINK",
+            "major": "游戏",
+            "subtype": "游戏软件",
+            "edition": "通常版",
+            "region": "JP",
+            "platform": "PS4",
+            "volume": null,
+            "wave": null,
+            "jan": "4535506302779",
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conditionDetails": [],
+          "historical": true,
+          "currentStockVerified": false
+        }
+      ],
+      "sampleIds": [
+        "P163",
+        "P169",
+        "P175"
+      ],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "existingCatalogueRefs": [
+        "526488a1-004e-4456-95a1-b10f444bad3c",
+        "8bcf403a-5092-4e0f-8bf9-31406825a7d4"
+      ],
+      "imageStatus": "local-confirmed"
     },
     {
-      "id": "extella-link-premium",
+      "id": "sample-P013",
       "identityKey": "extella-link-premium",
       "mode": "permanent",
       "groupId": "extella-link",
@@ -4388,8 +5004,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "游戏",
-        "游戏软件"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4444,15 +5059,15 @@
         }
       ],
       "sources": [
-        "https://celebration.fate-extella.jp/"
+        "https://celebration.fate-extella.jp/",
+        "https://www.suruga-ya.jp/product/other/107004259"
       ],
       "summary": "为Fate/EXTRA十周年推出的官方盒装，实际包含EXTELLA与EXTELLA LINK两款游戏。PS4和Switch分别发行，附纪念电子宠物及複製画等内容。",
       "path": [
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA",
-        "游戏",
-        "游戏软件"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4465,7 +5080,60 @@
       ],
       "alsoGroupIds": [
         "extella-link"
-      ]
+      ],
+      "offers": [
+        {
+          "variant": "",
+          "id": "surugaya:/product/other/107004259:main",
+          "source": "骏河屋",
+          "url": "https://www.suruga-ya.jp/product/other/107004259",
+          "price": null,
+          "currency": "JPY",
+          "priceBasis": "unspecified",
+          "priceKind": "ask",
+          "condition": "未提取",
+          "availability": "unknown",
+          "extras": [],
+          "bonus": "unknown",
+          "observation": "list",
+          "stockNote": "跳转到各店列表，价格区间不能当作单店报价；需浏览器加载",
+          "observedAt": "2026-10-06T01:52:20.790Z",
+          "history": [],
+          "productKey": "107004259",
+          "shop": "各店列表待加载",
+          "listingTitle": "Fate/EXTELLA Celebration BOX for PlayStation4",
+          "sampleId": "P152",
+          "variantIdentity": {
+            "work": "Fate/EXTELLA",
+            "major": "游戏",
+            "subtype": "游戏软件",
+            "edition": "CELEBRATION BOX",
+            "region": "JP",
+            "platform": "PS4",
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conditionDetails": [],
+          "historical": true,
+          "currentStockVerified": false
+        }
+      ],
+      "sampleIds": [
+        "P152"
+      ],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "existingCatalogueRefs": [
+        "source-bb4712a111fa560467b5f6fe8b0dbe3d"
+      ],
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "extella-link-fleeting-glory",
@@ -4493,9 +5161,9 @@
           "url": "https://marvelous-usa.com/wp-content/uploads/2023/05/FateEXTELLA_LINK_Logo-for-bubble-1024x432.png",
           "role": "北美发行方盒装图",
           "sourceUrl": "https://marvelous-usa.com/2018/09/28/xseed-games-reveals-fate-extella-link-fleeting-glory-edition-details-for-ps4-announces-q1-2019-release-window-for-ps4-and-ps-vita/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "9a7eef59bb3cb58d8e847fe4264690025096d2d93423b7957a3a9b2c543b3f3d",
+          "localPath": "/image/f14aa6ff3c532090a6e4b8842b630d2aea16bdd438f23d635d222f593eeb0389",
           "error": null
         }
       ],
@@ -4507,14 +5175,19 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "游戏",
-        "游戏软件"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
         "Fate/EXTELLA LINK",
         "Fleeting Glory Edition"
-      ]
+      ],
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-42fd3edf592a",
@@ -4535,18 +5208,18 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/animate1.png?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "cf857eee0f688a41c2ecab57ee844d2fc240364de16abca8c58edb244fa739e5",
+          "localPath": "/image/4930a2d925b133b397a4792c765c0cd3e07d0e1c7ff5bb4c33289809b6ebc46a",
           "error": null
         },
         {
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/animate2.png?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "d88fe50f2c264365b3bc95c63e5971543e8da05ef73bc9627af7d6fdda880681",
+          "localPath": "/image/533aec974240eb07a2cfffbd80b71d3729f8e83978926a630d711ea3ceb53b6c",
           "error": null
         }
       ],
@@ -4558,7 +5231,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4568,7 +5241,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-fb4c837d8bdc",
@@ -4589,9 +5268,9 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/amiami.jpg?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "b64faff8f387215a8aabb47bc3c059ff9ddf4381b6516fc2e0b5b13f6f69f06f",
+          "localPath": "/image/5aa9ea5e1440e33ca32332ff1182dadaf4232ce78fb96d79bbfb48debe87af8c",
           "error": null
         }
       ],
@@ -4603,7 +5282,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4613,7 +5292,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-21b619b98c77",
@@ -4634,9 +5319,9 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/ecapcom.jpg?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "aa78664caf706a5738868068f0a5f5202a903b54fd6a0e9c90011a82e87834e9",
+          "localPath": "/image/aa3c883c5cd3caa17783f54c8efbf2d1064178cd08f41acf57ec9a1fdfee52b1",
           "error": null
         }
       ],
@@ -4648,7 +5333,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4658,7 +5343,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-231bf4c3dbe8",
@@ -4679,9 +5370,9 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/ebten.jpg?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "758f4712339460953c65e9568ae3fbc26dd4eee04a8853556d0016a7165ceb53",
+          "localPath": "/image/cd8305366f9c043a556ef49cf2b9485049eb76f9d7b12fd5bef89335a39c1dca",
           "error": null
         }
       ],
@@ -4693,7 +5384,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4703,7 +5394,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-99d43a08fa15",
@@ -4724,9 +5421,9 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/gamers.jpg?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "d34bf5270bd14dbed34eb58436e233e80ae03ee0a346759506f0b8bd1f330a25",
+          "localPath": "/image/99e04ae54fc3a4ca0e3297fe3a979de20bc73e1b576e78286ce5be76a08b2987",
           "error": null
         }
       ],
@@ -4738,7 +5435,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4748,7 +5445,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-1803f1878bb7",
@@ -4769,9 +5472,9 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/sofmap.jpg?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "47c039ba770d5c1bac97869281d0bdc382cbc1cd052a6527f345fffb12f95faa",
+          "localPath": "/image/ca3a0eab6ecf74c75dffd3d0b12e38d78849c17723f093f794dd582b473954f9",
           "error": null
         }
       ],
@@ -4783,7 +5486,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4793,7 +5496,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-3ee9005f6198",
@@ -4814,9 +5523,9 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/trader.jpg?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "b936400dfef34dc4ca3332e2f154f4b37e38b9029738334de53e9e7f69a7435e",
+          "localPath": "/image/c9b82b058294a8ecc3e7d78af972d63278952e4c3d240e03e856e857e566ccb3",
           "error": null
         }
       ],
@@ -4828,7 +5537,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4838,7 +5547,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-ebc160519685",
@@ -4859,9 +5574,9 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/furuichi.jpg?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "7c1efd0bd6795300d122edc59fe2a9a75cf313d0652fc1df1a2caa6c56af047c",
+          "localPath": "/image/38143e6a4d0262510322fe23db043e1c0ba9b21773f2a07e958805e94f11ec6f",
           "error": null
         }
       ],
@@ -4873,7 +5588,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4883,7 +5598,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     },
     {
       "id": "link-bonus-d063f50c6f60",
@@ -4904,9 +5625,9 @@
           "url": "https://fate-extella-link.jp/resources/img/product/thumbnail/wondergoo.jpg?v=1540891672652",
           "role": "官方店铺特典参考图",
           "sourceUrl": "https://fate-extella-link.jp/product/",
-          "status": "not-fetched",
-          "contentHash": null,
-          "localPath": null,
+          "status": "captured",
+          "contentHash": "c445c2ec4636ae713d2dfd6471b4bc4ff889d0b4a66a783c2f66c845a94a8364",
+          "localPath": "/image/c792411d5bcc27f0f990d70a7e7a9ef500eca46e7e40f95d96619ef1d574a2fe",
           "error": null
         }
       ],
@@ -4918,7 +5639,7 @@
         "TYPE-MOON",
         "Fate",
         "Fate/EXTELLA LINK",
-        "特典"
+        "游戏版本与特典"
       ],
       "characters": [],
       "tags": [
@@ -4928,7 +5649,13 @@
       "evidence": {
         "method": "official-shop-table-parser",
         "bundleScope": "whole-listed-bonus; no split of fixed components"
-      }
+      },
+      "offers": [],
+      "sampleIds": [],
+      "links": [],
+      "visible": true,
+      "origin": "series-expansion",
+      "imageStatus": "local-confirmed"
     }
   ],
   "families": [

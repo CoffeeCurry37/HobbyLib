@@ -1,0 +1,990 @@
+[
+  {
+    "sampleId": "P282",
+    "sourceUrl": "https://jp.mercari.com/item/m44305011720",
+    "imageUrl": "https://static.mercdn.net/item/detail/orig/photos/m44305011720_1.jpg?1788754882",
+    "contentHash": "8e7bc0ec1c4213177764b8a9d884c9fedaa5bc666a3d169b77e30f065e4bee89",
+    "method": "assistant-visual-box-annotation",
+    "modelApiCalls": 0,
+    "automatedSegmentation": false,
+    "dimensions": [
+      1080,
+      810
+    ],
+    "saleScope": "unknown",
+    "notes": "图片可见5枚拉玛徽章（两种图案，部分重复），标题和说明未明确出售数量；不可把555日元挂到单枚永久商品，也不能断言这5枚全含。先保留临时出售对象。",
+    "regions": [
+      {
+        "id": "P282-region-1",
+        "label": "ラーマ · 正面图1",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.282,
+          0.191,
+          0.204,
+          0.222
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://static.mercdn.net/item/detail/orig/photos/m44305011720_1.jpg?1788754882",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://jp.mercari.com/item/m44305011720",
+          "crop": [
+            0.282,
+            0.191,
+            0.204,
+            0.222
+          ],
+          "status": "captured",
+          "contentHash": "8e7bc0ec1c4213177764b8a9d884c9fedaa5bc666a3d169b77e30f065e4bee89",
+          "localPath": "/image/cffe9b6c7df0cc0701b9ac6d974a3309de439db858502d5aeb070e6963b86b0e",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P282-region-2",
+        "label": "ラーマ · 侧面图",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.537,
+          0.191,
+          0.208,
+          0.222
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://static.mercdn.net/item/detail/orig/photos/m44305011720_1.jpg?1788754882",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://jp.mercari.com/item/m44305011720",
+          "crop": [
+            0.537,
+            0.191,
+            0.208,
+            0.222
+          ],
+          "status": "captured",
+          "contentHash": "8e7bc0ec1c4213177764b8a9d884c9fedaa5bc666a3d169b77e30f065e4bee89",
+          "localPath": "/image/cffe9b6c7df0cc0701b9ac6d974a3309de439db858502d5aeb070e6963b86b0e",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P282-region-3",
+        "label": "ラーマ · 正面图2",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.093,
+          0.407,
+          0.208,
+          0.272
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://static.mercdn.net/item/detail/orig/photos/m44305011720_1.jpg?1788754882",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://jp.mercari.com/item/m44305011720",
+          "crop": [
+            0.093,
+            0.407,
+            0.208,
+            0.272
+          ],
+          "status": "captured",
+          "contentHash": "8e7bc0ec1c4213177764b8a9d884c9fedaa5bc666a3d169b77e30f065e4bee89",
+          "localPath": "/image/cffe9b6c7df0cc0701b9ac6d974a3309de439db858502d5aeb070e6963b86b0e",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P282-region-4",
+        "label": "ラーマ · 正面图3",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.398,
+          0.432,
+          0.218,
+          0.265
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://static.mercdn.net/item/detail/orig/photos/m44305011720_1.jpg?1788754882",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://jp.mercari.com/item/m44305011720",
+          "crop": [
+            0.398,
+            0.432,
+            0.218,
+            0.265
+          ],
+          "status": "captured",
+          "contentHash": "8e7bc0ec1c4213177764b8a9d884c9fedaa5bc666a3d169b77e30f065e4bee89",
+          "localPath": "/image/cffe9b6c7df0cc0701b9ac6d974a3309de439db858502d5aeb070e6963b86b0e",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P282-region-5",
+        "label": "ラーマ · 正面图4",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.662,
+          0.42,
+          0.208,
+          0.265
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://static.mercdn.net/item/detail/orig/photos/m44305011720_1.jpg?1788754882",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://jp.mercari.com/item/m44305011720",
+          "crop": [
+            0.662,
+            0.42,
+            0.208,
+            0.265
+          ],
+          "status": "captured",
+          "contentHash": "8e7bc0ec1c4213177764b8a9d884c9fedaa5bc666a3d169b77e30f065e4bee89",
+          "localPath": "/image/cffe9b6c7df0cc0701b9ac6d974a3309de439db858502d5aeb070e6963b86b0e",
+          "error": null
+        },
+        "catalogueCandidates": []
+      }
+    ]
+  },
+  {
+    "sampleId": "P241",
+    "sourceUrl": "https://jp.mercari.com/item/m73096315564",
+    "imageUrl": "https://static.mercdn.net/item/detail/orig/photos/m73096315564_1.jpg?1788885341",
+    "contentHash": "7eea61bf4a63ba4f25d724187860c854446e5f1671f1f12b3841f9499a72878c",
+    "method": "assistant-visual-box-annotation",
+    "modelApiCalls": 0,
+    "automatedSegmentation": false,
+    "dimensions": [
+      1080,
+      1080
+    ],
+    "saleScope": "seller-described-combination",
+    "notes": "实拍可见两枚本庄雷太展莫里亚蒂徽章。变体为不同服装；不据此捏造官方变体名称。",
+    "regions": [
+      {
+        "id": "P241-region-1",
+        "label": "モリアーティ · 深色服装",
+        "work": "Fate/Grand Order",
+        "box": [
+          0,
+          0.26,
+          0.46,
+          0.36
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://static.mercdn.net/item/detail/orig/photos/m73096315564_1.jpg?1788885341",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://jp.mercari.com/item/m73096315564",
+          "crop": [
+            0,
+            0.26,
+            0.46,
+            0.36
+          ],
+          "status": "captured",
+          "contentHash": "7eea61bf4a63ba4f25d724187860c854446e5f1671f1f12b3841f9499a72878c",
+          "localPath": "/image/4e456db47ea5fc31580c4ee893c17a0126d2657485928eed77f8bf3b7bd10810",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P241-region-2",
+        "label": "モリアーティ · 白色服装",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.47,
+          0.26,
+          0.43,
+          0.37
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://static.mercdn.net/item/detail/orig/photos/m73096315564_1.jpg?1788885341",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://jp.mercari.com/item/m73096315564",
+          "crop": [
+            0.47,
+            0.26,
+            0.43,
+            0.37
+          ],
+          "status": "captured",
+          "contentHash": "7eea61bf4a63ba4f25d724187860c854446e5f1671f1f12b3841f9499a72878c",
+          "localPath": "/image/4e456db47ea5fc31580c4ee893c17a0126d2657485928eed77f8bf3b7bd10810",
+          "error": null
+        },
+        "catalogueCandidates": []
+      }
+    ]
+  },
+  {
+    "sampleId": "P243",
+    "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/g1239989228",
+    "imageUrl": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/ff0cf46faa06253c30d7fd3f92680792daecb0c877331699048c1339f822e71a/i-img900x1200-17860925026464ws0vpb8191.jpg",
+    "contentHash": "55c2871f16716209f1da4612b73905ed472b07b86aef06ef6d1966e502f7ef6a",
+    "method": "assistant-visual-box-annotation",
+    "modelApiCalls": 0,
+    "automatedSegmentation": false,
+    "dimensions": [
+      900,
+      1200
+    ],
+    "saleScope": "seller-described-combination",
+    "notes": "五盒总览及10张详情已看；B赏盒身写有ランサー/カイニス，A赏明确玛修Ortenaus。图片中的盒数不代表附件完整。",
+    "regions": [
+      {
+        "id": "P243-region-1",
+        "label": "FuRyu Lancer/スカサハ",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.044444444444444446,
+          0.3541666666666667,
+          0.3111111111111111,
+          0.2833333333333333
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/ff0cf46faa06253c30d7fd3f92680792daecb0c877331699048c1339f822e71a/i-img900x1200-17860925026464ws0vpb8191.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/g1239989228",
+          "crop": [
+            0.044444444444444446,
+            0.3541666666666667,
+            0.3111111111111111,
+            0.2833333333333333
+          ],
+          "status": "captured",
+          "contentHash": "55c2871f16716209f1da4612b73905ed472b07b86aef06ef6d1966e502f7ef6a",
+          "localPath": "/image/6d62d50c0abdcfea39d38d3ae1db55e8d481329f265a524a48eba68a2e89a457",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P243-region-2",
+        "label": "SEGA Luminasta エレシュキガル",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.3388888888888889,
+          0.3625,
+          0.28888888888888886,
+          0.2708333333333333
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/ff0cf46faa06253c30d7fd3f92680792daecb0c877331699048c1339f822e71a/i-img900x1200-17860925026464ws0vpb8191.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/g1239989228",
+          "crop": [
+            0.3388888888888889,
+            0.3625,
+            0.28888888888888886,
+            0.2708333333333333
+          ],
+          "status": "captured",
+          "contentHash": "55c2871f16716209f1da4612b73905ed472b07b86aef06ef6d1966e502f7ef6a",
+          "localPath": "/image/6d62d50c0abdcfea39d38d3ae1db55e8d481329f265a524a48eba68a2e89a457",
+          "error": null
+        },
+        "catalogueCandidates": [
+          {
+            "id": "source-21e84acf3ce5095fd395c22730de1a47",
+            "title": "【中古】(本体A/箱B)Fate/Grand Order Arcade Luminasta “ランサー/エレシュキガル” (プライズ)[セガ]《発売済・在庫品》",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-86eedeb229c5a5e0573dd067c458ff30",
+            "title": "Fate/Grand Order Arcade Luminasta “ランサー/エレシュキガル” (プライズ)",
+            "action": "candidate-only"
+          },
+          {
+            "id": "0faf3acd-0045-4611-9544-5023d8c1a65d",
+            "title": "セガ Luminasta Fate/Grand Order Arcade ランサー/エレシュキガル",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-74feca6338362d463577438c5e459833",
+            "title": "新品未開封 セガ Luminasta Fate/Grand Order Arcade FGO ランサー/エレシュキガル",
+            "action": "candidate-only"
+          }
+        ]
+      },
+      {
+        "id": "P243-region-3",
+        "label": "SEGA SPM 謎のヒロインX",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.6166666666666667,
+          0.32083333333333336,
+          0.26666666666666666,
+          0.31666666666666665
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/ff0cf46faa06253c30d7fd3f92680792daecb0c877331699048c1339f822e71a/i-img900x1200-17860925026464ws0vpb8191.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/g1239989228",
+          "crop": [
+            0.6166666666666667,
+            0.32083333333333336,
+            0.26666666666666666,
+            0.31666666666666665
+          ],
+          "status": "captured",
+          "contentHash": "55c2871f16716209f1da4612b73905ed472b07b86aef06ef6d1966e502f7ef6a",
+          "localPath": "/image/6d62d50c0abdcfea39d38d3ae1db55e8d481329f265a524a48eba68a2e89a457",
+          "error": null
+        },
+        "catalogueCandidates": [
+          {
+            "id": "source-2c6a02c57b79c6ac6bdd80651fca9195",
+            "title": "Fate/EXTELLA LINK SPM アストルフォ ライダー フィギュア フェイト Rider Astolfo SEGA セガ/20236",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-1b4bdddc92cdcf9bbb9cc21ba2482c0f",
+            "title": "新品未開封 セガ SPM スーパープレミアムフィギュア Fate/Grand Order アサシン/謎のヒロインX",
+            "action": "candidate-only"
+          }
+        ]
+      },
+      {
+        "id": "P243-region-4",
+        "label": "一番くじ Cosmos in the Lostbelt B賞 カイニス",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.03888888888888889,
+          0.6291666666666667,
+          0.4722222222222222,
+          0.3375
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/ff0cf46faa06253c30d7fd3f92680792daecb0c877331699048c1339f822e71a/i-img900x1200-17860925026464ws0vpb8191.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/g1239989228",
+          "crop": [
+            0.03888888888888889,
+            0.6291666666666667,
+            0.4722222222222222,
+            0.3375
+          ],
+          "status": "captured",
+          "contentHash": "55c2871f16716209f1da4612b73905ed472b07b86aef06ef6d1966e502f7ef6a",
+          "localPath": "/image/6d62d50c0abdcfea39d38d3ae1db55e8d481329f265a524a48eba68a2e89a457",
+          "error": null
+        },
+        "catalogueCandidates": [
+          {
+            "id": "source-c8218d1df5443ea5d85913da8975ce6a",
+            "title": "【まとめ売り】 5個 FGO フィギュア カイニス スカサハ マシュキリエライト 等 一番くじ H555",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-19d749986f3a3caa7cdacc399f789697",
+            "title": "【中古】(本体B/箱B)一番くじ Fate/Grand Order Cosmos in the Lostbelt B賞 ランサー/カイニス フィギュア (プライズ)[BANDAI SPIRITS]《在庫切れ》",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-c04a06570dc99df608a2b5e83a96ef93",
+            "title": "【中古】[FIG]A賞 クリプター/キリシュタリア・ヴォーダイム フィギュア 一番くじ Fate/Grand Order Cosmos in the Lostbelt プライズ(943)",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-c2448db9733bf4785d429d1d0cbac78c",
+            "title": "Fate/Grand Order展 -星見の回廊- 「Fate/Grand Order」Cosmos in the Lostbelt MEMORIAL BOOK / Fate/Grand Order展 -星見の回廊-",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-6efee9ca31e885eb32cbc69dfe048eef",
+            "title": "アーチャー/アシュヴァッターマン ラバーストラップ きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order Cosmos in the Lostbelt」 F賞",
+            "action": "candidate-only"
+          }
+        ]
+      },
+      {
+        "id": "P243-region-5",
+        "label": "一番くじ A賞 マシュ・キリエライト オルテナウス",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.5133333333333333,
+          0.6333333333333333,
+          0.4288888888888889,
+          0.3308333333333333
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/ff0cf46faa06253c30d7fd3f92680792daecb0c877331699048c1339f822e71a/i-img900x1200-17860925026464ws0vpb8191.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/g1239989228",
+          "crop": [
+            0.5133333333333333,
+            0.6333333333333333,
+            0.4288888888888889,
+            0.3308333333333333
+          ],
+          "status": "captured",
+          "contentHash": "55c2871f16716209f1da4612b73905ed472b07b86aef06ef6d1966e502f7ef6a",
+          "localPath": "/image/6d62d50c0abdcfea39d38d3ae1db55e8d481329f265a524a48eba68a2e89a457",
+          "error": null
+        },
+        "catalogueCandidates": [
+          {
+            "id": "source-b8df6b574aae0a5737f3dcd2070c5fde",
+            "title": "【限定販売】PLAMATEA シールダー/マシュ・キリエライト〔オルテナウス〕 Black Barrel Edition プラモデル[マックスファクトリー]【送料無料】《04月予約》",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-e48fc8bed338f543dab9475af29f988e",
+            "title": "【中古】(本体A/箱B)一番くじ Fate/Grand Order-絶対魔獣戦線バビロニア- ラストワン賞 盾の乙女 マシュ・キリエライト フィギュア(プライズ)[BANDAI SPIRITS]《発売済・在庫品》",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-606acd63a0cf6c589afdafa79a79e08a",
+            "title": "【中古】(本体A/箱B)一番くじ Fate/Grand Order-武装完了、霊基外骨骼〔オルテナウス〕- A賞 シールダー/マシュ・キリエライト〔オルテナウス〕 フィギュア(プライズ)[バンプレスト]《発売済・在庫品》",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-81b8779b6eeac73c2fbd0a301ea41189",
+            "title": "【未開封】ラストワン賞 盾の乙女 マシュ・キリエライト 一番くじ Fate/Grand Order‐絶対魔獣戦線バビロニア‐ Fate/Grand Order",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-d92558ada3b19e20ad6fa9878c2c1668",
+            "title": "Fate 一番くじ シールダー/マシュ・キリエライト きゅん キャラ バンプレスト BANPRESTO",
+            "action": "candidate-only"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sampleId": "P262",
+    "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+    "imageUrl": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+    "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+    "method": "assistant-visual-box-annotation",
+    "modelApiCalls": 0,
+    "automatedSegmentation": false,
+    "dimensions": [
+      1200,
+      900
+    ],
+    "saleScope": "seller-described-combination",
+    "notes": "总览可见15个外盒，仅2个区域明确为Fate。其余保留不同IP或未知，包装背后是否齐件不能从总览确认。",
+    "regions": [
+      {
+        "id": "P262-region-1",
+        "label": "莱莎的炼金工房 · 莉拉候选",
+        "work": "其他IP",
+        "box": [
+          0.09,
+          0.16,
+          0.17,
+          0.24
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.09,
+            0.16,
+            0.17,
+            0.24
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-2",
+        "label": "幼女战记 · 谭雅候选",
+        "work": "其他IP",
+        "box": [
+          0.27,
+          0.11,
+          0.12,
+          0.25
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.27,
+            0.11,
+            0.12,
+            0.25
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-3",
+        "label": "角色/版本待确认",
+        "work": "未知",
+        "box": [
+          0.39,
+          0.06,
+          0.18,
+          0.33
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.39,
+            0.06,
+            0.18,
+            0.33
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-4",
+        "label": "FuRyu Ruler/ジャンヌ・ダルク",
+        "work": "Fate/Grand Order",
+        "box": [
+          0.575,
+          0.006,
+          0.183,
+          0.317
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.575,
+            0.006,
+            0.183,
+            0.317
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-5",
+        "label": "我推的孩子 · 爱候选",
+        "work": "其他IP",
+        "box": [
+          0.767,
+          0,
+          0.183,
+          0.333
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.767,
+            0,
+            0.183,
+            0.333
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-6",
+        "label": "高达GQuuuuuuX · 角色待确认",
+        "work": "其他IP",
+        "box": [
+          0.104,
+          0.405,
+          0.167,
+          0.3
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.104,
+            0.405,
+            0.167,
+            0.3
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-7",
+        "label": "更衣人偶 · 海梦候选",
+        "work": "其他IP",
+        "box": [
+          0.27,
+          0.36,
+          0.12,
+          0.29
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.27,
+            0.36,
+            0.12,
+            0.29
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-8",
+        "label": "SEGA Fate/stay night Saber Alter",
+        "work": "Fate/stay night",
+        "box": [
+          0.3875,
+          0.37,
+          0.196,
+          0.272
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "visible-package-label",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.3875,
+            0.37,
+            0.196,
+            0.272
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": [
+          {
+            "id": "fa7d80ef-be7f-4c32-9afd-74ef1dca9b14",
+            "title": "[単品] 間桐桜 缶バッジ 「劇場版 Fate/stay night[Heaven’s Feel] 描き下ろし缶バッジ付きSpecial BOOK」 同梱特典",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-d87a96c8d08f787d37bf2bbde1ec8280",
+            "title": "【中古】[FIG]Fate/stay night(フェイト/ステイナイト) 第3巻 リミテッド 初回限定版(ライダー胸像フィギュア付属) 書籍 角川書店(61288555",
+            "action": "candidate-only"
+          },
+          {
+            "id": "source-5c503584ef51e17c8bf58c62ce21acf7",
+            "title": "【漫画】Fate/stay night (既巻セット)[角川書店]《在庫切れ》",
+            "action": "candidate-only"
+          },
+          {
+            "id": "e7b83c88-c286-4fd5-9b25-65a2279d3ee8",
+            "title": "Animation Material / Fate/stay night [Heaven's Feel] 1",
+            "action": "candidate-only"
+          },
+          {
+            "id": "9f6d3eb2-f217-4fe0-8db2-fbdb730566b6",
+            "title": "DNAメディアブックス TVアニメーション Fate/stay night原画集",
+            "action": "candidate-only"
+          }
+        ]
+      },
+      {
+        "id": "P262-region-9",
+        "label": "高达SEED · 美玲候选",
+        "work": "其他IP",
+        "box": [
+          0.583,
+          0.328,
+          0.154,
+          0.272
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.583,
+            0.328,
+            0.154,
+            0.272
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-10",
+        "label": "高达GQuuuuuuX · 角色待确认",
+        "work": "其他IP",
+        "box": [
+          0.75,
+          0.344,
+          0.18,
+          0.28
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.75,
+            0.344,
+            0.18,
+            0.28
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-11",
+        "label": "舰队Collection · 滨风候选",
+        "work": "其他IP",
+        "box": [
+          0.125,
+          0.716,
+          0.15,
+          0.267
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.125,
+            0.716,
+            0.15,
+            0.267
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-12",
+        "label": "幸运星 · 泉此方候选",
+        "work": "其他IP",
+        "box": [
+          0.279,
+          0.65,
+          0.142,
+          0.333
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.279,
+            0.65,
+            0.142,
+            0.333
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-13",
+        "label": "Overlord · 夏提雅候选",
+        "work": "其他IP",
+        "box": [
+          0.421,
+          0.644,
+          0.167,
+          0.344
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.421,
+            0.644,
+            0.167,
+            0.344
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-14",
+        "label": "更衣人偶 · 兔女郎款候选",
+        "work": "其他IP",
+        "box": [
+          0.583,
+          0.611,
+          0.158,
+          0.378
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.583,
+            0.611,
+            0.158,
+            0.378
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      },
+      {
+        "id": "P262-region-15",
+        "label": "Hololive · 大神澪候选",
+        "work": "其他IP",
+        "box": [
+          0.742,
+          0.622,
+          0.208,
+          0.361
+        ],
+        "quantityVisible": 1,
+        "identityStatus": "candidate",
+        "permanentCreate": false,
+        "image": {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8f84815a3d27ca590aba6d805ce594f8aa793a9472e8895ab4cdfc00085176f8/i-img1200x900-179117920036511q90rg36.jpg",
+          "role": "拼包实物区域",
+          "sourceUrl": "https://auctions.yahoo.co.jp/jp/auction/k1247151715",
+          "crop": [
+            0.742,
+            0.622,
+            0.208,
+            0.361
+          ],
+          "status": "captured",
+          "contentHash": "0c9db46e9d2894a3c86c14e48f4581fdf88f26b4da0ed7b3469a3d6b69f2c1bc",
+          "localPath": "/image/9b7f063a97c4253b3ed67356decf1b7950f8ec4499090d49a795f2173e6e9219",
+          "error": null
+        },
+        "catalogueCandidates": []
+      }
+    ]
+  }
+]

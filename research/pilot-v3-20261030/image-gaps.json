@@ -1,0 +1,66 @@
+[
+  {
+    "id": "sample-P016",
+    "samples": [
+      "P016"
+    ],
+    "title": "Saber／阿尔托莉雅 英霊正装Ver. 1/7",
+    "visible": true,
+    "status": "linked-unavailable",
+    "attempts": [
+      {
+        "url": "https://img.amiami.jp/images/product/main/192/FIGURE-048263.jpg",
+        "error": "HTTP 403"
+      },
+      {
+        "url": "https://img.amiami.jp/images/product/thumb300/192/FIGURE-048263.jpg",
+        "error": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "sample-P018",
+    "samples": [
+      "P018"
+    ],
+    "title": "ねんどろいどどーる 玛修私服 衣服套装",
+    "visible": true,
+    "status": "linked-unavailable",
+    "attempts": [
+      {
+        "url": "https://img.amiami.jp/images/product/main/251/FIGURE-183273.jpg",
+        "error": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "sample-P019",
+    "samples": [
+      "P019"
+    ],
+    "title": "ねんどろいどどーる 玛修私服 人偶",
+    "visible": true,
+    "status": "linked-unavailable",
+    "attempts": [
+      {
+        "url": "https://img.amiami.jp/images/product/main/251/FIGURE-183272.jpg",
+        "error": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "id": "v3-a8d6fd5f369f0bdeb6",
+    "samples": [
+      "P182"
+    ],
+    "title": "ねんどろいど ぷち Fate/hollow ataraxia ディスプレイステージ (サークルKサンクス限定)",
+    "visible": false,
+    "status": "linked-unavailable",
+    "attempts": [
+      {
+        "url": "https://img.amiami.jp/images/product/thumb300/214/FIGURE-134662.jpg",
+        "error": "HTTP 403"
+      }
+    ]
+  }
+]
