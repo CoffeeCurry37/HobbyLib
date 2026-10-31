@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "authorship": "assistant-session-research, compiled deterministically; not autonomous web research",
+  "date": "2026-10-30",
+  "sources": [
+    {
+      "id": "v2-extella-matrix",
+      "url": "https://fate-extella.jp/",
+      "grade": "official",
+      "access": "page-read-previous-review",
+      "finding": "LIMITED BOX为Switch；REGALIA为PS4/PSV；VELBER同时包含PS4与PSV；Switch下载版不标Best Collection。"
+    },
+    {
+      "id": "v2-animate",
+      "url": "https://prtimes.jp/main/html/rd/p/000000382.000016756.html",
+      "grade": "official",
+      "access": "page-read",
+      "finding": "Animate于2018-01-05公告购入EXTELLA LINK赠A5吉尔伽美什亚克力板和54mm吉尔伽美什/无铭徽章组合；两项分别列示。"
+    },
+    {
+      "id": "v2-nero",
+      "url": "https://www.goodsmile.info/ja/product/6757/figma+ネロ+クラウディウス.html",
+      "grade": "official",
+      "access": "page-read",
+      "finding": "figma370尼禄属EXTELLA，Max Factory发行，GSC销售；官店购入附闭眼得意脸，有独立参考图。"
+    },
+    {
+      "id": "v2-nero-image",
+      "url": "https://images.goodsmile.info/cgm/images/product/20170929/6757/47855/large/43aa1f34f64b260c59ae305c60898bf9.jpg",
+      "grade": "official",
+      "access": "official-page-linked-image; direct-fetch-cache-miss",
+      "finding": "官网在线特典段落直接链接的图片；作为参考图链接，不声称本次已视觉复核。"
+    },
+    {
+      "id": "v2-wafer14",
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117926587000",
+      "grade": "official",
+      "access": "page-read",
+      "finding": "2025-11-10发行，全34种含2秘密款；正文列部分角色，未给全部编号映射。糖果旧站维护，图片3/7读取失败。"
+    },
+    {
+      "id": "v2-student-faq",
+      "url": "https://fes.fate-go.jp/about/faq/",
+      "grade": "official",
+      "access": "page-read",
+      "finding": "支持2026年11周年活动；“学生証”出现在身份验证证件列表，不能证明纪念学生卡发放。票务页403。"
+    },
+    {
+      "id": "v2-student-history",
+      "url": "https://jp.mercari.com/item/m36475138010",
+      "grade": "listing",
+      "access": "search-index-only; direct-fetch-cache-miss",
+      "finding": "独立历史挂牌标题提到Fes2026学生证入场特典，摘要涉及达芬奇；未对比实拍，不能确证与P025同款。"
+    },
+    {
+      "id": "v2-vita-jan",
+      "url": "https://www.yamada-denkiweb.com/2814008012/",
+      "grade": "retailer",
+      "access": "search-result-full-text",
+      "finding": "PSV通常版JAN4535506302571、VLJM-30158。"
+    },
+    {
+      "id": "v2-switch-jan",
+      "url": "https://store.shopping.yahoo.co.jp/arc-online/4535506302656.html",
+      "grade": "retailer",
+      "access": "search-result-full-text; direct-fetch-cache-miss",
+      "finding": "Switch通常版JAN4535506302656、HAC-P-AC8QA。"
+    },
+    {
+      "id": "v2-ps4-jan",
+      "url": "https://gamefaqs.gamespot.com/ps4/188034-fate-extella-the-umbral-star/data",
+      "grade": "community",
+      "access": "search-result-full-text",
+      "finding": "PS4通常版JAN4535506302564、PLJM-80117；用于剩余候选交叉线索，不当官方SKU认证。"
+    },
+    {
+      "id": "v2-cu-retailer",
+      "url": "https://search.rakuten.co.jp/search/mall/fate%2Bgrand%2Border%E3%82%A6%E3%82%A8%E3%83%8F%E3%83%BC%E3%82%B95/",
+      "grade": "retailer",
+      "access": "search-index-only",
+      "finding": "骏河屋乐天条目摘要列第5弹07[N]库丘林；未打开独立商品，不补造官方卡号证据。"
+    }
+  ],
+  "descriptions": {
+    "P005": "《Fate/Grand Order -turas réalta-》漫画第1–22卷的二手组合套装。单卷属于同一漫画系列，套装的实际品相与缺卷情况以挂牌为准。",
+    "P006": "《Fate/Grand Order》威化第14弹的但丁·阿利吉耶里卡片。挂牌标为30号，具体编号仍需与卡背对应。",
+    "P007": "《Fate/Grand Order》威化第6弹的梅尔特莉莉丝卡片。挂牌标为25号，具体编号仍需与卡背对应。",
+    "P008": "《Fate/Grand Order》威化第14弹的两仪式卡片。挂牌标为22号，具体卡面与编号仍需核对。",
+    "P009": "《Fate/Grand Order》威化第5弹的伊丽莎白·巴托里〔勇者〕卡片。挂牌标为13号，实物卡背尚未逐项复核。",
+    "P010": "《Fate/Grand Order》的Caster库丘林威化卡，已保存卡背可见N07。第5弹得到零售索引与社区目录佐证，精确发行对应仍待核对。",
+    "P011": "Marvelous发行的《Fate/EXTELLA》通常版游戏。此挂牌来源分类为PS4软件，其他平台在同一版本页面分开记录。",
+    "P012": "《Fate/EXTELLA》Nintendo Switch版LIMITED BOX。标准组合包括游戏、Wada Arco绘制外盒和尼禄收纳包，二手是否齐全需另查。",
+    "P013": "《Fate/EXTELLA LINK》PS4高级限定版游戏。它属于LINK作品，与《Fate/EXTELLA》的限定版本分开建档。",
+    "P014": "《Fate/EXTELLA LINK》斯卡哈“魔境のサージェント”服装兑换码。平台、是否已使用和有效期未确认。",
+    "P015": "《Fate/EXTELLA》2016年原版游戏的AmiAmi购入特典A3挂画。画面为尼禄和玉藻前，插画由Wada Arco绘制。",
+    "P016": "GOOD SMILE COMPANY的阿尔托莉雅“英灵正装Ver.”1/7比例手办。采用《Fate/Grand Order》角色造型。",
+    "P017": "Max Factory的figma Lancer阿尔托莉雅DX Edition，型号568-DX。DX标准配置包含第三再临形态及爱马，二手配件完整性单独记录。",
+    "P018": "玛修私服版粘土人娃的独立服装套装。标准内容为连衣裙、外套、连裤袜和鞋，不包含人偶本体。",
+    "P019": "玛修私服版粘土人娃，标准包装包含人偶、私服、替换手和台座。它与单独销售的服装套装分别建档。",
+    "P020": "figma尼禄370的GOODSMILE ONLINE SHOP购入特典“闭眼得意脸”。此临时入口仅对应替换脸，不含figma本体。",
+    "P021": "FGO Fes.2025的迦摩B2半裁挂画，属于C组角色款式。活动后曾在Aniplex进行受注销售。",
+    "P022": "FGO Fes.2025的洛乌希雪景球。活动后曾在Aniplex进行受注销售。",
+    "P023": "FGO Fes.2025的“Final Journey”桌面橡胶垫。活动后曾在Aniplex进行受注销售，图中人物尚未逐一标注。",
+    "P024": "FGO Fes.2025的阿斯克勒庇俄斯B2半裁挂画，属于B组角色款式。活动后曾在Aniplex进行受注销售。",
+    "P025": "FGO Fes.2026的Rider达芬奇学生证卡。用户确认为入场特典且不参与线上贩售，完整系列与实物对应仍待补证。",
+    "P026": "Fate相关混合周边的二手大包。按IP临时归类，成员、数量和当前在售状态未确认。",
+    "P027": "卡多克与贝里尔两张FGO威化卡的二手组合。各卡的弹次和编号尚未确认。",
+    "P028": "《Fate/EXTELLA LINK》的Animate购入特典中包含吉尔伽美什与无铭54mm徽章组合。官方公告同时列出A5亚克力板，本挂牌的收录边界及实物对应仍待审核。",
+    "P029": "《Fate/EXTELLA》VELBER BOX，标准内容同时包含PS4和PS Vita游戏。此挂牌明确缺少PS4游戏，其他附属内容仍需核对。",
+    "P030": "《Fate/EXTRA》十周年Celebration BOX中的Wada Arco装裱印画。卖家标题误写EXTELLA纪念主题；按固定套装拆件政策，不新增独立商品页。"
+  },
+  "notes": {
+    "P010": "新增骏河屋乐天搜索索引佐证5弹N07，但仍保留精确弹次审核；未用角色同名直接匹配。",
+    "P011": "三个雷达候选JAN各不相同。新资料将2571对应PSV、2656对应Switch；2564有PS4目录线索。应合并版本展示而保留三条身份，不作为三个重复ID删除；PS4建议目标保留审核。",
+    "P020": "已定位官网特典段落和单独图片链接，挂在尼禄本体说明及临时特典入口；图片直读失败明确保留。",
+    "P025": "官方FAQ中的“学生証”是身份证明要求，不是赠品证据。另找到历史入场特典挂牌摘要，但图片未比对，维持人工复查。",
+    "P028": "Animate发布的原始公告证实两枚徽章组合及A5亚克力板同时赠送；身份关系比原研究更明确，是否独立保留该组合仍按拆售政策交人工。",
+    "P029": "两个候选JAN均4535506302588，列为可能重复待复查；本轮仅连到隔离VELBER页，不归并正式ID。",
+    "P001": "已保存两句简介与38条完整收录角色，摘要和角色清单分别展示。",
+    "P002": "已保存两句简介与35条完整收录角色，保留原卷号与来源。",
+    "P003": "已保存两句简介与37条完整收录角色，保留原卷号与来源。",
+    "P004": "已保存两句简介与24条完整收录角色，保留原卷号与来源。",
+    "P005": "1–22卷套装已设为临时条目；23个单卷永久保留；提供结束、失效、多来源和重新上架演示。",
+    "P006": "已归入威化14单卡永久页；其余目录成员保留证据分级，未将32个候选当作已核实卡面。",
+    "P007": "已按第6弹独立归档，与相邻弹次保持分离。",
+    "P008": "已归入威化14对应角色；保留卡面与编号尚待核实的边界。",
+    "P009": "已按第5弹独立归档，保留原始来源。",
+    "P012": "已归入EXTELLA的Switch限定版，与REGALIA、VELBER版本区分。",
+    "P013": "已归入EXTELLA LINK；五款Fate游戏各自保留一级目录。",
+    "P014": "兑换码按低成本临时条目整理；来源条件未知处未作推测。",
+    "P015": "原链接失效按库存未知处理；保留官方参考图与店铺特典永久档案。",
+    "P016": "已加入比例手办模块，厂商与作品标签分别记录。",
+    "P017": "已加入Max Factory / figma产品线，保留本体永久页。",
+    "P018": "官方单独销售的衣服套装永久建档，与粘土人娃本体双向关联。",
+    "P019": "粘土人娃本体永久建档，与独立服装页双向关联。",
+    "P021": "已按Aniplex销售资料归入Fes.2025，角色款式可零挂牌留档。",
+    "P022": "已按Aniplex销售资料建立永久档案，活动销售条件写入简介。",
+    "P023": "已按Aniplex销售资料建立永久档案，角色标签保持简洁。",
+    "P024": "已归入Fes.2025角色款式目录，与同系列成员关联。",
+    "P026": "按Fate大IP混合套装临时收录；链接失效不推断售出，不逐件猜测成员。",
+    "P027": "已按用户确认保存两张卡片的组合范围，设为临时条目。",
+    "P030": "保留卖家误标核对记录，固定官方套装的孤立拆件不新增独立商品。"
+  }
+}

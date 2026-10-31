@@ -1,0 +1,6440 @@
+{
+  "version": "pilot-v2.1",
+  "modelHash": "7a170270c13e131a3d72252655b86f16f42407819c5f4ba6e96aaf878da47c85",
+  "groups": [
+    {
+      "id": "material",
+      "title": "FGO material",
+      "type": "书籍 / 资料集",
+      "description": "设定资料集按卷归档；完整收录人物单独保存。",
+      "sources": [
+        "material"
+      ],
+      "expectedCount": null
+    },
+    {
+      "id": "turas",
+      "title": "FGO -turas réalta-",
+      "type": "书籍 / 漫画",
+      "description": "单卷永久保留，卖家组合单独展示；本轮查到第23卷。",
+      "sources": [
+        "turas",
+        "turas23"
+      ],
+      "expectedCount": 23
+    },
+    {
+      "id": "wafer14",
+      "title": "FGO 威化第14弹",
+      "type": "卡片 / 集换式",
+      "description": "官方确认总计34种（含2种秘密款）。以下34个名字来自零售目录，尚未逐卡确认；列表序号不是印刷卡号。",
+      "sources": [
+        "wafer14",
+        "wafer14-retailer"
+      ],
+      "expectedCount": 34
+    },
+    {
+      "id": "wafer5",
+      "title": "FGO 威化第5弹",
+      "type": "卡片 / 集换式",
+      "description": "官方总种数已查；本轮未建立完整逐卡名单，未知槽位不造角色。",
+      "sources": [
+        "wafer5"
+      ],
+      "expectedCount": 25
+    },
+    {
+      "id": "wafer6",
+      "title": "FGO 威化第6弹",
+      "type": "卡片 / 集换式",
+      "description": "官方总种数已查；本轮未建立完整逐卡名单，未知槽位不造角色。",
+      "sources": [
+        "wafer6"
+      ],
+      "expectedCount": 25
+    },
+    {
+      "id": "extra",
+      "title": "Fate/EXTRA",
+      "type": "游戏",
+      "description": "作品身份独立；版本、特典与临时组合分栏展示。",
+      "sources": [],
+      "expectedCount": null
+    },
+    {
+      "id": "extra-ccc",
+      "title": "Fate/EXTRA CCC",
+      "type": "游戏",
+      "description": "作品身份独立；版本、特典与临时组合分栏展示。",
+      "sources": [],
+      "expectedCount": null
+    },
+    {
+      "id": "extella",
+      "title": "Fate/EXTELLA",
+      "type": "游戏",
+      "description": "作品身份独立；版本、特典与临时组合分栏展示。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix"
+      ],
+      "expectedCount": null
+    },
+    {
+      "id": "extella-link",
+      "title": "Fate/EXTELLA LINK",
+      "type": "游戏",
+      "description": "作品身份独立；版本、特典与临时组合分栏展示。",
+      "sources": [
+        "extella-link"
+      ],
+      "expectedCount": null
+    },
+    {
+      "id": "extra-record",
+      "title": "Fate/EXTRA Record",
+      "type": "游戏",
+      "description": "作品身份独立；版本、特典与临时组合分栏展示。",
+      "sources": [],
+      "expectedCount": null
+    },
+    {
+      "id": "figures",
+      "title": "比例手办",
+      "type": "手办",
+      "description": "厂商与销售商分别记录。",
+      "sources": [],
+      "expectedCount": null
+    },
+    {
+      "id": "figma",
+      "title": "Max Factory · figma",
+      "type": "手办 / 产品线",
+      "description": "本体永久建档；官店替换脸单卖按临时入口处理。",
+      "sources": [
+        "v2-nero"
+      ],
+      "expectedCount": null
+    },
+    {
+      "id": "nendoroid-doll",
+      "title": "GSC · 粘土人娃",
+      "type": "手办 / 产品线",
+      "description": "玛修私服人偶与官方单卖衣服套装为独立商品。",
+      "sources": [
+        "mash-doll",
+        "mash-outfit"
+      ],
+      "expectedCount": null
+    },
+    {
+      "id": "fes2025",
+      "title": "FGO Fes.2025",
+      "type": "活动周边",
+      "description": "Aniplex线上发售资料建立永久档案；事后受注日期与发货日期分开。",
+      "sources": [
+        "fes-kama",
+        "fes-louhi",
+        "fes-mat",
+        "fes-asclepius"
+      ],
+      "expectedCount": null
+    },
+    {
+      "id": "fes2026",
+      "title": "FGO Fes.2026 · 学生证",
+      "type": "活动特典",
+      "description": "用户提供入场特典信息，系列与实物对应仍需补证。",
+      "sources": [
+        "v2-student-history"
+      ],
+      "expectedCount": null
+    },
+    {
+      "id": "mixed",
+      "title": "Fate · 混合套装",
+      "type": "其他 / 临时组合",
+      "description": "只按大IP整理，未知成员不强行补齐。",
+      "sources": [],
+      "expectedCount": null
+    }
+  ],
+  "products": [
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/main/163/MED-BOOK-008296.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第1卷，全彩设定资料集。收录38项从者资料，包括玛修、阿尔托莉雅和尼禄等角色。",
+      "sources": [
+        "material",
+        "listing:P001"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集",
+        "マシュ・キリエライト",
+        "アルトリア・ペンドラゴン",
+        "アルトリア・ペンドラゴン〔オルタ〕",
+        "アルトリア・ペンドラゴン〔リリィ〕"
+      ],
+      "characters": [
+        "マシュ・キリエライト",
+        "アルトリア・ペンドラゴン",
+        "アルトリア・ペンドラゴン〔オルタ〕",
+        "アルトリア・ペンドラゴン〔リリィ〕",
+        "ネロ・クラウディウス",
+        "ジークフリート",
+        "ガイウス・ユリウス・カエサル",
+        "アルテラ",
+        "ジル・ド・レェ（セイバー）",
+        "シュヴァリエ・デオン",
+        "エミヤ",
+        "ギルガメッシュ",
+        "ロビンフッド",
+        "アタランテ",
+        "エウリュアレ",
+        "アーラシュ",
+        "クー・フーリン（ランサー）",
+        "エリザベート・バートリー",
+        "武蔵坊弁慶",
+        "クー・フーリン〔プロトタイプ〕",
+        "レオニダス一世",
+        "ロムルス",
+        "メドゥーサ",
+        "ゲオルギウス",
+        "エドワード・ティーチ",
+        "ブーディカ",
+        "牛若丸",
+        "アレキサンダー",
+        "マリー・アントワネット",
+        "マルタ",
+        "メディア",
+        "ジル・ド・レェ（キャスター）",
+        "ハンス・クリスチャン・アンデルセン",
+        "ウィリアム・シェイクスピア",
+        "メフィストフェレス",
+        "ヴォルフガング・アマデウス・モーツァルト",
+        "諸葛孔明〔エルメロイⅡ世〕",
+        "クー・フーリン（キャスター）"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P001"
+      ],
+      "links": [],
+      "id": "material-1",
+      "groupId": "material",
+      "title": "Fate/Grand Order material I",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 1
+      },
+      "facts": [
+        {
+          "field": "卷号",
+          "value": "I",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "出版社",
+          "value": "TYPE-MOON BOOKS",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "收录角色",
+          "value": [
+            "マシュ・キリエライト",
+            "アルトリア・ペンドラゴン",
+            "アルトリア・ペンドラゴン〔オルタ〕",
+            "アルトリア・ペンドラゴン〔リリィ〕",
+            "ネロ・クラウディウス",
+            "ジークフリート",
+            "ガイウス・ユリウス・カエサル",
+            "アルテラ",
+            "ジル・ド・レェ（セイバー）",
+            "シュヴァリエ・デオン",
+            "エミヤ",
+            "ギルガメッシュ",
+            "ロビンフッド",
+            "アタランテ",
+            "エウリュアレ",
+            "アーラシュ",
+            "クー・フーリン（ランサー）",
+            "エリザベート・バートリー",
+            "武蔵坊弁慶",
+            "クー・フーリン〔プロトタイプ〕",
+            "レオニダス一世",
+            "ロムルス",
+            "メドゥーサ",
+            "ゲオルギウス",
+            "エドワード・ティーチ",
+            "ブーディカ",
+            "牛若丸",
+            "アレキサンダー",
+            "マリー・アントワネット",
+            "マルタ",
+            "メディア",
+            "ジル・ド・レェ（キャスター）",
+            "ハンス・クリスチャン・アンデルセン",
+            "ウィリアム・シェイクスピア",
+            "メフィストフェレス",
+            "ヴォルフガング・アマデウス・モーツァルト",
+            "諸葛孔明〔エルメロイⅡ世〕",
+            "クー・フーリン（キャスター）"
+          ],
+          "status": "supported",
+          "scope": "content",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "发行形式",
+          "value": "B5变形、全彩设定资料集",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "material",
+        "listing:P001"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/main/163/MED-BOOK-008297.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第2卷，全彩设定资料集。收录35项从者资料，包括佐佐木小次郎、咒腕哈桑和斯忒诺等角色。",
+      "sources": [
+        "material",
+        "listing:P002"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集",
+        "佐々木小次郎",
+        "呪腕のハサン",
+        "ステンノ",
+        "荊軻"
+      ],
+      "characters": [
+        "佐々木小次郎",
+        "呪腕のハサン",
+        "ステンノ",
+        "荊軻",
+        "シャルル＝アンリ・サンソン",
+        "ファントム・オブ・ジ・オペラ",
+        "マタ・ハリ",
+        "カーミラ",
+        "ヘラクレス",
+        "ランスロット",
+        "呂布奉先",
+        "スパルタクス",
+        "坂田金時",
+        "ヴラド三世",
+        "アステリオス",
+        "カリギュラ",
+        "ダレイオス三世",
+        "清姫",
+        "エイリーク・ブラッドアクス",
+        "タマモキャット",
+        "ジャンヌ・ダルク",
+        "オリオン",
+        "エリザベート・バートリー〔ハロウィン〕",
+        "玉藻の前",
+        "ダビデ",
+        "ヘクトール",
+        "フランシス・ドレイク",
+        "アン・ボニー＆メアリー・リード",
+        "メディア〔リリィ〕",
+        "沖田総司",
+        "織田信長",
+        "スカサハ",
+        "ディルムッド・オディナ",
+        "フェルグス・マック・ロイ",
+        "アルトリア・ペンドラゴン〔サンタオルタ〕"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P002"
+      ],
+      "links": [],
+      "id": "material-2",
+      "groupId": "material",
+      "title": "Fate/Grand Order material II",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 2
+      },
+      "facts": [
+        {
+          "field": "卷号",
+          "value": "II",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "出版社",
+          "value": "TYPE-MOON BOOKS",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "收录角色",
+          "value": [
+            "佐々木小次郎",
+            "呪腕のハサン",
+            "ステンノ",
+            "荊軻",
+            "シャルル＝アンリ・サンソン",
+            "ファントム・オブ・ジ・オペラ",
+            "マタ・ハリ",
+            "カーミラ",
+            "ヘラクレス",
+            "ランスロット",
+            "呂布奉先",
+            "スパルタクス",
+            "坂田金時",
+            "ヴラド三世",
+            "アステリオス",
+            "カリギュラ",
+            "ダレイオス三世",
+            "清姫",
+            "エイリーク・ブラッドアクス",
+            "タマモキャット",
+            "ジャンヌ・ダルク",
+            "オリオン",
+            "エリザベート・バートリー〔ハロウィン〕",
+            "玉藻の前",
+            "ダビデ",
+            "ヘクトール",
+            "フランシス・ドレイク",
+            "アン・ボニー＆メアリー・リード",
+            "メディア〔リリィ〕",
+            "沖田総司",
+            "織田信長",
+            "スカサハ",
+            "ディルムッド・オディナ",
+            "フェルグス・マック・ロイ",
+            "アルトリア・ペンドラゴン〔サンタオルタ〕"
+          ],
+          "status": "supported",
+          "scope": "content",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "发行形式",
+          "value": "B5变形、全彩设定资料集",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "material",
+        "listing:P002"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/main/164/MED-BOOK-009096.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第3卷，全彩设定资料集。收录37项从者资料，包括童谣、开膛手杰克和莫德雷德等角色。",
+      "sources": [
+        "material",
+        "listing:P003"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集",
+        "ナーサリー・ライム",
+        "ジャック・ザ・リッパー",
+        "モードレッド",
+        "ニコラ・テスラ"
+      ],
+      "characters": [
+        "ナーサリー・ライム",
+        "ジャック・ザ・リッパー",
+        "モードレッド",
+        "ニコラ・テスラ",
+        "アルトリア・ペンドラゴン〔オルタ〕",
+        "ヴァン・ホーエンハイム・パラケルスス",
+        "チャールズ・バベッジ",
+        "ヘンリー・ジキル＆ハイド",
+        "フランケンシュタイン",
+        "アルジュナ",
+        "カルナ",
+        "謎のヒロインX",
+        "フィン・マックール",
+        "ブリュンヒルデ",
+        "ベオウルフ",
+        "ネロ・クラウディウス〔ブライド〕",
+        "両儀式〔セイバー〕",
+        "両儀式〔アサシン〕",
+        "天草四郎",
+        "アストルフォ",
+        "子ギル",
+        "巌窟王 エドモン・ダンテス",
+        "ナイチンゲール",
+        "クー・フーリン[オルタ]",
+        "女王メイヴ",
+        "エレナ・ブラヴァツキー",
+        "ラーマ",
+        "神槍 李書文",
+        "トーマス・エジソン",
+        "ジェロニモ",
+        "ビリー・ザ・キッド",
+        "ジャンヌ・ダルク〔オルタ〕",
+        "アンリマユ",
+        "イスカンダル",
+        "エミヤ〔アサシン〕",
+        "百貌のハサン",
+        "アイリスフィール〔天の衣〕"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P003"
+      ],
+      "links": [],
+      "id": "material-3",
+      "groupId": "material",
+      "title": "Fate/Grand Order material III",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 3
+      },
+      "facts": [
+        {
+          "field": "卷号",
+          "value": "III",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "出版社",
+          "value": "TYPE-MOON BOOKS",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "收录角色",
+          "value": [
+            "ナーサリー・ライム",
+            "ジャック・ザ・リッパー",
+            "モードレッド",
+            "ニコラ・テスラ",
+            "アルトリア・ペンドラゴン〔オルタ〕",
+            "ヴァン・ホーエンハイム・パラケルスス",
+            "チャールズ・バベッジ",
+            "ヘンリー・ジキル＆ハイド",
+            "フランケンシュタイン",
+            "アルジュナ",
+            "カルナ",
+            "謎のヒロインX",
+            "フィン・マックール",
+            "ブリュンヒルデ",
+            "ベオウルフ",
+            "ネロ・クラウディウス〔ブライド〕",
+            "両儀式〔セイバー〕",
+            "両儀式〔アサシン〕",
+            "天草四郎",
+            "アストルフォ",
+            "子ギル",
+            "巌窟王 エドモン・ダンテス",
+            "ナイチンゲール",
+            "クー・フーリン[オルタ]",
+            "女王メイヴ",
+            "エレナ・ブラヴァツキー",
+            "ラーマ",
+            "神槍 李書文",
+            "トーマス・エジソン",
+            "ジェロニモ",
+            "ビリー・ザ・キッド",
+            "ジャンヌ・ダルク〔オルタ〕",
+            "アンリマユ",
+            "イスカンダル",
+            "エミヤ〔アサシン〕",
+            "百貌のハサン",
+            "アイリスフィール〔天の衣〕"
+          ],
+          "status": "supported",
+          "scope": "content",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "发行形式",
+          "value": "B5变形、全彩设定资料集",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "material",
+        "listing:P003"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第4卷。完整收录条目见角色资料。",
+      "sources": [
+        "material"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "characters": [
+        "酒呑童子",
+        "三蔵法師",
+        "源頼光",
+        "坂田金時〔ライダー〕",
+        "茨木童子",
+        "風魔小太郎",
+        "オジマンディアス",
+        "アルトリア・ペンドラゴン〔ランサー〕/ ニトクリス",
+        "ランスロット",
+        "トリスタン",
+        "ガウェイン",
+        "静謐のハサン",
+        "俵藤太",
+        "ベディヴィエール",
+        "レオナルド・ダ・ヴィンチ",
+        "玉藻の前〔ランサー〕",
+        "アルトリア・ペンドラゴン〔アーチャー〕/ マリー・アントワネット〔キャスター〕",
+        "アン・ボニー＆メアリー・リード〔アーチャー〕/ モードレッド〔ライダー〕",
+        "スカサハ〔アサシン〕",
+        "清姫〔ランサー〕",
+        "マルタ〔ルーラー〕",
+        "イリヤスフィール・フォン・アインツベルン",
+        "クロエ・フォン・アインツベルン",
+        "エリザベート・バートリー〔ブレイブ〕",
+        "クレオパトラ",
+        "ヴラド三世〔EXTRA〕",
+        "ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+        "イシュタル",
+        "エルキドゥ",
+        "ケツァル・コアトル",
+        "ギルガメッシュ〔キャスター〕",
+        "メドゥーサ〔ランサー〕",
+        "ゴルゴーン",
+        "ジャガーマン",
+        "ティアマト",
+        "マーリン",
+        "ゲーティア",
+        "ソロモン"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "material-4",
+      "groupId": "material",
+      "title": "Fate/Grand Order material IV",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 4
+      },
+      "descriptionSources": [
+        "material"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第5卷。完整收录条目见角色资料。",
+      "sources": [
+        "material"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "characters": [
+        "宮本武蔵",
+        "“山の翁”",
+        "謎のヒロインＸ〔オルタ〕",
+        "新宿のアーチャー",
+        "エミヤ〔オルタ〕",
+        "新宿のアヴェンジャー",
+        "新宿のアサシン",
+        "アーサー・ペンドラゴン〔プロトタイプ〕",
+        "土方歳三",
+        "茶々",
+        "メルトリリス",
+        "パッションリップ",
+        "鈴鹿御前",
+        "BB",
+        "殺生院キアラ",
+        "ビーストⅢ／Ｒ",
+        "不夜城のキャスター",
+        "不夜城のアサシン",
+        "エルドラドのバーサーカー",
+        "レジスタンスのライダー",
+        "シャーロック・ホームズ",
+        "ポール・バニヤン",
+        "ネロ・クラウディウス〔キャスター〕",
+        "フランケンシュタイン〔セイバー〕",
+        "ニトクリス〔アサシン〕",
+        "織田信長〔バーサーカー〕",
+        "アルトリア・ペンドラゴン〔オルタ〕〔ライダー〕",
+        "エレナ・ブラヴァツキー〔アーチャー〕",
+        "源頼光〔ランサー〕",
+        "イシュタル〔ライダー〕",
+        "パールヴァティー"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "material-5",
+      "groupId": "material",
+      "title": "Fate/Grand Order material V",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 5
+      },
+      "descriptionSources": [
+        "material"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第6卷。完整收录条目见角色资料。",
+      "sources": [
+        "material"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "characters": [
+        "アーチャー・インフェルノ",
+        "アサシン・パライソ",
+        "宝蔵院胤舜",
+        "柳生但馬守宗矩",
+        "加藤段蔵",
+        "刑部姫",
+        "メカエリチャン",
+        "メカエリチャンⅡ号機",
+        "オケアノスのキャスター",
+        "哪吒",
+        "ミドラーシュのキャスター",
+        "アビゲイル・ウィリアムズ",
+        "エレシュキガル",
+        "アルテラ・ザ・サン〔タ〕",
+        "葛飾北斎",
+        "セミラミス",
+        "浅上藤乃"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "material-6",
+      "groupId": "material",
+      "title": "Fate/Grand Order material VI",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 6
+      },
+      "descriptionSources": [
+        "material"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第7卷。完整收录条目见角色资料。",
+      "sources": [
+        "material"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "characters": [
+        "アナスタシア",
+        "アタランテ〔オルタ〕",
+        "アヴィケブロン",
+        "アントニオ・サリエリ",
+        "イヴァン雷帝",
+        "アキレウス",
+        "ケイローン",
+        "ジーク",
+        "沖田総司〔オルタ〕",
+        "岡田以蔵",
+        "坂本龍馬",
+        "ナポレオン",
+        "シグルド",
+        "ワルキューレ　(オルトリンデ、ヒルド、スルーズ)",
+        "スカサハ=スカディ",
+        "ジャンヌ・ダルク〔アーチャー〕",
+        "茨木童子〔ランサー〕",
+        "牛若丸〔アサシン〕",
+        "ジャンヌ・ダルク〔オルタ〕",
+        "BB〔ムーンキャンサー〕",
+        "女王メイヴ〔セイバー〕",
+        "謎のヒロインXX〔フォーリナー〕",
+        "ディルムッド・オディナ",
+        "シトナイ",
+        "酒呑童子〔キャスター〕"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "material-7",
+      "groupId": "material",
+      "title": "Fate/Grand Order material VII",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 7
+      },
+      "descriptionSources": [
+        "material"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/main/202/MED-BOOK-015843.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第8卷，全彩设定资料集。收录24项从者资料，包括项羽、兰陵王和秦良玉等角色。",
+      "sources": [
+        "material",
+        "listing:P004"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集",
+        "項羽",
+        "蘭陵王",
+        "秦良玉",
+        "始皇帝"
+      ],
+      "characters": [
+        "項羽",
+        "蘭陵王",
+        "秦良玉",
+        "始皇帝",
+        "虞美人",
+        "赤兎馬",
+        "ブラダマンテ",
+        "ケツァル・コアトル〔サンバ/サンタ〕",
+        "紅閻魔",
+        "李書文〔アサシン〕",
+        "美遊・エーデルフェルト",
+        "紫式部",
+        "キングプロテア",
+        "カーマ",
+        "ビーストⅢ／L",
+        "司馬懿〔ライネス〕",
+        "アストライア",
+        "グレイ",
+        "大いなる石像神",
+        "ラクシュミー・バーイー",
+        "ウィリアム・テル",
+        "アルジュナ〔オルタ〕",
+        "アシュヴァッターマン",
+        "アスクレピオス"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P004"
+      ],
+      "links": [],
+      "id": "material-8",
+      "groupId": "material",
+      "title": "Fate/Grand Order material VIII",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 8
+      },
+      "facts": [
+        {
+          "field": "卷号",
+          "value": "VIII",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "出版社",
+          "value": "TYPE-MOON BOOKS",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "收录角色",
+          "value": [
+            "項羽",
+            "蘭陵王",
+            "秦良玉",
+            "始皇帝",
+            "虞美人",
+            "赤兎馬",
+            "ブラダマンテ",
+            "ケツァル・コアトル〔サンバ/サンタ〕",
+            "紅閻魔",
+            "李書文〔アサシン〕",
+            "美遊・エーデルフェルト",
+            "紫式部",
+            "キングプロテア",
+            "カーマ",
+            "ビーストⅢ／L",
+            "司馬懿〔ライネス〕",
+            "アストライア",
+            "グレイ",
+            "大いなる石像神",
+            "ラクシュミー・バーイー",
+            "ウィリアム・テル",
+            "アルジュナ〔オルタ〕",
+            "アシュヴァッターマン",
+            "アスクレピオス"
+          ],
+          "status": "supported",
+          "scope": "content",
+          "sources": [
+            "material"
+          ]
+        },
+        {
+          "field": "发行形式",
+          "value": "B5变形、全彩设定资料集",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "material"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "material",
+        "listing:P004"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第9卷。完整收录条目见角色资料。",
+      "sources": [
+        "material"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "characters": [
+        "魔王信長",
+        "森長可",
+        "長尾景虎",
+        "レオナルド・ダ・ヴィンチ〔ライダー〕",
+        "イアソン",
+        "パリス",
+        "ガレス",
+        "バーソロミュー・ロバーツ",
+        "陳宮",
+        "シャルロット・コルデー",
+        "サロメ",
+        "宮本武蔵〔バーサーカー〕",
+        "刑部姫〔アーチャー〕",
+        "カーミラ〔ライダー〕",
+        "葛飾北斎〔セイバー〕",
+        "アルトリア・ペンドラゴン〔ルーラー〕",
+        "謎のアルターエゴ・Λ",
+        "オキタ・J・ソウジ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "material-9",
+      "groupId": "material",
+      "title": "Fate/Grand Order material IX",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 9
+      },
+      "descriptionSources": [
+        "material"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第10卷。完整收录条目见角色资料。",
+      "sources": [
+        "material"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "characters": [
+        "スペース・イシュタル",
+        "カラミティ・ジェーン",
+        "アストルフォ",
+        "ナイチンゲール〔サンタ〕",
+        "超人オリオン",
+        "マンドリカルド",
+        "エウロペ",
+        "楊貴妃",
+        "清少納言",
+        "オデュッセウス",
+        "ディオスクロイ",
+        "カイニス",
+        "ロムルス=クィリヌス",
+        "ボイジャー",
+        "鬼女紅葉",
+        "宇津見エリセ",
+        "アルトリア・キャスター"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "material-10",
+      "groupId": "material",
+      "title": "Fate/Grand Order material X",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 10
+      },
+      "descriptionSources": [
+        "material"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第11卷。完整收录条目见角色资料。",
+      "sources": [
+        "material"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "characters": [
+        "殺生院キアラ",
+        "イリヤスフィール・フォン・アインツベルン",
+        "ブリュンヒルデ",
+        "虞美人",
+        "アビゲイル・ウィリアムズ〔夏〕",
+        "巴御前",
+        "紫式部",
+        "卑弥呼",
+        "斎藤一",
+        "織田信勝",
+        "ヴァン・ゴッホ",
+        "ネモ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "material-11",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XI",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 11
+      },
+      "descriptionSources": [
+        "material"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "设定资料集",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第12卷。完整收录条目见角色资料。",
+      "sources": [
+        "material"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "TYPE-MOON BOOKS",
+        "资料集"
+      ],
+      "characters": [
+        "蘆屋道満",
+        "渡辺綱",
+        "伊吹童子",
+        "ヴリトラ",
+        "カルナ〔サンタ〕",
+        "千子村正",
+        "平景清",
+        "鬼一法眼",
+        "カレン・Ｃ・オルテンシア",
+        "ガラテア",
+        "ミス・クレーン",
+        "謎のアイドルX〔オルタ〕"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "material-12",
+      "groupId": "material",
+      "title": "Fate/Grand Order material XII",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "material",
+        "volume": 12
+      },
+      "descriptionSources": [
+        "material"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第1卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-1"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-1",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第1卷",
+      "isbn": "9784065107645",
+      "releaseDate": "2018年01月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 1,
+        "isbn": "9784065107645"
+      },
+      "descriptionSources": [
+        "catalogue:turas-1"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第2卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-2"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-2",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第2卷",
+      "isbn": "9784065114063",
+      "releaseDate": "2018年05月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 2,
+        "isbn": "9784065114063"
+      },
+      "descriptionSources": [
+        "catalogue:turas-2"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第3卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-3"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-3",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第3卷",
+      "isbn": "9784065129876",
+      "releaseDate": "2018年10月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 3,
+        "isbn": "9784065129876"
+      },
+      "descriptionSources": [
+        "catalogue:turas-3"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第4卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-4"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-4",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第4卷",
+      "isbn": "9784065144398",
+      "releaseDate": "2019年03月08日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 4,
+        "isbn": "9784065144398"
+      },
+      "descriptionSources": [
+        "catalogue:turas-4"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第5卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-5"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-5",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第5卷",
+      "isbn": "9784065153031",
+      "releaseDate": "2019年07月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 5,
+        "isbn": "9784065153031"
+      },
+      "descriptionSources": [
+        "catalogue:turas-5"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第6卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-6"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-6",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第6卷",
+      "isbn": "9784065173046",
+      "releaseDate": "2019年11月08日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 6,
+        "isbn": "9784065173046"
+      },
+      "descriptionSources": [
+        "catalogue:turas-6"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第7卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-7"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-7",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第7卷",
+      "isbn": "9784065185124",
+      "releaseDate": "2020年03月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 7,
+        "isbn": "9784065185124"
+      },
+      "descriptionSources": [
+        "catalogue:turas-7"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第8卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-8"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-8",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第8卷",
+      "isbn": "9784065203248",
+      "releaseDate": "2020年08月07日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 8,
+        "isbn": "9784065203248"
+      },
+      "descriptionSources": [
+        "catalogue:turas-8"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第9卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-9"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-9",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第9卷",
+      "isbn": "9784065216767",
+      "releaseDate": "2020年12月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 9,
+        "isbn": "9784065216767"
+      },
+      "descriptionSources": [
+        "catalogue:turas-9"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第10卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-10"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-10",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第10卷",
+      "isbn": "9784065231562",
+      "releaseDate": "2021年05月07日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 10,
+        "isbn": "9784065231562"
+      },
+      "descriptionSources": [
+        "catalogue:turas-10"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第11卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-11"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-11",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第11卷",
+      "isbn": "9784065251331",
+      "releaseDate": "2021年10月08日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 11,
+        "isbn": "9784065251331"
+      },
+      "descriptionSources": [
+        "catalogue:turas-11"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第12卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-12"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-12",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第12卷",
+      "isbn": "9784065272701",
+      "releaseDate": "2022年03月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 12,
+        "isbn": "9784065272701"
+      },
+      "descriptionSources": [
+        "catalogue:turas-12"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第13卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-13"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-13",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第13卷",
+      "isbn": "9784065286630",
+      "releaseDate": "2022年08月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 13,
+        "isbn": "9784065286630"
+      },
+      "descriptionSources": [
+        "catalogue:turas-13"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第14卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-14"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-14",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第14卷",
+      "isbn": "9784065305287",
+      "releaseDate": "2023年02月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 14,
+        "isbn": "9784065305287"
+      },
+      "descriptionSources": [
+        "catalogue:turas-14"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第15卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-15"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-15",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第15卷",
+      "isbn": "9784065321690",
+      "releaseDate": "2023年07月07日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 15,
+        "isbn": "9784065321690"
+      },
+      "descriptionSources": [
+        "catalogue:turas-15"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第16卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-16"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-16",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第16卷",
+      "isbn": "9784065338827",
+      "releaseDate": "2024年01月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 16,
+        "isbn": "9784065338827"
+      },
+      "descriptionSources": [
+        "catalogue:turas-16"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第17卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-17"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-17",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第17卷",
+      "isbn": "9784065361269",
+      "releaseDate": "2024年07月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 17,
+        "isbn": "9784065361269"
+      },
+      "descriptionSources": [
+        "catalogue:turas-17"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第18卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-18"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-18",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第18卷",
+      "isbn": "9784065374269",
+      "releaseDate": "2024年11月08日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 18,
+        "isbn": "9784065374269"
+      },
+      "descriptionSources": [
+        "catalogue:turas-18"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第19卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-19"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-19",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第19卷",
+      "isbn": "9784065390559",
+      "releaseDate": "2025年04月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 19,
+        "isbn": "9784065390559"
+      },
+      "descriptionSources": [
+        "catalogue:turas-19"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第20卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-20"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-20",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第20卷",
+      "isbn": "9784065403525",
+      "releaseDate": "2025年08月07日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 20,
+        "isbn": "9784065403525"
+      },
+      "descriptionSources": [
+        "catalogue:turas-20"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第21卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-21"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-21",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第21卷",
+      "isbn": "9784065418932",
+      "releaseDate": "2025年12月09日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 21,
+        "isbn": "9784065418932"
+      },
+      "descriptionSources": [
+        "catalogue:turas-21"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第22卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-22"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-22",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第22卷",
+      "isbn": "9784065436097",
+      "releaseDate": "2026年05月08日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 22,
+        "isbn": "9784065436097"
+      },
+      "descriptionSources": [
+        "catalogue:turas-22"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "漫画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画系列第23卷。出版社已列出该卷发行资料。",
+      "sources": [
+        "catalogue:turas-23"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "漫画"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "turas-23",
+      "groupId": "turas",
+      "title": "FGO -turas réalta- 第23卷",
+      "isbn": "9784065452684",
+      "releaseDate": "2026年10月08日",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "edition": "turas-realta",
+        "volume": 23,
+        "isbn": "9784065452684"
+      },
+      "descriptionSources": [
+        "catalogue:turas-23"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "渡辺綱"
+      ],
+      "characters": [
+        "渡辺綱"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-29042dc1aa9d",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 渡辺綱",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "渡辺綱"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "織田信勝"
+      ],
+      "characters": [
+        "織田信勝"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-417d556a48f2",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 織田信勝",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "織田信勝"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "雑賀孫一"
+      ],
+      "characters": [
+        "雑賀孫一"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-584d4a99892f",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 雑賀孫一",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "雑賀孫一"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ドブルイニャ・ニキチッチ"
+      ],
+      "characters": [
+        "ドブルイニャ・ニキチッチ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-62bc97a422e6",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ドブルイニャ・ニキチッチ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ドブルイニャ・ニキチッチ"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ヴァン・ゴッホ(マイナー)"
+      ],
+      "characters": [
+        "ヴァン・ゴッホ(マイナー)"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-92c3aea697ec",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ヴァン・ゴッホ(マイナー)",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ヴァン・ゴッホ(マイナー)"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ネモ(サンタ)"
+      ],
+      "characters": [
+        "ネモ(サンタ)"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-acd748c62736",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ネモ(サンタ)",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ネモ(サンタ)"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ジェロニモ"
+      ],
+      "characters": [
+        "ジェロニモ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-b0dde31f2055",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ジェロニモ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ジェロニモ"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "呼延灼"
+      ],
+      "characters": [
+        "呼延灼"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-f45e6d1a37a7",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 呼延灼",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "呼延灼"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "岸波白野(男)"
+      ],
+      "characters": [
+        "岸波白野(男)"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-dc823d436507",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 岸波白野(男)",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "岸波白野(男)"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "アビゲイル・ウイリアムズ(サンタ)"
+      ],
+      "characters": [
+        "アビゲイル・ウイリアムズ(サンタ)"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-40871548b6a3",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · アビゲイル・ウイリアムズ(サンタ)",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "アビゲイル・ウイリアムズ(サンタ)"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "リチャードI世"
+      ],
+      "characters": [
+        "リチャードI世"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-9f2476eec4ed",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · リチャードI世",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "リチャードI世"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "プトレマイオス"
+      ],
+      "characters": [
+        "プトレマイオス"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-f4837153e890",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · プトレマイオス",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "プトレマイオス"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ビーマ"
+      ],
+      "characters": [
+        "ビーマ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-2851fccb6b59",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ビーマ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ビーマ"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "武田晴信"
+      ],
+      "characters": [
+        "武田晴信"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-d25347cbc5e0",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 武田晴信",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "武田晴信"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "アンドロメダ"
+      ],
+      "characters": [
+        "アンドロメダ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-a40613b349d8",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · アンドロメダ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "アンドロメダ"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "小野小町"
+      ],
+      "characters": [
+        "小野小町"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-e0c2b2aa9fd1",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 小野小町",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "小野小町"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ロウヒ"
+      ],
+      "characters": [
+        "ロウヒ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-f6bc1cb69418",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ロウヒ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ロウヒ"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "徐福"
+      ],
+      "characters": [
+        "徐福"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-f0dfd3eceecc",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 徐福",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "徐福"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "マリー・アントワネット(オルタ)"
+      ],
+      "characters": [
+        "マリー・アントワネット(オルタ)"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-9c6d1037470b",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · マリー・アントワネット(オルタ)",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "マリー・アントワネット(オルタ)"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "テノチティトラン"
+      ],
+      "characters": [
+        "テノチティトラン"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-4ea6aa582b04",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · テノチティトラン",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "テノチティトラン"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "謎のヒロインXX(オルタ)"
+      ],
+      "characters": [
+        "謎のヒロインXX(オルタ)"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-0836d965ad4b",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 謎のヒロインXX(オルタ)",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "謎のヒロインXX(オルタ)"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "威化单卡",
+      "state": "supported",
+      "image": "https://img.mandarake.co.jp/webshopimg/03/80/157/0380321157/s_03803211571.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/Grand Order》威化第14弹的两仪式卡片。挂牌标为22号，具体卡面与编号仍需核对。",
+      "sources": [
+        "wafer14-retailer",
+        "wafer14",
+        "listing:P008"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "両儀式"
+      ],
+      "characters": [
+        "両儀式"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P008"
+      ],
+      "links": [],
+      "id": "wafer14-19be3e44f739",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 両儀式",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "両儀式"
+      },
+      "facts": [
+        {
+          "field": "弹次",
+          "value": 14,
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P008"
+          ]
+        },
+        {
+          "field": "卡号",
+          "value": "22",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P008"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "両儀式",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "listing:P008",
+            "wafer14-image-6"
+          ]
+        },
+        {
+          "field": "稀有度",
+          "value": "TM",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P008"
+          ]
+        },
+        {
+          "field": "该弹总种数",
+          "value": 34,
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer14"
+          ]
+        },
+        {
+          "field": "发售日",
+          "value": "2025-11-10",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer14"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "原商品为随机封入卡片+威化；二手挂牌为单卡",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer14",
+            "listing:P008"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "wafer14-retailer",
+        "wafer14",
+        "listing:P008"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ひびき＆千鍵"
+      ],
+      "characters": [
+        "ひびき＆千鍵"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-979ef9d427d3",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ひびき＆千鍵",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ひびき＆千鍵"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "謎の代行者C.I.E.L"
+      ],
+      "characters": [
+        "謎の代行者C.I.E.L"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-6d60cc3bfe46",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 謎の代行者C.I.E.L",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "謎の代行者C.I.E.L"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "蒼崎青子"
+      ],
+      "characters": [
+        "蒼崎青子"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-decef6c2d418",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 蒼崎青子",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "蒼崎青子"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ファンタズムーン"
+      ],
+      "characters": [
+        "ファンタズムーン"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-fb44a2d4627d",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ファンタズムーン",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ファンタズムーン"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "巌窟王 モンテ・クリスト"
+      ],
+      "characters": [
+        "巌窟王 モンテ・クリスト"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-1e734e34334a",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 巌窟王 モンテ・クリスト",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "巌窟王 モンテ・クリスト"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "上杉謙信"
+      ],
+      "characters": [
+        "上杉謙信"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-7de31f2d25f6",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 上杉謙信",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "上杉謙信"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "カズラドロップ"
+      ],
+      "characters": [
+        "カズラドロップ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-67400868d041",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · カズラドロップ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "カズラドロップ"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "威化单卡",
+      "state": "supported",
+      "image": "https://img.mandarake.co.jp/webshopimg/03/80/165/0380321165/s_03803211651.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/Grand Order》威化第14弹的但丁·阿利吉耶里卡片。挂牌标为30号，具体编号仍需与卡背对应。",
+      "sources": [
+        "wafer14-retailer",
+        "wafer14",
+        "listing:P006"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ダンテ・アリギエーリ"
+      ],
+      "characters": [
+        "ダンテ・アリギエーリ"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P006"
+      ],
+      "links": [],
+      "id": "wafer14-c6c2cac38b13",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ダンテ・アリギエーリ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ダンテ・アリギエーリ"
+      },
+      "facts": [
+        {
+          "field": "弹次",
+          "value": 14,
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P006"
+          ]
+        },
+        {
+          "field": "卡号",
+          "value": "30",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P006"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "ダンテ・アリギエーリ",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "listing:P006",
+            "wafer14-image-7"
+          ]
+        },
+        {
+          "field": "稀有度",
+          "value": "SR",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P006"
+          ]
+        },
+        {
+          "field": "该弹总种数",
+          "value": 34,
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer14"
+          ]
+        },
+        {
+          "field": "发售日",
+          "value": "2025-11-10",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer14"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "原商品为随机封入卡片+威化；二手挂牌为单卡",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer14",
+            "listing:P006"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "wafer14-retailer",
+        "wafer14",
+        "listing:P006"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "エレシュキガル"
+      ],
+      "characters": [
+        "エレシュキガル"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-9fe879488078",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · エレシュキガル",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "エレシュキガル"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "ゴールデンBB"
+      ],
+      "characters": [
+        "ゴールデンBB"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-275d647cae43",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · ゴールデンBB",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "ゴールデンBB"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "カマソッソ"
+      ],
+      "characters": [
+        "カマソッソ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-620b6df7fca2",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · カマソッソ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "カマソッソ"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "",
+      "imageRole": "none",
+      "summary": "零售目录列出的第14弹候选卡片。正式编号及卡面对应待核实。",
+      "sources": [
+        "wafer14-retailer"
+      ],
+      "tags": [
+        "Fate/Grand Order",
+        "岸波白野(女)"
+      ],
+      "characters": [
+        "岸波白野(女)"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "wafer14-ad4ecf59eb8b",
+      "groupId": "wafer14",
+      "title": "FGO 威化14 · 岸波白野(女)",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "wave": 14,
+        "character": "岸波白野(女)"
+      },
+      "descriptionSources": [
+        "wafer14-retailer"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "游戏",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/EXTELLA》的通常版。按实际发行平台分别记录身份与报价。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix",
+        "extella-switch",
+        "listing:P011",
+        "v2-vita-jan",
+        "v2-switch-jan",
+        "v2-ps4-jan"
+      ],
+      "tags": [
+        "Fate/EXTELLA",
+        "通常版"
+      ],
+      "characters": [],
+      "variants": [
+        {
+          "platform": "PS4",
+          "medium": "实体",
+          "jan": "4535506302564",
+          "sources": [
+            "v2-ps4-jan"
+          ]
+        },
+        {
+          "platform": "PS Vita",
+          "medium": "实体",
+          "jan": "4535506302571",
+          "sources": [
+            "v2-vita-jan"
+          ]
+        },
+        {
+          "platform": "Switch",
+          "medium": "实体",
+          "jan": "4535506302656",
+          "sources": [
+            "v2-switch-jan"
+          ]
+        }
+      ],
+      "sampleIds": [
+        "P011"
+      ],
+      "links": [],
+      "id": "extella-regular",
+      "groupId": "extella",
+      "title": "Fate/EXTELLA 通常版",
+      "identity": {
+        "work": "Fate/EXTELLA",
+        "edition": "通常版",
+        "medium": "实体"
+      },
+      "facts": [
+        {
+          "field": "平台",
+          "value": "PS4",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P011"
+          ]
+        },
+        {
+          "field": "版本",
+          "value": "通常版",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P011"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "2016年原版游戏通常版；PS4与PS Vita分开",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "extella",
+        "v2-extella-matrix",
+        "extella-switch",
+        "listing:P011",
+        "v2-vita-jan",
+        "v2-switch-jan",
+        "v2-ps4-jan"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "游戏",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/EXTELLA》Nintendo Switch版LIMITED BOX。标准组合包括游戏、Wada Arco绘制外盒和尼禄收纳包，二手是否齐全需另查。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix",
+        "extella-switch",
+        "switch-release",
+        "listing:P012"
+      ],
+      "tags": [
+        "Fate/EXTELLA",
+        "LIMITED BOX"
+      ],
+      "characters": [],
+      "variants": [
+        {
+          "platform": "Switch",
+          "medium": "实体",
+          "jan": null,
+          "sources": [
+            "v2-extella-matrix"
+          ]
+        }
+      ],
+      "sampleIds": [
+        "P012"
+      ],
+      "links": [],
+      "id": "extella-limited",
+      "groupId": "extella",
+      "title": "Fate/EXTELLA LIMITED BOX",
+      "identity": {
+        "work": "Fate/EXTELLA",
+        "edition": "LIMITED BOX",
+        "medium": "实体"
+      },
+      "facts": [
+        {
+          "field": "平台",
+          "value": "Nintendo Switch",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P012"
+          ]
+        },
+        {
+          "field": "发售日",
+          "value": "2017-07-20",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "switch-release"
+          ]
+        },
+        {
+          "field": "标准套装组件",
+          "value": [
+            "游戏",
+            "Wada Arco绘制外盒",
+            "尼禄外出收纳包"
+          ],
+          "status": "supported",
+          "scope": "standard-package",
+          "sources": [
+            "extella-switch"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "extella",
+        "v2-extella-matrix",
+        "extella-switch",
+        "switch-release",
+        "listing:P012"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "游戏",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/EXTELLA》的Best Collection。按实际发行平台分别记录身份与报价。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix"
+      ],
+      "tags": [
+        "Fate/EXTELLA",
+        "Best Collection"
+      ],
+      "characters": [],
+      "variants": [
+        {
+          "platform": "PS4",
+          "medium": "实体",
+          "jan": null,
+          "sources": [
+            "v2-extella-matrix"
+          ]
+        },
+        {
+          "platform": "PS Vita",
+          "medium": "实体",
+          "jan": null,
+          "sources": [
+            "v2-extella-matrix"
+          ]
+        },
+        {
+          "platform": "Switch",
+          "medium": "实体",
+          "jan": null,
+          "sources": [
+            "v2-extella-matrix"
+          ]
+        }
+      ],
+      "sampleIds": [],
+      "links": [],
+      "id": "extella-best",
+      "groupId": "extella",
+      "title": "Fate/EXTELLA Best Collection",
+      "identity": {
+        "work": "Fate/EXTELLA",
+        "edition": "Best Collection",
+        "medium": "实体"
+      },
+      "descriptionSources": [
+        "extella",
+        "v2-extella-matrix"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "游戏",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "《Fate/EXTELLA》的REGALIA BOX。按实际发行平台分别记录身份与报价。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix"
+      ],
+      "tags": [
+        "Fate/EXTELLA",
+        "REGALIA BOX"
+      ],
+      "characters": [],
+      "variants": [
+        {
+          "platform": "PS4",
+          "medium": "实体",
+          "jan": null,
+          "sources": [
+            "v2-extella-matrix"
+          ]
+        },
+        {
+          "platform": "PS Vita",
+          "medium": "实体",
+          "jan": null,
+          "sources": [
+            "v2-extella-matrix"
+          ]
+        }
+      ],
+      "sampleIds": [],
+      "links": [],
+      "id": "extella-regalia",
+      "groupId": "extella",
+      "title": "Fate/EXTELLA REGALIA BOX",
+      "identity": {
+        "work": "Fate/EXTELLA",
+        "edition": "REGALIA BOX",
+        "medium": "实体"
+      },
+      "descriptionSources": [
+        "extella",
+        "v2-extella-matrix"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "游戏",
+      "state": "supported",
+      "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/105007167.jpg.webp",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/EXTELLA》的豪华限定盒装，同时包含PS4和PS Vita游戏。缺件仅记录在具体挂牌，不改变母版本身份。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix",
+        "listing:P029"
+      ],
+      "tags": [
+        "Fate/EXTELLA",
+        "VELBER BOX"
+      ],
+      "characters": [],
+      "variants": [
+        {
+          "platform": "PS4 + PS Vita",
+          "medium": "实体",
+          "jan": "4535506302588",
+          "sources": [
+            "v2-extella-matrix"
+          ]
+        }
+      ],
+      "sampleIds": [
+        "P029"
+      ],
+      "links": [],
+      "id": "extella-velber",
+      "groupId": "extella",
+      "title": "Fate/EXTELLA VELBER BOX",
+      "identity": {
+        "work": "Fate/EXTELLA",
+        "edition": "VELBER BOX",
+        "medium": "实体"
+      },
+      "facts": [
+        {
+          "field": "版本",
+          "value": "VELBER BOX",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella"
+          ]
+        },
+        {
+          "field": "缺少组件",
+          "value": "PS4游戏本体",
+          "status": "seller-claimed",
+          "scope": "offer",
+          "sources": [
+            "listing:P029"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "原官方盒装；当前二手缺件出售",
+          "status": "proposed",
+          "scope": "product",
+          "sources": [
+            "extella",
+            "listing:P029"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "extella",
+        "v2-extella-matrix",
+        "listing:P029"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "可动手办",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "Max Factory的《Fate/EXTELLA》尼禄figma，型号370。官店购入曾附“闭眼得意脸”，二手挂牌不默认附送。",
+      "sources": [
+        "v2-nero"
+      ],
+      "tags": [
+        "figma",
+        "Max Factory",
+        "Fate/EXTELLA",
+        "ネロ・クラウディウス"
+      ],
+      "characters": [
+        "ネロ・クラウディウス"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [
+        {
+          "id": "sample-P020",
+          "type": "官店特典临时单卖"
+        }
+      ],
+      "id": "figma-nero-370",
+      "groupId": "figma",
+      "title": "figma 尼禄·克劳狄乌斯 370",
+      "referenceImages": [
+        {
+          "url": "https://images.goodsmile.info/cgm/images/product/20170929/6757/47855/large/43aa1f34f64b260c59ae305c60898bf9.jpg",
+          "role": "官店特典参考图（官网链接）",
+          "sources": [
+            "v2-nero-image"
+          ]
+        }
+      ],
+      "identity": {
+        "work": "Fate/EXTELLA",
+        "edition": "figma370"
+      },
+      "descriptionSources": [
+        "v2-nero"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "テノチティトラン",
+        "挂画"
+      ],
+      "characters": [
+        "テノチティトラン"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-4ea6aa582b04",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · テノチティトラン",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "テノチティトラン"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "メリュジーヌ",
+        "挂画"
+      ],
+      "characters": [
+        "メリュジーヌ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-80da15918ec2",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · メリュジーヌ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "メリュジーヌ"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "沖田総司",
+        "挂画"
+      ],
+      "characters": [
+        "沖田総司"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-32df27765c78",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · 沖田総司",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "沖田総司"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "マンドリカルド",
+        "挂画"
+      ],
+      "characters": [
+        "マンドリカルド"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-cdd941ca0093",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · マンドリカルド",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "マンドリカルド"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "マーリン",
+        "挂画"
+      ],
+      "characters": [
+        "マーリン"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-d3142f8cd6a4",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · マーリン",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "マーリン"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "カルナ",
+        "挂画"
+      ],
+      "characters": [
+        "カルナ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-c635966b9d1d",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · カルナ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "カルナ"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "アルテラ・ザ・サン〔タ〕",
+        "挂画"
+      ],
+      "characters": [
+        "アルテラ・ザ・サン〔タ〕"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-7ec38b57a646",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · アルテラ・ザ・サン〔タ〕",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "アルテラ・ザ・サン〔タ〕"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "百貌のハサン",
+        "挂画"
+      ],
+      "characters": [
+        "百貌のハサン"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-5eb613bb7ed0",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · 百貌のハサン",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "百貌のハサン"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "呼延灼",
+        "挂画"
+      ],
+      "characters": [
+        "呼延灼"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-f45e6d1a37a7",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · 呼延灼",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "呼延灼"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "望月千代女",
+        "挂画"
+      ],
+      "characters": [
+        "望月千代女"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-28c850cc9950",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · 望月千代女",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "望月千代女"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "土方歳三",
+        "挂画"
+      ],
+      "characters": [
+        "土方歳三"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-866e37c1087f",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · 土方歳三",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "土方歳三"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=873122739&size=m",
+      "imageRole": "历史挂牌图片",
+      "summary": "FGO Fes.2025的阿斯克勒庇俄斯B2半裁挂画，属于B组角色款式。活动后曾在Aniplex进行受注销售。",
+      "sources": [
+        "fes-asclepius",
+        "listing:P024"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "アスクレピオス",
+        "挂画"
+      ],
+      "characters": [
+        "アスクレピオス"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P024"
+      ],
+      "links": [],
+      "id": "fes-B-5ff5daea3c46",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · アスクレピオス",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "アスクレピオス"
+      },
+      "facts": [
+        {
+          "field": "活动",
+          "value": "FGO Fes.2025",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-asclepius"
+          ]
+        },
+        {
+          "field": "款式",
+          "value": "B组·阿斯克勒庇俄斯",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-asclepius"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "アスクレピオス",
+          "status": "supported",
+          "scope": "depicts",
+          "sources": [
+            "fes-asclepius"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "Aniplex活动事后受注销售",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-asclepius"
+          ]
+        },
+        {
+          "field": "预订期",
+          "value": "2025-08-03至08-31",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-asclepius"
+          ]
+        },
+        {
+          "field": "发货调整",
+          "value": "原2026年1月下旬 → 延至3月中旬；页面标示2026-03-13",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-asclepius"
+          ]
+        },
+        {
+          "field": "二手站旧日期",
+          "value": "2026-01-31",
+          "status": "conflict",
+          "scope": "product",
+          "sources": [
+            "listing:P024"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "fes-asclepius",
+        "listing:P024"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "マリー・アントワネット",
+        "挂画"
+      ],
+      "characters": [
+        "マリー・アントワネット"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-88a28870f174",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · マリー・アントワネット",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "マリー・アントワネット"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "パーシヴァル",
+        "挂画"
+      ],
+      "characters": [
+        "パーシヴァル"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-6891d0c9d914",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · パーシヴァル",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "パーシヴァル"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画B组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-asclepius"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "黄飛虎",
+        "挂画"
+      ],
+      "characters": [
+        "黄飛虎"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-B-c8514f5b87ea",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 B组 · 黄飛虎",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-b",
+        "character": "黄飛虎"
+      },
+      "descriptionSources": [
+        "fes-asclepius"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "始皇帝",
+        "挂画"
+      ],
+      "characters": [
+        "始皇帝"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-0cbdb9ff7283",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · 始皇帝",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "始皇帝"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "ステンノ",
+        "挂画"
+      ],
+      "characters": [
+        "ステンノ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-0b046b44aea0",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · ステンノ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "ステンノ"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "エウリュアレ",
+        "挂画"
+      ],
+      "characters": [
+        "エウリュアレ"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-e715281d6f4c",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · エウリュアレ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "エウリュアレ"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=873122822&size=m",
+      "imageRole": "历史挂牌图片",
+      "summary": "FGO Fes.2025的迦摩B2半裁挂画，属于C组角色款式。活动后曾在Aniplex进行受注销售。",
+      "sources": [
+        "fes-kama",
+        "listing:P021"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "カーマ",
+        "挂画"
+      ],
+      "characters": [
+        "カーマ"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P021"
+      ],
+      "links": [],
+      "id": "fes-C-fd607c7b092f",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · カーマ",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "カーマ"
+      },
+      "facts": [
+        {
+          "field": "活动",
+          "value": "FGO Fes.2025",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-kama"
+          ]
+        },
+        {
+          "field": "款式",
+          "value": "C组·迦摩",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-kama"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "カーマ",
+          "status": "supported",
+          "scope": "depicts",
+          "sources": [
+            "fes-kama"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "Aniplex活动事后受注销售",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-kama"
+          ]
+        },
+        {
+          "field": "预订期",
+          "value": "2025-08-03至08-31",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-kama"
+          ]
+        },
+        {
+          "field": "发货调整",
+          "value": "原2026年1月下旬 → 延至3月中旬；页面标示2026-03-13",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-kama"
+          ]
+        },
+        {
+          "field": "二手站旧日期",
+          "value": "2026-01-31",
+          "status": "conflict",
+          "scope": "product",
+          "sources": [
+            "listing:P021"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "fes-kama",
+        "listing:P021"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "ジャック・ザ・リッパー",
+        "挂画"
+      ],
+      "characters": [
+        "ジャック・ザ・リッパー"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-6aedd1a24505",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · ジャック・ザ・リッパー",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "ジャック・ザ・リッパー"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "武則天",
+        "挂画"
+      ],
+      "characters": [
+        "武則天"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-9d4e73a30b26",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · 武則天",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "武則天"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "ジャック・ド・モレー",
+        "挂画"
+      ],
+      "characters": [
+        "ジャック・ド・モレー"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-9ca979246030",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · ジャック・ド・モレー",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "ジャック・ド・モレー"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "渡辺綱",
+        "挂画"
+      ],
+      "characters": [
+        "渡辺綱"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-29042dc1aa9d",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · 渡辺綱",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "渡辺綱"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "ゼノビア",
+        "挂画"
+      ],
+      "characters": [
+        "ゼノビア"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-c0e3b04f7ce6",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · ゼノビア",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "ゼノビア"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "アルトリア・ペンドラゴン〔オルタ〕（ランサー）",
+        "挂画"
+      ],
+      "characters": [
+        "アルトリア・ペンドラゴン〔オルタ〕（ランサー）"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-10a215d535bc",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · アルトリア・ペンドラゴン〔オルタ〕（ランサー）",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "アルトリア・ペンドラゴン〔オルタ〕（ランサー）"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "ヴラド三世",
+        "挂画"
+      ],
+      "characters": [
+        "ヴラド三世"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-8310fbadea96",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · ヴラド三世",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "ヴラド三世"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "鬼一法眼",
+        "挂画"
+      ],
+      "characters": [
+        "鬼一法眼"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-b598669d9dd1",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · 鬼一法眼",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "鬼一法眼"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "杉谷善住坊",
+        "挂画"
+      ],
+      "characters": [
+        "杉谷善住坊"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-8bfe3bc83f19",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · 杉谷善住坊",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "杉谷善住坊"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "果心居士",
+        "挂画"
+      ],
+      "characters": [
+        "果心居士"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-fdfb2cf3f56c",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · 果心居士",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "果心居士"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "赤兎馬",
+        "挂画"
+      ],
+      "characters": [
+        "赤兎馬"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-a0c2e94d6fd5",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · 赤兎馬",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "赤兎馬"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "山南敬助",
+        "挂画"
+      ],
+      "characters": [
+        "山南敬助"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-c694f69a9244",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · 山南敬助",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "山南敬助"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "挂画",
+      "state": "supported",
+      "image": "",
+      "imageRole": "none",
+      "summary": "FGO Fes.2025的B2半裁挂画C组角色款式。曾在Aniplex进行活动事后受注销售。",
+      "sources": [
+        "fes-kama"
+      ],
+      "tags": [
+        "FGO Fes.2025",
+        "カラミティ・ジェーン",
+        "挂画"
+      ],
+      "characters": [
+        "カラミティ・ジェーン"
+      ],
+      "variants": [],
+      "sampleIds": [],
+      "links": [],
+      "id": "fes-C-f80915c1a3ac",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 B2半裁挂画 C组 · カラミティ・ジェーン",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "event": "Fes2025",
+        "line": "fes-c",
+        "character": "カラミティ・ジェーン"
+      },
+      "descriptionSources": [
+        "fes-kama"
+      ]
+    },
+    {
+      "mode": "temporary",
+      "type": "卖家组套",
+      "state": "supported",
+      "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/wk13678.jpg.webp",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画第1–22卷的二手组合套装。单卷属于同一漫画系列，套装的实际品相与缺卷情况以挂牌为准。",
+      "sources": [
+        "turas",
+        "turas23",
+        "listing:P005"
+      ],
+      "tags": [
+        "卖家组套"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [
+        "P005"
+      ],
+      "links": [
+        {
+          "id": "turas-1",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-2",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-3",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-4",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-5",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-6",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-7",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-8",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-9",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-10",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-11",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-12",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-13",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-14",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-15",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-16",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-17",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-18",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-19",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-20",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-21",
+          "type": "包含单卷",
+          "quantity": 1
+        },
+        {
+          "id": "turas-22",
+          "type": "包含单卷",
+          "quantity": 1
+        }
+      ],
+      "id": "sample-P005",
+      "groupId": "turas",
+      "title": "Fate/Grand Order -turas réalta- 1–22卷套装",
+      "identity": {
+        "work": "turas"
+      },
+      "facts": [
+        {
+          "field": "套装范围",
+          "value": "1–22卷",
+          "status": "seller-claimed",
+          "scope": "offer",
+          "sources": [
+            "listing:P005"
+          ]
+        },
+        {
+          "field": "系列现有卷数",
+          "value": 23,
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "turas",
+            "turas23"
+          ]
+        },
+        {
+          "field": "最新卷发售日",
+          "value": "2026-10-08",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "turas23"
+          ]
+        },
+        {
+          "field": "标识冲突",
+          "value": "9784065436097 属于第22卷",
+          "status": "conflict",
+          "scope": "product",
+          "sources": [
+            "catalogue:turas-22"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "turas",
+        "turas23",
+        "listing:P005"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "威化单卡",
+      "state": "supported",
+      "image": "https://img.mandarake.co.jp/webshopimg/03/30/225/0330314225/s_03303142253.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/Grand Order》威化第6弹的梅尔特莉莉丝卡片。挂牌标为25号，具体编号仍需与卡背对应。",
+      "sources": [
+        "wafer6",
+        "listing:P007"
+      ],
+      "tags": [
+        "威化单卡",
+        "メルトリリス"
+      ],
+      "characters": [
+        "メルトリリス"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P007"
+      ],
+      "links": [],
+      "id": "sample-P007",
+      "groupId": "wafer6",
+      "title": "FGO ウエハース6 25 メルトリリス",
+      "identity": {
+        "work": "wafer6"
+      },
+      "facts": [
+        {
+          "field": "弹次",
+          "value": 6,
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P007"
+          ]
+        },
+        {
+          "field": "卡号",
+          "value": "25",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P007"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "メルトリリス",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P007"
+          ]
+        },
+        {
+          "field": "稀有度",
+          "value": "SSR",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P007"
+          ]
+        },
+        {
+          "field": "该弹总种数",
+          "value": 25,
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer6"
+          ]
+        },
+        {
+          "field": "发售日",
+          "value": "2019-02-18",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer6"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "原商品为随机封入卡片+威化；二手挂牌为单卡",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer6",
+            "listing:P007"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "wafer6",
+        "listing:P007"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "威化单卡",
+      "state": "supported",
+      "image": "https://img.mandarake.co.jp/webshopimg/03/00/873/0300895873/s_03008958731.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/Grand Order》威化第5弹的伊丽莎白·巴托里〔勇者〕卡片。挂牌标为13号，实物卡背尚未逐项复核。",
+      "sources": [
+        "wafer5",
+        "listing:P009"
+      ],
+      "tags": [
+        "威化单卡",
+        "エリザベート・バートリー〔ブレイブ〕"
+      ],
+      "characters": [
+        "エリザベート・バートリー〔ブレイブ〕"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P009"
+      ],
+      "links": [],
+      "id": "sample-P009",
+      "groupId": "wafer5",
+      "title": "FGO ウエハース5 13 エリザベート・バートリー〔ブレイブ〕",
+      "identity": {
+        "work": "wafer5"
+      },
+      "facts": [
+        {
+          "field": "弹次",
+          "value": 5,
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P009"
+          ]
+        },
+        {
+          "field": "卡号",
+          "value": "13",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P009"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "エリザベート・バートリー〔ブレイブ〕",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P009"
+          ]
+        },
+        {
+          "field": "稀有度",
+          "value": null,
+          "status": "unknown",
+          "scope": "product",
+          "sources": [
+            "listing:P009"
+          ]
+        },
+        {
+          "field": "该弹总种数",
+          "value": 25,
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer5"
+          ]
+        },
+        {
+          "field": "发售日",
+          "value": "2018-11-12",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer5"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "原商品为随机封入卡片+威化；二手挂牌为单卡",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "wafer5",
+            "listing:P009"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "wafer5",
+        "listing:P009"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "威化单卡",
+      "state": "proposed",
+      "image": "https://static.mercdn.net/item/detail/orig/photos/m29853131899_1.jpg?1782546214",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/Grand Order》的Caster库丘林威化卡，已保存卡背可见N07。第5弹得到零售索引与社区目录佐证，精确发行对应仍待核对。",
+      "sources": [
+        "cu-back",
+        "wafer5-community",
+        "wafer5",
+        "listing:P010",
+        "v2-cu-retailer"
+      ],
+      "tags": [
+        "威化单卡",
+        "クー・フーリン"
+      ],
+      "characters": [
+        "クー・フーリン"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P010"
+      ],
+      "links": [],
+      "id": "sample-P010",
+      "groupId": "wafer5",
+      "title": "FGO 威化卡 Caster／クー・フーリン N07（候选第5弹）",
+      "identity": {
+        "work": "wafer5"
+      },
+      "facts": [
+        {
+          "field": "角色",
+          "value": "クー・フーリン",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "cu-back"
+          ]
+        },
+        {
+          "field": "职阶",
+          "value": "Caster",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "cu-back"
+          ]
+        },
+        {
+          "field": "卡号",
+          "value": "N07",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "cu-back"
+          ]
+        },
+        {
+          "field": "候选弹次",
+          "value": 5,
+          "status": "proposed",
+          "scope": "product",
+          "sources": [
+            "wafer5-community"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "随机食玩卡；当前为单卡挂牌",
+          "status": "proposed",
+          "scope": "product",
+          "sources": [
+            "wafer5",
+            "listing:P010"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "cu-back",
+        "wafer5-community",
+        "wafer5",
+        "listing:P010",
+        "v2-cu-retailer"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "限定游戏套装",
+      "state": "supported",
+      "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107001683.jpg.webp",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/EXTELLA LINK》PS4高级限定版游戏。它属于LINK作品，与《Fate/EXTELLA》的限定版本分开建档。",
+      "sources": [
+        "extella-link",
+        "listing:P013"
+      ],
+      "tags": [
+        "限定游戏套装"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [
+        "P013"
+      ],
+      "links": [],
+      "id": "sample-P013",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK PS4 プレミアム限定版",
+      "identity": {
+        "work": "extella-link"
+      },
+      "facts": [
+        {
+          "field": "平台",
+          "value": "PS4",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P013"
+          ]
+        },
+        {
+          "field": "版本",
+          "value": "プレミアム限定版",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P013"
+          ]
+        },
+        {
+          "field": "作品",
+          "value": "Fate/EXTELLA LINK",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella-link"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "extella-link",
+        "listing:P013"
+      ]
+    },
+    {
+      "mode": "temporary",
+      "type": "数字特典组件",
+      "state": "supported",
+      "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/06cbb5cf9bcea02da94dcdb1e0e5eab0d03a4dd2aee801a20442d11a6eca78cc/i-img600x450-17912070951367nnhru28894.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/EXTELLA LINK》斯卡哈“魔境のサージェント”服装兑换码。平台、是否已使用和有效期未确认。",
+      "sources": [
+        "extella-link",
+        "listing:P014"
+      ],
+      "tags": [
+        "数字特典组件",
+        "スカサハ"
+      ],
+      "characters": [
+        "スカサハ"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P014"
+      ],
+      "links": [],
+      "id": "sample-P014",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK 斯卡哈「魔境のサージェント」服装码",
+      "identity": {
+        "work": "extella-link"
+      },
+      "facts": [
+        {
+          "field": "角色",
+          "value": "スカサハ",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella-link",
+            "listing:P014"
+          ]
+        },
+        {
+          "field": "组件",
+          "value": "服装DLC兑换码",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella-link",
+            "listing:P014"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "游戏相关下载特典",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella-link"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "extella-link",
+        "listing:P014"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "游戏店铺特典",
+      "state": "supported",
+      "image": "https://fate-extella.jp/assets/img/spec/store_bigthum_3.png",
+      "imageRole": "官方特典参考图",
+      "summary": "《Fate/EXTELLA》2016年原版游戏的AmiAmi购入特典A3挂画。画面为尼禄和玉藻前，插画由Wada Arco绘制。",
+      "sources": [
+        "extella-bonus",
+        "extella-artist",
+        "extella-art-image",
+        "listing:P015"
+      ],
+      "tags": [
+        "店铺特典",
+        "ネロ・クラウディウス",
+        "玉藻の前",
+        "ワダアルコ"
+      ],
+      "characters": [
+        "ネロ・クラウディウス",
+        "玉藻の前"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P015"
+      ],
+      "links": [],
+      "id": "sample-P015",
+      "groupId": "extella",
+      "title": "Fate/EXTELLA あみあみ特典 A3挂画／尼禄＆玉藻前",
+      "identity": {
+        "work": "extella"
+      },
+      "facts": [
+        {
+          "field": "店铺",
+          "value": "あみあみ",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella-bonus"
+          ]
+        },
+        {
+          "field": "规格",
+          "value": "A3挂画",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella-bonus"
+          ]
+        },
+        {
+          "field": "画师",
+          "value": "ワダアルコ",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella-artist"
+          ]
+        },
+        {
+          "field": "画面角色",
+          "value": [
+            "ネロ・クラウディウス",
+            "玉藻の前"
+          ],
+          "status": "supported",
+          "scope": "depicts",
+          "sources": [
+            "extella-art-image"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "2016原版游戏的店铺购买特典",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extella-bonus",
+            "extella-artist"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "extella-bonus",
+        "extella-artist",
+        "extella-art-image",
+        "listing:P015"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "比例手办",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/main/192/FIGURE-048263.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "GOOD SMILE COMPANY的阿尔托莉雅“英灵正装Ver.”1/7比例手办。采用《Fate/Grand Order》角色造型。",
+      "sources": [
+        "artoria-formal",
+        "listing:P016"
+      ],
+      "tags": [
+        "比例手办",
+        "アルトリア・ペンドラゴン",
+        "GOOD SMILE COMPANY"
+      ],
+      "characters": [
+        "アルトリア・ペンドラゴン"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P016"
+      ],
+      "links": [],
+      "id": "sample-P016",
+      "groupId": "figures",
+      "title": "Saber／阿尔托莉雅 英霊正装Ver. 1/7",
+      "identity": {
+        "work": "figures"
+      },
+      "facts": [
+        {
+          "field": "角色",
+          "value": "アルトリア・ペンドラゴン",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "artoria-formal"
+          ]
+        },
+        {
+          "field": "规格",
+          "value": "1/7，约230mm",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "artoria-formal"
+          ]
+        },
+        {
+          "field": "厂商",
+          "value": "GOOD SMILE COMPANY",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "artoria-formal"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "完成品比例手办",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "artoria-formal"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "artoria-formal",
+        "listing:P016"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "可动手办",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/main/222/FIGURE-140121.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "Max Factory的figma Lancer阿尔托莉雅DX Edition，型号568-DX。DX标准配置包含第三再临形态及爱马，二手配件完整性单独记录。",
+      "sources": [
+        "artoria-dx",
+        "listing:P017"
+      ],
+      "tags": [
+        "可动手办",
+        "ランサー／アルトリア・ペンドラゴン",
+        "Max Factory"
+      ],
+      "characters": [
+        "ランサー／アルトリア・ペンドラゴン"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P017"
+      ],
+      "links": [],
+      "id": "sample-P017",
+      "groupId": "figma",
+      "title": "figma Lancer／阿尔托莉雅 DX Edition 568-DX",
+      "identity": {
+        "work": "figma"
+      },
+      "facts": [
+        {
+          "field": "型号",
+          "value": "568-DX",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "artoria-dx"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "ランサー／アルトリア・ペンドラゴン",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "artoria-dx"
+          ]
+        },
+        {
+          "field": "厂商",
+          "value": "Max Factory",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "artoria-dx"
+          ]
+        },
+        {
+          "field": "发行时间",
+          "value": "2023-05",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "artoria-dx"
+          ]
+        },
+        {
+          "field": "DX内容",
+          "value": "第三再临形态与爱马ドゥン・スタリオン",
+          "status": "supported",
+          "scope": "standard-package",
+          "sources": [
+            "artoria-dx"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "artoria-dx",
+        "listing:P017"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "人偶服装配件",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/main/251/FIGURE-183273.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "玛修私服版粘土人娃的独立服装套装。标准内容为连衣裙、外套、连裤袜和鞋，不包含人偶本体。",
+      "sources": [
+        "mash-outfit",
+        "mash-shipping",
+        "listing:P018"
+      ],
+      "tags": [
+        "人偶服装配件",
+        "マシュ・キリエライト"
+      ],
+      "characters": [
+        "マシュ・キリエライト"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P018"
+      ],
+      "links": [
+        {
+          "id": "sample-P019",
+          "type": "适用人偶（不含本体）"
+        }
+      ],
+      "id": "sample-P018",
+      "groupId": "nendoroid-doll",
+      "title": "ねんどろいどどーる 玛修私服 衣服套装",
+      "identity": {
+        "work": "nendoroid-doll"
+      },
+      "facts": [
+        {
+          "field": "角色",
+          "value": "マシュ・キリエライト",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "mash-outfit"
+          ]
+        },
+        {
+          "field": "本体是否包含",
+          "value": false,
+          "status": "supported",
+          "scope": "standard-package",
+          "sources": [
+            "mash-outfit"
+          ]
+        },
+        {
+          "field": "JAN",
+          "value": "4580590209640",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "mash-shipping"
+          ]
+        },
+        {
+          "field": "出货日",
+          "value": "2025-10-27",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "mash-shipping"
+          ]
+        },
+        {
+          "field": "标准内容",
+          "value": [
+            "连衣裙",
+            "外套",
+            "连裤袜",
+            "鞋"
+          ],
+          "status": "supported",
+          "scope": "standard-package",
+          "sources": [
+            "mash-outfit"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "mash-outfit",
+        "mash-shipping",
+        "listing:P018"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "可动人偶",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/main/251/FIGURE-183272.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "玛修私服版粘土人娃，标准包装包含人偶、私服、替换手和台座。它与单独销售的服装套装分别建档。",
+      "sources": [
+        "mash-doll",
+        "mash-shipping",
+        "listing:P019"
+      ],
+      "tags": [
+        "可动人偶",
+        "マシュ・キリエライト"
+      ],
+      "characters": [
+        "マシュ・キリエライト"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P019"
+      ],
+      "links": [
+        {
+          "id": "sample-P018",
+          "type": "独立销售服装"
+        }
+      ],
+      "id": "sample-P019",
+      "groupId": "nendoroid-doll",
+      "title": "ねんどろいどどーる 玛修私服 人偶",
+      "identity": {
+        "work": "nendoroid-doll"
+      },
+      "facts": [
+        {
+          "field": "角色",
+          "value": "マシュ・キリエライト",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "mash-doll"
+          ]
+        },
+        {
+          "field": "规格",
+          "value": "约140mm",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "mash-doll"
+          ]
+        },
+        {
+          "field": "JAN",
+          "value": "4580590209633",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "mash-shipping"
+          ]
+        },
+        {
+          "field": "标准内容",
+          "value": "人偶本体、私服、替换手与台座",
+          "status": "supported",
+          "scope": "standard-package",
+          "sources": [
+            "mash-doll"
+          ]
+        },
+        {
+          "field": "出货日",
+          "value": "2025-10-27",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "mash-shipping"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "mash-doll",
+        "mash-shipping",
+        "listing:P019"
+      ]
+    },
+    {
+      "mode": "temporary",
+      "type": "手办特典配件",
+      "state": "supported",
+      "image": "https://img.amiami.jp/images/product/thumb300/223/FIGURE-143065.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "figma尼禄370的GOODSMILE ONLINE SHOP购入特典“闭眼得意脸”。此临时入口仅对应替换脸，不含figma本体。",
+      "sources": [
+        "nero-face",
+        "listing:P020",
+        "v2-nero",
+        "v2-nero-image"
+      ],
+      "tags": [
+        "手办特典配件",
+        "ネロ・クラウディウス"
+      ],
+      "characters": [
+        "ネロ・クラウディウス"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P020"
+      ],
+      "links": [
+        {
+          "id": "figma-nero-370",
+          "type": "所属本体"
+        }
+      ],
+      "id": "sample-P020",
+      "groupId": "figma",
+      "title": "figma 尼禄「目閉じドヤ顔」店铺特典替换脸",
+      "identity": {
+        "work": "figma"
+      },
+      "facts": [
+        {
+          "field": "组件",
+          "value": "闭眼得意脸替换面部",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "nero-face"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "ネロ・クラウディウス",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "nero-face"
+          ]
+        },
+        {
+          "field": "本体型号",
+          "value": "figma 370",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "nero-face"
+          ]
+        },
+        {
+          "field": "发售渠道",
+          "value": "GOODSMILE ONLINE SHOP预约特典",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "nero-face"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "nero-face",
+        "listing:P020",
+        "v2-nero",
+        "v2-nero-image"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "雪景球",
+      "state": "supported",
+      "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561358660&size=m",
+      "imageRole": "历史挂牌图片",
+      "summary": "FGO Fes.2025的洛乌希雪景球。活动后曾在Aniplex进行受注销售。",
+      "sources": [
+        "fes-louhi",
+        "listing:P022"
+      ],
+      "tags": [
+        "雪景球",
+        "ロウヒ"
+      ],
+      "characters": [
+        "ロウヒ"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P022"
+      ],
+      "links": [],
+      "id": "sample-P022",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 洛乌希雪景球",
+      "identity": {
+        "work": "fes2025"
+      },
+      "facts": [
+        {
+          "field": "活动",
+          "value": "FGO Fes.2025",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-louhi"
+          ]
+        },
+        {
+          "field": "款式",
+          "value": "MD25-0351001",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-louhi"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "ロウヒ",
+          "status": "supported",
+          "scope": "depicts",
+          "sources": [
+            "fes-louhi"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "Aniplex活动事后受注销售",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-louhi"
+          ]
+        },
+        {
+          "field": "预订期",
+          "value": "2025-08-03至08-31",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-louhi"
+          ]
+        },
+        {
+          "field": "发货调整",
+          "value": "原2026年1月下旬 → 延至3月中旬；页面标示2026-03-13",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-louhi"
+          ]
+        },
+        {
+          "field": "二手站旧日期",
+          "value": "2026-01-31",
+          "status": "conflict",
+          "scope": "product",
+          "sources": [
+            "listing:P022"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "fes-louhi",
+        "listing:P022"
+      ]
+    },
+    {
+      "mode": "permanent",
+      "type": "桌垫",
+      "state": "supported",
+      "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561358658&size=m",
+      "imageRole": "历史挂牌图片",
+      "summary": "FGO Fes.2025的“Final Journey”桌面橡胶垫。活动后曾在Aniplex进行受注销售，图中人物尚未逐一标注。",
+      "sources": [
+        "fes-mat",
+        "listing:P023"
+      ],
+      "tags": [
+        "桌垫"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [
+        "P023"
+      ],
+      "links": [],
+      "id": "sample-P023",
+      "groupId": "fes2025",
+      "title": "FGO Fes.2025 Final Journey 桌面橡胶垫",
+      "identity": {
+        "work": "fes2025"
+      },
+      "facts": [
+        {
+          "field": "活动",
+          "value": "FGO Fes.2025",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-mat"
+          ]
+        },
+        {
+          "field": "款式",
+          "value": "Final Journey",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-mat"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": null,
+          "status": "unknown",
+          "scope": "depicts",
+          "sources": [
+            "fes-mat"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "Aniplex活动事后受注销售",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-mat"
+          ]
+        },
+        {
+          "field": "预订期",
+          "value": "2025-08-03至08-31",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-mat"
+          ]
+        },
+        {
+          "field": "发货调整",
+          "value": "原2026年1月下旬 → 延至3月中旬；页面标示2026-03-13",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "fes-mat"
+          ]
+        },
+        {
+          "field": "二手站旧日期",
+          "value": "2026-01-31",
+          "status": "conflict",
+          "scope": "product",
+          "sources": [
+            "listing:P023"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "fes-mat",
+        "listing:P023"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "卡片",
+      "state": "proposed",
+      "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=887078213&size=m",
+      "imageRole": "历史挂牌图片",
+      "summary": "FGO Fes.2026的Rider达芬奇学生证卡。用户确认为入场特典且不参与线上贩售，完整系列与实物对应仍待补证。",
+      "sources": [
+        "listing:P025",
+        "v2-student-faq",
+        "v2-student-history"
+      ],
+      "tags": [
+        "卡片",
+        "レオナルド・ダ・ヴィンチ（ライダー）"
+      ],
+      "characters": [
+        "レオナルド・ダ・ヴィンチ（ライダー）"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P025"
+      ],
+      "links": [],
+      "id": "sample-P025",
+      "groupId": "fes2026",
+      "title": "FGO Fes.2026 Rider／达芬奇 学生证卡",
+      "identity": {
+        "work": "fes2026"
+      },
+      "facts": [
+        {
+          "field": "活动",
+          "value": "FGO Fes.2026",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P025"
+          ]
+        },
+        {
+          "field": "角色",
+          "value": "レオナルド・ダ・ヴィンチ（ライダー）",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P025"
+          ]
+        },
+        {
+          "field": "发放方式",
+          "value": "入场特典，不参与线上贩售",
+          "status": "user-confirmed",
+          "sources": [
+            "user-feedback-10"
+          ],
+          "manual": true
+        }
+      ],
+      "descriptionSources": [
+        "listing:P025",
+        "v2-student-faq",
+        "v2-student-history"
+      ]
+    },
+    {
+      "mode": "temporary",
+      "type": "卖家拼包",
+      "state": "supported",
+      "image": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/c92e2c60666b3d2c2e78c6ac057698ab0a4415560190a08128eac6e9c95d590f/i-img600x450-17868451334309ugbbmp210.jpg",
+      "imageRole": "历史挂牌图片",
+      "summary": "Fate相关混合周边的二手大包。按IP临时归类，成员、数量和当前在售状态未确认。",
+      "sources": [
+        "listing:P026"
+      ],
+      "tags": [
+        "卖家拼包"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [
+        "P026"
+      ],
+      "links": [],
+      "id": "sample-P026",
+      "groupId": "mixed",
+      "title": "Fate 混合周边拼包（逐件身份待拆）",
+      "identity": {
+        "work": "mixed"
+      },
+      "facts": [
+        {
+          "field": "标题提及类型",
+          "value": [
+            "电影相关周边",
+            "一番赏",
+            "色纸",
+            "亚克力立牌",
+            "威化卡",
+            "漫画"
+          ],
+          "status": "seller-claimed",
+          "scope": "offer",
+          "sources": [
+            "listing:P026"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "卖家自行组包",
+          "status": "proposed",
+          "scope": "offer",
+          "sources": [
+            "listing:P026"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "listing:P026"
+      ]
+    },
+    {
+      "mode": "temporary",
+      "type": "卖家拼套",
+      "state": "supported",
+      "image": "https://static.mercdn.net/item/detail/orig/photos/m21101839771_1.jpg?1791119413",
+      "imageRole": "历史挂牌图片",
+      "summary": "卡多克与贝里尔两张FGO威化卡的二手组合。各卡的弹次和编号尚未确认。",
+      "sources": [
+        "listing:P027"
+      ],
+      "tags": [
+        "卖家拼套",
+        "カドック・ゼムルプス",
+        "ベリル・ガット"
+      ],
+      "characters": [
+        "カドック・ゼムルプス",
+        "ベリル・ガット"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P027"
+      ],
+      "links": [],
+      "id": "sample-P027",
+      "groupId": "mixed",
+      "title": "FGO 威化卡 卡多克＆贝里尔拼套",
+      "identity": {
+        "work": "mixed"
+      },
+      "facts": [
+        {
+          "field": "角色",
+          "value": [
+            "カドック・ゼムルプス",
+            "ベリル・ガット"
+          ],
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P027"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "二手卖家组合",
+          "status": "seller-claimed",
+          "scope": "offer",
+          "sources": [
+            "listing:P027"
+          ]
+        },
+        {
+          "field": "套装数量",
+          "value": "2张威化卡片",
+          "status": "user-confirmed",
+          "sources": [
+            "user-feedback-12"
+          ],
+          "manual": true
+        }
+      ],
+      "descriptionSources": [
+        "listing:P027"
+      ]
+    },
+    {
+      "mode": "review",
+      "type": "徽章组合",
+      "state": "proposed",
+      "image": "https://static.mercdn.net/item/detail/orig/photos/m63381541922_1.jpg?1791014921",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/EXTELLA LINK》的Animate购入特典中包含吉尔伽美什与无铭54mm徽章组合。官方公告同时列出A5亚克力板，本挂牌的收录边界及实物对应仍待审核。",
+      "sources": [
+        "extella-link",
+        "listing:P028",
+        "v2-animate"
+      ],
+      "tags": [
+        "徽章组合",
+        "ギルガメッシュ",
+        "無銘"
+      ],
+      "characters": [
+        "ギルガメッシュ",
+        "無銘"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P028"
+      ],
+      "links": [],
+      "id": "sample-P028",
+      "groupId": "extella-link",
+      "title": "Fate/EXTELLA LINK 吉尔伽美什＆无铭 徽章2个套装",
+      "identity": {
+        "work": "extella-link"
+      },
+      "facts": [
+        {
+          "field": "角色",
+          "value": [
+            "ギルガメッシュ",
+            "無銘"
+          ],
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P028"
+          ]
+        },
+        {
+          "field": "数量",
+          "value": 2,
+          "status": "seller-claimed",
+          "scope": "offer",
+          "sources": [
+            "listing:P028"
+          ]
+        },
+        {
+          "field": "店铺特典声称",
+          "value": "animate",
+          "status": "seller-claimed",
+          "scope": "product",
+          "sources": [
+            "listing:P028"
+          ]
+        }
+      ],
+      "descriptionSources": [
+        "extella-link",
+        "listing:P028",
+        "v2-animate"
+      ]
+    },
+    {
+      "mode": "excluded",
+      "type": "盒装拆售组件",
+      "state": "supported",
+      "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/95c92e6ad68e128cf079b1cdbb73bdf7cb57e434df27aa34999c725af7fe9a8f/i-img680x680-17911784641181tx5y7j35.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+      "imageRole": "历史挂牌图片",
+      "summary": "《Fate/EXTRA》十周年Celebration BOX中的Wada Arco装裱印画。卖家标题误写EXTELLA纪念主题；按固定套装拆件政策，不新增独立商品页。",
+      "sources": [
+        "extra10",
+        "listing:P030"
+      ],
+      "tags": [
+        "盒装拆售组件",
+        "ワダアルコ"
+      ],
+      "characters": [],
+      "variants": [],
+      "sampleIds": [
+        "P030"
+      ],
+      "links": [],
+      "id": "sample-P030",
+      "groupId": "extra",
+      "title": "Fate/EXTRA 10th ANNIVERSARY Celebration BOX Wada印画（单件）",
+      "identity": {
+        "work": "extra"
+      },
+      "facts": [
+        {
+          "field": "纪念主题",
+          "value": "Fate/EXTRA 10th ANNIVERSARY",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extra10"
+          ]
+        },
+        {
+          "field": "画师",
+          "value": "ワダアルコ",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extra10"
+          ]
+        },
+        {
+          "field": "组件",
+          "value": "Charafinegraph装裱印画",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extra10"
+          ]
+        },
+        {
+          "field": "母套装发售日",
+          "value": "2021-02-11",
+          "status": "supported",
+          "scope": "product",
+          "sources": [
+            "extra10"
+          ]
+        },
+        {
+          "field": "发行方式",
+          "value": "原盒装附件；挂牌只售印画",
+          "status": "proposed",
+          "scope": "product",
+          "sources": [
+            "extra10",
+            "listing:P030"
+          ]
+        }
+      ],
+      "parentNote": "Fate/EXTRA 10th ANNIVERSARY Celebration BOX；仅记录盒装内容，不新增该印画独立商品。",
+      "descriptionSources": [
+        "extra10",
+        "listing:P030"
+      ]
+    }
+  ]
+}

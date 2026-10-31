@@ -1,0 +1,82 @@
+{
+  "checkedAt": "2026-10-31T00:55:03.193Z",
+  "scope": "P001–P030 V2 only",
+  "automatic": {
+    "v2": {
+      "command": "node --test tools/pilot-v2/test.mjs",
+      "passed": 11,
+      "failed": 0
+    },
+    "existingWorkbench": {
+      "command": "node --test tools/pilot-workbench/test.mjs",
+      "passed": 6,
+      "failed": 0
+    },
+    "identity": {
+      "command": "node scripts/test-identity.mjs",
+      "passed": 12,
+      "failed": 0
+    },
+    "scopeNote": "Only relevant checks; not repository-wide CI or product accuracy.",
+    "httpFirst30Details": {
+      "passed": 30,
+      "failed": 0
+    }
+  },
+  "browser": {
+    "environment": "ChatGPT in-app browser; localhost",
+    "actualChecks": [
+      "Desktop catalogue and detail visual inspection",
+      "Review list renders all 30 rows including P030 exclusion",
+      "Search P020 returns exactly one expected temporary entry",
+      "QA review saved and reopened with literal script text",
+      "QA manual summary saved and preserved after refresh",
+      "QA review and temporary lifecycle persisted through process restart",
+      "Confirmed-ended temporary set archived; constituent permanent volumes retained",
+      "Unreachable listing shown as unknown, temporary entry remains",
+      "Responsive viewport override 390x844: document width375, scrollWidth375",
+      "Fixed inherited mobile styles hiding brand/navigation; visually rechecked"
+    ],
+    "qaDataDir": "work/pilot-v2-ui-qa",
+    "deliveryDataDir": "work/pilot-300-v2",
+    "deliveryReviewCount": 0,
+    "deliverySimulationCount": 0,
+    "screenshot": "work/pilot-v2-delivery/collector-v2-desktop.jpg",
+    "productionVisualComparison": "not performed; production URL showed login page; used exact repository CSS and page sources"
+  },
+  "limits": [
+    "No independent blind gold labels",
+    "No production write/deploy, current stock assertion or personal-data migration",
+    "No generic autonomous research pipeline or future-listing production matcher",
+    "32 wafer14 candidates require per-card number/image evidence",
+    "P010/P025/P028 remain review; P011 old target SKU needs confirmation",
+    "Complete interactive request/token/time/cost metering unavailable"
+  ],
+  "sourceData": {
+    "prepared": 300,
+    "processed": 30,
+    "remainingNotRun": 270,
+    "userFeedbackGroups": 15
+  },
+  "paidApiCalls": 0,
+  "codeSha256": {
+    "tools/pilot-v2/model.mjs": "614cedc0cf8bd93f6110d96f7a8acdc914f43bf661100d881171313fb057c2db",
+    "tools/pilot-v2/store.mjs": "961d600926f7f87a3aed53dcbe5916d61a0d14b44931fa067c0b57886a7dbea9",
+    "tools/pilot-v2/server.mjs": "39412560d1e6e07691a8d15cc92f3d5e8507e7c2f2a8ba87bf037df3fcf5d184",
+    "tools/pilot-v2/test.mjs": "e0b9d06ae5d48cc1eed9ec4ef4e9307fcb25504d578950160149406b1b3e1353",
+    "tools/pilot-v2/replay.mjs": "1a3fbfb608fb7fb4b25a0428fdd44d6b11b816f4b8a557eafac925fae2084bcd",
+    "tools/pilot-v2/public/app.js": "7bfaf35520bb818e439cdfe6740131c9529743baa162f37e72294c0af2dbc899",
+    "tools/pilot-v2/public/index.html": "5ef1a7f4b52fb4765f158bec097c8060364ef5cc36828d953ba3986a14523cd2",
+    "tools/pilot-v2/public/style.css": "d4bc3ab26312d328bca6a41fef998f89fac421b0a2468d4e20961140bece3dae",
+    "tools/pilot-v2/public/collector.css": "c597fa970b2c4688da7cc2f9a2836391f98d309ba342d334e926ade2e034adf3",
+    "tools/pilot-v2/public/favicon.svg": "f5c1abde1aa30f05f62a8f7c748fe1e6b08e5c459fa6ebbb6f21b1ad3313ac4a"
+  },
+  "modelHash": "7a170270c13e131a3d72252655b86f16f42407819c5f4ba6e96aaf878da47c85",
+  "frozenSha256": {
+    "manifest.json": "e68ef395f7204a9e041bbfb948e47e4a7aabe957788415b7c9771092fccddda9",
+    "baseline-30.json": "51a7bb32732afb05d41d0afcf91da5c8ed01f05ff7d0274e9c3ad77b37d49e55",
+    "proposals-30.json": "b1f32c515a466bbec066a12c59920bea487c8c6a96a39326a519fcfb2f601c09",
+    "evidence.json": "b093fc12d62fb692acb6068ba9433d14d24cb9f74f2dfc5fea2039f49aae58fe",
+    "catalogues.json": "642047d0209bde2260e46a2020670157cf56fdc96959c6e39ffb802821f5d565"
+  }
+}

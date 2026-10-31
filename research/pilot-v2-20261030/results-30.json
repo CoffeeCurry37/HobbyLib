@@ -1,0 +1,1616 @@
+{
+  "version": "pilot-v2.1",
+  "modelHash": "7a170270c13e131a3d72252655b86f16f42407819c5f4ba6e96aaf878da47c85",
+  "processed": 30,
+  "prepared": 300,
+  "remainingNotRun": 270,
+  "feedbackGroups": 15,
+  "independentGoldLabels": 0,
+  "productionWrites": 0,
+  "productionDeploys": 0,
+  "modeCounts": {
+    "permanent": 21,
+    "temporary": 5,
+    "review": 3,
+    "excluded": 1
+  },
+  "catalogueCounts": {
+    "permanent": 85,
+    "review": 35,
+    "temporary": 5,
+    "excluded": 1
+  },
+  "groups": 16,
+  "records": 126,
+  "frozen": {
+    "manifest.json": "e68ef395f7204a9e041bbfb948e47e4a7aabe957788415b7c9771092fccddda9",
+    "baseline-30.json": "51a7bb32732afb05d41d0afcf91da5c8ed01f05ff7d0274e9c3ad77b37d49e55",
+    "proposals-30.json": "b1f32c515a466bbec066a12c59920bea487c8c6a96a39326a519fcfb2f601c09",
+    "evidence.json": "b093fc12d62fb692acb6068ba9433d14d24cb9f74f2dfc5fea2039f49aae58fe",
+    "catalogues.json": "642047d0209bde2260e46a2020670157cf56fdc96959c6e39ffb802821f5d565"
+  },
+  "rows": [
+    {
+      "id": "P001",
+      "productId": "material-1",
+      "title": "Fate/Grand Order material I",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第1卷，全彩设定资料集。收录38项从者资料，包括玛修、阿尔托莉雅和尼禄等角色。",
+      "mode": "permanent",
+      "inputHash": "e63c2670e424a51b1048c547667149b3283a8e8700391d75d96092f0d66e96ed",
+      "proposalRowSha256": "556470b694aebb274367516bae0c9ed99f67d13e4378c82e03fb9adfa780a656",
+      "feedbackNo": 1,
+      "feedback": {
+        "feedbackNo": 1,
+        "sampleIds": [
+          "P001",
+          "P002",
+          "P003",
+          "P004"
+        ],
+        "topic": "FGO material资料集",
+        "userDecision": "用户明确认可整理与匹配，认为完全可信。",
+        "acceptedAspects": [
+          "商品身份",
+          "当前收录角色整理",
+          "匹配方向"
+        ],
+        "requestedPolicy": "永久单册页。简介用1–3句话写类型、卷次、代表角色和有依据的发行背景；完整收录人物保存在结构化关系，避免简介过长。漫画剧情需对应具体卷的来源。",
+        "unresolved": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+        "futureDisposition": "permanent",
+        "nextAction": "为四册保存有来源的简短简介示例；下一阶段在工作台展示完整角色关系和可检索标签。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "381a5911-4a34-4a13-a12a-2ced69f8dd0c",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "未确认本挂牌对应的印次及附件完整性"
+      ],
+      "change": "已保存两句简介与38条完整收录角色，摘要和角色清单分别展示。",
+      "sources": [
+        "material",
+        "listing:P001"
+      ],
+      "originalUnknowns": [
+        "未确认本挂牌对应的印次及附件完整性"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P002",
+      "productId": "material-2",
+      "title": "Fate/Grand Order material II",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第2卷，全彩设定资料集。收录35项从者资料，包括佐佐木小次郎、咒腕哈桑和斯忒诺等角色。",
+      "mode": "permanent",
+      "inputHash": "35f570f490e361ef45cc552b143f4bf60f2a7cc863e92a0ca481e309ca062d58",
+      "proposalRowSha256": "d8fd80e248db6d18b2a9422e414b038a759a3838e9fada44ba54a993fbe360ea",
+      "feedbackNo": 1,
+      "feedback": {
+        "feedbackNo": 1,
+        "sampleIds": [
+          "P001",
+          "P002",
+          "P003",
+          "P004"
+        ],
+        "topic": "FGO material资料集",
+        "userDecision": "用户明确认可整理与匹配，认为完全可信。",
+        "acceptedAspects": [
+          "商品身份",
+          "当前收录角色整理",
+          "匹配方向"
+        ],
+        "requestedPolicy": "永久单册页。简介用1–3句话写类型、卷次、代表角色和有依据的发行背景；完整收录人物保存在结构化关系，避免简介过长。漫画剧情需对应具体卷的来源。",
+        "unresolved": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+        "futureDisposition": "permanent",
+        "nextAction": "为四册保存有来源的简短简介示例；下一阶段在工作台展示完整角色关系和可检索标签。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "d138f7a7-71a5-4eea-b30e-ec003e754971",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "未确认本挂牌对应的印次及附件完整性"
+      ],
+      "change": "已保存两句简介与35条完整收录角色，保留原卷号与来源。",
+      "sources": [
+        "material",
+        "listing:P002"
+      ],
+      "originalUnknowns": [
+        "未确认本挂牌对应的印次及附件完整性"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P003",
+      "productId": "material-3",
+      "title": "Fate/Grand Order material III",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第3卷，全彩设定资料集。收录37项从者资料，包括童谣、开膛手杰克和莫德雷德等角色。",
+      "mode": "permanent",
+      "inputHash": "39559df8851b348359fcf2878ec63c628512c2b5789f6a7650db51d3d8fcfd2a",
+      "proposalRowSha256": "2556805ac1de90affe23dc8d7e1c21b56ee43f214f23f3056b114697f3a8e55c",
+      "feedbackNo": 1,
+      "feedback": {
+        "feedbackNo": 1,
+        "sampleIds": [
+          "P001",
+          "P002",
+          "P003",
+          "P004"
+        ],
+        "topic": "FGO material资料集",
+        "userDecision": "用户明确认可整理与匹配，认为完全可信。",
+        "acceptedAspects": [
+          "商品身份",
+          "当前收录角色整理",
+          "匹配方向"
+        ],
+        "requestedPolicy": "永久单册页。简介用1–3句话写类型、卷次、代表角色和有依据的发行背景；完整收录人物保存在结构化关系，避免简介过长。漫画剧情需对应具体卷的来源。",
+        "unresolved": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+        "futureDisposition": "permanent",
+        "nextAction": "为四册保存有来源的简短简介示例；下一阶段在工作台展示完整角色关系和可检索标签。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "aa9bdb1f-c0be-4e5c-9786-5791c5af63b4",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "未确认本挂牌对应的印次及附件完整性"
+      ],
+      "change": "已保存两句简介与37条完整收录角色，保留原卷号与来源。",
+      "sources": [
+        "material",
+        "listing:P003"
+      ],
+      "originalUnknowns": [
+        "未确认本挂牌对应的印次及附件完整性"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P004",
+      "productId": "material-8",
+      "title": "Fate/Grand Order material VIII",
+      "summary": "TYPE-MOON BOOKS发行的《Fate/Grand Order material》系列第8卷，全彩设定资料集。收录24项从者资料，包括项羽、兰陵王和秦良玉等角色。",
+      "mode": "permanent",
+      "inputHash": "3ce3732e3ac89fede6d3f2dbf71e6f01edcff2c0599ea012d3688c918e577e9f",
+      "proposalRowSha256": "333339c21abc53e0027be7f9c55a5cf59e5455824a7c3ee3b0ee734ef96c5013",
+      "feedbackNo": 1,
+      "feedback": {
+        "feedbackNo": 1,
+        "sampleIds": [
+          "P001",
+          "P002",
+          "P003",
+          "P004"
+        ],
+        "topic": "FGO material资料集",
+        "userDecision": "用户明确认可整理与匹配，认为完全可信。",
+        "acceptedAspects": [
+          "商品身份",
+          "当前收录角色整理",
+          "匹配方向"
+        ],
+        "requestedPolicy": "永久单册页。简介用1–3句话写类型、卷次、代表角色和有依据的发行背景；完整收录人物保存在结构化关系，避免简介过长。漫画剧情需对应具体卷的来源。",
+        "unresolved": "商品判断获用户认可不等于本次实物印次、附件和图片已全部查清；原研究未决项保留。",
+        "futureDisposition": "permanent",
+        "nextAction": "为四册保存有来源的简短简介示例；下一阶段在工作台展示完整角色关系和可检索标签。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-30231f0bd15a822d51a60cdb7f4926ad",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "未确认本挂牌对应的印次及附件完整性"
+      ],
+      "change": "已保存两句简介与24条完整收录角色，保留原卷号与来源。",
+      "sources": [
+        "material",
+        "listing:P004"
+      ],
+      "originalUnknowns": [
+        "未确认本挂牌对应的印次及附件完整性"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P005",
+      "productId": "sample-P005",
+      "title": "Fate/Grand Order -turas réalta- 1–22卷套装",
+      "summary": "《Fate/Grand Order -turas réalta-》漫画第1–22卷的二手组合套装。单卷属于同一漫画系列，套装的实际品相与缺卷情况以挂牌为准。",
+      "mode": "temporary",
+      "inputHash": "ce80b9e4ba67c340cb7d9f74b8e1d1e137ce1ece7a03e909a6920d991f202e36",
+      "proposalRowSha256": "b91a76291c5b2539018d9b980843106178ac88cbf24342b12c8216ac66b21e5f",
+      "feedbackNo": 2,
+      "feedback": {
+        "feedbackNo": 2,
+        "sampleIds": [
+          "P005"
+        ],
+        "topic": "turas réalta 1–22卷套装",
+        "userDecision": "确认是1–22卷套装，认可查到第23卷。",
+        "acceptedAspects": [
+          "出售范围1–22卷",
+          "系列延伸查证"
+        ],
+        "requestedPolicy": "系列一级页下单册1–22永久保留；1–22卖家套装临时展示，所有挂牌明确售出/结束后撤下。出版社证实23卷时先去重再建永久页。骏河屋/Mandarake明确标题对出售范围优先于误用的单卷ISBN；约9000日元仅辅助佐证。",
+        "unresolved": "套装逐卷品相、缺卷状态未核实；23卷不属于此1–22套装，不能反推历史挂牌日已发售。",
+        "futureDisposition": "temporary_set_with_permanent_members",
+        "nextAction": "做套装生命周期演示；分开单卷ISBN与套装销售范围，不以价格单独判套装。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "seller-set",
+          "from": 1,
+          "to": 22,
+          "isbnScope": "member-not-set",
+          "priceUsedForIdentity": false
+        },
+        "action": "temporary",
+        "reason": "临时出售对象，保留历史并跟随挂牌生命周期",
+        "targetId": "99580aa8-c85e-44ee-90d1-38be2b146bc8",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "逐卷品相与缺卷状态未核实；不能把当前23卷反推到10月5日挂牌时点"
+      ],
+      "change": "1–22卷套装已设为临时条目；23个单卷永久保留；提供结束、失效、多来源和重新上架演示。",
+      "sources": [
+        "turas",
+        "turas23",
+        "listing:P005"
+      ],
+      "originalUnknowns": [
+        "逐卷品相与缺卷状态未核实；不能把当前23卷反推到10月5日挂牌时点"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P006",
+      "productId": "wafer14-c6c2cac38b13",
+      "title": "FGO ウエハース14 30 ダンテ・アリギエーリ",
+      "summary": "《Fate/Grand Order》威化第14弹的但丁·阿利吉耶里卡片。挂牌标为30号，具体编号仍需与卡背对应。",
+      "mode": "permanent",
+      "inputHash": "8034380b27223cf9248327fb99fb67be9ea45d055412f96e86cd8e3128e69a4d",
+      "proposalRowSha256": "7307d26d006ae8375d434010ff7f13086246e4c7ac5ef25515f2e78f72c85c0f",
+      "feedbackNo": 3,
+      "feedback": {
+        "feedbackNo": 3,
+        "sampleIds": [
+          "P006",
+          "P007",
+          "P008",
+          "P009"
+        ],
+        "topic": "FGO威化卡片与14弹目录",
+        "userDecision": "认可研究；要求完整卡表确认后补全全部二级卡片页面。",
+        "acceptedAspects": [
+          "现有研究方向",
+          "按弹次建目录"
+        ],
+        "requestedPolicy": "14弹完整清单逐卡核实后，所有确认成员可建永久页，零挂牌也显示。P007是6弹、P009是5弹，不能因本次反馈统一移到14弹。",
+        "unresolved": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+        "futureDisposition": "permanent_after_member_verification",
+        "nextAction": "补全14弹来源与逐卡映射；按已确认成员/官方总数展示完整度，不臆造空缺角色。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-d81f353cbcc4d07401995374dfe0747a",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "挂牌实物卡背尚未逐张核对；编号不标为官方已确认"
+      ],
+      "change": "已归入威化14单卡永久页；其余目录成员保留证据分级，未将32个候选当作已核实卡面。",
+      "sources": [
+        "wafer14-retailer",
+        "wafer14",
+        "listing:P006"
+      ],
+      "originalUnknowns": [
+        "挂牌实物卡背尚未逐张核对；编号不标为官方已确认"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P007",
+      "productId": "sample-P007",
+      "title": "FGO ウエハース6 25 メルトリリス",
+      "summary": "《Fate/Grand Order》威化第6弹的梅尔特莉莉丝卡片。挂牌标为25号，具体编号仍需与卡背对应。",
+      "mode": "permanent",
+      "inputHash": "81055dfe3a2147521298d6200d6e5a543a2c20d9537db69af19bce663b34457c",
+      "proposalRowSha256": "5c65f21a10a932408583c03fe7fef85581ab045a04f2e976dd2dc92f5518adbc",
+      "feedbackNo": 3,
+      "feedback": {
+        "feedbackNo": 3,
+        "sampleIds": [
+          "P006",
+          "P007",
+          "P008",
+          "P009"
+        ],
+        "topic": "FGO威化卡片与14弹目录",
+        "userDecision": "认可研究；要求完整卡表确认后补全全部二级卡片页面。",
+        "acceptedAspects": [
+          "现有研究方向",
+          "按弹次建目录"
+        ],
+        "requestedPolicy": "14弹完整清单逐卡核实后，所有确认成员可建永久页，零挂牌也显示。P007是6弹、P009是5弹，不能因本次反馈统一移到14弹。",
+        "unresolved": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+        "futureDisposition": "permanent_after_member_verification",
+        "nextAction": "补全14弹来源与逐卡映射；按已确认成员/官方总数展示完整度，不臆造空缺角色。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-ac98783a04b8f68f417e02a00e3ca3e1",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "挂牌实物卡背尚未逐张核对；编号不标为官方已确认"
+      ],
+      "change": "已按第6弹独立归档，与相邻弹次保持分离。",
+      "sources": [
+        "wafer6",
+        "listing:P007"
+      ],
+      "originalUnknowns": [
+        "挂牌实物卡背尚未逐张核对；编号不标为官方已确认"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P008",
+      "productId": "wafer14-19be3e44f739",
+      "title": "FGO ウエハース14 22 両儀式",
+      "summary": "《Fate/Grand Order》威化第14弹的两仪式卡片。挂牌标为22号，具体卡面与编号仍需核对。",
+      "mode": "permanent",
+      "inputHash": "a57a9f108e092f024fb738d45c56db2a4365fcb530e98be4efa684bf483cbea5",
+      "proposalRowSha256": "ded10716182dadb062d0535f3e50d433f0f7fc27d6e6999b4c45c026ce87dd19",
+      "feedbackNo": 3,
+      "feedback": {
+        "feedbackNo": 3,
+        "sampleIds": [
+          "P006",
+          "P007",
+          "P008",
+          "P009"
+        ],
+        "topic": "FGO威化卡片与14弹目录",
+        "userDecision": "认可研究；要求完整卡表确认后补全全部二级卡片页面。",
+        "acceptedAspects": [
+          "现有研究方向",
+          "按弹次建目录"
+        ],
+        "requestedPolicy": "14弹完整清单逐卡核实后，所有确认成员可建永久页，零挂牌也显示。P007是6弹、P009是5弹，不能因本次反馈统一移到14弹。",
+        "unresolved": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+        "futureDisposition": "permanent_after_member_verification",
+        "nextAction": "补全14弹来源与逐卡映射；按已确认成员/官方总数展示完整度，不臆造空缺角色。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-57edd68e7c52383280399ebef5af6164",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "挂牌实物卡背尚未逐张核对；编号不标为官方已确认"
+      ],
+      "change": "已归入威化14对应角色；保留卡面与编号尚待核实的边界。",
+      "sources": [
+        "wafer14-retailer",
+        "wafer14",
+        "listing:P008"
+      ],
+      "originalUnknowns": [
+        "挂牌实物卡背尚未逐张核对；编号不标为官方已确认"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P009",
+      "productId": "sample-P009",
+      "title": "FGO ウエハース5 13 エリザベート・バートリー〔ブレイブ〕",
+      "summary": "《Fate/Grand Order》威化第5弹的伊丽莎白·巴托里〔勇者〕卡片。挂牌标为13号，实物卡背尚未逐项复核。",
+      "mode": "permanent",
+      "inputHash": "c1ce1962c6286f73db47999b2e0388a4012ee69fab662c687817f668e8a0e203",
+      "proposalRowSha256": "f235feb9a997501735d59af2f4da63c0d01ef195dfefb910ccedc4b7ad28b65a",
+      "feedbackNo": 3,
+      "feedback": {
+        "feedbackNo": 3,
+        "sampleIds": [
+          "P006",
+          "P007",
+          "P008",
+          "P009"
+        ],
+        "topic": "FGO威化卡片与14弹目录",
+        "userDecision": "认可研究；要求完整卡表确认后补全全部二级卡片页面。",
+        "acceptedAspects": [
+          "现有研究方向",
+          "按弹次建目录"
+        ],
+        "requestedPolicy": "14弹完整清单逐卡核实后，所有确认成员可建永久页，零挂牌也显示。P007是6弹、P009是5弹，不能因本次反馈统一移到14弹。",
+        "unresolved": "当前14弹34项零售列表不等于全部编号/实物卡背已获官方逐项确认；未决成员保留候选状态。",
+        "futureDisposition": "permanent_after_member_verification",
+        "nextAction": "补全14弹来源与逐卡映射；按已确认成员/官方总数展示完整度，不臆造空缺角色。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "113340e7-a0ca-4019-840a-ba6382a201df",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "挂牌实物卡背尚未逐张核对；编号不标为官方已确认"
+      ],
+      "change": "已按第5弹独立归档，保留原始来源。",
+      "sources": [
+        "wafer5",
+        "listing:P009"
+      ],
+      "originalUnknowns": [
+        "挂牌实物卡背尚未逐张核对；编号不标为官方已确认"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P010",
+      "productId": "sample-P010",
+      "title": "FGO 威化卡 Caster／クー・フーリン N07（候选第5弹）",
+      "summary": "《Fate/Grand Order》的Caster库丘林威化卡，已保存卡背可见N07。第5弹得到零售索引与社区目录佐证，精确发行对应仍待核对。",
+      "mode": "review",
+      "inputHash": "d5fcba18b052ab2bd18e2b2340d6b5efe6bb3a013bd8ccfedf16b7a28021fc40",
+      "proposalRowSha256": "d99b8bfbc694c7acbd51a373fbccff5d9b4d277c16a9d338295883055ffaa946",
+      "feedbackNo": 4,
+      "feedback": {
+        "feedbackNo": 4,
+        "sampleIds": [
+          "P010"
+        ],
+        "topic": "Caster库丘林同名消歧",
+        "userDecision": "指出是Caster，要求结合弹次目录和图像确认。",
+        "acceptedAspects": [
+          "Caster角色判断方向"
+        ],
+        "requestedPolicy": "区分角色、职阶、形态、卡面、弹次、卡号。优先官方本弹角色清单与实物卡背，Mooncell/Wiki可辅助立绘和职阶确认。",
+        "unresolved": "卡背Caster、N07与候选第5弹之间仍需可靠逐卡映射；Wiki立绘不能单独证明商品弹次。",
+        "futureDisposition": "review_before_precise_match",
+        "nextAction": "按有限候选做官方图/卡背比对；证据不够保留候选，不按同名强配。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "review",
+        "reason": "出售范围或发行身份尚待确认",
+        "targetId": "source-fdc71a5be52469031c0a6c4a3bd7376e",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "官方5弹逐卡编号未确认；不能因库中同名条目已匹配就判定身份完整"
+      ],
+      "change": "新增骏河屋乐天搜索索引佐证5弹N07，但仍保留精确弹次审核；未用角色同名直接匹配。",
+      "sources": [
+        "cu-back",
+        "wafer5-community",
+        "wafer5",
+        "listing:P010",
+        "v2-cu-retailer"
+      ],
+      "originalUnknowns": [
+        "官方5弹逐卡编号未确认；不能因库中同名条目已匹配就判定身份完整"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P011",
+      "productId": "extella-regular",
+      "title": "Fate/EXTELLA PS4 通常版",
+      "summary": "Marvelous发行的《Fate/EXTELLA》通常版游戏。此挂牌来源分类为PS4软件，其他平台在同一版本页面分开记录。",
+      "mode": "permanent",
+      "inputHash": "a7c3353815171ba5103d3b9ba832a4dbfa435f51bbe7e31e9052947cc3302784",
+      "proposalRowSha256": "db47541893b31038f62cda3b77021cfb44ecf64f5e8c3d881394749268b5c353",
+      "feedbackNo": 5,
+      "feedback": {
+        "feedbackNo": 5,
+        "sampleIds": [
+          "P011",
+          "P012",
+          "P013"
+        ],
+        "topic": "五部游戏、版本与特典层级",
+        "userDecision": "认为通常版雷达多候选有重复问题；给出游戏与版本分层要求及官网截图。",
+        "acceptedAspects": [
+          "通常版多候选需要检查"
+        ],
+        "requestedPolicy": "EXTRA、EXTRA CCC、EXTELLA、EXTELLA LINK、EXTRA Record五作品独立。各游戏一级页下分永久版本、永久游戏特典、临时捆绑套装；同版本不同平台可在一页展示但保留平台/SKU身份。",
+        "unresolved": "三个候选需区分真实重复与不同平台/版本，不能直接合并；P013属于EXTELLA LINK。发行矩阵按官网实际组合，不做平台与版本的全排列。",
+        "futureDisposition": "permanent_with_display_grouping_review",
+        "nextAction": "在隔离工作台给出版本矩阵和多候选差异；VELBER BOX是同时含PS4+PSV的盒装。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "review-candidates",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-c058bb7427eedc21bc50926eec9ad3ad",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "三个候选应按平台保留；PS4目标建议仍需独立SKU复核。"
+      ],
+      "change": "三个雷达候选JAN各不相同。新资料将2571对应PSV、2656对应Switch；2564有PS4目录线索。应合并版本展示而保留三条身份，不作为三个重复ID删除；PS4建议目标保留审核。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix",
+        "extella-switch",
+        "listing:P011",
+        "v2-vita-jan",
+        "v2-switch-jan",
+        "v2-ps4-jan"
+      ],
+      "originalUnknowns": [
+        "候选缺少足够平台字段；需核实包装型号后确认"
+      ],
+      "baselineStatus": "ambiguous"
+    },
+    {
+      "id": "P012",
+      "productId": "extella-limited",
+      "title": "Fate/EXTELLA Nintendo Switch LIMITED BOX",
+      "summary": "《Fate/EXTELLA》Nintendo Switch版LIMITED BOX。标准组合包括游戏、Wada Arco绘制外盒和尼禄收纳包，二手是否齐全需另查。",
+      "mode": "permanent",
+      "inputHash": "553f5ac9c37088334e75edcb9205f1a457641c193c4a4e0c93d04c73b37f133a",
+      "proposalRowSha256": "6a183e86d3a7f44648b7631d32aace0e90c747092d0243d187140f7239ce2372",
+      "feedbackNo": 5,
+      "feedback": {
+        "feedbackNo": 5,
+        "sampleIds": [
+          "P011",
+          "P012",
+          "P013"
+        ],
+        "topic": "五部游戏、版本与特典层级",
+        "userDecision": "认为通常版雷达多候选有重复问题；给出游戏与版本分层要求及官网截图。",
+        "acceptedAspects": [
+          "通常版多候选需要检查"
+        ],
+        "requestedPolicy": "EXTRA、EXTRA CCC、EXTELLA、EXTELLA LINK、EXTRA Record五作品独立。各游戏一级页下分永久版本、永久游戏特典、临时捆绑套装；同版本不同平台可在一页展示但保留平台/SKU身份。",
+        "unresolved": "三个候选需区分真实重复与不同平台/版本，不能直接合并；P013属于EXTELLA LINK。发行矩阵按官网实际组合，不做平台与版本的全排列。",
+        "futureDisposition": "permanent_with_display_grouping_review",
+        "nextAction": "在隔离工作台给出版本矩阵和多候选差异；VELBER BOX是同时含PS4+PSV的盒装。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-9d381d8f543e1d6cdd961f532937271c",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "二手实物是否齐套未核实"
+      ],
+      "change": "已归入EXTELLA的Switch限定版，与REGALIA、VELBER版本区分。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix",
+        "extella-switch",
+        "switch-release",
+        "listing:P012"
+      ],
+      "originalUnknowns": [
+        "二手实物是否齐套未核实"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P013",
+      "productId": "sample-P013",
+      "title": "Fate/EXTELLA LINK PS4 プレミアム限定版",
+      "summary": "《Fate/EXTELLA LINK》PS4高级限定版游戏。它属于LINK作品，与《Fate/EXTELLA》的限定版本分开建档。",
+      "mode": "permanent",
+      "inputHash": "d5d19f4c4c7748b8a4a184e75ade3ea24356113db840263e0b0cef3f0638cf6f",
+      "proposalRowSha256": "ad05ed574b893c39820e6fdee8d5688442e898fcaf8d65c4b315f027580e2dd6",
+      "feedbackNo": 5,
+      "feedback": {
+        "feedbackNo": 5,
+        "sampleIds": [
+          "P011",
+          "P012",
+          "P013"
+        ],
+        "topic": "五部游戏、版本与特典层级",
+        "userDecision": "认为通常版雷达多候选有重复问题；给出游戏与版本分层要求及官网截图。",
+        "acceptedAspects": [
+          "通常版多候选需要检查"
+        ],
+        "requestedPolicy": "EXTRA、EXTRA CCC、EXTELLA、EXTELLA LINK、EXTRA Record五作品独立。各游戏一级页下分永久版本、永久游戏特典、临时捆绑套装；同版本不同平台可在一页展示但保留平台/SKU身份。",
+        "unresolved": "三个候选需区分真实重复与不同平台/版本，不能直接合并；P013属于EXTELLA LINK。发行矩阵按官网实际组合，不做平台与版本的全排列。",
+        "futureDisposition": "permanent_with_display_grouping_review",
+        "nextAction": "在隔离工作台给出版本矩阵和多候选差异；VELBER BOX是同时含PS4+PSV的盒装。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "115deb04-1006-4b00-ba43-6284953d2b39",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "实体限定版完整配件及本挂牌缺件情况待核实"
+      ],
+      "change": "已归入EXTELLA LINK；五款Fate游戏各自保留一级目录。",
+      "sources": [
+        "extella-link",
+        "listing:P013"
+      ],
+      "originalUnknowns": [
+        "实体限定版完整配件及本挂牌缺件情况待核实"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P014",
+      "productId": "sample-P014",
+      "title": "Fate/EXTELLA LINK 斯卡哈「魔境のサージェント」服装码",
+      "summary": "《Fate/EXTELLA LINK》斯卡哈“魔境のサージェント”服装兑换码。平台、是否已使用和有效期未确认。",
+      "mode": "temporary",
+      "inputHash": "d11cc7dcbd8fe8ebf849f82ffd295cbed3cb59703c2602195b86beadf6e503d4",
+      "proposalRowSha256": "c67497a504256562ee72a0e09e344159704bcca7658f97a6c72e55651b7600bf",
+      "feedbackNo": 6,
+      "feedback": {
+        "feedbackNo": 6,
+        "sampleIds": [
+          "P014"
+        ],
+        "topic": "斯卡哈服装兑换码",
+        "userDecision": "认可核实；认为低价拍卖不必过度研究，可作临时商品。",
+        "acceptedAspects": [
+          "服装码识别",
+          "有限研究方向"
+        ],
+        "requestedPolicy": "标题/说明足以支持的字段可保留；出处未知不编造。单次兑换码临时收录，控制研究投入。",
+        "unresolved": "平台、是否已用、有效期和最初取得条件仍未知；竞拍起价不能代表真实价值。",
+        "futureDisposition": "temporary",
+        "nextAction": "保存未知项和来源；达到研究上限停查，不承诺可兑换。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "temporary",
+        "reason": "临时出售对象，保留历史并跟随挂牌生命周期",
+        "targetId": "source-1eeea0dd8f471ab13e4772a429d1b705",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "平台、使用状态、有效期均未确认"
+      ],
+      "change": "兑换码按低成本临时条目整理；来源条件未知处未作推测。",
+      "sources": [
+        "extella-link",
+        "listing:P014"
+      ],
+      "originalUnknowns": [
+        "平台、使用状态、有效期均未确认"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P015",
+      "productId": "sample-P015",
+      "title": "Fate/EXTELLA あみあみ特典 A3挂画／尼禄＆玉藻前",
+      "summary": "《Fate/EXTELLA》2016年原版游戏的AmiAmi购入特典A3挂画。画面为尼禄和玉藻前，插画由Wada Arco绘制。",
+      "mode": "permanent",
+      "inputHash": "f9378933d1940ff5bb38ef8b8a343b9730733173f9954d4b288e3868661032bb",
+      "proposalRowSha256": "4ca0dc32a423cd99962fcc09939178c0fc4c7d4836e802ce33cc6cf5fca34ebb",
+      "feedbackNo": 7,
+      "feedback": {
+        "feedbackNo": 7,
+        "sampleIds": [
+          "P015"
+        ],
+        "topic": "Mercari EXTELLA预约特典挂画",
+        "userDecision": "反馈链接已失效；指出Mercari标题可靠度和链接持久性较低。",
+        "acceptedAspects": [
+          "失效状态反馈"
+        ],
+        "requestedPolicy": "官方已证实的AmiAmi特典仍可有永久页；这次卖家观察标不可访问，历史证据与官方发行事实分开保存。",
+        "unresolved": "无法复核当前实物、品相、在售状态及此次购买适用版本；404不是已售证据。",
+        "futureDisposition": "permanent_bonus_with_unreachable_listing",
+        "nextAction": "记录来源失败与观察日期；不声称当前已看图或仍在售，不反复无界重试。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "review-candidates",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": null,
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "挂牌页面已失效；搜索索引是历史观察，无法复核实物、品相或具体适用购买版本"
+      ],
+      "change": "原链接失效按库存未知处理；保留官方参考图与店铺特典永久档案。",
+      "sources": [
+        "extella-bonus",
+        "extella-artist",
+        "extella-art-image",
+        "listing:P015"
+      ],
+      "originalUnknowns": [
+        "挂牌页面已失效；搜索索引是历史观察，无法复核实物、品相或具体适用购买版本"
+      ],
+      "baselineStatus": "unmatched"
+    },
+    {
+      "id": "P016",
+      "productId": "sample-P016",
+      "title": "Saber／阿尔托莉雅 英霊正装Ver. 1/7",
+      "summary": "GOOD SMILE COMPANY的阿尔托莉雅“英灵正装Ver.”1/7比例手办。采用《Fate/Grand Order》角色造型。",
+      "mode": "permanent",
+      "inputHash": "510a815761eb1a19692a6d83500bdcfa029231fc8760178b17812fed6ba39ea2",
+      "proposalRowSha256": "54b846b72e4612df274dcd4acdefad3fd8313530e28bd10356a06f29025d7031",
+      "feedbackNo": 8,
+      "feedback": {
+        "feedbackNo": 8,
+        "sampleIds": [
+          "P016",
+          "P017",
+          "P018",
+          "P019",
+          "P020"
+        ],
+        "topic": "手办、粘土人服装与官店特典",
+        "userDecision": "认可手办、玛修本体/服装及figma尼禄特典的整理。",
+        "acceptedAspects": [
+          "手办身份",
+          "本体与服装分离",
+          "尼禄特典识别"
+        ],
+        "requestedPolicy": "厂商/品牌下设figma、粘土人等产品线导航。P016–P019永久独立；P018官方单卖服装不属于拆售排除。P020单卖特典为临时入口，本体简介记官店特典事实，尽可能附官网单独特典参考图。",
+        "unresolved": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+        "futureDisposition": "mixed_permanent_and_temporary_bonus",
+        "nextAction": "展示产品线模块和本体/服装关系；P020执行手办特典例外，不套用游戏特典永久页规则。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-0de9e7a2a2b817ab2f7a016f034a2764",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "官方直读503，仅索引资料；再版批次、JAN及实物附件未确认"
+      ],
+      "change": "已加入比例手办模块，厂商与作品标签分别记录。",
+      "sources": [
+        "artoria-formal",
+        "listing:P016"
+      ],
+      "originalUnknowns": [
+        "官方直读503，仅索引资料；再版批次、JAN及实物附件未确认"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P017",
+      "productId": "sample-P017",
+      "title": "figma Lancer／阿尔托莉雅 DX Edition 568-DX",
+      "summary": "Max Factory的figma Lancer阿尔托莉雅DX Edition，型号568-DX。DX标准配置包含第三再临形态及爱马，二手配件完整性单独记录。",
+      "mode": "permanent",
+      "inputHash": "fc98b749b83ed68672c32ee3adc65d86e6f749db74711b3dee4e62371fe98d6c",
+      "proposalRowSha256": "b2f00a0f2b647953a318a90d740a51bf41ac2cb3e37c03a905a448a3138b0feb",
+      "feedbackNo": 8,
+      "feedback": {
+        "feedbackNo": 8,
+        "sampleIds": [
+          "P016",
+          "P017",
+          "P018",
+          "P019",
+          "P020"
+        ],
+        "topic": "手办、粘土人服装与官店特典",
+        "userDecision": "认可手办、玛修本体/服装及figma尼禄特典的整理。",
+        "acceptedAspects": [
+          "手办身份",
+          "本体与服装分离",
+          "尼禄特典识别"
+        ],
+        "requestedPolicy": "厂商/品牌下设figma、粘土人等产品线导航。P016–P019永久独立；P018官方单卖服装不属于拆售排除。P020单卖特典为临时入口，本体简介记官店特典事实，尽可能附官网单独特典参考图。",
+        "unresolved": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+        "futureDisposition": "mixed_permanent_and_temporary_bonus",
+        "nextAction": "展示产品线模块和本体/服装关系；P020执行手办特典例外，不套用游戏特典永久页规则。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-56b0c4b45add06f03b8bdb629d17f0fc",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "二手实物是否缺马、替换件或支架待核实"
+      ],
+      "change": "已加入Max Factory / figma产品线，保留本体永久页。",
+      "sources": [
+        "artoria-dx",
+        "listing:P017"
+      ],
+      "originalUnknowns": [
+        "二手实物是否缺马、替换件或支架待核实"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P018",
+      "productId": "sample-P018",
+      "title": "ねんどろいどどーる 玛修私服 衣服套装",
+      "summary": "玛修私服版粘土人娃的独立服装套装。标准内容为连衣裙、外套、连裤袜和鞋，不包含人偶本体。",
+      "mode": "permanent",
+      "inputHash": "a18776d135a2981e34bc4efb207cbcd0ecff2f98f4bbffec5e0b950906a3942a",
+      "proposalRowSha256": "9aaaf5e51f14187858be569e5fb0cd2e6a8d26443359469b3000eae43a8d792d",
+      "feedbackNo": 8,
+      "feedback": {
+        "feedbackNo": 8,
+        "sampleIds": [
+          "P016",
+          "P017",
+          "P018",
+          "P019",
+          "P020"
+        ],
+        "topic": "手办、粘土人服装与官店特典",
+        "userDecision": "认可手办、玛修本体/服装及figma尼禄特典的整理。",
+        "acceptedAspects": [
+          "手办身份",
+          "本体与服装分离",
+          "尼禄特典识别"
+        ],
+        "requestedPolicy": "厂商/品牌下设figma、粘土人等产品线导航。P016–P019永久独立；P018官方单卖服装不属于拆售排除。P020单卖特典为临时入口，本体简介记官店特典事实，尽可能附官网单独特典参考图。",
+        "unresolved": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+        "futureDisposition": "mixed_permanent_and_temporary_bonus",
+        "nextAction": "展示产品线模块和本体/服装关系；P020执行手办特典例外，不套用游戏特典永久页规则。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "set-unconfirmed",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-cd66a26961bce028097c5b295fde0484",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "实物四件是否齐全待核实"
+      ],
+      "change": "官方单独销售的衣服套装永久建档，与粘土人娃本体双向关联。",
+      "sources": [
+        "mash-outfit",
+        "mash-shipping",
+        "listing:P018"
+      ],
+      "originalUnknowns": [
+        "实物四件是否齐全待核实"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P019",
+      "productId": "sample-P019",
+      "title": "ねんどろいどどーる 玛修私服 人偶",
+      "summary": "玛修私服版粘土人娃，标准包装包含人偶、私服、替换手和台座。它与单独销售的服装套装分别建档。",
+      "mode": "permanent",
+      "inputHash": "7838f0b045bca9a864bf2f360946193251439f02149abdabf1ee1b8904c07e90",
+      "proposalRowSha256": "e37120e71f44d7ab72b3e9ab9d694fc397ea3e7b0267a785bde824a8eca5cc35",
+      "feedbackNo": 8,
+      "feedback": {
+        "feedbackNo": 8,
+        "sampleIds": [
+          "P016",
+          "P017",
+          "P018",
+          "P019",
+          "P020"
+        ],
+        "topic": "手办、粘土人服装与官店特典",
+        "userDecision": "认可手办、玛修本体/服装及figma尼禄特典的整理。",
+        "acceptedAspects": [
+          "手办身份",
+          "本体与服装分离",
+          "尼禄特典识别"
+        ],
+        "requestedPolicy": "厂商/品牌下设figma、粘土人等产品线导航。P016–P019永久独立；P018官方单卖服装不属于拆售排除。P020单卖特典为临时入口，本体简介记官店特典事实，尽可能附官网单独特典参考图。",
+        "unresolved": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+        "futureDisposition": "mixed_permanent_and_temporary_bonus",
+        "nextAction": "展示产品线模块和本体/服装关系；P020执行手办特典例外，不套用游戏特典永久页规则。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-27fd6604af4edea0e2cb39b897b8dde6",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "二手实物完整性未核实"
+      ],
+      "change": "粘土人娃本体永久建档，与独立服装页双向关联。",
+      "sources": [
+        "mash-doll",
+        "mash-shipping",
+        "listing:P019"
+      ],
+      "originalUnknowns": [
+        "二手实物完整性未核实"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P020",
+      "productId": "sample-P020",
+      "title": "figma 尼禄「目閉じドヤ顔」店铺特典替换脸",
+      "summary": "figma尼禄370的GOODSMILE ONLINE SHOP购入特典“闭眼得意脸”。此临时入口仅对应替换脸，不含figma本体。",
+      "mode": "temporary",
+      "inputHash": "482788c026f7dd813bfa1099fe605bb4c950db1f4a2b8faa8ddc2da2ed2ee0ff",
+      "proposalRowSha256": "0105d1b5b18a637eb37b167101c691aa439f378c636f5891795a81cbeb7a683b",
+      "feedbackNo": 8,
+      "feedback": {
+        "feedbackNo": 8,
+        "sampleIds": [
+          "P016",
+          "P017",
+          "P018",
+          "P019",
+          "P020"
+        ],
+        "topic": "手办、粘土人服装与官店特典",
+        "userDecision": "认可手办、玛修本体/服装及figma尼禄特典的整理。",
+        "acceptedAspects": [
+          "手办身份",
+          "本体与服装分离",
+          "尼禄特典识别"
+        ],
+        "requestedPolicy": "厂商/品牌下设figma、粘土人等产品线导航。P016–P019永久独立；P018官方单卖服装不属于拆售排除。P020单卖特典为临时入口，本体简介记官店特典事实，尽可能附官网单独特典参考图。",
+        "unresolved": "二手完整性仍按各Offer记录；本体不默认附送官店特典，参考图不冒充卖家实物。",
+        "futureDisposition": "mixed_permanent_and_temporary_bonus",
+        "nextAction": "展示产品线模块和本体/服装关系；P020执行手办特典例外，不套用游戏特典永久页规则。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "temporary",
+        "reason": "临时出售对象，保留历史并跟随挂牌生命周期",
+        "targetId": "source-b7aab4ac3692a4db14df0b7be7888e35",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "挂牌只有脸，不代表包含figma本体；接口及品相待核对"
+      ],
+      "change": "已定位官网特典段落和单独图片链接，挂在尼禄本体说明及临时特典入口；图片直读失败明确保留。",
+      "sources": [
+        "nero-face",
+        "listing:P020",
+        "v2-nero",
+        "v2-nero-image"
+      ],
+      "originalUnknowns": [
+        "挂牌只有脸，不代表包含figma本体；接口及品相待核对"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P021",
+      "productId": "fes-C-fd607c7b092f",
+      "title": "FGO Fes.2025 迦摩 B2半裁挂画",
+      "summary": "FGO Fes.2025的迦摩B2半裁挂画，属于C组角色款式。活动后曾在Aniplex进行受注销售。",
+      "mode": "permanent",
+      "inputHash": "e47c9cba1ab5481ad5defed2cc0856d4ad303428ed1efb025db35ba3648b8477",
+      "proposalRowSha256": "0013de3d4ce1623998f9d81a9cb7d68f24083110fd4cb7471ee480dd140e78db",
+      "feedbackNo": 9,
+      "feedback": {
+        "feedbackNo": 9,
+        "sampleIds": [
+          "P021",
+          "P022",
+          "P023",
+          "P024"
+        ],
+        "topic": "Fes2025官方周边",
+        "userDecision": "认可整理，要求以Aniplex线上发售信息建立永久页。",
+        "acceptedAspects": [
+          "活动与商品整理"
+        ],
+        "requestedPolicy": "官方商品永久建档，新挂牌匹配原页；新证据可补简介/标签，但保持简洁，不能每次扫描追加一句。",
+        "unresolved": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+        "futureDisposition": "permanent",
+        "nextAction": "以规范事实差异更新同一简介；重复扫描不增文、不重复标签，保护人工改写。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-14b12456f75e74dc1e4c4d2247b95de3",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "本挂牌实物状态未复核"
+      ],
+      "change": "已按Aniplex销售资料归入Fes.2025，角色款式可零挂牌留档。",
+      "sources": [
+        "fes-kama",
+        "listing:P021"
+      ],
+      "originalUnknowns": [
+        "本挂牌实物状态未复核"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P022",
+      "productId": "sample-P022",
+      "title": "FGO Fes.2025 洛乌希雪景球",
+      "summary": "FGO Fes.2025的洛乌希雪景球。活动后曾在Aniplex进行受注销售。",
+      "mode": "permanent",
+      "inputHash": "f8d41c52d2f07460ad85a9686431ff9bbd23beef90a410399e362b5bb6598945",
+      "proposalRowSha256": "8fc8148afb00eeb54fd2fea99a281c6b554e0eed560040581bad961a580baa47",
+      "feedbackNo": 9,
+      "feedback": {
+        "feedbackNo": 9,
+        "sampleIds": [
+          "P021",
+          "P022",
+          "P023",
+          "P024"
+        ],
+        "topic": "Fes2025官方周边",
+        "userDecision": "认可整理，要求以Aniplex线上发售信息建立永久页。",
+        "acceptedAspects": [
+          "活动与商品整理"
+        ],
+        "requestedPolicy": "官方商品永久建档，新挂牌匹配原页；新证据可补简介/标签，但保持简洁，不能每次扫描追加一句。",
+        "unresolved": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+        "futureDisposition": "permanent",
+        "nextAction": "以规范事实差异更新同一简介；重复扫描不增文、不重复标签，保护人工改写。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-56d3472d5b5fc62e60ea91ed6be7fe4f",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "本挂牌实物状态未复核"
+      ],
+      "change": "已按Aniplex销售资料建立永久档案，活动销售条件写入简介。",
+      "sources": [
+        "fes-louhi",
+        "listing:P022"
+      ],
+      "originalUnknowns": [
+        "本挂牌实物状态未复核"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P023",
+      "productId": "sample-P023",
+      "title": "FGO Fes.2025 Final Journey 桌面橡胶垫",
+      "summary": "FGO Fes.2025的“Final Journey”桌面橡胶垫。活动后曾在Aniplex进行受注销售，图中人物尚未逐一标注。",
+      "mode": "permanent",
+      "inputHash": "8464360793822d5725b84c4b55005d9d40a3df75e2a03e7d3cdc31958a514b73",
+      "proposalRowSha256": "716e03ca7dcdc15ea75b615475ba6a4424cf78748233d92bf81522e780a3d226",
+      "feedbackNo": 9,
+      "feedback": {
+        "feedbackNo": 9,
+        "sampleIds": [
+          "P021",
+          "P022",
+          "P023",
+          "P024"
+        ],
+        "topic": "Fes2025官方周边",
+        "userDecision": "认可整理，要求以Aniplex线上发售信息建立永久页。",
+        "acceptedAspects": [
+          "活动与商品整理"
+        ],
+        "requestedPolicy": "官方商品永久建档，新挂牌匹配原页；新证据可补简介/标签，但保持简洁，不能每次扫描追加一句。",
+        "unresolved": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+        "futureDisposition": "permanent",
+        "nextAction": "以规范事实差异更新同一简介；重复扫描不增文、不重复标签，保护人工改写。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-e3609f457928bb71e70df3fe8bfb10b8",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "图中具体角色没有逐一确认，不批量补角色标签"
+      ],
+      "change": "已按Aniplex销售资料建立永久档案，角色标签保持简洁。",
+      "sources": [
+        "fes-mat",
+        "listing:P023"
+      ],
+      "originalUnknowns": [
+        "图中具体角色没有逐一确认，不批量补角色标签"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P024",
+      "productId": "fes-B-5ff5daea3c46",
+      "title": "FGO Fes.2025 阿斯克勒庇俄斯 B2半裁挂画",
+      "summary": "FGO Fes.2025的阿斯克勒庇俄斯B2半裁挂画，属于B组角色款式。活动后曾在Aniplex进行受注销售。",
+      "mode": "permanent",
+      "inputHash": "5e6ce2b8a69fef89e6eeb348bf7bceebf5261d94d9e799ddac234fe184c86ea8",
+      "proposalRowSha256": "f22a590f26efae2c3d6a561234618d96053bb196a0c528ac85f98ad8e27a6d7d",
+      "feedbackNo": 9,
+      "feedback": {
+        "feedbackNo": 9,
+        "sampleIds": [
+          "P021",
+          "P022",
+          "P023",
+          "P024"
+        ],
+        "topic": "Fes2025官方周边",
+        "userDecision": "认可整理，要求以Aniplex线上发售信息建立永久页。",
+        "acceptedAspects": [
+          "活动与商品整理"
+        ],
+        "requestedPolicy": "官方商品永久建档，新挂牌匹配原页；新证据可补简介/标签，但保持简洁，不能每次扫描追加一句。",
+        "unresolved": "P023图中全部人物尚未逐一确认；新增角色必须有商品局部证据。",
+        "futureDisposition": "permanent",
+        "nextAction": "以规范事实差异更新同一简介；重复扫描不增文、不重复标签，保护人工改写。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "link-proposed",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": "source-6b76d8563226cd24b3b648c8fd2b63ea",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "本挂牌实物状态未复核"
+      ],
+      "change": "已归入Fes.2025角色款式目录，与同系列成员关联。",
+      "sources": [
+        "fes-asclepius",
+        "listing:P024"
+      ],
+      "originalUnknowns": [
+        "本挂牌实物状态未复核"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P025",
+      "productId": "sample-P025",
+      "title": "FGO Fes.2026 Rider／达芬奇 学生证卡",
+      "summary": "FGO Fes.2026的Rider达芬奇学生证卡。用户确认为入场特典且不参与线上贩售，完整系列与实物对应仍待补证。",
+      "mode": "review",
+      "inputHash": "0c73d5f02555da2dd108ff226e40392ddff4f22e3766db577a7472bf2a810ed3",
+      "proposalRowSha256": "2e34ed095465d877b292244e14d07f6de58ab47e4c3d781410c568af781581fa",
+      "feedbackNo": 10,
+      "feedback": {
+        "feedbackNo": 10,
+        "sampleIds": [
+          "P025"
+        ],
+        "topic": "Rider达芬奇学生证卡",
+        "userDecision": "用户确认是入场特典，不参与线上售卖，并提出历史挂牌/系列交叉验证。",
+        "acceptedAspects": [
+          "用户提供入场特典与非线上贩售的领域判断"
+        ],
+        "requestedPolicy": "没有Aniplex页面不能否定存在；用独立历史挂牌、图案规格、活动与系列一致性佐证，有歧义交人工。",
+        "unresolved": "本记录是用户领域确认，不是已找到官方入场发放公告；完整系列成员仍未补齐。冻结标题为Fes2026，不能因邻近Fes2025案例自动改年份。",
+        "futureDisposition": "conditional_permanent_series_member",
+        "nextAction": "把用户断言与官方/历史证据分开保存；核对活动年份、职阶及系列，再形成永久页提案。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "review",
+        "reason": "出售范围或发行身份尚待确认",
+        "targetId": "4487ad0a-1f22-4a91-ae9c-79de36b266d2",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "用户确认入场特典；独立历史摘要尚未视觉互证，完整系列待补。"
+      ],
+      "change": "官方FAQ中的“学生証”是身份证明要求，不是赠品证据。另找到历史入场特典挂牌摘要，但图片未比对，维持人工复查。",
+      "sources": [
+        "listing:P025",
+        "v2-student-faq",
+        "v2-student-history"
+      ],
+      "originalUnknowns": [
+        "不能仅因票务页面存在就认定为门票捆绑；需具体商品说明或实物背面"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P026",
+      "productId": "sample-P026",
+      "title": "Fate 混合周边拼包（逐件身份待拆）",
+      "summary": "Fate相关混合周边的二手大包。按IP临时归类，成员、数量和当前在售状态未确认。",
+      "mode": "temporary",
+      "inputHash": "5034a5872d3bab4c7a51547ac4bea0f262ab2d9486830fa9d5aa9f5929cc1b59",
+      "proposalRowSha256": "4e16c12fe75692f22ee96df12e6801e2690345c9e04356279f3c508c765771b7",
+      "feedbackNo": 11,
+      "feedback": {
+        "feedbackNo": 11,
+        "sampleIds": [
+          "P026"
+        ],
+        "topic": "Yahoo混合大包",
+        "userDecision": "反馈链接打不开，猜测是大量周边组合；允许只分大IP进入专门模块。",
+        "acceptedAspects": [
+          "用户接受粗粒度临时大包处理"
+        ],
+        "requestedPolicy": "Fate混合套装临时模块，可选低成本识图；不强制逐件拆分或补全角色与数量。",
+        "unresolved": "“一大堆set”是用户猜测，不能升级为逐件确认；当前图片、成员、数量与在售状态不明。",
+        "futureDisposition": "temporary_mixed_lot",
+        "nextAction": "替换原先必须逐件研究的默认要求，保留可选深查与未知字段。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "set-unconfirmed",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "temporary",
+        "reason": "临时出售对象，保留历史并跟随挂牌生命周期",
+        "targetId": "source-7e17c57a87bd419a6934bdc4f3b1623c",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "成员和数量未知，按用户要求不强制逐件研究；链接无法访问。"
+      ],
+      "change": "按Fate大IP混合套装临时收录；链接失效不推断售出，不逐件猜测成员。",
+      "sources": [
+        "listing:P026"
+      ],
+      "originalUnknowns": [
+        "需要逐张图片与件数；成员身份、数量、缺件全部待核实"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P027",
+      "productId": "sample-P027",
+      "title": "FGO 威化卡 卡多克＆贝里尔拼套",
+      "summary": "卡多克与贝里尔两张FGO威化卡的二手组合。各卡的弹次和编号尚未确认。",
+      "mode": "temporary",
+      "inputHash": "fdd86605b53e26bf4bb78fe7c0c5471f46b60e27cea468a211958c8b8d8c0656",
+      "proposalRowSha256": "38da3e733ceb75fe371066ca10426b378c951e958f007afc0edc243177ff5417",
+      "feedbackNo": 12,
+      "feedback": {
+        "feedbackNo": 12,
+        "sampleIds": [
+          "P027"
+        ],
+        "topic": "两张威化卡拼套",
+        "userDecision": "确认是描述清楚的两张卡set，临时链接即可。",
+        "acceptedAspects": [
+          "两张卡出售范围"
+        ],
+        "requestedPolicy": "临时组合；可以保存卡多克、贝里尔的已支持描述，单卡弹次与编号仍独立核实，不能因此把组合升级为官方固定套装。",
+        "unresolved": "用户已确认件数为2；弹次、编号、稀有度和实物状况仍未知。",
+        "futureDisposition": "temporary_two_card_set",
+        "nextAction": "在新增反馈层覆盖原建议的数量疑问，冻结原研究不改；不强行建未知单卡身份。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "set-unconfirmed",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "temporary",
+        "reason": "临时出售对象，保留历史并跟随挂牌生命周期",
+        "targetId": "source-b4e7f9c1ff323dd89e186829d059403e",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "用户确认两张组合；弹次、编号、稀有度与实物情况仍待核实。"
+      ],
+      "change": "已按用户确认保存两张卡片的组合范围，设为临时条目。",
+      "sources": [
+        "listing:P027"
+      ],
+      "originalUnknowns": [
+        "两张卡的弹次、编号、稀有度及数量须看卡背"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P028",
+      "productId": "sample-P028",
+      "title": "Fate/EXTELLA LINK 吉尔伽美什＆无铭 徽章2个套装",
+      "summary": "《Fate/EXTELLA LINK》的Animate购入特典中包含吉尔伽美什与无铭54mm徽章组合。官方公告同时列出A5亚克力板，本挂牌的收录边界及实物对应仍待审核。",
+      "mode": "review",
+      "inputHash": "b996c5c183ffda1a1f09cfe046358c1ca40e3b0df45d0a79ce8f66e6e2663d68",
+      "proposalRowSha256": "ce98a6de769f40af314edd4f399be3aa6852ee0210302a416020811ca92a5e08",
+      "feedbackNo": 13,
+      "feedback": {
+        "feedbackNo": 13,
+        "sampleIds": [
+          "P028"
+        ],
+        "topic": "固定官方套装拆件不收录",
+        "userDecision": "链接失效，可能是特典的一部分；明确固定整套拆卖与集换系列的不同政策。",
+        "acceptedAspects": [
+          "收录边界规则"
+        ],
+        "requestedPolicy": "官方直接固定整套售卖且非单款收集机制，卖家拆出的部分不新增独立商品页。系列单品、集换式卡片可以收录；先查清P028的原始销售形式。",
+        "unresolved": "P028是否完整官方特典组合/系列单品/固定套装的拆件尚待查证，不能预先宣布排除或永久收录。",
+        "futureDisposition": "conditional_admission_review",
+        "nextAction": "按官网原始组合核对；低成本无法查清则暂缓，不因标题含set就判定。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "set-unconfirmed",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "review",
+        "reason": "出售范围或发行身份尚待确认",
+        "targetId": "source-d18a4f4e046b22e0786a82b2d5f50af1",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "需核对animate官方特典图及版本适用范围"
+      ],
+      "change": "Animate发布的原始公告证实两枚徽章组合及A5亚克力板同时赠送；身份关系比原研究更明确，是否独立保留该组合仍按拆售政策交人工。",
+      "sources": [
+        "extella-link",
+        "listing:P028",
+        "v2-animate"
+      ],
+      "originalUnknowns": [
+        "需核对animate官方特典图及版本适用范围"
+      ],
+      "baselineStatus": "matched"
+    },
+    {
+      "id": "P029",
+      "productId": "extella-velber",
+      "title": "Fate/EXTELLA VELBER BOX（缺PS4游戏本体）",
+      "summary": "《Fate/EXTELLA》VELBER BOX，标准内容同时包含PS4和PS Vita游戏。此挂牌明确缺少PS4游戏，其他附属内容仍需核对。",
+      "mode": "permanent",
+      "inputHash": "033464f6b090b19aad469d7310b5f9edf9c2319754165d1f892815634b056df3",
+      "proposalRowSha256": "00974175f14d007a427f7edb08290d5c3396c207ae57246232d41586af717708",
+      "feedbackNo": 14,
+      "feedback": {
+        "feedbackNo": 14,
+        "sampleIds": [
+          "P029"
+        ],
+        "topic": "VELBER BOX缺件",
+        "userDecision": "确认是Fate/EXTELLA VELBER BOX，但缺件。",
+        "acceptedAspects": [
+          "母版本身份",
+          "缺件状态"
+        ],
+        "requestedPolicy": "母版本永久页，挂牌记缺PS4游戏；必要时用临时出售入口。整体盒装缺件与孤立拆出的单件不同，不能一律排除。",
+        "unresolved": "其余配件完整性、两个候选是否同身份重复仍待核对。",
+        "futureDisposition": "permanent_parent_with_incomplete_offer",
+        "nextAction": "保留缺件差异和候选复查，不把双平台盒装错误转换为PSV单平台版本或齐套。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "review-candidates",
+        "reason": "正式发行商品或可独立收集成员，零挂牌永久保留",
+        "targetId": null,
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "规则有两个候选；需核对完整SKU、其他组件和候选是否重复"
+      ],
+      "change": "两个候选JAN均4535506302588，列为可能重复待复查；本轮仅连到隔离VELBER页，不归并正式ID。",
+      "sources": [
+        "extella",
+        "v2-extella-matrix",
+        "listing:P029"
+      ],
+      "originalUnknowns": [
+        "规则有两个候选；需核对完整SKU、其他组件和候选是否重复"
+      ],
+      "baselineStatus": "ambiguous"
+    },
+    {
+      "id": "P030",
+      "productId": "sample-P030",
+      "title": "Fate/EXTRA 10th ANNIVERSARY Celebration BOX Wada印画（单件）",
+      "summary": "《Fate/EXTRA》十周年Celebration BOX中的Wada Arco装裱印画。卖家标题误写EXTELLA纪念主题；按固定套装拆件政策，不新增独立商品页。",
+      "mode": "excluded",
+      "inputHash": "dfe68534b8bcd4689e467435e343ad66c2b0f38ab943a232704107cb7110e387",
+      "proposalRowSha256": "a6f781a662738dd2b6de3cc8c12d721b5352d5e0c8c5575bb76f6ce75641cbb7",
+      "feedbackNo": 15,
+      "feedback": {
+        "feedbackNo": 15,
+        "sampleIds": [
+          "P030"
+        ],
+        "topic": "卖家错写EXTRA十周年印画",
+        "userDecision": "确认卖家写错，认可规则纠正，认为需要人工处理。",
+        "acceptedAspects": [
+          "错名检测",
+          "EXTRA十周年主题纠正方向",
+          "人工处理"
+        ],
+        "requestedPolicy": "保留原题与纠正证据，人工确认。结合第13点固定整套拆件政策：不新增该单件印画的独立商品页，可作为母盒装内容记录。",
+        "unresolved": "实际印画同款与品相未看图确认；不以此授权删除历史商品、个人记录或迁移Offer。",
+        "futureDisposition": "exclude_new_standalone_component_review",
+        "nextAction": "明确区分识别正确与值得建档；保留拒收理由和母套装关系，不静默改掉原题。"
+      },
+      "decision": {
+        "saleFormDecision": {
+          "form": "unknown",
+          "isbnScope": "unconfirmed",
+          "priceUsedForIdentity": false
+        },
+        "action": "exclude-new-product",
+        "reason": "固定官方套装的孤立拆件不新增商品页",
+        "targetId": "source-e6d3422f39f154ea36487bb2d2b30978",
+        "productionApplied": false,
+        "automaticResearch": false
+      },
+      "unknowns": [
+        "实际印画是否同款及品相未看图确认；不能把游戏与其他附件算进本挂牌"
+      ],
+      "change": "保留卖家误标核对记录，固定官方套装的孤立拆件不新增独立商品。",
+      "sources": [
+        "extra10",
+        "listing:P030"
+      ],
+      "originalUnknowns": [
+        "实际印画是否同款及品相未看图确认；不能把游戏与其他附件算进本挂牌"
+      ],
+      "baselineStatus": "matched"
+    }
+  ]
+}

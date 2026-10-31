@@ -1,0 +1,246 @@
+{
+  "scope": "first30 V2",
+  "paidApiCalls": 0,
+  "automatedResearchRequests": 0,
+  "assistantResearch": "interactive web/source inspection; not autonomous runtime",
+  "assistantNewSourceRecords": 11,
+  "totalInteractiveRequests": null,
+  "totalModelTokens": null,
+  "subscriptionCost": null,
+  "humanMinutes": null,
+  "unknownReason": "Interactive tool and human timing were not reliably metered; do not infer zero cost.",
+  "groups": [
+    {
+      "id": "material",
+      "reusedOrNewSources": [
+        "material",
+        "listing:P001",
+        "listing:P002",
+        "listing:P003",
+        "listing:P004"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "turas",
+      "reusedOrNewSources": [
+        "catalogue:turas-1",
+        "catalogue:turas-2",
+        "catalogue:turas-3",
+        "catalogue:turas-4",
+        "catalogue:turas-5",
+        "catalogue:turas-6",
+        "catalogue:turas-7",
+        "catalogue:turas-8",
+        "catalogue:turas-9",
+        "catalogue:turas-10",
+        "catalogue:turas-11",
+        "catalogue:turas-12",
+        "catalogue:turas-13",
+        "catalogue:turas-14",
+        "catalogue:turas-15",
+        "catalogue:turas-16",
+        "catalogue:turas-17",
+        "catalogue:turas-18",
+        "catalogue:turas-19",
+        "catalogue:turas-20",
+        "catalogue:turas-21",
+        "catalogue:turas-22",
+        "catalogue:turas-23",
+        "turas",
+        "turas23",
+        "listing:P005"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "wafer14",
+      "reusedOrNewSources": [
+        "wafer14-retailer",
+        "wafer14",
+        "listing:P008",
+        "listing:P006"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "wafer5",
+      "reusedOrNewSources": [
+        "wafer5",
+        "listing:P009",
+        "cu-back",
+        "wafer5-community",
+        "listing:P010",
+        "v2-cu-retailer"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "wafer6",
+      "reusedOrNewSources": [
+        "wafer6",
+        "listing:P007"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "extra",
+      "reusedOrNewSources": [
+        "extra10",
+        "listing:P030"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "extra-ccc",
+      "reusedOrNewSources": [],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "extella",
+      "reusedOrNewSources": [
+        "extella",
+        "v2-extella-matrix",
+        "extella-switch",
+        "listing:P011",
+        "v2-vita-jan",
+        "v2-switch-jan",
+        "v2-ps4-jan",
+        "switch-release",
+        "listing:P012",
+        "listing:P029",
+        "extella-bonus",
+        "extella-artist",
+        "extella-art-image",
+        "listing:P015"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "extella-link",
+      "reusedOrNewSources": [
+        "extella-link",
+        "listing:P013",
+        "listing:P014",
+        "listing:P028",
+        "v2-animate"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "extra-record",
+      "reusedOrNewSources": [],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "figures",
+      "reusedOrNewSources": [
+        "artoria-formal",
+        "listing:P016"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "figma",
+      "reusedOrNewSources": [
+        "v2-nero",
+        "artoria-dx",
+        "listing:P017",
+        "nero-face",
+        "listing:P020",
+        "v2-nero-image"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "nendoroid-doll",
+      "reusedOrNewSources": [
+        "mash-outfit",
+        "mash-shipping",
+        "listing:P018",
+        "mash-doll",
+        "listing:P019"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "fes2025",
+      "reusedOrNewSources": [
+        "fes-asclepius",
+        "listing:P024",
+        "fes-kama",
+        "listing:P021",
+        "fes-louhi",
+        "listing:P022",
+        "fes-mat",
+        "listing:P023"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "fes2026",
+      "reusedOrNewSources": [
+        "listing:P025",
+        "v2-student-faq",
+        "v2-student-history"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    },
+    {
+      "id": "mixed",
+      "reusedOrNewSources": [
+        "listing:P026",
+        "listing:P027"
+      ],
+      "requestCount": null,
+      "cacheHitCount": null,
+      "elapsedMs": null,
+      "humanMinutes": null
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+import {readFileSync,writeFileSync,mkdirSync} from 'node:fs';
+import {resolve} from 'node:path';
+import {ROOT,REPORT,sha} from '../pilot-workbench/common.mjs';
+import {buildModel,V2_REPORT} from './model.mjs';
+const model=buildModel();
+const counts=values=>Object.fromEntries([...new Set(values)].map(k=>[k,values.filter(v=>v===k).length]));
+const frozen=Object.fromEntries(['manifest.json','baseline-30.json','proposals-30.json','evidence.json','catalogues.json'].map(name=>[name,sha(readFileSync(resolve(REPORT,name)))]));
+const meta={version:model.version,modelHash:sha(model),processed:30,prepared:300,remainingNotRun:270,feedbackGroups:15,independentGoldLabels:0,productionWrites:0,productionDeploys:0,modeCounts:counts(model.rows.map(r=>r.mode)),catalogueCounts:counts(model.products.map(p=>p.mode)),groups:model.groups.length,records:model.products.length,frozen};
+mkdirSync(V2_REPORT,{recursive:true});
+for(const [file,data]of Object.entries({'results-30.json':{...meta,rows:model.rows},'catalogue-v2.json':{version:model.version,modelHash:meta.modelHash,groups:model.groups,products:model.products},'costs.json':{scope:'first30 V2',paidApiCalls:0,automatedResearchRequests:0,assistantResearch:'interactive web/source inspection; not autonomous runtime',assistantNewSourceRecords:11,totalInteractiveRequests:null,totalModelTokens:null,subscriptionCost:null,humanMinutes:null,unknownReason:'Interactive tool and human timing were not reliably metered; do not infer zero cost.',groups:model.groups.map(g=>({id:g.id,reusedOrNewSources:[...new Set(model.products.filter(p=>p.groupId===g.id).flatMap(p=>p.sources))],requestCount:null,cacheHitCount:null,elapsedMs:null,humanMinutes:null}))}}))writeFileSync(resolve(V2_REPORT,file),JSON.stringify(data,null,2)+'\n');
+console.log(JSON.stringify(meta,null,2));

@@ -1,7 +1,7 @@
 # HobbyLib 工作入口
 
 1. 先读 README.md、docs/NEXT_TASK.md、docs/PROGRESS.md。NEXT_TASK.md 是当前阶段唯一完整执行 Prompt；历史报告不能覆盖用户最新指令。
-2. 当前300条真实挂牌已冻结，首30条隔离研究与工作台已交付，用户15点反馈已归档并覆盖30条。先读docs/PILOT_FEEDBACK_2026-10-30.md、PRODUCT_CATALOG_POLICY.md和PILOT_PHASE2_PLAN.md（后两者也在docs/）。用户现已授权重做首30条V2，网页复原收藏雷达现有设计；本轮执行隔离实现、重放与验收，不运行后70开发或200冻结评测。正式商品库不写入、不部署；完整范围以docs/NEXT_TASK.md为准。
+2. 当前300条真实挂牌已冻结，首30条隔离研究与工作台已交付，用户15点反馈已归档并覆盖30条。先读docs/PILOT_FEEDBACK_2026-10-30.md、PRODUCT_CATALOG_POLICY.md和PILOT_PHASE2_PLAN.md（后两者也在docs/）。首30条V2现已隔离交付，网页复原收藏雷达设计；先读research/pilot-v2-20261030/REPORT.md和tools/pilot-v2/README.md，等待新版语义反馈。不要自动运行后70开发或200冻结评测。正式商品库不写入、不部署；完整范围以docs/NEXT_TASK.md为准。
 3. GitHub 提交不等于 Sites 发布或数据库同步。保留 .openai/hosting.json 的项目身份、DB 绑定及访问权限；运行逻辑未变且已上线时不重复发布。
 4. 商品与挂牌分离；本体、特典、组件、套装拥有状态独立。卷号、ISBN/JAN作用域、平台、媒介、版本、卡面、来源变体不得因标题相似而合并。同版不同平台可共用展示页但保留身份；永久页零挂牌也保留，临时页只在确认结束后撤下，链接失效不等于已售。固定套装拆件的新收录边界与特典例外按PRODUCT_CATALOG_POLICY执行。
 5. 原 15,811 个复查编号不可重新生成或丢弃。001–006 固定成功动作均不能重放；32条和五边已应用且独立复读通过。先查最新生产回执、新鲜目标和用户具体反馈，不能重放隔离动作。历史 #91 / 42 partial 不是实时断点。
