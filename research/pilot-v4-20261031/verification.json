@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-01T15:57:31.934Z",
+  "clientDate": "2026-11-01",
+  "tests": {
+    "command": "node --test tools/recognition-v4/test.mjs tools/recognition/test.mjs",
+    "passed": 30,
+    "failed": 0
+  },
+  "browser": {
+    "url": "http://127.0.0.1:8793/",
+    "newRows": 200,
+    "nullProductLinks": 0,
+    "material4ValidGalleryImages": 1,
+    "material4PriceLabel": "已售记录，原快照未含售价",
+    "nero370Gallery": 7,
+    "seraphRelatedVolumes": 8,
+    "chaldeaOtherVolumes": 1,
+    "visualLots": 17,
+    "visualRegions": 90,
+    "consoleErrors": 0,
+    "proof": "Local-only work/pilot-v4/figma-detail.jpg"
+  },
+  "productionWrites": 0,
+  "productionDeploys": 0,
+  "oldActionsReplayed": 0
+}

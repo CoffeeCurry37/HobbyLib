@@ -1,0 +1,13 @@
+{
+  "scope": "V4 capture receipts only; web-search and chat billing unavailable",
+  "batches": 17,
+  "plannedObservations": 1903,
+  "requests": 1904,
+  "cacheHits": 0,
+  "captured": 1839,
+  "unavailable": 64,
+  "bytes": 394746926,
+  "paidModelApiCalls": 0,
+  "modelApiCostUSD": 0,
+  "chatAndWebCostUSD": null
+}
