@@ -26,7 +26,8 @@ export async function curate(user:string,changes:{item:Item;expectedVersion?:str
   if(next.editorial){const e=next.editorial;if(e.basis!==editorialBasis(next)||e.imageUrl!==next.image)throw Error('复核依据与商品资料不一致');if(e.status==='verified'&&(!Object.values(e.checks).every(Boolean)||!e.sources.length||e.unresolved.length||!next.summary||!next.productType||!next.image||!next.tags.length))throw Error('资料不完整，不能标记已核实');}
   if(previous){if(!change.expectedVersion||recordVersion(previous)!==change.expectedVersion)throw new VersionConflictError();if(previous.archivedInto)throw Error('不能覆盖归并存档');for(const k of personal)if(JSON.stringify(previous[k])!==JSON.stringify(next[k]))throw Error('自动整理不能修改个人字段：'+k);for(const k of Object.keys(previous) as (keyof Item)[])if(manualField(previous,k)&&JSON.stringify(previous[k])!==JSON.stringify(next[k]))throw Error('自动整理不能覆盖人工字段：'+k);updated++;}
   else {if(change.expectedVersion)throw new VersionConflictError();if(next.archivedInto||next.mergeSnapshot||next.ownership!=='unknown'||next.quantity||next.notes||next.rating||next.watchlisted)throw Error('新资料不能伪造个人收藏状态');created++;}
-  if((next.images||[]).length>10)next.images=next.images!.slice(0,10);byId.set(next.id,next);
+  // The API validates the image limit; unrelated curation must not silently drop saved images.
+  byId.set(next.id,next);
  }
  const added:Relation[]=[];
  for(const r of relations){

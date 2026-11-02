@@ -16,7 +16,7 @@ export function officialRelease(item:Item){
  const n=babyloniaVolume(item),format=mediaFormat(item);return n&&format?releases.find(v=>v.family==='babylonia-tv'&&v.volume===n&&v.format===format):undefined;
 }
 export function applyOfficialRelease(item:Item,release=officialRelease(item)):Item {
- if(!release)return item;const out={...item};
+ if(!release||item.editorial)return item;const out={...item};
  const patch={title:release.title,summary:release.summary,series:release.series,productLine:release.productLine,manufacturer:release.manufacturer,productType:release.productType,majorClass:release.majorClass,category:release.category,image:release.image,images:[...new Set([release.image,...item.images||[],item.image].filter(Boolean))].slice(0,10),...(release.releaseDate?{releaseDate:release.releaseDate,year:release.releaseDate.slice(0,4)}:{}),...(release.volume?{wave:String(release.volume)}:{})};
  for(const [k,v]of Object.entries(patch))if(!manualField(item,k))(out as any)[k]=v;
  if(out.title!==item.title)out.aliases=[...new Set([...(item.aliases||[]),item.title])].slice(0,100);

@@ -22,7 +22,7 @@ export function catalogueEvent(item:Item){
  return canonicalEvent(currentEditorial(item)?item.event||'':activityName(item));
 }
 export function catalogueV6Facts(item:Item):Item {
- if(item.origin==='doujin'||productClass(item)==='同人')return item;
+ if(item.origin==='doujin'||productClass(item)==='同人'||item.editorial)return item;
  const out={...item},major=productClass(item),work=canonicalWork(resolvedSeries(item),item.title);
  const patch:Partial<Item>={series:work};
  if(item.manufacturer)patch.manufacturer=canonicalMaker(item.manufacturer);
