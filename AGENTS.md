@@ -1,5 +1,7 @@
 # HobbyLib 工作入口
 
+最新执行：V5模块与身份修正，按 [当前Prompt](docs/NEXT_TASK.md) 和 [13项反馈](docs/PILOT_FEEDBACK_V5.md) 执行；V4已完成状态为历史基线。
+
 1. 先读 README.md、docs/NEXT_TASK.md、docs/PROGRESS.md。NEXT_TASK.md 是当前阶段唯一完整执行 Prompt；历史报告不能覆盖用户最新指令。
 2. 最新V4已完成用户11项反馈规则修正与原200条扩展运行；先读docs/RECOGNITION_V4.md和research/pilot-v4-20261031/REPORT.md。300条全有阶段结果，当前34条新样本缺图、81组仅历史证据，不能声称全量verified。同人暂排除，旧认可/失效资料不重复复核，生产不改；不要重跑历史已交付任务。当前范围以docs/NEXT_TASK.md为准。
 3. GitHub 提交不等于 Sites 发布或数据库同步。保留 .openai/hosting.json 的项目身份、DB 绑定及访问权限；运行逻辑未变且已上线时不重复发布。
