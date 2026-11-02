@@ -1,0 +1,2499 @@
+{
+  "jobs": [
+    {
+      "key": "media-volumes:CD Fate song material 完全生産限定盤",
+      "kind": "media-volumes",
+      "label": "CD Fate song material 完全生産限定盤",
+      "query": "CD Fate song material 完全生産限定盤 商品情報 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P037"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-32659-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "media-volumes:劇場版「Fate",
+      "kind": "media-volumes",
+      "label": "劇場版「Fate",
+      "query": "劇場版「Fate 商品情報 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P038",
+        "P041"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/128074141",
+        "https://www.suruga-ya.jp/product/other/128071078"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "book-volumes:Fate/Zero material フェイト",
+      "kind": "book-volumes",
+      "label": "Fate/Zero material フェイト",
+      "query": "Fate/Zero material フェイト 単行本 シリーズ 出版社",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P044"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/j1245635836"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "media-volumes:劇場版 Fate",
+      "kind": "media-volumes",
+      "label": "劇場版 Fate",
+      "query": "劇場版 Fate 商品情報 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P045",
+        "P251"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/128078490",
+        "https://www.suruga-ya.jp/product/detail/428071710"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "chaldea-ace",
+      "kind": "book-volumes",
+      "label": "カルデアエース",
+      "query": "カルデアエース 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P052"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321808000529",
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-012459-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "periodical-volumes:ねんどろいどコンプリートファイル[ホビージャパン]",
+      "kind": "periodical-volumes",
+      "label": "ねんどろいどコンプリートファイル[ホビージャパン]",
+      "query": "ねんどろいどコンプリートファイル[ホビージャパン] バックナンバー 出版社",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P054"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=BOK-6003-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "media-volumes:CD Fate",
+      "kind": "media-volumes",
+      "label": "CD Fate",
+      "query": "CD Fate 商品情報 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P057",
+        "P068"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-26443-R",
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-39694-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "periodical-volumes:劇場版「Fate",
+      "kind": "periodical-volumes",
+      "label": "劇場版「Fate",
+      "query": "劇場版「Fate バックナンバー 出版社",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P058"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-028239-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "periodical-volumes:<<アニメ・漫画系書籍>> TYPE-MOONエース Special (コンプティーク 2013年8月号付録)",
+      "kind": "periodical-volumes",
+      "label": "<<アニメ・漫画系書籍>> TYPE-MOONエース Special (コンプティーク 2013年8月号付録)",
+      "query": "<<アニメ・漫画系書籍>> TYPE-MOONエース Special (コンプティーク 2013年8月号付録) バックナンバー 出版社",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P059"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/185030546"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "publication:fatelosteinherjar:fatelosteinherjar極光のアスラウグ亜種二連聖杯戦争書籍",
+      "kind": "book-volumes",
+      "label": "Fate:Lost Einherjar 極光のアスラウグ 亜種二連聖杯戦争 (書籍)",
+      "query": "Fate:Lost Einherjar 極光のアスラウグ 亜種二連聖杯戦争 (書籍) 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P062"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-032171-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "book-volumes:Return to AVALON -武内崇 Fate ART WORKS-",
+      "kind": "book-volumes",
+      "label": "Return to AVALON -武内崇 Fate ART WORKS-",
+      "query": "Return to AVALON -武内崇 Fate ART WORKS- 単行本 シリーズ 出版社",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P063"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-013999-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "media-volumes:CD 春奈るな / 空は高く風は歌う アニメ盤 DVD付 アニメ「Fate",
+      "kind": "media-volumes",
+      "label": "CD 春奈るな / 空は高く風は歌う アニメ盤 DVD付 アニメ「Fate",
+      "query": "CD 春奈るな / 空は高く風は歌う アニメ盤 DVD付 アニメ「Fate 商品情報 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P064"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-09566-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "publication:fatekaleidliner:プリズマ☆イリヤ2weiツヴァイコミックス限定版ねんどろいどぷち付属書籍",
+      "kind": "book-volumes",
+      "label": "プリズマ☆イリヤ 2wei!(ツヴァイ!) コミックス 限定版 ねんどろいど ぷち付属(書籍)",
+      "query": "プリズマ☆イリヤ 2wei!(ツヴァイ!) コミックス 限定版 ねんどろいど ぷち付属(書籍) 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P065"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=BOK-3676-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "media-volumes:CD Kalafina(カラフィナ)",
+      "kind": "media-volumes",
+      "label": "CD Kalafina(カラフィナ)",
+      "query": "CD Kalafina(カラフィナ) 商品情報 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P067"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-09107-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "periodical-volumes:Fate",
+      "kind": "periodical-volumes",
+      "label": "Fate",
+      "query": "Fate バックナンバー 出版社",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P070"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-006306-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/EXTRA",
+      "kind": "game-editions",
+      "label": "Fate/EXTRA",
+      "query": "Fate/EXTRA 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P071",
+        "P130",
+        "P140",
+        "P146",
+        "P157",
+        "P158",
+        "P174"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/177002870",
+        "https://www.amiami.jp/top/detail/detail?scode=TVG-PSP-0979-R",
+        "https://www.suruga-ya.jp/product/detail/177005005",
+        "https://www.suruga-ya.jp/product/detail/177300313",
+        "https://www.suruga-ya.jp/product/detail/177004910",
+        "https://www.suruga-ya.jp/product/detail/177003218",
+        "https://www.suruga-ya.jp/product/detail/177001389"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "line:fategrandorder:fategrandorderチケットライクコレクション",
+      "kind": "collectible-lineup",
+      "label": "チケットライクコレクション",
+      "query": "チケットライクコレクション 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P075",
+        "P078",
+        "P095",
+        "P107",
+        "P120"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/892791819",
+        "https://www.suruga-ya.jp/product/detail/892791814",
+        "https://www.suruga-ya.jp/product/detail/892791812",
+        "https://www.suruga-ya.jp/product/detail/892791820",
+        "https://www.suruga-ya.jp/product/detail/892791815"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "event:overthesamesky",
+      "kind": "event-catalogue",
+      "label": "OVER THE SAME SKY",
+      "query": "OVER THE SAME SKY グッズ 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P076",
+        "P083",
+        "P090",
+        "P098",
+        "P101",
+        "P104",
+        "P105",
+        "P125"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/892715148",
+        "https://www.suruga-ya.jp/product/detail/892715200",
+        "https://www.suruga-ya.jp/product/detail/892715180",
+        "https://www.suruga-ya.jp/product/detail/892715198",
+        "https://www.suruga-ya.jp/product/detail/892715207",
+        "https://www.suruga-ya.jp/product/detail/892715203",
+        "https://www.suruga-ya.jp/product/detail/892715185",
+        "https://www.suruga-ya.jp/product/detail/892715217"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "event:カルデアサテライトステーション",
+      "kind": "event-catalogue",
+      "label": "カルデア・サテライトステーション",
+      "query": "カルデア・サテライトステーション グッズ 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P077"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://jp.mercari.com/item/m19262081149"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:826c93ff7793e5eb",
+      "kind": "prize-lineup",
+      "label": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial",
+      "query": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P081",
+        "P088",
+        "P216",
+        "P254"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/892504655",
+        "https://www.suruga-ya.jp/product/detail/601801953",
+        "https://www.suruga-ya.jp/product/detail/602928954",
+        "https://www.suruga-ya.jp/product/detail/608924613"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "event:servantartchronicle最終再臨展",
+      "kind": "event-catalogue",
+      "label": "Servant Art Chronicle 最終再臨展",
+      "query": "Servant Art Chronicle 最終再臨展 グッズ 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P084",
+        "P114",
+        "P122",
+        "P183"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/p1245049512",
+        "https://www.suruga-ya.jp/product/detail/892724452",
+        "https://auctions.yahoo.co.jp/jp/auction/v1247176965",
+        "https://auctions.yahoo.co.jp/jp/auction/m1246707508"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "line:Fate/Grand Order 宝具コレクション",
+      "kind": "collectible-lineup",
+      "label": "Fate/Grand Order 宝具コレクション",
+      "query": "Fate/Grand Order 宝具コレクション ラインナップ 全種 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P091"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/601220287"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "goods:fate综合:ラバーストラップ:一番くじプレミアムfateシリーズ10周年記念第二弾セイバーspecial",
+      "kind": "collectible-lineup",
+      "label": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial ラバーストラップ",
+      "query": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial ラバーストラップ 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P103",
+        "P106"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/608275686",
+        "https://www.suruga-ya.jp/product/detail/608275680"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "goods:fate综合:ラバーストラップ:一番くじfateシリーズ10周年記念第一弾タイプムーンエースspecial",
+      "kind": "collectible-lineup",
+      "label": "一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial ラバーストラップ",
+      "query": "一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial ラバーストラップ 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P108"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/608219178"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "event:カルデアサテライトステーション2026",
+      "kind": "event-catalogue",
+      "label": "カルデア・サテライトステーション 2026",
+      "query": "カルデア・サテライトステーション 2026 グッズ 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P110"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/561773920"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:2ac38b92d6b87b97",
+      "kind": "prize-lineup",
+      "label": "一番くじ 劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+      "query": "一番くじ 劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P116",
+        "P274"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/860022836",
+        "https://www.suruga-ya.jp/product/detail/508229017"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "fsf:curtain:mini:缶バッジ",
+      "kind": "collectible-lineup",
+      "label": "カーテン魂 ミニキャラ 缶バッジ",
+      "query": "カーテン魂 ミニキャラ 缶バッジ 商品一覧 特典 公式",
+      "status": "partial-official-image",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P121"
+      ],
+      "reason": "官方确认7个装BOX；单款名称待图像与资料相互印证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/889207635",
+        "https://www.curtain-damashii.com/item/badgebox_fatesf02/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/unlimited codes",
+      "kind": "game-editions",
+      "label": "Fate/unlimited codes",
+      "query": "Fate/unlimited codes 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P129",
+        "P148",
+        "P155",
+        "P159",
+        "P160",
+        "P161",
+        "P170",
+        "P178"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/277001196",
+        "https://www.suruga-ya.jp/product/detail/144006772",
+        "https://www.suruga-ya.jp/product/detail/144900062",
+        "https://www.suruga-ya.jp/product/other/144004972",
+        "https://www.suruga-ya.jp/product/detail/177001131",
+        "https://www.suruga-ya.jp/product/detail/144012234",
+        "https://www.suruga-ya.jp/product/detail/144011519",
+        "https://www.suruga-ya.jp/product/detail/144005483"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/tiger colosseum",
+      "kind": "game-editions",
+      "label": "Fate/tiger colosseum",
+      "query": "Fate/tiger colosseum 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P131",
+        "P141",
+        "P150",
+        "P153",
+        "P154",
+        "P165",
+        "P168"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/177012508",
+        "https://www.suruga-ya.jp/product/detail/277000873",
+        "https://www.suruga-ya.jp/product/detail/277003566",
+        "https://www.suruga-ya.jp/product/detail/177300169",
+        "https://www.suruga-ya.jp/product/detail/277300004",
+        "https://www.suruga-ya.jp/product/detail/177900361",
+        "https://www.suruga-ya.jp/product/detail/177010235"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/stay night",
+      "kind": "game-editions",
+      "label": "Fate/stay night",
+      "query": "Fate/stay night 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P132",
+        "P142",
+        "P149",
+        "P156",
+        "P171"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/other/105000109",
+        "https://www.suruga-ya.jp/product/detail/105900392",
+        "https://www.suruga-ya.jp/product/detail/105006625",
+        "https://www.suruga-ya.jp/product/detail/144006888",
+        "https://www.suruga-ya.jp/product/detail/144003777"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/kaleid liner",
+      "kind": "game-editions",
+      "label": "Fate/kaleid liner",
+      "query": "Fate/kaleid liner 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P133"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/104900387"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/EXTRA Record",
+      "kind": "game-editions",
+      "label": "Fate/EXTRA Record",
+      "query": "Fate/EXTRA Record 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P134",
+        "P139"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/110002318",
+        "https://www.suruga-ya.jp/product/detail/112000280"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/hollow ataraxia",
+      "kind": "game-editions",
+      "label": "Fate/hollow ataraxia",
+      "query": "Fate/hollow ataraxia 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P135",
+        "P136",
+        "P143",
+        "P162"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/105001699",
+        "https://www.suruga-ya.jp/product/detail/105001547",
+        "https://www.suruga-ya.jp/product/other/105000470",
+        "https://www.suruga-ya.jp/product/detail/205001752"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/EXTRA CCC",
+      "kind": "game-editions",
+      "label": "Fate/EXTRA CCC",
+      "query": "Fate/EXTRA CCC 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P147",
+        "P151",
+        "P172",
+        "P179"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/other/177002437",
+        "https://www.suruga-ya.jp/product/detail/177005116",
+        "https://www.suruga-ya.jp/product/detail/277002437",
+        "https://www.suruga-ya.jp/product/detail/177003728"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "game:Fate/Zero",
+      "kind": "game-editions",
+      "label": "Fate/Zero",
+      "query": "Fate/Zero 製品情報 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P164"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/177012509"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:POP UP PARADE Fate/stay night [Heaven’s Feel] セイバーオルタ 完成品フィギュア",
+      "kind": "manufacturer-product",
+      "label": "POP UP PARADE Fate/stay night [Heaven’s Feel] セイバーオルタ 完成品フィギュア",
+      "query": "POP UP PARADE Fate/stay night [Heaven’s Feel] セイバーオルタ 完成品フィギュア 公式 商品情報 画像",
+      "status": "partial-official-product",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P184"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-130819-R",
+        "https://www.goodsmile.info/ja/product/11642/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:ねんどろいど Fate/Grand Order セイバー/千子村正",
+      "kind": "manufacturer-product",
+      "label": "ねんどろいど Fate/Grand Order セイバー/千子村正",
+      "query": "ねんどろいど Fate/Grand Order セイバー/千子村正 公式 商品情報 画像",
+      "status": "partial-official-product",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P185"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-134398-R",
+        "https://www.goodsmile.info/ja/product/12055/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:f56325028ed930b4",
+      "kind": "prize-lineup",
+      "label": "一番くじ Fate/Apocrypha(フェイト/アポクリファ) PART2",
+      "query": "一番くじ Fate/Apocrypha(フェイト/アポクリファ) PART2 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P186"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/x1247154788"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:ねんどろいど 劇場版Fate/kaleid liner プリズマ☆イリヤ イリヤスフィール・フォン・アインツベルン",
+      "kind": "manufacturer-product",
+      "label": "ねんどろいど 劇場版Fate/kaleid liner プリズマ☆イリヤ イリヤスフィール・フォン・アインツベルン",
+      "query": "ねんどろいど 劇場版Fate/kaleid liner プリズマ☆イリヤ イリヤスフィール・フォン・アインツベルン 公式 商品情報 画像",
+      "status": "partial-official-product",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P187"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-129815-R",
+        "https://www.goodsmile.info/ja/product/11488/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:figma Fate/Apocrypha “赤”のセイバー[マックスファクトリー]",
+      "kind": "manufacturer-product",
+      "label": "figma Fate/Apocrypha “赤”のセイバー[マックスファクトリー]",
+      "query": "figma Fate/Apocrypha “赤”のセイバー[マックスファクトリー] 公式 商品情報 画像",
+      "status": "partial-official-product",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P188"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-043047-R",
+        "https://www.goodsmile.info/ja/product/7660/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:アッセンブル・ヒロインズ Fate/Grand Order キャスター/シャルロット・コルデー[Summer Queens] 組立フィギュア",
+      "kind": "manufacturer-product",
+      "label": "アッセンブル・ヒロインズ Fate/Grand Order キャスター/シャルロット・コルデー[Summer Queens] 組立フィギュア",
+      "query": "アッセンブル・ヒロインズ Fate/Grand Order キャスター/シャルロット・コルデー[Summer Queens] 組立フィギュア 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P189"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-175212-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 私服ver. 1/7 完成品フィギュア",
+      "kind": "manufacturer-product",
+      "label": "Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 私服ver. 1/7 完成品フィギュア",
+      "query": "Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 私服ver. 1/7 完成品フィギュア 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P192"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-160118-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate Grand Order figma アーチャー ジャンヌ・ダルク",
+      "kind": "manufacturer-product",
+      "label": "Fate Grand Order figma アーチャー ジャンヌ・ダルク",
+      "query": "Fate Grand Order figma アーチャー ジャンヌ・ダルク 公式 商品情報 画像",
+      "status": "partial-official-product",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P193"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/e1244431219",
+        "https://www.goodsmile.info/ja/product/8723/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:figma Fate/stay night [Heaven’s Feel] セイバーオルタ 2.0[マックスファクトリー]",
+      "kind": "manufacturer-product",
+      "label": "figma Fate/stay night [Heaven’s Feel] セイバーオルタ 2.0[マックスファクトリー]",
+      "query": "figma Fate/stay night [Heaven’s Feel] セイバーオルタ 2.0[マックスファクトリー] 公式 商品情報 画像",
+      "status": "partial-official-product",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P194"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-047372-R",
+        "https://www.goodsmile.info/ja/product/8167/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:【特典】Fate/Grand Order バーサーカー/モルガン ノンスケールフィギュア (アニプレックスオンライン限定)[アニプレックス]",
+      "kind": "manufacturer-product",
+      "label": "【特典】Fate/Grand Order バーサーカー/モルガン ノンスケールフィギュア (アニプレックスオンライン限定)[アニプレックス]",
+      "query": "【特典】Fate/Grand Order バーサーカー/モルガン ノンスケールフィギュア (アニプレックスオンライン限定)[アニプレックス] 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P195"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-207822-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:FATE: THE WINX SAGA Q posket-TERRA- (プライズ)[BANDAI SPIRITS]",
+      "kind": "manufacturer-product",
+      "label": "FATE: THE WINX SAGA Q posket-TERRA- (プライズ)[BANDAI SPIRITS]",
+      "query": "FATE: THE WINX SAGA Q posket-TERRA- (プライズ)[BANDAI SPIRITS] 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P196"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183188-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:FGO Fate ジャンヌ・ダルク〔オルタ〕 ねんどろいど フィギュア",
+      "kind": "manufacturer-product",
+      "label": "FGO Fate ジャンヌ・ダルク〔オルタ〕 ねんどろいど フィギュア",
+      "query": "FGO Fate ジャンヌ・ダルク〔オルタ〕 ねんどろいど フィギュア 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P197"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://jp.mercari.com/item/m10029991291"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "image:4e2092604cecfe8e",
+      "label": "キャラグミン Fate/stay night セイバー",
+      "kind": "image-only",
+      "query": "キャラグミン Fate/stay night セイバー 画像",
+      "required": [
+        "images"
+      ],
+      "seriesExpansion": false,
+      "sampleIds": [
+        "P198"
+      ],
+      "status": "image-needed-no-series-expansion",
+      "reason": "GK仅检索图片，不扩展系列",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-193241-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:ねんどろいど Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕[グッドスマイルカンパニー]",
+      "kind": "manufacturer-product",
+      "label": "ねんどろいど Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕[グッドスマイルカンパニー]",
+      "query": "ねんどろいど Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕[グッドスマイルカンパニー] 公式 商品情報 画像",
+      "status": "partial-official-product",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P199"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-030084-R",
+        "https://www.goodsmile.info/ja/product/6426/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:7009d3ce7cf1ed17",
+      "kind": "prize-lineup",
+      "label": "一番くじ Fate/Grand Order",
+      "query": "一番くじ Fate/Grand Order 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P201"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/1241902494"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:figma Fate/Grand Order セイバー/沖田総司 霊基再臨ver.",
+      "kind": "manufacturer-product",
+      "label": "figma Fate/Grand Order セイバー/沖田総司 霊基再臨ver.",
+      "query": "figma Fate/Grand Order セイバー/沖田総司 霊基再臨ver. 公式 商品情報 画像",
+      "status": "partial-official-product",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P202"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-125442-R",
+        "https://www.goodsmile.info/ja/product/10965/"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate/stay night 遠坂凛 ~15th Celebration Dress Ver.~ 1/7 完成品フィギュア (Fate/stay night セイバー 遠坂凛 間桐桜 15th CelebrationDress Premium Box 1/7同梱品)",
+      "kind": "manufacturer-product",
+      "label": "Fate/stay night 遠坂凛 ~15th Celebration Dress Ver.~ 1/7 完成品フィギュア (Fate/stay night セイバー 遠坂凛 間桐桜 15th CelebrationDress Premium Box 1/7同梱品)",
+      "query": "Fate/stay night 遠坂凛 ~15th Celebration Dress Ver.~ 1/7 完成品フィギュア (Fate/stay night セイバー 遠坂凛 間桐桜 15th CelebrationDress Premium Box 1/7同梱品) 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P203"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-149879-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:ねんどろいど Fate/Grand Order バーサーカー/モルガン",
+      "kind": "manufacturer-product",
+      "label": "ねんどろいど Fate/Grand Order バーサーカー/モルガン",
+      "query": "ねんどろいど Fate/Grand Order バーサーカー/モルガン 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P204"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-193260-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate/Grand Order マシュ・キリエライト 1/7 完成品フィギュア[アルター]",
+      "kind": "manufacturer-product",
+      "label": "Fate/Grand Order マシュ・キリエライト 1/7 完成品フィギュア[アルター]",
+      "query": "Fate/Grand Order マシュ・キリエライト 1/7 完成品フィギュア[アルター] 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P206"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-041218-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:2cf05064df3b5050",
+      "kind": "prize-lineup",
+      "label": "一番くじ fate アサシン/ニトクリス きゅんキャラ フィギュア",
+      "query": "一番くじ fate アサシン/ニトクリス きゅんキャラ フィギュア 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P207"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/j1214031474"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate/Grand Order キャスター エレナ・ブラヴァツキー 通常版 アマクニ AMAKUNI 1/7スケールフィギュア",
+      "kind": "manufacturer-product",
+      "label": "Fate/Grand Order キャスター エレナ・ブラヴァツキー 通常版 アマクニ AMAKUNI 1/7スケールフィギュア",
+      "query": "Fate/Grand Order キャスター エレナ・ブラヴァツキー 通常版 アマクニ AMAKUNI 1/7スケールフィギュア 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P208"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/j1108156013"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:フィギュア ConoFig ルーラー/ジャンヌ・ダルク Fate/Grand Order ANIPLEX",
+      "kind": "manufacturer-product",
+      "label": "フィギュア ConoFig ルーラー/ジャンヌ・ダルク Fate/Grand Order ANIPLEX",
+      "query": "フィギュア ConoFig ルーラー/ジャンヌ・ダルク Fate/Grand Order ANIPLEX 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P209"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/u1240135397"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate Grand Order ランサーアルトリア フィギュア FGO",
+      "kind": "manufacturer-product",
+      "label": "Fate Grand Order ランサーアルトリア フィギュア FGO",
+      "query": "Fate Grand Order ランサーアルトリア フィギュア FGO 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P210"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/m1244427082"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:イージーエイト モードレッド:セーラー服ver. 1/7 Fate/Grand Order フィギュア ゲームキャラクター",
+      "kind": "manufacturer-product",
+      "label": "イージーエイト モードレッド:セーラー服ver. 1/7 Fate/Grand Order フィギュア ゲームキャラクター",
+      "query": "イージーエイト モードレッド:セーラー服ver. 1/7 Fate/Grand Order フィギュア ゲームキャラクター 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P211"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/c1247028027"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:ねんどろいど Fate/Grand Order アサシン/酒呑童子[グッドスマイルカンパニー]",
+      "kind": "manufacturer-product",
+      "label": "ねんどろいど Fate/Grand Order アサシン/酒呑童子[グッドスマイルカンパニー]",
+      "query": "ねんどろいど Fate/Grand Order アサシン/酒呑童子[グッドスマイルカンパニー] 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P212"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-120734-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:ねんどろいど Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕新宿Ver.[グッドスマイルカンパニー]",
+      "kind": "manufacturer-product",
+      "label": "ねんどろいど Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕新宿Ver.[グッドスマイルカンパニー]",
+      "query": "ねんどろいど Fate/Grand Order アヴェンジャー/ジャンヌ・ダルク〔オルタ〕新宿Ver.[グッドスマイルカンパニー] 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P213"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-050759-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate/Grand Order ぬーどるストッパーフィギュア-フォーリナー/アビゲイル・ウィリアムズ- (プライズ)[フリュー]",
+      "kind": "manufacturer-product",
+      "label": "Fate/Grand Order ぬーどるストッパーフィギュア-フォーリナー/アビゲイル・ウィリアムズ- (プライズ)[フリュー]",
+      "query": "Fate/Grand Order ぬーどるストッパーフィギュア-フォーリナー/アビゲイル・ウィリアムズ- (プライズ)[フリュー] 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P214"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-135186-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate/Grand Order ルーラー/スカサハ=スカディ[Summer Queens] 1/8 完成品フィギュア[アワートレジャー]",
+      "kind": "manufacturer-product",
+      "label": "Fate/Grand Order ルーラー/スカサハ=スカディ[Summer Queens] 1/8 完成品フィギュア[アワートレジャー]",
+      "query": "Fate/Grand Order ルーラー/スカサハ=スカディ[Summer Queens] 1/8 完成品フィギュア[アワートレジャー] 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P215"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-182346-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:2dc5a44f4f9b095e",
+      "kind": "prize-lineup",
+      "label": "一番くじFate EXTRA Last Encore グラス 3種セット",
+      "query": "一番くじFate EXTRA Last Encore グラス 3種セット 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P234"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/g1104238431"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "event:fgofes2018",
+      "kind": "event-catalogue",
+      "label": "FGO Fes.2018",
+      "query": "FGO Fes.2018 グッズ 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P235"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/428066631"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:08ba502fe6a8c873",
+      "kind": "prize-lineup",
+      "label": "一番くじ A2 掛式アートポスター 8本セット 水着ジャンヌ 宮本武蔵 水着ジャンヌオルタ 水着BB XX",
+      "query": "一番くじ A2 掛式アートポスター 8本セット 水着ジャンヌ 宮本武蔵 水着ジャンヌオルタ 水着BB XX 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P236"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/s1235092455"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "publication:ロードエルメロイii世の事件簿:ロードエルメロイii世の事件簿",
+      "kind": "book-volumes",
+      "label": "ロード・エルメロイII世の事件簿",
+      "query": "ロード・エルメロイII世の事件簿 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P237"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/2W7815"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:d517ec9f5b6f850f",
+      "kind": "prize-lineup",
+      "label": "一番くじ 劇場版「Fate/stay night [Heaven’s Feel]",
+      "query": "一番くじ 劇場版「Fate/stay night [Heaven’s Feel] 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P239"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/992042358"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:7d70964bbfd14b31",
+      "kind": "prize-lineup",
+      "label": "一番くじ H555",
+      "query": "一番くじ H555 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P243"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/g1239989228"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "goods:fatestaynight:缶バッジ:一番くじfateシリーズ10周年記念第一弾タイプムーンエースspecial",
+      "kind": "collectible-lineup",
+      "label": "一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial 缶バッジ",
+      "query": "一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial 缶バッジ 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P244"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/871508617"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate/Zero マシュ/オルガマリー/セイバー きゅんキャラわーるど フィギュア まとめ売り セット",
+      "kind": "manufacturer-product",
+      "label": "Fate/Zero マシュ/オルガマリー/セイバー きゅんキャラわーるど フィギュア まとめ売り セット",
+      "query": "Fate/Zero マシュ/オルガマリー/セイバー きゅんキャラわーるど フィギュア まとめ売り セット 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P249"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/b1247073219"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:d4126d6c0838c83a",
+      "kind": "prize-lineup",
+      "label": "一番くじプレミアム★Fate/Zero",
+      "query": "一番くじプレミアム★Fate/Zero 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P252"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/u1246334478"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:KDcolle プリズマ☆イリヤ Licht 名前の無い少女 イリヤ サマーワンピースver. KADOKAWAスペシャルセット 1/7 フィギュア",
+      "kind": "manufacturer-product",
+      "label": "KDcolle プリズマ☆イリヤ Licht 名前の無い少女 イリヤ サマーワンピースver. KADOKAWAスペシャルセット 1/7 フィギュア",
+      "query": "KDcolle プリズマ☆イリヤ Licht 名前の無い少女 イリヤ サマーワンピースver. KADOKAWAスペシャルセット 1/7 フィギュア 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P253"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-159310-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:2cadb4efb707e3c4",
+      "kind": "prize-lineup",
+      "label": "一番くじ Fate/Grand Order BEGHI",
+      "query": "一番くじ Fate/Grand Order BEGHI 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P257"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/p1236918250"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:FGO もちもちマスコット 2個セット 藤丸立香 男女",
+      "kind": "manufacturer-product",
+      "label": "FGO もちもちマスコット 2個セット 藤丸立香 男女",
+      "query": "FGO もちもちマスコット 2個セット 藤丸立香 男女 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P260"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://jp.mercari.com/item/m64854823808"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:ねんどろいどどーる おようふくセット Fate/Grand Order プリテンダー/オベロン 爽やかサマー・プリンスVer.",
+      "kind": "manufacturer-product",
+      "label": "ねんどろいどどーる おようふくセット Fate/Grand Order プリテンダー/オベロン 爽やかサマー・プリンスVer.",
+      "query": "ねんどろいどどーる おようふくセット Fate/Grand Order プリテンダー/オベロン 爽やかサマー・プリンスVer. 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P261"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-171799-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:758bf20de3cc4d76",
+      "kind": "prize-lineup",
+      "label": "一番くじ フィギュア まとめ売り",
+      "query": "一番くじ フィギュア まとめ売り 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P262"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/k1247151715"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "kuji:17aff7ea753c7732",
+      "kind": "prize-lineup",
+      "label": "一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial",
+      "query": "一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial 一番くじ 賞 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "awards",
+        "images",
+        "release"
+      ],
+      "sampleIds": [
+        "P267"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/608919642"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "media-volumes:BD Fate",
+      "kind": "media-volumes",
+      "label": "BD Fate",
+      "query": "BD Fate 商品情報 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P272"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-26355-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:Fate/Grand Order Luminasta “フォーリナー/楊貴妃” (プライズ)",
+      "kind": "manufacturer-product",
+      "label": "Fate/Grand Order Luminasta “フォーリナー/楊貴妃” (プライズ)",
+      "query": "Fate/Grand Order Luminasta “フォーリナー/楊貴妃” (プライズ) 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P273"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-155039-R"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "line:fategrandorder:グリッターcanバッジfategrandordere",
+      "kind": "collectible-lineup",
+      "label": "グリッターCANバッジ Fate/Grand Order E",
+      "query": "グリッターCANバッジ Fate/Grand Order E 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P275",
+        "P278"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/889186966",
+        "https://www.suruga-ya.jp/product/detail/889186975"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "event:ワダアルコ展",
+      "kind": "event-catalogue",
+      "label": "ワダアルコ展",
+      "query": "ワダアルコ展 グッズ 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P276"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/j1245776835"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "line:fatestrangefake:ブシロードスリーブコレクションハイグレードvol5160fatestrangefakeセイバー",
+      "kind": "collectible-lineup",
+      "label": "ブシロード スリーブコレクション ハイグレード Vol.5160 Fate/strange Fake『セイバー』",
+      "query": "ブシロード スリーブコレクション ハイグレード Vol.5160 Fate/strange Fake『セイバー』 商品一覧 特典 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P284"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/604076598"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "fsf:cafe:アクリルスタンド",
+      "label": "Cafe ver. アクリルスタンド",
+      "kind": "collectible-lineup",
+      "query": "Cafe ver. アクリルスタンド 商品一覧 特典 公式",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P285"
+      ],
+      "status": "source-image-conflict",
+      "reason": "挂牌标题写Cafe款；保存的图是金甲Q版，与官方Cafe坐姿等身款不同。可能是店铺图或标题错配，尚不能确认具体产品线。",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/560747708"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:バーソロミュー・ロバーツ なりきり!からあげクンぬいぐるみ 「Fate/Grand Order」 Loppi・HMV限定",
+      "kind": "manufacturer-product",
+      "label": "バーソロミュー・ロバーツ なりきり!からあげクンぬいぐるみ 「Fate/Grand Order」 Loppi・HMV限定",
+      "query": "バーソロミュー・ロバーツ なりきり!からあげクンぬいぐるみ 「Fate/Grand Order」 Loppi・HMV限定 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P287"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/646227517"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "event:fgofes2017",
+      "kind": "event-catalogue",
+      "label": "FGO Fes.2017",
+      "query": "FGO Fes.2017 グッズ 一覧 公式",
+      "status": "partial-historical-source",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P291"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/q1246537579"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:グッドスマイルカンパニー SMILE 600 Fate/stay night collective memories セイバー(剣)",
+      "kind": "manufacturer-product",
+      "label": "グッドスマイルカンパニー SMILE 600 Fate/stay night collective memories セイバー(剣)",
+      "query": "グッドスマイルカンパニー SMILE 600 Fate/stay night collective memories セイバー(剣) 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P292"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/p1237796378"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "figure:ALTER(アルター) Fate/stay night フェイト/ステイナイト 魔法使いの夏休み 1/8スケール PVC製塗装済完成品 遠坂 凛 Summer Ver. (063111)",
+      "kind": "manufacturer-product",
+      "label": "ALTER(アルター) Fate/stay night フェイト/ステイナイト 魔法使いの夏休み 1/8スケール PVC製塗装済完成品 遠坂 凛 Summer Ver. (063111)",
+      "query": "ALTER(アルター) Fate/stay night フェイト/ステイナイト 魔法使いの夏休み 1/8スケール PVC製塗装済完成品 遠坂 凛 Summer Ver. (063111) 公式 商品情報 画像",
+      "status": "partial-historical-source",
+      "required": [
+        "identity",
+        "body-images",
+        "manufacturer",
+        "release",
+        "contents"
+      ],
+      "sampleIds": [
+        "P294"
+      ],
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://auctions.yahoo.co.jp/jp/auction/t1247169335"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    },
+    {
+      "key": "goods:fatesamurairemnant:缶バッジ:fatesamurairemnant2周年記念オンラインくじ",
+      "label": "Fate/Samurai Remnant 2周年記念オンラインくじ 缶バッジ",
+      "kind": "collectible-lineup",
+      "query": "Fate/Samurai Remnant 2周年記念オンラインくじ 缶バッジ 商品一覧 特典 公式",
+      "required": [
+        "members",
+        "scope",
+        "images"
+      ],
+      "sampleIds": [
+        "P300"
+      ],
+      "status": "needs-source",
+      "reason": "系列特征已识别，仍需完成对应官方范围的查证",
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/889064328"
+      ],
+      "unattended": false,
+      "budget": {
+        "maxSearchQueries": 3,
+        "maxSourcePages": 8,
+        "maxMinutes": 3
+      }
+    }
+  ],
+  "productScopeGaps": [
+    {
+      "id": "v5-ba177d70586f95b3a2",
+      "title": "Fate/Samurai Remnant ビックカメラグループ限定セット B2タペストリー アクリルスタンド",
+      "sources": [
+        "https://www.gamecity.ne.jp/fate-sr/"
+      ],
+      "reason": "shop-configuration-unresolved"
+    },
+    {
+      "id": "v5-baa287bc54ce057992",
+      "title": "Fate/Samurai Remnant GAMECITYセット デスクマット(30×60cm) Type.A デスクマット(30×60cm) Type.B",
+      "sources": [
+        "https://www.gamecity.ne.jp/fate-sr/"
+      ],
+      "reason": "shop-configuration-unresolved"
+    },
+    {
+      "id": "v5-cc0c429f38253282f2",
+      "title": "Fate/Samurai Remnant ebten 3Dクリスタルセット 3Dクリスタル1 3Dクリスタル2",
+      "sources": [
+        "https://www.gamecity.ne.jp/fate-sr/"
+      ],
+      "reason": "shop-configuration-unresolved"
+    },
+    {
+      "id": "v5-cf70eebb96e3ba2187",
+      "title": "Fate/Samurai Remnant ゲーマーズ B2タペストリー アクリルキーホルダー",
+      "sources": [
+        "https://www.gamecity.ne.jp/fate-sr/"
+      ],
+      "reason": "shop-configuration-unresolved"
+    },
+    {
+      "id": "v5-0cf5602fca5f631828",
+      "title": "Fate/Samurai Remnant WonderGOO オリジナル限定セット B2タペストリー キャンバスアート",
+      "sources": [
+        "https://www.gamecity.ne.jp/fate-sr/"
+      ],
+      "reason": "shop-configuration-unresolved"
+    }
+  ],
+  "imageMissingNew200": [
+    "P037",
+    "P048",
+    "P050",
+    "P051",
+    "P054",
+    "P056",
+    "P057",
+    "P061",
+    "P064",
+    "P065",
+    "P066",
+    "P067",
+    "P068",
+    "P129",
+    "P131",
+    "P141",
+    "P189",
+    "P192",
+    "P195",
+    "P196",
+    "P198",
+    "P203",
+    "P204",
+    "P206",
+    "P212",
+    "P213",
+    "P214",
+    "P215",
+    "P253",
+    "P261",
+    "P266",
+    "P272",
+    "P273"
+  ],
+  "sourceConflicts": [
+    {
+      "id": "v3-280eebfe5aa65d41a6",
+      "sampleIds": [
+        "P285"
+      ],
+      "imageHash": "8926d07bcbb76fbaf14efc9b289765524ba39d8cc3c830806f643c97c4cf630f",
+      "seriesKey": "fsf:cafe:アクリルスタンド",
+      "referenceImageHash": "5655b248b8b45d53d0456a3f0fb68f41ba168125f17d892c1202039cd288c3f6",
+      "method": "assistant-visual-comparison",
+      "reason": "挂牌标题写Cafe款；保存的图是金甲Q版，与官方Cafe坐姿等身款不同。可能是店铺图或标题错配，尚不能确认具体产品线。",
+      "unattended": false
+    }
+  ]
+}

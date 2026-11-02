@@ -1,0 +1,57 @@
+{
+  "at": "2026-11-02T02:29:55.532Z",
+  "inputRows": 300,
+  "originalInputHashesUnchanged": true,
+  "frozenArtifacts": [
+    {
+      "name": "manifest.json",
+      "sha256": "e68ef395f7204a9e041bbfb948e47e4a7aabe957788415b7c9771092fccddda9",
+      "currentSha256": "e68ef395f7204a9e041bbfb948e47e4a7aabe957788415b7c9771092fccddda9"
+    },
+    {
+      "name": "baseline-30.json",
+      "sha256": "51a7bb32732afb05d41d0afcf91da5c8ed01f05ff7d0274e9c3ad77b37d49e55",
+      "currentSha256": "51a7bb32732afb05d41d0afcf91da5c8ed01f05ff7d0274e9c3ad77b37d49e55"
+    },
+    {
+      "name": "proposals-30.json",
+      "sha256": "b1f32c515a466bbec066a12c59920bea487c8c6a96a39326a519fcfb2f601c09",
+      "currentSha256": "b1f32c515a466bbec066a12c59920bea487c8c6a96a39326a519fcfb2f601c09"
+    },
+    {
+      "name": "evidence.json",
+      "sha256": "b093fc12d62fb692acb6068ba9433d14d24cb9f74f2dfc5fea2039f49aae58fe",
+      "currentSha256": "b093fc12d62fb692acb6068ba9433d14d24cb9f74f2dfc5fea2039f49aae58fe"
+    },
+    {
+      "name": "catalogues.json",
+      "sha256": "642047d0209bde2260e46a2020670157cf56fdc96959c6e39ffb802821f5d565",
+      "currentSha256": "642047d0209bde2260e46a2020670157cf56fdc96959c6e39ffb802821f5d565"
+    }
+  ],
+  "previousModelHash": "ba26f66a01a10d7fb2400b1c2ac8c7fb4dcb5f00df0a3df8bf43aa8d1f3a0150",
+  "outputHash": "26358e1cd69a21b06aa35a85e421ffde68ccf6e2cba41d17a204e03095b064fb",
+  "originalOffersPreserved": 293,
+  "restoredGkOffers": 1,
+  "localImagesHashChecked": 1780,
+  "tests": {
+    "command": "node --test tools/recognition-v5/test.mjs tools/recognition-v4/test.mjs tools/recognition/test.mjs",
+    "total": 47,
+    "passed": 47,
+    "newV5": 17,
+    "historicalRegression": 30
+  },
+  "browserChecks": [
+    "FGO direct book/card/event/goods modules; no nested FGO alias",
+    "comic alias consolidation and preserved turas 23 volumes",
+    "Fate toys: articulated -> maker -> figma/Nendoroid",
+    "Pikuriru vol.5: separate 10 singles and 1 BOX leaf",
+    "Samurai merged P031/P176/P128 offers with PS5 and Switch variants",
+    "P069 old official ID redirects to one ALBUM page",
+    "Samurai detail images loaded with nonzero naturalWidth"
+  ],
+  "independentAccuracy": null,
+  "unattendedVisualInference": false,
+  "productionWrites": 0,
+  "productionDeploys": 0
+}

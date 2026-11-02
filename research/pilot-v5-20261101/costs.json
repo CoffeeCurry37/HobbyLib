@@ -1,0 +1,13 @@
+{
+  "scope": "V5 capture receipts only; excludes prior V3/V4 requests and unavailable chat/search billing",
+  "batches": 8,
+  "observations": 69,
+  "requests": 67,
+  "cacheHits": 2,
+  "captured": 69,
+  "unavailable": 0,
+  "bytesDownloaded": 24334283,
+  "paidModelApiCalls": 0,
+  "modelApiCostUSD": 0,
+  "chatAndWebCostUSD": null
+}

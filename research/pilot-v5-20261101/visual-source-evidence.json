@@ -1,0 +1,129 @@
+{
+  "method": "assistant-visual-transcription-of-official-image",
+  "unattended": false,
+  "note": "Only printed role/master labels and the arrows pairing two sides were transcribed. A shared lineup image is a reference, not a unique member image or a duplicate key.",
+  "lineups": [
+    {
+      "key": "fsf:cafe:卡片",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000949.000069812.html",
+      "imageUrl": "https://prcdn.freetls.fastly.net/release_image/69812/949/69812-949-fa3abf14fcdfb2c43b99b6982f1e8e64-800x800.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "sha256": "71d65d89ee889ffd59647f2c4a20985b630edfcdda92915f634abec526bbf26a",
+      "expected": 3,
+      "members": [
+        {
+          "label": "セイバー",
+          "printed": "Saber",
+          "position": "left"
+        },
+        {
+          "label": "アーチャー",
+          "printed": "Archer",
+          "position": "center"
+        },
+        {
+          "label": "ランサー",
+          "printed": "Lancer",
+          "position": "right"
+        }
+      ]
+    },
+    {
+      "key": "fsf:atfes:aurora-cards",
+      "imageUrl": "https://shopping.atfes.com/s3/skiyaki/uploads/image/file/246345/fake_auroracard_1.jpg",
+      "sha256": "0cbbd3bd47e850d0a295a13c76090d09fdbc13292f45b17fd9d1f978af80987d",
+      "expected": 7,
+      "members": [
+        {
+          "label": "セイバー ＆ アヤカ・サジョウ",
+          "printed": [
+            "CLASS:SABER",
+            "AYAKA SAJOU"
+          ],
+          "position": "left pair"
+        },
+        {
+          "label": "アーチャー ＆ ティーネ・チェルク",
+          "printed": [
+            "CLASS:ARCHER",
+            "TINE CHELC"
+          ],
+          "position": "top center pair"
+        },
+        {
+          "label": "ランサー ＆ 銀狼の合成獣",
+          "printed": [
+            "CLASS:LANCER",
+            "SILVER WOLF CHIMERA"
+          ],
+          "position": "top right pair"
+        },
+        {
+          "label": "ライダー ＆ 繰丘椿",
+          "printed": [
+            "CLASS:RIDER",
+            "TSUBAKI KURUOKA"
+          ],
+          "position": "middle center pair"
+        },
+        {
+          "label": "キャスター ＆ オーランド・リーヴ",
+          "printed": [
+            "CLASS:CASTER",
+            "ORLANDO REEVE"
+          ],
+          "position": "middle right pair"
+        },
+        {
+          "label": "アサシン ＆ ジェスター・カルトゥーレ",
+          "printed": [
+            "CLASS:ASSASSIN",
+            "JESTER KARTURE"
+          ],
+          "position": "bottom center pair"
+        },
+        {
+          "label": "バーサーカー ＆ フラット・エスカルドス",
+          "printed": [
+            "CLASS:BERSERKER",
+            "FLAT ESCARDOS"
+          ],
+          "position": "bottom right pair"
+        }
+      ]
+    },
+    {
+      "key": "fsf:cafe:アクリルフィギュア",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000949.000069812.html",
+      "imageUrl": "https://prcdn.freetls.fastly.net/release_image/69812/949/69812-949-3604b3b0c96788a85982f8f062f7cd72-800x800.jpg?width=1950&height=1350&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "sha256": "5655b248b8b45d53d0456a3f0fb68f41ba168125f17d892c1202039cd288c3f6",
+      "expected": 3,
+      "members": [
+        {
+          "label": "セイバー",
+          "printed": "SABER",
+          "position": "left"
+        },
+        {
+          "label": "アーチャー",
+          "printed": "ARCHER",
+          "position": "center"
+        },
+        {
+          "label": "ランサー",
+          "printed": "LANCER",
+          "position": "right"
+        }
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "imageHash": "8926d07bcbb76fbaf14efc9b289765524ba39d8cc3c830806f643c97c4cf630f",
+      "seriesKey": "fsf:cafe:アクリルスタンド",
+      "referenceImageHash": "5655b248b8b45d53d0456a3f0fb68f41ba168125f17d892c1202039cd288c3f6",
+      "method": "assistant-visual-comparison",
+      "reason": "挂牌标题写Cafe款；保存的图是金甲Q版，与官方Cafe坐姿等身款不同。可能是店铺图或标题错配，尚不能确认具体产品线。",
+      "unattended": false
+    }
+  ]
+}

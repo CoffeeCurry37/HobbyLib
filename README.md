@@ -1,10 +1,14 @@
 # HobbyLib
 
-最新执行：V5模块与身份修正，按 [当前Prompt](docs/NEXT_TASK.md) 和 [13项反馈](docs/PILOT_FEEDBACK_V5.md) 执行；V4已完成状态为历史基线。
+最新完成：V5模块与商品身份修复。先读 [V5长期记忆](docs/RECOGNITION_V5.md)、[本轮报告](research/pilot-v5-20261101/REPORT.md) 和 [当前Prompt](docs/NEXT_TASK.md)。
 
 个人兴趣商品库与中古商品发现助手。当前网站为 **Collector Radar · 收藏雷达**。
 
-**当前阶段：V4已完成11项反馈规则修正和原200条扩展实验（195识别、5同人排除），六大模块保留；全部300条已有阶段结果。新200中34条仍缺图，81个系列研究组仍需官方补全。正式库和正式Site未改。**
+**当前阶段：V5已处理13项分类反馈并重建原300条，保留收藏雷达模块设计；15次归并、66条官方新目录、47项相关检查通过。新200中33条缺图、P285图文冲突和其他资料缺口仍显式保留。正式库和正式Site未改。**
+
+- [V5报告、结果、成本和剩余缺口](research/pilot-v5-20261101/REPORT.md)
+- [V5全局别名、分类、套装与图文冲突规则](docs/RECOGNITION_V5.md)
+- [本轮13项反馈记录](docs/PILOT_FEEDBACK_V5.md)
 
 - [V4报告、结果与成本](research/pilot-v4-20261031/REPORT.md)
 - [通用触发、来源、去重及资料缺口记忆](docs/RECOGNITION_V4.md)
