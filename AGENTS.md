@@ -1,5 +1,7 @@
 # HobbyLib 工作入口
 
+当前执行：2026-11-02 V6 正式收藏雷达整理，用户已授权更新正式站及已有商品库、安全合并。先读 [当前 Prompt](docs/NEXT_TASK.md) 和 [V6 规范](docs/RECOGNITION_V6.md)。下方 V5 的生产不改限制仅适用于旧阶段；旧成功动作仍禁止重放。尚无 V6 正式写入，实际断点随后更新。
+
 最新完成：V5模块与身份修正。先读 [当前Prompt](docs/NEXT_TASK.md)、[V5记忆](docs/RECOGNITION_V5.md) 和 [本轮报告](research/pilot-v5-20261101/REPORT.md)；V4是历史基线。
 
 1. 先读 README.md、docs/NEXT_TASK.md、docs/PROGRESS.md。NEXT_TASK.md 是当前阶段唯一完整执行 Prompt；历史报告不能覆盖用户最新指令。
