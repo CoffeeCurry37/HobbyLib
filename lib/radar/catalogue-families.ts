@@ -1,4 +1,5 @@
 import {createHash} from 'node:crypto';
+import {officialReleases,officialRelease,applyOfficialRelease} from './official-v6';
 import type {Item,Relation,Prefs} from './types';
 import {createItem,relationKey} from './engine';
 import {bookHierarchy,bookMedium,canonicalBrand,cleanProductTitle} from './catalog';
@@ -40,5 +41,15 @@ export function familyPlan(items:Item[],relations:Relation[],prefs:Prefs,only?:S
   for(const member of members){if(only&&!only.has(member.id))continue;if(spec.type==='kuji'&&relations.some(r=>r.kind==='contains'&&r.toId===member.id&&byId.get(r.fromId)?.kuji?.catalogueGroup))continue;
    const r:Relation={id:'family-link-'+createHash('sha256').update(id+':'+member.id).digest('hex').slice(0,24),fromId:id,toId:member.id,kind:'contains',quantity:1},key=relationKey(r);if(!existing.has(key)&&!dismissed.has(key)){links.push(r);existing.add(key);}
   }
- }return {parents,relations:links};
+ }
+ // Researched official siblings enter the same catalogue as scanned items. No synthetic volume guessing.
+ const activeFamilies=new Set(items.filter(i=>!only||only.has(i.id)).map(i=>officialRelease(i)?.family).filter(Boolean));
+ const existingReleases=new Set(items.map(i=>officialRelease(i)?.key).filter(Boolean));
+ for(const release of officialReleases)if(activeFamilies.has(release.family)&&!existingReleases.has(release.key)){
+  const id=familyId('official-release:'+release.key);if(byId.has(id))continue;
+  const base=createItem(release.title,'',undefined,prefs);
+  const next=applyOfficialRelease({...base,id,kind:'base',origin:'commercial',category:release.category,ownership:'unknown',quantity:0,offers:[]},release);
+  parents.push(next);existingReleases.add(release.key);
+ }
+ return {parents,relations:links};
 }

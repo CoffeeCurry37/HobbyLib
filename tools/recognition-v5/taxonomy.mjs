@@ -1,3 +1,4 @@
+import {publicationNumber,toyPolicy} from '../../lib/radar/catalogue-policy.mjs';
 // Canonical semantic identities are resolved before paths; no sample-number rules.
 import {classify as previous,productTitle,normal,hash,researchTrigger as oldTrigger} from '../recognition-v4/rules.mjs';
 export {normal,hash};
@@ -38,6 +39,7 @@ export function lineOf(p){
  const named=/トレーディング|コレクション|ぴくりる|グリッター|宝具|チケットライク|vol\.?\s*\d+|第\d+弾/i;
  if(!named.test(label)&&named.test(t)){label=cleanTitle(t).replace(/^(?:全\d+種セット|【ボックス】|【パック】)\s*/,'').replace(/\s*\d+個入り(?:1?BOX)?/i,'').replace(/\s*[（(]?(?:BOX|1PCS)[)）]?/i,'');}
  if(named.test(label))return {key:'line:'+token(work)+':'+token(label),label:label.replace(/^Fate\s*\/\s*Grand\s*Order\s*/i,'').slice(0,110)};
+ const numbered=publicationNumber(t,major);if(numbered)return {key:'publication:'+token(work)+':'+token(numbered.line),label:numbered.line};
  if((major==='书籍'||major==='音像')&&/VOL\.?\s*\d+|第?\d+\s*(?:[～~-]\s*\d+)?巻|[（(]\d+[)）]/i.test(t)){const label=cleanTitle(t).replace(/\s*(?:VOL\.?\s*\d+|第?\d+\s*(?:[～~-]\s*\d+)?巻|[（(]\d+[)）])(?:セット)?/ig,'').replace(/\s+\/\s+[^/]+$/,'').trim();return {key:'publication:'+token(work)+':'+token(label),label};}
  if(['周边','大周边','卡片'].includes(major)&&/アクリル|缶バッジ|キーホルダー|ラバーストラップ|タペストリー/.test(t)){
   const quoted=t.match(/「([^」]+)」/)?.[1];if(quoted&&token(quoted)!==token(work)&&quoted.length>work.length+3)return {key:'goods:'+token(work)+':'+token(type)+':'+token(quoted),label:quoted+' '+type};
@@ -57,6 +59,7 @@ export function toyRoute(p,raw){const t=normal(p.title),facts=raw?.facts||{};let
 }
 const typeNames={'缶バッジ':'徽章','タペストリー':'挂画','アクリルスタンド':'亚克力立牌','ラバーストラップ':'橡胶挂件','ラバーチャーム':'橡胶挂件','ポスター':'海报','ポーチ':'收纳包','卡片':'其他卡片','其他周边':'其他周边'};
 export function route(p,raw){const work=workOf(p),major=p.identity.major;const base=workPath(work),event=eventOf(p),line=lineOf(p);p.identity.work=work;p.scope=scopeOf(p);p.seriesKey=line?.key||null;p.seriesLabel=line?.label||null;p.seriesParent=line?.parent||null;p.seriesBatch=line?.batch||null;
+ if(major==='玩具'&&/WINX/.test(work)){p.path=toyPolicy(p,work);return p;}
  if(major==='玩具'&&!/WINX|なのは/.test(work)){p.path=toyRoute(p,raw);if(event)p.eventMembership=[...new Set([...(p.eventMembership||[]),event])];return p;}
  let type=typeNames[p.type]||p.type||'其他商品';if(major==='游戏'){p.path=[...base,'游戏',p.type==='游戏软件'?'发行版本':/特典|コード|挂画/.test(p.type)?'特典':p.type];return p;}
  let path=[...base];if(event)path.push('展会与活动',event);

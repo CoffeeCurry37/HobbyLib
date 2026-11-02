@@ -1,3 +1,5 @@
+import {applyOfficialRelease} from './official-v6';
+import {catalogueV6Facts,researchSignal} from './catalogue-v6';
 import {Item,State} from './types';
 import {readSource} from './reader';
 import {parseHtml} from './collector';
@@ -12,13 +14,13 @@ const verified:{title:string;url:string;facts:Metadata}[]=[
  {title:'Fate/EXTRA material WADARCO Illustrations',url:'https://www.suruga-ya.jp/product/detail/185131336',facts:{brand:'TYPE-MOON',publisher:'TYPE-MOON',releaseDate:'2013/08/16',year:'2013',category:'書籍'}}
 ];
 const verifiedNames=verified.map(v=>({...v,name:productName(v.title)})),bookNames=bookReleases.map(v=>({...v,name:productName(v.title)}));
-export function verifiedFacts(item:Item,state:State){let out=item;const name=productName(item.title);for(const v of verifiedNames){if(name!==v.name)continue;const other=createItem(v.title,'',undefined,state.prefs);if(sameProduct(item,other)||(item.kind==='base'&&!item.isbn&&!item.jan))out=applyMetadata(out,v.facts,v.url);}
+export function verifiedFacts(item:Item,state:State){let out=applyOfficialRelease(item);const name=productName(item.title);for(const v of verifiedNames){if(name!==v.name)continue;const other=createItem(v.title,'',undefined,state.prefs);if(sameProduct(item,other)||(item.kind==='base'&&!item.isbn&&!item.jan))out=applyMetadata(out,v.facts,v.url);}
  for(const v of bookNames){if(name!==v.name)continue;const facts=v.facts as Metadata,other=applyMetadata(createItem(v.title,'',undefined,state.prefs),facts,v.url);if(!sameProduct(item,other))continue;out=applyMetadata(out,facts,v.url);if(v.publicationDate&&!out.evidence.some(e=>e.field==='発行日'&&e.url===v.url))out.evidence=[...out.evidence,{field:'発行日',value:v.publicationDate,url:v.url,at:new Date().toISOString(),method:'书店商品页发行日；与通販発売日分别保存'}].slice(-150);}
  return out;
 }
 export async function researchItem(item:Item,state:State){
  if(item.bucket==='junk')return {item,message:'低价周边小物跳过深入补全'};
- let out=verifiedFacts(item,state);if(out!==item&&out.image)return{item:out,message:'已填入有来源的目录资料；不变更挂牌价格'};
+ let out=catalogueV6Facts(verifiedFacts(item,state));if(out!==item&&out.image)return{item:out,message:'已填入有来源的目录资料；不变更挂牌价格'};
  if(/^97[89]\d{10}$/.test(item.isbn)){
   const url=`https://api.openbd.jp/v1/get?isbn=${item.isbn}`,data=JSON.parse((await readSource(url)).text)?.[0]?.summary;
   if(data){const raw=String(data.pubdate||''),facts:Metadata={isbn:item.isbn,year:raw.slice(0,4),publisher:String(data.publisher||'')};if(/^\d{8}$/.test(raw))facts.releaseDate=raw.slice(0,4)+'/'+raw.slice(4,6)+'/'+raw.slice(6);out=applyMetadata(out,facts,url);return{item:out,message:'已通过 ISBN 精确补全书目资料'};}

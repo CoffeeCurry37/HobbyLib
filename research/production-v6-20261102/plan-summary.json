@@ -1,0 +1,255 @@
+{
+  "at": "2026-11-02T20:12:19.886Z",
+  "status": "planned-not-applied",
+  "backupHash": "aa85a9732ffec0a1e72523f49dd3c5f987f642b097662a4002a7954251eebebb",
+  "active": 35020,
+  "archived": 8549,
+  "relations": 1835,
+  "excludedDoujin": 19209,
+  "changes": 9532,
+  "newRecords": 5,
+  "mediaSplitSources": 5,
+  "officialUnresolved": 0,
+  "changedFields": {
+    "productLine": 3355,
+    "event": 5015,
+    "series": 837,
+    "wave": 113,
+    "manufacturer": 2403,
+    "releaseDate": 18,
+    "evidence": 21,
+    "title": 21,
+    "image": 21,
+    "category": 20,
+    "tags": 21,
+    "images": 21,
+    "aliases": 21,
+    "summary": 21,
+    "productType": 21,
+    "offers": 10,
+    "publisher": 5,
+    "characters": 5,
+    "circle": 5,
+    "artists": 5,
+    "jan": 5,
+    "origin": 5,
+    "description": 5,
+    "schemaVersion": 5,
+    "id": 5,
+    "brand": 5,
+    "year": 5,
+    "isbn": 5,
+    "kind": 5,
+    "review": 5,
+    "bucket": 5,
+    "msrp": 5,
+    "ownership": 5,
+    "quantity": 5,
+    "priority": 5,
+    "rating": 5,
+    "notes": 5,
+    "createdAt": 5,
+    "member": 5,
+    "saleForm": 5,
+    "majorClass": 5,
+    "provisional": 5,
+    "watchlisted": 5,
+    "locked": 5
+  },
+  "safeMerges": 4,
+  "deferredMerges": 21,
+  "researchGroups": 1848,
+  "modules": 23239,
+  "mixedLevels": 0,
+  "personalFieldsChanged": 0,
+  "offersChanged": 0,
+  "samples": [
+    {
+      "id": "00e5655b-8ef5-4381-a5fa-ea2938e01ad9",
+      "title": "全3種セット 寝そべりぬいぐるみVol.2 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-」",
+      "fields": [
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "其他 TYPE-MOON",
+        "TYPE-MOON 综合",
+        "周边",
+        "毛绒 / 玩偶",
+        "官方套装"
+      ]
+    },
+    {
+      "id": "0128e2ac-e5c5-4b2c-9d22-b8aed56952e8",
+      "title": "全22種セット 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "fields": [
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "周边",
+        "其他周边",
+        "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+        "官方套装"
+      ]
+    },
+    {
+      "id": "0130c942-41bd-44a6-8307-af51c662d313",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- トレーディングLEDバッジ Vol.1",
+      "fields": [
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "周边",
+        "徽章",
+        "Fate/Grand Order -絶対魔獣戦線バビロニア- トレーディングLEDバッジ Vol.1"
+      ]
+    },
+    {
+      "id": "013d67d8-d1e7-4642-a4db-7e45b9e4f79e",
+      "title": "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 A5サイズカード 「Fate/Grand Order展 -星見の回廊-」 週替わり来場者特典",
+      "fields": [
+        "event"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "展会与活动",
+        "FGO展 星見の回廊",
+        "卡片",
+        "其他卡片",
+        "特典"
+      ]
+    },
+    {
+      "id": "0151fca4-72bb-448b-afab-ccfc7b05396c",
+      "title": "キャスター/マーリン アクリルスタンド 「Fate/Grand Order展 -星見の回廊-」",
+      "fields": [
+        "event"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "展会与活动",
+        "FGO展 星見の回廊",
+        "周边",
+        "亚克力立牌"
+      ]
+    },
+    {
+      "id": "0166a0ef-1e69-4b1f-9c67-676de1a65c14",
+      "title": "アーチャー/清少納言 ちびぐるみvol.11 「Fate/Grand Order」",
+      "fields": [
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "周边",
+        "其他周边",
+        "アーチャー/清少納言 ちびぐるみvol.11 「Fate/Grand Order」"
+      ]
+    },
+    {
+      "id": "017ac566-e28e-41eb-9476-abeb31bd56a0",
+      "title": "全20種セット 「Fate/EXTELLA トレーディングアクリルバッジ」",
+      "fields": [
+        "series",
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "Fate/EXTRA",
+        "Fate/EXTELLA",
+        "周边",
+        "徽章",
+        "Fate/EXTELLA トレーディングアクリルバッジ",
+        "官方套装"
+      ]
+    },
+    {
+      "id": "01868e8d-a1ba-4635-8171-d180edcae6e2",
+      "title": "キャスター/ニトクリス 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.6」",
+      "fields": [
+        "productLine",
+        "wave"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "周边",
+        "徽章",
+        "ぴくりる! トレーディング缶バッジ",
+        "vol.6",
+        "单品"
+      ]
+    },
+    {
+      "id": "020239f5-3f63-4221-802c-0d6ec0e0ffb6",
+      "title": "MAXFACTORY figma Fate/Grand Order ルーラー/ジャンヌ・ダルク 366",
+      "fields": [
+        "manufacturer",
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "Fate 综合",
+        "玩具",
+        "可动",
+        "Max Factory",
+        "figma",
+        "单品"
+      ]
+    },
+    {
+      "id": "025b2533-9950-4ce9-9899-114f8a45fce4",
+      "title": "オーランド・リーヴ ミニキャラ ver. アクリルスタンド 「TVアニメ Fate/strange Fake」",
+      "fields": [
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "Fate/strange Fake",
+        "周边",
+        "亚克力立牌",
+        "オーランド・リーヴ ミニキャラ ver. アクリルスタンド 「TVアニメ Fate/strange Fake」"
+      ]
+    },
+    {
+      "id": "0270f412-9a66-45b9-962d-617f10ef3bb6",
+      "title": "figma Fate/Grand Order バーサーカー/宮本武蔵 560",
+      "fields": [
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "Fate 综合",
+        "玩具",
+        "可动",
+        "Max Factory",
+        "figma",
+        "单品"
+      ]
+    },
+    {
+      "id": "02caec9e-379c-4ce4-9aa2-81fe9ef8f96a",
+      "title": "figma フェイト・テスタロッサ ソニックフォーム ver. 163",
+      "fields": [
+        "series",
+        "productLine"
+      ],
+      "path": [
+        "TYPE-MOON",
+        "Fate 综合",
+        "玩具",
+        "可动",
+        "Max Factory",
+        "figma",
+        "单品"
+      ]
+    }
+  ]
+}

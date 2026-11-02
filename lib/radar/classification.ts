@@ -1,3 +1,4 @@
+import {catalogueV6Facts} from './catalogue-v6';
 import {currentEditorial} from './editorial';
 import type {Item} from './types';
 import doujinCatalogue from './doujin-catalogue.json';
@@ -81,5 +82,5 @@ export function repairClassification(item:Item,frequent?:Set<string>):Item{
  next.majorClass=productClass(next);
  if(!manualField(item,'tags'))next.tags=[next.majorClass,...(next.majorClass==='游戏'?gamePlatforms(next).map(p=>'平台:'+p):[]),...next.tags.filter(t=>!PRODUCT_CLASSES.includes(t as any)&&!t.startsWith('平台:'))].slice(0,50);
  if(manualField(item,'tags'))next.tags=item.tags;
- return applyTitleCatalogue(next);
+ return catalogueV6Facts(applyTitleCatalogue(next));
 }

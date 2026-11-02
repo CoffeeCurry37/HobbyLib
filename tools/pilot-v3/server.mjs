@@ -4,9 +4,10 @@ import {resolve} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {ROOT} from '../pilot-workbench/common.mjs';
 export function createV3({port=8793,version='latest'}={}){
+ const v6=version==='latest'&&existsSync(resolve(ROOT,'work/pilot-v6/catalogue-v6.json'));
  const v5=version==='latest'&&existsSync(resolve(ROOT,'research/pilot-v5-20261101/catalogue-v5.json'));
  const v4=version!=='v3'&&existsSync(resolve(ROOT,'research/pilot-v4-20261031/catalogue-v4.json'));
- const catalogue=v5?'research/pilot-v5-20261101/catalogue-v5.json':v4?'research/pilot-v4-20261031/catalogue-v4.json':'research/pilot-v3-20261030/catalogue-v3.json';
+ const catalogue=v6?'work/pilot-v6/catalogue-v6.json':v5?'research/pilot-v5-20261101/catalogue-v5.json':v4?'research/pilot-v4-20261031/catalogue-v4.json':'research/pilot-v3-20261030/catalogue-v3.json';
  const results=v5?'research/pilot-v5-20261101/results-200.json':v4?'research/pilot-v4-20261031/results-200.json':'research/pilot-v3-20261030/results-70.json';
  const assets={'/':['index.html','text/html; charset=utf-8'],'/app.js':['app.js','text/javascript; charset=utf-8'],'/collector.css':['collector.css','text/css; charset=utf-8'],'/style.css':['style.css','text/css; charset=utf-8'],'/favicon.svg':['favicon.svg','image/svg+xml']};
  const server=http.createServer((req,res)=>{const origin='http://127.0.0.1:'+server.address().port;const send=(status,data,type='application/json; charset=utf-8')=>{res.writeHead(status,{'Content-Type':type,'Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' https:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'"});res.end(typeof data==='string'||Buffer.isBuffer(data)?data:JSON.stringify(data));};

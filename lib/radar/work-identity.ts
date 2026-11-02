@@ -1,3 +1,4 @@
+import {canonicalWork} from './catalogue-policy.mjs';
 import type {Item} from './types';
 import {cleanProductTitle} from './catalog';
 const works:[RegExp,string][]=[
@@ -15,7 +16,7 @@ const works:[RegExp,string][]=[
 ];
 export function titleSeries(raw:string){const s=cleanProductTitle(raw).normalize('NFKC');return works.map(([re,series])=>({match:s.match(re),series})).filter(x=>x.match).sort((a,b)=>(a.match!.index||0)-(b.match!.index||0))[0]?.series||'';}
 export function resolvedSeries(item:Pick<Item,'title'|'series'>&Partial<Pick<Item,'aliases'|'offers'>>){
- const title=titleSeries(item.title);if(title)return title;
+ const title=canonicalWork('',item.title)||titleSeries(item.title);if(title)return title;
  const known=titleSeries(item.series);if(known)return known;
  for(const raw of [...(item.offers||[]).map(o=>o.listingTitle||''),...(item.aliases||[])]){const value=titleSeries(raw);if(value)return value;}
  return item.series||'';

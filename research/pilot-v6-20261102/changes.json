@@ -1,0 +1,1373 @@
+{
+  "base": "research/pilot-v5-20261101/catalogue-v5.json",
+  "changed": [
+    "v6-babylonia-1-DVD",
+    "v6-babylonia-1-Blu-ray",
+    "v6-babylonia-2-DVD",
+    "v6-babylonia-2-Blu-ray",
+    "v4-a09302771698597247",
+    "v6-babylonia-3-Blu-ray",
+    "v6-babylonia-4-DVD",
+    "v6-babylonia-4-Blu-ray",
+    "v6-babylonia-5-DVD",
+    "v6-babylonia-5-Blu-ray",
+    "v4-be33d8e479182814bd"
+  ],
+  "products": [
+    {
+      "id": "v6-babylonia-1-DVD",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "DVD",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 1,
+        "medium": "DVD",
+        "officialSku": "ANZB-15501～15503"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "DVD"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=1"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk1.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=1",
+          "status": "captured",
+          "contentHash": "78c27deb4776707ef0a44eeb8f2aa3082b414ee336b1a4a5fa5c4227765a7497",
+          "localPath": "/image/e514e81fdb304cf3c31fc2f9fe70994bc6f0d358c9e45734930e10214b127798",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:1:DVD",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第1巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》DVD完全生产限定版第1卷，收录第0–3集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v6-babylonia-1-Blu-ray",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "Blu-ray",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 1,
+        "medium": "Blu-ray",
+        "officialSku": "ANZX-15501～15503"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "Blu-ray"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=1"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk1.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=1",
+          "status": "captured",
+          "contentHash": "78c27deb4776707ef0a44eeb8f2aa3082b414ee336b1a4a5fa5c4227765a7497",
+          "localPath": "/image/e514e81fdb304cf3c31fc2f9fe70994bc6f0d358c9e45734930e10214b127798",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:1:Blu-ray",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Blu-ray 第1巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》Blu-ray完全生产限定版第1卷，收录第0–3集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v6-babylonia-2-DVD",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "DVD",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 2,
+        "medium": "DVD",
+        "officialSku": "ANZB-15504～15506"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "DVD"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=2"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk2.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=2",
+          "status": "captured",
+          "contentHash": "c320da6fcd8a5a6f07c6688cfdf83d7feee3e12fab8224d01056f23aef63d63b",
+          "localPath": "/image/cef27992e3dd7d7b4c4ecc1a163782cd3a9e48f480e4dd36523ed7eefa145cf4",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:2:DVD",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第2巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》DVD完全生产限定版第2卷，收录第4–7集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "2020-02-26",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v6-babylonia-2-Blu-ray",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "Blu-ray",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 2,
+        "medium": "Blu-ray",
+        "officialSku": "ANZX-15504～15506"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "Blu-ray"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=2"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk2.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=2",
+          "status": "captured",
+          "contentHash": "c320da6fcd8a5a6f07c6688cfdf83d7feee3e12fab8224d01056f23aef63d63b",
+          "localPath": "/image/cef27992e3dd7d7b4c4ecc1a163782cd3a9e48f480e4dd36523ed7eefa145cf4",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:2:Blu-ray",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Blu-ray 第2巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》Blu-ray完全生产限定版第2卷，收录第4–7集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "2020-02-26",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v4-a09302771698597247",
+      "mode": "permanent",
+      "state": "source-supported-proposal",
+      "type": "DVD",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "subtype": "DVD",
+        "edition": null,
+        "region": "JP",
+        "platform": null,
+        "volume": 3,
+        "wave": null,
+        "jan": null,
+        "isbn": null,
+        "campaign": null,
+        "award": null,
+        "event": null,
+        "line": null,
+        "medium": "DVD",
+        "officialSku": "ANZB-15507～15509"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "DVD"
+      ],
+      "sources": [
+        "https://www.suruga-ya.jp/product/detail/128080481",
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=3"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk3.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=3",
+          "status": "captured",
+          "contentHash": "3484e339b38859bc20d2f2c4994d743c51b6a665fe992b43750dc41fae5311fb",
+          "localPath": "/image/12eea8a1ed663540d705069d0a23f144678ce92204862874e6f7be363fe6f936",
+          "error": null
+        },
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/128080481.jpg.webp",
+          "role": "同商品编号目录图",
+          "sourceUrl": "https://www.suruga-ya.jp/product/detail/128080481",
+          "status": "captured",
+          "contentHash": "8d2841149b2cbad88de1573895b2b6c95ea39d0820527f4f610f7665b6f33224",
+          "localPath": "/image/ec66820545fe087a84555a68b32a426938183b8a55215ca95119e2ab196f9357",
+          "error": null
+        },
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/428062236.jpg.webp",
+          "role": "同商品编号目录图",
+          "sourceUrl": "https://www.suruga-ya.jp/product/detail/128080481",
+          "status": "captured",
+          "contentHash": "26fd9737c327c9c4e57303b93d8a7a222318095874f4745a12e76df31dc28015",
+          "localPath": "/image/f74ee518bb02d8965eb4935f12aae755eb55584be78120ddcfac0feea9fd4473",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [
+        "Fate/Grand Order",
+        "音像",
+        "DVD"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P248"
+      ],
+      "offers": [
+        {
+          "variant": "",
+          "id": "surugaya:/product/detail/128080481:main",
+          "source": "骏河屋",
+          "url": "https://www.suruga-ya.jp/product/detail/128080481",
+          "price": null,
+          "currency": "JPY",
+          "priceBasis": "unspecified",
+          "priceKind": "ask",
+          "condition": "(状態:特典DISC欠品)",
+          "availability": "sold",
+          "extras": [
+            {
+              "name": "特典DISC",
+              "status": "absent"
+            }
+          ],
+          "bonus": "unknown",
+          "observation": "list",
+          "stockNote": "",
+          "observedAt": "2026-10-06T01:50:15.376Z",
+          "history": [],
+          "productKey": "128080481",
+          "listingTitle": "不備有)Fate/Grand Order-絶対魔獣戦線バビロニア- 3 [完全生産限定版](状態：特典DISC欠品)",
+          "originalPrice": null,
+          "priceStatus": "sold-snapshot-price-absent",
+          "priceLabel": "已售记录，原快照未含售价",
+          "sampleId": "P248",
+          "variantIdentity": {
+            "work": "Fate/Grand Order",
+            "major": "音像",
+            "subtype": "DVD",
+            "edition": null,
+            "region": "JP",
+            "platform": null,
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conditionDetails": [
+            "特典DISC欠品",
+            "(状態:特典DISC欠品"
+          ],
+          "historical": true,
+          "currentStockVerified": false
+        }
+      ],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "new200",
+      "identityKey": "product:5fb4f81158e31020757508",
+      "groupId": "babylonia-tv",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第3巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》DVD完全生产限定版第3卷，收录第8–11集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "imageIssues": [
+        {
+          "url": "https://www.suruga-ya.jp/database/photo.php?shinaban=128080481&size=m",
+          "sourceUrl": "https://www.suruga-ya.jp/product/detail/128080481",
+          "status": "unavailable",
+          "error": "HTTP 403"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/database/photo.php?shinaban=428062236&size=m",
+          "sourceUrl": "https://www.suruga-ya.jp/product/detail/128080481",
+          "status": "unavailable",
+          "error": "HTTP 403"
+        }
+      ],
+      "imageStatus": "local-confirmed",
+      "completion": {
+        "identity": true,
+        "sources": 1,
+        "images": 2,
+        "officialSources": 0,
+        "scope": "product",
+        "research": "historical-source-only; official enrichment still incomplete"
+      },
+      "oldGroupId": "media-volumes:Fate",
+      "scope": "single",
+      "memberName": null,
+      "sourceIdentities": [
+        {
+          "identityKey": "product:5fb4f81158e31020757508",
+          "identity": {
+            "work": "Fate/Grand Order",
+            "major": "音像",
+            "subtype": "DVD",
+            "edition": null,
+            "region": "JP",
+            "platform": null,
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          }
+        }
+      ],
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "seriesParent": null,
+      "seriesBatch": null,
+      "manufacturer": "ANIPLEX",
+      "releaseDate": "2020-03-25"
+    },
+    {
+      "id": "v6-babylonia-3-Blu-ray",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "Blu-ray",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 3,
+        "medium": "Blu-ray",
+        "officialSku": "ANZX-15507～15509"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "Blu-ray"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=3"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk3.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=3",
+          "status": "captured",
+          "contentHash": "3484e339b38859bc20d2f2c4994d743c51b6a665fe992b43750dc41fae5311fb",
+          "localPath": "/image/12eea8a1ed663540d705069d0a23f144678ce92204862874e6f7be363fe6f936",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:3:Blu-ray",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Blu-ray 第3巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》Blu-ray完全生产限定版第3卷，收录第8–11集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "2020-03-25",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v6-babylonia-4-DVD",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "DVD",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 4,
+        "medium": "DVD",
+        "officialSku": "ANZB-15510～15512"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "DVD"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=4"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk4.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=4",
+          "status": "captured",
+          "contentHash": "872bf2cab054927bc5f9b0b378b50dea0eadb3c32c82df995a99a898aef05ed6",
+          "localPath": "/image/d03e64cb7d107c7e9aa16e6c7cd191eadcc389bbab1524764e07aa1fdc9fd3cd",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:4:DVD",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第4巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》DVD完全生产限定版第4卷，收录第12–16集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "2020-05-27",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v6-babylonia-4-Blu-ray",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "Blu-ray",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 4,
+        "medium": "Blu-ray",
+        "officialSku": "ANZX-15510～15512"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "Blu-ray"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=4"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk4.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=4",
+          "status": "captured",
+          "contentHash": "872bf2cab054927bc5f9b0b378b50dea0eadb3c32c82df995a99a898aef05ed6",
+          "localPath": "/image/d03e64cb7d107c7e9aa16e6c7cd191eadcc389bbab1524764e07aa1fdc9fd3cd",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:4:Blu-ray",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Blu-ray 第4巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》Blu-ray完全生产限定版第4卷，收录第12–16集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "2020-05-27",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v6-babylonia-5-DVD",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "DVD",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 5,
+        "medium": "DVD",
+        "officialSku": "ANZB-15513～15515"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "DVD"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=5"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk5.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=5",
+          "status": "captured",
+          "contentHash": "bc3e74b32bb7265cfa20da7c5cf2e7cb7dd963c1b6003a6730a1ec061670ad3f",
+          "localPath": "/image/e867a39de061eab6fdfbece5cb7d72b44c0c909aacc74cebdeeffd33f38d1685",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-Blu-ray",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:5:DVD",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第5巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》DVD完全生产限定版第5卷，收录第17–21集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "2020-06-24",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v6-babylonia-5-Blu-ray",
+      "mode": "permanent",
+      "state": "official-source-supported",
+      "type": "Blu-ray",
+      "identity": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "volume": 5,
+        "medium": "Blu-ray",
+        "officialSku": "ANZX-15513～15515"
+      },
+      "path": [
+        "TYPE-MOON",
+        "FGO",
+        "音像",
+        "絶対魔獣戦線バビロニア",
+        "Blu-ray"
+      ],
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=5"
+      ],
+      "images": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/assets/img/bddvd/img_jk5.jpg",
+          "role": "官方封面",
+          "sourceUrl": "https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=5",
+          "status": "captured",
+          "contentHash": "bc3e74b32bb7265cfa20da7c5cf2e7cb7dd963c1b6003a6730a1ec061670ad3f",
+          "localPath": "/image/e867a39de061eab6fdfbece5cb7d72b44c0c909aacc74cebdeeffd33f38d1685",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [],
+      "variants": [],
+      "sampleIds": [],
+      "offers": [],
+      "links": [
+        {
+          "id": "v6-babylonia-1-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-1-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-2-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v4-a09302771698597247",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-3-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-DVD",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-4-Blu-ray",
+          "type": "same-series"
+        },
+        {
+          "id": "v6-babylonia-5-DVD",
+          "type": "same-series"
+        }
+      ],
+      "visible": true,
+      "origin": "series-expansion-v6",
+      "identityKey": "babylonia:5:Blu-ray",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Blu-ray 第5巻 [完全生産限定版]",
+      "summary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》Blu-ray完全生产限定版第5卷，收录第17–21集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。",
+      "manufacturer": "ANIPLEX",
+      "seriesKey": "babylonia-tv",
+      "seriesLabel": "絶対魔獣戦線バビロニア",
+      "groupId": "babylonia-tv",
+      "releaseDate": "2020-06-24",
+      "scope": "single",
+      "imageStatus": "local-confirmed"
+    },
+    {
+      "id": "v4-be33d8e479182814bd",
+      "mode": "permanent",
+      "state": "source-supported-proposal",
+      "type": "静态手办",
+      "identity": {
+        "work": "FATE: THE WINX SAGA",
+        "major": "玩具",
+        "subtype": "静态手办",
+        "edition": null,
+        "region": "JP",
+        "platform": null,
+        "wave": null,
+        "jan": null,
+        "isbn": null,
+        "campaign": null,
+        "award": null,
+        "event": null,
+        "line": null
+      },
+      "path": [
+        "其他收藏",
+        "FATE: THE WINX SAGA",
+        "玩具",
+        "静态",
+        "BANDAI SPIRITS",
+        "Q posket"
+      ],
+      "sources": [
+        "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183188-R",
+        "https://bsp-prize.jp/item/2612616/"
+      ],
+      "images": [
+        {
+          "url": "https://poggers.com/cdn/shop/files/Fate-The-Winx-Saga-Terra-Harvey-Figure-Banpresto-Q-Posket-Series-2_700x700.webp?v=1740838096",
+          "role": "零售商商品图；官网原图返回403",
+          "sourceUrl": "https://poggers.com/products/fate-the-winx-saga-terra-harvey-figure-banpresto-q-posket-series",
+          "status": "captured",
+          "contentHash": "f55e89a0e4641fcc26dcafc0e7434ada495bcaa0c0d54f38cc0b8323b4ba3ae9",
+          "localPath": "/image/d5f41fbc81e4b6f12b068e66e64578f1289fc55044f612fca36c9b8779da8d99",
+          "error": null
+        }
+      ],
+      "characters": [],
+      "tags": [
+        "FATE: THE WINX SAGA",
+        "玩具",
+        "静态手办"
+      ],
+      "variants": [],
+      "sampleIds": [
+        "P196"
+      ],
+      "offers": [
+        {
+          "variant": "",
+          "id": "amiami:FIGURE-183188-R",
+          "source": "www.amiami.jp",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183188-R",
+          "price": 980,
+          "currency": "JPY",
+          "priceBasis": "tax_included",
+          "priceKind": "ask",
+          "condition": "未提取",
+          "availability": "available",
+          "extras": [],
+          "bonus": "unknown",
+          "observation": "detail",
+          "verifiedAt": "2026-10-06T02:53:06.732Z",
+          "stockNote": "",
+          "observedAt": "2026-10-06T02:02:49.332Z",
+          "history": [],
+          "productKey": "FIGURE-183188-R",
+          "listingTitle": "【中古】(本体A/箱B)FATE: THE WINX SAGA Q posket-TERRA- (プライズ)[BANDAI SPIRITS]《発売済・在庫品》",
+          "originalPrice": 980,
+          "priceStatus": "saved-offer-price",
+          "priceLabel": "原记录报价",
+          "sampleId": "P196",
+          "variantIdentity": {
+            "work": "FATE: THE WINX SAGA",
+            "major": "玩具",
+            "subtype": "静态手办",
+            "edition": null,
+            "region": "JP",
+            "platform": null,
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conditionDetails": [],
+          "historical": true,
+          "currentStockVerified": false
+        }
+      ],
+      "links": [],
+      "visible": true,
+      "origin": "new200",
+      "identityKey": "product:52f96608896367c246fb17",
+      "groupId": "winx-qposket",
+      "title": "FATE: THE WINX SAGA Q posket -TERRA-",
+      "summary": "《魔法俏佳人：命运》（FATE: THE WINX SAGA）Terra 的 Q posket 景品手办，由 BANDAI SPIRITS 推出，2022年4月起登场，高约13厘米。属于 Winx Saga，与 TYPE-MOON 的 Fate 为不同作品。",
+      "existingCatalogueRefs": [
+        "source-fc778ef9d0056cb4750c184061e4c403"
+      ],
+      "imageIssues": [
+        {
+          "url": "https://img.amiami.jp/images/product/main/251/FIGURE-183188.jpg",
+          "sourceUrl": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183188-R",
+          "status": "not-fetched",
+          "error": "未取得有效图片"
+        }
+      ],
+      "imageStatus": "local-confirmed",
+      "completion": {
+        "identity": true,
+        "sources": 1,
+        "images": 0,
+        "officialSources": 0,
+        "scope": "product",
+        "research": "historical-source-only; official enrichment still incomplete"
+      },
+      "oldGroupId": "figure:FATE: THE WINX SAGA Q posket-TERRA- (プライズ)[BANDAI SPIRITS]",
+      "scope": "single",
+      "memberName": null,
+      "sourceIdentities": [
+        {
+          "identityKey": "product:52f96608896367c246fb17",
+          "identity": {
+            "work": "FATE: THE WINX SAGA",
+            "major": "玩具",
+            "subtype": "静态手办",
+            "edition": null,
+            "region": "JP",
+            "platform": null,
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          }
+        }
+      ],
+      "seriesKey": "winx-qposket",
+      "seriesLabel": "Q posket",
+      "seriesParent": null,
+      "seriesBatch": null,
+      "manufacturer": "BANDAI SPIRITS",
+      "releaseDate": "2022-04-26"
+    }
+  ],
+  "rows": [
+    {
+      "id": "P196",
+      "phase": "new200",
+      "productId": "v4-be33d8e479182814bd",
+      "title": "FATE: THE WINX SAGA Q posket -TERRA-",
+      "inputHash": "515871e37f7f1b3f392a3444f297430af2dae9a3f82024147fd88b787e60e7f1",
+      "sourceKey": "amiami:FIGURE-183188-R",
+      "originalSplit": "holdout",
+      "classification": {
+        "work": "FATE: THE WINX SAGA",
+        "major": "玩具",
+        "subtype": "静态手办",
+        "mode": "permanent",
+        "identity": {
+          "work": "FATE: THE WINX SAGA",
+          "major": "玩具",
+          "subtype": "静态手办",
+          "edition": null,
+          "region": "JP",
+          "platform": null,
+          "volume": null,
+          "wave": null,
+          "jan": null,
+          "isbn": null,
+          "campaign": null,
+          "award": null,
+          "event": null,
+          "line": null
+        },
+        "path": [
+          "其他收藏",
+          "FATE: THE WINX SAGA",
+          "玩具",
+          "静态",
+          "BANDAI SPIRITS",
+          "Q posket"
+        ],
+        "character": null,
+        "event": null,
+        "campaign": null,
+        "missing": [],
+        "reasons": [],
+        "excludedFromExperiment": false,
+        "title": "FATE: THE WINX SAGA Q posket-TERRA- (プライズ)[BANDAI SPIRITS]"
+      },
+      "mode": "permanent",
+      "decision": {
+        "action": "reuse-existing-catalogue",
+        "catalogueId": "v4-be33d8e479182814bd",
+        "existingTarget": "source-fc778ef9d0056cb4750c184061e4c403",
+        "productionApplied": false
+      },
+      "candidates": [
+        {
+          "id": "source-fc778ef9d0056cb4750c184061e4c403",
+          "title": "【中古】(本体A/箱B)FATE: THE WINX SAGA Q posket-TERRA- (プライズ)[BANDAI SPIRITS]《発売済・在庫品》",
+          "identity": {
+            "work": "FATE: THE WINX SAGA",
+            "major": "玩具",
+            "subtype": "静态手办",
+            "edition": null,
+            "region": "JP",
+            "platform": null,
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conflicts": []
+        }
+      ],
+      "sourceUrl": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-183188-R",
+      "unknowns": [
+        "当前库存未重新核实"
+      ],
+      "elapsedMs": 5.7,
+      "previousProductId": "v4-be33d8e479182814bd"
+    },
+    {
+      "id": "P248",
+      "phase": "new200",
+      "productId": "v4-a09302771698597247",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第3巻 [完全生産限定版]",
+      "inputHash": "edda96fbb5ed21acc4819bf67c9c1920a61172ce207cdc63a45c559b9ba920a4",
+      "sourceKey": "suruga:/product/detail/128080481",
+      "originalSplit": "holdout",
+      "classification": {
+        "work": "Fate/Grand Order",
+        "major": "音像",
+        "subtype": "DVD",
+        "mode": "permanent",
+        "identity": {
+          "work": "Fate/Grand Order",
+          "major": "音像",
+          "subtype": "DVD",
+          "edition": null,
+          "region": "JP",
+          "platform": null,
+          "volume": null,
+          "wave": null,
+          "jan": null,
+          "isbn": null,
+          "campaign": null,
+          "award": null,
+          "event": null,
+          "line": null
+        },
+        "path": [
+          "TYPE-MOON",
+          "FGO",
+          "音像",
+          "絶対魔獣戦線バビロニア",
+          "DVD"
+        ],
+        "character": null,
+        "event": null,
+        "campaign": null,
+        "missing": [
+          "特典DISC欠品",
+          "(状態:特典DISC欠品"
+        ],
+        "reasons": [
+          "来源主媒介为音像"
+        ],
+        "excludedFromExperiment": false,
+        "title": "Fate/Grand Order-絶対魔獣戦線バビロニア- 3 [完全生産限定版]"
+      },
+      "mode": "permanent",
+      "decision": {
+        "action": "add-permanent-proposal",
+        "catalogueId": "v4-a09302771698597247",
+        "existingTarget": null,
+        "productionApplied": false
+      },
+      "candidates": [
+        {
+          "id": "source-cab16c1e448504c28ce6c59bc789c576",
+          "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 3 [完全生産限定版]",
+          "identity": {
+            "work": "Fate/Grand Order",
+            "major": "游戏",
+            "subtype": "游戏软件",
+            "edition": null,
+            "region": "JP",
+            "platform": null,
+            "volume": null,
+            "wave": null,
+            "jan": null,
+            "isbn": null,
+            "campaign": null,
+            "award": null,
+            "event": null,
+            "line": null
+          },
+          "conflicts": [
+            "major"
+          ]
+        }
+      ],
+      "sourceUrl": "https://www.suruga-ya.jp/product/detail/128080481",
+      "unknowns": [
+        "当前库存未重新核实"
+      ],
+      "elapsedMs": 5.98,
+      "previousProductId": "v4-a09302771698597247"
+    }
+  ],
+  "productionApplied": false
+}

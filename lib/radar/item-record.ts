@@ -1,3 +1,4 @@
+import {researchSignal} from './catalogue-v6';
 import {db,saveItems,savePrefs} from './store';
 import {DEFAULT_PREFS,Item,Relation,State} from './types';
 import {createHash} from 'node:crypto';
@@ -12,7 +13,7 @@ export async function itemRecord(user:string,id:string){
  if(!rows[0].results.length)throw new Error('找不到商品');
  const item=JSON.parse(rows[0].results[0].data) as Item,relations=rows[1].results as Relation[],ids=[...new Set(relations.flatMap(r=>[r.fromId,r.toId]).filter(key=>key!==id))];
  const related:Item[]=[];for(let start=0;start<ids.length;start+=40){const batch=await db().prepare("SELECT json_remove(data,'$.description','$.mergeSnapshot','$.aliases','$.images','$.evidence') AS data FROM items WHERE user_id=? AND id IN (SELECT value FROM json_each(?))").bind(user,JSON.stringify(ids.slice(start,start+40))).all();related.push(...batch.results.map(r=>({description:'',evidence:[],...JSON.parse(r.data)})));}
- return {item,version:recordVersion(item),relations,related};
+ return {item,version:recordVersion(item),relations,related,seriesResearch:researchSignal(item)};
 }
 export async function searchRecords(user:string,query:string){
  const escaped=query.trim().replace(/[\\%_]/g,c=>'\\'+c);if(!escaped)return {items:[]};

@@ -1,3 +1,5 @@
+import {v6Path} from './catalogue-v6';
+import {scopeLabel,compact} from './catalogue-policy.mjs';
 import {canonicalEvent} from './event-name';
 import {currentEditorial} from './editorial';
 import {catalogueLabel} from './event-name';
@@ -23,7 +25,7 @@ board('other',null,'其他收藏','为新的作品与收藏建立目录');
 board('unfiled',null,'待归档','缺少作品信息的条目');
 board('doujin',null,'同人','独立整理同人作品；受众和R18依据商品原始标签');
 for(const [id,name] of [['male','男性向'],['female','女性向'],['male-r18','男性向 R18'],['female-r18','女性向 R18'],['pending','受众 / 分级待确认']])board('doujin-'+id,'doujin',name);
-for(const [id,name] of [['stay','Fate/stay night'],['extra','Fate/EXTRA'],['zero','Fate/Zero'],['hollow','Fate/hollow ataraxia'],['apocrypha','Fate/Apocrypha'],['prototype','Fate/Prototype'],['strange','Fate/strange Fake'],['prisma','Fate/kaleid liner'],['samurai','Fate/Samurai Remnant'],['requiem','Fate/Requiem'],['codes','Fate/unlimited codes'],['tiger','Fate/tiger colosseum'],['events','展会与活动'],['general','Fate 综合']] as const)board('fate-'+id,'fate',name);
+for(const [id,name] of [['stay','Fate/stay night'],['extra','Fate/EXTRA'],['zero','Fate/Zero'],['hollow','Fate/hollow ataraxia'],['apocrypha','Fate/Apocrypha'],['prototype','Fate/Prototype'],['strange','Fate/strange Fake'],['prisma','Fate/kaleid liner'],['samurai','Fate/Samurai Remnant'],['requiem','Fate/Requiem'],['codes','Fate/unlimited codes'],['tiger','Fate/tiger colosseum'],['events','展会与活动'],['general','Fate 综合']] as const)board('fate-'+id,id==='events'?'fate':'type-moon',name);
 board('fate-general-figures','fate-general','玩具','Fate / FGO 全系列手办、景品、可动与模型');
 board('fate-grand','type-moon','FGO','游戏、街机、影像、卡片与周边');
 for(const [id,name] of [['game','FGO 游戏'],['arcade','FGO Arcade'],['anime','FGO 动画'],['events','展会与活动'],['general','FGO 综合']])board('fgo-'+id,'fate-grand',name);
@@ -37,7 +39,7 @@ export const DEFAULT_CATALOG_NODES:CatalogNode[]=seed;
 export function catalogueNodes(prefs:Pick<Prefs,'catalogueNodes'>){const overrides=new Map((prefs.catalogueNodes||[]).map(n=>[n.id,n])),defaults=new Set(DEFAULT_CATALOG_NODES.map(n=>n.id));return [...DEFAULT_CATALOG_NODES.map(n=>({...n,...overrides.get(n.id),...(['fate','fate-grand','tsukihime','kara','typemoon'].includes(n.id)?{parentId:'type-moon',name:n.name}:{})})),...(prefs.catalogueNodes||[]).filter(n=>!defaults.has(n.id))];}
 export const eventName=activityName;
 export function productType(item:Item){if(item.kuji||/一番くじ|一番賞|一番赏|Ichiban Kuji/i.test(item.title))return '一番赏';if(item.kind==='bonus'||/(?:入場|来場|購入|店舗)特典/.test(item.title))return /(?:入場|来場)/.test(item.title)?'入场特典':'特典';return productClass(item);}
-export function inferredPath(item:Item):string[]{
+function legacyPath(item:Item):string[]{
  const series=currentEditorial(item)?item.series:resolvedSeries(item),t=item.title+' '+series,type=productType(item),major=productClass(item),sub=productSubtype(item),event=currentEditorial(item)?canonicalEvent(item.event||''):eventName(item);let path:string[];
  if(major==='同人'){const group=(item.audience==='male'?'男性向':item.audience==='female'?'女性向':'受众 / 分级待确认')+(item.ageRating==='r18'?' R18':'');return ['同人',group,series||'作品待确认',item.circle||'社团待确认',item.kind==='set'?'同人套装':/CD|音楽/.test(item.category)?'同人音乐':'同人誌'];}
  if(item.catalogueGroupType==='kuji')return ['TYPE-MOON','Fate','Fate 综合','一番赏',item.productLine||item.title];
@@ -62,6 +64,7 @@ export function inferredPath(item:Item):string[]{
  if(line&&(currentEditorial(item)||line===knownLine||major==='玩具'||major==='卡片')&&!event&&!/ウエハース|ウェハース/.test(line))path.push(line);
  if(item.wave&&['玩具','卡片'].includes(major))path.push(/^\d+$/.test(item.wave)?'第 '+item.wave+' 弹':item.wave);return path;
 }
+export function inferredPath(item:Item):string[]{return v6Path(item,legacyPath(item));}
 const hash=(s:string)=>{let n=2166136261;for(const c of s){n^=c.charCodeAt(0);n=Math.imul(n,16777619);}return (n>>>0).toString(36);};
 export function buildCatalogue(items:Item[],prefs:Pick<Prefs,'catalogueNodes'>,relations:Relation[]=[]) {const nodes=catalogueNodes(prefs),itemNodes=new Map<string,string>();
  const pathKey=(parentId:string|null,name:string)=>(parentId||'root')+'\0'+catalogueLabel(name);
@@ -72,8 +75,12 @@ export function buildCatalogue(items:Item[],prefs:Pick<Prefs,'catalogueNodes'>,r
  // Infer every original path before applying manual placement, so imported generated node IDs remain resolvable.
  const byItem=new Map(items.map(i=>[i.id,i])),groupParents=new Map(relations.filter(r=>r.kind==='contains'&&(byItem.get(r.fromId)?.catalogueGroup||byItem.get(r.fromId)?.kuji?.catalogueGroup)).map(r=>[r.toId,r.fromId]));
  const anchor=(item:Item)=>{let current=item;const seen=new Set<string>();while(groupParents.has(current.id)&&!seen.has(current.id)){seen.add(current.id);const parent=byItem.get(groupParents.get(current.id)!);if(!parent)break;current=parent;}return current;};
- for(const item of items){let parentId:string|null=null;for(const name of inferredPath(anchor(item)))parentId=ensure(parentId,name).id;itemNodes.set(item.id,parentId!);}
+ for(const item of items){let parentId:string|null=null;for(const name of inferredPath(item))parentId=ensure(parentId,name).id;itemNodes.set(item.id,parentId!);}
  for(const item of items)if(item.catalogNodeId&&byId.has(item.catalogNodeId))itemNodes.set(item.id,item.catalogNodeId);
+ // Keep module pages homogeneous, including existing manually selected boards.
+ const parents=new Set(nodes.map(n=>n.parentId)),direct=new Map<string,Item[]>();
+ for(const item of items){const id=itemNodes.get(item.id)!;if(!direct.has(id))direct.set(id,[]);direct.get(id)!.push(item);}
+ for(const [id,rows]of direct){const scopes=new Set(rows.map(scopeLabel));if(parents.has(id)||scopes.size>1)for(const item of rows)itemNodes.set(item.id,ensure(id,scopeLabel(item)).id);}
  const childGroups=new Map<string|null,CatalogNode[]>(),collator=new Intl.Collator('ja',{numeric:true});
  for(const node of nodes){if(!childGroups.has(node.parentId))childGroups.set(node.parentId,[]);childGroups.get(node.parentId)!.push(node);}
  for(const siblings of childGroups.values())siblings.sort((a,b)=>a.order-b.order||collator.compare(a.name,b.name));
@@ -84,7 +91,7 @@ export function buildCatalogue(items:Item[],prefs:Pick<Prefs,'catalogueNodes'>,r
  return {nodes,byId,itemNodes,children,ancestors,includes};
 }
 export function catalogueEntries(items:Item[],relations:Relation[]){
- const roots=new Set(items.filter(i=>i.catalogueGroup||i.kind==='set'&&!i.kuji?.catalogueGroup&&setPolicy(i).mode==='permanent').map(i=>i.id)),children=new Map<string,string[]>(),hidden=new Set<string>();
+ const roots=new Set(items.filter(i=>!i.catalogueGroup&&i.kind==='set'&&!i.kuji?.catalogueGroup&&setPolicy(i).mode==='permanent').map(i=>i.id)),children=new Map<string,string[]>(),hidden=new Set<string>();
  for(const r of relations)if(r.kind==='contains'){if(!children.has(r.fromId))children.set(r.fromId,[]);children.get(r.fromId)!.push(r.toId);}
  const hide=(id:string,seen=new Set<string>())=>{if(seen.has(id))return;seen.add(id);for(const child of children.get(id)||[]){hidden.add(child);hide(child,seen);}};for(const id of roots)hide(id);
  return items.filter(i=>visibleSet(i)&&!hidden.has(i.id));

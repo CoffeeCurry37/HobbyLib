@@ -1,10 +1,12 @@
 import {relationGuard} from './relation-guard';
+import {recordVersion} from './item-record';
+import {VersionConflictError} from './version-conflict';
 import {db} from './store';
 import {mergeProducts} from './maintenance';
 import {jsonChunks} from './import-limits';
 import {DEFAULT_PREFS,EMPTY_FACTS,Item,Relation,State} from './types';
 // Bounded read and atomic write: never load the whole catalogue for a reviewed plan.
-export async function applyMergePlan(user:string,pairs:{fromId:string;toId:string}[]){
+export async function applyMergePlan(user:string,pairs:{fromId:string;toId:string;fromVersion?:string;toVersion?:string}[]){
  const ids=[...new Set(pairs.flatMap(p=>[p.fromId,p.toId]))];
  const result=await db().batch([
   db().prepare('SELECT id,data FROM items WHERE user_id=? AND id IN (SELECT value FROM json_each(?))').bind(user,JSON.stringify(ids)),
@@ -17,6 +19,7 @@ export async function applyMergePlan(user:string,pairs:{fromId:string;toId:strin
   const from=byId.get(pair.fromId),to=byId.get(pair.toId);
   if(!from||!to)throw new Error('商品已变化，请重新检查重复记录');
   if(from.archivedInto===to.id){already++;continue;}
+  if(pair.fromVersion&&recordVersion(JSON.parse(rows.find(r=>r.id===from.id)!.data))!==pair.fromVersion||pair.toVersion&&recordVersion(JSON.parse(rows.find(r=>r.id===to.id)!.data))!==pair.toVersion)throw new VersionConflictError();
   if(from.archivedInto||to.archivedInto)throw new Error('归并目标已变化，请重新检查');
   const next=mergeProducts(state,from.id,to.id);changed.set(from.id,next.archived);changed.set(to.id,next.merged);byId.set(from.id,next.archived);byId.set(to.id,next.merged);
   state.items=state.items.filter(i=>i.id!==from.id).map(i=>i.id===to.id?next.merged:i);state.relations=next.relations;merged++;

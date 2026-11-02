@@ -1,4 +1,5 @@
 import {recordOfferEvent} from './market-events';
+import {publicationNumber,canonicalWork} from './catalogue-policy.mjs';
 import {stripOfferDecorations,cleanProductTitle,extraMaterialMaster,sequenceKey,numberToken,canonicalBrand,bookMedium,manualField,numberedProduct} from './catalog';
 import {Item,Offer} from './types';
 import {primaryMedium} from './product-features';
@@ -47,6 +48,9 @@ export function identityConflicts(a:Item,b:Item):string[]{
  diff('component',part(a),part(b));
  diff('catalogueKey',collectionIdentity(a),collectionIdentity(b));
  const am=sourceMedium(a),bm=sourceMedium(b);diff('medium',am,bm);
+ const formats=(i:Item)=>{if(!['bd','dvd'].includes(sourceMedium(i)))return [];const v=[i.category,i.title,...i.evidence.filter(e=>['category','来源分类'].includes(e.field)).map(e=>e.value)].join(' ');return [/Blu[- ]?ray|ブルーレイ|\bBD\b/i.test(v)?'bd':'',/DVD/i.test(v)&&!/DVD-ROM/i.test(v)?'dvd':''].filter(Boolean);};
+ const af=formats(a),bf=formats(b);if(af.length>1||bf.length>1)fields.add('mixed-media');else if(af.length&&bf.length)diff('media-format',af[0],bf[0]);
+ const aw=canonicalWork(a.series,a.title),bw=canonicalWork(b.series,b.title);if(/WINX/i.test(aw+bw))diff('work',aw,bw);
  if(am==='book'&&bm==='book'){
   diff('bookMedium',bookMedium(a),bookMedium(b));diff('publisher',bookPublisher(a),bookPublisher(b));
   // Paperback is a physical edition, even when both sources classify as novels.
@@ -62,6 +66,7 @@ export function identityConflicts(a:Item,b:Item):string[]{
  }
  const av=numberedProduct(a.title)?.number??numberToken(a.wave||''),bv=numberedProduct(b.title)?.number??numberToken(b.wave||'');
  if(am==='book'&&bm==='book'&&av!==null&&av!==undefined&&bv!==null&&bv!==undefined&&av!==bv)fields.add('volume');
+ if(['bd','dvd'].includes(am)&&['bd','dvd'].includes(bm)){const an=publicationNumber(a.title,'影像')?.number??av,bn=publicationNumber(b.title,'影像')?.number??bv;diff('volume',an,bn);}
  if(a.event&&b.event)diff('event',canonicalEvent(a.event),canonicalEvent(b.event));
  if(a.saleForm&&b.saleForm)diff('saleForm',a.saleForm,b.saleForm);
  diff('cardNumber',a.cardNumber,b.cardNumber);
