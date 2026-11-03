@@ -1,0 +1,147 @@
+{
+  "at": "2026-11-03T19:33:41.900Z",
+  "scope": "Current Aniplex catalogue membership only; does not cover all historical giveaways or other exhibitors.",
+  "catalogues": [
+    {
+      "groupId": "series-ce68dddea90c2498",
+      "event": "Servant Art Chronicle 最終再臨展",
+      "root": "https://art.fate-go.jp/chronicle/goods/",
+      "url": "https://online.aniplex.co.jp/XJIMHlOZ",
+      "expected": 88,
+      "extracted": 88,
+      "completeCurrentRetailCatalogue": true,
+      "completeEventUniverse": false,
+      "localCoverage": 1941,
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/XJIMHlOZ?start=0&sz=120",
+          "sha256": "91c8ab381a23a91e1fdc04110788860520c2a1857fbc25f6f724ea0c94a9c6d3",
+          "at": "2026-11-03T19:32:02.230Z"
+        }
+      ]
+    },
+    {
+      "groupId": "series-4e69239e873928ae",
+      "event": "FGO Fes.2025",
+      "root": "https://fes.fate-go.jp/2025/goods/",
+      "url": "https://online.aniplex.co.jp/OErPGlnI",
+      "expected": 145,
+      "extracted": 145,
+      "completeCurrentRetailCatalogue": true,
+      "completeEventUniverse": false,
+      "localCoverage": 979,
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/OErPGlnI?start=0&sz=120",
+          "sha256": "da2b622e62b00e9e0f18f6a19e6fcbb42690dae3bee4f620217240838ef0e71b",
+          "at": "2026-11-03T19:32:04.186Z"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/OErPGlnI?start=120&sz=120",
+          "sha256": "2550a6f0b562eba8eb50d6c8c787fcd43bc1e43f3b19f8ba6c075425473ff800",
+          "at": "2026-11-03T19:32:47.757Z"
+        }
+      ]
+    },
+    {
+      "groupId": "series-66b7d6045e7f79e6",
+      "event": "FGO Fes.2026",
+      "root": "https://fes.fate-go.jp/goods/",
+      "url": "https://online.aniplex.co.jp/FDWAmesf",
+      "expected": 142,
+      "extracted": 142,
+      "completeCurrentRetailCatalogue": true,
+      "completeEventUniverse": false,
+      "localCoverage": 410,
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/FDWAmesf?start=0&sz=120",
+          "sha256": "098fb1add7d57bb502a047bc65beeb0354a32fd469f400a4ae2861c5eb7e05da",
+          "at": "2026-11-03T19:32:06.014Z"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/FDWAmesf?start=120&sz=120",
+          "sha256": "ad32e9fdd2a3cbceab38a73cbbde5bc54da0f76fb7b1028c0415087f8a14c51b",
+          "at": "2026-11-03T19:32:48.486Z"
+        }
+      ]
+    },
+    {
+      "groupId": "series-88ff9ccb22db52ee",
+      "event": "FGO展 星見の回廊",
+      "root": "https://exhibition.fate-go.jp/goods/",
+      "url": "https://online.aniplex.co.jp/SYzqfIPC",
+      "expected": 64,
+      "extracted": 64,
+      "completeCurrentRetailCatalogue": true,
+      "completeEventUniverse": false,
+      "localCoverage": 301,
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/SYzqfIPC?start=0&sz=120",
+          "sha256": "b45861235ddbd9ed5fffc83a304b1b0c4b35e2a142014ea734e1f6d95d2e553e",
+          "at": "2026-11-03T19:32:07.819Z"
+        }
+      ]
+    },
+    {
+      "groupId": "series-f1f5c27bf9a05162",
+      "event": "FGO Fes.2024",
+      "root": "https://fes.fate-go.jp/2024/goods/",
+      "url": "https://online.aniplex.co.jp/QVPQrDru",
+      "expected": 125,
+      "extracted": 125,
+      "completeCurrentRetailCatalogue": true,
+      "completeEventUniverse": false,
+      "localCoverage": 281,
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/QVPQrDru?start=0&sz=120",
+          "sha256": "7239ba0dffc5f35c985c27b5d3dc9a6af191e6dad49a2c9f0c81029694d271e8",
+          "at": "2026-11-03T19:32:08.987Z"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/QVPQrDru?start=120&sz=120",
+          "sha256": "f74547c8f8f8f69eb30cb329d0a39302767ee0bee62dc8ec3a77b3465d503b0c",
+          "at": "2026-11-03T19:32:49.282Z"
+        }
+      ]
+    },
+    {
+      "groupId": "series-a0bc29abee8a5b12",
+      "event": "FGO Fes.2023",
+      "root": "https://fes.fate-go.jp/2023/goods/",
+      "url": "https://online.aniplex.co.jp/MkwAxisF",
+      "expected": 92,
+      "extracted": 92,
+      "completeCurrentRetailCatalogue": true,
+      "completeEventUniverse": false,
+      "localCoverage": 254,
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/MkwAxisF?start=0&sz=120",
+          "sha256": "58f9d55617c99c1b85058f98ce712e971d22429433df5233700bc65d5da81386",
+          "at": "2026-11-03T19:32:10.521Z"
+        }
+      ]
+    },
+    {
+      "groupId": "series-f2adf3ee848e356e",
+      "event": "FGO Fes.2022",
+      "root": "https://fes.fate-go.jp/2022/goods/",
+      "url": "https://online.aniplex.co.jp/EpAxjCJW",
+      "expected": 70,
+      "extracted": 70,
+      "completeCurrentRetailCatalogue": true,
+      "completeEventUniverse": false,
+      "localCoverage": 231,
+      "sources": [
+        {
+          "url": "https://online.aniplex.co.jp/EpAxjCJW?start=0&sz=120",
+          "sha256": "363217e938f80c56615d5f1c11342f65462f808b41ce043171e14ed5de394212",
+          "at": "2026-11-03T19:32:11.889Z"
+        }
+      ]
+    }
+  ]
+}
