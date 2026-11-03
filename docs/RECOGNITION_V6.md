@@ -5,7 +5,7 @@
 ## 两项反馈
 
 - P196 是 FATE: THE WINX SAGA 的 Terra，官方来源 https://bsp-prize.jp/item/2612616/ 。它与 TYPE-MOON 的 Fate 是不同作品；保留其他收藏，补清作品、BANDAI SPIRITS / Q posket 产品线及图片。相同英文词不能作为跨 IP 合并依据。
-- P248 是《Fate/Grand Order -絶対魔獣戦線バビロニア-》影碟第 3 卷。官方 https://anime.fate-go.jp/ep7-tv/bddvd/?no=3 确认卷号，需检查完整卷目。裸数字在已确定书籍/音像语境中也触发系列研究；排除年份、比例、价格、数量、PS4/3DS 等。触发研究不是确认其他卷已发行。DVD、Blu-ray 保持不同身份；游戏同版跨平台可共享展示，平台/商品号仍保留。
+- P248 是《Fate/Grand Order -絶対魔獣戦線バビロニア-》影碟第 3 卷。官方 https://anime.fate-go.jp/ep7-tv/tv/bddvd/?no=3 确认卷号，需检查完整卷目。裸数字在已确定书籍/音像语境中也触发系列研究；排除年份、比例、价格、数量、PS4/3DS 等。触发研究不是确认其他卷已发行。DVD、Blu-ray 保持不同身份；游戏同版跨平台可共享展示，平台/商品号仍保留。
 
 ## 正式规范
 
