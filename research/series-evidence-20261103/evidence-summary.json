@@ -1,0 +1,23 @@
+{
+  "at": "2026-11-03T19:42:00.236Z",
+  "catalogues": 7,
+  "catalogueEntries": 726,
+  "uniqueDetailUrls": 593,
+  "detailsCapturedAndParsed": 593,
+  "detailsUnavailable": 0,
+  "selectableVariants": 3885,
+  "selectedSnapshotRecords": 4397,
+  "protected": 3,
+  "identitySupported": 3247,
+  "unresolved": 1147,
+  "productVerified": 0,
+  "productionApplied": 0,
+  "completeGroups": 0,
+  "limits": [
+    "Matching uses completed V6 local snapshot, not fresh live target versions.",
+    "Source URL plus full variant title is evidence for identity, not all five editorial checks.",
+    "Official image labels are extracted; no image visual verification implied.",
+    "Each event has historical/exhibitor/giveaway gaps outside current official store catalogue."
+  ]
+}
+

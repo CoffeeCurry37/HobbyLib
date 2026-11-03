@@ -17,11 +17,11 @@ const groups=queue.map(g=>{
 groups.sort((a,b)=>b.activeSnapshotCount-a.activeSnapshotCount||a.key.localeCompare(b.key));
 const compact=queue.flatMap(g=>{
  const key=[g.kind,g.series,g.label,g.batch||''].join('|'),groupId='series-'+hash(key).slice(0,16);
- return g.ids.map(id=>items.get(id)).filter(Boolean).map(i=>({groupId,id:i.id,title:i.title,description:i.description,series:i.series,event:i.event,productLine:i.productLine,wave:i.wave,member:i.member,kind:i.kind,origin:i.origin,productType:i.productType,manufacturer:i.manufacturer,jan:i.jan,isbn:i.isbn,image:i.image,images:i.images,summary:i.summary,tags:i.tags,characters:i.characters,evidence:i.evidence,editorial:i.editorial,manualFields:i.manualFields,locked:i.locked,sourceUrls:[...new Set((i.offers||[]).map(o=>o.url).filter(Boolean))]}));
+ return g.ids.map(id=>items.get(id)).filter(Boolean).map(i=>({groupId,id:i.id,title:i.title,description:i.description,series:i.series,event:i.event,productLine:i.productLine,wave:i.wave,member:i.member,kind:i.kind,origin:i.origin,productType:i.productType,manufacturer:i.manufacturer,jan:i.jan,isbn:i.isbn,image:i.image,images:i.images,summary:i.summary,tags:i.tags,characters:i.characters,evidence:i.evidence,editorial:i.editorial,manualFields:i.manualFields,locked:i.locked,officialObservations:(i.offers||[]).filter(o=>/^https:\/\/online\.aniplex\.co\.jp\//.test(o.url)).map(o=>({url:o.url,variant:o.variant,listingTitle:o.listingTitle})),sourceUrls:[...new Set((i.offers||[]).map(o=>o.url).filter(Boolean))]}));
 });
 fs.writeFileSync(priv+'/targets-projection.json',JSON.stringify(compact));
 const summary={at:new Date().toISOString(),baselineCommit:'e99ee38d963f7869798dca13cc4a0ce0e8ff8d60',snapshotKind:'completed-V6-local-snapshot-not-live',queueSha256:hash(raw),groups:groups.length,originalUniqueIds:new Set(queue.flatMap(g=>g.ids)).size,activeSnapshotIds:new Set(compact.map(i=>i.id)).size,protectedEditorialCount:new Set(compact.filter(i=>i.editorial).map(i=>i.id)).size,productionApplied:0,fullyVerifiedGroups:0};
 fs.writeFileSync(dir+'/queue-index.json',JSON.stringify({summary,groups},null,2)+'\n');
 console.log(JSON.stringify(summary));
-for(const g of groups.slice(0,15))console.log(JSON.stringify({...g,samples:compact.filter(x=>x.groupId===g.id).slice(0,5).map(i=>({title:i.title,line:i.productLine,member:i.member,evidence:i.evidence?.filter(e=>/aniplex|fate-go|typemoon/.test(e.url)).slice(0,2)}))}));
+for(const g of groups.slice(0,7))console.log(JSON.stringify({id:g.id,label:g.label,count:g.activeSnapshotCount,protected:g.protectedEditorialCount}));
 
