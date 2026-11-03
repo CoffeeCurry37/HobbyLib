@@ -1,5 +1,7 @@
 # 当前任务：V6正式收藏雷达整理
 
+执行断点：正式第 67 版已上线，完整演练通过，477 批正式写入进行中。先查 `research/production-v6-20261102/rollout.json`；本地正式源码副本 `hobbylib-live-v6/work/v6/apply-receipts.jsonl` 是逐批事实依据。完成写入后导出 production-after-metadata.json 并运行 verify-v6-production.mjs，再重新计划及应用通过副本检查的合并，最终导出复读、关闭临时维护窗口并更新 GitHub。禁止重放成功批次。
+
 更新：2026-11-02。用户明确授权更新正式站和已有商品库，安全冲突可合并；覆盖此前隔离限制。先读 [V6规范](RECOGNITION_V6.md)。
 
 1. 修复裸数字卷号的系列触发，核实并补齐 P248 音像卷目；P196 保持非 TYPE-MOON 归属，补清资料与图片。

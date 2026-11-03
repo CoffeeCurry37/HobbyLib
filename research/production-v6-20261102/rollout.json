@@ -1,0 +1,16 @@
+{
+  "stage": "applying",
+  "siteVersion": 67,
+  "siteCommit": "7b4309fc715cc085df79ffeea9c21c454e43835c",
+  "at": "2026-11-03T01:23:43.238Z",
+  "simulation": "simulation.json",
+  "batches": 477,
+  "changes": 9531,
+  "ownerConfirmed": true,
+  "backup": "work/v6/production-before.json",
+  "receipts": "work/v6/apply-receipts.jsonl",
+  "resume": "scripts/apply-v6-batches.mjs",
+  "mergeSimulation": "merge-simulation.json",
+  "safeMerges": 18,
+  "deferredMerges": 7
+}

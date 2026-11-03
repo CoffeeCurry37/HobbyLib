@@ -1,6 +1,6 @@
 # HobbyLib 工作入口
 
-当前执行：2026-11-02 V6 正式收藏雷达整理，用户已授权更新正式站及已有商品库、安全合并。先读 [当前 Prompt](docs/NEXT_TASK.md) 和 [V6 规范](docs/RECOGNITION_V6.md)。下方 V5 的生产不改限制仅适用于旧阶段；旧成功动作仍禁止重放。尚无 V6 正式写入，实际断点随后更新。
+当前执行：2026-11-02 V6 正式收藏雷达整理，用户已授权更新正式站及已有商品库、安全合并。先读 [当前 Prompt](docs/NEXT_TASK.md) 和 [V6 规范](docs/RECOGNITION_V6.md)。下方 V5 的生产不改限制仅适用于旧阶段；旧成功动作仍禁止重放。正式站第 67 版已上线；477 批完整副本演练通过，9,531 条正式整理正在执行。实际成功数量以 research/production-v6-20261102/rollout.json 和本地逐批回执为准。
 
 最新完成：V5模块与身份修正。先读 [当前Prompt](docs/NEXT_TASK.md)、[V5记忆](docs/RECOGNITION_V5.md) 和 [本轮报告](research/pilot-v5-20261101/REPORT.md)；V4是历史基线。
 

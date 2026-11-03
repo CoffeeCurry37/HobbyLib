@@ -1,0 +1,14 @@
+{
+  "at": "2026-11-03T01:23:24.189Z",
+  "passed": true,
+  "batches": 477,
+  "changes": 9531,
+  "activeBefore": 35020,
+  "activeAfter": 35025,
+  "offers": 38792,
+  "offersMultisetHash": "e431d4e6cbf24c001dc3124b51c940894859dcaebd5954f15672617a4139fe5a",
+  "personalHash": "a699f57b445e7aa459ce6f389dbe3ff70c53d061de510c6daf21d44dcb3dc75b",
+  "doujinUnchanged": 19209,
+  "relationsUnchanged": 1835,
+  "atomicSplitGroups": 5
+}
