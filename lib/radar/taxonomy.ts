@@ -36,7 +36,7 @@ for(const [id,name] of [['mahoyo','魔法使之夜'],['general','TYPE-MOON 综�
 board('robot-bandai','robots','万代 BANDAI');board('robot-koto','robots','寿屋 KOTOBUKIYA');board('robot-other','robots','其他品牌');
 board('tf-takara','transformers','TAKARA TOMY');board('tf-hasbro','transformers','Hasbro');board('tf-other','transformers','其他品牌');
 export const DEFAULT_CATALOG_NODES:CatalogNode[]=seed;
-export function catalogueNodes(prefs:Pick<Prefs,'catalogueNodes'>){const overrides=new Map((prefs.catalogueNodes||[]).map(n=>[n.id,n])),defaults=new Set(DEFAULT_CATALOG_NODES.map(n=>n.id));return [...DEFAULT_CATALOG_NODES.map(n=>({...n,...overrides.get(n.id),...(['fate','fate-grand','tsukihime','kara','typemoon'].includes(n.id)?{parentId:'type-moon',name:n.name}:{})})),...(prefs.catalogueNodes||[]).filter(n=>!defaults.has(n.id))];}
+export function catalogueNodes(prefs:Pick<Prefs,'catalogueNodes'>){const overrides=new Map((prefs.catalogueNodes||[]).map(n=>[n.id,n])),defaults=new Set(DEFAULT_CATALOG_NODES.map(n=>n.id));return [...DEFAULT_CATALOG_NODES.map(n=>({...n,...overrides.get(n.id),...(['fate','fate-grand','tsukihime','kara','typemoon'].includes(n.id)?{parentId:'type-moon',name:n.name}:{})})),...(prefs.catalogueNodes||[]).filter(n=>!defaults.has(n.id))].filter(n=>n.id!=='fate').map(n=>({...n,parentId:n.id==='fate-general'?'type-moon':n.parentId==='fate'?'fate-general':n.parentId}));}
 export const eventName=activityName;
 export function productType(item:Item){if(item.kuji||/一番くじ|一番賞|一番赏|Ichiban Kuji/i.test(item.title))return '一番赏';if(item.kind==='bonus'||/(?:入場|来場|購入|店舗)特典/.test(item.title))return /(?:入場|来場)/.test(item.title)?'入场特典':'特典';return productClass(item);}
 function legacyPath(item:Item):string[]{
@@ -76,7 +76,7 @@ export function buildCatalogue(items:Item[],prefs:Pick<Prefs,'catalogueNodes'>,r
  const byItem=new Map(items.map(i=>[i.id,i])),groupParents=new Map(relations.filter(r=>r.kind==='contains'&&(byItem.get(r.fromId)?.catalogueGroup||byItem.get(r.fromId)?.kuji?.catalogueGroup)).map(r=>[r.toId,r.fromId]));
  const anchor=(item:Item)=>{let current=item;const seen=new Set<string>();while(groupParents.has(current.id)&&!seen.has(current.id)){seen.add(current.id);const parent=byItem.get(groupParents.get(current.id)!);if(!parent)break;current=parent;}return current;};
  for(const item of items){let parentId:string|null=null;for(const name of inferredPath(item))parentId=ensure(parentId,name).id;itemNodes.set(item.id,parentId!);}
- for(const item of items)if(item.catalogNodeId&&byId.has(item.catalogNodeId))itemNodes.set(item.id,item.catalogNodeId);
+ for(const item of items){const selected=item.catalogNodeId==='fate'?'fate-general':item.catalogNodeId;if(selected&&byId.has(selected))itemNodes.set(item.id,selected);}
  // Keep module pages homogeneous, including existing manually selected boards.
  const parents=new Set(nodes.map(n=>n.parentId)),direct=new Map<string,Item[]>();
  for(const item of items){const id=itemNodes.get(item.id)!;if(!direct.has(id))direct.set(id,[]);direct.get(id)!.push(item);}

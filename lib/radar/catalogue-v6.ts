@@ -6,6 +6,7 @@ import {resolvedSeries} from './work-identity';
 import {activityName} from './product-features';
 import {canonicalEvent} from './event-name';
 import {currentEditorial} from './editorial';
+import {fateRelated} from './recognition';
 
 export function researchSignal(item:Item){
  const major=productClass(item),event=catalogueEvent(item);
@@ -38,12 +39,21 @@ export function catalogueV6Facts(item:Item):Item {
 }
 export function v6Path(item:Item,legacy:string[]):string[] {
  const major=productClass(item);if(major==='同人')return legacy;
- const work=canonicalWork(resolvedSeries(item),item.title),event=catalogueEvent(item),type=productSubtype(item);
+ const work=canonicalWork(resolvedSeries(item),item.title)||(fateRelated(item.title)?'Fate 综合':''),event=catalogueEvent(item),type=productSubtype(item);
  const fate=!/WINX/i.test(work)&&/^Fate|^FGO|エルメロイ/i.test(work);
  if(major==='玩具'&&(fate||/WINX/i.test(work)))return toyPolicy(item,work);
  let path:string[];
  if(fate){path=['TYPE-MOON',work==='Fate/Grand Order'?'FGO':work||'Fate 综合'];if(/EXTELLA|EXTRA (?:CCC|Record)/i.test(work))path.splice(1,0,'Fate/EXTRA');}
- else if(/WINX/i.test(work))path=['其他收藏',work];else return legacy;
+ else if(/WINX/i.test(work))path=['其他收藏',work];else {
+  // Legacy routing sent every unrecognized kuji to Fate. Keep unknown IPs
+  // unfiled, and TYPE-MOON side works in their own directory instead.
+  if(legacy[0]==='TYPE-MOON'&&legacy[1]==='Fate'){
+   const tail=legacy.slice(3);
+   if(/TYPE[ -]?MOON|エルメロイ/.test(work+' '+item.title))return ['TYPE-MOON','其他 TYPE-MOON',...tail];
+   return [work?'其他收藏':'待归档',...(work?[work]:[]),...tail];
+  }
+  return legacy;
+ }
  if(event)path.push('展会与活动',event);
  if(item.kuji){path.push('一番赏',item.kuji.campaign);}
  else if(major==='大型周边')path.push('周边','大周边',type);
