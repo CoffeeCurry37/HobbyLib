@@ -1,8 +1,8 @@
 {
   "stage": "applying",
-  "siteVersion": 67,
-  "siteCommit": "7b4309fc715cc085df79ffeea9c21c454e43835c",
-  "at": "2026-11-03T01:23:43.238Z",
+  "siteVersion": 68,
+  "siteCommit": "2dbd8f9525635c5c272c16c7e88e23a5e44d9482",
+  "at": "2026-11-03T01:30:05.387Z",
   "simulation": "simulation.json",
   "batches": 477,
   "changes": 9531,
@@ -11,6 +11,8 @@
   "receipts": "work/v6/apply-receipts.jsonl",
   "resume": "scripts/apply-v6-batches.mjs",
   "mergeSimulation": "merge-simulation.json",
-  "safeMerges": 18,
-  "deferredMerges": 7
+  "safeMerges": 25,
+  "deferredMerges": 0,
+  "verifiedBatches": 155,
+  "verifiedChanges": 3100
 }

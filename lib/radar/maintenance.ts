@@ -5,6 +5,7 @@ import {Item,State,Relation} from './types';
 import {isBook,isSmallGoods,classify,relationCycle} from './engine';
 import {offerKey,sameProduct,updateOffer} from './identity';
 import {repairClassification} from './classification';
+import {currentEditorial,EDITORIAL_FIELDS} from './editorial';
 export function repairItem(item:Item):Item{
  if(item.schemaVersion===9)return item;const i=repairClassification(applyTitleCatalogue({...item,offers:item.offers.map(o=>({...o,observation:o.observation||'list' as const,listingTitle:o.listingTitle||item.aliases?.[0]||item.title,variant:o.variant||editionVariant(o.listingTitle||item.aliases?.[0]||item.title),jan:o.jan||item.jan,isbn:o.isbn||item.isbn,releaseDate:o.releaseDate||item.releaseDate}))}));
  if(i.bucket==='junk'&&!isSmallGoods(i.title,i.category))i.bucket='normal';
@@ -33,6 +34,9 @@ export function mergeProducts(state:State,fromId:string,toId:string){
  for(const r of deduped.filter(r=>r.kind==='contains'))if(relationCycle(r.fromId,r.toId,deduped.filter(x=>x.id!==r.id)))throw new Error('合并会形成循环套装关系，请先核对关联');
  const touches=(r:Relation)=>[r.fromId,r.toId].some(id=>id===fromId||id===toId);
  // A merge can introduce stronger source classifications and obsolete class tags.
+ // A merge adds observations and provenance; it must not invalidate an
+ // accepted product description merely by appending inferred source tags.
+ if(currentEditorial(to)){for(const key of EDITORIAL_FIELDS){if(to[key]===undefined)delete (merged as any)[key];else (merged as any)[key]=to[key];}merged.image=to.image;}
  const finalized=repairClassification(applyTitleCatalogue(merged));
  const archived:Item={...from,archivedInto:toId,mergeSnapshot:JSON.stringify({version:2,target:to,relations:state.relations.filter(touches),afterRelations:deduped.filter(touches),after:JSON.stringify(finalized)})};return{merged:finalized,archived,relations:deduped};
 }

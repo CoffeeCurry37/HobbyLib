@@ -1,45 +1,9 @@
 {
-  "at": "2026-11-02T20:34:20.835Z",
+  "at": "2026-11-03T01:29:44.374Z",
   "passed": true,
   "candidates": 25,
-  "approved": 18,
-  "deferred": [
-    {
-      "fromId": "source-176662fc673ebffdfa9af51df48ef6f2",
-      "toId": "215ffa94-b1f2-4f50-bcb4-4c48b25fb47a",
-      "reason": "accepted-target-facts-would-change"
-    },
-    {
-      "fromId": "source-2ab7153c148fe51021d7a101bcd9d074",
-      "toId": "60ea2284-dc51-4c9a-ad5b-10b43e6b3e1f",
-      "reason": "accepted-target-facts-would-change"
-    },
-    {
-      "fromId": "source-30832e37c1a74574ad1669b62ef7550e",
-      "toId": "d01db31b-9e71-49f5-91bf-84d61b3e17a7",
-      "reason": "accepted-target-facts-would-change"
-    },
-    {
-      "fromId": "source-8c29e7fc02299e54316f9272fee01cf9",
-      "toId": "b8618800-560e-4e8f-afab-c2fef66f8bf4",
-      "reason": "accepted-target-facts-would-change"
-    },
-    {
-      "fromId": "source-c66e8e028a8448751d13e4143a32b94d",
-      "toId": "8d18e28e-d06d-4235-ad5c-ffaf6d30612f",
-      "reason": "accepted-target-facts-would-change"
-    },
-    {
-      "fromId": "source-61992eafbd726e4e2f5e338a35fc6688",
-      "toId": "source-221726d2332a844eed38ec08c0ac0d1a",
-      "reason": "accepted-target-facts-would-change"
-    },
-    {
-      "fromId": "source-ffde4be208e8e6758942a19308b7d053",
-      "toId": "952e3e90-c625-4580-85b7-a8145c252861",
-      "reason": "accepted-target-facts-would-change"
-    }
-  ],
+  "approved": 25,
+  "deferred": [],
   "archivePreservesOriginalItems": true,
   "relationshipQuantitiesChecked": true
 }
