@@ -1,0 +1,23 @@
+{
+  "at": "2026-11-03T06:34:56.377Z",
+  "stage": "metadata-verified",
+  "passed": true,
+  "curated": 9531,
+  "batches": 477,
+  "merges": 0,
+  "activeBefore": 35020,
+  "activeAfter": 35025,
+  "archivedBefore": 8549,
+  "archivedAfter": 8549,
+  "relationsBefore": 1835,
+  "relationsAfter": 1835,
+  "metadataOfferCount": 38792,
+  "metadataOfferHash": "e431d4e6cbf24c001dc3124b51c940894859dcaebd5954f15672617a4139fe5a",
+  "doujinUnchanged": 19209,
+  "editorialUnchangedDuringCuration": 369,
+  "personalFieldsPreserved": true,
+  "prefsPreserved": true,
+  "originalArchivePreserved": true,
+  "mixedLevels": 0,
+  "afterHash": "7118b19a5982ad11e85e72a881cdb3ad8f9654227a47180744853f0184301f16"
+}

@@ -1,5 +1,5 @@
 import type {Item} from './types';
-import {canonicalWork,canonicalMaker,canonicalLine,lineSignal,toyPolicy,publicationNumber} from './catalogue-policy.mjs';
+import {canonicalWork,canonicalMaker,canonicalLine,lineSignal,toyPolicy,publicationNumber,nonTypeMoonWork} from './catalogue-policy.mjs';
 import {productClass,productSubtype} from './product-class';
 import {manualField,cleanProductTitle} from './catalog';
 import {resolvedSeries} from './work-identity';
@@ -41,10 +41,11 @@ export function v6Path(item:Item,legacy:string[]):string[] {
  const major=productClass(item);if(major==='同人')return legacy;
  const work=canonicalWork(resolvedSeries(item),item.title)||(fateRelated(item.title)?'Fate 综合':''),event=catalogueEvent(item),type=productSubtype(item);
  const fate=!/WINX/i.test(work)&&/^Fate|^FGO|エルメロイ/i.test(work);
- if(major==='玩具'&&(fate||/WINX/i.test(work)))return toyPolicy(item,work);
+ const other=nonTypeMoonWork(item.title)||nonTypeMoonWork(work);
+ if(major==='玩具'&&(fate||other))return toyPolicy(item,work);
  let path:string[];
  if(fate){path=['TYPE-MOON',work==='Fate/Grand Order'?'FGO':work||'Fate 综合'];if(/EXTELLA|EXTRA (?:CCC|Record)/i.test(work))path.splice(1,0,'Fate/EXTRA');}
- else if(/WINX/i.test(work))path=['其他收藏',work];else {
+ else if(other)path=['其他收藏',work];else {
   // Legacy routing sent every unrecognized kuji to Fate. Keep unknown IPs
   // unfiled, and TYPE-MOON side works in their own directory instead.
   if(legacy[0]==='TYPE-MOON'&&legacy[1]==='Fate'){

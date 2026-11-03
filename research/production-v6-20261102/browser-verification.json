@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-03",
+  "siteVersion": 70,
+  "liveUrl": "https://collector-radar.martainjonn.chatgpt.site",
+  "activeCountVisible": 35000,
+  "relationCountVisible": 1824,
+  "fgoModulesVisible": ["展会与活动", "周边", "卡片", "影像", "书籍", "一番赏"],
+  "terra": {"work": "FATE: THE WINX SAGA", "maker": "BANDAI SPIRITS", "line": "Q posket", "imageLoaded": true, "imageWidth": 700},
+  "babylonia": {"dvdVolumesVisible": [1,2,3,4,5], "bluRayVolumesVisible": [1,2,3,4,5], "volume3DvdImageLoaded": true, "imageWidth": 819, "summaryVisible": true, "historicalOffersVisible": 3},
+  "browserErrors": [],
+  "limits": "Representative pages only; not every historical image or source was rechecked. Initial browser session reconnect and one loading timeout recovered. Historical unattributed tags and missing-source thumbnails remain preserved; the new canonical work and media identity control classification."
+}
