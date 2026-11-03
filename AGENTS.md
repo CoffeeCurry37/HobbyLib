@@ -1,5 +1,7 @@
 # HobbyLib 工作入口
 
+交接入口：[主要记忆与接续说明](docs/PROJECT_MEMORY.md)。用户已要求本次保存记忆后结束对话；没有待重放的迁移，下一次行动以新请求为准。
+
 最新完成：2026-11-03 V6 已应用到正式收藏雷达（Sites 70）。477 批、9,531 条变更和 25 组合并已写入并全库复读；35,000 条有效记录，个人字段、原始挂牌与归并档案保留，临时维护入口已关闭。1,848 个系列研究分组仍需补证，不等于全库资料已核实。先读 [当前 Prompt](docs/NEXT_TASK.md)、[V6 规范](docs/RECOGNITION_V6.md) 和 [正式整理报告](research/production-v6-20261102/REPORT.md)。V5 的隔离限制是历史阶段；全部成功动作禁止重放。
 
 历史阶段：V5模块与身份修正。先读 [当前Prompt](docs/NEXT_TASK.md)、[V5记忆](docs/RECOGNITION_V5.md) 和 [本轮报告](research/pilot-v5-20261101/REPORT.md)；V4是历史基线。
