@@ -1,0 +1,973 @@
+{
+  "campaign": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial",
+  "coverage": 38,
+  "source": {
+    "url": "https://www.taghobby.com/archives/29515",
+    "at": "2026-11-04T18:15:40.807Z",
+    "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+  },
+  "rows": [
+    {
+      "itemId": "0f51f34e-ff11-4728-88a2-afb16fef74c9",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバー(プロトタイプ/納刀) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ「セイバーSpecial」",
+      "member": "セイバー(プロトタイプ/納刀)",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/601052660",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601052660",
+          "title": "トレーディングフィギュア セイバー(プロトタイプ/納刀) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601052660"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601901105",
+          "title": "トレーディングフィギュア [破損品] セイバー(プロトタイプ/納刀) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601901105"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应I賞「セイバー(プロトタイプ/納刀)」。该赏有五款常规小型人偶和一款隐藏款。"
+    },
+    {
+      "itemId": "28b170c4-287a-4027-93bf-0154ea7fee28",
+      "groupId": "series-2440e42166db007e",
+      "title": "【シークレット】セイバー(プロトタイプ/抜刀) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ「セイバーSpecial」",
+      "member": "【シークレット】セイバー(プロトタイプ/抜刀)",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/601052664",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601052664",
+          "title": "トレーディングフィギュア 【シークレット】セイバー(プロトタイプ/抜刀) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601052664"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601901224",
+          "title": "トレーディングフィギュア [破損品] 【シークレット】セイバー(プロトタイプ/抜刀) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601901224"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应I賞「【シークレット】セイバー(プロトタイプ/抜刀)」。该赏有五款常规小型人偶和一款隐藏款。"
+    },
+    {
+      "itemId": "3a34ef4c-5e3a-4259-8cec-1716bc5dfcf7",
+      "groupId": "series-2440e42166db007e",
+      "title": "-闇に染まりし暴君- セイバーオルタ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 B賞 プレミアムフィギュア",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "B賞",
+      "officialTitle": "-闇に染まりし暴君- セイバーオルタ プレミアムフィギュア",
+      "member": "-闇に染まりし暴君- セイバーオルタ プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602111997",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602111997",
+          "title": "フィギュア [ランクB] -闇に染まりし暴君- セイバーオルタ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 B賞 プレミアムフィギュア",
+          "itemCode": "602111997"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602928660",
+          "title": "フィギュア [破損品] -闇に染まりし暴君- セイバーオルタ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 B賞 プレミアムフィギュア",
+          "itemCode": "602928660"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602928954",
+          "title": "フィギュア [破損品/ランクB] -闇に染まりし暴君- セイバーオルタ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 B賞 プレミアムフィギュア",
+          "itemCode": "602928954"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602103035",
+          "title": "フィギュア 闇に染まりし暴君 セイバーオルタ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 B賞 プレミアムフィギュア （ランクB）",
+          "itemCode": "602103035"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应B賞「-闇に染まりし暴君- セイバーオルタ プレミアムフィギュア」。采用武内崇绘制的深色礼服造型，全高约 16 厘米。"
+    },
+    {
+      "itemId": "4366b5a8-7234-478f-b559-c53066bbf5a4",
+      "groupId": "series-2440e42166db007e",
+      "title": "-安息の少女剣士‐ セイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 C賞 プレミアムフィギュア",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "C賞",
+      "officialTitle": "-安息の少女剣士- セイバー プレミアムフィギュア",
+      "member": "-安息の少女剣士- セイバー プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602103036",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602103036",
+          "title": "フィギュア -安息の少女剣士‐ セイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 C賞 プレミアムフィギュア",
+          "itemCode": "602103036"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602193209",
+          "title": "フィギュア [ランクB] -安息の少女剣士‐ セイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 C賞 プレミアムフィギュア",
+          "itemCode": "602193209"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应C賞「-安息の少女剣士- セイバー プレミアムフィギュア」。以衬衫、裙装及肩扛竹刀的日常服装造型立体化，全高约 16 厘米。"
+    },
+    {
+      "itemId": "b179cf4c-19fc-4484-8f4f-5899a309c1ec",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバー&アイリスフィール ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "H賞",
+      "officialTitle": "ラバーストラップ",
+      "member": "セイバー＆アイリスフィール",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/608275682",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/608275682",
+          "title": "ストラップ(キャラクター) セイバー＆アイリスフィール ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+          "itemCode": "608275682"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应H賞「セイバー＆アイリスフィール」。以角色搭档为图案的橡胶挂绳，赏级共六种，长约 6.5 厘米。"
+    },
+    {
+      "itemId": "c5f370c1-fba8-472b-8118-26b72407759d",
+      "groupId": "series-2440e42166db007e",
+      "title": "全6種セット ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+      "status": "supported",
+      "scope": "零售全款组合",
+      "award": "H賞",
+      "officialTitle": "ラバーストラップ",
+      "member": "ラバーストラップ",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/608275686",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/608275686",
+          "title": "ストラップ(キャラクター) 全6種セット ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+          "itemCode": "608275686"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "零售记录合列了H賞「ラバーストラップ」的全部 6 款。以角色搭档为图案的橡胶挂绳，赏级共六种，长约 6.5 厘米。"
+    },
+    {
+      "itemId": "family-4ca74d7c7a2b6a0f618b46bbf14d396c",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial",
+      "status": "supported",
+      "scope": "同期系列资料",
+      "source": {
+        "url": "https://www.taito.co.jp/gc/topics/1457",
+        "at": "2026-11-04T18:15:40.767Z",
+        "sha256": "924e631e3a5172e828ae6c17cb3eed2da333d477243c9d6e54c5003df1eb5969"
+      },
+      "second": "https://www.taghobby.com/archives/29515",
+      "officialTitle": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial",
+      "summary": "这是 Fate 系列十周年一番赏第二弹「セイバーSpecial」的系列目录。Taito 的同期公告列明自 2014 年 9 月 13 日起陆续销售。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-A",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial A賞 -誇り高き騎士王- セイバー プレミアムフィギュア 赏级档案",
+      "status": "supported",
+      "scope": "奖级档案",
+      "award": "A賞",
+      "officialTitle": "-誇り高き騎士王- セイバー プレミアムフィギュア",
+      "member": "-誇り高き騎士王- セイバー プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602103034",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本页汇总A賞「-誇り高き騎士王- セイバー プレミアムフィギュア」。造型为高举圣剑的骑士王，全高约 31 厘米，附 ABS 底座。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-B",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial B賞 -闇に染まりし暴君- セイバーオルタ プレミアムフィギュア 赏级档案",
+      "status": "supported",
+      "scope": "奖级档案",
+      "award": "B賞",
+      "officialTitle": "-闇に染まりし暴君- セイバーオルタ プレミアムフィギュア",
+      "member": "-闇に染まりし暴君- セイバーオルタ プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602111997",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本页汇总B賞「-闇に染まりし暴君- セイバーオルタ プレミアムフィギュア」。采用武内崇绘制的深色礼服造型，全高约 16 厘米。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-C",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial C賞 -安息の少女剣士- セイバー プレミアムフィギュア 赏级档案",
+      "status": "supported",
+      "scope": "奖级档案",
+      "award": "C賞",
+      "officialTitle": "-安息の少女剣士- セイバー プレミアムフィギュア",
+      "member": "-安息の少女剣士- セイバー プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602103036",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本页汇总C賞「-安息の少女剣士- セイバー プレミアムフィギュア」。以衬衫、裙装及肩扛竹刀的日常服装造型立体化，全高约 16 厘米。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-D",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial D賞 マスターアルトリア プレミアムフィギュア 赏级档案",
+      "status": "supported",
+      "scope": "奖级档案",
+      "award": "D賞",
+      "officialTitle": "マスターアルトリア プレミアムフィギュア",
+      "member": "マスターアルトリア プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602103037",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本页汇总D賞「マスターアルトリア プレミアムフィギュア」。采用武内崇笔下的水手服 Master Artoria 造型，全高约 16 厘米。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-E",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial E賞 B1アートポスター 全3種セット",
+      "status": "supported",
+      "scope": "零售全款组合",
+      "award": "E賞",
+      "officialTitle": "B1アートポスター",
+      "member": "B1アートポスター",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/608924613",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/608924613",
+          "title": "ポスター(アニメ) B1アートポスター 全3種セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 E賞",
+          "itemCode": "608924613"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "零售记录合列了E賞「B1アートポスター」的全部 3 款。该赏共有三款 B1 海报，图案分别出自三部 Fate 作品。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-F",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial F賞 ポストカード【8枚セット】 全3種セット",
+      "status": "supported",
+      "scope": "零售全款组合",
+      "award": "F賞",
+      "officialTitle": "ポストカード【8枚セット】",
+      "member": "ポストカード【8枚セット】",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/892504656",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/892504656",
+          "title": "ポストカード(キャラクター) 全3種セット ポストカード8枚セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 F賞",
+          "itemCode": "892504656"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "零售记录合列了F賞「ポストカード【8枚セット】」的全部 3 款。每份由八张明信片组成，三个组合共收录 24 种图案。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-G",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial G賞 プレミアムアートグラス 全6種セット",
+      "status": "supported",
+      "scope": "零售全款组合",
+      "award": "G賞",
+      "officialTitle": "プレミアムアートグラス",
+      "member": "プレミアムアートグラス",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/992015923",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/992015923",
+          "title": "グラス(キャラクター) 全6種セット プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+          "itemCode": "992015923"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "零售记录合列了G賞「プレミアムアートグラス」的全部 6 款。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-I",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial I賞 きゅんキャラ「セイバーSpecial」 全6種セット",
+      "status": "supported",
+      "scope": "零售全款组合",
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ「セイバーSpecial」",
+      "member": "きゅんキャラ「セイバーSpecial」",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/601801953",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601801953",
+          "title": "トレーディングフィギュア 全6種セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601801953"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "零售记录合列了I賞「きゅんキャラ「セイバーSpecial」」的全部 6 款。该赏有五款常规小型人偶和一款隐藏款。"
+    },
+    {
+      "itemId": "kuji-group-fate2014-2-lastone",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial ラストワン賞 -誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア 赏级档案",
+      "status": "supported",
+      "scope": "奖级档案",
+      "award": "ラストワン賞",
+      "officialTitle": "-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア",
+      "member": "-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?scode=FIGURE-007685-R",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本页汇总ラストワン賞「-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア」。最后一抽版由 AmiAmi 标注为含剑全高约 31 厘米、头顶高约 16 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-A-1",
+      "groupId": "series-2440e42166db007e",
+      "title": "誇り高き騎士王 セイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 A賞 プレミアムフィギュア",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "A賞",
+      "officialTitle": "-誇り高き騎士王- セイバー プレミアムフィギュア",
+      "member": "-誇り高き騎士王- セイバー プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602103034",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602103034",
+          "title": "フィギュア 誇り高き騎士王 セイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 A賞 プレミアムフィギュア",
+          "itemCode": "602103034"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应A賞「-誇り高き騎士王- セイバー プレミアムフィギュア」。造型为高举圣剑的骑士王，全高约 31 厘米，附 ABS 底座。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-D-1",
+      "groupId": "series-2440e42166db007e",
+      "title": "マスターアルトリア 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 D賞 プレミアムフィギュア",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "D賞",
+      "officialTitle": "マスターアルトリア プレミアムフィギュア",
+      "member": "マスターアルトリア プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602103037",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602103037",
+          "title": "フィギュア マスターアルトリア 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 D賞 プレミアムフィギュア",
+          "itemCode": "602103037"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应D賞「マスターアルトリア プレミアムフィギュア」。采用武内崇笔下的水手服 Master Artoria 造型，全高约 16 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-F-1",
+      "groupId": "series-2440e42166db007e",
+      "title": "アソートA ポストカード8枚セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 F賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "F賞",
+      "officialTitle": "ポストカード【8枚セット】",
+      "member": "アソートA",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/892504653",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/892504653",
+          "title": "ポストカード(キャラクター) アソートA ポストカード8枚セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 F賞",
+          "itemCode": "892504653"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应F賞「アソートA」。每份由八张明信片组成，三个组合共收录 24 种图案。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-F-2",
+      "groupId": "series-2440e42166db007e",
+      "title": "アソートB ポストカード8枚セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 F賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "F賞",
+      "officialTitle": "ポストカード【8枚セット】",
+      "member": "アソートB",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/892504654",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/892504654",
+          "title": "ポストカード(キャラクター) アソートB ポストカード8枚セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 F賞",
+          "itemCode": "892504654"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应F賞「アソートB」。每份由八张明信片组成，三个组合共收录 24 种图案。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-F-3",
+      "groupId": "series-2440e42166db007e",
+      "title": "アソートC ポストカード8枚セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 F賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "F賞",
+      "officialTitle": "ポストカード【8枚セット】",
+      "member": "アソートC",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/892504655",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/892504655",
+          "title": "ポストカード(キャラクター) アソートC ポストカード8枚セット 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 F賞",
+          "itemCode": "892504655"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应F賞「アソートC」。每份由八张明信片组成，三个组合共收录 24 种图案。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-G-1",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバーエクストラ プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+      "status": "supported",
+      "scope": "零售成员清单及完整款名",
+      "award": "G賞",
+      "officialTitle": "プレミアムアートグラス",
+      "member": "セイバーエクストラ",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/992015917",
+          "title": "グラス(キャラクター) セイバーエクストラ プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+          "itemCode": "992015917"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应G賞「セイバーエクストラ」。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-G-3",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバーオルタ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+      "status": "supported",
+      "scope": "零售成员清单及完整款名",
+      "award": "G賞",
+      "officialTitle": "プレミアムアートグラス",
+      "member": "セイバーオルタ",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应G賞「セイバーオルタ」。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-G-4",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバー(剣構え) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+      "status": "supported",
+      "scope": "零售成员清单及完整款名",
+      "award": "G賞",
+      "officialTitle": "プレミアムアートグラス",
+      "member": "セイバー(剣構え)",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应G賞「セイバー(剣構え)」。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-G-5",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバー(髪解き) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+      "status": "supported",
+      "scope": "零售成员清单及完整款名",
+      "award": "G賞",
+      "officialTitle": "プレミアムアートグラス",
+      "member": "セイバー(髪解き)",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应G賞「セイバー(髪解き)」。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-G-6",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバー(振り向き) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+      "status": "supported",
+      "scope": "零售成员清单及完整款名",
+      "award": "G賞",
+      "officialTitle": "プレミアムアートグラス",
+      "member": "セイバー(振り向き)",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应G賞「セイバー(振り向き)」。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-H-1",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバー&衛宮士郎 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "H賞",
+      "officialTitle": "ラバーストラップ",
+      "member": "セイバー＆衛宮士郎",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/608275680",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/608275680",
+          "title": "ストラップ(キャラクター) セイバー＆衛宮士郎 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+          "itemCode": "608275680"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应H賞「セイバー＆衛宮士郎」。以角色搭档为图案的橡胶挂绳，赏级共六种，长约 6.5 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-H-2",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバー&衛宮切嗣 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "H賞",
+      "officialTitle": "ラバーストラップ",
+      "member": "セイバー＆衛宮切嗣",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/608275681",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/608275681",
+          "title": "ストラップ(キャラクター) セイバー＆衛宮切嗣 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+          "itemCode": "608275681"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应H賞「セイバー＆衛宮切嗣」。以角色搭档为图案的橡胶挂绳，赏级共六种，长约 6.5 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-H-4",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバー&沙条綾香 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "H賞",
+      "officialTitle": "ラバーストラップ",
+      "member": "セイバー＆沙条綾香",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/608275683",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/608275683",
+          "title": "ストラップ(キャラクター) セイバー＆沙条綾香 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+          "itemCode": "608275683"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应H賞「セイバー＆沙条綾香」。以角色搭档为图案的橡胶挂绳，赏级共六种，长约 6.5 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-H-5",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバーオルタ&間桐桜 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "H賞",
+      "officialTitle": "ラバーストラップ",
+      "member": "セイバーオルタ＆間桐桜",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/608275684",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/608275684",
+          "title": "ストラップ(キャラクター) セイバーオルタ＆間桐桜 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+          "itemCode": "608275684"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应H賞「セイバーオルタ＆間桐桜」。以角色搭档为图案的橡胶挂绳，赏级共六种，长约 6.5 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-H-6",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバーエクストラ&岸波白野 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "H賞",
+      "officialTitle": "ラバーストラップ",
+      "member": "セイバーエクストラ＆岸波白野",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/608275685",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/608275685",
+          "title": "ストラップ(キャラクター) セイバーエクストラ＆岸波白野 ラバーストラップ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 H賞",
+          "itemCode": "608275685"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应H賞「セイバーエクストラ＆岸波白野」。以角色搭档为图案的橡胶挂绳，赏级共六种，长约 6.5 厘米。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-I-1",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバーエクストラ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ「セイバーSpecial」",
+      "member": "セイバーエクストラ",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/601052659",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601052659",
+          "title": "トレーディングフィギュア セイバーエクストラ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601052659"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应I賞「セイバーエクストラ」。该赏有五款常规小型人偶和一款隐藏款。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-I-3",
+      "groupId": "series-2440e42166db007e",
+      "title": "赤のセイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ「セイバーSpecial」",
+      "member": "赤のセイバー",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/601052661",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601052661",
+          "title": "トレーディングフィギュア 赤のセイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601052661"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应I賞「赤のセイバー」。该赏有五款常规小型人偶和一款隐藏款。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-I-4",
+      "groupId": "series-2440e42166db007e",
+      "title": "桜セイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ「セイバーSpecial」",
+      "member": "桜セイバー",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/601052662",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601052662",
+          "title": "トレーディングフィギュア 桜セイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601052662"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应I賞「桜セイバー」。该赏有五款常规小型人偶和一款隐藏款。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-I-5",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバーライオン 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ「セイバーSpecial」",
+      "member": "セイバーライオン",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/601052663",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/601052663",
+          "title": "トレーディングフィギュア セイバーライオン 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
+          "itemCode": "601052663"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应I賞「セイバーライオン」。该赏有五款常规小型人偶和一款隐藏款。"
+    },
+    {
+      "itemId": "kuji-member-fate2014-2-lastone-1",
+      "groupId": "series-2440e42166db007e",
+      "title": "-誇り高き騎士王- セイバー ラストワンver. 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 ラストワン賞 プレミアムフィギュア",
+      "status": "supported",
+      "scope": "同期奖级及留存商品号",
+      "award": "ラストワン賞",
+      "officialTitle": "-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア",
+      "member": "-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/602103038",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/602103038",
+          "title": "フィギュア -誇り高き騎士王- セイバー ラストワンver. 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 ラストワン賞 プレミアムフィギュア",
+          "itemCode": "602103038"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应ラストワン賞「-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア」。最后一抽版由 AmiAmi 标注为含剑全高约 31 厘米、头顶高约 16 厘米。"
+    },
+    {
+      "itemId": "source-8ab2acf3ebe1253e67f756e0f4bfd1f2",
+      "groupId": "series-2440e42166db007e",
+      "title": "一番くじプレミアム Fateシリーズ 10周年記念 第二弾 セイバーSpecial I賞 きゅんキャラ プロトタイプセイバー 納刀(プライズ)",
+      "status": "supported",
+      "scope": "独立商品号及纳刀限定",
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ「セイバーSpecial」",
+      "member": "セイバー（プロトタイプ／納刀）",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-049131-R",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应I賞「セイバー（プロトタイプ／納刀）」。该赏有五款常规小型人偶和一款隐藏款。"
+    },
+    {
+      "itemId": "source-f22431653b518f27639d9d88c50f7593",
+      "groupId": "series-2440e42166db007e",
+      "title": "セイバーオルタ プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+      "status": "supported",
+      "scope": "零售成员清单及完整款名",
+      "award": "G賞",
+      "officialTitle": "プレミアムアートグラス",
+      "member": "セイバーオルタ",
+      "source": {
+        "url": "https://www.taghobby.com/archives/29515",
+        "at": "2026-11-04T18:15:40.807Z",
+        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
+      "contextSource": "https://www.taito.co.jp/gc/topics/1457",
+      "archivedRetail": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/992015920",
+          "title": "グラス(キャラクター) セイバー(剣構え) プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+          "itemCode": "992015920"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/992015921",
+          "title": "グラス(キャラクター) セイバー(髪解き) プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+          "itemCode": "992015921"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/992015922",
+          "title": "グラス(キャラクター) セイバー(振り向き) プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+          "itemCode": "992015922"
+        },
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/992015919",
+          "title": "グラス(キャラクター) セイバーオルタ プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
+          "itemCode": "992015919"
+        }
+      ],
+      "knownAt": "2026-10-05T20:14:26.783Z",
+      "summary": "本件对应G賞「セイバーオルタ」。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
+    }
+  ]
+}

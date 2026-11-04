@@ -1,0 +1,16 @@
+{
+  "stage": "research-in-progress-no-production-write",
+  "order": [
+    "second-wave-38",
+    "first-wave-34",
+    "AJ2021-32",
+    "AJ2019-31"
+  ],
+  "secondWave": {
+    "reviewed": 38,
+    "prepared": 38,
+    "applied": 0
+  },
+  "next": "核对第一弹34条；第二弹仍须复核来源类型及实时写前保护。",
+  "productionMaintenanceClosed": true
+}
