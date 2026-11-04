@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-03T23:27:14.015Z",
+  "receiptEntries": 649,
+  "uniqueSourceUrls": 617,
+  "networkRequests": 318,
+  "cacheReuseOperations": 331,
+  "networkBytes": 184004331,
+  "captureFailures": 0,
+  "additionalInitialPublicResponsesNotCached": 4,
+  "paidModelApiCalls": 0,
+  "totalCost": "unknown; session/search/site compute bills unavailable",
+  "limits": "Counts cover local capture receipts, not search provider traffic. Four initial public responses were not cached after a local directory error and were fetched again."
+}
