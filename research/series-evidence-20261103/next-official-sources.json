@@ -1,5 +1,4 @@
 {
-  "stage": "official-entry-located-item-review-pending",
   "sources": [
     {
       "groupId": "series-2d2173a124bfeebc",
@@ -29,5 +28,7 @@
       "officialSource": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002264&pid=sap_0000001440&shop=0",
       "nextCheck": "按奖级、角色及套装范围对应"
     }
-  ]
+  ],
+  "stage": "four-series-reviewed-and-live-writes-closed",
+  "currentCheckpoint": "four-series/resume.json"
 }

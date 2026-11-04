@@ -1,0 +1,86 @@
+[
+  {
+    "batch": 0,
+    "items": 20,
+    "planDigest": "2c08277fa0deaebb7f1d44fc9b1c283e9ca6346cccd4d02886ce532e5e109c84",
+    "afterHash": "40b88db66c2c4dc36b5777d3ebd988efacf797abe3ce490b25d2361b2823610d",
+    "at": "2026-11-04T12:24:16.815Z"
+  },
+  {
+    "batch": 1,
+    "items": 20,
+    "planDigest": "e24fe691df72d9f016db4ec270182cb93fa95ff2b1267786a9b390a1ceed4630",
+    "afterHash": "a18d29e8e2c1a7ca823bf06404c38af32153c623fba77a925df3c84fb89ae9a7",
+    "at": "2026-11-04T12:24:18.250Z"
+  },
+  {
+    "batch": 2,
+    "items": 20,
+    "planDigest": "89d2eba205f2ba4b2da85d0d6d52d7ec754a27730a8c20ba09758bbbb34a7d1a",
+    "afterHash": "2f95720ee3449b5dbc23aece7cd3f3eb9bb91aa662aafb3d4f2ea59afff2fe64",
+    "at": "2026-11-04T12:24:19.567Z"
+  },
+  {
+    "batch": 3,
+    "items": 20,
+    "planDigest": "0ae908b55dc201eb73424cd36811f92930dd7aaeb489fd4b86fff623b5819b5f",
+    "afterHash": "8d8fcd8ecb91207784a8b8f0550a94f7aeece7bd2c34fc812886128ce4505b9c",
+    "at": "2026-11-04T12:24:20.490Z"
+  },
+  {
+    "batch": 4,
+    "items": 20,
+    "planDigest": "297756dee3f0b93307339a4403d8293fbfc527247ec4536c5957a43a9d8167c4",
+    "afterHash": "2db1dd0516004773bbeb3ccc7ef307edf58439ded792bbfd319491d258bef22a",
+    "at": "2026-11-04T12:24:21.974Z"
+  },
+  {
+    "batch": 5,
+    "items": 20,
+    "planDigest": "19996c1080cf764127e93b652b8d57d5f3f2419ac9f6ff7f422b755f73a94a84",
+    "afterHash": "693ce03e8e9fb1af078177ada0cd8056ec56e074f9486b9e4feb544d2bc90980",
+    "at": "2026-11-04T12:24:23.053Z"
+  },
+  {
+    "batch": 6,
+    "items": 20,
+    "planDigest": "ae122acfb027786a531d41324c92ef4d610a8978e8076f3c6a880a726e1f7256",
+    "afterHash": "eaf1e17339b31f7ce74e7c0313d127c7f677af294ed7b5d3185ef23fbc244464",
+    "at": "2026-11-04T12:24:24.150Z"
+  },
+  {
+    "batch": 7,
+    "items": 20,
+    "planDigest": "df3efbba9560ceaea2f74ea185198bcb97edd3d19b325bc3f92806df200d34db",
+    "afterHash": "ca3decdff473b4d1a4f5edf112a87d4c5836bd3fd43a792dadfb8c4898f3c7d2",
+    "at": "2026-11-04T12:24:25.251Z"
+  },
+  {
+    "batch": 8,
+    "items": 20,
+    "planDigest": "ab632d16d5ccc8a9ea769bae68caa62e976c824b791b508375f364ffd1237da2",
+    "afterHash": "d27e22614769535882cdb9c203bfaba070d93feeb6d80ff0c667d075a7df7b1b",
+    "at": "2026-11-04T12:24:26.222Z"
+  },
+  {
+    "batch": 9,
+    "items": 20,
+    "planDigest": "39e2a141d36f53e2eef2e18dd2f75986f8b567002d6b1d9fffd7ebf7fa621dc3",
+    "afterHash": "f32afc0012abaab886c01daaf1e161d5fd14267116856fae3846cdb41ccb20a2",
+    "at": "2026-11-04T12:24:27.171Z"
+  },
+  {
+    "batch": 10,
+    "items": 20,
+    "planDigest": "fcc9c6d66a7639d5066c49de6850a45f214029e76a6e1eb1f1176d0f2bb206ad",
+    "afterHash": "ae6aa581095dfe9b28ccdb5685afce041827068d139466e80cb80b12a5968d6d",
+    "at": "2026-11-04T12:24:28.173Z"
+  },
+  {
+    "batch": 11,
+    "items": 12,
+    "planDigest": "1f148451b59de5d46836be34a4d5864a03d3538d18d1b328e6e5874e5abd4bbf",
+    "afterHash": "a8a76b4eb1c95adf6c80b0927610928bd4c696bd2f9cd146ba9bbc976ded04bb",
+    "at": "2026-11-04T12:24:29.210Z"
+  }
+]

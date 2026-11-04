@@ -1,0 +1,241 @@
+{
+  "closed": true,
+  "productionApplied": 232,
+  "verifiedBatches": 12,
+  "groups": [
+    {
+      "groupId": "series-2d2173a124bfeebc",
+      "label": "Fate/Grand Order 简体字版10周年",
+      "snapshotItems": 72,
+      "productionApplied": 72,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-e534683eefd735ca",
+      "label": "AnimeJapan 2023",
+      "snapshotItems": 63,
+      "productionApplied": 63,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-bac691e8c18935ba",
+      "label": "一番くじ セレブサマーエクスペリエンス＆アーキタイプインセプション",
+      "snapshotItems": 63,
+      "productionApplied": 45,
+      "pendingEvidence": 18,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-f1bc334364dac7c1",
+      "label": "一番くじ 帰ってきた！サーヴァント・サマー・フェスティバル！！",
+      "snapshotItems": 53,
+      "productionApplied": 52,
+      "pendingEvidence": 1,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "outstanding": [
+    {
+      "id": "kuji-group-fate28-E",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ E賞 ムーンキャンサー/岸波白野(男/女) ぬいジェニック 全2種セット",
+      "award": "E賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": null,
+      "reason": "set-or-lot-scope-requires-its-own-proof",
+      "next": "核对独立套装编号或零售清单，分清官方发奖单位、零售全款组合及卖家自组范围。"
+    },
+    {
+      "id": "kuji-group-fate28-G",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ G賞 イラストボードスタンド 全10種セット",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "set-or-lot-scope-requires-its-own-proof",
+      "next": "核对独立套装编号或零售清单，分清官方发奖单位、零售全款组合及卖家自组范围。"
+    },
+    {
+      "id": "source-0e5c31bfaf7883302bc4b62d0103ea4b",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "まるごしシンジ君(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://jp.mercari.com/shops/product/2JWmWMKkkpjuFKRoBaDLHQ",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-0f6e1dfe3ac3c2a15b371f6239c1d2b6",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ビースト/エレシュキガル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-1835c406e1115c6deb1d27b70869f9a0",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/カルナ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-22b159241cf4b77639c52cf6b1eb15a3",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/BBドバイ(ラバーバンド) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://jp.mercari.com/shops/product/2JWmWMKkkpjuFKRoBaDLHQ",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-2eb0e5e2618f0815b5355c89452f9f8d",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "フォーリナー/謎のヒロインXX〔オルタ〕 イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-36386abb60a39f5fad86e56297a587d0",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/スターシエル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-5d5873ef09346158871350f13d3aa571",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ライダー/バーソロミュー・ロバーツ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-6f5d9864eb4061d564640c0dbc40250c",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/テノチティトラン&ランサー/パーシヴァル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-7940664925ab422d15ef17138f7bb3d1",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/ドブルイニャ・ニキチッチ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-82377a4b0c3aba018de555a5d5041ec8",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate Grand Order セレブサマーエクスペリエンス&アーキタイプインセプション I賞 きゅんキャラ アクリルスタンド 11種セット",
+      "award": null,
+      "officialSource": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002264&pid=sap_0000008342&shop=0",
+      "secondarySource": null,
+      "reason": "target-series-text-not-exact",
+      "next": "核对独立套装编号或零售清单，分清官方发奖单位、零售全款组合及卖家自组范围。"
+    },
+    {
+      "id": "source-8e16c15c6b4f87290aea212696c6c508",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "シンボル(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://jp.mercari.com/shops/product/2JWmWMKkkpjuFKRoBaDLHQ",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-abb3ced5176e0da36eca8d8fd32c3671",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order 〜セレブサマーエクスペリエンス&アーキタイプインセプション〜 I賞きゅんキャラアクリルスタンド 7個セット",
+      "award": "I賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618873",
+      "reason": "set-or-lot-scope-requires-its-own-proof",
+      "next": "核对独立套装编号或零售清单，分清官方发奖单位、零售全款组合及卖家自组范围。"
+    },
+    {
+      "id": "source-b0432f26064ac31ee79467c7e94db090",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ルギマート(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://jp.mercari.com/shops/product/2JWmWMKkkpjuFKRoBaDLHQ",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "核对实物类型。旧标题写挂件，官方奖级说明还列有杯垫。"
+    },
+    {
+      "id": "source-b7938a6a7f8255a175f642ad25293f9f",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "アヴェンジャー/徐福 イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-f3cac9011dd7236c08661eb9977d0dbb",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/カズラドロップ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://www.suruga-ya.jp/product/detail/561618847",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-fb1930f4f1e1947a67631edd14037344",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/カズラドロップ(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "officialSource": "https://1kuji.com/products/fate28",
+      "secondarySource": "https://jp.mercari.com/shops/product/2JWmWMKkkpjuFKRoBaDLHQ",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "查找带有完整角色、职阶、造型和奖级的单件编号或包装；总览图只作参考。"
+    },
+    {
+      "id": "source-e9bcde956cd88b7aeda105a7e24b0f53",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "アヴェンジャー/クロエ・フォン・アインツベルン ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "officialSource": "https://1kuji.com/products/fate27",
+      "secondarySource": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof",
+      "next": "零售全款清单限定クロエ的水着造型，核对本条原挂牌与实物包装是否为同款。"
+    }
+  ],
+  "completedJournal": "verified-batches.json",
+  "retryPolicy": "Only review the named gaps or changed live versions. Verified batches are closed."
+}

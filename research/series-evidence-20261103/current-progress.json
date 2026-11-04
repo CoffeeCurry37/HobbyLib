@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-04T01:39:23.469Z",
+  "at": "2026-11-04T12:25:48.364Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 13,
-  "seriesAwaitingItemReview": 1835,
+  "seriesWithItemReview": 17,
+  "seriesAwaitingItemReview": 1831,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 5372,
-  "productionApplied": 3988,
+  "coveredSnapshotItems": 5623,
+  "productionApplied": 4220,
   "protectedExisting": 3,
-  "pendingEvidence": 1381,
+  "pendingEvidence": 1400,
   "freshVersionSkips": 0,
   "lastLiveCounts": {
     "main": 15790,
@@ -147,7 +147,47 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-2d2173a124bfeebc",
+      "label": "Fate/Grand Order 简体字版10周年",
+      "snapshotItems": 72,
+      "productionApplied": 72,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-e534683eefd735ca",
+      "label": "AnimeJapan 2023",
+      "snapshotItems": 63,
+      "productionApplied": 63,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-bac691e8c18935ba",
+      "label": "一番くじ セレブサマーエクスペリエンス＆アーキタイプインセプション",
+      "snapshotItems": 63,
+      "productionApplied": 45,
+      "pendingEvidence": 18,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-f1bc334364dac7c1",
+      "label": "一番くじ 帰ってきた！サーヴァント・サマー・フェスティバル！！",
+      "snapshotItems": 53,
+      "productionApplied": 52,
+      "pendingEvidence": 1,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "next-official-sources.json"
+  "nextSourceFile": "four-series/resume.json"
 }
