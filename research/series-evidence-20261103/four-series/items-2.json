@@ -1,0 +1,1187 @@
+{
+  "series": "一番くじ Fate/Grand Order ～セレブサマーエクスペリエンス＆アーキタイプインセプション～",
+  "source": {
+    "url": "https://1kuji.com/products/fate28",
+    "at": "2026-11-01T01:45:08.318Z",
+    "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+  },
+  "counts": {
+    "official-award-retailer-member": 25,
+    "official-single": 7,
+    "official-labelled-choice": 2,
+    "set-or-lot-scope-requires-its-own-proof": 6,
+    "campaign-index": 1,
+    "award-index": 6,
+    "award-confirmed-member-or-edition-needs-separate-proof": 15,
+    "target-series-text-not-exact": 1
+  },
+  "rows": [
+    {
+      "itemId": "394e19d1-5452-4aaa-bbc8-1188f2f1fe7c",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/カルナ きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ランサー/カルナ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ランサー/カルナ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ランサー/カルナ」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "476d4375-cf36-4031-911d-be6c76bfc340",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/テノチティトラン 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 1/7 Gracemaster C賞 フィギュア",
+      "award": "C賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ムーンキャンサー/テノチティトラン フィギュア 1/7 Gracemaster",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ムーンキャンサー/テノチティトラン フィギュア 1/7 Gracemaster",
+      "member": "ムーンキャンサー/テノチティトラン フィギュア 1/7 Gracemaster",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-single",
+      "summary": "本件为C賞「ムーンキャンサー/テノチティトラン フィギュア 1/7 Gracemaster」。本奖级共 1 款。官网标注的尺寸为「約20cm」。"
+    },
+    {
+      "itemId": "8427369f-5599-49e9-8027-50d9ba923ed7",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ビースト/エレシュキガル 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 1/7 Gracemaster A賞 フィギュア",
+      "award": "A賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster",
+      "member": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-single",
+      "summary": "本件为A賞「ビースト/エレシュキガル フィギュア 1/7 Gracemaster」。本奖级共 1 款。官网标注的尺寸为「約21cm」。"
+    },
+    {
+      "itemId": "8aba3a44-70f1-4ba6-a855-c74fd69d341c",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/カルナ ぬいジェニック 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 D賞",
+      "award": "D賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ランサー/カルナ ぬいジェニック",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ランサー/カルナ ぬいジェニック",
+      "member": "ランサー/カルナ ぬいジェニック",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-single",
+      "summary": "本件为D賞「ランサー/カルナ ぬいジェニック」。本奖级共 1 款。官网标注的尺寸为「約12cm」。"
+    },
+    {
+      "itemId": "a3e345b6-fc75-4786-b732-e3f5588bbd70",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/岸波白野(女) ぬいジェニック 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 E賞",
+      "award": "E賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ムーンキャンサー/岸波白野（男/女） ぬいジェニック",
+      "status": "supported",
+      "scope": "official-labelled-choice",
+      "officialTitle": "ムーンキャンサー/岸波白野（男/女） ぬいジェニック",
+      "member": "ムーンキャンサー/岸波白野（女） ぬいジェニック",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-labelled-choice",
+      "summary": "本件为E賞「ムーンキャンサー/岸波白野（女） ぬいジェニック」。本奖级共 2 款。可选择款式。官网标注的尺寸为「約12cm」。"
+    },
+    {
+      "itemId": "d95d974e-e8ab-4f80-87ce-d20522d3b45a",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/BBコスモ 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 1/7 Gracemaster B賞 フィギュア",
+      "award": "B賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ムーンキャンサー/BBコスモ フィギュア 1/7 Gracemaster",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ムーンキャンサー/BBコスモ フィギュア 1/7 Gracemaster",
+      "member": "ムーンキャンサー/BBコスモ フィギュア 1/7 Gracemaster",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-single",
+      "summary": "本件为B賞「ムーンキャンサー/BBコスモ フィギュア 1/7 Gracemaster」。本奖级共 1 款。官网标注的尺寸为「台座込み 約22cm、キャラクター 約14cm」。"
+    },
+    {
+      "itemId": "df4fd4ec-e621-4995-9f80-23639f11d1c7",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/カズラドロップ ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "アルターエゴ/カズラドロップ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "アルターエゴ/カズラドロップ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「アルターエゴ/カズラドロップ」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "f1fb285c-4dd7-4a75-9c48-70fc7c638ad8",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "全12種セット ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "pending",
+      "reason": "set-or-lot-scope-requires-its-own-proof"
+    },
+    {
+      "itemId": "f5a3527f-8419-46be-9191-0470f09f1f7b",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/テノチティトラン きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ムーンキャンサー/テノチティトラン",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ムーンキャンサー/テノチティトラン"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/テノチティトラン」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "family-7a9cd111b5245eb99dd2722593f1cb37",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ～セレブサマーエクスペリエンス＆アーキタイプインセプション～",
+      "status": "supported",
+      "scope": "campaign-index",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "officialTitle": "一番くじ Fate/Grand Order ～セレブサマーエクスペリエンス＆アーキタイプインセプション～",
+      "proof": "official-campaign-index",
+      "summary": "本记录汇集「一番くじ Fate/Grand Order ～セレブサマーエクスペリエンス＆アーキタイプインセプション～」的官方奖项，普通奖和最后一抽奖分别列出。"
+    },
+    {
+      "itemId": "kuji-group-fate28-A",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ A賞 ビースト/エレシュキガル フィギュア 1/7 Gracemaster 赏级档案",
+      "award": "A賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「A賞 ビースト/エレシュキガル フィギュア 1/7 Gracemaster」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約21cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate28-B",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ B賞 ムーンキャンサー/BBコスモ フィギュア 1/7 Gracemaster 赏级档案",
+      "award": "B賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ムーンキャンサー/BBコスモ フィギュア 1/7 Gracemaster",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ムーンキャンサー/BBコスモ フィギュア 1/7 Gracemaster",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「B賞 ムーンキャンサー/BBコスモ フィギュア 1/7 Gracemaster」的奖级档案。本奖级共 1 款。官网标注的尺寸为「台座込み 約22cm、キャラクター 約14cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate28-C",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ C賞 ムーンキャンサー/テノチティトラン フィギュア 1/7 Gracemaster 赏级档案",
+      "award": "C賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ムーンキャンサー/テノチティトラン フィギュア 1/7 Gracemaster",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ムーンキャンサー/テノチティトラン フィギュア 1/7 Gracemaster",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「C賞 ムーンキャンサー/テノチティトラン フィギュア 1/7 Gracemaster」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約20cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate28-D",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ D賞 ランサー/カルナ ぬいジェニック 赏级档案",
+      "award": "D賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ランサー/カルナ ぬいジェニック",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ランサー/カルナ ぬいジェニック",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「D賞 ランサー/カルナ ぬいジェニック」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約12cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate28-E",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ E賞 ムーンキャンサー/岸波白野(男/女) ぬいジェニック 全2種セット",
+      "award": "E賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ムーンキャンサー/岸波白野（男/女） ぬいジェニック",
+      "status": "pending",
+      "reason": "set-or-lot-scope-requires-its-own-proof"
+    },
+    {
+      "itemId": "kuji-group-fate28-F",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ F賞 アヴェンジャー/徐福 ぬいジェニック 赏级档案",
+      "award": "F賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "アヴェンジャー/徐福 ぬいジェニック",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "アヴェンジャー/徐福 ぬいジェニック",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「F賞 アヴェンジャー/徐福 ぬいジェニック」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約12cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate28-G",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ G賞 イラストボードスタンド 全10種セット",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "set-or-lot-scope-requires-its-own-proof"
+    },
+    {
+      "itemId": "kuji-group-fate28-H",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ H賞 ラバーコレクション 全5種セット",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ラバーコレクション",
+      "status": "pending",
+      "reason": "set-or-lot-scope-requires-its-own-proof"
+    },
+    {
+      "itemId": "kuji-group-fate28-I",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ I賞 きゅんキャラ アクリルスタンド 全13種セット",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "pending",
+      "reason": "set-or-lot-scope-requires-its-own-proof"
+    },
+    {
+      "itemId": "kuji-group-fate28-lastone",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ ラストワン賞 ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver. 赏级档案",
+      "award": "ラストワン賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「ラストワン賞 ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約21cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate28-E-1",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/岸波白野(男) ぬいジェニック 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 E賞",
+      "award": "E賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ムーンキャンサー/岸波白野（男/女） ぬいジェニック",
+      "status": "supported",
+      "scope": "official-labelled-choice",
+      "officialTitle": "ムーンキャンサー/岸波白野（男/女） ぬいジェニック",
+      "member": "ムーンキャンサー/岸波白野（男） ぬいジェニック",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-labelled-choice",
+      "summary": "本件为E賞「ムーンキャンサー/岸波白野（男） ぬいジェニック」。本奖级共 2 款。可选择款式。官网标注的尺寸为「約12cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate28-F-1",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "アヴェンジャー/徐福 ぬいジェニック 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 F賞",
+      "award": "F賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "アヴェンジャー/徐福 ぬいジェニック",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "アヴェンジャー/徐福 ぬいジェニック",
+      "member": "アヴェンジャー/徐福 ぬいジェニック",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-single",
+      "summary": "本件为F賞「アヴェンジャー/徐福 ぬいジェニック」。本奖级共 1 款。官网标注的尺寸为「約12cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate28-lastone-1",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ ラストワン賞 ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver. (プライズ)",
+      "award": "ラストワン賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.",
+      "member": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-single",
+      "summary": "本件为ラストワン賞「ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.」。本奖级共 1 款。官网标注的尺寸为「約21cm」。"
+    },
+    {
+      "itemId": "source-0e5c31bfaf7883302bc4b62d0103ea4b",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "まるごしシンジ君(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ラバーコレクション",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-0f6e1dfe3ac3c2a15b371f6239c1d2b6",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ビースト/エレシュキガル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-15888fc0f02e1680d935e4a7bc788587",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/キングプロテア ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "アルターエゴ/キングプロテア",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "アルターエゴ/キングプロテア"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「アルターエゴ/キングプロテア」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-1835c406e1115c6deb1d27b70869f9a0",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/カルナ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-1f295001d38ef02913112452ff597214",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/ドブルイニャ・ニキチッチ きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ランサー/ドブルイニャ・ニキチッチ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ランサー/ドブルイニャ・ニキチッチ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ランサー/ドブルイニャ・ニキチッチ」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-22b159241cf4b77639c52cf6b1eb15a3",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/BBドバイ(ラバーバンド) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ラバーコレクション",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-257f31212275f05ddc9e539af25318e1",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/BBドバイ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-2eb0e5e2618f0815b5355c89452f9f8d",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "フォーリナー/謎のヒロインXX〔オルタ〕 イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-36386abb60a39f5fad86e56297a587d0",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/スターシエル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-3bc594f0a6f0291b721f50b142fbc08e",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/パーシヴァル きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ランサー/パーシヴァル",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ランサー/パーシヴァル"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ランサー/パーシヴァル」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-3ead925077a4174a649b110c5c00f22c",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/岸波白野(男) ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "ムーンキャンサー/岸波白野(男)",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "ムーンキャンサー/岸波白野(男)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/岸波白野(男)」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-4926f46ae6f4ebb8a5264c0c95df734d",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "【シークレットB】 ビースト/スペース・エレシュキガル(アンキ・エレシュキガル) きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "【シークレットB】　ビースト/スペース・エレシュキガル(アンキ・エレシュキガル)",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "【シークレットB】　ビースト/スペース・エレシュキガル(アンキ・エレシュキガル)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「【シークレットB】　ビースト/スペース・エレシュキガル(アンキ・エレシュキガル)」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-4bfbc24a4240160ae48c66d46a791e0b",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/キングプロテア〔オルタ〕 ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "アルターエゴ/キングプロテア〔オルタ〕",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "アルターエゴ/キングプロテア〔オルタ〕"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「アルターエゴ/キングプロテア〔オルタ〕」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-4cde02c58c62ea03e4e5fecc6600d2bc",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/テノチティトラン ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "ムーンキャンサー/テノチティトラン",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "ムーンキャンサー/テノチティトラン"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/テノチティトラン」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-5d5873ef09346158871350f13d3aa571",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ライダー/バーソロミュー・ロバーツ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-6c39b7278901ae5564515d5323533601",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ビースト/エレシュキガル きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ビースト/エレシュキガル",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ビースト/エレシュキガル"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ビースト/エレシュキガル」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-6f5d9864eb4061d564640c0dbc40250c",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/テノチティトラン&ランサー/パーシヴァル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-73b4332afc2252a1648cb88bc0923efc",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order セレブサマーエクスペリエンス&アーキタイプインセプション ラストワン賞 ビースト/エレシュキガル ラストワンver. 1/7 Gracemaster",
+      "award": "ラストワン賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.",
+      "member": "ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "proof": "official-single",
+      "summary": "本件为ラストワン賞「ビースト/エレシュキガル フィギュア 1/7 Gracemaster ラストワンver.」。本奖级共 1 款。官网标注的尺寸为「約21cm」。"
+    },
+    {
+      "itemId": "source-7940664925ab422d15ef17138f7bb3d1",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/ドブルイニャ・ニキチッチ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-82377a4b0c3aba018de555a5d5041ec8",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate Grand Order セレブサマーエクスペリエンス&アーキタイプインセプション I賞 きゅんキャラ アクリルスタンド 11種セット",
+      "status": "pending",
+      "reason": "target-series-text-not-exact"
+    },
+    {
+      "itemId": "source-8e16c15c6b4f87290aea212696c6c508",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "シンボル(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ラバーコレクション",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-9fad2a623470aca37b0a75c1dccdfc72",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/スターシエル ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "ムーンキャンサー/スターシエル",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "ムーンキャンサー/スターシエル"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/スターシエル」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-a29725d52c69840706a507912398c6f5",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/BB ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "ムーンキャンサー/BB",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "ムーンキャンサー/BB"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/BB」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-a43f35d12f4a16b4b0fd2d496c298359",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/スターシエル きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ムーンキャンサー/スターシエル",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ムーンキャンサー/スターシエル"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/スターシエル」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-a6e6df488e323c728e418a1893b18e1a",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "【シークレットA】 アルターエゴ/パッションリップ きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "【シークレットA】　アルターエゴ/パッションリップ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "【シークレットA】　アルターエゴ/パッションリップ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「【シークレットA】　アルターエゴ/パッションリップ」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-a872271b05f7a3444c7abb33c2df0a95",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "バーサーカー/ドゥリーヨダナ ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "バーサーカー/ドゥリーヨダナ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "バーサーカー/ドゥリーヨダナ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「バーサーカー/ドゥリーヨダナ」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-abb3ced5176e0da36eca8d8fd32c3671",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order 〜セレブサマーエクスペリエンス&アーキタイプインセプション〜 I賞きゅんキャラアクリルスタンド 7個セット",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "pending",
+      "reason": "set-or-lot-scope-requires-its-own-proof"
+    },
+    {
+      "itemId": "source-acd3d49d50ddc7e1b056b249a6d04c90",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "フォーリナー/闇のコヤンスカヤ ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "フォーリナー/闇のコヤンスカヤ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "フォーリナー/闇のコヤンスカヤ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「フォーリナー/闇のコヤンスカヤ」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-af59e2b77efc4455aec6eb96c749cda3",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "マシュ・キリエライト ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "マシュ・キリエライト",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "マシュ・キリエライト"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「マシュ・キリエライト」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-b0432f26064ac31ee79467c7e94db090",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ルギマート(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ラバーコレクション",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-b423526941724c8a10506918f2238a55",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/BBコスモ きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ムーンキャンサー/BBコスモ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ムーンキャンサー/BBコスモ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/BBコスモ」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-b7938a6a7f8255a175f642ad25293f9f",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "アヴェンジャー/徐福 イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-b86abb466af67809764b82856219124c",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/岸波白野(女) ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "ムーンキャンサー/岸波白野(女)",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "ムーンキャンサー/岸波白野(女)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/岸波白野(女)」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-bc323bc0ffde995f830d7d6d1c496b75",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/アーキタイプ:アース ツインアクリルチャーム 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ツインアクリルチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ツインアクリルチャーム",
+      "member": "ムーンキャンサー/アーキタイプ：アース",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618886",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "fad0aaba3142195eb57aca0d8322d35506abd0b506c25590e88ec3b38a4d0dd6",
+        "member": "ムーンキャンサー/アーキタイプ：アース"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/アーキタイプ：アース」是J賞「ツインアクリルチャーム」中的一款。本奖级共 12 款。可选择款式。官网标注的尺寸为「約5cm」。"
+    },
+    {
+      "itemId": "source-bee38906a1a3a2cf6b20af9815c6d6b9",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ライダー/バーソロミュー・ロバーツ きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ライダー/バーソロミュー・ロバーツ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ライダー/バーソロミュー・ロバーツ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ライダー/バーソロミュー・ロバーツ」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-e642171bce5336d78dc97a99783ca606",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/BBドバイ きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "ムーンキャンサー/BBドバイ",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "ムーンキャンサー/BBドバイ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ムーンキャンサー/BBドバイ」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-f3cac9011dd7236c08661eb9977d0dbb",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/カズラドロップ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-f3cb92d1bbc7807a5cdac74139742656",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "アヴェンジャー/徐福 きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "アヴェンジャー/徐福",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "アヴェンジャー/徐福"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「アヴェンジャー/徐福」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-f6c9aa7673e746a2736b38d206c0b54c",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "フォーリナー/謎のヒロインXX〔オルタ〕 きゅんキャラ アクリルスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "member": "フォーリナー/謎のヒロインXX〔オルタ〕",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561618873",
+        "at": "2026-11-04 02:16:36 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "a90028c2c7ef2edbeb6f18c31fe1daea9608f9b2812b81517be18e2e823e632e",
+        "member": "フォーリナー/謎のヒロインXX〔オルタ〕"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「フォーリナー/謎のヒロインXX〔オルタ〕」是I賞「きゅんキャラ アクリルスタンド」中的一款。本奖级共 13 款。领取时不能自选款式。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-fb1930f4f1e1947a67631edd14037344",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/カズラドロップ(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate28",
+      "officialAwardTitle": "ラバーコレクション",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    }
+  ]
+}

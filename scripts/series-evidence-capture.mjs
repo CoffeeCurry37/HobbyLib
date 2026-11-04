@@ -5,7 +5,7 @@ import crypto from 'node:crypto';
 const hash=x=>crypto.createHash('sha256').update(x).digest('hex');
 const privateRoot='work/series-evidence-20261103',cache=privateRoot+'/cache';
 fs.mkdirSync(cache,{recursive:true});
-const allowed=new Set(['art.fate-go.jp','fes.fate-go.jp','exhibition.fate-go.jp','online.aniplex.co.jp','www.aniplex.co.jp','typemoon.com','cache.typemoon.com','anime.fate-go.jp']);
+const allowed=new Set(['1kuji.com','assets.1kuji.com','www.suruga-ya.jp','on-line.1kuji.com','www.bandaispirits.co.jp','art.fate-go.jp','fes.fate-go.jp','exhibition.fate-go.jp','online.aniplex.co.jp','www.aniplex.co.jp','typemoon.com','cache.typemoon.com','anime.fate-go.jp']);
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};
 const planPath=process.argv[2],plan=JSON.parse(fs.readFileSync(planPath,'utf8'));
 if(!Array.isArray(plan)||plan.length>350)throw Error('Capture plan exceeds 350 URLs');
@@ -30,4 +30,3 @@ async function capture(spec){
 // Each hostname is sequential; at most three independent hosts run together.
 const hostPlans=[...Map.groupBy(plan,s=>new URL(s.url).hostname).values()];let next=0,done=0;
 await Promise.all(Array.from({length:Math.min(3,hostPlans.length)},async()=>{while(next<hostPlans.length){const group=hostPlans[next++];for(const spec of group){const r=await capture(spec);const fd=fs.openSync(receiptFile,'a');try{fs.writeSync(fd,JSON.stringify({...r,groupId:spec.groupId})+'\n');fs.fsyncSync(fd);}finally{fs.closeSync(fd);}done++;if(done<8||done%10===0||done===plan.length)console.log(JSON.stringify({done,total:plan.length,url:r.url,status:r.status,cacheHit:r.cacheHit}));if(!r.cacheHit)await new Promise(resolve=>setTimeout(resolve,250));}}}));
-
