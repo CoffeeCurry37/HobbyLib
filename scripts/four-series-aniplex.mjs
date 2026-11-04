@@ -36,7 +36,7 @@ for(const {url} of read(priv+'/details-'+n+'.json')){
   assert.ok(norm(text).includes(norm(literal))&&norm(text).includes(norm('発売元：Aniplex（Shanghai）Ltd.')));
   fact=description+'。官方标注发行方为 Aniplex（上海）。';
  }else{
-  const productFacts=read(priv+'/aj-facts.json')[sku];
+  const productFacts=read(pub+'/aj-facts.json')[sku];
   assert.ok(productFacts);
   const anchor=norm(body.replace(/<[^>]+>/g,' '));
   for(const fragment of productFacts.anchors)assert.ok(anchor.includes(norm(fragment)),sku+': '+fragment);
