@@ -1,15 +1,15 @@
 {
-  "at": "2026-11-04T17:40:40.284Z",
+  "at": "2026-11-04T17:52:13.979Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 33,
-  "seriesAwaitingItemReview": 1815,
+  "seriesWithItemReview": 35,
+  "seriesAwaitingItemReview": 1813,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6130,
-  "productionApplied": 4384,
+  "coveredSnapshotItems": 6197,
+  "productionApplied": 4450,
   "protectedExisting": 3,
   "pendingEvidence": 1743,
-  "freshVersionSkips": 0,
+  "freshVersionSkips": 1,
   "lastLiveCounts": {
     "main": 15790,
     "doujin": 19209,
@@ -347,7 +347,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-532136185275f3fb",
+      "label": "FGO material",
+      "snapshotItems": 33,
+      "productionApplied": 32,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 1,
+      "archivedWithinVersionSkips": 1,
+      "complete": false
+    },
+    {
+      "groupId": "series-559546cccd31fa68",
+      "label": "ロード・エルメロイII世の事件簿",
+      "snapshotItems": 34,
+      "productionApplied": 34,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "archivedWithinVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261104/resume.json"
+  "nextSourceFile": "../series-evidence-20261104/books/resume.json"
 }

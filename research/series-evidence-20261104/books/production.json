@@ -1,0 +1,42 @@
+{
+  "at": "2026-11-04T17:49:11.197Z",
+  "stage": "applied-read-back-and-closed",
+  "passed": true,
+  "verifiedBatches": 4,
+  "productionApplied": 65,
+  "skipped": 2,
+  "skippedItems": [
+    {
+      "id": "525b72a0-2c01-4dbb-8a99-bd9bf7c24421",
+      "reason": "changed-since-reviewed-plan"
+    },
+    {
+      "id": "source-7fc0f32b044b38c885e149b1dd8cea8d",
+      "reason": "changed-since-reviewed-plan"
+    }
+  ],
+  "counts": {
+    "main": 15790,
+    "doujin": 19209,
+    "archive": 8575
+  },
+  "relations": 1823,
+  "personalAndOriginalFieldsPreserved": true,
+  "offersAndHistoryPreserved": true,
+  "prefsPreserved": true,
+  "priorEvidencePreserved": true,
+  "newFullProductVerified": 0,
+  "completeSeries": 0,
+  "finalReadbackPassed": true,
+  "maintenanceClosed": true,
+  "closedHttpStatus": 401,
+  "environmentRevision": 83,
+  "deploymentId": "appgdep_6aeb70a68d2881919d1cce570d87c566",
+  "siteVersion": 70,
+  "countsBefore": {
+    "main": 15790,
+    "doujin": 19209,
+    "archive": 8575
+  },
+  "relationsBefore": 1823
+}

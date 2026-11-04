@@ -1,0 +1,46 @@
+{
+  "at": "2026-11-04T17:52:13.979Z",
+  "stage": "closed",
+  "groups": [
+    {
+      "groupId": "series-532136185275f3fb",
+      "label": "FGO material",
+      "snapshotItems": 33,
+      "productionApplied": 32,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 1,
+      "archivedWithinVersionSkips": 1,
+      "complete": false
+    },
+    {
+      "groupId": "series-559546cccd31fa68",
+      "label": "ロード・エルメロイII世の事件簿",
+      "snapshotItems": 34,
+      "productionApplied": 34,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "archivedWithinVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "productionApplied": 66,
+  "batches": 5,
+  "initialApplied": 65,
+  "initialVersionSkips": 2,
+  "refreshedSurvivor": 1,
+  "alreadyArchived": [
+    {
+      "sourceId": "source-7fc0f32b044b38c885e149b1dd8cea8d",
+      "survivorId": "525b72a0-2c01-4dbb-8a99-bd9bf7c24421",
+      "title": "Fate/Grand Order material 9",
+      "sourceAction": "already-archived-before-this-round",
+      "nextAction": "only-current-survivor-eligible",
+      "archivedTargetWritten": false
+    }
+  ],
+  "unresolved": [],
+  "previousOutstanding": "../resume.json",
+  "nextSources": "next-sources.json"
+}

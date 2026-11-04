@@ -1,0 +1,30 @@
+[
+  {
+    "batch": 0,
+    "items": 19,
+    "planDigest": "2567241e6d794a775e7579f6cd5947532196b578c2ffaf947f297092f2a5ead9",
+    "afterHash": "029c377e8d216e83ecb8103bbadc2ddc57722ac5ece3d86a128536f2872e3899",
+    "at": "2026-11-04T17:49:06.480Z"
+  },
+  {
+    "batch": 1,
+    "items": 19,
+    "planDigest": "30ae1ca2198c854f9788f1d7490ff0e335b0ec3f5b434e551c9830af623d7a27",
+    "afterHash": "14bd6c1d9ae791992270134cd47ef5f2f31398d409ed970af606d0725409b053",
+    "at": "2026-11-04T17:49:07.655Z"
+  },
+  {
+    "batch": 2,
+    "items": 20,
+    "planDigest": "ae092965ce1a28f59ad70f76c53f8f8a4a1e61fd353bf447fa489b50d147da92",
+    "afterHash": "b86584f53babf6a46c3f67958507f42e3ad537342d6c429b7290c5286fd2b567",
+    "at": "2026-11-04T17:49:08.755Z"
+  },
+  {
+    "batch": 3,
+    "items": 7,
+    "planDigest": "8ff5b1da0415e0431fee64281e23a1bded567198df20afd8c29ac236bf9902bc",
+    "afterHash": "99968dacc5eefdf6a734d71ae00dde921ecea9906a014fec9386a73e2cc0e9c2",
+    "at": "2026-11-04T17:49:10.352Z"
+  }
+]
