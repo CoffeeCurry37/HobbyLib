@@ -1,0 +1,554 @@
+{
+  "previous": "9523fab6d0f5b4e73893fd3f0bb97388291f1d05",
+  "checked": 19,
+  "rows": [
+    {
+      "itemId": "kuji-group-fate28-E",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ E賞 ムーンキャンサー/岸波白野(男/女) ぬいジェニック 全2種セット",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "E賞",
+      "officialTitle": "ムーンキャンサー/岸波白野（男/女） ぬいジェニック",
+      "status": "supported",
+      "scope": "奖级档案与零售全款组合",
+      "summary": "E 赏的岸波白野毛绒挂件分男、女两款，各约 12 厘米，抽到 E 赏时可择一。骏河屋编号 561618841 将两款合列为零售组合。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618841?tenpo_cd=400371",
+      "images": [],
+      "notes": "零售单列男女两款，与万代可选的两种设计逐一相符。"
+    },
+    {
+      "itemId": "kuji-group-fate28-G",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~ G賞 イラストボードスタンド 全10種セット",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "奖级档案与零售全款组合",
+      "summary": "G 赏共有十幅画板，单次领取不能自选。骏河屋编号 561618853 的全款组合图可逐幅对应万代总览中的十幅图案。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618853",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618853.jpg.webp",
+          "sha256": "fac6e1ef76cc8415ea9e39bf225ab1936601ae36dd62fd2e4cd3e4af6f237dc5",
+          "at": "2026-11-04T13:22:50.729Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item/image/105578/cb3d1e59-3647-4e6a-a8fe-aa45648b4f01.webp",
+          "sha256": "110825e312c99b0b864fc0b6fbb7e36f956169d1eb63813274a53bb6909673c7",
+          "at": "2026-11-04T02:14:32.944Z"
+        }
+      ],
+      "notes": "已将库存编号图上的十幅构图与万代总览比对，零售组合与抽奖领取单位分别记录。"
+    },
+    {
+      "itemId": "source-0e5c31bfaf7883302bc4b62d0103ea4b",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "まるごしシンジ君(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "H賞",
+      "officialTitle": "ラバーコレクション",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 H 赏「まるごしシンジ君(ラバーチャーム) ラバーコレクション」。骏河屋单品图与万代的造型及配件相符，本赏级共有五种橡胶周边可选。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618858",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618858.jpg.webp",
+          "sha256": "54198edef091ed6d906888c6b8e5ff37dfa5f9dec163d2ed828edf37dae19c55",
+          "at": "2026-11-04T13:21:02.049Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4219/776806d6-da9a-4b79-acf5-f1862f4c6a80.webp",
+          "sha256": "48b9fbe3afe6dbcb10cea65da050b3c5b8c33c6abc8a50a07c535a62ad7fc05f",
+          "at": "2026-11-04T13:21:11.635Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-0f6e1dfe3ac3c2a15b371f6239c1d2b6",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ビースト/エレシュキガル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「ビースト/エレシュキガル イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618843",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618843.jpg.webp",
+          "sha256": "a204a05243f114026e543cdcdea8ba4a571947434c4ddd3f57b98fc50e2911e7",
+          "at": "2026-11-04T13:21:02.561Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4205/59cad6b6-b7d9-4c66-9b5d-a983521d490a.webp",
+          "sha256": "ef62426c21d92d5ec140310331eb23305553421a2fe4d3fe16b0cab8f054db07",
+          "at": "2026-11-04T13:21:02.097Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-1835c406e1115c6deb1d27b70869f9a0",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/カルナ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「ランサー/カルナ イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618846",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618846.jpg.webp",
+          "sha256": "376e9e26c5ef0c1a51a489f4c1d451a5b5ebfa0b105d0391113654ab91287e40",
+          "at": "2026-11-04T13:21:02.996Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4208/44ed8e75-d681-485e-9236-5d68d0494486.webp",
+          "sha256": "a2b7a2d8b3dce0dd427bc44f230fd8bf32fd1467d93a495625824838596f14cc",
+          "at": "2026-11-04T13:21:04.760Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-22b159241cf4b77639c52cf6b1eb15a3",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/BBドバイ(ラバーバンド) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "H賞",
+      "officialTitle": "ラバーコレクション",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 H 赏「ムーンキャンサー/BBドバイ(ラバーバンド) ラバーコレクション」。骏河屋单品图与万代的造型及配件相符，本赏级共有五种橡胶周边可选。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618854",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618854.jpg.webp",
+          "sha256": "0d368f6adc54034f5e7e9ea746cf86f5d71deb69c4c2543c536c7c2b4ebd5565",
+          "at": "2026-11-04T13:21:03.709Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4215/353d205a-ccb1-4179-9390-e3e84769ac00.webp",
+          "sha256": "5d902fe5bc8bc815d230dbb457eb41ef45642958d11c390227f7e0f537c000b1",
+          "at": "2026-11-04T13:21:08.809Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-2eb0e5e2618f0815b5355c89452f9f8d",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "フォーリナー/謎のヒロインXX〔オルタ〕 イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「フォーリナー/謎のヒロインXX〔オルタ〕 イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618848",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618848.jpg.webp",
+          "sha256": "1cba429bc7a7b140379932c11a1978894721d44570da21a631f34310877f43a0",
+          "at": "2026-11-04T13:21:04.409Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4210/5e987f72-4217-4188-b8d7-885d768ad7b4.webp",
+          "sha256": "7c19c1d5864f42cf5c569d614f4956c94888bec55085679541350d12713a1796",
+          "at": "2026-11-04T13:21:05.775Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-36386abb60a39f5fad86e56297a587d0",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/スターシエル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「ムーンキャンサー/スターシエル イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618844",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618844.jpg.webp",
+          "sha256": "1d852531ac510def10ba5eb5fcd230a9a340099ba6f7edd7df89cb86d0c3d827",
+          "at": "2026-11-04T13:21:04.962Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4206/e3e5fea1-2afd-404a-b451-fc5dc606270e.webp",
+          "sha256": "76043db1fa807c74dc736a09aa492d4420b3b85855f2b4acd7ba8b1c2efa865b",
+          "at": "2026-11-04T13:21:03.101Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-5d5873ef09346158871350f13d3aa571",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ライダー/バーソロミュー・ロバーツ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「ライダー/バーソロミュー・ロバーツ イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618852",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618852.jpg.webp",
+          "sha256": "30d51e29bccf5248552221ae7b0106dd30158c76cd58d2f201500a0f032f7985",
+          "at": "2026-11-04T13:21:05.654Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4214/87c0667a-32c1-4ffc-ab04-d833a650f371.webp",
+          "sha256": "b5cc05537bf7e100bb7023221670593c7df54c92e1105425aeca2409174884b0",
+          "at": "2026-11-04T13:21:08.354Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-6f5d9864eb4061d564640c0dbc40250c",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ムーンキャンサー/テノチティトラン&ランサー/パーシヴァル イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「ムーンキャンサー/テノチティトラン&ランサー/パーシヴァル イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618845",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618845.jpg.webp",
+          "sha256": "dcc17190ee940a0fedba83bbf5e7955c682280a7f8538a348f3aae835f6cbf08",
+          "at": "2026-11-04T13:21:06.227Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4207/e60d4d54-e2dc-4881-b711-2c48492a9d76.webp",
+          "sha256": "ff6070241a395aabffbb792f42f88edfaa2cc2185cfadfa0932dfce603fdac37",
+          "at": "2026-11-04T13:21:04.054Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-7940664925ab422d15ef17138f7bb3d1",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ランサー/ドブルイニャ・ニキチッチ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「ランサー/ドブルイニャ・ニキチッチ イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618849",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618849.jpg.webp",
+          "sha256": "9375d46ea7ad5e8f4d582960d2e2c7021ec4f2b1644fdf58e0c8ff6832f9b914",
+          "at": "2026-11-04T13:21:07.076Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4211/b3df328a-4ea7-41fd-8374-ea670c5c03c3.webp",
+          "sha256": "2910ba23ba88fa2e71d0b57100dd3468b8aa567c81cdd9074970795b863b95d0",
+          "at": "2026-11-04T13:21:06.759Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-82377a4b0c3aba018de555a5d5041ec8",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate Grand Order セレブサマーエクスペリエンス&アーキタイプインセプション I賞 きゅんキャラ アクリルスタンド 11種セット",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "原卖家拼套",
+      "summary": "这是原卖家组合的 11 款 I 赏亚克力立牌。原挂牌照片分三排展示 3、4、4 件，各件图案不同。万代将整个 I 赏列为 13 款，其中两款为隐藏款。",
+      "second": "https://auctions.yahoo.co.jp/jp/auction/m1231020847",
+      "images": [
+        {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0205/user/176d78394940f9b1e1ab6edb17e97b9c5157226e1a7ff45220f0debdda11468f/i-img1200x1200-177959816910141iyi6i63128.jpg",
+          "sha256": "11c2597235a13234772460544b48a7cf17368d8388e0e881efbfa87dc3704878",
+          "at": "2026-11-04T13:22:50.683Z"
+        }
+      ],
+      "notes": "核对原挂牌标题与同一挂牌保存的照片，只确认该卖家组合的件数与展示范围。"
+    },
+    {
+      "itemId": "source-8e16c15c6b4f87290aea212696c6c508",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "シンボル(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "H賞",
+      "officialTitle": "ラバーコレクション",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 H 赏「シンボル(ラバーチャーム) ラバーコレクション」。骏河屋单品图与万代的造型及配件相符，本赏级共有五种橡胶周边可选。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618855",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618855.jpg.webp",
+          "sha256": "513985f74af0175b76635379442715102c946dd46662714c40811c4aa4444816",
+          "at": "2026-11-04T13:21:07.753Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4216/1b9ce06b-f3a4-4f1d-b022-66c3f75a7244.webp",
+          "sha256": "6c745d76c92d3ccca12dc6ec4b1f4247e2ced8011781a0880878b9abf65ada65",
+          "at": "2026-11-04T13:21:09.789Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-abb3ced5176e0da36eca8d8fd32c3671",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "一番くじ Fate/Grand Order 〜セレブサマーエクスペリエンス&アーキタイプインセプション〜 I賞きゅんキャラアクリルスタンド 7個セット",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "I賞",
+      "officialTitle": "きゅんキャラ アクリルスタンド",
+      "status": "supported",
+      "scope": "原卖家拼套",
+      "summary": "这是原卖家组合的 7 件 I 赏亚克力立牌。挂牌全景和分组照片显示四种图案，数量为 2、2、2、1；此处的七件包含重复款。",
+      "second": "https://auctions.yahoo.co.jp/jp/auction/q1216739224",
+      "images": [
+        {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0201/user/4de85e37f2cc010ee64b5d765ea5758a79581da8e31f1e79dbb068181bd11d56/i-img1200x900-17689632722845tl53gn407.jpg",
+          "sha256": "2af237393ff847612bfefa59d526ab8316cbe29b532f48d7246b5ac7e9c8b2ee",
+          "at": "2026-11-04T13:22:53.190Z"
+        },
+        {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0201/user/4de85e37f2cc010ee64b5d765ea5758a79581da8e31f1e79dbb068181bd11d56/i-img1200x900-17689632780344ugn4kk19081.jpg",
+          "sha256": "1a43cef4b4880750dc5c9c09018ce4ba150cfd4895e67681611d4ed38601afd7",
+          "at": "2026-11-04T13:22:54.343Z"
+        },
+        {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0201/user/4de85e37f2cc010ee64b5d765ea5758a79581da8e31f1e79dbb068181bd11d56/i-img1200x900-17689632704887yh22w545863.jpg",
+          "sha256": "582e206cf7af6d7f62bc6a153a9a05e565aa8cfd7a60b93a280cb8317f9edb22",
+          "at": "2026-11-04T13:22:55.408Z"
+        },
+        {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0201/user/4de85e37f2cc010ee64b5d765ea5758a79581da8e31f1e79dbb068181bd11d56/i-img1200x900-17689632746387t3if1k588.jpg",
+          "sha256": "7354078970cd1a851962f4d594cd2005f3ef7d7613a707f96613381f66f0c806",
+          "at": "2026-11-04T13:22:57.009Z"
+        },
+        {
+          "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0201/user/4de85e37f2cc010ee64b5d765ea5758a79581da8e31f1e79dbb068181bd11d56/i-img1200x900-17689632765427hcrqxk92395.jpg",
+          "sha256": "e73bfe7746a1313739c4f9497d38718e98165be63ce837bbb489e169909cb6bd",
+          "at": "2026-11-04T13:22:58.490Z"
+        }
+      ],
+      "notes": "核对原挂牌标题与同一挂牌保存的照片，只确认该卖家组合的件数与展示范围。"
+    },
+    {
+      "itemId": "source-b0432f26064ac31ee79467c7e94db090",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ルギマート(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "H賞",
+      "officialTitle": "ラバーコレクション",
+      "status": "pending",
+      "reason": "相同库存图与官方图均有珠链，但万代奖级说明将ルギマート图案称为杯垫，零售页称为挂件。仍缺能确认产品用途的包装或单品说明。",
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561618856",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618856.jpg.webp",
+          "sha256": "58f181d2ad47baeb2fcdf76e595e085ca8e8a046f339d705beda2801b6b64abc",
+          "at": "2026-11-04T13:22:51.338Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4217/4f423628-871d-4944-bbb8-2d227cdd71ad.webp",
+          "sha256": "29a09554dce2e3797c2480ea51b7e10ef21889c1ca0866ddbf05092bdbcddab3",
+          "at": "2026-11-04T13:21:10.216Z"
+        }
+      ]
+    },
+    {
+      "itemId": "source-b7938a6a7f8255a175f642ad25293f9f",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "アヴェンジャー/徐福 イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「アヴェンジャー/徐福 イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618851",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618851.jpg.webp",
+          "sha256": "1a0242ba52b19477d571d7dc3aad580c6241fe8101f3cf29af7d3c1c22816cfd",
+          "at": "2026-11-04T13:21:08.449Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4213/845e908c-7386-4504-b8e3-76f42d41b9e8.webp",
+          "sha256": "c67c33a2796d4c52d0fca87a95a3e727c87feaa039f104babbc64113220f9df6",
+          "at": "2026-11-04T13:21:07.922Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-f3cac9011dd7236c08661eb9977d0dbb",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/カズラドロップ イラストボードスタンド 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 G賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "G賞",
+      "officialTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 G 赏「エゴ/カズラドロップ イラストボードスタンド」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618850",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618850.jpg.webp",
+          "sha256": "e9941b164867f957ab225f2dfc9b1c2bfb53d72e0cc06f0cd4160eef20c0338d",
+          "at": "2026-11-04T13:21:08.877Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4212/118de263-2dc9-4c97-87da-825c6b62a821.webp",
+          "sha256": "737bde92ddc867fa00f222e0105bc5351e701b6dca9608df5049c4af1bcacffc",
+          "at": "2026-11-04T13:21:07.487Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-fb1930f4f1e1947a67631edd14037344",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "エゴ/カズラドロップ(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate28",
+        "at": "2026-11-01T01:45:08.318Z",
+        "sha256": "3bd3a2618b73bf6416f55bb63ec97082d680512376f3e430fce8fc3658baf91a"
+      },
+      "award": "H賞",
+      "officialTitle": "ラバーコレクション",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这是 H 赏「エゴ/カズラドロップ(ラバーチャーム) ラバーコレクション」。骏河屋单品图与万代的造型及配件相符，本赏级共有五种橡胶周边可选。",
+      "second": "https://www.suruga-ya.jp/product/detail/561618857",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561618857.jpg.webp",
+          "sha256": "111810e4ac2e7a69b59a4229c2afa32126235c5828694ea9d509bc0de45f5bb2",
+          "at": "2026-11-04T13:21:09.579Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item_sub_image/content/4218/6f19e782-c4a5-4c46-838c-fc184234a884.webp",
+          "sha256": "124ed9e7629dcae49fee0836e6d101eaab30792358921770d1345600fd4841d7",
+          "at": "2026-11-04T13:21:11.198Z"
+        }
+      ],
+      "notes": "核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。"
+    },
+    {
+      "itemId": "source-e9bcde956cd88b7aeda105a7e24b0f53",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "アヴェンジャー/クロエ・フォン・アインツベルン ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "award": "H賞",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "单品图案与商品编号",
+      "summary": "这款 H 赏立牌是泳装造型的 Avenger／克洛伊。骏河屋编号 561019202 的单品图与官网总览第二排左侧的发色、墨镜和服装相符；官方标示全长约 4 厘米。",
+      "second": "https://jp.mercari.com/shops/product/2JWm9waa4KVXBaTQfybtiA",
+      "images": [
+        {
+          "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/561019202.jpg.webp",
+          "sha256": "97e24d0f9b1d31df48d9c16889ebdefcb9561926a0aac4a51e25943e2ea5feed",
+          "at": "2026-11-04T13:21:10.004Z"
+        },
+        {
+          "url": "https://assets.1kuji.com/uploads/product_item/image/103342/52a7e8d1-c9a5-4af0-8cb8-207ea48f0224.jpg",
+          "sha256": "33f3083ac3c771bb4cd9f4a5b2179e0008fd4db9ddfd204f5f8ef8206f3f8b85",
+          "at": "2026-11-04T13:22:50.727Z"
+        }
+      ],
+      "notes": "另对照骏河屋全十款清单，泳装造型仅对应一款。"
+    }
+  ]
+}

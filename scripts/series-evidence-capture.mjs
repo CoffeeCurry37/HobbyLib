@@ -5,7 +5,7 @@ import crypto from 'node:crypto';
 const hash=x=>crypto.createHash('sha256').update(x).digest('hex');
 const privateRoot='work/series-evidence-20261103',cache=privateRoot+'/cache';
 fs.mkdirSync(cache,{recursive:true});
-const allowed=new Set(['1kuji.com','assets.1kuji.com','www.suruga-ya.jp','on-line.1kuji.com','www.bandaispirits.co.jp','art.fate-go.jp','fes.fate-go.jp','exhibition.fate-go.jp','online.aniplex.co.jp','www.aniplex.co.jp','typemoon.com','cache.typemoon.com','anime.fate-go.jp']);
+const allowed=new Set(['1kuji.com','assets.1kuji.com','cdn.suruga-ya.jp','auctions.c.yimg.jp','www.bandai.co.jp','www.suruga-ya.jp','on-line.1kuji.com','www.bandaispirits.co.jp','art.fate-go.jp','fes.fate-go.jp','exhibition.fate-go.jp','online.aniplex.co.jp','www.aniplex.co.jp','typemoon.com','cache.typemoon.com','anime.fate-go.jp']);
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};
 const planPath=process.argv[2],plan=JSON.parse(fs.readFileSync(planPath,'utf8'));
 if(!Array.isArray(plan)||plan.length>350)throw Error('Capture plan exceeds 350 URLs');

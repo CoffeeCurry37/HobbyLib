@@ -1,0 +1,117 @@
+[
+  {
+    "groupId": "series-f38a55051ac273fb",
+    "type": "wafer",
+    "label": "第にふぉるめーしょん弹",
+    "coverage": 47,
+    "url": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+  },
+  {
+    "groupId": "series-66a8b9752c9a5be4",
+    "type": "wafer",
+    "label": "第13弹",
+    "coverage": 35,
+    "url": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+  },
+  {
+    "groupId": "series-95b64af6a4505235",
+    "type": "wafer",
+    "label": "第14弹",
+    "coverage": 35,
+    "url": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+  },
+  {
+    "groupId": "series-863ab7ce9070e5d8",
+    "type": "wafer",
+    "label": "第15弹",
+    "coverage": 34,
+    "url": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+  },
+  {
+    "groupId": "series-df23592ad2c27e77",
+    "type": "wafer",
+    "label": "第復刻スペシャル 2弹",
+    "coverage": 34,
+    "url": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+  },
+  {
+    "groupId": "series-0704a1bfa8a869fb",
+    "type": "wafer",
+    "label": "第11弹",
+    "coverage": 33,
+    "url": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+  },
+  {
+    "groupId": "series-e2955cbc34ff65d9",
+    "type": "wafer",
+    "label": "第バビロニア 2弹",
+    "coverage": 29,
+    "url": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+  },
+  {
+    "groupId": "series-e0c79fbf4ee4066b",
+    "type": "wafer",
+    "label": "第復刻スペシャル 1弹",
+    "coverage": 28,
+    "url": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+  },
+  {
+    "groupId": "series-d1756b4cf3bdc87d",
+    "type": "wafer",
+    "label": "第9弹",
+    "coverage": 26,
+    "url": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+  },
+  {
+    "groupId": "series-09135fd4eca45f3f",
+    "type": "wafer",
+    "label": "第1弹",
+    "coverage": 25,
+    "url": "https://www.bandai.co.jp/candy/products/2017/4549660189688000.html"
+  },
+  {
+    "groupId": "series-ca40771916a68955",
+    "type": "wafer",
+    "label": "第6弹",
+    "coverage": 25,
+    "url": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+  },
+  {
+    "groupId": "series-ff3097f85c8758ad",
+    "type": "wafer",
+    "label": "第7弹",
+    "coverage": 25,
+    "url": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+  },
+  {
+    "groupId": "series-e35502d5fc58278b",
+    "type": "wafer",
+    "label": "第特別弾 2024弹",
+    "coverage": 25,
+    "url": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+  },
+  {
+    "groupId": "series-de7f32f09ec5b62d",
+    "type": "event",
+    "label": "AnimeJapan 2025",
+    "year": 2025,
+    "coverage": 47,
+    "url": "https://online.aniplex.co.jp/AlxGWYUV?start=0&sz=120"
+  },
+  {
+    "groupId": "series-53b22ac7b98bd6f5",
+    "type": "event",
+    "label": "AnimeJapan 2024",
+    "year": 2024,
+    "coverage": 31,
+    "url": "https://online.aniplex.co.jp/AGGFsKvb?start=0&sz=120"
+  },
+  {
+    "groupId": "series-3ddc185d0961fe5a",
+    "type": "event",
+    "label": "AnimeJapan 2026",
+    "year": 2026,
+    "coverage": 28,
+    "url": "https://online.aniplex.co.jp/EOyBwVvu?start=0&sz=120"
+  }
+]
