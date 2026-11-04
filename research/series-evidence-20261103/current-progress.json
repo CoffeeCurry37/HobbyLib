@@ -1,0 +1,153 @@
+{
+  "at": "2026-11-04T01:39:23.469Z",
+  "baselineQueueGroups": 1848,
+  "seriesWithItemReview": 13,
+  "seriesAwaitingItemReview": 1835,
+  "completeSeries": 0,
+  "newFullyVerifiedProducts": 0,
+  "coveredSnapshotItems": 5372,
+  "productionApplied": 3988,
+  "protectedExisting": 3,
+  "pendingEvidence": 1381,
+  "freshVersionSkips": 0,
+  "lastLiveCounts": {
+    "main": 15790,
+    "doujin": 19209,
+    "archive": 8575
+  },
+  "liveRelations": 1823,
+  "maintenanceClosed": true,
+  "rows": [
+    {
+      "groupId": "series-ce68dddea90c2498",
+      "label": "Servant Art Chronicle 最終再臨展",
+      "snapshotItems": 1941,
+      "productionApplied": 1529,
+      "pendingEvidence": 411,
+      "protectedExisting": 1,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-4e69239e873928ae",
+      "label": "FGO Fes.2025",
+      "snapshotItems": 979,
+      "productionApplied": 461,
+      "pendingEvidence": 517,
+      "protectedExisting": 1,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-66b7d6045e7f79e6",
+      "label": "FGO Fes.2026",
+      "snapshotItems": 410,
+      "productionApplied": 323,
+      "pendingEvidence": 87,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-88ff9ccb22db52ee",
+      "label": "FGO展 星見の回廊",
+      "snapshotItems": 301,
+      "productionApplied": 204,
+      "pendingEvidence": 97,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-f1f5c27bf9a05162",
+      "label": "FGO Fes.2024",
+      "snapshotItems": 281,
+      "productionApplied": 269,
+      "pendingEvidence": 11,
+      "protectedExisting": 1,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-a0bc29abee8a5b12",
+      "label": "FGO Fes.2023",
+      "snapshotItems": 254,
+      "productionApplied": 249,
+      "pendingEvidence": 5,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-f2adf3ee848e356e",
+      "label": "FGO Fes.2022",
+      "snapshotItems": 231,
+      "productionApplied": 212,
+      "pendingEvidence": 19,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-6c6dfafdf17e5221",
+      "label": "Fate/Grand Order 5th Anniversary (2020)",
+      "snapshotItems": 199,
+      "productionApplied": 193,
+      "pendingEvidence": 6,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-0a317dc40839a847",
+      "label": "FGO Fes.2021",
+      "snapshotItems": 188,
+      "productionApplied": 182,
+      "pendingEvidence": 6,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-3bafa0802d86283c",
+      "label": "TYPE-MOON展 Fate/stay night -15年の軌跡-",
+      "snapshotItems": 172,
+      "productionApplied": 20,
+      "pendingEvidence": 152,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "label": "FGO Fes.2017",
+      "snapshotItems": 155,
+      "productionApplied": 107,
+      "pendingEvidence": 48,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-41a75f14a950c805",
+      "label": "FGO Fes.2019",
+      "snapshotItems": 136,
+      "productionApplied": 128,
+      "pendingEvidence": 8,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-25511e329ccc2d1e",
+      "label": "FGO Fes.2018",
+      "snapshotItems": 125,
+      "productionApplied": 111,
+      "pendingEvidence": 14,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "nextSourceFile": "next-official-sources.json"
+}

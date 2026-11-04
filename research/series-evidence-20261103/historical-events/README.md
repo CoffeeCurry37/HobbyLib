@@ -15,7 +15,7 @@
 
 十五周年展有 138 条旧记录同时带有展期和展后两个官方商品号，另有 21 条 Fes.2017 候选的商品页明确写的是冬祭。它们保留原记录，逐件整理了两次销售、官网品名或需补充的来源。参阅[未决个案](casebook.json)、[目录外来源](outside-catalogue.json)及[主办方公告](https://type-moon-museum.com/news/?id=54159)。
 
-741 条新计划只填空白简介并追加官方依据。38 批已通过隔离副本验证，与上一批 3,247 条无重复。当前阶段为应用前断点。商品图仍待逐件视觉核对，完整商品/系列核实计数均为 0。
+741 条已全部写入正式库，补齐空白简介并追加官方依据，与上一批 3,247 条无重复。38 批均通过隔离验证、逐项写后读回和最终复读。维护入口已关闭，使用本轮凭证收到应用返回的 HTTP 401。[正式核对](production.json) · [逐批回执摘要](verified-batches.json)。商品图仍待逐件视觉核对，完整商品/系列核实计数均为 0。
 
 [目录及来源](official-catalogues.json) · [分组统计](group-results.json) · [验证报告](simulation.json) · [采集汇总](capture-summary.json) · [证据包](evidence-bundle.json.gz) · [校验值](bundle-manifest.json)。
 

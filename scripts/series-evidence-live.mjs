@@ -10,6 +10,16 @@ if(process.stdin.isTTY)process.stdin.setRawMode(true);const input=createInterfac
 for await(const line of input){try{
  const config=JSON.parse(line),auth=config.auth;if(auth.url!=='https://collector-radar.martainjonn.chatgpt.site')throw Error('Unexpected destination');
  const headers={'OAI-Sites-Authorization':'Bearer '+auth.dispatch,Authorization:'Bearer '+auth.token,'Content-Type':'application/json'};
+ if (config.mode === 'closed-probe') {
+  const response = await fetch(new URL('/api/maintenance?maintenanceStatus=1', auth.url), {
+   headers, redirect:'error', cache:'no-store', signal:AbortSignal.timeout(30000)
+  });
+  assert.equal(response.status, 401, 'Maintenance is still accessible');
+  assert.equal((await response.json()).error, 'UNAUTHENTICATED', 'Unexpected closure response');
+  console.log(JSON.stringify({maintenanceClosed:true,httpStatus:401,matchedApplicationResponse:true}));
+  input.close();
+  break;
+ }
  async function request(path,body){const url=new URL(path,auth.url);if(url.origin!==auth.url||url.pathname!=='/api/maintenance')throw Error('Unexpected destination');const res=await fetch(url,{method:body?'POST':'GET',headers,body:body?JSON.stringify({...body,compact:true}):undefined,redirect:'error',signal:AbortSignal.timeout(180000)});if(!res.ok)throw Error('HTTP '+res.status);const raw=await res.text();return JSON.parse(raw);}
  const owner=await request('/api/maintenance?maintenanceStatus=1'),expected=JSON.parse(fs.readFileSync('work/v6/owner-before.json'));assert.equal(owner.ownerDigest,expected.ownerDigest,'Unexpected catalogue owner');fs.writeFileSync(priv+'/owner-current.json',JSON.stringify(owner));
  if(config.mode==='probe'){console.log(JSON.stringify({authenticated:true,ownerItems:owner.ownerItems,ownerMatched:true}));input.close();break;}
