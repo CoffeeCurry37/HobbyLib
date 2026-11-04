@@ -1,0 +1,997 @@
+[
+  {
+    "groupId": "series-e35502d5fc58278b",
+    "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/GN338122",
+    "at": "2026-11-04 13:30:45 UTC",
+    "rows": [
+      {
+        "number": 1,
+        "name": "アルトリア・ペンドラゴン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 2,
+        "name": "ギルガメッシュ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 3,
+        "name": "クー・フーリン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 4,
+        "name": "ヘラクレス",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 5,
+        "name": "沖田総司",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 6,
+        "name": "カルナ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 7,
+        "name": "ニトリクス",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 8,
+        "name": "アビゲイル・ウィリアムズ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 9,
+        "name": "スカサハ=サカディ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 10,
+        "name": "BB",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 11,
+        "name": "織田信長",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 12,
+        "name": "レオナルド・ダ・ヴィンチ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 13,
+        "name": "イアソン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 14,
+        "name": "陳宮",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 15,
+        "name": "アルトリア・ペンドラゴン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 16,
+        "name": "アルトリア・キャスター",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 17,
+        "name": "ブリュンヒルデ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 18,
+        "name": "斎藤一",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 19,
+        "name": "ネモ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 20,
+        "name": "千子村正",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 21,
+        "name": "メリュジーヌ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 22,
+        "name": "オベロン・ヴォーティガーン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 23,
+        "name": "カーマ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 24,
+        "name": "グランド・ニューイヤー",
+        "rarity": "シークレット",
+        "code": "SST"
+      }
+    ]
+  },
+  {
+    "groupId": "series-66a8b9752c9a5be4",
+    "source": "https://www.suruga-ya.jp/product/detail/GN593387",
+    "at": "2026-11-04 13:30:45 UTC",
+    "rows": [
+      {
+        "number": 1,
+        "name": "山南敬助",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 2,
+        "name": "セタンタ",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 3,
+        "name": "メドゥーサ",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 4,
+        "name": "ドゥリーヨダナ",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 5,
+        "name": "千利休",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 6,
+        "name": "ニトクリス〔オルタ〕",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 7,
+        "name": "ノクナレア・ヤラアーンドゥ",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 8,
+        "name": "トラロック",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 9,
+        "name": "イリヤスフィール・フォン・アインツベルン",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 10,
+        "name": "UDK-バーゲスト",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 11,
+        "name": "高杉晋作",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 12,
+        "name": "ドゥルガー",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 13,
+        "name": "鈴鹿御前〔サマバケ〕",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 14,
+        "name": "クロエ・フォン・アインツベルン",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 15,
+        "name": "ククルカン",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 16,
+        "name": "ケット・クー・ミコケル",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 17,
+        "name": "ネロ・クラウディウス",
+        "rarity": "CR",
+        "code": ""
+      },
+      {
+        "number": 18,
+        "name": "エミヤ",
+        "rarity": "CR",
+        "code": ""
+      },
+      {
+        "number": 19,
+        "name": "エレシュキガル",
+        "rarity": "CR",
+        "code": ""
+      },
+      {
+        "number": 20,
+        "name": "オベロン",
+        "rarity": "CR",
+        "code": ""
+      },
+      {
+        "number": 21,
+        "name": "カドック・ゼムルプス",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 22,
+        "name": "オフェリア・ファムルソローネ",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 23,
+        "name": "芥ヒナコ",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 24,
+        "name": "スカンジナビア・ペペロンチーノ",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 25,
+        "name": "キリシュタリア・ヴォーダイム",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 26,
+        "name": "ベリル・ガット",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 27,
+        "name": "デイビット・ゼム・ヴォイド",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 28,
+        "name": "水妃モルガン",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 29,
+        "name": "テスカトリポカ",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 30,
+        "name": "アルトリア・キャスター",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 31,
+        "name": "メリュジーヌ・オンディーヌ",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 32,
+        "name": "言峰綺礼",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 33,
+        "name": "ラーヴァ/ティアマト",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 34,
+        "name": "ソドムズビースト/ドラコー",
+        "rarity": "SSR",
+        "code": ""
+      }
+    ]
+  },
+  {
+    "groupId": "series-e0c79fbf4ee4066b",
+    "source": "https://jp.mercari.com/shops/product/Bdd4cZobsLbogMcdYK39Qa",
+    "at": "2026-11-04 13:30:45 UTC",
+    "rows": [
+      {
+        "number": 18,
+        "code": "",
+        "name": "諸葛孔明[エルメロイII世]",
+        "rarity": "SP"
+      }
+    ]
+  },
+  {
+    "groupId": "series-f38a55051ac273fb",
+    "source": "https://shop.toysanta.jp/?pid=187871514",
+    "sha256": "60545410457155bad1f25e6a3100c0ad4afc21bb3bb1e54cbfe6d232328b24f5",
+    "at": "2026-11-04T13:29:33.503Z",
+    "rows": [
+      {
+        "number": 1,
+        "name": "主人公 男(PR)"
+      },
+      {
+        "number": 2,
+        "name": "シールダー/マシュ・キリエライト(N)"
+      },
+      {
+        "number": 3,
+        "name": "ロマニ・アーキマン(N)"
+      },
+      {
+        "number": 4,
+        "name": "キャスター/レオナルド・ダ・ヴィンチ＆ライダー/レオナルド・ダ・ヴィンチ(SR)"
+      },
+      {
+        "number": 5,
+        "name": "ゴルドルフ・ムジーク(N)"
+      },
+      {
+        "number": 6,
+        "name": "ルーラー/シャーロック・ホームズ(R)"
+      },
+      {
+        "number": 7,
+        "name": "シオン・エルトナム・ソカリス(N)"
+      },
+      {
+        "number": 8,
+        "name": "ライダー/ネモ(R)"
+      },
+      {
+        "number": 9,
+        "name": "ルーラー/ジャンヌ・ダルク(N)"
+      },
+      {
+        "number": 10,
+        "name": "アヴェンジャー/ジャンヌ・ダルク[オルタ](SR)"
+      },
+      {
+        "number": 11,
+        "name": "セイバー/ネロ・クラウディウス(N)"
+      },
+      {
+        "number": 12,
+        "name": "ライダー/フランシス・ドレイク(N)"
+      },
+      {
+        "number": 13,
+        "name": "セイバー/モードレッド(N)"
+      },
+      {
+        "number": 14,
+        "name": "バーサーカー/ナイチンゲール(N)"
+      },
+      {
+        "number": 15,
+        "name": "セイバー/ベディヴィエール(N)"
+      },
+      {
+        "number": 16,
+        "name": "ランサー/アルトリア・ペンドラゴン(SR)"
+      },
+      {
+        "number": 17,
+        "name": "キャスター/ギルガメッシュ＆祭祀長シドゥリ(R)"
+      },
+      {
+        "number": 18,
+        "name": "キングゥ(SR)"
+      },
+      {
+        "number": 19,
+        "name": "シールダー/マシュ・キリエライト(UR)"
+      },
+      {
+        "number": 20,
+        "name": "ソロモン(UR)"
+      },
+      {
+        "number": 21,
+        "name": "アーチャー/ジェームズ・モリアーティ(R)"
+      },
+      {
+        "number": 22,
+        "name": "キャスター/シェヘラザード(N)"
+      },
+      {
+        "number": 23,
+        "name": "セイバー/宮本武蔵(UR)"
+      },
+      {
+        "number": 24,
+        "name": "アビゲイル＆ラヴィニア(SR)"
+      },
+      {
+        "number": 25,
+        "name": "永久凍土帝国 アナスタシア(RR)"
+      },
+      {
+        "number": 26,
+        "name": "アヴェンジャー/アントニオ・サリエリ(N)"
+      },
+      {
+        "number": 27,
+        "name": "無間氷焔世紀 ゲッテルデメルング(RR)"
+      },
+      {
+        "number": 28,
+        "name": "アーチャー/ナポレオン(N)"
+      },
+      {
+        "number": 29,
+        "name": "人智統合真国 シン(RR)"
+      },
+      {
+        "number": 30,
+        "name": "ルーラー/始皇帝(N)"
+      },
+      {
+        "number": 31,
+        "name": "創世滅亡輪廻ユガ・クシェートラ (RR)"
+      },
+      {
+        "number": 32,
+        "name": "バーサーカー/アルジュナ[オルタ]＆ランサー/カルナ(UR)"
+      },
+      {
+        "number": 33,
+        "name": "神代巨神海洋 アトランティス(RR)"
+      },
+      {
+        "number": 34,
+        "name": "アルゴノーツ(SR)"
+      },
+      {
+        "number": 35,
+        "name": "妖精円卓領域アヴァロン・ル・フェ(RR)"
+      },
+      {
+        "number": 36,
+        "name": "キャスター/アルトリア・キャスター＆セイバー/千子村正(R)"
+      },
+      {
+        "number": 37,
+        "name": "プリテンダー/オベロン(PSR)"
+      },
+      {
+        "number": 38,
+        "name": "黄金樹海紀行 ナウイ・ミクトラン(RR)"
+      },
+      {
+        "number": 39,
+        "name": "U-オルガマリー＆ネモ・マリーン＆テペウ(R)"
+      },
+      {
+        "number": 40,
+        "name": "アサシン/カーマ(UR)"
+      },
+      {
+        "number": 41,
+        "name": "アヴェンジャー/巌窟王 モンテ・クリスト(UR)"
+      },
+      {
+        "number": 42,
+        "name": "ムーンキャンサー/BB(UR)"
+      },
+      {
+        "number": 43,
+        "name": "シークレット：U-オルガマリー(SEC)"
+      },
+      {
+        "number": 44,
+        "name": "主人公 女(PR)"
+      },
+      {
+        "number": 45,
+        "name": "プリテンダー/オベロン・ヴォーティガーン(PSR)"
+      }
+    ]
+  },
+  {
+    "groupId": "series-95b64af6a4505235",
+    "source": "https://shop.toysanta.jp/?pid=189285712",
+    "sha256": "a08e85f846f42043a846d5f1ecf514d3c119da9aabd7173e637fea8c7703698d",
+    "at": "2026-11-04T13:29:35.151Z",
+    "rows": [
+      {
+        "number": 1,
+        "name": "セイバー/渡辺綱(N)"
+      },
+      {
+        "number": 2,
+        "name": "アーチャー/織田信勝(N)"
+      },
+      {
+        "number": 3,
+        "name": "アーチャー/雑賀孫一(N)"
+      },
+      {
+        "number": 4,
+        "name": "ランサー/ドブルイニャ・ニキチッチ(N)"
+      },
+      {
+        "number": 5,
+        "name": "ランサー/ヴァン・ゴッホ(マイナー)(N)"
+      },
+      {
+        "number": 6,
+        "name": "ライダー/ネモ(サンタ)(N)"
+      },
+      {
+        "number": 7,
+        "name": "キャスター/ジェロニモ(N)"
+      },
+      {
+        "number": 8,
+        "name": "アサシン/呼延灼(N)"
+      },
+      {
+        "number": 9,
+        "name": "ムーンキャンサー/岸波白野(男)(N)"
+      },
+      {
+        "number": 10,
+        "name": "プリテンダー/アビゲイル・ウイリアムズ(サンタ)(N)"
+      },
+      {
+        "number": 11,
+        "name": "セイバー/リチャードI世(R)"
+      },
+      {
+        "number": 12,
+        "name": "アーチャー/プトレマイオス(R)"
+      },
+      {
+        "number": 13,
+        "name": "ランサー/ビーマ(R)"
+      },
+      {
+        "number": 14,
+        "name": "ライダー/武田晴信(R)"
+      },
+      {
+        "number": 15,
+        "name": "ライダー/アンドロメダ(R)"
+      },
+      {
+        "number": 16,
+        "name": "キャスター/小野小町(R)"
+      },
+      {
+        "number": 17,
+        "name": "パーサーカー/ロウヒ(R)"
+      },
+      {
+        "number": 18,
+        "name": "アヴェンジャー/徐福(R)"
+      },
+      {
+        "number": 19,
+        "name": "アヴェンジャー/マリー・アントワネット(オルタ)(R)"
+      },
+      {
+        "number": 20,
+        "name": "ムーンキャンサー/テノチティトラン(R)"
+      },
+      {
+        "number": 21,
+        "name": "フォーリナー/謎のヒロインXX(オルタ)(R)"
+      },
+      {
+        "number": 22,
+        "name": "セイバー/両儀式(TM)"
+      },
+      {
+        "number": 23,
+        "name": "アルターエゴ/ひびき＆千鍵(TM)"
+      },
+      {
+        "number": 24,
+        "name": "ムーンキャンサー/謎の代行者C.I.E.L(TM)"
+      },
+      {
+        "number": 25,
+        "name": "フォーリナー/蒼崎青子(TM)"
+      },
+      {
+        "number": 26,
+        "name": "プリテンダー/ファンタズムーン(TM)"
+      },
+      {
+        "number": 27,
+        "name": "アヴェンジャー/巌窟王 モンテ・クリスト(SR)"
+      },
+      {
+        "number": 28,
+        "name": "ルーラー/上杉謙信(SR)"
+      },
+      {
+        "number": 29,
+        "name": "アルターエゴ/カズラドロップ(SR)"
+      },
+      {
+        "number": 30,
+        "name": "プリテンダー/ダンテ・アリギエーリ(SR)"
+      },
+      {
+        "number": 31,
+        "name": "ビースト/エレシュキガル(SR)"
+      },
+      {
+        "number": 32,
+        "name": "シークレット1：ムーンキャンサー/ゴールデンBB(SSR)"
+      },
+      {
+        "number": 33,
+        "name": "シークレット2：カマソッソ(SCHR)"
+      },
+      {
+        "number": 34,
+        "name": "ムーンキャンサー/岸波白野(女)(N)"
+      }
+    ]
+  },
+  {
+    "groupId": "series-66a8b9752c9a5be4",
+    "source": "https://shop.toysanta.jp/index.php?pid=181734235",
+    "sha256": "1b9ae5e58a9270bf4cc3fd469660f2864ef47f96af6acd03e84f66687aa56b41",
+    "at": "2026-11-04T13:29:35.955Z",
+    "rows": [
+      {
+        "number": 1,
+        "name": "セイバー/山南敬助(N)"
+      },
+      {
+        "number": 2,
+        "name": "セイバー/セタンタ(N)"
+      },
+      {
+        "number": 3,
+        "name": "セイバー/メドゥーサ(N)"
+      },
+      {
+        "number": 4,
+        "name": "バーサーカー/ドゥリーヨダナ(N)"
+      },
+      {
+        "number": 5,
+        "name": "バーサーカー/千利休(N)"
+      },
+      {
+        "number": 6,
+        "name": "アヴェンジャー/ニトクリス(オルタ)(N)"
+      },
+      {
+        "number": 7,
+        "name": "フォーリナー/ノクナレア・ヤラアーンドゥ(N)"
+      },
+      {
+        "number": 8,
+        "name": "プリテンダー/トラロック(N)"
+      },
+      {
+        "number": 9,
+        "name": "アーチャー/イリヤスフィール・フォン・アインツベルン(R)"
+      },
+      {
+        "number": 10,
+        "name": "アーチャー/UDK-バーゲスト(R)"
+      },
+      {
+        "number": 11,
+        "name": "アーチャー/高杉晋作(R)"
+      },
+      {
+        "number": 12,
+        "name": "アーチャー/ドゥルガー(R)"
+      },
+      {
+        "number": 13,
+        "name": "ライダー/鈴鹿御前(サマバケ)(R)"
+      },
+      {
+        "number": 14,
+        "name": "アヴェンジャー/クロエ・フォン・アインツベルン(R)"
+      },
+      {
+        "number": 15,
+        "name": "フォーリナー/ククルカン(R)"
+      },
+      {
+        "number": 16,
+        "name": "プリテンダー/ケット・クー・ミコケル(R)"
+      },
+      {
+        "number": 17,
+        "name": "セイバー/ネロ・クラウディウス(CR)"
+      },
+      {
+        "number": 18,
+        "name": "アーチャー/エミヤ(CR)"
+      },
+      {
+        "number": 19,
+        "name": "ランサー/エレシュキガル(CR)"
+      },
+      {
+        "number": 20,
+        "name": "プリテンダー/オベロン(CR)"
+      },
+      {
+        "number": 21,
+        "name": "クリプター/カドック・ゼムルプス(CP)"
+      },
+      {
+        "number": 22,
+        "name": "クリプター/オフェリア・ファムルソローネ(CP)"
+      },
+      {
+        "number": 23,
+        "name": "クリプター/芥ヒナコ(CP)"
+      },
+      {
+        "number": 24,
+        "name": "クリプター/スカンジナビア・ペペロンチーノ(CP)"
+      },
+      {
+        "number": 25,
+        "name": "クリプター/キリシュタリア・ヴォーダイム(CP)"
+      },
+      {
+        "number": 26,
+        "name": "クリプター/ベリル・ガット(CP)"
+      },
+      {
+        "number": 27,
+        "name": "クリプター/デイビット・ゼム・ヴォイド(CP)"
+      },
+      {
+        "number": 28,
+        "name": "キャスター/水妃モルガン(SR)"
+      },
+      {
+        "number": 29,
+        "name": "アサシン/テスカトリポカ(SR)"
+      },
+      {
+        "number": 30,
+        "name": "バーサーカー/アルトリア・キャスター(SR)"
+      },
+      {
+        "number": 31,
+        "name": "ルーラー/メリュジーヌ・オンディーヌ(SR)"
+      },
+      {
+        "number": 32,
+        "name": "アルターエゴ/言峰綺礼(SR)"
+      },
+      {
+        "number": 33,
+        "name": "アルターエゴ/ラーヴァ/ティアマト(SR)"
+      },
+      {
+        "number": 34,
+        "name": "シークレット：ビースト/ソドムズビースト/ドラコー"
+      }
+    ]
+  },
+  {
+    "groupId": "series-0704a1bfa8a869fb",
+    "source": "https://shop.toysanta.jp/index.php?pid=169631943",
+    "sha256": "6c50aced3eca925232d00d78f5730133a19798deb20bbc2e576948586bdaf07d",
+    "at": "2026-11-04T13:29:37.703Z",
+    "rows": [
+      {
+        "number": 1,
+        "name": "N：セイバー/妖精騎士ガウェイン(バーゲスト)"
+      },
+      {
+        "number": 2,
+        "name": "N：アーチャー/妖精騎士トリスタン(バーヴァン・シー)"
+      },
+      {
+        "number": 3,
+        "name": "N：ランサー/ガレス"
+      },
+      {
+        "number": 4,
+        "name": "N：ライダー/カイニス"
+      },
+      {
+        "number": 5,
+        "name": "N：キャスター/ミス・クレーン"
+      },
+      {
+        "number": 6,
+        "name": "N：アサシン/鬼一法眼"
+      },
+      {
+        "number": 7,
+        "name": "N：バーサーカー/清少納言"
+      },
+      {
+        "number": 8,
+        "name": "N：ルーラー/レオナルド・ダ・ヴィンチ"
+      },
+      {
+        "number": 9,
+        "name": "R：セイバー/斎藤一"
+      },
+      {
+        "number": 10,
+        "name": "R：アーチャー/アナスタシア＆ヴィイ"
+      },
+      {
+        "number": 11,
+        "name": "R：ランサー/妖精騎士ランスロット(メリュジーヌ)"
+      },
+      {
+        "number": 12,
+        "name": "R：ライダー/ネモ"
+      },
+      {
+        "number": 13,
+        "name": "R：キャスター/シャルロット・コルデー"
+      },
+      {
+        "number": 14,
+        "name": "R：フォーリナー/ボイジャー"
+      },
+      {
+        "number": 15,
+        "name": "CR：セイバー/ネロ・クラウディウス"
+      },
+      {
+        "number": 16,
+        "name": "CR：セイバー/アルテラ"
+      },
+      {
+        "number": 17,
+        "name": "CR：アーチャー/エウリュアレ"
+      },
+      {
+        "number": 18,
+        "name": "CR：ライダー/牛若丸"
+      },
+      {
+        "number": 19,
+        "name": "CR：ライダー/女王メイヴ"
+      },
+      {
+        "number": 20,
+        "name": "CR：キャスター/エレナ・ブラヴァツキー"
+      },
+      {
+        "number": 21,
+        "name": "CR：キャスター/ニトクリス"
+      },
+      {
+        "number": 22,
+        "name": "CR：アサシン/静謐のハサン"
+      },
+      {
+        "number": 23,
+        "name": "CR：アサシン/酒呑童子"
+      },
+      {
+        "number": 24,
+        "name": "CR：バーサーカー/タマモキャット"
+      },
+      {
+        "number": 25,
+        "name": "CR：ルーラー/ジャンヌ・ダルク"
+      },
+      {
+        "number": 26,
+        "name": "CR：フォーリナー/謎のアイドルX(オルタ)"
+      },
+      {
+        "number": 27,
+        "name": "CR：シールダー/マシュ・キリエライト"
+      },
+      {
+        "number": 28,
+        "name": "SR：セイバー/沖田総司(オルタ)"
+      },
+      {
+        "number": 29,
+        "name": "SR：バーサーカー/モルガン"
+      },
+      {
+        "number": 30,
+        "name": "SR：アヴェンジャー/カーマ"
+      },
+      {
+        "number": 31,
+        "name": "SR：プリテンダー/オベロン"
+      },
+      {
+        "number": 32,
+        "name": "SSR：アルターエゴ/蘆屋道満"
+      },
+      {
+        "number": 33,
+        "name": "SSR：セイバー/千子村正"
+      },
+      {
+        "number": 34,
+        "name": "SSR：アサシン/光のコヤンスカヤ"
+      }
+    ]
+  }
+]

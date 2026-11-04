@@ -1,0 +1,13 @@
+{
+  "captureReceipts": 124,
+  "uniqueUrls": 124,
+  "statuses": {
+    "captured": 103,
+    "unavailable": 21
+  },
+  "freshRequests": 117,
+  "cacheHits": 7,
+  "paidModelApiCalls": 0,
+  "cost": "not available",
+  "scope": "Local capture receipts only. Search index access and local reviews excluded."
+}

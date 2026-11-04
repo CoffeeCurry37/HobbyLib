@@ -1,7 +1,7 @@
 import fs from 'node:fs';import assert from 'node:assert/strict';import crypto from 'node:crypto';
 import {loadRadar} from './load-radar.mjs';
-import {output as dir, work as priv, privateRoot, historical, fourSeries} from './series-evidence-paths.mjs';
-const {supplement}=fourSeries ? await import('./four-series-supplement.mjs') : await import('./series-evidence-enrichment.mjs');
+import {output as dir, work as priv, privateRoot, historical, fourSeries, nov4} from './series-evidence-paths.mjs';
+const {supplement}=nov4 ? await import('./nov4-plan.mjs') : fourSeries ? await import('./four-series-supplement.mjs') : await import('./series-evidence-enrichment.mjs');
 const stable=v=>JSON.stringify(v,(_,x)=>x&&typeof x==='object'&&!Array.isArray(x)?Object.fromEntries(Object.keys(x).sort().map(k=>[k,x[k]])):x),hash=v=>crypto.createHash('sha256').update(stable(v)).digest('hex');
 const s=JSON.parse(fs.readFileSync('work/v6/production-after.json')),changes=JSON.parse(fs.readFileSync(priv+'/proposed-changes.json')),originals=new Map(s.items.map(i=>[i.id,i])),batches=[];
 for(let n=0;n<changes.length;n+=20)batches.push({action:'catalogue-curation',changes:changes.slice(n,n+20).map(({item,expectedVersion})=>({item,expectedVersion})),relations:[]});
@@ -21,7 +21,7 @@ try{
   const applied = new Set(receipts.filter(r => r.status === 'verified').flatMap(r => r.ids));
   for (const change of changes) assert.ok(!applied.has(change.item.id), 'Prior round already applied');
  }
- const priorChanges = historical || fourSeries ? JSON.parse(fs.readFileSync(privateRoot + '/proposed-changes.json')) : changes;
+ const priorChanges = historical || fourSeries || nov4 ? JSON.parse(fs.readFileSync(privateRoot + '/proposed-changes.json')) : changes;
  const carabiner=priorChanges.find(c=>/カラビナ\(カルデア\)/.test(c.item.title));assert.ok(carabiner&&!/フォウ|80×65/.test(carabiner.item.summary),'Do not copy another variant size');
  for(const batch of batches){const response=await api(batch),v=await response.json();assert.equal(response.status,200,JSON.stringify(v));assert.ok(v.ok&&!v.busy);completed++;if(completed%25===0)console.log(JSON.stringify({simulated:completed,total:batches.length}));}
  const after=db.raw.prepare('SELECT data FROM items').all().map(x=>JSON.parse(x.data)),afterById=new Map(after.map(i=>[i.id,i])),changedIds=new Set(changes.map(c=>c.item.id));

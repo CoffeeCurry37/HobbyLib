@@ -29,7 +29,7 @@ const rows=original.map((o,i)=>{
   assert.equal(a.award[0],cell[0]);
   const merchant=asset(t.image),official=asset(a.images[idx]);images=[merchant,official];
   const identity=t.title.split('「一番くじ')[0].trim();
-  summary=grade==='G賞'?'这是 G 赏「'+identity+'」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注板高约 15 厘米，附纸质展示支架。':
+  summary=grade==='G賞'?'这是 G 赏「'+identity+'」画板。骏河屋编号图与万代该幅单品图的构图一致；官网标注尺寸约 15 厘米，附纸质展示支架。':
    '这是 H 赏「'+identity+'」。骏河屋单品图与万代的造型及配件相符，本赏级共有五种橡胶周边可选。';
   notes='核对零售库存编号、奖级、构图及实物外形。图库位置仅作定位，不是官方款式编号。';
  }else if(i===0){

@@ -1,0 +1,377 @@
+[
+  {
+    "groupId": "series-e35502d5fc58278b",
+    "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/GN338122",
+    "at": "2026-11-04 13:30:45 UTC",
+    "rows": [
+      {
+        "number": 1,
+        "name": "アルトリア・ペンドラゴン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 2,
+        "name": "ギルガメッシュ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 3,
+        "name": "クー・フーリン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 4,
+        "name": "ヘラクレス",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 5,
+        "name": "沖田総司",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 6,
+        "name": "カルナ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 7,
+        "name": "ニトリクス",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 8,
+        "name": "アビゲイル・ウィリアムズ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 9,
+        "name": "スカサハ=サカディ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 10,
+        "name": "BB",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 11,
+        "name": "織田信長",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 12,
+        "name": "レオナルド・ダ・ヴィンチ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 13,
+        "name": "イアソン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 14,
+        "name": "陳宮",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 15,
+        "name": "アルトリア・ペンドラゴン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 16,
+        "name": "アルトリア・キャスター",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 17,
+        "name": "ブリュンヒルデ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 18,
+        "name": "斎藤一",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 19,
+        "name": "ネモ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 20,
+        "name": "千子村正",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 21,
+        "name": "メリュジーヌ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 22,
+        "name": "オベロン・ヴォーティガーン",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 23,
+        "name": "カーマ",
+        "rarity": "メタリックカード",
+        "code": "ST"
+      },
+      {
+        "number": 24,
+        "name": "グランド・ニューイヤー",
+        "rarity": "シークレット",
+        "code": "SST"
+      }
+    ]
+  },
+  {
+    "groupId": "series-66a8b9752c9a5be4",
+    "source": "https://www.suruga-ya.jp/product/detail/GN593387",
+    "at": "2026-11-04 13:30:45 UTC",
+    "rows": [
+      {
+        "number": 1,
+        "name": "山南敬助",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 2,
+        "name": "セタンタ",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 3,
+        "name": "メドゥーサ",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 4,
+        "name": "ドゥリーヨダナ",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 5,
+        "name": "千利休",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 6,
+        "name": "ニトクリス〔オルタ〕",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 7,
+        "name": "ノクナレア・ヤラアーンドゥ",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 8,
+        "name": "トラロック",
+        "rarity": "N",
+        "code": ""
+      },
+      {
+        "number": 9,
+        "name": "イリヤスフィール・フォン・アインツベルン",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 10,
+        "name": "UDK-バーゲスト",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 11,
+        "name": "高杉晋作",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 12,
+        "name": "ドゥルガー",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 13,
+        "name": "鈴鹿御前〔サマバケ〕",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 14,
+        "name": "クロエ・フォン・アインツベルン",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 15,
+        "name": "ククルカン",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 16,
+        "name": "ケット・クー・ミコケル",
+        "rarity": "R",
+        "code": ""
+      },
+      {
+        "number": 17,
+        "name": "ネロ・クラウディウス",
+        "rarity": "CR",
+        "code": ""
+      },
+      {
+        "number": 18,
+        "name": "エミヤ",
+        "rarity": "CR",
+        "code": ""
+      },
+      {
+        "number": 19,
+        "name": "エレシュキガル",
+        "rarity": "CR",
+        "code": ""
+      },
+      {
+        "number": 20,
+        "name": "オベロン",
+        "rarity": "CR",
+        "code": ""
+      },
+      {
+        "number": 21,
+        "name": "カドック・ゼムルプス",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 22,
+        "name": "オフェリア・ファムルソローネ",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 23,
+        "name": "芥ヒナコ",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 24,
+        "name": "スカンジナビア・ペペロンチーノ",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 25,
+        "name": "キリシュタリア・ヴォーダイム",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 26,
+        "name": "ベリル・ガット",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 27,
+        "name": "デイビット・ゼム・ヴォイド",
+        "rarity": "CP",
+        "code": ""
+      },
+      {
+        "number": 28,
+        "name": "水妃モルガン",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 29,
+        "name": "テスカトリポカ",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 30,
+        "name": "アルトリア・キャスター",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 31,
+        "name": "メリュジーヌ・オンディーヌ",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 32,
+        "name": "言峰綺礼",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 33,
+        "name": "ラーヴァ/ティアマト",
+        "rarity": "SR",
+        "code": ""
+      },
+      {
+        "number": 34,
+        "name": "ソドムズビースト/ドラコー",
+        "rarity": "SSR",
+        "code": ""
+      }
+    ]
+  },
+  {
+    "groupId": "series-e0c79fbf4ee4066b",
+    "source": "https://jp.mercari.com/shops/product/Bdd4cZobsLbogMcdYK39Qa",
+    "at": "2026-11-04 13:30:45 UTC",
+    "rows": [
+      {
+        "number": 18,
+        "code": "",
+        "name": "諸葛孔明[エルメロイII世]",
+        "rarity": "SP"
+      }
+    ]
+  }
+]

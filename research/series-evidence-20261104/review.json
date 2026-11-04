@@ -1,0 +1,14 @@
+{
+  "at": "2026-11-04T13:34:51.989Z",
+  "previousRevisited": 19,
+  "newGroups": 16,
+  "newCandidates": 507,
+  "recheckReady": 18,
+  "newReady": 146,
+  "prepared": 164,
+  "pending": 362,
+  "protected": 0,
+  "productionApplied": 0,
+  "stage": "frozen-before-production",
+  "priorOverlap": 0
+}
