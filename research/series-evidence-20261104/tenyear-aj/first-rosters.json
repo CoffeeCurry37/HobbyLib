@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-04T23:51:26.610Z",
+  "D": {
+    "url": "https://www.suruga-ya.jp/search?category=&search_word=fate+10%E5%91%A8%E5%B9%B4+%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98",
+    "members": [
+      "セイバーオルタ＆ジャンヌ＆桜他",
+      "セイバー＆凛＆アーチャー他",
+      "赤セイバー＆桜＆アーチャー他"
+    ],
+    "memberSources": {
+      "赤セイバー＆桜＆アーチャー他": "https://www.suruga-ya.jp/product/detail/608219167"
+    },
+    "scope": "只列本次公开零售页面明确显示的三种完整款名；不是完整六款清单。"
+  },
+  "setSource": {
+    "url": "https://robotrobot.jp/4177/",
+    "counts": {
+      "B": 3,
+      "C": 4,
+      "D": 6,
+      "E": 4,
+      "F": 7
+    },
+    "scope": "2014年4月14日零售全套回收清单。套数不是单次抽奖包装数量。"
+  }
+}

@@ -37,6 +37,8 @@ for(const t of all){
    const full=linked.find(v=>v.full && norm(v.title).includes('全'+set[1]+'種セット'));
    if(+set[1]===p.count && full){
     scope='零售全款组合';member=p.title;ref=full.url;
+   }else if(+set[1]===p.count && f.setSource && rosters.setSource?.counts[key]===p.count){
+    scope='零售全款组合';member=p.title;ref=f.setSource;
    }
  }else if(group && norm(p.title).split('フィギュア')[0] && tail.includes(norm(p.title))){
    scope='奖级档案';member=p.title;
@@ -45,7 +47,7 @@ for(const t of all){
    const byTitle=p.members.filter(v=>localWords.includes(norm(v.name)));
    const direct=linked.filter(v=>!v.full);
    const slots=[...new Set(direct.map(v=>v.slot).filter(Number.isInteger))];
-   const explicit=p.members.filter(m=>m.urls.some(u=>targetUrls.includes(cleanURL(u))));
+   const explicit=p.members.filter(m=>m.urls.some(u=>targetUrls.includes(cleanURL(u))) && (!slots.length||slots.includes(m.slot)));
    if(slots.length<=1 && explicit.length===1 && (!slots.length||slots[0]===explicit[0].slot)){
     const m=explicit[0];
     if(byTitle.some(v=>v.slot===m.slot) || direct.some(v=>norm(v.title).includes(norm(t.title))) || p.count===1){
@@ -55,7 +57,10 @@ for(const t of all){
    if(!scope && label.length){
     const name=label.filter(v=>localWords.includes(norm(v))).sort((a,b)=>norm(b).length-norm(a).length)[0];
     const exactShape=name&&(localWords===norm(name)||localWords.includes(norm(name)+'プレミアムアートグラス')||localWords.includes(norm(name)+'きゅんキャラ'));
-    if(exactShape){scope='零售成员清单及完整款名';member=name;ref=roster.url;}
+    if(exactShape){scope='零售成员清单及完整款名';member=name;ref=roster.memberSources?.[name]||roster.url;}
+   }
+   if(!scope && f.exactMember && p.count===1 && localWords===norm(f.exactMember)){
+    scope='同期独立奖品及完整款名';member=f.exactMember;ref=facts.url;
    }
    if(!scope&&wave===2&&award==='I賞'&&tail.includes('プロトタイプセイバー納刀')&&targetUrls.some(u=>u.includes('FIGURE-049131-R'))){
     scope='独立商品号及纳刀限定';member='セイバー（プロトタイプ／納刀）';ref='https://www.amiami.jp/top/detail/detail?gcode=FIGURE-049131-R';
@@ -65,7 +70,7 @@ for(const t of all){
  const lead=scope==='零售全款组合'?'零售记录合列了'+award+'「'+member+'」的全部 '+p.count+' 款。':scope==='奖级档案'?'本页汇总'+award+'「'+member+'」。':'本件对应'+award+'「'+member+'」。';
  const secondary=ref||f.second||p.sourceProducts.find(v=>!v.full)?.url||facts.context;
  put('supported',{scope,award,officialTitle:p.title,member,source:catalogue.source,second:secondary,contextSource:context.source.url,
-  archivedRetail:linked.map(v=>({url:v.url,title:v.title,itemCode:v.id})),knownAt:registry.capturedAt,summary:lead+f.fact});
+  additionalSources:[f.second,context.source.url].filter(Boolean),archivedRetail:linked.map(v=>({url:v.url,title:v.title,itemCode:v.id})),knownAt:registry.capturedAt,summary:lead+f.fact});
 }
 assert.equal(rows.length,config.candidates);write(dir+'/kuji-'+wave+'.json',{campaign:campaign.name,coverage:rows.length,source:catalogue.source,rows});
 console.log(JSON.stringify({ready:rows.filter(r=>r.status==='supported').length,held:rows.filter(r=>r.status!=='supported').map(r=>[r.itemId,r.reason])}));
