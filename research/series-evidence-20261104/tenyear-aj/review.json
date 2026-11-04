@@ -1,0 +1,54 @@
+{
+  "at": "2026-11-04T23:57:14.824Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 135,
+  "prepared": 132,
+  "pending": 3,
+  "protected": 0,
+  "groups": [
+    {
+      "groupId": "series-2440e42166db007e",
+      "label": "Fate 系列十周年第二弹 セイバーSpecial",
+      "candidates": 38,
+      "source": "https://www.taito.co.jp/ko/gc/topics/1457",
+      "scope": "承售方同期公告可证系列；各奖级仍需厂商档案、图或独立商品号。",
+      "reviewed": 38,
+      "ready": 38,
+      "pending": 0
+    },
+    {
+      "groupId": "series-c54b4cd87e3d660d",
+      "label": "Fate 系列十周年第一弹 タイプムーンエースSpecial",
+      "candidates": 34,
+      "source": "https://clamp-net.com/archives/1085",
+      "scope": "CLAMP 只确认其绘制的 A 赏海报，其他画师和其他奖级另证。",
+      "reviewed": 34,
+      "ready": 31,
+      "pending": 3
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "label": "AnimeJapan 2021",
+      "candidates": 32,
+      "source": "https://news.fate-go.jp/2021/0328nico/",
+      "scope": "官方活动公告；按每件已有 Aniplex 商品号核对实际发售范围。",
+      "reviewed": 32,
+      "ready": 32,
+      "pending": 0
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "label": "AnimeJapan 2019",
+      "candidates": 31,
+      "source": "https://news.fate-go.jp/2019/aj2019/",
+      "scope": "官方展位商品公告，按款名和 Aniplex 规格号核对。",
+      "reviewed": 31,
+      "ready": 31,
+      "pending": 0
+    }
+  ],
+  "priorOverlap": 0,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0,
+  "productionApplied": 0
+}

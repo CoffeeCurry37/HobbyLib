@@ -22,7 +22,7 @@ for(const t of all){
  const tail=title.replace(series,'');
  if(!tail&&t.id.startsWith('family-')){
   put('supported',{scope:'同期系列资料',source:context.source,second:catalogue.source.url,officialTitle:campaign.name,
-   summary:facts.family});continue;
+   sourceRole:'official-context-with-contemporary-report',summary:facts.family});continue;
  }
  const grades=[...tail.matchAll(/ラストワン賞|[a-izs]賞/g)].map(m=>m[0]==='ラストワン賞'?m[0]:m[0].toUpperCase());
  if(grades.length!==1){put('pending',{reason:'award-not-unique'});continue}
@@ -54,7 +54,7 @@ for(const t of all){
      scope='同期奖级及留存商品号';member=m.name;ref=direct[0]?.url||m.urls[0];
     }
    }
-   if(!scope && label.length){
+   if(label.length){
     const name=label.filter(v=>localWords.includes(norm(v))).sort((a,b)=>norm(b).length-norm(a).length)[0];
     const exactShape=name&&(localWords===norm(name)||localWords.includes(norm(name)+'プレミアムアートグラス')||localWords.includes(norm(name)+'きゅんキャラ'));
     if(exactShape){scope='零售成员清单及完整款名';member=name;ref=roster.memberSources?.[name]||roster.url;}
@@ -69,7 +69,12 @@ for(const t of all){
  if(!scope){put('pending',{award,reason:'no-unique-member-or-package-binding',reviewedSources:[catalogue.source.url,p.sourceUrl]});continue}
  const lead=scope==='零售全款组合'?'零售记录合列了'+award+'「'+member+'」的全部 '+p.count+' 款。':scope==='奖级档案'?'本页汇总'+award+'「'+member+'」。':'本件对应'+award+'「'+member+'」。';
  const secondary=ref||f.second||p.sourceProducts.find(v=>!v.full)?.url||facts.context;
- put('supported',{scope,award,officialTitle:p.title,member,source:catalogue.source,second:secondary,contextSource:context.source.url,
+ let primary=catalogue.source,sourceRole='contemporary-report-and-retailer';
+ if(wave===2&&award==='ラストワン賞'){
+  const obs=read(dir+'/web-observations.json').find(o=>o.id==='second-lastone');
+  primary={url:obs.url,at:obs.at,sha256:hash(JSON.stringify(obs)),kind:obs.kind,observationId:obs.id};sourceRole='retailer-index';
+ }
+ put('supported',{scope,award,officialTitle:p.title,member,source:primary,sourceRole,second:award==='ラストワン賞'&&wave===2?primary.url:secondary,contextSource:context.source.url,
   additionalSources:[f.second,context.source.url].filter(Boolean),archivedRetail:linked.map(v=>({url:v.url,title:v.title,itemCode:v.id})),knownAt:registry.capturedAt,summary:lead+f.fact});
 }
 assert.equal(rows.length,config.candidates);write(dir+'/kuji-'+wave+'.json',{campaign:campaign.name,coverage:rows.length,source:catalogue.source,rows});

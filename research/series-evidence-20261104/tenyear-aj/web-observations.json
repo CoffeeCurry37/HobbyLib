@@ -1,0 +1,17 @@
+[
+  {
+    "id": "second-lastone",
+    "url": "https://www.amiami.jp/top/detail/detail?scode=FIGURE-007685-R",
+    "at": "2026-11-04T23:56:11.553Z",
+    "kind": "retailer-search-index-observation",
+    "itemCode": "FIGURE-007685-R",
+    "title": "一番くじプレミアム Fateシリーズ 10周年記念 第二弾 セイバーSpecial ラストワン賞 -誇り高き騎士王- セイバー プレミアムフィギュア ラストワンver.",
+    "facts": {
+      "totalHeightCm": 31,
+      "includesSword": true,
+      "headHeightCm": 16,
+      "base": "ABS"
+    },
+    "scope": "公开搜索索引显示的零售产品规格；直连抓取不可用。哈希只覆盖本条结构化观察，不声称原网页内容哈希。"
+  }
+]

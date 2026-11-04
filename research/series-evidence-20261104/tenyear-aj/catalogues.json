@@ -1,0 +1,81 @@
+[
+  {
+    "year": 2021,
+    "source": {
+      "url": "https://online.aniplex.co.jp/LDIFdrMc",
+      "at": "2026-11-04T23:52:53.989Z",
+      "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+    },
+    "displayedTotal": 7,
+    "entries": [
+      "https://online.aniplex.co.jp/itemuOqEytVP.html",
+      "https://online.aniplex.co.jp/itemFiCFAOqn.html",
+      "https://online.aniplex.co.jp/itemtvEnvkar.html",
+      "https://online.aniplex.co.jp/itemAprytviC.html",
+      "https://online.aniplex.co.jp/itemQmqnHCKq.html",
+      "https://online.aniplex.co.jp/itemeTxTCNim.html",
+      "https://online.aniplex.co.jp/itemlvRXhJgF.html"
+    ]
+  },
+  {
+    "year": 2021,
+    "source": {
+      "url": "https://online.aniplex.co.jp/animejapan2021",
+      "at": "2026-11-04T23:52:54.780Z",
+      "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+    },
+    "displayedTotal": 19,
+    "entries": [
+      "https://online.aniplex.co.jp/itemVoWStxxc.html",
+      "https://online.aniplex.co.jp/itemssitvEIU.html",
+      "https://online.aniplex.co.jp/itemwfnTLumh.html",
+      "https://online.aniplex.co.jp/itemwzhyBFok.html",
+      "https://online.aniplex.co.jp/itemIiemFsLf.html",
+      "https://online.aniplex.co.jp/itemVDBKzJwB.html",
+      "https://online.aniplex.co.jp/itemCEGfSToW.html",
+      "https://online.aniplex.co.jp/itemLMXVLoDV.html",
+      "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "https://online.aniplex.co.jp/itemYkHKDbIb.html",
+      "https://online.aniplex.co.jp/itemoFDrIQaW.html",
+      "https://online.aniplex.co.jp/itemNMmqZCHo.html"
+    ]
+  },
+  {
+    "year": 2021,
+    "source": {
+      "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=animejapan2021&start=12&sz=12",
+      "at": "2026-11-04T23:54:05.171Z",
+      "sha256": "22888bbe354ebb6ecaa7add2cefe72852078ac445244b6419385a9d3b79c041e"
+    },
+    "displayedTotal": null,
+    "entries": [
+      "https://online.aniplex.co.jp/itemqDKXXQCh.html",
+      "https://online.aniplex.co.jp/itemOBChuQFu.html",
+      "https://online.aniplex.co.jp/itemYeTvTGVY.html",
+      "https://online.aniplex.co.jp/itemlAGVpUEz.html",
+      "https://online.aniplex.co.jp/itemgrIJUWJu.html",
+      "https://online.aniplex.co.jp/itemcBNHkqqe.html",
+      "https://online.aniplex.co.jp/itemumgdEsLP.html"
+    ]
+  },
+  {
+    "year": 2019,
+    "source": {
+      "url": "https://online.aniplex.co.jp/myxVrEyi",
+      "at": "2026-11-04T23:52:55.575Z",
+      "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+    },
+    "displayedTotal": 9,
+    "entries": [
+      "https://online.aniplex.co.jp/itemwUFTEjGl.html",
+      "https://online.aniplex.co.jp/itemcIsTibGz.html",
+      "https://online.aniplex.co.jp/itemzBvvWSus.html",
+      "https://online.aniplex.co.jp/itemWLtLSnGT.html",
+      "https://online.aniplex.co.jp/itemKZPUhWcU.html",
+      "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "https://online.aniplex.co.jp/itemeGAUPYIw.html",
+      "https://online.aniplex.co.jp/itemwQTYYcgJ.html",
+      "https://online.aniplex.co.jp/itempptHLYKz.html"
+    ]
+  }
+]

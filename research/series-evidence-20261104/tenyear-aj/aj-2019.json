@@ -1,0 +1,781 @@
+{
+  "year": 2019,
+  "candidates": 31,
+  "rows": [
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-0c43676e7c97249ddb100c79f4b7dbf5",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(マシュ・キリエライト(割烹着))",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "015",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（マシュ・キリエライト(割烹着)）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（マシュ・キリエライト(割烹着)）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-11524ff44b3df934e43b6c0fd468a267",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(ネロ・クラウディウス(霊衣「オリンピアの体操服」))",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "012",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（ネロ・クラウディウス(霊衣「オリンピアの体操服」)）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（ネロ・クラウディウス(霊衣「オリンピアの体操服」)）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-21a1f487987ab3c19dc59e3859343bac",
+      "title": "Fate/Grand Order AnimeJapan2019 缶バッジセット(えれっと)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGAUPYIw",
+      "variantId": "001",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 缶バッジセット（えれっと）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGAUPYIw.html",
+        "at": "2026-11-04T23:52:22.413Z",
+        "sha256": "6268174dcecace01c2ecfaf97a702084dc33a85f9a57861792071ef2382dce46"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGAUPYIw.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 缶バッジセット（えれっと）」。使用新绘插画，一套四枚徽章，每枚直径约 54 毫米。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-220a54ad1c426baac3bd7c856ebeaf64",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(シグルド)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "007",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（シグルド）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（シグルド）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-27cb5986e3a181468727040ce4974179",
+      "title": "Fate/Grand Order AnimeJapan2019 カレンダー2019(Boy's side)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemzBvvWSus",
+      "variantId": "001",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 カレンダー2019（Boy's side）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemzBvvWSus.html",
+        "at": "2026-11-04T23:52:23.014Z",
+        "sha256": "b81ae82e69946f141338043908ff4f52110ad2a0890df8275517da923d6bb2ca"
+      },
+      "second": "https://online.aniplex.co.jp/itemzBvvWSus.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 カレンダー2019（Boy's side）」。为概念礼装插画台历，日期范围为 2019 年 4 月至 2020 年 3 月。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-2abe13807d1fa77b309084df1622dead",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(新宿のアサシン(燕青))",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGWIDGQv",
+      "variantId": "008",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(新宿のアサシン(燕青))",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+        "at": "2026-11-04T23:52:23.578Z",
+        "sha256": "7289c30c2e393e53db9570d9508c74ff5a9d1574386e71f31d72fc2c61a1cf11"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(新宿のアサシン(燕青))」。为使用新绘插画的亚克力钥匙扣。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-340797cd809dd6735df06cf7e08b8875",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(アーチャー・インフェルノ(巴御前))",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGWIDGQv",
+      "variantId": "002",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(アーチャー・インフェルノ(巴御前))",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+        "at": "2026-11-04T23:52:23.578Z",
+        "sha256": "7289c30c2e393e53db9570d9508c74ff5a9d1574386e71f31d72fc2c61a1cf11"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(アーチャー・インフェルノ(巴御前))」。为使用新绘插画的亚克力钥匙扣。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-4b740435d3ef651d0c7c93f40537ddb0",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(蘭陵王)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "010",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（蘭陵王）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（蘭陵王）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-4f23cc5a29bcf4ddb2cbce2956f63d5d",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(清姫)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGWIDGQv",
+      "variantId": "004",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(清姫)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+        "at": "2026-11-04T23:52:23.578Z",
+        "sha256": "7289c30c2e393e53db9570d9508c74ff5a9d1574386e71f31d72fc2c61a1cf11"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(清姫)」。为使用新绘插画的亚克力钥匙扣。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-7f4a11b6fa6f1bf9e2829a1b0c1e6b2e",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(坂田金時)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGWIDGQv",
+      "variantId": "005",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(坂田金時)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+        "at": "2026-11-04T23:52:23.578Z",
+        "sha256": "7289c30c2e393e53db9570d9508c74ff5a9d1574386e71f31d72fc2c61a1cf11"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(坂田金時)」。为使用新绘插画的亚克力钥匙扣。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-8765e7706eedd88d53e2d278c84db76a",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(アキレウス)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGWIDGQv",
+      "variantId": "006",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(アキレウス)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+        "at": "2026-11-04T23:52:23.578Z",
+        "sha256": "7289c30c2e393e53db9570d9508c74ff5a9d1574386e71f31d72fc2c61a1cf11"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(アキレウス)」。为使用新绘插画的亚克力钥匙扣。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-8c55dac39210f2582898013ad60bc1c3",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(ゴルドルフ・ムジーク)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "001",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（ゴルドルフ・ムジーク）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（ゴルドルフ・ムジーク）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-9149daa7a668199fc8068e1b11811cb2",
+      "title": "Fate/Grand Order AnimeJapan2019 クリアファイルセット(えれっと)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemWLtLSnGT",
+      "variantId": "001",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 クリアファイルセット(えれっと)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemWLtLSnGT.html",
+        "at": "2026-11-04T23:52:24.167Z",
+        "sha256": "3d284fbf461415606fbef5217c9c3dd5f6a655b6dec26a3b6f5fc1f422ab1c0f"
+      },
+      "second": "https://online.aniplex.co.jp/itemWLtLSnGT.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": "官方同时标为A4并写约153×220mm，尺寸互相矛盾，未写入尺寸；留待官方修订或实物包装确认。",
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 クリアファイルセット(えれっと)」。采用新绘从者插画，一套四枚透明文件夹。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-97547413f4dbbcb58888d14794eea8e8",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(カドック・ゼムルプス)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "004",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（カドック・ゼムルプス）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（カドック・ゼムルプス）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-9a3225b4f6235a556ab95f933e910237",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(オフェリア・ファムルソローネ)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "006",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（オフェリア・ファムルソローネ）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（オフェリア・ファムルソローネ）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-a1122b9ae97081d03ef9fc35aad20807",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(ブリュンヒルデ)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGWIDGQv",
+      "variantId": "003",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(ブリュンヒルデ)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+        "at": "2026-11-04T23:52:23.578Z",
+        "sha256": "7289c30c2e393e53db9570d9508c74ff5a9d1574386e71f31d72fc2c61a1cf11"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(ブリュンヒルデ)」。为使用新绘插画的亚克力钥匙扣。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-a84a1d611770b13e8c6cb8cd07fdcecc",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(岡田以蔵)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGWIDGQv",
+      "variantId": "007",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(岡田以蔵)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+        "at": "2026-11-04T23:52:23.578Z",
+        "sha256": "7289c30c2e393e53db9570d9508c74ff5a9d1574386e71f31d72fc2c61a1cf11"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(岡田以蔵)」。为使用新绘插画的亚克力钥匙扣。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-b41be774b9df6ffeb9b335c01a3ecbe2",
+      "title": "Fate/Grand Order AnimeJapan2019 クリアファイルセット(さらちよみ)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemWLtLSnGT",
+      "variantId": "002",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 クリアファイルセット(さらちよみ)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemWLtLSnGT.html",
+        "at": "2026-11-04T23:52:24.167Z",
+        "sha256": "3d284fbf461415606fbef5217c9c3dd5f6a655b6dec26a3b6f5fc1f422ab1c0f"
+      },
+      "second": "https://online.aniplex.co.jp/itemWLtLSnGT.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": "官方同时标为A4并写约153×220mm，尺寸互相矛盾，未写入尺寸；留待官方修订或实物包装确认。",
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 クリアファイルセット(さらちよみ)」。采用新绘从者插画，一套四枚透明文件夹。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-bc83dcc0cbf3b7f471508f9e289f9b52",
+      "title": "Fate/Grand Order AnimeJapan2019 B2タペストリー(さらちよみ)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKZPUhWcU",
+      "variantId": "002",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 B2タペストリー(さらちよみ)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKZPUhWcU.html",
+        "at": "2026-11-04T23:52:24.772Z",
+        "sha256": "66690d29789390a6a43e7cc00926c422fe7afb972f4246642fe7addbb78fd1dc"
+      },
+      "second": "https://online.aniplex.co.jp/itemKZPUhWcU.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 B2タペストリー(さらちよみ)」。使用新绘插画，B2 尺寸约为 515 × 728 毫米。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-c263c0b3346de4e39cb27420676e2d2e",
+      "title": "Fate/Grand Order AnimeJapan2019 B2タペストリー(えれっと)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKZPUhWcU",
+      "variantId": "001",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 B2タペストリー(えれっと)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKZPUhWcU.html",
+        "at": "2026-11-04T23:52:24.772Z",
+        "sha256": "66690d29789390a6a43e7cc00926c422fe7afb972f4246642fe7addbb78fd1dc"
+      },
+      "second": "https://online.aniplex.co.jp/itemKZPUhWcU.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 B2タペストリー(えれっと)」。使用新绘插画，B2 尺寸约为 515 × 728 毫米。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-c2ae7f77793b3ec17d0c5f38465eb03f",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(アナスタシア)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "005",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（アナスタシア）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（アナスタシア）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-c2dd9d1ce1fa0b7923a6e06cf3dbbc32",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(紅閻魔)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGWIDGQv",
+      "variantId": "001",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(紅閻魔)",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+        "at": "2026-11-04T23:52:23.578Z",
+        "sha256": "7289c30c2e393e53db9570d9508c74ff5a9d1574386e71f31d72fc2c61a1cf11"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGWIDGQv.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルキーホルダー(紅閻魔)」。为使用新绘插画的亚克力钥匙扣。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-c748b65c0520e826d73df22d755d6479",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(芥ヒナコ)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "009",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（芥ヒナコ）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（芥ヒナコ）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-cf69787cc16ea8bbcb4d59b71462df5d",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(アーサー・ペンドラゴン〔プロトタイプ〕(霊衣「ホワイトローズ」))",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "013",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（アーサー・ペンドラゴン〔プロトタイプ〕(霊衣「ホワイトローズ」)）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（アーサー・ペンドラゴン〔プロトタイプ〕(霊衣「ホワイトローズ」)）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-daa97ccc2bce1684d0e7757d6b7fae11",
+      "title": "Fate/Grand Order AnimeJapan2019 カレンダー2019(Girl's side)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemzBvvWSus",
+      "variantId": "002",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 カレンダー2019（Girl's side）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemzBvvWSus.html",
+        "at": "2026-11-04T23:52:23.014Z",
+        "sha256": "b81ae82e69946f141338043908ff4f52110ad2a0890df8275517da923d6bb2ca"
+      },
+      "second": "https://online.aniplex.co.jp/itemzBvvWSus.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 カレンダー2019（Girl's side）」。为概念礼装插画台历，日期范围为 2019 年 4 月至 2020 年 3 月。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-e130399605af9ceea502e33b0917975a",
+      "title": "Fate/Grand Order AnimeJapan2019 缶バッジセット(さらちよみ)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeGAUPYIw",
+      "variantId": "002",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 缶バッジセット（さらちよみ）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeGAUPYIw.html",
+        "at": "2026-11-04T23:52:22.413Z",
+        "sha256": "6268174dcecace01c2ecfaf97a702084dc33a85f9a57861792071ef2382dce46"
+      },
+      "second": "https://online.aniplex.co.jp/itemeGAUPYIw.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 缶バッジセット（さらちよみ）」。使用新绘插画，一套四枚徽章，每枚直径约 54 毫米。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-ec71c68cba12279298b96dd8b2214526",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(レオナルド・ダ・ヴィンチ)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "002",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（レオナルド・ダ・ヴィンチ）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（レオナルド・ダ・ヴィンチ）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-f27d2af374fc5439f85af4cad63b29a5",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(ゲルダ)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "008",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（ゲルダ）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（ゲルダ）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-f42be292ba767c75a1c6f8c96d6b63ec",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(エリザベートJAPAN)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "014",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（エリザベートJAPAN）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（エリザベートJAPAN）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-f648cb83f43d3f217adc3b9c4c20ea6a",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(シオン・エルトナム・ソカリス)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "003",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（シオン・エルトナム・ソカリス）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（シオン・エルトナム・ソカリス）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "itemId": "source-fb3c653c3300c3d8c155e96006b31100",
+      "title": "Fate/Grand Order AnimeJapan2019 アクリルマスコット(始皇帝)",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itempptHLYKz",
+      "variantId": "011",
+      "officialTitle": "Fate/Grand Order AnimeJapan2019 アクリルマスコット（始皇帝）",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itempptHLYKz.html",
+        "at": "2026-11-04T23:52:21.806Z",
+        "sha256": "56f62bb6e3c904a670d382b0281ee2e1a909209afb14a3417b17b10a598ed23a"
+      },
+      "second": "https://online.aniplex.co.jp/itempptHLYKz.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/myxVrEyi",
+        "at": "2026-11-04T23:52:55.575Z",
+        "sha256": "c6c192dac6c80a3d2a55d80fd49178de6cc234ac3f4f5c4f1c399904d236dee3"
+      },
+      "contextSource": "https://news.fate-go.jp/2019/aj2019/",
+      "notes": null,
+      "summary": "AnimeJapan 2019 的「Fate/Grand Order AnimeJapan2019 アクリルマスコット（始皇帝）」。属于角色精选亚克力摆件系列，材质为亚克力。"
+    }
+  ]
+}

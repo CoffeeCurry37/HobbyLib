@@ -1,0 +1,12 @@
+{
+  "captureReceipts": 29,
+  "uniqueUrls": 29,
+  "statuses": {
+    "captured": 26,
+    "unavailable": 3
+  },
+  "requests": 29,
+  "cacheHits": 0,
+  "paidModelApiCalls": 0,
+  "scope": "本地抓取回执，搜索索引访问另记；无API费用信息。"
+}

@@ -1,16 +1,11 @@
 {
-  "stage": "research-in-progress-no-production-write",
-  "secondWave": {
-    "reviewed": 38,
-    "prepared": 38,
-    "applied": 0
-  },
-  "firstWave": {
-    "reviewed": 34,
-    "prepared": 31,
-    "pending": 3,
-    "applied": 0
-  },
-  "next": "两组AnimeJapan逐项比对官方商品号、规格及年度目录；完成后统一副本验证与正式写入。",
-  "productionMaintenanceClosed": true
+  "stage": "validated-before-production",
+  "reviewed": 135,
+  "prepared": 132,
+  "pending": 3,
+  "productionApplied": 0,
+  "batches": 7,
+  "productionMaintenanceClosed": true,
+  "latestEvidence": "review.json",
+  "next": "先读取实时目标，版本一致者最多20条一批；写后读回并关闭维护入口。"
 }

@@ -1,0 +1,806 @@
+{
+  "year": 2021,
+  "candidates": 32,
+  "rows": [
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-046b696694d8396f5c7edc59c51c7fab",
+      "title": "アクリルキーホルダー(蘆屋道満)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeTxTCNim",
+      "variantId": "003",
+      "officialTitle": "アクリルキーホルダー（蘆屋道満）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeTxTCNim.html",
+        "at": "2026-11-04T23:51:57.680Z",
+        "sha256": "c9711c82df32df466c076ceccadac86ec22388d952d2170f03093a3371265f03"
+      },
+      "second": "https://online.aniplex.co.jp/itemeTxTCNim.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルキーホルダー（蘆屋道満）/ Fate/Grand Order」。采用めばる新绘插画，尺寸约 50 × 80 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-0568fbcbc4350752b28f67f0d616d7a6",
+      "title": "B2タペストリー(TAKOLEGS)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemFiCFAOqn",
+      "variantId": "001",
+      "officialTitle": "B2タペストリー（TAKOLEGS）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemFiCFAOqn.html",
+        "at": "2026-11-04T23:51:58.342Z",
+        "sha256": "fb0dab8cb82b0908bc44987bcd591941c6a72b1096ea8a2e7f135e992d88c40a"
+      },
+      "second": "https://online.aniplex.co.jp/itemFiCFAOqn.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「B2タペストリー（TAKOLEGS）/ Fate/Grand Order」。以「虚数大海戦イマジナリ・スクランブル」为主题，采用 TAKOLEGS 新绘插画，B2 尺寸、单面麂皮绒面料。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-0c1f9511afd6913a59d708968ced58c2",
+      "title": "海域スキャンアクリルキーホルダー(謎のアルターエゴ・Λ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemQmqnHCKq",
+      "variantId": "003",
+      "officialTitle": "海域スキャンアクリルキーホルダー（謎のアルターエゴ・Λ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemQmqnHCKq.html",
+        "at": "2026-11-04T23:51:58.885Z",
+        "sha256": "c23ea505a90c227301e0f34f205757fdef7c32e356d24ac23b99b0fcfd0f9c2d"
+      },
+      "second": "https://online.aniplex.co.jp/itemQmqnHCKq.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「海域スキャンアクリルキーホルダー（謎のアルターエゴ・Λ）/ Fate/Grand Order」。使用「虚数大海戦イマジナリ・スクランブル」海域扫描时的 Q 版造型，尺寸约 60 × 60 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-1111011005562bc962fd0a21b7aa9ab4",
+      "title": "特殊印刷ポスター付劇場前売券セット / 劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemumgdEsLP",
+      "variantId": "001",
+      "officialTitle": "特殊印刷ポスター付劇場前売券セット / 劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemumgdEsLP.html",
+        "at": "2026-11-04T23:51:59.491Z",
+        "sha256": "0a04159287dc4c6725b2f89f9bd2a9e5172f63161d462f787f17306d8fe0915c"
+      },
+      "second": "https://online.aniplex.co.jp/itemumgdEsLP.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=animejapan2021&start=12&sz=12",
+        "at": "2026-11-04T23:54:05.171Z",
+        "sha256": "22888bbe354ebb6ecaa7add2cefe72852078ac445244b6419385a9d3b79c041e"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「特殊印刷ポスター付劇場前売券セット / 劇場版 Fate/Grand Order -神聖円卓領域キャメロット-」。对应剧场版《神圣圆桌领域卡美洛》后篇「Paladin; Agateram」，含一张电影预售票及一张 B2 特殊印刷海报，海报带仿压纹加工。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-152dacd755dfead6f00f3f0a01ca46e9",
+      "title": "アクリルキーホルダー(坂田金時<平安武者装束>)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeTxTCNim",
+      "variantId": "001",
+      "officialTitle": "アクリルキーホルダー（坂田金時＜平安武者装束＞）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeTxTCNim.html",
+        "at": "2026-11-04T23:51:57.680Z",
+        "sha256": "c9711c82df32df466c076ceccadac86ec22388d952d2170f03093a3371265f03"
+      },
+      "second": "https://online.aniplex.co.jp/itemeTxTCNim.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルキーホルダー（坂田金時＜平安武者装束＞）/ Fate/Grand Order」。采用めばる新绘插画，尺寸约 50 × 80 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-16c42c45eccad14cc0a46a86f34d70f4",
+      "title": "アクリルマスコット(レオナルド・ダ・ヴィンチ)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "005",
+      "officialTitle": "アクリルマスコット（レオナルド・ダ・ヴィンチ）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（レオナルド・ダ・ヴィンチ）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 91、高 156 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-1958acc60430ca1a64fe18794f83595a",
+      "title": "SDミニアクリルマスコット(キャプテン・ネモ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "004",
+      "officialTitle": "SDミニアクリルマスコット（キャプテン・ネモ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（キャプテン・ネモ）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-1aa0b68e6e2f5799b973654080af4e7b",
+      "title": "アクリルマスコット(謎のネコV)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "006",
+      "officialTitle": "アクリルマスコット（謎のネコV）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（謎のネコV）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 55、高 81 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-1fdca3fbba42f3f99bbbdeecd1f0824f",
+      "title": "アクリルキーホルダー(葛飾北斎)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemtvEnvkar",
+      "variantId": "002",
+      "officialTitle": "アクリルキーホルダー（葛飾北斎）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemtvEnvkar.html",
+        "at": "2026-11-04T23:52:01.307Z",
+        "sha256": "a3f1ef73640c6f7e73aa49521de267a6d5d6feb27557cc4e6856ad1d8b9d2b7c"
+      },
+      "second": "https://online.aniplex.co.jp/itemtvEnvkar.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルキーホルダー（葛飾北斎）/ Fate/Grand Order」。采用 TAKOLEGS 新绘插画，尺寸约 50 × 80 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-2d27164f71170704c983def57ce9583a",
+      "title": "アクリルマスコット(謎のネコY)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "009",
+      "officialTitle": "アクリルマスコット（謎のネコY）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（謎のネコY）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 60、高 78 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-386057fc0554715182c84f2882563101",
+      "title": "海域スキャンアクリルキーホルダー(刑部姫)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemQmqnHCKq",
+      "variantId": "001",
+      "officialTitle": "海域スキャンアクリルキーホルダー（刑部姫）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemQmqnHCKq.html",
+        "at": "2026-11-04T23:51:58.885Z",
+        "sha256": "c23ea505a90c227301e0f34f205757fdef7c32e356d24ac23b99b0fcfd0f9c2d"
+      },
+      "second": "https://online.aniplex.co.jp/itemQmqnHCKq.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「海域スキャンアクリルキーホルダー（刑部姫）/ Fate/Grand Order」。使用「虚数大海戦イマジナリ・スクランブル」海域扫描时的 Q 版造型，尺寸约 60 × 60 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-3a83484ed69640d5e5aab62ff65237f8",
+      "title": "SDミニアクリルマスコット(カイニス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "007",
+      "officialTitle": "SDミニアクリルマスコット（カイニス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（カイニス）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-44dfae7ea64b1038448665b9c06623b1",
+      "title": "アクリルキーホルダー(アビゲイル・ウィリアムズ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemtvEnvkar",
+      "variantId": "003",
+      "officialTitle": "アクリルキーホルダー（アビゲイル・ウィリアムズ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemtvEnvkar.html",
+        "at": "2026-11-04T23:52:01.307Z",
+        "sha256": "a3f1ef73640c6f7e73aa49521de267a6d5d6feb27557cc4e6856ad1d8b9d2b7c"
+      },
+      "second": "https://online.aniplex.co.jp/itemtvEnvkar.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルキーホルダー（アビゲイル・ウィリアムズ）/ Fate/Grand Order」。采用 TAKOLEGS 新绘插画，尺寸约 50 × 80 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-485515df2e876e540dfa589eed7e3cdf",
+      "title": "SDミニアクリルマスコット(葛飾北斎)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "003",
+      "officialTitle": "SDミニアクリルマスコット（葛飾北斎）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（葛飾北斎）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-48723eab75e51e22176322597d372222",
+      "title": "アクリルマスコット(マシュ・キリエライト)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "002",
+      "officialTitle": "アクリルマスコット（マシュ・キリエライト）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（マシュ・キリエライト）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 89、高 149 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-4db50c0c14ad5472ad82ca05821d07db",
+      "title": "アクリルマスコット(藤丸立香)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "001",
+      "officialTitle": "アクリルマスコット（藤丸立香）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（藤丸立香）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 67、高 156 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-5fee63b68f1a2914324d9e01355520ac",
+      "title": "SDミニアクリルマスコット(ゴッホ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "001",
+      "officialTitle": "SDミニアクリルマスコット（ゴッホ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（ゴッホ）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-655781c8dfcd7401e474b7576be42698",
+      "title": "SDミニアクリルマスコット(坂田金時<平安武者装束>)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "008",
+      "officialTitle": "SDミニアクリルマスコット（坂田金時＜平安武者装束＞）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（坂田金時＜平安武者装束＞）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-6948593c49d99d6c1d2b00d825f484d3",
+      "title": "SDミニアクリルマスコット(楊貴妃)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "002",
+      "officialTitle": "SDミニアクリルマスコット（楊貴妃）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（楊貴妃）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-748f7acc35b62e80a9c9330d7af5d66e",
+      "title": "アクリルマスコット(ネロ・クラウディウス)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "004",
+      "officialTitle": "アクリルマスコット（ネロ・クラウディウス）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（ネロ・クラウディウス）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 66、高 154 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-76f07bee887a57255fec10f35ac93c5a",
+      "title": "アクリルマスコット(謎のネコW)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "007",
+      "officialTitle": "アクリルマスコット（謎のネコW）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（謎のネコW）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 50、高 79 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-94b5aad956d574ec431282824a9360e1",
+      "title": "SDミニアクリルマスコット(蘆屋道満)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "006",
+      "officialTitle": "SDミニアクリルマスコット（蘆屋道満）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（蘆屋道満）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-95270d7809e0f842c2abd18ad67aef31",
+      "title": "アクリルマスコット(謎のネコX)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "008",
+      "officialTitle": "アクリルマスコット（謎のネコX）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（謎のネコX）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 63、高 79 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-a0a06a3c80d2d419aaebfc036c9410cf",
+      "title": "アクリルマスコット(アルトリア・ペンドラゴン)/ Fate/Grand Carnival",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgLjRPqEp",
+      "variantId": "003",
+      "officialTitle": "アクリルマスコット（アルトリア・ペンドラゴン）/ Fate/Grand Carnival",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+        "at": "2026-11-04T23:52:00.099Z",
+        "sha256": "d9fbdd3922ace3cf17ce7ea534a9d1ab96d2202347ecde09611bfffb07093061"
+      },
+      "second": "https://online.aniplex.co.jp/itemgLjRPqEp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2021",
+        "at": "2026-11-04T23:52:54.780Z",
+        "sha256": "41aa99536c6f96eaf89938780c0c99cb7ebae9444fb286e542786a55d96ddcf4"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルマスコット（アルトリア・ペンドラゴン）/ Fate/Grand Carnival」。出自《Fate/Grand Carnival》亚克力摆件系列 vol.1。本款宽 82、高 148 毫米。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-b3c71c36c737f90ae4fc256d41aca337",
+      "title": "SDミニアクリルマスコット(伊吹童子)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "010",
+      "officialTitle": "SDミニアクリルマスコット（伊吹童子）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（伊吹童子）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-ba69626f545cc25beaaceb286a31abb5",
+      "title": "アクリルキーホルダー(楊貴妃)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemtvEnvkar",
+      "variantId": "004",
+      "officialTitle": "アクリルキーホルダー（楊貴妃）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemtvEnvkar.html",
+        "at": "2026-11-04T23:52:01.307Z",
+        "sha256": "a3f1ef73640c6f7e73aa49521de267a6d5d6feb27557cc4e6856ad1d8b9d2b7c"
+      },
+      "second": "https://online.aniplex.co.jp/itemtvEnvkar.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルキーホルダー（楊貴妃）/ Fate/Grand Order」。采用 TAKOLEGS 新绘插画，尺寸约 50 × 80 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-c10d3b8f96e3713a630a4f155134b1c1",
+      "title": "アクリルキーホルダー(ゴッホ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemtvEnvkar",
+      "variantId": "001",
+      "officialTitle": "アクリルキーホルダー（ゴッホ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemtvEnvkar.html",
+        "at": "2026-11-04T23:52:01.307Z",
+        "sha256": "a3f1ef73640c6f7e73aa49521de267a6d5d6feb27557cc4e6856ad1d8b9d2b7c"
+      },
+      "second": "https://online.aniplex.co.jp/itemtvEnvkar.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルキーホルダー（ゴッホ）/ Fate/Grand Order」。采用 TAKOLEGS 新绘插画，尺寸约 50 × 80 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-ebfb708dc337965b6edb9054c80e1fab",
+      "title": "アクリルキーホルダー(渡辺綱)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemeTxTCNim",
+      "variantId": "002",
+      "officialTitle": "アクリルキーホルダー（渡辺綱）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemeTxTCNim.html",
+        "at": "2026-11-04T23:51:57.680Z",
+        "sha256": "c9711c82df32df466c076ceccadac86ec22388d952d2170f03093a3371265f03"
+      },
+      "second": "https://online.aniplex.co.jp/itemeTxTCNim.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「アクリルキーホルダー（渡辺綱）/ Fate/Grand Order」。采用めばる新绘插画，尺寸约 50 × 80 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-ef54eeef8b0403ad7f3504885772d02c",
+      "title": "SDミニアクリルマスコット(千子村正)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "005",
+      "officialTitle": "SDミニアクリルマスコット（千子村正）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（千子村正）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-f5806bc8a9bc98245385debb23a1c3e4",
+      "title": "B2タペストリー(めばる)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAprytviC",
+      "variantId": "001",
+      "officialTitle": "B2タペストリー（めばる）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAprytviC.html",
+        "at": "2026-11-04T23:52:01.858Z",
+        "sha256": "d45cbecdcd649af7bccbf6a9ba2cbb8286a08de23cd31e03aa5e523166881168"
+      },
+      "second": "https://online.aniplex.co.jp/itemAprytviC.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「B2タペストリー（めばる）/ Fate/Grand Order」。以「地獄界曼陀羅 平安京」为主题，采用めばる新绘插画，B2 尺寸、单面麂皮绒面料。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-fa9b958914c8307b09860880c73608d7",
+      "title": "海域スキャンアクリルキーホルダー(源頼光)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemQmqnHCKq",
+      "variantId": "002",
+      "officialTitle": "海域スキャンアクリルキーホルダー（源頼光）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemQmqnHCKq.html",
+        "at": "2026-11-04T23:51:58.885Z",
+        "sha256": "c23ea505a90c227301e0f34f205757fdef7c32e356d24ac23b99b0fcfd0f9c2d"
+      },
+      "second": "https://online.aniplex.co.jp/itemQmqnHCKq.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「海域スキャンアクリルキーホルダー（源頼光）/ Fate/Grand Order」。使用「虚数大海戦イマジナリ・スクランブル」海域扫描时的 Q 版造型，尺寸约 60 × 60 毫米，因角色而异。"
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "itemId": "source-fe5f7c413c7cb180777c077c46b24c04",
+      "title": "SDミニアクリルマスコット(渡辺綱)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemlvRXhJgF",
+      "variantId": "009",
+      "officialTitle": "SDミニアクリルマスコット（渡辺綱）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+        "at": "2026-11-04T23:52:00.712Z",
+        "sha256": "202ffc020479a0524e4365b581f217c64b218144551cca896d12646c4b852a5b"
+      },
+      "second": "https://online.aniplex.co.jp/itemlvRXhJgF.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/LDIFdrMc",
+        "at": "2026-11-04T23:52:53.989Z",
+        "sha256": "2b6ca377b10c79ff5af8484994f6d689d39af34e1717e0583450ede59bee8df3"
+      },
+      "contextSource": "https://news.fate-go.jp/2021/0328nico/",
+      "notes": null,
+      "summary": "AnimeJapan 2021 的「SDミニアクリルマスコット（渡辺綱）/ Fate/Grand Order」。采用野崎つばた新绘 Q 版插画，尺寸约 40 × 65 毫米，因角色而异。"
+    }
+  ]
+}

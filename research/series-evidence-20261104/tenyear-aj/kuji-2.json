@@ -12,7 +12,7 @@
       "groupId": "series-2440e42166db007e",
       "title": "セイバー(プロトタイプ/納刀) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
       "status": "supported",
-      "scope": "同期奖级及留存商品号",
+      "scope": "零售成员清单及完整款名",
       "award": "I賞",
       "officialTitle": "きゅんキャラ「セイバーSpecial」",
       "member": "セイバー(プロトタイプ/納刀)",
@@ -21,7 +21,8 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/601052660",
+      "sourceRole": "contemporary-report-and-retailer",
+      "second": "https://www.suruga-ya.jp/product/detail/601801953",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.taito.co.jp/gc/topics/1457"
@@ -46,7 +47,7 @@
       "groupId": "series-2440e42166db007e",
       "title": "【シークレット】セイバー(プロトタイプ/抜刀) 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
       "status": "supported",
-      "scope": "同期奖级及留存商品号",
+      "scope": "零售成员清单及完整款名",
       "award": "I賞",
       "officialTitle": "きゅんキャラ「セイバーSpecial」",
       "member": "【シークレット】セイバー(プロトタイプ/抜刀)",
@@ -55,7 +56,8 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/601052664",
+      "sourceRole": "contemporary-report-and-retailer",
+      "second": "https://www.suruga-ya.jp/product/detail/601801953",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.taito.co.jp/gc/topics/1457"
@@ -89,6 +91,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/602111997",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -133,6 +136,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/602103036",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -167,6 +171,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/608275682",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -196,6 +201,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/608275686",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -224,6 +230,7 @@
       },
       "second": "https://www.taghobby.com/archives/29515",
       "officialTitle": "一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial",
+      "sourceRole": "official-context-with-contemporary-report",
       "summary": "这是 Fate 系列十周年一番赏第二弹「セイバーSpecial」的系列目录。Taito 的同期公告列明自 2014 年 9 月 13 日起陆续销售。"
     },
     {
@@ -240,6 +247,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/602103034",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -263,6 +271,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/602111997",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -286,6 +295,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/602103036",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -309,6 +319,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/602103037",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -332,6 +343,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/608924613",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -361,6 +373,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/892504656",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -390,6 +403,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/992015923",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -419,6 +433,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/601801953",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -444,10 +459,13 @@
       "officialTitle": "-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア",
       "member": "-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア",
       "source": {
-        "url": "https://www.taghobby.com/archives/29515",
-        "at": "2026-11-04T18:15:40.807Z",
-        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+        "url": "https://www.amiami.jp/top/detail/detail?scode=FIGURE-007685-R",
+        "at": "2026-11-04T23:56:11.553Z",
+        "sha256": "3f45b01b72fe696ca9aa17dc275e37da3fa9fb0d4575cad623e4e7ad7bf340d7",
+        "kind": "retailer-search-index-observation",
+        "observationId": "second-lastone"
       },
+      "sourceRole": "retailer-index",
       "second": "https://www.amiami.jp/top/detail/detail?scode=FIGURE-007685-R",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -472,6 +490,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/602103034",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -501,6 +520,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/602103037",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -530,6 +550,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/892504653",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -559,6 +580,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/892504654",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -588,6 +610,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/892504655",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -608,7 +631,7 @@
       "groupId": "series-2440e42166db007e",
       "title": "セイバーエクストラ プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
       "status": "supported",
-      "scope": "同期奖级及留存商品号",
+      "scope": "零售成员清单及完整款名",
       "award": "G賞",
       "officialTitle": "プレミアムアートグラス",
       "member": "セイバーエクストラ",
@@ -617,7 +640,8 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/992015917",
+      "sourceRole": "contemporary-report-and-retailer",
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.taito.co.jp/gc/topics/1457"
@@ -646,6 +670,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -669,6 +694,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -692,6 +718,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -715,6 +742,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -738,6 +766,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/608275680",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -767,6 +796,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/608275681",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -796,6 +826,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/608275683",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -825,6 +856,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/608275684",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -854,6 +886,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.suruga-ya.jp/product/detail/608275685",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -874,7 +907,7 @@
       "groupId": "series-2440e42166db007e",
       "title": "セイバーエクストラ 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
       "status": "supported",
-      "scope": "同期奖级及留存商品号",
+      "scope": "零售成员清单及完整款名",
       "award": "I賞",
       "officialTitle": "きゅんキャラ「セイバーSpecial」",
       "member": "セイバーエクストラ",
@@ -883,7 +916,8 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/601052659",
+      "sourceRole": "contemporary-report-and-retailer",
+      "second": "https://www.suruga-ya.jp/product/detail/601801953",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.taito.co.jp/gc/topics/1457"
@@ -903,7 +937,7 @@
       "groupId": "series-2440e42166db007e",
       "title": "赤のセイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
       "status": "supported",
-      "scope": "同期奖级及留存商品号",
+      "scope": "零售成员清单及完整款名",
       "award": "I賞",
       "officialTitle": "きゅんキャラ「セイバーSpecial」",
       "member": "赤のセイバー",
@@ -912,7 +946,8 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/601052661",
+      "sourceRole": "contemporary-report-and-retailer",
+      "second": "https://www.suruga-ya.jp/product/detail/601801953",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.taito.co.jp/gc/topics/1457"
@@ -932,7 +967,7 @@
       "groupId": "series-2440e42166db007e",
       "title": "桜セイバー 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
       "status": "supported",
-      "scope": "同期奖级及留存商品号",
+      "scope": "零售成员清单及完整款名",
       "award": "I賞",
       "officialTitle": "きゅんキャラ「セイバーSpecial」",
       "member": "桜セイバー",
@@ -941,7 +976,8 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/601052662",
+      "sourceRole": "contemporary-report-and-retailer",
+      "second": "https://www.suruga-ya.jp/product/detail/601801953",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.taito.co.jp/gc/topics/1457"
@@ -961,7 +997,7 @@
       "groupId": "series-2440e42166db007e",
       "title": "セイバーライオン 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 I賞 きゅんキャラ",
       "status": "supported",
-      "scope": "同期奖级及留存商品号",
+      "scope": "零售成员清单及完整款名",
       "award": "I賞",
       "officialTitle": "きゅんキャラ「セイバーSpecial」",
       "member": "セイバーライオン",
@@ -970,7 +1006,8 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/601052663",
+      "sourceRole": "contemporary-report-and-retailer",
+      "second": "https://www.suruga-ya.jp/product/detail/601801953",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.taito.co.jp/gc/topics/1457"
@@ -995,11 +1032,14 @@
       "officialTitle": "-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア",
       "member": "-誇り高き騎士王- セイバー ラストワンver. プレミアムフィギュア",
       "source": {
-        "url": "https://www.taghobby.com/archives/29515",
-        "at": "2026-11-04T18:15:40.807Z",
-        "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
+        "url": "https://www.amiami.jp/top/detail/detail?scode=FIGURE-007685-R",
+        "at": "2026-11-04T23:56:11.553Z",
+        "sha256": "3f45b01b72fe696ca9aa17dc275e37da3fa9fb0d4575cad623e4e7ad7bf340d7",
+        "kind": "retailer-search-index-observation",
+        "observationId": "second-lastone"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/602103038",
+      "sourceRole": "retailer-index",
+      "second": "https://www.amiami.jp/top/detail/detail?scode=FIGURE-007685-R",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.amiami.jp/top/detail/detail?scode=FIGURE-007685-R",
@@ -1029,6 +1069,7 @@
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
+      "sourceRole": "contemporary-report-and-retailer",
       "second": "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-049131-R",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
@@ -1043,16 +1084,17 @@
       "groupId": "series-2440e42166db007e",
       "title": "セイバーオルタ プレミアムアートグラス 「一番くじプレミアム Fateシリーズ 10周年記念第二弾 セイバーSpecial」 G賞",
       "status": "supported",
-      "scope": "同期奖级及留存商品号",
+      "scope": "零售成员清单及完整款名",
       "award": "G賞",
       "officialTitle": "プレミアムアートグラス",
-      "member": "セイバー",
+      "member": "セイバーオルタ",
       "source": {
         "url": "https://www.taghobby.com/archives/29515",
         "at": "2026-11-04T18:15:40.807Z",
         "sha256": "2be25eb851634e861423ac66583296b9900f60ee7deb8241f4c9b54ae4af1420"
       },
-      "second": "https://www.suruga-ya.jp/product/detail/992015920",
+      "sourceRole": "contemporary-report-and-retailer",
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/992015923",
       "contextSource": "https://www.taito.co.jp/gc/topics/1457",
       "additionalSources": [
         "https://www.taito.co.jp/gc/topics/1457"
@@ -1080,7 +1122,7 @@
         }
       ],
       "knownAt": "2026-10-05T20:14:26.783Z",
-      "summary": "本件对应G賞「セイバー」。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
+      "summary": "本件对应G賞「セイバーオルタ」。玻璃杯采用武内崇的 Saber 插画，赏级共六种，尺寸约 10 厘米。"
     }
   ]
 }
