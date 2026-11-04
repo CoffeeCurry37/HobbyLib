@@ -1,0 +1,65 @@
+[
+  {
+    "batch": 0,
+    "items": 20,
+    "planDigest": "f9c8d61323f3b5190b808cebbefaa46eb71a941c87a64933f8bfa3a81d7dd8b9",
+    "afterHash": "b9860ae0ef4b5c39bead326bd666716d596f514a10cce4030b029ef1ec80383c",
+    "at": "2026-11-04T13:37:05.330Z"
+  },
+  {
+    "batch": 1,
+    "items": 20,
+    "planDigest": "9b1ae7339ae9bfb83e7a3f5c1b9f480cae14d3e8fbe1bbc4e0c2873ac7c96290",
+    "afterHash": "1c2e26454827b51633f8f8ab184a619199ea922560349eabb954f640313c186d",
+    "at": "2026-11-04T13:37:06.285Z"
+  },
+  {
+    "batch": 2,
+    "items": 20,
+    "planDigest": "9b90304586434f4f91f6b7cf9d9d9b69dd1230bb34852f19c22bc62be3fcf775",
+    "afterHash": "5670f768968e07f95ce3969ebafdfca293f99d9d17cb48537ba4fdb39cd9424e",
+    "at": "2026-11-04T13:37:07.170Z"
+  },
+  {
+    "batch": 3,
+    "items": 20,
+    "planDigest": "cde6829d56bb62c1954b391f16723e6d89cd99322dd33dff98d9d9892957fd9f",
+    "afterHash": "bbe0d24f6529873fc839d2abb62634c5bc45ec84929321e6c52d3f02fc47b096",
+    "at": "2026-11-04T13:37:08.047Z"
+  },
+  {
+    "batch": 4,
+    "items": 20,
+    "planDigest": "94de470be542b08c8d67475ba527a2a34ed487fdffdea4e6772fb2a127cf0a8d",
+    "afterHash": "60ac4de5cda7712c83d963c9aeaa13298d285ffa84d1506e2112886b7f870e7e",
+    "at": "2026-11-04T13:37:09.216Z"
+  },
+  {
+    "batch": 5,
+    "items": 20,
+    "planDigest": "74e868623a8115d6e18fd8777abd2c73f1f93192d54798611e55ed2add82334d",
+    "afterHash": "0bdd5d42d01bc5ba0adc5b85d3ad3f700a1b20aa9185551b2ed3189ef290401f",
+    "at": "2026-11-04T13:37:10.094Z"
+  },
+  {
+    "batch": 6,
+    "items": 20,
+    "planDigest": "a3c2d057635de9c109110a343ba6c1e087aed5489122f7eaf7f2667a48507bf8",
+    "afterHash": "899afcaf7b88f86e48e7d451fe3a1e71677cd70f50f1503f92ba59879d58a663",
+    "at": "2026-11-04T13:37:11.348Z"
+  },
+  {
+    "batch": 7,
+    "items": 20,
+    "planDigest": "56f1d7e0b38d163385e2033929138b08d8ba23adadf22901738e6d89b5d3e32f",
+    "afterHash": "ad35d80a4aaaa47e4df39877d9445b5c12a8bbd64f5d06c7d01505b0a9a56185",
+    "at": "2026-11-04T13:37:12.190Z"
+  },
+  {
+    "batch": 8,
+    "items": 4,
+    "planDigest": "8bf52f8852d5fef3bdcb5f832b76c03a393edb43fd59421bdf454f8bd663c66d",
+    "afterHash": "81663cb3cad4347291396e62472afba83f54ea4159d7a586de0d832e6c9ee330",
+    "at": "2026-11-04T13:37:13.026Z"
+  }
+]

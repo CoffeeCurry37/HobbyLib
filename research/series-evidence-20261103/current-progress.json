@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-04T12:25:48.364Z",
+  "at": "2026-11-04T17:40:40.284Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 17,
-  "seriesAwaitingItemReview": 1831,
+  "seriesWithItemReview": 33,
+  "seriesAwaitingItemReview": 1815,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 5623,
-  "productionApplied": 4220,
+  "coveredSnapshotItems": 6130,
+  "productionApplied": 4384,
   "protectedExisting": 3,
-  "pendingEvidence": 1400,
+  "pendingEvidence": 1743,
   "freshVersionSkips": 0,
   "lastLiveCounts": {
     "main": 15790,
@@ -172,8 +172,8 @@
       "groupId": "series-bac691e8c18935ba",
       "label": "一番くじ セレブサマーエクスペリエンス＆アーキタイプインセプション",
       "snapshotItems": 63,
-      "productionApplied": 45,
-      "pendingEvidence": 18,
+      "productionApplied": 62,
+      "pendingEvidence": 1,
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
@@ -182,12 +182,172 @@
       "groupId": "series-f1bc334364dac7c1",
       "label": "一番くじ 帰ってきた！サーヴァント・サマー・フェスティバル！！",
       "snapshotItems": 53,
-      "productionApplied": 52,
-      "pendingEvidence": 1,
+      "productionApplied": 53,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-f38a55051ac273fb",
+      "label": "威化卡片 · 第にふぉるめーしょん弹",
+      "snapshotItems": 47,
+      "productionApplied": 1,
+      "pendingEvidence": 46,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-66a8b9752c9a5be4",
+      "label": "威化卡片 · 第13弹",
+      "snapshotItems": 35,
+      "productionApplied": 5,
+      "pendingEvidence": 30,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-95b64af6a4505235",
+      "label": "威化卡片 · 第14弹",
+      "snapshotItems": 35,
+      "productionApplied": 7,
+      "pendingEvidence": 28,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-863ab7ce9070e5d8",
+      "label": "威化卡片 · 第15弹",
+      "snapshotItems": 34,
+      "productionApplied": 1,
+      "pendingEvidence": 33,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-df23592ad2c27e77",
+      "label": "威化卡片 · 第復刻スペシャル 2弹",
+      "snapshotItems": 34,
+      "productionApplied": 1,
+      "pendingEvidence": 33,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-0704a1bfa8a869fb",
+      "label": "威化卡片 · 第11弹",
+      "snapshotItems": 33,
+      "productionApplied": 1,
+      "pendingEvidence": 32,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-e2955cbc34ff65d9",
+      "label": "威化卡片 · 第バビロニア 2弹",
+      "snapshotItems": 29,
+      "productionApplied": 1,
+      "pendingEvidence": 28,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-e0c79fbf4ee4066b",
+      "label": "威化卡片 · 第復刻スペシャル 1弹",
+      "snapshotItems": 28,
+      "productionApplied": 2,
+      "pendingEvidence": 26,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-d1756b4cf3bdc87d",
+      "label": "威化卡片 · 第9弹",
+      "snapshotItems": 26,
+      "productionApplied": 1,
+      "pendingEvidence": 25,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-09135fd4eca45f3f",
+      "label": "威化卡片 · 第1弹",
+      "snapshotItems": 25,
+      "productionApplied": 25,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-ca40771916a68955",
+      "label": "威化卡片 · 第6弹",
+      "snapshotItems": 25,
+      "productionApplied": 1,
+      "pendingEvidence": 24,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-ff3097f85c8758ad",
+      "label": "威化卡片 · 第7弹",
+      "snapshotItems": 25,
+      "productionApplied": 1,
+      "pendingEvidence": 24,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-e35502d5fc58278b",
+      "label": "威化卡片 · 第特別弾 2024弹",
+      "snapshotItems": 25,
+      "productionApplied": 9,
+      "pendingEvidence": 16,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-de7f32f09ec5b62d",
+      "label": "AnimeJapan 2025",
+      "snapshotItems": 47,
+      "productionApplied": 31,
+      "pendingEvidence": 16,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-53b22ac7b98bd6f5",
+      "label": "AnimeJapan 2024",
+      "snapshotItems": 31,
+      "productionApplied": 31,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-3ddc185d0961fe5a",
+      "label": "AnimeJapan 2026",
+      "snapshotItems": 28,
+      "productionApplied": 28,
+      "pendingEvidence": 0,
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
     }
   ],
-  "nextSourceFile": "four-series/resume.json"
+  "nextSourceFile": "../series-evidence-20261104/resume.json"
 }

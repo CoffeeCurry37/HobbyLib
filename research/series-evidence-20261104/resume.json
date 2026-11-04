@@ -1,0 +1,2725 @@
+{
+  "at": "2026-11-04T17:40:40.284Z",
+  "stage": "closed",
+  "baselineCommit": "9523fab6d0f5b4e73893fd3f0bb97388291f1d05",
+  "revisited": 19,
+  "recheckApplied": 18,
+  "recheckPending": 1,
+  "newCandidates": 507,
+  "newGroups": 16,
+  "newApplied": 146,
+  "productionApplied": 164,
+  "verifiedBatches": 9,
+  "groups": [
+    {
+      "groupId": "series-f38a55051ac273fb",
+      "label": "威化卡片 · 第にふぉるめーしょん弹",
+      "snapshotItems": 47,
+      "productionApplied": 1,
+      "pendingEvidence": 46,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-66a8b9752c9a5be4",
+      "label": "威化卡片 · 第13弹",
+      "snapshotItems": 35,
+      "productionApplied": 5,
+      "pendingEvidence": 30,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-95b64af6a4505235",
+      "label": "威化卡片 · 第14弹",
+      "snapshotItems": 35,
+      "productionApplied": 7,
+      "pendingEvidence": 28,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-863ab7ce9070e5d8",
+      "label": "威化卡片 · 第15弹",
+      "snapshotItems": 34,
+      "productionApplied": 1,
+      "pendingEvidence": 33,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-df23592ad2c27e77",
+      "label": "威化卡片 · 第復刻スペシャル 2弹",
+      "snapshotItems": 34,
+      "productionApplied": 1,
+      "pendingEvidence": 33,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-0704a1bfa8a869fb",
+      "label": "威化卡片 · 第11弹",
+      "snapshotItems": 33,
+      "productionApplied": 1,
+      "pendingEvidence": 32,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-e2955cbc34ff65d9",
+      "label": "威化卡片 · 第バビロニア 2弹",
+      "snapshotItems": 29,
+      "productionApplied": 1,
+      "pendingEvidence": 28,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-e0c79fbf4ee4066b",
+      "label": "威化卡片 · 第復刻スペシャル 1弹",
+      "snapshotItems": 28,
+      "productionApplied": 2,
+      "pendingEvidence": 26,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-d1756b4cf3bdc87d",
+      "label": "威化卡片 · 第9弹",
+      "snapshotItems": 26,
+      "productionApplied": 1,
+      "pendingEvidence": 25,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-09135fd4eca45f3f",
+      "label": "威化卡片 · 第1弹",
+      "snapshotItems": 25,
+      "productionApplied": 25,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-ca40771916a68955",
+      "label": "威化卡片 · 第6弹",
+      "snapshotItems": 25,
+      "productionApplied": 1,
+      "pendingEvidence": 24,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-ff3097f85c8758ad",
+      "label": "威化卡片 · 第7弹",
+      "snapshotItems": 25,
+      "productionApplied": 1,
+      "pendingEvidence": 24,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-e35502d5fc58278b",
+      "label": "威化卡片 · 第特別弾 2024弹",
+      "snapshotItems": 25,
+      "productionApplied": 9,
+      "pendingEvidence": 16,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-de7f32f09ec5b62d",
+      "label": "AnimeJapan 2025",
+      "snapshotItems": 47,
+      "productionApplied": 31,
+      "pendingEvidence": 16,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-53b22ac7b98bd6f5",
+      "label": "AnimeJapan 2024",
+      "snapshotItems": 31,
+      "productionApplied": 31,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-3ddc185d0961fe5a",
+      "label": "AnimeJapan 2026",
+      "snapshotItems": 28,
+      "productionApplied": 28,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "gapTypes": {
+    "相同库存图与官方图均有珠链，但万代奖级说明将ルギマート图案称为杯垫，零售页称为挂件。仍缺能确认产品用途的包装或单品说明。": 1,
+    "internal-placeholder-has-no-printed-identity": 341,
+    "retail-lot-or-series-context-only": 1,
+    "rarity-conflict": 1,
+    "name-number-or-edition-needs-proof": 2,
+    "sales-year-on-variant-differs-from-local-series": 16
+  },
+  "outstanding": [
+    {
+      "id": "source-b0432f26064ac31ee79467c7e94db090",
+      "groupId": "series-bac691e8c18935ba",
+      "title": "ルギマート(ラバーチャーム) ラバーコレクション 「一番くじ Fate/Grand Order ~セレブサマーエクスペリエンス&アーキタイプインセプション~」 H賞",
+      "reason": "相同库存图与官方图均有珠链，但万代奖级说明将ルギマート图案称为杯垫，零售页称为挂件。仍缺能确认产品用途的包装或单品说明。",
+      "source": "https://1kuji.com/products/fate28"
+    },
+    {
+      "id": "catalogue-08014c043ad520223ec418993312f815",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 41",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-0a375db4184523066cf0179077a139db",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-0c66a85387000abd6939eeba7b1da6a6",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-123c97a7794a164c81f0307e52ba36ca",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 37",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-1334131ce9d99d0959445b62fc9c0797",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 32",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-2ad97bd65e3192e8e6b0e98607ee0d84",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-3136bacdf8b5d17b38e21112fa8a5ec5",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 30",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-3c6c741c8c677c80746b74da93f7e856",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 28",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-3d3b481b950858ed3afa1c158eb16d62",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-4094df65fdc7ced978ceba8cf3330791",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-454e82deceb82900843bbb5c639b01ae",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-4a22fb9236e02280d5e63a8c991140a8",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 38",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-4e3881179cb4aa941bf0b326a0cf3a62",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 39",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-4f7e1b91c5e604378e3d8420659caa24",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-5083c402e9c3cca84de12275304a28f9",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 44",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-512dca5237fec5ba3e6bc6f9ba0163af",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 31",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-5720499f9fcc1ac6eb1551bf169d7ad5",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 45",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-5b170bd5688c00949005e94c7cb87448",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-63232bdb1572219e24c6992173173443",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-67cf259a5438490808d3ef85deafd200",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-6b53828613ee815d4f9e71200316f29f",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-6e21d22f3d58a46e292bd7aee77c447c",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-6fa35e9103d0f98d24831fbc328ffbe2",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-71a8ca8af7ac44360e8cca8d22173c74",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-7428631055956f81a4d495d69d9544db",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 27",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-7da09059cd243196af4daa0567d7b4e0",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-7f46c0c979ce91866f97d628edbbc205",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 36",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-7ff8608b481f326367d09d705e837730",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-947060b260b6a1260ffc69b9772ec4d5",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-981f43ed8ce57cfa708ad0f456080235",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-98ed2f12a340c5e4e9568c64605cdc77",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 40",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-99b1ce551f3a8bce1d3f06d3206fc54d",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-a6571bcd6c5a48a764887aad53fdc4f5",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 42",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-a7aea6d664af5827ce3ad2be1ed6f9ad",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 43",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-b5f6e01d4f4f5e2f84ecba6a90eccfe7",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-b7e62a2e85ba8be6e83838d483d77a41",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-c35664b280315ca79d2fda98527d9d63",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 35",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-c6274bbcbc77515881433543417dbbf8",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-cda1db39377f418076c62d42082d78e6",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-d5128c9e44f7a37a0101f1baf15b1e03",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 33",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-d54165b12edbecba47f239dc72067789",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-d721004cc8b9b44c998eb24c7428f0e9",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-da77905979eebc4ad506879f578e09de",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 29",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-dd64d0baeb2daa229fb9e0e4f74f4439",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 34",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-f424322f1061794b9769efaba4afd3b6",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "にふぉるめーしょん Fate/Grand Order シールウエハース 待补款式 26",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "source-e389556932206316f412270ace439b31",
+      "groupId": "series-f38a55051ac273fb",
+      "title": "Fate/Grand Order FGO フェイトグランドオーダー にふぉるめーしょん シールウエハース 11枚 まとめ ロッテ コラボ 未開封",
+      "reason": "retail-lot-or-series-context-only",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117922701000.html"
+    },
+    {
+      "id": "catalogue-09d36c3ce055102472f2c39ef4b368c8",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-14677b1be58385a571b56e2ebf08224e",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-14de4561dba9f60b4302b62c470498be",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-19bc1959e151a329333eb6ca94d1c5f8",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-213065c243273f9356ff0a5a90ee0263",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-2e39a72dd679475f7115ab4fcc682c3a",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-369309b1de0b5573b6e679ee275693d1",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-41902da36f579f0c32d7584a3c873383",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-441e85f8364727dceaec3b9f54757525",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-4c01ac4cc970005ca5e60cd5661dc60e",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 28",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-4c535083004a5c70d5d64f0f91c697d2",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-4eddc94e2af78f3c4c538fac3e7ae45e",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-53d63923309bea4a74dbe1c2cef9bd94",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-59bc7a1c6192f343919750e9fdc09384",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-5a4246bcdda6f10df1ee8a7473a1605f",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-5ae27931bce81f5daf340d24fa1652e6",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 26",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-5bb7cea5e1234f755bead36c7dad7b65",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-7865352f249200895cef0abcab456de1",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース 13弾/2729010 スカンジナビア・ペペロンチーノ【CR】 24",
+      "reason": "rarity-conflict",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-8299a9ba06430340fe4cd8a9b27ffb6a",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 32",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-8ce54eec31385bc158897da5fa2ee1b7",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-bc37e87193f9c47135a758401aac3e38",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 34",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-c78e1c75feec4bf3336b40649903e545",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-c941a86c9f3b3c309dfecb90f7fb7bf8",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-d1a97932393311ff2051b0ff7e94d348",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-ddcd0c1583304681b6704cbbe564b02d",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 31",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-def391f217df372816d4fef123a8b2f9",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-e01396b150c87a32fa8fd0c23e2cd4b1",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 27",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-f6b35937dede6498dbb627062b2cb4e9",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-f7939fd5e77db9763f1aa9f28eadb657",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-fd6d7a6ffa6eb7a75834983d5b116132",
+      "groupId": "series-66a8b9752c9a5be4",
+      "title": "Fate/Grand Order ウエハース13 待补款式 33",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117915819000.html"
+    },
+    {
+      "id": "catalogue-068e58778bf4c43eb79ff8e0fe75a36d",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-17d8531c680297ed181bc4b33a89880c",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-26bc9a05109444eb89aecd58d2d599c5",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-26cb4b9233cf38c1c019bd87d7422d05",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-3205ada25563f6993cb3366a857a6356",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-3fa71b1ced4bad7e1c1bdbc9aae99b30",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-489351eb0bcb22fcda2f45aaa3d466dd",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-551957aa6fbdb40484d45d3feb476226",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-57e9120a1bb626d99bc7d6e38b95bba2",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-63082667c8b3c0f178f196a9a9606a54",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-73bf0c229b390241121f8fd66c880848",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-78246cb4c12f1c37eb27381ada50a17c",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 26",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-7f30c1fc8a8f574b60df4d629a323d31",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-83442dd17433fc750a78079cab7e5b75",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-8a753352fd5c92ed5fd863a73c7fedd2",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-a58b1324b1d9a01cbc5d46078aa2d64b",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 31",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-aa3f9dd39da3cb0e4f77c46236de4c78",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-ac8a569e0c404725abd36f3b05d5ddc4",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-b0fd4f1380c58d1068887e2a4982c729",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-b259d24573db077e2caadc99c192db87",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-b5f7c78f62d5d1e7e288e153a5bef4dc",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-c499c0d3951889a86aaa7fa1c7f2e09f",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-d2705b3354dd4c6d09db46dd40241ddc",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 29",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-d55aa49137d19643ba17ab58f3a70f8a",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 32",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-e067e830aacb4c274b6c0339d27e6b16",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 28",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-e3223c09a9d687fcd25a766554ce0452",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 33",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-e537c981a45b994e51ef04d9628c04f2",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 34",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-fa6bd426a74e80f33418418ba74ee450",
+      "groupId": "series-95b64af6a4505235",
+      "title": "Fate/Grand Order ウエハース14 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2025/4570117926587000.html"
+    },
+    {
+      "id": "catalogue-03c31115b32af3f6e67e3d3880641ff3",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-12699d6706a6e13bdc3623cd269e6430",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-1c43b8da3ce93b8581455bdcd40a6232",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-24981304f0429c913cef75968b935b35",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-27876a6f42c4e6cd2bb79568d1dbb560",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-2ae705bb962085925942e40c08cf77aa",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-3ecc07b347665709e74cd68eb684702f",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-48590dacc84625c48d64a59b5de0420e",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-4a41891fbf12c5e8cf08c622020e2950",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 32",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-4ff088f24aa41b259322f4d1338d3539",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-599545b9418f3a8583c00cb8702ead22",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 30",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-6698fa639fd245fe2cc2b27685831cf2",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-692490e90746fcacc634b24463cbb3d5",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 33",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-722e89ab703c33ae46bbe00d826c245e",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-744a237637c6aa0d4c27b008d2d2b55f",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-7841e09211e923a3b18e603aef3538f6",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-8d80e213005651d1317bb3ff2ea834bd",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-acc1ddecabd5fd946a8a225ed7292bc9",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-b50be82d8b1d95e53e5e317baef5ff9f",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-d1f2276ed9bdb1119c1abe2d15408fca",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-d706c4492f7937e8a8934aca85959e49",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-da51abac42d8bbdbf6c0b222e6e2185c",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 29",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-db297fada121a48fcdbd39e65e0e868f",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-dbb53ea54cfc95701c642c0047165b07",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 31",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-ddddceddcd0329735a7d5018546efba5",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-e1acba8cc659e91d80244083dd29ff6a",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-ee70ac6ffcdeca321378ffe30c8485b1",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 28",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-f3cbec38825fee2a54a7b3f36fa82cc1",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-f4b67362982e057b6e0367ab1ea3986f",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-f82b57446eed8221b05c5a33d49994bd",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 27",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-f9471ef43a6b887a42e1bdb225089c35",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 26",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-fae7a7810f31f857615851a33e1c57e8",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-ff81bfc4adcd63e466c0a0f417715711",
+      "groupId": "series-863ab7ce9070e5d8",
+      "title": "Fate/Grand Order ウエハース15 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2026/4570117932908000.html"
+    },
+    {
+      "id": "catalogue-15159c8d989eddc927df6e47b6cf229a",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 32",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-1ac9be143d6eeab287de44192ebf2a9b",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-32ec3a251f88cfa155985fc7c18cb237",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-36695cd6e01b379249c15cd22c5d8aa9",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-37bd7ed977942f7025048ee05b9238d8",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 29",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-43f41a564cc3a8d61122a79389b73eac",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-477844062bb0a2eddad856ac5e6e8db4",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 26",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-4f2b9c187a8cc2ef518db6fc00d51dab",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-4f33eb0c45d8b70be226bfe4c620bd58",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-4f435690d1610ac319c507d915b3ece6",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-54b9e7320b41daa7f9d52a0dfb1ae5a6",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-59910d6489ca6cb2a414a6ae5babe51a",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-600ad1ab3c475c347648919a50900a3f",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 30",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-6bb22b066edc8e6055d88c570502d2ca",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-71f7edcc093af4b270a6397a72f55262",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-7a75186046d9d34586e658ebd1d18db7",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-7c89fd23475a06c204128fd248f546d4",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-a67a388981bf4e1074e794ac7fe5a1b2",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-a68e1b1c1ab51d26b7a136bc99e01567",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-b821e8ea3e50995d43bcf08898118552",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-bed026eed24cff7d9fb60d903089023d",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-c26f2922cff9eff74d48345af51073fd",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-c69032ca90b8fe3dd8cb308144d7a9c9",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-c8a92f28c68510e8cec4263d4d2956b1",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-cdc023ca7b9ac5d44116d0d07d893aab",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-ce2b5e742d8468fd5d730da43091907e",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-d2a8d2e8fc39668f67fec99dba154596",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-d62cc7fca9c0da3d19462a1d8bc6b9db",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 33",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-d8f9ad7397f2d68c08de65a42a4940bb",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-e423147ceda53169335c8b407335a9ae",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-f18a7453330df0a2b0c50f66c1779aeb",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 31",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-f3aa0d486338a75963725f8a8cfeaabc",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 27",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-f5f4d5d3ec833d4bae8aa8b53675ddd1",
+      "groupId": "series-df23592ad2c27e77",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル2 待补款式 28",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660423850000.html"
+    },
+    {
+      "id": "catalogue-0780191f8ebcf1bb9c3d80a4915f68e0",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 33",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-0d7a089dce512c086887a8e3bb7ce01a",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-1ec9711c1b70f10952bf4109f44b465d",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-2400162a1132ad33db7be0900fde505c",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 26",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-282e418a8059dcb88ca9e5aab3369aca",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-3ec42d815ced8354bac2ec83ca46e392",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 27",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-40a3341281a1e6265cad75b84ff88847",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-483193bd0aaffa49dd7b432a639cf9c8",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 28",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-63acc52acc097daa6c6e9d8e512da249",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-65490d7974d1cde28a6d05533346adf8",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-71fc3e07d5988b7b51aa25dbf1160db3",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-734f8cbaf899fa7ecc2fc20f1f5e5c8f",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-7684db359bb928ac202d859c1aa6d996",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-79fe88bb36b5063607c87ff0cc6127dc",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-7bc886103de777576ef608e559f30c75",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-992f5e76d9c0e7186b53f6cad7ccdfcc",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-a47c68b779503fde90de8ce6e6f198a5",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-aac6ec969a7deef96e2e26ebfa6a5943",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-ac340d99fdc4a1bbe44314d87ec46618",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 32",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-b2a06f05b07aacb1a9efd2bfd059caa3",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-b4f9d4e22d672718edfe54c94d339a5d",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-b6096ddc8e67acf8a03ec938c66a92ed",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 31",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-cb0b9c7f191dd431659754019689fcef",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 29",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-cbe9aa02288eeb3d05ea44f1efc0a205",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-d54fb0e4f51df46a4352d35944ced529",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 34",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-dc11cea99808333783f0ac3c287344ce",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-df07a16ae4a82c2c54c369e1f564847b",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 30",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-e12847a4f61c7057c0e830cf3b7fcebb",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-e5bbe9eafc5fe56aff879bc1c82e97c3",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-e96c5c829b5a1d1241e9c08b1c7fc877",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-f030f06f18239bb9999d1d7520984563",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-f0d9f8af56a0d0057d78f2cde28eff45",
+      "groupId": "series-0704a1bfa8a869fb",
+      "title": "Fate/Grand Orderウエハース11 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2022/4549660738732000.html"
+    },
+    {
+      "id": "catalogue-03f33906b79725ef6ec9458a97df01b0",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-07ca7cbd5127b80b9e4f5e3a1e95a378",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-08abcbd907c1928833a828e85378a73b",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-159b86244a727185f965d58e815b61a9",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-2141e537d6a3e1bcf55c4df41344f329",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-21778391233ded4f85f7750abd562157",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-45089f6f11edb97f54a3a0c494dd4212",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-4a3ea05d738b50d8802c59b90af70203",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-4dd72cceb7aa9524900417784adb0b4c",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 28",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-4ef65deed3200a7681eadf6df570cea4",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-54417e46946ce28b922304f9a79553d3",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-5f1712b396d7dba3be03d418e7f5f9e2",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-68fab68be8ec87e6381c7ed530bc15ea",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-857fd917212b3e8dc4aa8fa756d22a41",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-8e564584ca49992d88b052b1f05723ce",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-99cf9ba2f84480b7fe3393169c9b856b",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-a43293f8b9816425ee0af06bbb693e6e",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-a4739a7170d3f1596e4a3c8002dc31c8",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-afa917ad9305a608929515388716b0a2",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-b5ff2d3e8abfa81aebf0c703b73b0814",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-d3fc804a316505a16e91008c828d49c0",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-d8152ed47cdeb489ee9090b15c85904f",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-da783872c4b7e89a02a1b710ec8ae8ec",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 27",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-dc5cabd24a18127e67df45a7443c9d84",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-ea927282b0413cc96c0cf74d76e98be7",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 26",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-eaf9dd2547435720247b5bac40c94fb9",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-f72c8de20c4f5e50507c203e81348579",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-f7d8942596bf7a3a0c62d6f1a6642727",
+      "groupId": "series-e2955cbc34ff65d9",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- ウエハース2 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660464242000.html"
+    },
+    {
+      "id": "catalogue-02b15471bcf9980f3c630b99a39832d2",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 28",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-0960512287ceb806491bccc213b4650c",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-10d355b7390fa8f2dd35d754479cf52a",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 26",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-216d5ec4f809db0f1d6154aa696ffe0e",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-2a15dd5c2ebe882618a9617a78a830af",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-33eea8e68862b23e24cfb8646182ef2e",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-345c0028ca26238cd7f38b1fd8ccda04",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-39b998480b05a9e53d5a15482842342d",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 32",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-3b88c2ffa15d9d5d6c0fcca5f8e4212e",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-46b3e6e5a0639144eff2a6206df6294b",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-4e5e856322a2964d4a558d729b34c6da",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 29",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-50622c6f51abc9cde116e8ffe0af35b0",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-57078dac76f4753e02b0e9ae28ce76b3",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-5d856f79ec92a4d01818958051707d25",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 31",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-67aabbcea76ac1c687f48c5bcd71e9db",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-81264303df19676bba38998d11df5368",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-8ef95840e8f0be1a0b6d67a568e1d063",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-95822f48bde0f6044882194b3233995f",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-a5f4806c34b6e30a0f3a0795a6cb2a3b",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-bad8a20ac77ffaa54fa739fd8b06d3d7",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 27",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-cee53cb215434e920d18c26b2c5bd1d8",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-e2b57498a1078723accd0f36f6fda147",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-e5edbe2a31e571b2c5c7d7f9a88e3948",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-ef722ffcf4df214297e3694c6ffc17f1",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 30",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-fb26111625ac0cd1d4d5b1db5101df01",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-fe9db00bac2fb15b4eeb7bb6e293b284",
+      "groupId": "series-e0c79fbf4ee4066b",
+      "title": "Fate/Grand Orderウエハース 復刻スペシャル 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2018/4549660290537000.html"
+    },
+    {
+      "id": "catalogue-03fa901f977e6c3237d9e0da5d96a897",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-12926f0e9adcfcdde0c2ddeee48a1f92",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-2c27da8fbb9bf710cfdeffb47a10d465",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-3607f701385e8ef0f8fb652439b91b53",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-44ca758f68af181bb068e2b379098b74",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-4a6f84f25fa14342ad3a278955488883",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-6071a3f0585be06650b6d095d07094c5",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-7e4221492b275e754982e99e16ad1f78",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-80a389d4c684ddbff4015f09add752ac",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-8b385c4499a979a5e145b5bf0260dec7",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-8ff7a6c654e1e7a1e330b84efc15f972",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-91001b283ef4136bbc6f590d26492bf3",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-998329302b0cf6ce25ff9205113edaa0",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-a4e1e9c5d40d98bc1dd1e56370a9b407",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-b708314e2748086b311ee0045da8c366",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-bb4288220a65ee9f3ba322b8254693fa",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-cc53d125a6eae5d7d118667a0c934e75",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-ced001db51aef50731e91a53d50e263d",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-cfadd29ac5400a0843c6eee8e90762db",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-da0475caaa11884f455b5a8d3a6f8f3d",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-e566b33026d8b6a7e9024550bc9a50d6",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-e798de9d2882014470f25776c7d89a3a",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-f522442ed23e096a75d4dc3163dbcd2d",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-f8c4341335f4c858709bd58d2ec8d6f5",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-ffafb8b9918e6fad33d8934d70307039",
+      "groupId": "series-d1756b4cf3bdc87d",
+      "title": "Fate/Grand Orderウエハース9 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2020/4549660542506000.html"
+    },
+    {
+      "id": "catalogue-160548256e08337df4924e10b5dedf0b",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-20457bd0b08a221ed8b8639b60dd0888",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-2275139adf3700653dac190d39da68b6",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-2ca9b9228fbefd1ccb07042913721c3f",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-3468c4c5196f5f3d8b77736d1ebc3450",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-38c7dfbdb178e319b97951170040a500",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-40d19097429c889710aeab3ceb55b69a",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-45d81b2f56d9694d339d896824723852",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-50b8d0ea8fca131c283b4933e8f7673c",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-683d97f395c9d78298956507f3ec27d4",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-7afd61d2a0b36f87bd1b001ba586c05e",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-7b1f88a21c0add5b24e28e67ab57ccaf",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-8f9b364d65404bc5d3e56399a284e306",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-9ad35b32ed9029d08159a81336bf9bab",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-9b3f19e6d9c18393319926c1335e0a6a",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-9ddba672d9b84cbe2bb6e8bd8c37f114",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-bbe4fe3f0370ccc725917e64502a483d",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-d8a744ef81de86dec0a3a4fc3ac4bae2",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 05",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-d97d9a487bc240ab9daa03ae4735b8f7",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-dfdbda9cdd23b73fb30d68a58d58c744",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-e03b100ef2b6f07b89541ce520af7ccc",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-e79da50141886f13a63d41f254bf06bf",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-f08de5f65f81241f05b696275e1fd97f",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-fb45ec09a2fb2ced1fa5d904be223b53",
+      "groupId": "series-ca40771916a68955",
+      "title": "Fate/Grand Orderウエハース6 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660338970000.html"
+    },
+    {
+      "id": "catalogue-01590b6144db8f5654c4b0e457c2b725",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 16",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-0261d14dbed34526ea124484c90c2040",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-0a98dca80c13222d6631c2f2675f1f1d",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 24",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-184018eb27c4b45c4c0e9af69a75c2eb",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-239c89f0d38beb2fd06ac6f72c9b46f4",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-23eebbd2c32f33c3421662b6c6a4b16d",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-2fc4ce7e3417cb42e61dca09ef64d2a6",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 23",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-4d8556f225377fed6cde4c405951161f",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-7674b83b3981dea70ab8b1790c1f5246",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-7b714a9b5e25c958e0c18ae55f91bdf8",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 12",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-89889dde85b760188630ed23a44f823b",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-89d1be9720ed74827f9046e171e7e660",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-954e931cc81617a65726b1492aee54b3",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 09",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-9989abf68388ce32588aa179e53f7cf9",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 20",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-a0850c32975ba265040010ed4351129b",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-baf85f9f32138ac8d6712056601836e9",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-e0cd9ffe651e33f2fee61bc1ee38f91c",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 03",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-ef0257df6bf5429d42d1fead0824670b",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-f40b0fea753f90782fb601b05db973a5",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 18",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-f5eda8bb8bb6639f387e605f73ea8157",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-f6f7d2dc4e494cd72871552e45d91831",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 08",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-f86366e89e801b1350c64d371bd1d49e",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-f914c19dcb570dc4cf3f9507f0e48965",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-f9ba1ad741ec3f302d3d0504243ad80d",
+      "groupId": "series-ff3097f85c8758ad",
+      "title": "Fate/Grand Orderウエハース7 待补款式 25",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2019/4549660340034000.html"
+    },
+    {
+      "id": "catalogue-20d96652712164fb78d994448b2fbfa5",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 19",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-2a22fc06d8b5dfabc5f9f9a4411c9f73",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 07",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-2c8d59a50ba1fb0c7e25714bf723ebe1",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 22",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-389356a62e2d46da7baf819e829f3711",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 01",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-3e7f5048f8e855f8b1e30e75ab8d2639",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 17",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-5798f5e395b68fe41973fc6c597bf684",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 13",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-6d8d5214045fddfeaf075ce57658cdeb",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 10",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-74f9fc40f352c61ad2d863853785d128",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 06",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-75915ff5742101010581e58fe9ad8213",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 04",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-a126b0df61ae71203b2a805c63b481f8",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 14",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-bd70a6b82460d32d7a3c44a9a6e6d9c4",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 02",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-be3f6f8db644dc43b8f5077a5d60e128",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 15",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-d40c4036cbcb0a5c0f6127b2377f4930",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 11",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "catalogue-e13a54f3271a9c7d6969ad7f23d7a3d1",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ツインウエハース特別弾 待补款式 21",
+      "reason": "internal-placeholder-has-no-printed-identity",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "source-1a36884a720f5f99954dd01d201c1473",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ウエハース 特別弾/2692939 スカサハ=スカディ 9",
+      "reason": "name-number-or-edition-needs-proof",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "source-be0f7ad44105114016519a4409c2777f",
+      "groupId": "series-e35502d5fc58278b",
+      "title": "Fate/Grand Order ウエハース 特別弾/2692939 斉藤一 18",
+      "reason": "name-number-or-edition-needs-proof",
+      "source": "https://www.bandai.co.jp/candy/products/2024/4570117911026000.html"
+    },
+    {
+      "id": "source-1617e9375ec8f4281ab237b54302844d",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Arts(M)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri08.html"
+    },
+    {
+      "id": "source-21a1cd1d1c6b87dcb83717d5af110dc5",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Buster(L)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri10.html"
+    },
+    {
+      "id": "source-3482947dea2729c08da67e7bc49ba412",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Extra Attack(M)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri11.html"
+    },
+    {
+      "id": "source-399902cb8bf26f48b4a58873203b3a6b",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Arts(XL)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri08.html"
+    },
+    {
+      "id": "source-3fbe2054bffb43259bcb13348b4952c5",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Quick(XL)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri09.html"
+    },
+    {
+      "id": "source-57d1b0f470df8a98b4346d5786f24f2a",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Quick(M)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri09.html"
+    },
+    {
+      "id": "source-5b65653506d13a12312fc0291b35945e",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Arts(L)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri08.html"
+    },
+    {
+      "id": "source-68650e2c94e991094aa6f10045902b04",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Buster(M)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri10.html"
+    },
+    {
+      "id": "source-83cceedef7fe1c1b877dfd5d5fb218a2",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Arts(XXL)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri08.html"
+    },
+    {
+      "id": "source-87e03ba7cd58d7aca411908b2e9d291c",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Extra Attack(XXL)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri11.html"
+    },
+    {
+      "id": "source-9c92ee2851a54d91beeb5b4c4b925a7c",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Extra Attack(XL)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri11.html"
+    },
+    {
+      "id": "source-a7ed4c380547a082e5d230a5dbcda6c7",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Quick(L)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri09.html"
+    },
+    {
+      "id": "source-b2ba472d61be05cfe1b852b3d48c6059",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Quick(XXL)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri09.html"
+    },
+    {
+      "id": "source-b68652eb76f14f6be9a767063701acc7",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Extra Attack(L)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri11.html"
+    },
+    {
+      "id": "source-d210b4a2e48759a5a682e72edebe65ef",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Buster(XXL)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri10.html"
+    },
+    {
+      "id": "source-f677b50d0dfdbc4498410f18e6a54cfd",
+      "groupId": "series-de7f32f09ec5b62d",
+      "title": "【AJ2026】【再販】コマンドカードTシャツ Buster(XL)/ Fate/Grand Order",
+      "reason": "sales-year-on-variant-differs-from-local-series",
+      "source": "https://online.aniplex.co.jp/itemSvfwOEri10.html"
+    }
+  ],
+  "nextChecks": [
+    "ルギマート用途需带品名和用途的包装或厂商单品说明。",
+    "核对 AJ2025 与 AJ2026 的原销售批次和再贩，尤其 XXL 新尺码；逐件读取最新目标后才考虑归属。",
+    "有编号、姓名或稀有度冲突的卡优先看卡背。无身份锚点的内部占位只与系列目录并存。",
+    "选下一系列时先核实厂商或主办方目录，再按未处理商品数排序。"
+  ]
+}
