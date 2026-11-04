@@ -1,0 +1,1760 @@
+{
+  "series": "Fate/Grand Order 简体字版10周年",
+  "reviewed": 72,
+  "sourcePages": [
+    {
+      "sku": "itemNYYwmMZm01",
+      "title": "アロハシャツ（全2種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "アロハシャツ　男主人公（M）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "アロハシャツ　男主人公（L）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "003",
+          "label": "アロハシャツ　男主人公（XL）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "004",
+          "label": "アロハシャツ　女主人公（M）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "005",
+          "label": "アロハシャツ　女主人公（L）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "006",
+          "label": "アロハシャツ　女主人公（XL）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "面料为纯棉。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm01.html",
+        "at": "2026-11-04T02:09:51.779Z",
+        "sha256": "dc845e39999dd8f00f0df28867cb025757538726c3d4235ebe4f35e2092a9928"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm02",
+      "title": "ぬいぐるみバック（全2種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "ぬいぐるみバック（オベロン）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "ぬいぐるみバック（エレシュキガル）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "包身高约 40 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm02.html",
+        "at": "2026-11-04T02:09:52.514Z",
+        "sha256": "f61c5c5b2cc7f922635892edb2b75ea2cf738ef96922658436d6226a2d23aeb5"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm03",
+      "title": "テスカトリポカ　水鉄砲",
+      "variants": [
+        {
+          "id": "001",
+          "label": "テスカトリポカ　水鉄砲 / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "水枪约 440 × 212 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm03.html",
+        "at": "2026-11-04T02:09:53.123Z",
+        "sha256": "0f70800307a2a2f9310c803e01138a68ff37ef199ef2f6ee8ea3adf3b104a68f"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm04",
+      "title": "謎のヒロインX　帽子",
+      "variants": [
+        {
+          "id": "001",
+          "label": "謎のヒロインX　帽子 / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "帽围可调，标示尺寸为 58 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm04.html",
+        "at": "2026-11-04T02:09:53.731Z",
+        "sha256": "0ea9f2ff37ff446b76aff9471df30d64a8de7fba3778c6a9c88b6b6ab2c9abcf"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm05",
+      "title": "エクスカリバー　ぬいぐるみ",
+      "variants": [
+        {
+          "id": "001",
+          "label": "エクスカリバー　ぬいぐるみ / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "玩偶高约 70 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm05.html",
+        "at": "2026-11-04T02:09:54.338Z",
+        "sha256": "f34ca35b7835b627b7ee78708cd416d2974aa9877fc65460c68c9f0681a989e4"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm06",
+      "title": "ステージアイコンステッカー（全2種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "ステージアイコンステッカー A / Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "ステージアイコンステッカー B / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "贴纸规格约 12 × 17 厘米，材质为 PET。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm06.html",
+        "at": "2026-11-04T02:09:54.934Z",
+        "sha256": "dac9c5ab23355e3ade52e7f004d1ea2a6bec86e75c2eca898173ca9f2d7291d5"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm07",
+      "title": "キャラクターイメージ風メガネケース（全2種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "キャラクターイメージ風メガネケース（雨の魔女トネリコ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "キャラクターイメージ風メガネケース（坂田金時）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "眼镜盒约 160 × 65 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm07.html",
+        "at": "2026-11-04T02:09:55.560Z",
+        "sha256": "5921c037fb42fd17dc30c3085603bde1709911dcffc56bcdc43710d2212613d8"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm08",
+      "title": "英霊召喚陣　傘",
+      "variants": [
+        {
+          "id": "001",
+          "label": "英霊召喚陣　傘 / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "撑开后伞下直径约 105 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm08.html",
+        "at": "2026-11-04T02:09:56.160Z",
+        "sha256": "ae67c3b7e297c4086a61bc6eb7ddefc9f51d98186bd898ebac04fadf2e9b88b4"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm09",
+      "title": "武器モチーフの印象派風ブローチ（全6種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "武器モチーフの印象派風ブローチ（モルガン）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "武器モチーフの印象派風ブローチ（イシュタル）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "003",
+          "label": "武器モチーフの印象派風ブローチ（カーマ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "004",
+          "label": "武器モチーフの印象派風ブローチ（ジャンヌ・ダルク〔オルタ〕）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "005",
+          "label": "武器モチーフの印象派風ブローチ（カルナ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "006",
+          "label": "武器モチーフの印象派風ブローチ（ジェームズ・モリアーティ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "胸针主体为锌合金。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm09.html",
+        "at": "2026-11-04T02:09:56.729Z",
+        "sha256": "0119078bb0ef362656e0185f270339c5672c49abdf840234e18a6c8a889a9aa8"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm10",
+      "title": "簡体字10周年イラスト　アクリルスタンド（全9種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　アクリルスタンド（男主人公）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年イラスト　アクリルスタンド（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "003",
+          "label": "簡体字10周年イラスト　アクリルスタンド（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "004",
+          "label": "簡体字10周年イラスト　アクリルスタンド（アルトリア・ペンドラゴン）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "005",
+          "label": "簡体字10周年イラスト　アクリルスタンド（諸葛孔明〔エルメロイⅡ世〕）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "006",
+          "label": "簡体字10周年イラスト　アクリルスタンド（レオナルド・ダ・ヴィンチ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "007",
+          "label": "簡体字10周年イラスト　アクリルスタンド（テスカトリポカ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "008",
+          "label": "簡体字10周年イラスト　アクリルスタンド（オベロン）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "009",
+          "label": "簡体字10周年イラスト　アクリルスタンド（リリス）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm11",
+      "title": "簡体字10周年イラスト　アクリルチャーム（全9種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　アクリルチャーム（男主人公）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年イラスト　アクリルチャーム（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "003",
+          "label": "簡体字10周年イラスト　アクリルチャーム（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "004",
+          "label": "簡体字10周年イラスト　アクリルチャーム（アルトリア・ペンドラゴン）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "005",
+          "label": "簡体字10周年イラスト　アクリルチャーム（諸葛孔明〔エルメロイⅡ世〕）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "006",
+          "label": "簡体字10周年イラスト　アクリルチャーム（レオナルド・ダ・ヴィンチ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "007",
+          "label": "簡体字10周年イラスト　アクリルチャーム（テスカトリポカ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "008",
+          "label": "簡体字10周年イラスト　アクリルチャーム（オベロン）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "009",
+          "label": "簡体字10周年イラスト　アクリルチャーム（リリス）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm12",
+      "title": "簡体字10周年イラスト　ぬいぐるみチャーム（全9種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（男主人公）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "003",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "004",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（アルトリア・ペンドラゴン）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "005",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（諸葛孔明〔エルメロイⅡ世〕）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "006",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（レオナルド・ダ・ヴィンチ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "007",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（テスカトリポカ）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "008",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（オベロン）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "009",
+          "label": "簡体字10周年イラスト　ぬいぐるみチャーム（リリス）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm13",
+      "title": "簡体字10周年イラスト　タペストリー",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　タペストリー / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "挂画约 707 × 543 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm13.html",
+        "at": "2026-11-04T02:09:59.258Z",
+        "sha256": "1fd05ae6f85449f558a7ee51c2c669c036bd6e277da7f0c7761dba127be4153d"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm14",
+      "title": "簡体字10周年イラスト　クリアファイル",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　クリアファイル / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "文件夹约 220 × 310 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm14.html",
+        "at": "2026-11-04T02:09:59.837Z",
+        "sha256": "ddee99d400b265f978c9898dee09d84d8d553802ba147e700efe3e30b5db1199"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm15",
+      "title": "簡体字10周年イラスト　マウスパッド",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　マウスパッド / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "鼠标垫约 60 × 32 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm15.html",
+        "at": "2026-11-04T02:10:00.402Z",
+        "sha256": "deb71a13b51b589cb12d38777fcc1c2a7d1dd994a3f03dde4c5380de56280c44"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm16",
+      "title": "簡体字10周年イラスト　トレーディングオーロラ色紙（全9種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　トレーディングオーロラ色紙（全9種）＜単品・ランダム封入＞/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年イラスト　トレーディングオーロラ色紙（全9種）＜コンプリートBOX＞/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "内装色纸每张宽 140、高 200 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm16.html",
+        "at": "2026-11-04T02:10:01.150Z",
+        "sha256": "bb377e2b4d572883c81d0f3180b4874fe163679a58a342b29b70d7d572c681bd"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm17",
+      "title": "簡体字10周年イラスト　トレーディングオーロラ缶バッジ（全9種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　トレーディングオーロラ缶バッジ（全9種）＜単品・ランダム封入＞/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年イラスト　トレーディングオーロラ缶バッジ（全9種）＜コンプリートBOX＞/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "内装徽章的规格为 75 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm17.html",
+        "at": "2026-11-04T02:10:01.790Z",
+        "sha256": "2159ba81c828ad5c17e663c84687c82d1356771d596cf0d54a9001aff5b8fa78"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm18",
+      "title": "簡体字10周年イラスト　トレーディングクリアカード（全9種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年イラスト　トレーディングクリアカード（全9種）＜単品・ランダム封入＞/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年イラスト　トレーディングクリアカード（全9種）＜コンプリートBOX＞/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "内装透明卡每张约 60 × 95 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm18.html",
+        "at": "2026-11-04T02:10:02.416Z",
+        "sha256": "84f4adf9d4a2ed06c7aa88966b4dc9c5c34f7be7f3cbf9ecc19c4bd05f3b2092"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm19",
+      "title": "簡体字10周年リヨマンガイラスト　クッション（全3種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年リヨマンガイラスト　クッション（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年リヨマンガイラスト　クッション（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "003",
+          "label": "簡体字10周年リヨマンガイラスト　クッション（オルガマリー・アニムスフィア）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "靠垫约 35 × 40 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm19.html",
+        "at": "2026-11-04T02:10:03.072Z",
+        "sha256": "cd500fc4d6eaa14530e0a4115769907a769bc60edba7ae07ecce09c4bbf22dd9"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm20",
+      "title": "簡体字10周年リヨマンガイラスト　トレーディング缶バッジ（全8種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年リヨマンガイラスト　トレーディング缶バッジ（全8種）＜単品・ランダム封入＞/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年リヨマンガイラスト　トレーディング缶バッジ（全8種）＜コンプリートBOX＞/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "内装徽章的规格为 56 毫米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm20.html",
+        "at": "2026-11-04T02:10:03.709Z",
+        "sha256": "df4a11dc758b58fcda923f5f3358868fcde23c9ac7d9a6b15a780f03998900b1"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm21",
+      "title": "簡体字10周年リヨマンガイラスト　Tシャツ A",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年リヨマンガイラスト　Tシャツ A（M）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年リヨマンガイラスト　Tシャツ A（L）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "003",
+          "label": "簡体字10周年リヨマンガイラスト　Tシャツ A（XL）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "面料为纯棉。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm21.html",
+        "at": "2026-11-04T02:10:04.284Z",
+        "sha256": "c8a3d1b4a4a39b520e85dda7c89116c15d582ba5750890b3e4d82587f79db42d"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm22",
+      "title": "簡体字10周年リヨマンガイラスト　Tシャツ B",
+      "variants": [
+        {
+          "id": "001",
+          "label": "簡体字10周年リヨマンガイラスト　Tシャツ B（M）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "簡体字10周年リヨマンガイラスト　Tシャツ B（L）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "003",
+          "label": "簡体字10周年リヨマンガイラスト　Tシャツ B（XL）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "面料为纯棉。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm22.html",
+        "at": "2026-11-04T02:10:04.862Z",
+        "sha256": "342c0a588d82026349aace00d4bbe75d4ca7e7872433df113bc9bc7245a7c940"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm23",
+      "title": "リヨ簡体字10周年マンガ　オルガマリー・アニムスフィア ぬいぐるみチャーム",
+      "variants": [
+        {
+          "id": "001",
+          "label": "リヨ簡体字10周年キャラ　オルガマリー・アニムスフィア ぬいぐるみチャーム / Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "毛绒挂件全高约 13 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm23.html",
+        "at": "2026-11-04T02:10:05.457Z",
+        "sha256": "4392a057e0d83e41eee9b961f7b5b32e570522017cd621c8449d1b28a67ce8ad"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    },
+    {
+      "sku": "itemNYYwmMZm24",
+      "title": "リヨ簡体字10周年マンガ　マグネットぬいぐるみチャーム（全2種）",
+      "variants": [
+        {
+          "id": "001",
+          "label": "リヨ簡体字10周年キャラ　マグネットぬいぐるみチャーム（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ"
+        },
+        {
+          "id": "002",
+          "label": "リヨ簡体字10周年キャラ　マグネットぬいぐるみチャーム（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ"
+        }
+      ],
+      "fact": "磁吸毛绒挂件全高约 13 厘米。官方标注发行方为 Aniplex（上海）。",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm24.html",
+        "at": "2026-11-04T02:10:06.036Z",
+        "sha256": "be7fbb2959778007b58b6da5f5c9554eba3c3bfaf0e33f9d1f4b87fc49098698"
+      },
+      "catalogue": "https://online.aniplex.co.jp/YpgKjCUM?start=0&sz=120"
+    }
+  ],
+  "rows": [
+    {
+      "itemId": "source-08340c9ce0476f5b4db6a67495cad1df",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト Tシャツ B(L)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　Tシャツ B（L）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm22",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm22.html",
+        "at": "2026-11-04T02:10:04.862Z",
+        "sha256": "342c0a588d82026349aace00d4bbe75d4ca7e7872433df113bc9bc7245a7c940"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　Tシャツ B（L）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-0b0393d931e5c09478ba0226fa84914d",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 ステージアイコンステッカー A / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "ステージアイコンステッカー A / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm06",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm06.html",
+        "at": "2026-11-04T02:09:54.934Z",
+        "sha256": "dac9c5ab23355e3ade52e7f004d1ea2a6bec86e75c2eca898173ca9f2d7291d5"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「ステージアイコンステッカー A」。贴纸规格约 12 × 17 厘米，材质为 PET。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-0cccba17abc757120b3011b0e2c1b11f",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(男主人公)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（男主人公）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（男主人公）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-0eedd265bd5a3384f0c57f9e5b2b144c",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 武器モチーフの印象派風ブローチ(カーマ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "武器モチーフの印象派風ブローチ（カーマ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm09",
+      "variantId": "003",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm09.html",
+        "at": "2026-11-04T02:09:56.729Z",
+        "sha256": "0119078bb0ef362656e0185f270339c5672c49abdf840234e18a6c8a889a9aa8"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「武器モチーフの印象派風ブローチ（カーマ）」。胸针主体为锌合金。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-139e1b0285aa55eab1239c7cbe4fc203",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト クッション(女主人公)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　クッション（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm19",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm19.html",
+        "at": "2026-11-04T02:10:03.072Z",
+        "sha256": "cd500fc4d6eaa14530e0a4115769907a769bc60edba7ae07ecce09c4bbf22dd9"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　クッション（女主人公）」。靠垫约 35 × 40 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-155c62a57f4fd539954809e670104666",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 リヨ簡体字10周年キャラ マグネットぬいぐるみチャーム(マシュ・キリエライト)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "リヨ簡体字10周年キャラ　マグネットぬいぐるみチャーム（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm24",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm24.html",
+        "at": "2026-11-04T02:10:06.036Z",
+        "sha256": "be7fbb2959778007b58b6da5f5c9554eba3c3bfaf0e33f9d1f4b87fc49098698"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「リヨ簡体字10周年キャラ　マグネットぬいぐるみチャーム（マシュ・キリエライト）」。磁吸毛绒挂件全高约 13 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-1d9d2c64e53ca1497a0210edbffd53bf",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(諸葛孔明〔エルメロイII世〕)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（諸葛孔明〔エルメロイⅡ世〕）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "005",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（諸葛孔明〔エルメロイⅡ世〕）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-1f218528728d26c91139ed0ca38fec43",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 アロハシャツ 女主人公(M)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "アロハシャツ　女主人公（M）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm01",
+      "variantId": "004",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm01.html",
+        "at": "2026-11-04T02:09:51.779Z",
+        "sha256": "dc845e39999dd8f00f0df28867cb025757538726c3d4235ebe4f35e2092a9928"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「アロハシャツ　女主人公（M）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-25fabb31c86dcfaf4f7fe874578b6f3c",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト トレーディング缶バッジ(全8種)<コンプリートBOX>/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　トレーディング缶バッジ（全8種）＜コンプリートBOX＞/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm20",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm20.html",
+        "at": "2026-11-04T02:10:03.709Z",
+        "sha256": "df4a11dc758b58fcda923f5f3358868fcde23c9ac7d9a6b15a780f03998900b1"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　トレーディング缶バッジ（全8種）＜コンプリートBOX＞」。此规格为完整盒装。内装徽章的规格为 56 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-26e2696507d029d1428f5ed4cf30b8a2",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 謎のヒロインX 帽子 / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "謎のヒロインX　帽子 / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm04",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm04.html",
+        "at": "2026-11-04T02:09:53.731Z",
+        "sha256": "0ea9f2ff37ff446b76aff9471df30d64a8de7fba3778c6a9c88b6b6ab2c9abcf"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「謎のヒロインX　帽子」。帽围可调，标示尺寸为 58 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-2c241d06464b567d75243bf5a86233d1",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 武器モチーフの印象派風ブローチ(カルナ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "武器モチーフの印象派風ブローチ（カルナ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm09",
+      "variantId": "005",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm09.html",
+        "at": "2026-11-04T02:09:56.729Z",
+        "sha256": "0119078bb0ef362656e0185f270339c5672c49abdf840234e18a6c8a889a9aa8"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「武器モチーフの印象派風ブローチ（カルナ）」。胸针主体为锌合金。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-2d2a8098583058196c883cb15c26206b",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(テスカトリポカ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（テスカトリポカ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "007",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（テスカトリポカ）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-2e1fcb41854d9b2c72e10a06c28324d2",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(レオナルド・ダ・ヴィンチ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（レオナルド・ダ・ヴィンチ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "006",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（レオナルド・ダ・ヴィンチ）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-30237f671d2790b0865d3e5fb8c96dc6",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト タペストリー / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　タペストリー / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm13",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm13.html",
+        "at": "2026-11-04T02:09:59.258Z",
+        "sha256": "1fd05ae6f85449f558a7ee51c2c669c036bd6e277da7f0c7761dba127be4153d"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　タペストリー」。挂画约 707 × 543 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-33544d9e57f35e9403bf4d7139d7b350",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(マシュ・キリエライト)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "003",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（マシュ・キリエライト）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-351e4d3176da3653cd5729d31bed74ce",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 武器モチーフの印象派風ブローチ(ジャンヌ・ダルク〔オルタ〕)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "武器モチーフの印象派風ブローチ（ジャンヌ・ダルク〔オルタ〕）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm09",
+      "variantId": "004",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm09.html",
+        "at": "2026-11-04T02:09:56.729Z",
+        "sha256": "0119078bb0ef362656e0185f270339c5672c49abdf840234e18a6c8a889a9aa8"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「武器モチーフの印象派風ブローチ（ジャンヌ・ダルク〔オルタ〕）」。胸针主体为锌合金。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-385def2ffff3ae83cb8daca06576faec",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(女主人公)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（女主人公）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-411644523b1a101fa9c595abb4669f38",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト Tシャツ B(M)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　Tシャツ B（M）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm22",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm22.html",
+        "at": "2026-11-04T02:10:04.862Z",
+        "sha256": "342c0a588d82026349aace00d4bbe75d4ca7e7872433df113bc9bc7245a7c940"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　Tシャツ B（M）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-482bf69e8ec82f11052f4d6aa5cc366d",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト トレーディングオーロラ色紙(全9種)<単品・ランダム封入>/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　トレーディングオーロラ色紙（全9種）＜単品・ランダム封入＞/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm16",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm16.html",
+        "at": "2026-11-04T02:10:01.150Z",
+        "sha256": "bb377e2b4d572883c81d0f3180b4874fe163679a58a342b29b70d7d572c681bd"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　トレーディングオーロラ色紙（全9種）＜単品・ランダム封入＞」。此规格为随机单包。内装色纸每张宽 140、高 200 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-4a430c1f42042d6e033a34d725646818",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 武器モチーフの印象派風ブローチ(モルガン)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "武器モチーフの印象派風ブローチ（モルガン）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm09",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm09.html",
+        "at": "2026-11-04T02:09:56.729Z",
+        "sha256": "0119078bb0ef362656e0185f270339c5672c49abdf840234e18a6c8a889a9aa8"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「武器モチーフの印象派風ブローチ（モルガン）」。胸针主体为锌合金。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-4a9e7198e1a23ad6c10ea683cae3d452",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(諸葛孔明〔エルメロイII世〕)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（諸葛孔明〔エルメロイⅡ世〕）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "005",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（諸葛孔明〔エルメロイⅡ世〕）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-4ae554a43ca4b956a63bbf5248c0c07f",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト クッション(マシュ・キリエライト)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　クッション（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm19",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm19.html",
+        "at": "2026-11-04T02:10:03.072Z",
+        "sha256": "cd500fc4d6eaa14530e0a4115769907a769bc60edba7ae07ecce09c4bbf22dd9"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　クッション（マシュ・キリエライト）」。靠垫约 35 × 40 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-4bfdaeec99267a08afee1d24abc7963d",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト Tシャツ A(XL)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　Tシャツ A（XL）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm21",
+      "variantId": "003",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm21.html",
+        "at": "2026-11-04T02:10:04.284Z",
+        "sha256": "c8a3d1b4a4a39b520e85dda7c89116c15d582ba5750890b3e4d82587f79db42d"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　Tシャツ A（XL）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-4d54f66230550ff94cf4f49859752aac",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(オベロン)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（オベロン）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "008",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（オベロン）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-4db4e0dc7235763867b88e6b2f5996f9",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(オベロン)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（オベロン）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "008",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（オベロン）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-4e1123fe524c80100282c6b3e3d8b22d",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(マシュ・キリエライト)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "003",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（マシュ・キリエライト）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-59ad29caf67ed8c81ffc9553ac2d5894",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト トレーディングクリアカード(全9種)<コンプリートBOX>/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　トレーディングクリアカード（全9種）＜コンプリートBOX＞/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm18",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm18.html",
+        "at": "2026-11-04T02:10:02.416Z",
+        "sha256": "84f4adf9d4a2ed06c7aa88966b4dc9c5c34f7be7f3cbf9ecc19c4bd05f3b2092"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　トレーディングクリアカード（全9種）＜コンプリートBOX＞」。此规格为完整盒装。内装透明卡每张约 60 × 95 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-611f58a75f0190347164a28a799c5c6b",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 ぬいぐるみバック(エレシュキガル)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "ぬいぐるみバック（エレシュキガル）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm02",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm02.html",
+        "at": "2026-11-04T02:09:52.514Z",
+        "sha256": "f61c5c5b2cc7f922635892edb2b75ea2cf738ef96922658436d6226a2d23aeb5"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「ぬいぐるみバック（エレシュキガル）」。包身高约 40 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-6b6a140795c9be1e27fecd353f283266",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト トレーディングオーロラ色紙(全9種)<コンプリートBOX>/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　トレーディングオーロラ色紙（全9種）＜コンプリートBOX＞/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm16",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm16.html",
+        "at": "2026-11-04T02:10:01.150Z",
+        "sha256": "bb377e2b4d572883c81d0f3180b4874fe163679a58a342b29b70d7d572c681bd"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　トレーディングオーロラ色紙（全9種）＜コンプリートBOX＞」。此规格为完整盒装。内装色纸每张宽 140、高 200 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-73f60785dc8f9935730b4b4b88df4572",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(女主人公)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（女主人公）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-76aed711fb8e9b2a0298b81f20d9538c",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト マウスパッド / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　マウスパッド / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm15",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm15.html",
+        "at": "2026-11-04T02:10:00.402Z",
+        "sha256": "deb71a13b51b589cb12d38777fcc1c2a7d1dd994a3f03dde4c5380de56280c44"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　マウスパッド」。鼠标垫约 60 × 32 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-8381f795045cbf02c6272a3528443fc2",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 ステージアイコンステッカー B / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "ステージアイコンステッカー B / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm06",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm06.html",
+        "at": "2026-11-04T02:09:54.934Z",
+        "sha256": "dac9c5ab23355e3ade52e7f004d1ea2a6bec86e75c2eca898173ca9f2d7291d5"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「ステージアイコンステッカー B」。贴纸规格约 12 × 17 厘米，材质为 PET。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-879767246e3e11915551be4678126a82",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト トレーディングクリアカード(全9種)<単品・ランダム封入>/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　トレーディングクリアカード（全9種）＜単品・ランダム封入＞/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm18",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm18.html",
+        "at": "2026-11-04T02:10:02.416Z",
+        "sha256": "84f4adf9d4a2ed06c7aa88966b4dc9c5c34f7be7f3cbf9ecc19c4bd05f3b2092"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　トレーディングクリアカード（全9種）＜単品・ランダム封入＞」。此规格为随机单包。内装透明卡每张约 60 × 95 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-894564970e5f47dbf5ba3afe4dfbee6a",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(諸葛孔明〔エルメロイII世〕)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（諸葛孔明〔エルメロイⅡ世〕）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "005",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（諸葛孔明〔エルメロイⅡ世〕）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-89c571a1763a82207613ff73861b154a",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(テスカトリポカ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（テスカトリポカ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "007",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（テスカトリポカ）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-8c29c350b19d0823884a773e636a442b",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 キャラクターイメージ風メガネケース(雨の魔女トネリコ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "キャラクターイメージ風メガネケース（雨の魔女トネリコ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm07",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm07.html",
+        "at": "2026-11-04T02:09:55.560Z",
+        "sha256": "5921c037fb42fd17dc30c3085603bde1709911dcffc56bcdc43710d2212613d8"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「キャラクターイメージ風メガネケース（雨の魔女トネリコ）」。眼镜盒约 160 × 65 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-907651fcf7defb03157cfcdc9e6a5bab",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 エクスカリバー ぬいぐるみ / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "エクスカリバー　ぬいぐるみ / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm05",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm05.html",
+        "at": "2026-11-04T02:09:54.338Z",
+        "sha256": "f34ca35b7835b627b7ee78708cd416d2974aa9877fc65460c68c9f0681a989e4"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「エクスカリバー　ぬいぐるみ」。玩偶高约 70 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-920e1528f40696bbadda353f9ba25385",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(男主人公)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（男主人公）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（男主人公）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-94344bce52a6f948315b84cd18b2e95c",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 ぬいぐるみバック(オベロン)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "ぬいぐるみバック（オベロン）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm02",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm02.html",
+        "at": "2026-11-04T02:09:52.514Z",
+        "sha256": "f61c5c5b2cc7f922635892edb2b75ea2cf738ef96922658436d6226a2d23aeb5"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「ぬいぐるみバック（オベロン）」。包身高约 40 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-94929867d2c426370bf93005725fb46d",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 リヨ簡体字10周年キャラ オルガマリー・アニムスフィア ぬいぐるみチャーム / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "リヨ簡体字10周年キャラ　オルガマリー・アニムスフィア ぬいぐるみチャーム / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm23",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm23.html",
+        "at": "2026-11-04T02:10:05.457Z",
+        "sha256": "4392a057e0d83e41eee9b961f7b5b32e570522017cd621c8449d1b28a67ce8ad"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「リヨ簡体字10周年キャラ　オルガマリー・アニムスフィア ぬいぐるみチャーム」。毛绒挂件全高约 13 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-971d433e030727dce084ef3a31226ff1",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(テスカトリポカ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（テスカトリポカ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "007",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（テスカトリポカ）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-997dd5cd86e3829590793c6ed572df44",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(リリス)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（リリス）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "009",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（リリス）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-9c5b13b9dcf9e0daa775412e55bf54a4",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(レオナルド・ダ・ヴィンチ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（レオナルド・ダ・ヴィンチ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "006",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（レオナルド・ダ・ヴィンチ）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-9e84a9ad1cbec4be3a1d13be433e7589",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(アルトリア・ペンドラゴン)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（アルトリア・ペンドラゴン）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "004",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（アルトリア・ペンドラゴン）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-9eef90e03591c86fbc7d3b3f488072ec",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 武器モチーフの印象派風ブローチ(ジェームズ・モリアーティ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "武器モチーフの印象派風ブローチ（ジェームズ・モリアーティ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm09",
+      "variantId": "006",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm09.html",
+        "at": "2026-11-04T02:09:56.729Z",
+        "sha256": "0119078bb0ef362656e0185f270339c5672c49abdf840234e18a6c8a889a9aa8"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「武器モチーフの印象派風ブローチ（ジェームズ・モリアーティ）」。胸针主体为锌合金。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-a0ebd9fd039afa08a9ea3963bdfd3fd4",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト クッション(オルガマリー・アニムスフィア)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　クッション（オルガマリー・アニムスフィア）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm19",
+      "variantId": "003",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm19.html",
+        "at": "2026-11-04T02:10:03.072Z",
+        "sha256": "cd500fc4d6eaa14530e0a4115769907a769bc60edba7ae07ecce09c4bbf22dd9"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　クッション（オルガマリー・アニムスフィア）」。靠垫约 35 × 40 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-a2839776675b0d3937a6d80f6c96592d",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(アルトリア・ペンドラゴン)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（アルトリア・ペンドラゴン）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "004",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（アルトリア・ペンドラゴン）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-a9360b50ee4938bea9f6553a48405c41",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(オベロン)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（オベロン）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "008",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（オベロン）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-ab702f4c0cd761c0c3e062466ae2d6cb",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト クリアファイル / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　クリアファイル / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm14",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm14.html",
+        "at": "2026-11-04T02:09:59.837Z",
+        "sha256": "ddee99d400b265f978c9898dee09d84d8d553802ba147e700efe3e30b5db1199"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　クリアファイル」。文件夹约 220 × 310 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-ae7bf650c5df2fd029efe10f5004b75f",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 アロハシャツ 男主人公(M)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "アロハシャツ　男主人公（M）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm01",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm01.html",
+        "at": "2026-11-04T02:09:51.779Z",
+        "sha256": "dc845e39999dd8f00f0df28867cb025757538726c3d4235ebe4f35e2092a9928"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「アロハシャツ　男主人公（M）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-af0b5fa46e38507437c520a51eac7c59",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(リリス)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（リリス）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "009",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（リリス）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-b266d6e247c48ae79fba9e527e9efbc2",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(男主人公)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（男主人公）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（男主人公）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-b5a8a9c64b7d5fedcf1e8622d84232f8",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルチャーム(リリス)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルチャーム（リリス）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm11",
+      "variantId": "009",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm11.html",
+        "at": "2026-11-04T02:09:57.992Z",
+        "sha256": "bceed8ca38c486750403731bdd13aa0788490ebdfb7d6591baad32b670d18f9e"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルチャーム（リリス）」。挂件由亚克力和锌合金制成。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-bc48aed8b60804c293b717a6c911fd61",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 テスカトリポカ 水鉄砲 / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "テスカトリポカ　水鉄砲 / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm03",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm03.html",
+        "at": "2026-11-04T02:09:53.123Z",
+        "sha256": "0f70800307a2a2f9310c803e01138a68ff37ef199ef2f6ee8ea3adf3b104a68f"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「テスカトリポカ　水鉄砲」。水枪约 440 × 212 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-bcb095d73908084f4c40b60586925299",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(マシュ・キリエライト)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（マシュ・キリエライト）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "003",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（マシュ・キリエライト）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-c8bfee419830131454e8060d39340258",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(レオナルド・ダ・ヴィンチ)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（レオナルド・ダ・ヴィンチ）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "006",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（レオナルド・ダ・ヴィンチ）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-cba2b89733fd428b558b5754f32f0262",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 アロハシャツ 男主人公(L)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "アロハシャツ　男主人公（L）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm01",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm01.html",
+        "at": "2026-11-04T02:09:51.779Z",
+        "sha256": "dc845e39999dd8f00f0df28867cb025757538726c3d4235ebe4f35e2092a9928"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「アロハシャツ　男主人公（L）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-d26d3e87230ab02d719952588e7de246",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 アロハシャツ 女主人公(XL)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "アロハシャツ　女主人公（XL）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm01",
+      "variantId": "006",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm01.html",
+        "at": "2026-11-04T02:09:51.779Z",
+        "sha256": "dc845e39999dd8f00f0df28867cb025757538726c3d4235ebe4f35e2092a9928"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「アロハシャツ　女主人公（XL）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-d30889c6157b977a7265966bdae85ad2",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 武器モチーフの印象派風ブローチ(イシュタル)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "武器モチーフの印象派風ブローチ（イシュタル）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm09",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm09.html",
+        "at": "2026-11-04T02:09:56.729Z",
+        "sha256": "0119078bb0ef362656e0185f270339c5672c49abdf840234e18a6c8a889a9aa8"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「武器モチーフの印象派風ブローチ（イシュタル）」。胸针主体为锌合金。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-da3e2ef5e2a16d4303937ec14b4e4509",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 リヨ簡体字10周年キャラ マグネットぬいぐるみチャーム(女主人公)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "リヨ簡体字10周年キャラ　マグネットぬいぐるみチャーム（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm24",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm24.html",
+        "at": "2026-11-04T02:10:06.036Z",
+        "sha256": "be7fbb2959778007b58b6da5f5c9554eba3c3bfaf0e33f9d1f4b87fc49098698"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「リヨ簡体字10周年キャラ　マグネットぬいぐるみチャーム（女主人公）」。磁吸毛绒挂件全高约 13 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-dfb0fcacfa1f9df464a644dd2c7812bf",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 アロハシャツ 男主人公(XL)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "アロハシャツ　男主人公（XL）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm01",
+      "variantId": "003",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm01.html",
+        "at": "2026-11-04T02:09:51.779Z",
+        "sha256": "dc845e39999dd8f00f0df28867cb025757538726c3d4235ebe4f35e2092a9928"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「アロハシャツ　男主人公（XL）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-dfbb2147d23d4c46684e8f1473bfdaf1",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 キャラクターイメージ風メガネケース(坂田金時)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "キャラクターイメージ風メガネケース（坂田金時）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm07",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm07.html",
+        "at": "2026-11-04T02:09:55.560Z",
+        "sha256": "5921c037fb42fd17dc30c3085603bde1709911dcffc56bcdc43710d2212613d8"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「キャラクターイメージ風メガネケース（坂田金時）」。眼镜盒约 160 × 65 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-e2bc38a51c18785158b25d3e6df6de19",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト Tシャツ B(XL)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　Tシャツ B（XL）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm22",
+      "variantId": "003",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm22.html",
+        "at": "2026-11-04T02:10:04.862Z",
+        "sha256": "342c0a588d82026349aace00d4bbe75d4ca7e7872433df113bc9bc7245a7c940"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　Tシャツ B（XL）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-e348e86502e537a56b66809dce70b6f0",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 英霊召喚陣 傘 / Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "英霊召喚陣　傘 / Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm08",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm08.html",
+        "at": "2026-11-04T02:09:56.160Z",
+        "sha256": "ae67c3b7e297c4086a61bc6eb7ddefc9f51d98186bd898ebac04fadf2e9b88b4"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「英霊召喚陣　傘」。撑开后伞下直径约 105 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-e566434eca5a9ae469cd271cb61f86b0",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト アクリルスタンド(アルトリア・ペンドラゴン)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　アクリルスタンド（アルトリア・ペンドラゴン）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm10",
+      "variantId": "004",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm10.html",
+        "at": "2026-11-04T02:09:57.368Z",
+        "sha256": "2b3a6cb80a2484dd8c8a4713c79ee3c576540cb26377492c32f35fbac7c3e0f2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　アクリルスタンド（アルトリア・ペンドラゴン）」。底座约宽 60、高 50 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-f1041e53d6358bfb3fdf2397feaee647",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト トレーディング缶バッジ(全8種)<単品・ランダム封入>/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　トレーディング缶バッジ（全8種）＜単品・ランダム封入＞/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm20",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm20.html",
+        "at": "2026-11-04T02:10:03.709Z",
+        "sha256": "df4a11dc758b58fcda923f5f3358868fcde23c9ac7d9a6b15a780f03998900b1"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　トレーディング缶バッジ（全8種）＜単品・ランダム封入＞」。此规格为随机单包。内装徽章的规格为 56 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-f69121eb315ef555154f576ce7ce22df",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト ぬいぐるみチャーム(女主人公)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　ぬいぐるみチャーム（女主人公）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm12",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm12.html",
+        "at": "2026-11-04T02:09:58.633Z",
+        "sha256": "a53b3a91a6e729a201849be064b547c509cbc1f1796197145c76372d37316da2"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　ぬいぐるみチャーム（女主人公）」。毛绒挂件高约 12 厘米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-f877617a708c7d7b9237d7c0d1702583",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト Tシャツ A(M)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　Tシャツ A（M）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm21",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm21.html",
+        "at": "2026-11-04T02:10:04.284Z",
+        "sha256": "c8a3d1b4a4a39b520e85dda7c89116c15d582ba5750890b3e4d82587f79db42d"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　Tシャツ A（M）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-fc6d9c642147db43d038b9ce6cece918",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト トレーディングオーロラ缶バッジ(全9種)<単品・ランダム封入>/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　トレーディングオーロラ缶バッジ（全9種）＜単品・ランダム封入＞/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm17",
+      "variantId": "001",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm17.html",
+        "at": "2026-11-04T02:10:01.790Z",
+        "sha256": "2159ba81c828ad5c17e663c84687c82d1356771d596cf0d54a9001aff5b8fa78"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　トレーディングオーロラ缶バッジ（全9種）＜単品・ランダム封入＞」。此规格为随机单包。内装徽章的规格为 75 毫米。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-fccfa34c7028fe6b604545ed3b896024",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年リヨマンガイラスト Tシャツ A(L)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年リヨマンガイラスト　Tシャツ A（L）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm21",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm21.html",
+        "at": "2026-11-04T02:10:04.284Z",
+        "sha256": "c8a3d1b4a4a39b520e85dda7c89116c15d582ba5750890b3e4d82587f79db42d"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年リヨマンガイラスト　Tシャツ A（L）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-feb20e2f91303248e93ccdec67c27ee9",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 アロハシャツ 女主人公(L)/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "アロハシャツ　女主人公（L）/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm01",
+      "variantId": "005",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm01.html",
+        "at": "2026-11-04T02:09:51.779Z",
+        "sha256": "dc845e39999dd8f00f0df28867cb025757538726c3d4235ebe4f35e2092a9928"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「アロハシャツ　女主人公（L）」。面料为纯棉。官方标注发行方为 Aniplex（上海）。"
+    },
+    {
+      "itemId": "source-ff9c0247a0cb95d74c4b8ec7fca6f549",
+      "groupId": "series-2d2173a124bfeebc",
+      "title": "Fate/Grand Order 简体字版10周年 簡体字10周年イラスト トレーディングオーロラ缶バッジ(全9種)<コンプリートBOX>/ Fate/Grand Order 簡体字版10周年グッズ",
+      "status": "supported",
+      "officialTitle": "簡体字10周年イラスト　トレーディングオーロラ缶バッジ（全9種）＜コンプリートBOX＞/ Fate/Grand Order 簡体字版10周年グッズ",
+      "sku": "itemNYYwmMZm17",
+      "variantId": "002",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNYYwmMZm17.html",
+        "at": "2026-11-04T02:10:01.790Z",
+        "sha256": "2159ba81c828ad5c17e663c84687c82d1356771d596cf0d54a9001aff5b8fa78"
+      },
+      "proof": "official-catalogue-url-full-variant-label-and-observed-variant-key",
+      "summary": "《Fate/Grand Order 简体字版10周年》的「簡体字10周年イラスト　トレーディングオーロラ缶バッジ（全9種）＜コンプリートBOX＞」。此规格为完整盒装。内装徽章的规格为 75 毫米。官方标注发行方为 Aniplex（上海）。"
+    }
+  ]
+}

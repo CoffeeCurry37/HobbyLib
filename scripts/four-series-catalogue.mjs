@@ -1,0 +1,20 @@
+import assert from 'node:assert/strict';
+import {pub,priv,read,write,sources,targetRows,cached,clean} from './four-series-common.mjs';
+const number=Number(process.argv[2]), source=sources[number];
+assert.ok(number===0 || number===1);
+const url=source.officialSource+'?start=0&sz=120';
+const {body,source:catalogueSource}=cached(url);
+const expected=Number(body.match(/(\d+)\s*件の結果/)?.[1]);
+const entries=[...body.matchAll(/<article id="product_tile"[\s\S]*?<\/article>/g)].map(([tile]) => {
+ const link=tile.match(/href="([^"]+\.html)"/)?.[1], title=tile.match(/<h3[^>]*>([\s\S]*?)<\/h3>/)?.[1];
+ assert.ok(link && title);
+ return {url:new URL(clean(link),url).href,title:clean(title.replace(/<[^>]+>/g,''))};
+});
+assert.equal(entries.length,expected);
+assert.equal(new Set(entries.map(e=>e.url)).size,expected);
+const targets=targetRows().filter(i=>i.groupId===source.groupId);
+const targetUrls=new Set(targets.flatMap(i=>i.officialObservations.map(o=>o.url)));
+write(pub+'/catalogue-'+number+'.json',{groupId:source.groupId,source:catalogueSource,expected,entries});
+const plan=entries.filter(e=>targetUrls.has(e.url)).map(e=>({url:e.url,groupId:source.groupId}));
+write(priv+'/details-'+number+'.json',plan);
+console.log({catalogue:expected,observedUrls:targetUrls.size,inCatalogue:plan.length});
