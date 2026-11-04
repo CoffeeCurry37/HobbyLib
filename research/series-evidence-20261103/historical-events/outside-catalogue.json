@@ -1,0 +1,496 @@
+{
+  "exceptions": [
+    {
+      "groupId": "series-0a317dc40839a847",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA86.html",
+      "event": "FGO Fes.2021",
+      "at": "2026-11-01T01:44:53.938Z",
+      "itemIds": [
+        "source-759ffc2a8235f7824157fb7bc19cdb8e"
+      ],
+      "officialTitle": "【復刻】ポートレイトコレクション Fes.2021描き下ろしサーヴァントB",
+      "sourceSha256": "e6aa9d03b5f53ac4f6b320b301e3c054dfa8b82c8eb6c6f0b39ab59fcc4f51a4",
+      "reason": "official-reissue-title-explicitly-identifies-artwork-year"
+    },
+    {
+      "groupId": "series-0a317dc40839a847",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA85.html",
+      "event": "FGO Fes.2021",
+      "at": "2026-11-01T01:44:55.711Z",
+      "itemIds": [
+        "source-90d29aa99e0c6a126e16582fa462c162"
+      ],
+      "officialTitle": "【復刻】ポートレイトコレクション Fes.2021描き下ろしサーヴァントA",
+      "sourceSha256": "14079f29bc9133d763689741bbcf45dda7aa5b0681b37486bd5690f3ae63075b",
+      "reason": "official-reissue-title-explicitly-identifies-artwork-year"
+    },
+    {
+      "groupId": "series-3bafa0802d86283c",
+      "url": "https://online.aniplex.co.jp/itemAOJGgRaO.html",
+      "event": "TYPE-MOON展 Fate/stay night -15年の軌跡-",
+      "at": "2026-11-04T01:30:35.585Z",
+      "itemIds": [
+        "source-81e8581207a8945847b4123f9451803b"
+      ],
+      "officialTitle": "Spieldose “Die Lorelei” -オルゴール 「ローレライ」- 「Fate/stay night」 15th Celebration Goods",
+      "sourceSha256": "294be872c3eed909e0f506e0bd7c922345c44bf9bbe17d96486db79c085376a2",
+      "reason": "not-in-reviewed-catalogues-requires-separate-event-proof"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemRcjwptRS.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:36.164Z",
+      "itemIds": [
+        "source-007c8026f8e22f87206681fc36f1550c"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（O）",
+      "sourceSha256": "aed2b70eb5bd9d85de4cfe2b5b038b5965e3c18e7c6b08ee858d5cdb6264f992",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemxbqZFxVn.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:36.759Z",
+      "itemIds": [
+        "source-045c2ce15532168a23dee4d001ba28b7",
+        "source-0a70e0073abfc9e26e4ab81ff594cced",
+        "source-2198589773e2d1b2aa4c06ecd3f0247b"
+      ],
+      "officialTitle": "Fate/Grand Order コマンドカード（Buster） Tシャツ",
+      "sourceSha256": "970f93a844fa01d0dfff69b7b6bd848eb3838ffd4af3b813280015de17eef6b8",
+      "reason": "not-in-reviewed-catalogues-requires-separate-event-proof"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itembnunBPRW.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:37.352Z",
+      "itemIds": [
+        "source-149fbbe9796575ba798e60e6400b2679"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（B）",
+      "sourceSha256": "5a9e027c168efaa2e012baffb6122ce64fe37c2ccba7dad297a2b015152e46e2",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemfGZBejhQ.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:37.958Z",
+      "itemIds": [
+        "source-2bbb6dacf6e991fe8b50096b45083fd4"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（I）",
+      "sourceSha256": "6d65568205b15d67a0d44451f2f5cc19fb3621e27ad6fd3f78e10c49a9b5b967",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemaxZDxuWx.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:38.533Z",
+      "itemIds": [
+        "source-2bdee594ad40c5748ee8b0d027a8c35a",
+        "source-3ff8deb90bc7ab8fc068da0499ebe5f6",
+        "source-6bc055fa79bd721be6060c85ca905270"
+      ],
+      "officialTitle": "Fate/Grand Order コマンドカード(Arts) Tシャツ",
+      "sourceSha256": "fce0419ede4fa6c50a89561dfbbc87989353dcead51be7dc28273947e50a5196",
+      "reason": "not-in-reviewed-catalogues-requires-separate-event-proof"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemZJqjtxrG.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:39.125Z",
+      "itemIds": [
+        "source-3c17eccdbb1f98ab2d43855c951e8925"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（T）",
+      "sourceSha256": "4de7762a4da6845034dfcf34e1103c3fb23d2b5f812233fd9e4c1270547a7aea",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemUElkvFkd.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:39.723Z",
+      "itemIds": [
+        "source-4153f7c256e11e91214bfa71e84b543f"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（S）",
+      "sourceSha256": "7ac57223e6a02ecdddb977333396bfa26ab1f859a32118a9efede6db498d72f9",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemMYoJBreK.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:40.317Z",
+      "itemIds": [
+        "source-4184e958bd5ac32dbcac75917ca07077"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（K）",
+      "sourceSha256": "7157b7c4c7a971ecb12d9e4bb19baf41b57f3bf79e42b3b01dd9cf639d5b6ffd",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemTJEahvqX.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:40.893Z",
+      "itemIds": [
+        "source-4b83c5af48397b759f9dfd2a261508d8",
+        "source-5fb11baf5639093a25ed47a6125df657",
+        "source-7aa13582e244eef26b37c39a0e285965"
+      ],
+      "officialTitle": "Fate/Grand Order コマンドカード(Quick) Tシャツ",
+      "sourceSha256": "cf9d76510905b151a0f042278315477c33472e265c0768464423951396fbc0be",
+      "reason": "not-in-reviewed-catalogues-requires-separate-event-proof"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemqPCpOWkF.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:41.514Z",
+      "itemIds": [
+        "source-5426c17e2cf27c0041a625098d646b11"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（P）",
+      "sourceSha256": "4ace1948d7ce745212aabec38012f827c11c1e01473952a6853d777371dd4d94",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemQTOnKiqk.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:42.105Z",
+      "itemIds": [
+        "source-54970d046dda932bf11d196a6f679978"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（G）",
+      "sourceSha256": "f583f73ce166ecab61207f09744d38114b79513abbe160af1807658b16c548f9",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemyXXZTUsv.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:42.685Z",
+      "itemIds": [
+        "source-59888641a77c36f3ab64fb8a59d51944"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（N）",
+      "sourceSha256": "a36c80a8c66543372bbb7c60d0e3177d6e48d4090aac52a392613e2015dc7063",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemVcfSCMln.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:43.279Z",
+      "itemIds": [
+        "source-7229966c65358c683597acd313682753"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（J）",
+      "sourceSha256": "3c05ee6e69959e23d69e83a7b72186513d22a58ed8cce4daeea1c69ad1c137bb",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA77.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-01T01:44:54.543Z",
+      "itemIds": [
+        "source-7c582d39639545dac203bacee645501a"
+      ],
+      "officialTitle": "【復刻】ポートレイトコレクション Fes.2017描き下ろしサーヴァントA",
+      "sourceSha256": "6bb75fcf4f26ea94d9c260d041cc4262763b872703b997794cc8550ebd1eedfc",
+      "reason": "official-reissue-title-explicitly-identifies-artwork-year"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemQoZgDlGA.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:43.869Z",
+      "itemIds": [
+        "source-8304ea232920f9a53eecbe9242780e5f"
+      ],
+      "officialTitle": "Fate/Grand Order ルーラー/ジャンヌ・ダルク 英霊正装ver.　1/7スケールフィギュア",
+      "sourceSha256": "efd81cb8daba34815d73ee320009d5417146db718a18364071a9af5f7c79cde3",
+      "reason": "not-in-reviewed-catalogues-requires-separate-event-proof"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemKvTRMfRO.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:44.542Z",
+      "itemIds": [
+        "source-8dc60bcfbdda4cb84514336e386e5f8d"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（E）",
+      "sourceSha256": "5057354c15dcc08a10c0c2d6fe27c34e68ef1cfa27b34c7979be4ce9337a8b2d",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemKmrmpGeL.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:45.135Z",
+      "itemIds": [
+        "source-9102125b1ffdf2b292461da05e025421"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（C）",
+      "sourceSha256": "773f1503f4c88cbf8ce4f9c75314f2915f87b93991cc065ca68d9a3203e9ee5f",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itembIShJKEA.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:45.714Z",
+      "itemIds": [
+        "source-ac93bf2abe3bc1107299fe5f35e43999"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（H）",
+      "sourceSha256": "86485d730875c27697b63513d4efc4f85ee734fff62f6302f6d43384e85c7e80",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemqMrWyOQQ.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:46.323Z",
+      "itemIds": [
+        "source-b513092ff6ab3d9d525c5594c970ff66"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（L）",
+      "sourceSha256": "51aac9dea6e12f57c86f3be09244891a699171c7c39d0e26ee0647d86d516778",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemHWDyecVZ.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:46.920Z",
+      "itemIds": [
+        "source-bb5d7e31f1b3f94208b5262b34e5c1dd"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（M）",
+      "sourceSha256": "7bb65ca691fb71eff7134f8e38426e939c120f91937ed81a221cd46bd9818f95",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemtYUuzQZP.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:47.550Z",
+      "itemIds": [
+        "source-cbaacb015452c0602b64ebafbf8e5485"
+      ],
+      "officialTitle": "Fate/Grand Order マシマサキ描き下ろしイラスト使用「海辺の夕暮れ」セット",
+      "sourceSha256": "a62b42928867ad453097c983f95bef8a340e9c762b07ec587cf5c5e8e209c848",
+      "reason": "not-in-reviewed-catalogues-requires-separate-event-proof"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemRinozzPw.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:48.159Z",
+      "itemIds": [
+        "source-db470f4fc10ba5219e0e67997e8704cd"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ぐだ子フェイスショルダーポーチ",
+      "sourceSha256": "0c8635c601d2e3a58fb7cf7abcd0dc854c76e877ffd07b1f6a644530fa9d8048",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemCrmAhola.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:48.720Z",
+      "itemIds": [
+        "source-e003e87db3437a00b7f3093a501502be"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（F）",
+      "sourceSha256": "8aab4d016841509e76afe96e81b9b016df59f7e44212d88f6ead344e39b9dcff",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemsvKMqJrj.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:49.311Z",
+      "itemIds": [
+        "source-e04380c7879289f9f2300183cb0ce058"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（Q）",
+      "sourceSha256": "5a6669813725fcaacff153d62ffcfbd56f621dd50a7602e4eb4c87037ee5199d",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemWwmyXEfl.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:49.904Z",
+      "itemIds": [
+        "source-e7bd754dc5df8320e3508954a3c962a6"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（R）",
+      "sourceSha256": "9aa00d5585c6cecfda992dc6d9abcb9a237bd23efc722215f1c871f199ea2719",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemcaVRLLhg.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:50.483Z",
+      "itemIds": [
+        "source-ee7891b41d2e3214ac3212b6a2288a41"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（A）",
+      "sourceSha256": "7fa3bb6652313a01faabcdfcc7025e54f98154788d3ba38bbfb0afce4918b51f",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemvBoLKuNr.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-04T01:30:51.069Z",
+      "itemIds": [
+        "source-f8cf0f80768d92d2cd50a6ed0b24abaa"
+      ],
+      "officialTitle": "FGO冬祭り2016-2017 ダ・ヴィンチミュージアム キャンバスアートシリーズ（D）",
+      "sourceSha256": "435a3b474bbfd1706eba060dba2f1ca5819ffcb1ef0bac3fd1cee3677af7f661",
+      "reason": "official-title-identifies-winter-event-check-for-resale"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA78.html",
+      "event": "FGO Fes.2017",
+      "at": "2026-11-01T01:44:51.524Z",
+      "itemIds": [
+        "source-ff9f6bbab0b2064f447d97a50c5e69b1"
+      ],
+      "officialTitle": "【復刻】ポートレイトコレクション Fes.2017描き下ろしサーヴァントB",
+      "sourceSha256": "67e7abee8a2cd4f0e936ec682503ede3a1f26d452457ed01aafa8d0a8758c9b0",
+      "reason": "official-reissue-title-explicitly-identifies-artwork-year"
+    },
+    {
+      "groupId": "series-41a75f14a950c805",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA82.html",
+      "event": "FGO Fes.2019",
+      "at": "2026-11-01T01:44:53.772Z",
+      "itemIds": [
+        "source-33871586e48ffc6c8cac7e1224b0474e"
+      ],
+      "officialTitle": "【復刻】ポートレイトコレクション Fes.2019描き下ろしサーヴァントB",
+      "sourceSha256": "3e214169b663345c6563d66c4701739bef20f8180cf72a38de0e1b37e954bb5b",
+      "reason": "official-reissue-title-explicitly-identifies-artwork-year"
+    },
+    {
+      "groupId": "series-41a75f14a950c805",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA81.html",
+      "event": "FGO Fes.2019",
+      "at": "2026-11-01T01:44:55.356Z",
+      "itemIds": [
+        "source-991026364f53aa43573ecee63c773d4f"
+      ],
+      "officialTitle": "【復刻】ポートレイトコレクション Fes.2019描き下ろしサーヴァントA",
+      "sourceSha256": "dd3a55296a1c92459dbbcdc37467d134b17c9f9fc27ed347c1cfd3d61d84b818",
+      "reason": "official-reissue-title-explicitly-identifies-artwork-year"
+    },
+    {
+      "groupId": "series-25511e329ccc2d1e",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA79.html",
+      "event": "FGO Fes.2018",
+      "at": "2026-11-01T01:44:55.049Z",
+      "itemIds": [
+        "source-1dff0366c6500664d62e1ad90a9b0b06"
+      ],
+      "officialTitle": "【復刻】ポートレイトコレクション Fes.2018描き下ろしサーヴァントA",
+      "sourceSha256": "6061331a6a99d5bcd5ee06b9d94236f70e807ccd7803cc00f93853f9aef67480",
+      "reason": "official-reissue-title-explicitly-identifies-artwork-year"
+    },
+    {
+      "groupId": "series-25511e329ccc2d1e",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA80.html",
+      "event": "FGO Fes.2018",
+      "at": "2026-11-01T01:44:53.061Z",
+      "itemIds": [
+        "source-7b659eecaf33925e1830b4502aa482fd"
+      ],
+      "officialTitle": "【復刻】ポートレイトコレクション Fes.2018描き下ろしサーヴァントB",
+      "sourceSha256": "96816bf5f2a3443e4302ad4340efda3702eb1f30c2163f7a097b694e52108b8b",
+      "reason": "official-reissue-title-explicitly-identifies-artwork-year"
+    }
+  ],
+  "explicitReprints": [
+    {
+      "groupId": "series-0a317dc40839a847",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA86.html",
+      "sku": "itemPTVfRKzA86",
+      "title": "【復刻】ポートレイトコレクション Fes.2021描き下ろしサーヴァントB",
+      "scope": "artwork attribution from official reissue title only",
+      "sourceSha256": "e6aa9d03b5f53ac4f6b320b301e3c054dfa8b82c8eb6c6f0b39ab59fcc4f51a4"
+    },
+    {
+      "groupId": "series-0a317dc40839a847",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA85.html",
+      "sku": "itemPTVfRKzA85",
+      "title": "【復刻】ポートレイトコレクション Fes.2021描き下ろしサーヴァントA",
+      "scope": "artwork attribution from official reissue title only",
+      "sourceSha256": "14079f29bc9133d763689741bbcf45dda7aa5b0681b37486bd5690f3ae63075b"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA77.html",
+      "sku": "itemPTVfRKzA77",
+      "title": "【復刻】ポートレイトコレクション Fes.2017描き下ろしサーヴァントA",
+      "scope": "artwork attribution from official reissue title only",
+      "sourceSha256": "6bb75fcf4f26ea94d9c260d041cc4262763b872703b997794cc8550ebd1eedfc"
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA78.html",
+      "sku": "itemPTVfRKzA78",
+      "title": "【復刻】ポートレイトコレクション Fes.2017描き下ろしサーヴァントB",
+      "scope": "artwork attribution from official reissue title only",
+      "sourceSha256": "67e7abee8a2cd4f0e936ec682503ede3a1f26d452457ed01aafa8d0a8758c9b0"
+    },
+    {
+      "groupId": "series-41a75f14a950c805",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA82.html",
+      "sku": "itemPTVfRKzA82",
+      "title": "【復刻】ポートレイトコレクション Fes.2019描き下ろしサーヴァントB",
+      "scope": "artwork attribution from official reissue title only",
+      "sourceSha256": "3e214169b663345c6563d66c4701739bef20f8180cf72a38de0e1b37e954bb5b"
+    },
+    {
+      "groupId": "series-41a75f14a950c805",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA81.html",
+      "sku": "itemPTVfRKzA81",
+      "title": "【復刻】ポートレイトコレクション Fes.2019描き下ろしサーヴァントA",
+      "scope": "artwork attribution from official reissue title only",
+      "sourceSha256": "dd3a55296a1c92459dbbcdc37467d134b17c9f9fc27ed347c1cfd3d61d84b818"
+    },
+    {
+      "groupId": "series-25511e329ccc2d1e",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA79.html",
+      "sku": "itemPTVfRKzA79",
+      "title": "【復刻】ポートレイトコレクション Fes.2018描き下ろしサーヴァントA",
+      "scope": "artwork attribution from official reissue title only",
+      "sourceSha256": "6061331a6a99d5bcd5ee06b9d94236f70e807ccd7803cc00f93853f9aef67480"
+    },
+    {
+      "groupId": "series-25511e329ccc2d1e",
+      "url": "https://online.aniplex.co.jp/itemPTVfRKzA80.html",
+      "sku": "itemPTVfRKzA80",
+      "title": "【復刻】ポートレイトコレクション Fes.2018描き下ろしサーヴァントB",
+      "scope": "artwork attribution from official reissue title only",
+      "sourceSha256": "96816bf5f2a3443e4302ad4340efda3702eb1f30c2163f7a097b694e52108b8b"
+    }
+  ]
+}

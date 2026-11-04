@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "groupId": "series-6c6dfafdf17e5221",
+      "label": "Fate/Grand Order 5th Anniversary (2020)",
+      "selected": 199,
+      "supported": 193,
+      "outstanding": 6
+    },
+    {
+      "groupId": "series-0a317dc40839a847",
+      "label": "FGO Fes.2021",
+      "selected": 188,
+      "supported": 182,
+      "outstanding": 6
+    },
+    {
+      "groupId": "series-3bafa0802d86283c",
+      "label": "TYPE-MOON展 Fate/stay night -15年の軌跡-",
+      "selected": 172,
+      "supported": 20,
+      "outstanding": 152
+    },
+    {
+      "groupId": "series-dc73abb24999a223",
+      "label": "FGO Fes.2017",
+      "selected": 155,
+      "supported": 107,
+      "outstanding": 48
+    },
+    {
+      "groupId": "series-41a75f14a950c805",
+      "label": "FGO Fes.2019",
+      "selected": 136,
+      "supported": 128,
+      "outstanding": 8
+    },
+    {
+      "groupId": "series-25511e329ccc2d1e",
+      "label": "FGO Fes.2018",
+      "selected": 125,
+      "supported": 111,
+      "outstanding": 14
+    }
+  ],
+  "unresolved": 234,
+  "dualSaleCandidates": 138,
+  "dualSaleConflictingSource": 138,
+  "winterEventReview": 21,
+  "winterEventPages": 21
+}

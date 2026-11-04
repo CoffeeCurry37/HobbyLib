@@ -1,7 +1,7 @@
 // Auth arrives through hidden stdin, stays in memory, and is sent only to the
 // existing Site. Every mutation has a fresh version, before/after and receipt.
 import fs from 'node:fs';import crypto from 'node:crypto';import assert from 'node:assert/strict';import {createInterface} from 'node:readline';
-const priv='work/series-evidence-20261103',pub='research/series-evidence-20261103';
+import {work as priv, output as pub} from './series-evidence-paths.mjs';
 const stable=v=>JSON.stringify(v,(_,x)=>x&&typeof x==='object'&&!Array.isArray(x)?Object.fromEntries(Object.keys(x).sort().map(k=>[k,x[k]])):x);
 const hash=v=>crypto.createHash('sha256').update(JSON.stringify(v)).digest('hex'),safeHash=v=>crypto.createHash('sha256').update(stable(v)).digest('hex');
 for(const d of ['before','requests','after'])fs.mkdirSync(priv+'/'+d,{recursive:true});
@@ -14,6 +14,9 @@ for await(const line of input){try{
  const owner=await request('/api/maintenance?maintenanceStatus=1'),expected=JSON.parse(fs.readFileSync('work/v6/owner-before.json'));assert.equal(owner.ownerDigest,expected.ownerDigest,'Unexpected catalogue owner');fs.writeFileSync(priv+'/owner-current.json',JSON.stringify(owner));
  if(config.mode==='probe'){console.log(JSON.stringify({authenticated:true,ownerItems:owner.ownerItems,ownerMatched:true}));input.close();break;}
  assert.equal(config.mode,'apply');const simulation=JSON.parse(fs.readFileSync(pub+'/simulation.json')),batches=JSON.parse(fs.readFileSync(priv+'/batches.json'));assert.ok(simulation.passed&&simulation.batches===batches.length&&simulation.changes===batches.flatMap(b=>b.changes).length);
+ const finalReportPath = pub + '/production.json';
+ if (fs.existsSync(finalReportPath) && JSON.parse(fs.readFileSync(finalReportPath)).maintenanceClosed) throw Error('Completed and closed round; do not replay');
+ assert.equal(simulation.planSha256, safeHash(batches.flatMap(b => b.changes.map(c => ({id:c.item.id, summary:c.item.summary, evidence:c.item.evidence.slice(-2)})))), 'Frozen evidence plan differs from simulation');
  const prior=fs.existsSync(receiptPath)?fs.readFileSync(receiptPath,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse):[],oldSuccess=new Map(prior.filter(r=>r.status==='verified').map(r=>[r.batch,r]));
  const meta=await request('/api/maintenance?catalogMeta=1');if(!fs.existsSync(priv+'/metadata-before.json'))fs.writeFileSync(priv+'/metadata-before.json',JSON.stringify(meta));
  const read=ids=>request('/api/maintenance?editorialItems='+ids.map(encodeURIComponent).join(','));let verified=0;const skipped=[];

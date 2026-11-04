@@ -1,7 +1,8 @@
 // Conservative field supplement: only an absent summary and two source facts.
 import fs from 'node:fs';import crypto from 'node:crypto';
 const hash=x=>crypto.createHash('sha256').update(x).digest('hex');
-const dir='research/series-evidence-20261103';
+import {output as dir, work, publicRoot, historical} from './series-evidence-paths.mjs';
+import {historicalSummary} from './series-evidence-historical-facts.mjs';
 const decode=s=>String(s||'').replaceAll('&amp;','&').replaceAll('&quot;','"').replace(/&(?:ldquo|rdquo);/g,'"').replaceAll('&nbsp;',' ');
 const norm=s=>decode(s).normalize('NFKC').toLowerCase().replace(/[\s“”"]/g,'');
 const detailCache=new Map();
@@ -10,6 +11,11 @@ const events=new Map(JSON.parse(fs.readFileSync(dir+'/catalogue-summary.json')).
 export function proposedSummary(match){
  const d=detailFor(match),event=events.get(match.groupId),name=match.officialTitle.replace(/\s*\/\s*Fate\/Grand Order.*$/,'').replace(/^【FGO Fes\.\s*20\d{2}】\s*/,'').replace(/^【大阪通販】\s*/,'').trim();
  let summary=`《${event}》相关的「${name}」。`;
+ if (historical) {
+  const description = historicalSummary(d, match, event);
+  if (description.length > 500) throw Error('Summary exceeds reviewed field limit');
+  return description;
+ }
  if(/単品[・\s]*[・]?ランダム封入/.test(name))summary+='此规格为随机单包，不能视为完整套装。';
  else if(/コンプリートセット/.test(name))summary+='此规格为官方完整套装，与随机单包分别记录。';
  else {
@@ -27,7 +33,7 @@ export function proposedSummary(match){
 }
 export function supplement(item,match,at){
  if(!item||item.id!==match.itemId)return {skip:'missing-target'};
- if(item.editorial||item.locked||item.archivedInto||item.origin==='doujin')return {skip:'protected-target'};
+ if(item.editorial||item.locked||(historical && item.manualFields?.length)||item.archivedInto||item.origin==='doujin')return {skip:'protected-target'};
  if(item.summary)return {skip:'existing-summary-preserved'};
  // Binding is checked again on the fresh record before every write.
  if(norm(item.title)!==norm(match.title))return {skip:'target-title-changed'};
@@ -41,10 +47,9 @@ export function supplement(item,match,at){
  return {item:{...item,summary,evidence:[...item.evidence,...facts]}};
 }
 if(process.argv[1]?.replaceAll('\\','/').endsWith('/series-evidence-enrichment.mjs')){
- const s=JSON.parse(fs.readFileSync('work/v6/production-after.json')),byId=new Map(s.items.map(i=>[i.id,i])),rank=new Map(JSON.parse(fs.readFileSync(dir+'/queue-index.json')).groups.map((g,n)=>[g.id,n])),matches=JSON.parse(fs.readFileSync(dir+'/identity-matches.json')).matches.filter(m=>m.status==='official-identity-supported').sort((a,b)=>rank.get(a.groupId)-rank.get(b.groupId)||a.itemId.localeCompare(b.itemId)),at=new Date().toISOString(),changes=[],skipped=[];
+ const s=JSON.parse(fs.readFileSync('work/v6/production-after.json')),byId=new Map(s.items.map(i=>[i.id,i])),rank=new Map(JSON.parse(fs.readFileSync(publicRoot+'/queue-index.json')).groups.map((g,n)=>[g.id,n])),matches=JSON.parse(fs.readFileSync(dir+'/identity-matches.json')).matches.filter(m=>m.status==='official-identity-supported').sort((a,b)=>rank.get(a.groupId)-rank.get(b.groupId)||a.itemId.localeCompare(b.itemId)),at=new Date().toISOString(),changes=[],skipped=[];
  for(const m of matches){const old=byId.get(m.itemId),result=supplement(old,m,at);if(result.skip){skipped.push({id:m.itemId,reason:result.skip});continue;}changes.push({item:result.item,expectedVersion:hash(JSON.stringify(old)),match:m});}
- fs.writeFileSync('work/series-evidence-20261103/proposed-changes.json',JSON.stringify(changes));
+ fs.writeFileSync(work+'/proposed-changes.json',JSON.stringify(changes));
  fs.writeFileSync(dir+'/proposed-supplements.json',JSON.stringify({at,state:'prepared-from-local-snapshot-not-applied',changes:changes.map(c=>({itemId:c.item.id,sourceUrl:c.match.sourceUrl,sku:c.match.sku,variantId:c.match.variantId,summary:c.item.summary,changedFields:['summary','evidence'],fullProductVerified:false})),skipped},null,2)+'\n');
  console.log(JSON.stringify({prepared:changes.length,skipped:skipped.length,sample:changes.slice(0,5).map(c=>({title:c.item.title,summary:c.item.summary}))}));
 }
-

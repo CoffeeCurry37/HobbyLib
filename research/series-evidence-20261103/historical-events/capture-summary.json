@@ -1,0 +1,10 @@
+{
+  "receiptEntries": 311,
+  "uniqueUrls": 311,
+  "networkRequests": 294,
+  "cacheReuses": 17,
+  "failures": 0,
+  "scope": "Local capture receipts only. Search traffic and shared first-round cache reads are not billed here.",
+  "paidModelApiCalls": 0,
+  "totalCost": "unknown"
+}

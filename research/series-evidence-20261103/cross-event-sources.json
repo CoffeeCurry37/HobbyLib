@@ -1,0 +1,86 @@
+[
+  {
+    "itemId": "source-66a622dc9f419495567cb3e5e74fd0a1",
+    "groupId": "series-a0bc29abee8a5b12",
+    "sku": "itemPTVfRKzA90",
+    "officialVariant": "ポートレイトコレクション Fes.2023描き下ろしサーヴァントB（復刻）＜単品・ランダム封入＞/ Fate/Grand Order",
+    "officialProduct": "【復刻】ポートレイトコレクション Fes.2023描き下ろしサーヴァントB",
+    "catalogueGroups": [
+      "series-4e69239e873928ae",
+      "series-66b7d6045e7f79e6"
+    ],
+    "source": "https://online.aniplex.co.jp/itemPTVfRKzA90.html",
+    "sourceSha256": "7e632b075a8d5721272eed3f5c12beff4c7cc38c569872458812f0bffc2691bb",
+    "reissueMentioned": true
+  },
+  {
+    "itemId": "source-7c59350f4722edae3581bb51db0169b9",
+    "groupId": "series-a0bc29abee8a5b12",
+    "sku": "itemPTVfRKzA89",
+    "officialVariant": "ポートレイトコレクション Fes.2023描き下ろしサーヴァントA（復刻）＜単品・ランダム封入＞/ Fate/Grand Order",
+    "officialProduct": "【復刻】ポートレイトコレクション Fes.2023描き下ろしサーヴァントA",
+    "catalogueGroups": [
+      "series-4e69239e873928ae",
+      "series-66b7d6045e7f79e6"
+    ],
+    "source": "https://online.aniplex.co.jp/itemPTVfRKzA89.html",
+    "sourceSha256": "d74c6d9e4b8a37f67459a611309e2c327c84f3b8a9c9d306910fb28e358e044a",
+    "reissueMentioned": true
+  },
+  {
+    "itemId": "source-3b337cd9e7596117616f7e7208154403",
+    "groupId": "series-f1f5c27bf9a05162",
+    "sku": "itemPTVfRKzA91",
+    "officialVariant": "ポートレイトコレクション Fes.2024描き下ろしサーヴァントA（復刻）＜単品・ランダム封入＞/ Fate/Grand Order",
+    "officialProduct": "【復刻】ポートレイトコレクション Fes.2024描き下ろしサーヴァントA",
+    "catalogueGroups": [
+      "series-4e69239e873928ae",
+      "series-66b7d6045e7f79e6"
+    ],
+    "source": "https://online.aniplex.co.jp/itemPTVfRKzA91.html",
+    "sourceSha256": "a368ce0ba31bf324bad20545806c627c64e8e6b2e3ff7553bacfc634bdcd3b5d",
+    "reissueMentioned": true
+  },
+  {
+    "itemId": "source-e9ce262b9c30f2b02929437a8c1533fa",
+    "groupId": "series-f1f5c27bf9a05162",
+    "sku": "itemPTVfRKzA92",
+    "officialVariant": "ポートレイトコレクション Fes.2024描き下ろしサーヴァントB（復刻）＜単品・ランダム封入＞/ Fate/Grand Order",
+    "officialProduct": "【復刻】ポートレイトコレクション Fes.2024描き下ろしサーヴァントB",
+    "catalogueGroups": [
+      "series-4e69239e873928ae",
+      "series-66b7d6045e7f79e6"
+    ],
+    "source": "https://online.aniplex.co.jp/itemPTVfRKzA92.html",
+    "sourceSha256": "8efdd462ddc8282b9f5d9274952df084245d79c1785df9719179b707df4b7466",
+    "reissueMentioned": true
+  },
+  {
+    "itemId": "source-a093d98cffae7efc961baec751840bd4",
+    "groupId": "series-f2adf3ee848e356e",
+    "sku": "itemPTVfRKzA87",
+    "officialVariant": "ポートレイトコレクション Fes.2022描き下ろしサーヴァントA＜単品・ランダム封入＞/ Fate/Grand Order",
+    "officialProduct": "【復刻】ポートレイトコレクション Fes.2022描き下ろしサーヴァントA",
+    "catalogueGroups": [
+      "series-4e69239e873928ae",
+      "series-66b7d6045e7f79e6"
+    ],
+    "source": "https://online.aniplex.co.jp/itemPTVfRKzA87.html",
+    "sourceSha256": "1ea5f2ec991a6c8f16b0cc3ac1ebe9e8cf28280be27ceb66874a20038bf93c34",
+    "reissueMentioned": true
+  },
+  {
+    "itemId": "source-c10f41dd1b7ea012e3f92fd0503f162c",
+    "groupId": "series-f2adf3ee848e356e",
+    "sku": "itemPTVfRKzA88",
+    "officialVariant": "ポートレイトコレクション Fes.2022描き下ろしサーヴァントB＜単品・ランダム封入＞/ Fate/Grand Order",
+    "officialProduct": "【復刻】ポートレイトコレクション Fes.2022描き下ろしサーヴァントB",
+    "catalogueGroups": [
+      "series-4e69239e873928ae",
+      "series-66b7d6045e7f79e6"
+    ],
+    "source": "https://online.aniplex.co.jp/itemPTVfRKzA88.html",
+    "sourceSha256": "43dbb34ea1b1a3ba9b9cc42495141bd1cb51b1f77931b0703a655a735d40e807",
+    "reissueMentioned": true
+  }
+]

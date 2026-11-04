@@ -1,6 +1,6 @@
 import fs from 'node:fs';import assert from 'node:assert/strict';import crypto from 'node:crypto';
 import {loadRadar} from './load-radar.mjs';import {supplement,proposedSummary} from './series-evidence-enrichment.mjs';
-const dir='research/series-evidence-20261103',priv='work/series-evidence-20261103';
+import {output as dir, work as priv, privateRoot, historical} from './series-evidence-paths.mjs';
 const stable=v=>JSON.stringify(v,(_,x)=>x&&typeof x==='object'&&!Array.isArray(x)?Object.fromEntries(Object.keys(x).sort().map(k=>[k,x[k]])):x),hash=v=>crypto.createHash('sha256').update(stable(v)).digest('hex');
 const s=JSON.parse(fs.readFileSync('work/v6/production-after.json')),changes=JSON.parse(fs.readFileSync(priv+'/proposed-changes.json')),originals=new Map(s.items.map(i=>[i.id,i])),batches=[];
 for(let n=0;n<changes.length;n+=20)batches.push({action:'catalogue-curation',changes:changes.slice(n,n+20).map(({item,expectedVersion})=>({item,expectedVersion})),relations:[]});
@@ -15,7 +15,13 @@ try{
  const first=changes[0],protectedItem={...originals.get(first.item.id),locked:true};assert.equal(supplement(protectedItem,first.match,new Date().toISOString()).skip,'protected-target');
  assert.equal(supplement({...originals.get(first.item.id),summary:'user wording'},first.match,new Date().toISOString()).skip,'existing-summary-preserved');
  assert.equal(supplement({...originals.get(first.item.id),title:'another identity'},first.match,new Date().toISOString()).skip,'target-title-changed');
- const carabiner=changes.find(c=>/カラビナ\(カルデア\)/.test(c.item.title));assert.ok(carabiner&&!/フォウ|80×65/.test(carabiner.item.summary),'Do not copy another variant size');
+ if (historical) {
+  const receipts = fs.readFileSync(privateRoot + '/apply-receipts.jsonl', 'utf8').trim().split('\n').map(JSON.parse);
+  const applied = new Set(receipts.filter(r => r.status === 'verified').flatMap(r => r.ids));
+  for (const change of changes) assert.ok(!applied.has(change.item.id), 'Prior round already applied');
+ }
+ const priorChanges = historical ? JSON.parse(fs.readFileSync(privateRoot + '/proposed-changes.json')) : changes;
+ const carabiner=priorChanges.find(c=>/カラビナ\(カルデア\)/.test(c.item.title));assert.ok(carabiner&&!/フォウ|80×65/.test(carabiner.item.summary),'Do not copy another variant size');
  for(const batch of batches){const response=await api(batch),v=await response.json();assert.equal(response.status,200,JSON.stringify(v));assert.ok(v.ok&&!v.busy);completed++;if(completed%25===0)console.log(JSON.stringify({simulated:completed,total:batches.length}));}
  const after=db.raw.prepare('SELECT data FROM items').all().map(x=>JSON.parse(x.data)),afterById=new Map(after.map(i=>[i.id,i])),changedIds=new Set(changes.map(c=>c.item.id));
  for(const old of s.items){const now=afterById.get(old.id);assert.ok(now);if(!changedIds.has(old.id)){assert.deepEqual(now,old);continue;}const expected=changes.find(c=>c.item.id===old.id).item;assert.deepEqual(now,expected);for(const key of new Set([...Object.keys(old),...Object.keys(now)]))if(!['summary','evidence'].includes(key))assert.deepEqual(now[key],old[key],old.id+':'+key);assert.deepEqual(now.evidence.slice(0,old.evidence.length),old.evidence);assert.ok(!old.editorial&&!old.locked);}
@@ -24,4 +30,3 @@ try{
  const report={at:new Date().toISOString(),passed:true,mode:'isolated-API-copy',batches:completed,changes:changes.length,activeBefore:s.items.length,activeAfter:after.length,relationsPreserved:links.length,allOtherFieldsAndOffersPreserved:true,priorEvidencePreserved:true,acceptedEditorialPreserved:s.items.filter(i=>i.editorial).length,staleVersionRejected:true,personalMutationRejected:true,existingSummaryPreserved:true,unrelatedVariantSizeOmitted:true,fullProductVerified:0,productionApplied:0,planSha256:hash(changes.map(c=>({id:c.item.id,summary:c.item.summary,evidence:c.item.evidence.slice(-2)})))};
  fs.writeFileSync(dir+'/simulation.json',JSON.stringify(report,null,2)+'\n');fs.writeFileSync(priv+'/batches.json',JSON.stringify(batches));console.log(JSON.stringify(report));
 }finally{db.close();r.close();}
-
