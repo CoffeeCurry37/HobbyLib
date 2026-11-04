@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "batches": 1,
+  "changes": 1,
+  "planSha256": "4d8b5ee51d921cdc5bb1a53209630e223722d4b6d58f8b830de881635c8d9ee2",
+  "mode": "fresh-merged-survivor-and-archive-isolated-API",
+  "archiveUnchanged": true,
+  "existingFieldsAndOffersPreserved": true,
+  "staleVersionRejected": true
+}
