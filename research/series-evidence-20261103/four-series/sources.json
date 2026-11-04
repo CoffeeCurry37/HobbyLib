@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "groupId": "series-2d2173a124bfeebc",
+      "label": "Fate/Grand Order 简体字版10周年",
+      "snapshotItems": 72,
+      "officialSource": "https://online.aniplex.co.jp/YpgKjCUM",
+      "nextCheck": "日方官方进口销售目录，分别查角色、服装尺码及原发行信息"
+    },
+    {
+      "groupId": "series-e534683eefd735ca",
+      "label": "AnimeJapan 2023",
+      "snapshotItems": 63,
+      "officialSource": "https://online.aniplex.co.jp/animejapan2023",
+      "nextCheck": "综合活动目录，只纳入有作品与规格证据的记录"
+    },
+    {
+      "groupId": "series-bac691e8c18935ba",
+      "label": "一番くじ セレブサマーエクスペリエンス＆アーキタイプインセプション",
+      "snapshotItems": 63,
+      "officialSource": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002264&pid=sap_0000008342&shop=0",
+      "nextCheck": "按奖级、角色、款式和商品种类逐一对应"
+    },
+    {
+      "groupId": "series-f1bc334364dac7c1",
+      "label": "一番くじ 帰ってきた！サーヴァント・サマー・フェスティバル！！",
+      "snapshotItems": 53,
+      "officialSource": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002264&pid=sap_0000001440&shop=0",
+      "nextCheck": "按奖级、角色及套装范围对应"
+    }
+  ]
+}

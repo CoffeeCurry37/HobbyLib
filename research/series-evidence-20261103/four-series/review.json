@@ -1,0 +1,15 @@
+{
+  "at": "2026-11-04T12:21:46.956Z",
+  "reviewed": 251,
+  "ready": 232,
+  "pending": 19,
+  "protected": 0,
+  "priorRoundOverlap": 0,
+  "completeSeries": 0,
+  "fullProductVerified": 0,
+  "sourcesVerified": 32,
+  "changedFields": [
+    "summary",
+    "evidence"
+  ]
+}

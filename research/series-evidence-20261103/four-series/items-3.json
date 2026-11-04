@@ -1,0 +1,1247 @@
+{
+  "series": "一番くじ Fate/Grand Order ～帰ってきた！サーヴァント・サマー・フェスティバル！！～",
+  "source": {
+    "url": "https://1kuji.com/products/fate27",
+    "at": "2026-11-01T01:50:00.080Z",
+    "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+  },
+  "counts": {
+    "official-single": 9,
+    "campaign-index": 1,
+    "award-index": 8,
+    "award-index-with-retail-set": 3,
+    "official-award-retailer-member": 31,
+    "award-confirmed-member-or-edition-needs-separate-proof": 1
+  },
+  "rows": [
+    {
+      "itemId": "093e23cb-f4e8-4d54-9e1a-566f0cd5ff13",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order 帰ってきた!サーヴァント・サマー・フェスティバル!! A賞 バーサーカー/アルトリア・キャスター フィギュア",
+      "award": "A賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "バーサーカー/アルトリア・キャスター フィギュア",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "バーサーカー/アルトリア・キャスター フィギュア",
+      "member": "バーサーカー/アルトリア・キャスター フィギュア",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为A賞「バーサーカー/アルトリア・キャスター フィギュア」。本奖级共 1 款。官网标注的尺寸为「約18cm」。"
+    },
+    {
+      "itemId": "be91f1a6-1d18-4b5d-9139-b3d28e61bb99",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order 帰ってきた!サーヴァント・サマー・フェスティバル!! B賞 ルーラー/メリュジーヌ フィギュア",
+      "award": "B賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ルーラー/メリュジーヌ フィギュア",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ルーラー/メリュジーヌ フィギュア",
+      "member": "ルーラー/メリュジーヌ フィギュア",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为B賞「ルーラー/メリュジーヌ フィギュア」。本奖级共 1 款。官网标注的尺寸为「約9.5cm」。"
+    },
+    {
+      "itemId": "family-89afbcdbefcc42fd99578e8ddc5d72b2",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ～帰ってきた！サーヴァント・サマー・フェスティバル！！～",
+      "status": "supported",
+      "scope": "campaign-index",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "officialTitle": "一番くじ Fate/Grand Order ～帰ってきた！サーヴァント・サマー・フェスティバル！！～",
+      "proof": "official-campaign-index",
+      "summary": "本记录汇集「一番くじ Fate/Grand Order ～帰ってきた！サーヴァント・サマー・フェスティバル！！～」的官方奖项，普通奖和最后一抽奖分别列出。"
+    },
+    {
+      "itemId": "kuji-group-fate27-A",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ A賞 バーサーカー/アルトリア・キャスター フィギュア 赏级档案",
+      "award": "A賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "バーサーカー/アルトリア・キャスター フィギュア",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "バーサーカー/アルトリア・キャスター フィギュア",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「A賞 バーサーカー/アルトリア・キャスター フィギュア」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約18cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate27-B",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ B賞 ルーラー/メリュジーヌ フィギュア 赏级档案",
+      "award": "B賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ルーラー/メリュジーヌ フィギュア",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ルーラー/メリュジーヌ フィギュア",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「B賞 ルーラー/メリュジーヌ フィギュア」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約9.5cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate27-C",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ C賞 ちょこのっこぬいぐるみ アルトリア・キャスター 赏级档案",
+      "award": "C賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこぬいぐるみ アルトリア・キャスター",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ちょこのっこぬいぐるみ アルトリア・キャスター",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「C賞 ちょこのっこぬいぐるみ アルトリア・キャスター」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約14cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate27-D",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ D賞 ちょこのっこぬいぐるみ 水妃モルガン 赏级档案",
+      "award": "D賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこぬいぐるみ 水妃モルガン",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ちょこのっこぬいぐるみ 水妃モルガン",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「D賞 ちょこのっこぬいぐるみ 水妃モルガン」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約14cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate27-E",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ E賞 ちょこのっこぬいぐるみ オベロン(爽やかサマー・プリンス) 赏级档案",
+      "award": "E賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこぬいぐるみ オベロン（爽やかサマー・プリンス）",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ちょこのっこぬいぐるみ オベロン（爽やかサマー・プリンス）",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「E賞 ちょこのっこぬいぐるみ オベロン（爽やかサマー・プリンス）」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約14cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate27-F",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ F賞 ちょこのっこぬいぐるみ オベロン(不機嫌サマー・オベロン) 赏级档案",
+      "award": "F賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこぬいぐるみ オベロン（不機嫌サマー・オベロン）",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ちょこのっこぬいぐるみ オベロン（不機嫌サマー・オベロン）",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「F賞 ちょこのっこぬいぐるみ オベロン（不機嫌サマー・オベロン）」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約14cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate27-G",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ G賞 ステッカーセット 赏级档案",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ステッカーセット",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ステッカーセット",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「G賞 ステッカーセット」的奖级档案。官方每份为七张贴纸组合。官网标注的尺寸为「約5.5cm」。"
+    },
+    {
+      "itemId": "kuji-group-fate27-H",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ H賞 ちょこのっこ アクリッツスタンド 全10種セット",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "award-index-with-retail-set",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index-with-retail-set",
+      "summary": "本档汇总H賞「ちょこのっこ アクリッツスタンド」的 10 款。万代按奖级公布这 10 款，骏河屋另列了全款组合的内容。",
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "零售组合共 10 款"
+      }
+    },
+    {
+      "itemId": "kuji-group-fate27-I",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ I賞 イラストボードスタンド 全9種セット",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "award-index-with-retail-set",
+      "officialTitle": "イラストボードスタンド",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index-with-retail-set",
+      "summary": "本档汇总I賞「イラストボードスタンド」的 9 款。万代按奖级公布这 9 款，骏河屋另列了全款组合的内容。",
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "零售组合共 9 款"
+      }
+    },
+    {
+      "itemId": "kuji-group-fate27-J",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ J賞 ラバーチャーム 全12種セット",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "award-index-with-retail-set",
+      "officialTitle": "ラバーチャーム",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index-with-retail-set",
+      "summary": "本档汇总J賞「ラバーチャーム」的 12 款。万代按奖级公布这 12 款，骏河屋另列了全款组合的内容。",
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "零售组合共 12 款"
+      }
+    },
+    {
+      "itemId": "kuji-group-fate27-lastone",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ ラストワン賞 ルーラー/メリュジーヌ フィギュア ラストワンver. 赏级档案",
+      "award": "ラストワン賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ルーラー/メリュジーヌ フィギュア ラストワンver.",
+      "status": "supported",
+      "scope": "award-index",
+      "officialTitle": "ルーラー/メリュジーヌ フィギュア ラストワンver.",
+      "member": null,
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "award-index",
+      "summary": "本记录为「ラストワン賞 ルーラー/メリュジーヌ フィギュア ラストワンver.」的奖级档案。本奖级共 1 款。官网标注的尺寸为「約9.5cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate27-C-1",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "アルトリア・キャスター ちょこのっこぬいぐるみ 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 C賞",
+      "award": "C賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこぬいぐるみ アルトリア・キャスター",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ちょこのっこぬいぐるみ アルトリア・キャスター",
+      "member": "ちょこのっこぬいぐるみ アルトリア・キャスター",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为C賞「ちょこのっこぬいぐるみ アルトリア・キャスター」。本奖级共 1 款。官网标注的尺寸为「約14cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate27-D-1",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "水妃モルガン ちょこのっこぬいぐるみ 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 D賞",
+      "award": "D賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこぬいぐるみ 水妃モルガン",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ちょこのっこぬいぐるみ 水妃モルガン",
+      "member": "ちょこのっこぬいぐるみ 水妃モルガン",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为D賞「ちょこのっこぬいぐるみ 水妃モルガン」。本奖级共 1 款。官网标注的尺寸为「約14cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate27-E-1",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "オベロン(爽やかサマー・プリンス) ちょこのっこぬいぐるみ 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 E賞",
+      "award": "E賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこぬいぐるみ オベロン（爽やかサマー・プリンス）",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ちょこのっこぬいぐるみ オベロン（爽やかサマー・プリンス）",
+      "member": "ちょこのっこぬいぐるみ オベロン（爽やかサマー・プリンス）",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为E賞「ちょこのっこぬいぐるみ オベロン（爽やかサマー・プリンス）」。本奖级共 1 款。官网标注的尺寸为「約14cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate27-F-1",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "オベロン(不機嫌サマー・オベロン) ちょこのっこぬいぐるみ 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 F賞",
+      "award": "F賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこぬいぐるみ オベロン（不機嫌サマー・オベロン）",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ちょこのっこぬいぐるみ オベロン（不機嫌サマー・オベロン）",
+      "member": "ちょこのっこぬいぐるみ オベロン（不機嫌サマー・オベロン）",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为F賞「ちょこのっこぬいぐるみ オベロン（不機嫌サマー・オベロン）」。本奖级共 1 款。官网标注的尺寸为「約14cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate27-G-1",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "ステッカーセット(7枚組) 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 G賞",
+      "award": "G賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ステッカーセット",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ステッカーセット",
+      "member": "ステッカーセット",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为G賞「ステッカーセット」。官方每份为七张贴纸组合。官网标注的尺寸为「約5.5cm」。"
+    },
+    {
+      "itemId": "kuji-member-fate27-lastone-1",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "【中古】(本体B/箱B)一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~ ラストワン賞 ルーラー/メリュジーヌ フィギュア ラストワンver. (プライズ)[BANDAI SPIRITS]《発売済・在庫品》",
+      "award": "ラストワン賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ルーラー/メリュジーヌ フィギュア ラストワンver.",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ルーラー/メリュジーヌ フィギュア ラストワンver.",
+      "member": "ルーラー/メリュジーヌ フィギュア ラストワンver.",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为ラストワン賞「ルーラー/メリュジーヌ フィギュア ラストワンver.」。本奖级共 1 款。官网标注的尺寸为「約9.5cm」。"
+    },
+    {
+      "itemId": "source-01c8344d78a01bd22676e15279160d15",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "キャスター/水妃モルガン ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "キャスター/水妃モルガン",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "キャスター/水妃モルガン"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「キャスター/水妃モルガン」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-020002b80adb42a3e8e1a2fd69000078",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "アーチャー/UDK-バーゲスト ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "アーチャー/UDK－バーゲスト",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "アーチャー/UDK－バーゲスト"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「アーチャー/UDK－バーゲスト」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-078a7d70484587d5dc1a8f2cd40fdc99",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "バーサーカー/アルトリア・キャスター ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "バーサーカー/アルトリア・キャスター",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "バーサーカー/アルトリア・キャスター"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「バーサーカー/アルトリア・キャスター」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-137a446e5d031978994e538721f70cba",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "エゴ/蘆屋道満 ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "アルターエゴ/蘆屋道満",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "アルターエゴ/蘆屋道満"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「アルターエゴ/蘆屋道満」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-1844d1e666d6cf09a7165757f290739b",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "バーサーカー/アルトリア・キャスター(第二再臨) ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "バーサーカー/アルトリア・キャスター(第二再臨)",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "バーサーカー/アルトリア・キャスター(第二再臨)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「バーサーカー/アルトリア・キャスター(第二再臨)」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-1961ff854e7c367e1c2479075660b3d0",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "プリテンダー/バーヴァン・シー イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "プリテンダー/バーヴァン・シー",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "プリテンダー/バーヴァン・シー"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「プリテンダー/バーヴァン・シー」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    },
+    {
+      "itemId": "source-1ec989c8172b7b4682febb5c034fa922",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "藤丸立香(男) ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "藤丸立香(男)",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "藤丸立香(男)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「藤丸立香(男)」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-2a9ee59b777dcd97409632f9807afdcf",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "【中古】キーホルダー アルターエゴ/蘆屋道満 ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "アルターエゴ/蘆屋道満",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "アルターエゴ/蘆屋道満"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「アルターエゴ/蘆屋道満」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-35c119b90e0101e4ca8289c0ff3bc491",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "ルーラー/メリュジーヌ イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "ルーラー/メリュジーヌ",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "ルーラー/メリュジーヌ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ルーラー/メリュジーヌ」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    },
+    {
+      "itemId": "source-3ebd409935b929586db6f04289d8fca5",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "ライダー/鈴鹿御前 ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "ライダー/鈴鹿御前",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "ライダー/鈴鹿御前"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ライダー/鈴鹿御前」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-3fde9945e85e893d4ab869cf849f747f",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "アーチャー/UDK-バーゲスト イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "アーチャー/UDK　バーゲスト",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "アーチャー/UDK　バーゲスト"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「アーチャー/UDK　バーゲスト」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    },
+    {
+      "itemId": "source-458fe4e8f2119c0f43c60333eab93cd4",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "フォーリナー/ノクナレア・ヤラアーンドゥ ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "フォーリナー/ノクナレア・ヤラアーンドゥ",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "フォーリナー/ノクナレア・ヤラアーンドゥ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「フォーリナー/ノクナレア・ヤラアーンドゥ」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-54766819223c5c9c598d932334b26c36",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "フォーリナー/ノクナレア・ヤラアーンドゥ イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "フォーリナー/ノクナレア・ヤラアーンドゥ",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "フォーリナー/ノクナレア・ヤラアーンドゥ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「フォーリナー/ノクナレア・ヤラアーンドゥ」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    },
+    {
+      "itemId": "source-5fa239eba98ff4071c83b53443275938",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "フォーリナー/ノクナレア・ヤラアーンドゥ ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "フォーリナー/ノクナレア・ヤラアーンドゥ",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "フォーリナー/ノクナレア・ヤラアーンドゥ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「フォーリナー/ノクナレア・ヤラアーンドゥ」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-6143e352302e634ed4453162d39a2ace",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "キャスター/水妃モルガン イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "キャスター/水妃モルガン",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "キャスター/水妃モルガン"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「キャスター/水妃モルガン」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    },
+    {
+      "itemId": "source-69810f2d06f78e2f7cc8f85c54c9b326",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "ルーラー/メリュジーヌ ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "ルーラー/メリュジーヌ",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "ルーラー/メリュジーヌ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ルーラー/メリュジーヌ」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-6ee8504b51d4ceefadec08ddcdf24d2d",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "藤丸立香(女) ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "藤丸立香(女)",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "藤丸立香(女)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「藤丸立香(女)」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-7aa8d2f04b01a2d9842b449349abd705",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "オベロン(爽やかサマー・プリンス) イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "オベロン(爽やかサマー・プリンス)",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "オベロン(爽やかサマー・プリンス)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「オベロン(爽やかサマー・プリンス)」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    },
+    {
+      "itemId": "source-8bf79cf19238b1aac56a5555c6175bc8",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "バーサーカー/アルトリア・キャスター イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "バーサーカー/アルトリア・キャスター",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "バーサーカー/アルトリア・キャスター"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「バーサーカー/アルトリア・キャスター」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    },
+    {
+      "itemId": "source-9380fa7fa3ca6414a6c7840e97b6f545",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "鈴鹿御前&クロエ・フォン・アインツベルン イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "鈴鹿御前＆クロエ・フォン・アインツベルン",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "鈴鹿御前＆クロエ・フォン・アインツベルン"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「鈴鹿御前＆クロエ・フォン・アインツベルン」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    },
+    {
+      "itemId": "source-99279e1bc2b90a9786a2eaf89566dffa",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "ルーラー/スカサハ=スカディ ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "ルーラー/スカサハ=スカディ",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "ルーラー/スカサハ=スカディ"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ルーラー/スカサハ=スカディ」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-a8287d81c54a8083a3909bd24d135deb",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "キャスター/アスクレピオス ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "キャスター/アスクレピオス",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "キャスター/アスクレピオス"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「キャスター/アスクレピオス」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-a9321460fcc0b63019ccf06693abe43f",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "プリテンダー/レディ・アヴァロン ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "プリテンダー/レディ・アヴァロン",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "プリテンダー/レディ・アヴァロン"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「プリテンダー/レディ・アヴァロン」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-ac856ef61d08238da76b9f1f65975052",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "ルーラー/メリュジーヌ ラストワンver. 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 ラストワン賞 フィギュア",
+      "award": "ラストワン賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ルーラー/メリュジーヌ フィギュア ラストワンver.",
+      "status": "supported",
+      "scope": "official-single",
+      "officialTitle": "ルーラー/メリュジーヌ フィギュア ラストワンver.",
+      "member": "ルーラー/メリュジーヌ フィギュア ラストワンver.",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "proof": "official-single",
+      "summary": "本件为ラストワン賞「ルーラー/メリュジーヌ フィギュア ラストワンver.」。本奖级共 1 款。官网标注的尺寸为「約9.5cm」。"
+    },
+    {
+      "itemId": "source-c30c4af0b2f6db8677f834cc24ff58cf",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "キャスター/水妃モルガン ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "キャスター/水妃モルガン",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "キャスター/水妃モルガン"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「キャスター/水妃モルガン」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-cb313604c24ea1cd893760c63b524a38",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "バーサーカー/アルトリア・キャスター(第一再臨) ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "バーサーカー/アルトリア・キャスター(第一再臨)",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "バーサーカー/アルトリア・キャスター(第一再臨)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「バーサーカー/アルトリア・キャスター(第一再臨)」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-cd61fd2fb2e9dfb96322e39f9cda7a1c",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "プリテンダー/ケット・クー・ミコケル ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "プリテンダー/ケット・クー・ミコケル",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "プリテンダー/ケット・クー・ミコケル"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「プリテンダー/ケット・クー・ミコケル」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-d956c632c209aa05fefece9af65ce658",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "バーサーカー/伊吹童子 ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "バーサーカー/伊吹童子",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "バーサーカー/伊吹童子"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「バーサーカー/伊吹童子」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-dcb72e31aa1a077dca07be1419b4ee17",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "プリテンダー/オベロン(爽やかサマー・プリンス) ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ちょこのっこ アクリッツスタンド",
+      "member": "プリテンダー/オベロン(爽やかサマー・プリンス)",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://jp.mercari.com/shops/product/AismDL9kVBRSR49vFMjjaG",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "e0b5aee34a1ff68c4500c33d7b6068d0ca501bb64b1cf4dde024aba60fc62bc0",
+        "member": "プリテンダー/オベロン(爽やかサマー・プリンス)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「プリテンダー/オベロン(爽やかサマー・プリンス)」是H賞「ちょこのっこ アクリッツスタンド」中的一款。本奖级共 10 款。官网标注的尺寸为「約4cm」。"
+    },
+    {
+      "itemId": "source-e9bcde956cd88b7aeda105a7e24b0f53",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "アヴェンジャー/クロエ・フォン・アインツベルン ちょこのっこ アクリッツスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 H賞",
+      "award": "H賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ちょこのっこ アクリッツスタンド",
+      "status": "pending",
+      "reason": "award-confirmed-member-or-edition-needs-separate-proof"
+    },
+    {
+      "itemId": "source-f0449e76d59d4df2d86818ee6e90d5a1",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "オベロン(爽やかサマー・プリンス) ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "オベロン(爽やかサマー・プリンス)",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "オベロン(爽やかサマー・プリンス)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「オベロン(爽やかサマー・プリンス)」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-f31633ffe7f2f264180d5f73721b2c5b",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "オベロン(不機嫌サマー・オベロン) ラバーチャーム きゅんキャラいらすとれーしょんず 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 J賞",
+      "award": "J賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "ラバーチャーム",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "ラバーチャーム",
+      "member": "オベロン(不機嫌サマー・オベロン)",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/product/detail/561019231",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "716215c25f74f6b0614132ce1b410ade4ec8dab2bbae7ba4e826af655d1280e7",
+        "member": "オベロン(不機嫌サマー・オベロン)"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「オベロン(不機嫌サマー・オベロン)」是J賞「ラバーチャーム」中的一款。本奖级共 12 款。官网标注的尺寸为「約6cm」。"
+    },
+    {
+      "itemId": "source-f382f2eb9cfb549338d8a0e1906d95f8",
+      "groupId": "series-f1bc334364dac7c1",
+      "title": "ガウェイン&トリスタン&ランスロット イラストボードスタンド 「一番くじ Fate/Grand Order ~帰ってきた!サーヴァント・サマー・フェスティバル!!~」 I賞",
+      "award": "I賞",
+      "awardSource": "https://1kuji.com/products/fate27",
+      "officialAwardTitle": "イラストボードスタンド",
+      "status": "supported",
+      "scope": "official-award-retailer-member",
+      "officialTitle": "イラストボードスタンド",
+      "member": "ガウェイン＆トリスタン＆ランスロット",
+      "source": {
+        "url": "https://1kuji.com/products/fate27",
+        "at": "2026-11-01T01:50:00.080Z",
+        "sha256": "bbcb17142a4d5be6665d9d3a885d58174cb4facbf2b7cef42fbac5ddbcfe7427"
+      },
+      "secondary": {
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561019218",
+        "at": "2026-11-04 02:19:17 UTC",
+        "role": "retailer-set-contents-not-manufacturer-identification",
+        "factSha256": "5e95492f99d96aa25c81875c52cf9ceaffe03eae4347997d06ec4f1a100c4a43",
+        "member": "ガウェイン＆トリスタン＆ランスロット"
+      },
+      "proof": "official-award-retailer-member",
+      "summary": "「ガウェイン＆トリスタン＆ランスロット」是I賞「イラストボードスタンド」中的一款。本奖级共 9 款。官网标注的尺寸为「約15cm」。"
+    }
+  ]
+}

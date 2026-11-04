@@ -7,7 +7,7 @@ export const parent = 'work/series-evidence-20261103';
 export const read = path => JSON.parse(fs.readFileSync(path, 'utf8'));
 export const write = (path, data) => fs.writeFileSync(path, JSON.stringify(data, null, 2) + '\n');
 export const hash = input => createHash('sha256').update(input).digest('hex');
-export const sources = read('research/series-evidence-20261103/next-official-sources.json').sources.slice(0,4);
+export const sources = read(pub + '/sources.json').sources;
 export const targetRows = () => read(parent + '/targets-projection.json');
 export function cached(url) {
   const name = parent + '/cache/' + hash(url);

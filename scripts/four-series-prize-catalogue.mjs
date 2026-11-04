@@ -11,6 +11,10 @@ for(const section of body.split('<div class="itemColList">').slice(1)){
  if(!prize)continue;
  const data=section.match(/<ul class="data">([\s\S]*?)<\/ul>/)?.[1]||'';
  const specifications=[...data.matchAll(/<li>([\s\S]*?)<\/li>/g)].map(m=>clean(m[1].replace(/<[^>]+>/g,'')));
+ if(!specifications.length){
+  const description=section.match(/<p class="detail">([\s\S]*?)<\/p>/)?.[1]||'';
+  specifications.push(...description.split(/<br\s*\/?\s*>/i).map(x=>clean(x.replace(/<[^>]+>/g,''))).filter(x=>/^■(?:全|サイズ)/.test(x)));
+ }
  const count=Number(specifications.join('').match(/全(\d+)種/)?.[1]) || (prize.award==='ラストワン賞'?1:null);
  assert.equal(count,prize.count);
  const images=[...new Set([...section.matchAll(/<a data-fancybox="" href="(https:\/\/assets\.1kuji\.com\/uploads\/product_item(?:_sub_image)?\/[^"]+)"/g)].map(m=>m[1]))];
