@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-05T07:23:10.624Z",
+  "at": "2026-11-05T16:02:08.946Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 47,
-  "seriesAwaitingItemReview": 1801,
+  "seriesWithItemReview": 49,
+  "seriesAwaitingItemReview": 1799,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6513,
-  "productionApplied": 4763,
+  "coveredSnapshotItems": 6561,
+  "productionApplied": 4805,
   "protectedExisting": 3,
-  "pendingEvidence": 1746,
+  "pendingEvidence": 1752,
   "freshVersionSkips": 1,
   "lastLiveCounts": {
     "main": 15790,
@@ -489,7 +489,27 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-f9bdeb076f26b3db",
+      "label": "Fate/Grand Order チケットライクコレクション",
+      "snapshotItems": 24,
+      "productionApplied": 22,
+      "pendingEvidence": 2,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-b588c56ae22b3618",
+      "label": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "snapshotItems": 24,
+      "productionApplied": 20,
+      "pendingEvidence": 4,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261105/aj26-ky22/next-sources.json"
+  "nextSourceFile": "../series-evidence-20261105/cards/next-sources.json"
 }

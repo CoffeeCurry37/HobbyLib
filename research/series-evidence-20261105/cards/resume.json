@@ -1,28 +1,232 @@
 {
-  "stage": "prepared-validated-no-production-write",
-  "at": "2026-11-05T15:53:03Z",
-  "candidates": 48,
-  "prepared": 42,
-  "pendingEvidence": 6,
-  "productionApplied": 0,
-  "simulation": "simulation.json",
+  "at": "2026-11-05T16:02:08.946Z",
+  "stage": "applied-read-back-and-closed",
   "groups": [
     {
-      "key": "ticket",
-      "candidates": 24,
-      "prepared": 22,
-      "pending": 2
+      "groupId": "series-f9bdeb076f26b3db",
+      "label": "Fate/Grand Order チケットライクコレクション",
+      "snapshotItems": 24,
+      "productionApplied": 22,
+      "pendingEvidence": 2,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     },
     {
-      "key": "sticker",
-      "candidates": 24,
-      "prepared": 20,
-      "pending": 4
+      "groupId": "series-b588c56ae22b3618",
+      "label": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "snapshotItems": 24,
+      "productionApplied": 20,
+      "pendingEvidence": 4,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "candidates": 48,
+  "productionApplied": 42,
+  "batches": 3,
+  "pendingEvidence": 6,
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
+  "unresolved": [
+    {
+      "itemId": "source-1878e0dfe3bc584a69275fba4656313f",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "【シークレット01】 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791829",
+        "code": "892791829",
+        "retainedTitle": "【シークレット01】 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.745Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791829"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "官方款式图仅有两个隐藏占位；匿名零售编号尚不能绑定具体图案。",
+      "sourcesChecked": [
+        "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_1.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_2.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "https://www.suruga-ya.jp/product/detail/892791829"
+      ]
+    },
+    {
+      "itemId": "source-3270ce9e586a2b1886bee7b2e9783e07",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "【シークレット02】 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791830",
+        "code": "892791830",
+        "retainedTitle": "【シークレット02】 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.743Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791830"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "官方款式图仅有两个隐藏占位；匿名零售编号尚不能绑定具体图案。",
+      "sourcesChecked": [
+        "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_1.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_2.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "https://www.suruga-ya.jp/product/detail/892791830"
+      ]
+    },
+    {
+      "itemId": "1aece5cd-7037-4087-89f1-61bf2e878b51",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "【パック】Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278795",
+        "code": "859278795",
+        "retainedTitle": "【パック】Fate/Grand Order モバイルステッカーコレクション Vol.2",
+        "knownAt": "2026-10-04T21:16:16.803Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278795"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "已确认官方一枚装和两枚装同款式，但当前零售编号无可读取的独立JAN或包装数量证据；不能选择任一规格。",
+      "sourcesChecked": [
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993466000",
+        "https://www.suruga-ya.jp/product/detail/859278795",
+        "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04812265"
+      ]
+    },
+    {
+      "itemId": "6aac2ce4-68a0-4a40-8536-0dc391d483d0",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "【ボックス】Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859902218",
+        "code": "859902218",
+        "retainedTitle": "【ボックス】Fate/Grand Order モバイルステッカーコレクション Vol.2",
+        "knownAt": "2026-10-04T21:16:16.803Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859902218"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "已确认官方一枚装和两枚装同款式，但当前零售编号无可读取的独立JAN或包装数量证据；不能选择任一规格。",
+      "sourcesChecked": [
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993466000",
+        "https://www.suruga-ya.jp/product/detail/859902218",
+        "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04812265"
+      ]
+    },
+    {
+      "itemId": "source-9ceed8989e0e7ab30da417829c308992",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "【シークレット1】 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278816",
+        "code": "859278816",
+        "retainedTitle": "【シークレット1】 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.857Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278816"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "官方第6图展示两款台词图案，但没有与零售シークレット1/2编号的可靠对应。",
+      "sourcesChecked": [
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_1.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_2.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_4.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_5.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_6.jpg",
+        "https://www.suruga-ya.jp/product/detail/859278816"
+      ]
+    },
+    {
+      "itemId": "source-c37cbaa86070b8e6de976e6f2345b0bc",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "【シークレット2】 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278817",
+        "code": "859278817",
+        "retainedTitle": "【シークレット2】 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:10.463Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278817"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "官方第6图展示两款台词图案，但没有与零售シークレット1/2编号的可靠对应。",
+      "sourcesChecked": [
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_1.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_2.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_4.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_5.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_6.jpg",
+        "https://www.suruga-ya.jp/product/detail/859278817"
+      ]
     }
   ],
   "maintenanceClosed": true,
+  "environmentRevision": 93,
+  "deploymentId": "appgdep_6aeca7ddd2488191b31204cbc0d75678",
   "siteVersion": 70,
-  "environmentRevision": 91,
-  "next": "实时核对目标完整版本，分3批最多20条写入，读回后立即关闭维护入口并实测。成功批次不得重放。",
-  "previousCheckpoint": "../aj26-ky22/resume.json"
+  "previousOutstanding": "../aj26-ky22/resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮3批42条成功写入并完整读回；历史全部成功批次同样禁止重放。",
+  "note": "仅补空缺简介并追加两条证据；非完整核实。先前1746条待查及3条认可资料保留。"
 }
