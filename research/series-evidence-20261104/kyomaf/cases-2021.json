@@ -1,0 +1,756 @@
+{
+  "year": 2021,
+  "candidates": 30,
+  "rows": [
+    {
+      "itemId": "source-06cef76f7124a3b81d274b41c8afce2c",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(酒呑童子) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "010",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（酒呑童子） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（酒呑童子） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-071f705986454cc43d9c8f9e8f494c48",
+      "groupId": "series-a749490847163856",
+      "title": "タオルハンカチ(千子村正) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemavpdOuRg",
+      "variantId": "002",
+      "officialTitle": "タオルハンカチ（千子村正） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemavpdOuRg.html",
+        "at": "2026-11-05T02:14:22.269Z",
+        "sha256": "099bfd6b1ed634a56e3e76704e969faf285343656ee157febbff51d9fad8cfb2"
+      },
+      "second": "https://online.aniplex.co.jp/itemavpdOuRg.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「タオルハンカチ（千子村正） / Fate/Grand Order」。以角色服装为设计元素，材质为棉，尺寸为 200 × 200 毫米。"
+    },
+    {
+      "itemId": "source-0a29f295e184eec15a383ad8fe2aad88",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(牛若丸) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "012",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（牛若丸） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（牛若丸） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-1fc32d3740a9c239fe6d2b4b6e012507",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(静謐のハサン) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "007",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（静謐のハサン） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（静謐のハサン） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-24239f6e58d54a735bcbec16f854672c",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(千子村正)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "009",
+      "officialTitle": "ゆらふわアクリルチャーム（千子村正）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（千子村正）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-2b2446230ef1de56b6d4914ca32f8340",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(エレナ・ブラヴァツキー) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "003",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（エレナ･ブラヴァツキー） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（エレナ･ブラヴァツキー） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-322b161876144baec5bd7f8750c2085e",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(岡田以蔵)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "010",
+      "officialTitle": "ゆらふわアクリルチャーム（岡田以蔵）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（岡田以蔵）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-436eec936eb737b9c419fa6ac480fd9f",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(坂田金時〈平安武者装束〉)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "004",
+      "officialTitle": "ゆらふわアクリルチャーム（坂田金時〈平安武者装束〉）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（坂田金時〈平安武者装束〉）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-4bf3677e04ffe7c2ec4c654aa3949273",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわランダム缶バッジ / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemrtUoCkzp",
+      "variantId": "001",
+      "officialTitle": "ゆらふわランダム缶バッジ / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemrtUoCkzp.html",
+        "at": "2026-11-05T02:14:23.494Z",
+        "sha256": "c27bc0b3171c13ecc0118f9b70693bbc55288b5e97e7ef8db356bd15ec22b1e3"
+      },
+      "second": "https://online.aniplex.co.jp/itemrtUoCkzp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": "官方未说明十个装保证全款，未写作全套。",
+      "summary": "京まふ 2021 的「ゆらふわランダム缶バッジ / Fate/Grand Order」。为「ゆらふわ」系列钢质徽章，直径约 57 毫米。此规格为随机徽章单件。"
+    },
+    {
+      "itemId": "source-526e9bca1fc4e39c5523c7dce98bb5b6",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(土方歳三)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "002",
+      "officialTitle": "ゆらふわアクリルチャーム（土方歳三）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（土方歳三）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-6017d8d89a4f72ea1bad34a1617579fb",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわミニクリアファイルセット / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemDANyCvco",
+      "variantId": "001",
+      "officialTitle": "ゆらふわミニクリアファイルセット / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemDANyCvco.html",
+        "at": "2026-11-05T02:14:24.065Z",
+        "sha256": "2641948a40fceba803ebd3cf9d67617b5406868a70207541a44bb3e9d600f56c"
+      },
+      "second": "https://online.aniplex.co.jp/itemDANyCvco.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=24&sz=12",
+        "at": "2026-11-05T02:16:09.103Z",
+        "sha256": "8dcbe9f2a796a620bec1fcc8a523e24f0b531ca20f42a62897c806b81d15d881"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわミニクリアファイルセット / Fate/Grand Order」。为「ゆらふわ」系列迷你透明文件夹，PP 材质，一套包含三款 A5 文件夹。"
+    },
+    {
+      "itemId": "source-63e20ee36ec333b4dd100ad978c6c161",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(謎のアイドルX〔オルタ〕) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "001",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（謎のアイドルX〔オルタ〕） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（謎のアイドルX〔オルタ〕） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-6be0004f968bfee4218107d789bd94f2",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(ジャンヌ・ダルク) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "011",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（ジャンヌ･ダルク） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（ジャンヌ･ダルク） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-6cfaf0dde3a8250d8be69805e0371814",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(ニトクリス) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "005",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（ニトクリス） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（ニトクリス） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-6edabc39ce15c6eb1fcf0dd4fb105313",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわエコバッグ / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemXnDbbaZJ",
+      "variantId": "001",
+      "officialTitle": "ゆらふわエコバッグ / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemXnDbbaZJ.html",
+        "at": "2026-11-05T02:14:24.651Z",
+        "sha256": "a8b78c377a27588fd12048436ab35bd5058155a084709433cfc6d04c9304a78b"
+      },
+      "second": "https://online.aniplex.co.jp/itemXnDbbaZJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわエコバッグ / Fate/Grand Order」。为「ゆらふわ」系列环保购物袋，聚酯纤维材质，尺寸为 390 × 640 × 150 毫米。"
+    },
+    {
+      "itemId": "source-895fbd6ee1cb6951798c1dd23423c551",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(酒呑童子)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "006",
+      "officialTitle": "ゆらふわアクリルチャーム（酒呑童子）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（酒呑童子）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-8c2788e4da6089501cd860d0347b97b3",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(蘆屋道満)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "008",
+      "officialTitle": "ゆらふわアクリルチャーム（蘆屋道満）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（蘆屋道満）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-9376d5dba0989cd18f86c9f2d15f83f7",
+      "groupId": "series-a749490847163856",
+      "title": "蘆屋道満 符箋セット / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembEDArXYB",
+      "variantId": "001",
+      "officialTitle": "蘆屋道満 符箋セット / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembEDArXYB.html",
+        "at": "2026-11-05T02:14:25.181Z",
+        "sha256": "47272b8bd56db927374947d9c703ebfaddc43605676a40e942d6528f13b8be91"
+      },
+      "second": "https://online.aniplex.co.jp/itembEDArXYB.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=24&sz=12",
+        "at": "2026-11-05T02:16:09.103Z",
+        "sha256": "8dcbe9f2a796a620bec1fcc8a523e24f0b531ca20f42a62897c806b81d15d881"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「蘆屋道満 符箋セット / Fate/Grand Order」。以芦屋道满的咒符为造型，纸质便签共三款、每款二十张，单张宽 70、高 65 毫米。"
+    },
+    {
+      "itemId": "source-99f354c51ae3f44a390a91881836058f",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(渡辺綱)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "005",
+      "officialTitle": "ゆらふわアクリルチャーム（渡辺綱）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（渡辺綱）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-a1395c43c131b72f84ad800167b3e7ea",
+      "groupId": "series-a749490847163856",
+      "title": "タオルハンカチ(蘆屋道満) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemavpdOuRg",
+      "variantId": "001",
+      "officialTitle": "タオルハンカチ（蘆屋道満） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemavpdOuRg.html",
+        "at": "2026-11-05T02:14:22.269Z",
+        "sha256": "099bfd6b1ed634a56e3e76704e969faf285343656ee157febbff51d9fad8cfb2"
+      },
+      "second": "https://online.aniplex.co.jp/itemavpdOuRg.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「タオルハンカチ（蘆屋道満） / Fate/Grand Order」。以角色服装为设计元素，材质为棉，尺寸为 200 × 200 毫米。"
+    },
+    {
+      "itemId": "source-a6a0235a550df75d1863e0a4ab99c537",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(女王メイヴ) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "006",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（女王メイヴ） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（女王メイヴ） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-c4be1fb984f5300a96b95527aceca0e7",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(マシュ・キリエライト) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "002",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（マシュ･キリエライト） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（マシュ･キリエライト） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-c61bf219475e79fdd928c1a262219ad6",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(沖田総司)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "001",
+      "officialTitle": "ゆらふわアクリルチャーム（沖田総司）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（沖田総司）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-d57b8da002ebe710bc535506bd22971a",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(アルテラ) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "004",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（アルテラ） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（アルテラ） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-d9be278cee6038a3dc5b287f799771e2",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(茨木童子)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "007",
+      "officialTitle": "ゆらふわアクリルチャーム（茨木童子）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（茨木童子）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-e8dd7c825efdcaa67dde76d7259f746c",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(タマモキャット) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "008",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（タマモキャット） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（タマモキャット） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-e9c784c35c7dca1d6b5b6660e06ec50a",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわランダム缶バッジ 10個セット",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemrtUoCkzp",
+      "variantId": "002",
+      "officialTitle": "ゆらふわランダム缶バッジ  10個セット",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemrtUoCkzp.html",
+        "at": "2026-11-05T02:14:23.494Z",
+        "sha256": "c27bc0b3171c13ecc0118f9b70693bbc55288b5e97e7ef8db356bd15ec22b1e3"
+      },
+      "second": "https://online.aniplex.co.jp/itemrtUoCkzp.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": "官方未说明十个装保证全款，未写作全套。",
+      "summary": "京まふ 2021 的「ゆらふわランダム缶バッジ  10個セット」。为「ゆらふわ」系列钢质徽章，直径约 57 毫米。此规格为十枚组合。"
+    },
+    {
+      "itemId": "source-eda9b69aa3b0ff1859951f8908890868",
+      "groupId": "series-a749490847163856",
+      "title": "ゆらふわアクリルチャーム(斎藤一)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNStSfHjc",
+      "variantId": "003",
+      "officialTitle": "ゆらふわアクリルチャーム（斎藤一）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+        "at": "2026-11-05T02:14:22.857Z",
+        "sha256": "077a796c93bda0913d38741a6521b6e739ae1cd29ca9f77910b184a70f696d63"
+      },
+      "second": "https://online.aniplex.co.jp/itemNStSfHjc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「ゆらふわアクリルチャーム（斎藤一）/ Fate/Grand Order」。属于「ゆらふわ」造型系列，材质为亚克力，尺寸在 55 × 55 毫米以内。"
+    },
+    {
+      "itemId": "source-f8a078e3236300a0245eb962057909db",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(エウリュアレ) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "009",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（エウリュアレ） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（エウリュアレ） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    },
+    {
+      "itemId": "source-fccd573b90df26152eef64bd31f93c06",
+      "groupId": "series-a749490847163856",
+      "title": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット(ネロ・クラウディウス) / Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemAeREvIUx",
+      "variantId": "013",
+      "officialTitle": "輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（ネロ･クラウディウス） / Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+        "at": "2026-11-05T02:14:21.651Z",
+        "sha256": "c97b18f198eb030b6fa6761e8eefb1160fe17c658fb4f1f69dd19a86bde8a01f"
+      },
+      "second": "https://online.aniplex.co.jp/itemAeREvIUx.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=qSpfIqXw&start=12&sz=12",
+        "at": "2026-11-05T02:15:05.796Z",
+        "sha256": "9ee95ee21b0fbfbecd363fe78e170db97e20d5ca84c856607cfcc37be4734ae0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/qSpfIqXw",
+      "notes": null,
+      "summary": "京まふ 2021 的「輝け!グレイルライブ!!〜鶴のアイドル恩返し〜アクリルマスコット（ネロ･クラウディウス） / Fate/Grand Order」。采用「輝け！グレイルライブ！！～鶴のアイドル恩返し～」中的偶像灵衣造型，材质为亚克力，系列全高约 13～15 厘米，因角色而异。"
+    }
+  ]
+}
