@@ -1,0 +1,36 @@
+[
+  {
+    "groupId": "series-5a345df5342f76d8",
+    "label": "京まふ 2024",
+    "candidates": 23,
+    "source": "https://online.aniplex.co.jp/KddfgCVO",
+    "existingOfficialProductUrls": [
+      "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+      "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+      "https://online.aniplex.co.jp/itemKuxydEmp02.html",
+      "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+      "https://online.aniplex.co.jp/itemKuxydEmp04.html",
+      "https://online.aniplex.co.jp/itemKuxydEmp03.html"
+    ],
+    "status": "source-discovery-only",
+    "year": 2024
+  },
+  {
+    "groupId": "series-2ef3a64390060d91",
+    "label": "AnimeJapan 2022",
+    "candidates": 23,
+    "source": "https://online.aniplex.co.jp/animejapan2022",
+    "existingOfficialProductUrls": [
+      "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+      "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "https://online.aniplex.co.jp/itemIHGDoWSC.html",
+      "https://online.aniplex.co.jp/itemgzJLmmLI.html",
+      "https://online.aniplex.co.jp/itemEACzAdse.html",
+      "https://online.aniplex.co.jp/itemDONiaWGl.html",
+      "https://online.aniplex.co.jp/itemNWOGOUAN.html"
+    ],
+    "status": "source-discovery-only",
+    "year": 2022
+  }
+]
+

@@ -1,0 +1,581 @@
+{
+  "year": 2024,
+  "candidates": 23,
+  "rows": [
+    {
+      "itemId": "source-01a6883f959a2d9b084f8e3408e1ac5e",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】竹うちわ(アントニオ・サリエリ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp06",
+      "variantId": "002",
+      "officialTitle": "【京まふ2024】竹うちわ（アントニオ・サリエリ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+        "at": "2026-11-05T07:01:38.601Z",
+        "sha256": "65d9be05f22320087274bc09385a6b20ca71722470c31a1f921b3700bbf33757"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】竹うちわ（アントニオ・サリエリ）/ Fate/Grand Order」。和装主题竹制团扇，含手柄约230×365毫米，材质为纸和竹。"
+    },
+    {
+      "itemId": "source-02dbde5f3b7b3f6c2f0367815ba92d88",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】掛け軸風タペストリー(マリー・アントワネット〔オルタ〕)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp05",
+      "variantId": "005",
+      "officialTitle": "【京まふ2024】掛け軸風タペストリー（マリー・アントワネット〔オルタ〕）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+        "at": "2026-11-05T07:01:39.148Z",
+        "sha256": "0b5d3bd05cb048b1336eea1df1a1a3c7e21afda5941bfedaea61ae54c25d2fbc"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】掛け軸風タペストリー（マリー・アントワネット〔オルタ〕）/ Fate/Grand Order」。采用和装主题插画的挂轴风挂画，使用メロンアムンゼン面料，约258×728毫米；本体为聚酯纤维，挂杆为PVC。"
+    },
+    {
+      "itemId": "source-134740a2435dc81ac37310fb979148e0",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】缶バッジセット(ねづみどし)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp02",
+      "variantId": "002",
+      "officialTitle": "【京まふ2024】缶バッジセット（ねづみどし）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp02.html",
+        "at": "2026-11-05T07:01:39.709Z",
+        "sha256": "2875889a8c261ff7c3975b9aefdbea6938f9829e653c92d21d9165438eb11db8"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp02.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方正文未明确每套数量，保留套装身份但不推断件数。",
+      "summary": "京まふ 2024 的「【京まふ2024】缶バッジセット（ねづみどし）/ Fate/Grand Order」。秋日京都和装主题徽章套装，单枚直径约54毫米，材质为马口铁、纸、PET和铁。"
+    },
+    {
+      "itemId": "source-2e2df302035d71358c8fe5480b499284",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】アクリルスタンド(ジャンヌ・ダルク〔オルタ〕)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp01",
+      "variantId": "004",
+      "officialTitle": "【京まふ2024】アクリルスタンド（ジャンヌ・ダルク〔オルタ〕）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+        "at": "2026-11-05T07:01:40.266Z",
+        "sha256": "1e084c5abadeaaaa246d81abbf27363bd562053d12bc2251709f3e5617857911"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方单独列岩窟王尺寸，不能将该尺寸用于其余五款。",
+      "summary": "京まふ 2024 的「【京まふ2024】アクリルスタンド（ジャンヌ・ダルク〔オルタ〕）/ Fate/Grand Order」。采用秋日京都和装主题插画的亚克力立牌。此款尺寸在宽92×高152毫米以内，具体大小随角色而异。"
+    },
+    {
+      "itemId": "source-301c08905584c0b1030562eaca61c337",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】缶バッジセット(kaworu)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp02",
+      "variantId": "001",
+      "officialTitle": "【京まふ2024】缶バッジセット（kaworu）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp02.html",
+        "at": "2026-11-05T07:01:39.709Z",
+        "sha256": "2875889a8c261ff7c3975b9aefdbea6938f9829e653c92d21d9165438eb11db8"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp02.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方正文未明确每套数量，保留套装身份但不推断件数。",
+      "summary": "京まふ 2024 的「【京まふ2024】缶バッジセット（kaworu）/ Fate/Grand Order」。秋日京都和装主题徽章套装，单枚直径约54毫米，材质为马口铁、纸、PET和铁。"
+    },
+    {
+      "itemId": "source-336b7886bb35fb53f5c62764c39117fe",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】竹うちわ(巌窟王 エドモン・ダンテス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp06",
+      "variantId": "001",
+      "officialTitle": "【京まふ2024】竹うちわ（巌窟王 エドモン・ダンテス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+        "at": "2026-11-05T07:01:38.601Z",
+        "sha256": "65d9be05f22320087274bc09385a6b20ca71722470c31a1f921b3700bbf33757"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】竹うちわ（巌窟王 エドモン・ダンテス）/ Fate/Grand Order」。和装主题竹制团扇，含手柄约230×365毫米，材质为纸和竹。"
+    },
+    {
+      "itemId": "source-410332991440d46b145cfbdfb2a039f2",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】アクリルスタンド(アントニオ・サリエリ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp01",
+      "variantId": "002",
+      "officialTitle": "【京まふ2024】アクリルスタンド（アントニオ・サリエリ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+        "at": "2026-11-05T07:01:40.266Z",
+        "sha256": "1e084c5abadeaaaa246d81abbf27363bd562053d12bc2251709f3e5617857911"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方单独列岩窟王尺寸，不能将该尺寸用于其余五款。",
+      "summary": "京まふ 2024 的「【京まふ2024】アクリルスタンド（アントニオ・サリエリ）/ Fate/Grand Order」。采用秋日京都和装主题插画的亚克力立牌。此款尺寸在宽92×高152毫米以内，具体大小随角色而异。"
+    },
+    {
+      "itemId": "source-519253564893f10642dc156680fcdc24",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】竹うちわ(刑部姫)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp06",
+      "variantId": "006",
+      "officialTitle": "【京まふ2024】竹うちわ（刑部姫）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+        "at": "2026-11-05T07:01:38.601Z",
+        "sha256": "65d9be05f22320087274bc09385a6b20ca71722470c31a1f921b3700bbf33757"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】竹うちわ（刑部姫）/ Fate/Grand Order」。和装主题竹制团扇，含手柄约230×365毫米，材质为纸和竹。"
+    },
+    {
+      "itemId": "source-571d45a28ba75c2960cc918e5c93cfc8",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】掛け軸風タペストリー(マンドリカルド)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp05",
+      "variantId": "003",
+      "officialTitle": "【京まふ2024】掛け軸風タペストリー（マンドリカルド）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+        "at": "2026-11-05T07:01:39.148Z",
+        "sha256": "0b5d3bd05cb048b1336eea1df1a1a3c7e21afda5941bfedaea61ae54c25d2fbc"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】掛け軸風タペストリー（マンドリカルド）/ Fate/Grand Order」。采用和装主题插画的挂轴风挂画，使用メロンアムンゼン面料，约258×728毫米；本体为聚酯纤维，挂杆为PVC。"
+    },
+    {
+      "itemId": "source-627ba481ef5ff3f0571233c6ed8ad9ee",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】掛け軸風タペストリー(刑部姫)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp05",
+      "variantId": "006",
+      "officialTitle": "【京まふ2024】掛け軸風タペストリー（刑部姫）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+        "at": "2026-11-05T07:01:39.148Z",
+        "sha256": "0b5d3bd05cb048b1336eea1df1a1a3c7e21afda5941bfedaea61ae54c25d2fbc"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】掛け軸風タペストリー（刑部姫）/ Fate/Grand Order」。采用和装主题插画的挂轴风挂画，使用メロンアムンゼン面料，约258×728毫米；本体为聚酯纤维，挂杆为PVC。"
+    },
+    {
+      "itemId": "source-73c01256766aca989878d7f43f020d4e",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】竹うちわ(ジャンヌ・ダルク〔オルタ〕)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp06",
+      "variantId": "004",
+      "officialTitle": "【京まふ2024】竹うちわ（ジャンヌ・ダルク〔オルタ〕）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+        "at": "2026-11-05T07:01:38.601Z",
+        "sha256": "65d9be05f22320087274bc09385a6b20ca71722470c31a1f921b3700bbf33757"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】竹うちわ（ジャンヌ・ダルク〔オルタ〕）/ Fate/Grand Order」。和装主题竹制团扇，含手柄约230×365毫米，材质为纸和竹。"
+    },
+    {
+      "itemId": "source-a16ac273721b8f2d7e2d983ab61f816a",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】アクリルスタンド(マリー・アントワネット〔オルタ〕)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp01",
+      "variantId": "005",
+      "officialTitle": "【京まふ2024】アクリルスタンド（マリー・アントワネット〔オルタ〕）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+        "at": "2026-11-05T07:01:40.266Z",
+        "sha256": "1e084c5abadeaaaa246d81abbf27363bd562053d12bc2251709f3e5617857911"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方单独列岩窟王尺寸，不能将该尺寸用于其余五款。",
+      "summary": "京まふ 2024 的「【京まふ2024】アクリルスタンド（マリー・アントワネット〔オルタ〕）/ Fate/Grand Order」。采用秋日京都和装主题插画的亚克力立牌。此款尺寸在宽92×高152毫米以内，具体大小随角色而异。"
+    },
+    {
+      "itemId": "source-a37b7749102ae250462ba6c8ac732c22",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】掛け軸風タペストリー(ジャンヌ・ダルク〔オルタ〕)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp05",
+      "variantId": "004",
+      "officialTitle": "【京まふ2024】掛け軸風タペストリー（ジャンヌ・ダルク〔オルタ〕）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+        "at": "2026-11-05T07:01:39.148Z",
+        "sha256": "0b5d3bd05cb048b1336eea1df1a1a3c7e21afda5941bfedaea61ae54c25d2fbc"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】掛け軸風タペストリー（ジャンヌ・ダルク〔オルタ〕）/ Fate/Grand Order」。采用和装主题插画的挂轴风挂画，使用メロンアムンゼン面料，约258×728毫米；本体为聚酯纤维，挂杆为PVC。"
+    },
+    {
+      "itemId": "source-bae4cfa16abc4d8902f074427147e10e",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】ミニクリアファイルセット(kaworu)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp04",
+      "variantId": "001",
+      "officialTitle": "【京まふ2024】ミニクリアファイルセット（kaworu）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp04.html",
+        "at": "2026-11-05T07:01:40.856Z",
+        "sha256": "b0b2ca66be7cf44fb7dbff1eae33ae7d7ca53895efce7882dcfaeafc506878aa"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp04.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方正文未明确每套数量，不依据图片或售价推断件数。",
+      "summary": "京まふ 2024 的「【京まふ2024】ミニクリアファイルセット（kaworu）/ Fate/Grand Order」。采用秋日京都和装主题插画的迷你透明文件夹套装，A5规格，PP材质。"
+    },
+    {
+      "itemId": "source-c974451b38481e5c2fc2d7590a7c1d5f",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】ミニクリアファイルセット(ねづみどし)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp04",
+      "variantId": "002",
+      "officialTitle": "【京まふ2024】ミニクリアファイルセット（ねづみどし）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp04.html",
+        "at": "2026-11-05T07:01:40.856Z",
+        "sha256": "b0b2ca66be7cf44fb7dbff1eae33ae7d7ca53895efce7882dcfaeafc506878aa"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp04.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方正文未明确每套数量，不依据图片或售价推断件数。",
+      "summary": "京まふ 2024 的「【京まふ2024】ミニクリアファイルセット（ねづみどし）/ Fate/Grand Order」。采用秋日京都和装主题插画的迷你透明文件夹套装，A5规格，PP材质。"
+    },
+    {
+      "itemId": "source-d32d76b76de09fed90c61b42ae60f312",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】掛け軸風タペストリー(巌窟王 エドモン・ダンテス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp05",
+      "variantId": "001",
+      "officialTitle": "【京まふ2024】掛け軸風タペストリー（巌窟王 エドモン・ダンテス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+        "at": "2026-11-05T07:01:39.148Z",
+        "sha256": "0b5d3bd05cb048b1336eea1df1a1a3c7e21afda5941bfedaea61ae54c25d2fbc"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】掛け軸風タペストリー（巌窟王 エドモン・ダンテス）/ Fate/Grand Order」。采用和装主题插画的挂轴风挂画，使用メロンアムンゼン面料，约258×728毫米；本体为聚酯纤维，挂杆为PVC。"
+    },
+    {
+      "itemId": "source-d3d4c786d0370da2a3b47bb08940f056",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】アクリルスタンド(刑部姫)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp01",
+      "variantId": "006",
+      "officialTitle": "【京まふ2024】アクリルスタンド（刑部姫）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+        "at": "2026-11-05T07:01:40.266Z",
+        "sha256": "1e084c5abadeaaaa246d81abbf27363bd562053d12bc2251709f3e5617857911"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方单独列岩窟王尺寸，不能将该尺寸用于其余五款。",
+      "summary": "京まふ 2024 的「【京まふ2024】アクリルスタンド（刑部姫）/ Fate/Grand Order」。采用秋日京都和装主题插画的亚克力立牌。此款尺寸在宽92×高152毫米以内，具体大小随角色而异。"
+    },
+    {
+      "itemId": "source-d8b5a32ad7634782242d4e01601f3659",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】竹うちわ(マリー・アントワネット〔オルタ〕)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp06",
+      "variantId": "005",
+      "officialTitle": "【京まふ2024】竹うちわ（マリー・アントワネット〔オルタ〕）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+        "at": "2026-11-05T07:01:38.601Z",
+        "sha256": "65d9be05f22320087274bc09385a6b20ca71722470c31a1f921b3700bbf33757"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】竹うちわ（マリー・アントワネット〔オルタ〕）/ Fate/Grand Order」。和装主题竹制团扇，含手柄约230×365毫米，材质为纸和竹。"
+    },
+    {
+      "itemId": "source-dd6b868034ad083e2c77bc79a1c0ff69",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】アクリルスタンド(巌窟王 エドモン・ダンテス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp01",
+      "variantId": "001",
+      "officialTitle": "【京まふ2024】アクリルスタンド（巌窟王 エドモン・ダンテス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+        "at": "2026-11-05T07:01:40.266Z",
+        "sha256": "1e084c5abadeaaaa246d81abbf27363bd562053d12bc2251709f3e5617857911"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方单独列岩窟王尺寸，不能将该尺寸用于其余五款。",
+      "summary": "京まふ 2024 的「【京まふ2024】アクリルスタンド（巌窟王 エドモン・ダンテス）/ Fate/Grand Order」。采用秋日京都和装主题插画的亚克力立牌。岩窟王款尺寸在宽110×高190毫米以内。"
+    },
+    {
+      "itemId": "source-e96ff508967997c83dd38c5191c84be5",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】竹うちわ(マンドリカルド)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp06",
+      "variantId": "003",
+      "officialTitle": "【京まふ2024】竹うちわ（マンドリカルド）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+        "at": "2026-11-05T07:01:38.601Z",
+        "sha256": "65d9be05f22320087274bc09385a6b20ca71722470c31a1f921b3700bbf33757"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】竹うちわ（マンドリカルド）/ Fate/Grand Order」。和装主题竹制团扇，含手柄约230×365毫米，材质为纸和竹。"
+    },
+    {
+      "itemId": "source-f1838ea1ef85a99b4bf2719238eb8e7b",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】アクリルスタンド(マンドリカルド)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp01",
+      "variantId": "003",
+      "officialTitle": "【京まふ2024】アクリルスタンド（マンドリカルド）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+        "at": "2026-11-05T07:01:40.266Z",
+        "sha256": "1e084c5abadeaaaa246d81abbf27363bd562053d12bc2251709f3e5617857911"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": "官方单独列岩窟王尺寸，不能将该尺寸用于其余五款。",
+      "summary": "京まふ 2024 的「【京まふ2024】アクリルスタンド（マンドリカルド）/ Fate/Grand Order」。采用秋日京都和装主题插画的亚克力立牌。此款尺寸在宽92×高152毫米以内，具体大小随角色而异。"
+    },
+    {
+      "itemId": "source-fb198a071261a0cc372def6ad46f9ca7",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】SNS風アクリルチャーム<単品・ランダム封入>/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp03",
+      "variantId": "001",
+      "officialTitle": "【京まふ2024】SNS風アクリルチャーム＜単品・ランダム封入＞/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp03.html",
+        "at": "2026-11-05T07:01:41.404Z",
+        "sha256": "12f5a5a56af4672de98e96564f0c72675432d57bca695a8c9352d8a50ec88b09"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp03.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】SNS風アクリルチャーム＜単品・ランダム封入＞/ Fate/Grand Order」。社交媒体画面风格的亚克力挂件，六种图案随机封入一款，不能选款；约65×90毫米，材质为亚克力、锌合金和铁。"
+    },
+    {
+      "itemId": "source-fbef8239730d4f5cc59a4b2e8c19e506",
+      "groupId": "series-5a345df5342f76d8",
+      "title": "【京まふ2024】掛け軸風タペストリー(アントニオ・サリエリ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemKuxydEmp05",
+      "variantId": "002",
+      "officialTitle": "【京まふ2024】掛け軸風タペストリー（アントニオ・サリエリ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+        "at": "2026-11-05T07:01:39.148Z",
+        "sha256": "0b5d3bd05cb048b1336eea1df1a1a3c7e21afda5941bfedaea61ae54c25d2fbc"
+      },
+      "second": "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "contextSource": "https://online.aniplex.co.jp/KddfgCVO",
+      "notes": null,
+      "summary": "京まふ 2024 的「【京まふ2024】掛け軸風タペストリー（アントニオ・サリエリ）/ Fate/Grand Order」。采用和装主题插画的挂轴风挂画，使用メロンアムンゼン面料，约258×728毫米；本体为聚酯纤维，挂杆为PVC。"
+    }
+  ]
+}

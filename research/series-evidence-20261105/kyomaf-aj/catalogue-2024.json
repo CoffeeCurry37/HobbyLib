@@ -1,0 +1,44 @@
+{
+  "year": 2024,
+  "groupId": "series-5a345df5342f76d8",
+  "mode": "complete-static-FGO-section",
+  "total": 6,
+  "pages": [
+    {
+      "source": {
+        "url": "https://online.aniplex.co.jp/KddfgCVO",
+        "at": "2026-11-05T07:01:37.795Z",
+        "sha256": "1c30cd85d8de7ca88ec183cc43096df53fe0e1a609a9f42e11d369d9e4bcbb46"
+      },
+      "entries": [
+        {
+          "url": "https://online.aniplex.co.jp/itemKuxydEmp01.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemKuxydEmp02.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemKuxydEmp03.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemKuxydEmp04.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemKuxydEmp05.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemKuxydEmp06.html"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    "https://online.aniplex.co.jp/itemKuxydEmp01.html",
+    "https://online.aniplex.co.jp/itemKuxydEmp02.html",
+    "https://online.aniplex.co.jp/itemKuxydEmp03.html",
+    "https://online.aniplex.co.jp/itemKuxydEmp04.html",
+    "https://online.aniplex.co.jp/itemKuxydEmp05.html",
+    "https://online.aniplex.co.jp/itemKuxydEmp06.html"
+  ],
+  "pagination": "单页活动专题中的完整 FGO 商品区块；无分页。并非全活动或完整发行史。"
+}
