@@ -1,0 +1,24 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {read,write} from './four-series-common.mjs';
+const dir='research/series-evidence-20261104/tenyear-aj',priv='work/series-evidence-20261104/tenyear-aj',globalPath='research/series-evidence-20261103/current-progress.json';
+const p=read(dir+'/production.json'),review=read(dir+'/review.json'),previous=read(globalPath);
+assert.ok(p.maintenanceClosed&&p.finalReadbackPassed&&p.productionApplied===132&&!p.skipped);
+assert.equal(previous.seriesWithItemReview,35);assert.equal(previous.productionApplied,4450);
+const applied=new Set(fs.readFileSync(priv+'/apply-receipts.jsonl','utf8').trim().split('\n').map(JSON.parse).filter(r=>r.status==='verified').flatMap(r=>r.ids));
+assert.equal(applied.size,132);
+const cases=['kuji-2','kuji-1','aj-2021','aj-2019'].flatMap(n=>read(dir+'/'+n+'.json').rows);
+const groups=review.groups.map(g=>({groupId:g.groupId,label:g.label,snapshotItems:g.reviewed,productionApplied:cases.filter(r=>r.groupId===g.groupId&&applied.has(r.itemId)).length,pendingEvidence:g.pending,protectedExisting:0,freshVersionSkips:0,complete:false}));
+const oldIds=new Set(previous.rows.map(r=>r.groupId));for(const g of groups)assert.ok(!oldIds.has(g.groupId));
+const rows=[...previous.rows,...groups],sum=k=>rows.reduce((n,r)=>n+r[k],0);
+const progress={...previous,at:new Date().toISOString(),seriesWithItemReview:rows.length,seriesAwaitingItemReview:1848-rows.length,coveredSnapshotItems:sum('snapshotItems'),productionApplied:sum('productionApplied'),protectedExisting:sum('protectedExisting'),pendingEvidence:sum('pendingEvidence'),freshVersionSkips:sum('freshVersionSkips'),lastLiveCounts:p.counts,liveRelations:p.relations,maintenanceClosed:true,rows,nextSourceFile:'../series-evidence-20261104/tenyear-aj/next-sources.json'};
+assert.equal(progress.coveredSnapshotItems,6332);assert.equal(progress.productionApplied,4582);assert.equal(progress.pendingEvidence,1746);
+assert.equal(progress.coveredSnapshotItems,progress.productionApplied+progress.protectedExisting+progress.pendingEvidence+progress.freshVersionSkips);
+write(globalPath,progress);
+const unresolved=cases.filter(r=>r.status==='pending');
+const conflicts=cases.filter(r=>r.notes).map(({itemId,title,notes,source})=>({itemId,title,notes,url:source.url,action:'safe-summary-applied-conflicting-size-omitted'}));
+write(dir+'/field-conflicts.json',conflicts);
+write(dir+'/resume.json',{at:new Date().toISOString(),stage:'applied-read-back-and-closed',groups,candidates:135,productionApplied:132,batches:7,pendingEvidence:3,protectedExisting:0,freshVersionSkips:0,unresolved,fieldConflicts:conflicts,maintenanceClosed:true,environmentRevision:p.environmentRevision,deploymentId:p.deploymentId,siteVersion:p.siteVersion,previousOutstanding:'../resume.json',nextSources:'next-sources.json',doNotReplay:'本轮7批132条已成功写入并完整读回；所有历史成功批次同样禁止重放。'});
+Object.assign(review,{stage:p.stage,productionApplied:p.productionApplied,maintenanceClosed:true});write(dir+'/review.json',review);
+console.log(JSON.stringify({groups:progress.seriesWithItemReview,covered:progress.coveredSnapshotItems,applied:progress.productionApplied,pending:progress.pendingEvidence,remaining:progress.seriesAwaitingItemReview}));
+

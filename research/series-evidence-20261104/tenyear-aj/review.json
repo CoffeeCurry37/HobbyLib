@@ -1,6 +1,6 @@
 {
   "at": "2026-11-04T23:57:14.824Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 135,
   "prepared": 132,
   "pending": 3,
@@ -50,5 +50,6 @@
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 132,
+  "maintenanceClosed": true
 }

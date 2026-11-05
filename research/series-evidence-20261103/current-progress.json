@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-04T17:52:13.979Z",
+  "at": "2026-11-05T00:01:47.519Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 35,
-  "seriesAwaitingItemReview": 1813,
+  "seriesWithItemReview": 39,
+  "seriesAwaitingItemReview": 1809,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6197,
-  "productionApplied": 4450,
+  "coveredSnapshotItems": 6332,
+  "productionApplied": 4582,
   "protectedExisting": 3,
-  "pendingEvidence": 1743,
+  "pendingEvidence": 1746,
   "freshVersionSkips": 1,
   "lastLiveCounts": {
     "main": 15790,
@@ -369,7 +369,47 @@
       "freshVersionSkips": 0,
       "archivedWithinVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-2440e42166db007e",
+      "label": "Fate 系列十周年第二弹 セイバーSpecial",
+      "snapshotItems": 38,
+      "productionApplied": 38,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-c54b4cd87e3d660d",
+      "label": "Fate 系列十周年第一弹 タイプムーンエースSpecial",
+      "snapshotItems": 34,
+      "productionApplied": 31,
+      "pendingEvidence": 3,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "label": "AnimeJapan 2021",
+      "snapshotItems": 32,
+      "productionApplied": 32,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "label": "AnimeJapan 2019",
+      "snapshotItems": 31,
+      "productionApplied": 31,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261104/books/resume.json"
+  "nextSourceFile": "../series-evidence-20261104/tenyear-aj/next-sources.json"
 }

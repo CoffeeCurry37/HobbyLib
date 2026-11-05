@@ -1,0 +1,32 @@
+{
+  "stage": "source-discovery-only",
+  "basis": "尚未逐件检查的系列中，按候选覆盖量选取已有官方商品号且官方站内列有年度入口的分组；不是补证完成。",
+  "navigationSource": "https://online.aniplex.co.jp/itemeTxTCNim.html",
+  "groups": [
+    {
+      "groupId": "series-a749490847163856",
+      "label": "京まふ 2021",
+      "candidates": 30,
+      "source": "https://online.aniplex.co.jp/qSpfIqXw"
+    },
+    {
+      "groupId": "series-d70f0c745e4cfb17",
+      "label": "京まふ 2025",
+      "candidates": 29,
+      "source": "https://online.aniplex.co.jp/FFFfdThr"
+    },
+    {
+      "groupId": "series-7f2686658ec97714",
+      "label": "京まふ 2026",
+      "candidates": 24,
+      "source": "https://online.aniplex.co.jp/khwRyHSc"
+    },
+    {
+      "groupId": "series-a905c4955d91d8a8",
+      "label": "京まふ 2023",
+      "candidates": 23,
+      "source": "https://online.aniplex.co.jp/ybKsCZxS"
+    }
+  ],
+  "nextRule": "先核对目录实际商品链接，再核对每条商品号和规格号；旧年度复售、款名相似及随机包/全套不可混用。"
+}

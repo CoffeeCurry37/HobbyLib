@@ -1,11 +1,113 @@
 {
+  "at": "2026-11-05T00:01:47.520Z",
   "stage": "applied-read-back-and-closed",
-  "reviewed": 135,
+  "groups": [
+    {
+      "groupId": "series-2440e42166db007e",
+      "label": "Fate 系列十周年第二弹 セイバーSpecial",
+      "snapshotItems": 38,
+      "productionApplied": 38,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-c54b4cd87e3d660d",
+      "label": "Fate 系列十周年第一弹 タイプムーンエースSpecial",
+      "snapshotItems": 34,
+      "productionApplied": 31,
+      "pendingEvidence": 3,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-1e10b844c086ff13",
+      "label": "AnimeJapan 2021",
+      "snapshotItems": 32,
+      "productionApplied": 32,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-61f62b0129effa15",
+      "label": "AnimeJapan 2019",
+      "snapshotItems": 31,
+      "productionApplied": 31,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "candidates": 135,
   "productionApplied": 132,
-  "pending": 3,
   "batches": 7,
-  "versionSkips": 0,
+  "pendingEvidence": 3,
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
+  "unresolved": [
+    {
+      "itemId": "kuji-member-fate2014-1-C-2",
+      "groupId": "series-c54b4cd87e3d660d",
+      "title": "集合(ブルー) 「一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial」 C賞",
+      "status": "pending",
+      "award": "C賞",
+      "reason": "no-unique-member-or-package-binding",
+      "reviewedSources": [
+        "https://hobby-maniax.com/archives/8767",
+        "https://www.suruga-ya.jp/product/detail/992012422"
+      ]
+    },
+    {
+      "itemId": "kuji-member-fate2014-1-C-4",
+      "groupId": "series-c54b4cd87e3d660d",
+      "title": "総柄(アイコン) 「一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial」 C賞",
+      "status": "pending",
+      "award": "C賞",
+      "reason": "no-unique-member-or-package-binding",
+      "reviewedSources": [
+        "https://hobby-maniax.com/archives/8767",
+        "https://www.suruga-ya.jp/product/detail/992012422"
+      ]
+    },
+    {
+      "itemId": "kuji-member-fate2014-1-D-1",
+      "groupId": "series-c54b4cd87e3d660d",
+      "title": "セイバー&アーチャー&アイリスフィール他 「一番くじ Fateシリーズ 10周年記念第一弾 タイプムーンエースSpecial」 D賞",
+      "status": "pending",
+      "award": "D賞",
+      "reason": "no-unique-member-or-package-binding",
+      "reviewedSources": [
+        "https://hobby-maniax.com/archives/8767",
+        "https://www.suruga-ya.jp/product/detail/608219169"
+      ]
+    }
+  ],
+  "fieldConflicts": [
+    {
+      "itemId": "source-9149daa7a668199fc8068e1b11811cb2",
+      "title": "Fate/Grand Order AnimeJapan2019 クリアファイルセット(えれっと)",
+      "notes": "官方同时标为A4并写约153×220mm，尺寸互相矛盾，未写入尺寸；留待官方修订或实物包装确认。",
+      "url": "https://online.aniplex.co.jp/itemWLtLSnGT.html",
+      "action": "safe-summary-applied-conflicting-size-omitted"
+    },
+    {
+      "itemId": "source-b41be774b9df6ffeb9b335c01a3ecbe2",
+      "title": "Fate/Grand Order AnimeJapan2019 クリアファイルセット(さらちよみ)",
+      "notes": "官方同时标为A4并写约153×220mm，尺寸互相矛盾，未写入尺寸；留待官方修订或实物包装确认。",
+      "url": "https://online.aniplex.co.jp/itemWLtLSnGT.html",
+      "action": "safe-summary-applied-conflicting-size-omitted"
+    }
+  ],
   "maintenanceClosed": true,
   "environmentRevision": 85,
-  "next": "本轮全部成功批次不得重放。3条待查保持原样；累计进度及新候选入口正在整理。"
+  "deploymentId": "appgdep_6aebc6ea3400819197f58bd95352ea57",
+  "siteVersion": 70,
+  "previousOutstanding": "../resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮7批132条已成功写入并完整读回；所有历史成功批次同样禁止重放。"
 }
