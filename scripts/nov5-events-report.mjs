@@ -1,0 +1,28 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {read,write,cached,targetRows} from './four-series-common.mjs';
+const dir='research/series-evidence-20261105/kyomaf-aj',priv='work/series-evidence-20261105/kyomaf-aj',globalPath='research/series-evidence-20261103/current-progress.json';
+const p=read(dir+'/production.json'),review=read(dir+'/review.json'),previous=read(globalPath);
+assert.ok(p.maintenanceClosed&&p.finalReadbackPassed&&p.productionApplied===46&&!p.skipped);
+assert.equal(previous.seriesWithItemReview,43);assert.equal(previous.productionApplied,4688);
+const receipts=fs.readFileSync(priv+'/apply-receipts.jsonl','utf8').trim().split('\n').map(JSON.parse).filter(r=>r.status==='verified');
+const applied=new Set(receipts.flatMap(r=>r.ids));assert.equal(applied.size,46);assert.equal(receipts.length,3);
+const cases=[2024,2022].flatMap(y=>read(dir+'/cases-'+y+'.json').rows);
+const groups=review.groups.map(g=>({groupId:g.groupId,label:g.label,snapshotItems:g.reviewed,productionApplied:cases.filter(r=>r.groupId===g.groupId&&applied.has(r.itemId)).length,pendingEvidence:g.pending,protectedExisting:g.protected,freshVersionSkips:0,complete:false}));
+const oldIds=new Set(previous.rows.map(r=>r.groupId));for(const g of groups)assert.ok(!oldIds.has(g.groupId));
+const rows=[...previous.rows,...groups],sum=k=>rows.reduce((n,r)=>n+r[k],0);
+const progress={...previous,at:new Date().toISOString(),seriesWithItemReview:rows.length,seriesAwaitingItemReview:1848-rows.length,coveredSnapshotItems:sum('snapshotItems'),productionApplied:sum('productionApplied'),protectedExisting:sum('protectedExisting'),pendingEvidence:sum('pendingEvidence'),freshVersionSkips:sum('freshVersionSkips'),lastLiveCounts:p.counts,liveRelations:p.relations,maintenanceClosed:true,rows,nextSourceFile:'../series-evidence-20261105/kyomaf-aj/next-sources.json'};
+assert.equal(progress.coveredSnapshotItems,6484);assert.equal(progress.productionApplied,4734);assert.equal(progress.pendingEvidence,1746);
+assert.equal(progress.coveredSnapshotItems,progress.productionApplied+progress.protectedExisting+progress.pendingEvidence+progress.freshVersionSkips);
+write(globalPath,progress);
+const oldNext=read('research/series-evidence-20261104/kyomaf/next-sources.json'),ts=targetRows();
+assert.equal(cached(oldNext.navigationSource.url).source.sha256,oldNext.navigationSource.sha256);
+const next=oldNext.groups.filter(g=>!rows.some(r=>r.groupId===g.groupId));assert.equal(next.length,2);
+for(const g of next)assert.equal(ts.filter(t=>t.groupId===g.groupId).length,g.candidates);
+write(dir+'/next-sources.json',{...oldNext,at:new Date().toISOString(),groups:next,previousDiscovery:'../../series-evidence-20261104/kyomaf/next-sources.json',stage:'source-discovery-only',nextRule:'继续 AnimeJapan 2026 的15条、京まふ2022的14条。先核对目录实际链接、分页和全部款式，再处理明确证据；较大书目/音像/卡片组仍在原队列。'});
+const fieldLimits=cases.filter(r=>r.notes).map(({itemId,title,sku,variantId,notes,source})=>({itemId,title,sku,variantId,notes,source,action:'supported-summary-applied-unconfirmed-fields-omitted'}));
+write(dir+'/field-limits.json',fieldLimits);
+write(dir+'/resume.json',{at:new Date().toISOString(),stage:'applied-read-back-and-closed',groups,candidates:46,productionApplied:46,batches:3,pendingEvidence:0,protectedExisting:0,freshVersionSkips:0,officialVariantMatches:46,unresolved:[],fieldLimits:'field-limits.json',maintenanceClosed:true,environmentRevision:p.environmentRevision,deploymentId:p.deploymentId,siteVersion:p.siteVersion,previousOutstanding:'../../series-evidence-20261104/kyomaf/resume.json',nextSources:'next-sources.json',doNotReplay:'本轮3批46条已成功写入并完整读回；所有历史成功批次同样禁止重放。',note:'仅补空缺简介和追加证据，不等于完整核实；既有1746条待查未清空，3条原认可资料保留。'});
+Object.assign(review,{stage:p.stage,productionApplied:p.productionApplied,maintenanceClosed:true,groups:review.groups.map(({status,...g})=>({...g,status:'evidence-supplemented-not-fully-verified'}))});write(dir+'/review.json',review);
+console.log(JSON.stringify({groups:progress.seriesWithItemReview,covered:progress.coveredSnapshotItems,applied:progress.productionApplied,pending:progress.pendingEvidence,remaining:progress.seriesAwaitingItemReview,next:next.map(g=>({label:g.label,candidates:g.candidates}))}));
+

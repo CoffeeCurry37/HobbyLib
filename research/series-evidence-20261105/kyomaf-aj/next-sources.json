@@ -1,0 +1,49 @@
+{
+  "at": "2026-11-05T07:09:46.228Z",
+  "stage": "source-discovery-only",
+  "basis": "优先已有逐件官方商品号和站内活动入口的未检查分组，按覆盖量继续；25/24条书目、音像、卡片等较大组仍在原队列，尚需进一步确认版次或单款目录。",
+  "navigationSource": {
+    "url": "https://online.aniplex.co.jp/itemeTxTCNim.html",
+    "at": "2026-11-04T23:51:57.680Z",
+    "sha256": "c9711c82df32df466c076ceccadac86ec22388d952d2170f03093a3371265f03"
+  },
+  "groups": [
+    {
+      "groupId": "series-5062e494236396ff",
+      "label": "AnimeJapan 2026",
+      "candidates": 15,
+      "source": "https://online.aniplex.co.jp/EOyBwVvu",
+      "existingOfficialProductUrls": [
+        "https://online.aniplex.co.jp/itemCWPTEBZQ06.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ07.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ08.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ01.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ05.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ02.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ04.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ09.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ10.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ03.html",
+        "https://online.aniplex.co.jp/itemCWPTEBZQ11.html"
+      ],
+      "status": "source-discovery-only"
+    },
+    {
+      "groupId": "series-b27a728651d41744",
+      "label": "京まふ 2022",
+      "candidates": 14,
+      "source": "https://online.aniplex.co.jp/VxfcUhGK",
+      "existingOfficialProductUrls": [
+        "https://online.aniplex.co.jp/itemCgoKeozL.html",
+        "https://online.aniplex.co.jp/itemRPSMkjWI.html",
+        "https://online.aniplex.co.jp/itemPNTRGumI.html",
+        "https://online.aniplex.co.jp/itemcIilKFLA.html",
+        "https://online.aniplex.co.jp/itemzDfAZmpq.html",
+        "https://online.aniplex.co.jp/itemKiigYQCY.html"
+      ],
+      "status": "source-discovery-only"
+    }
+  ],
+  "nextRule": "继续 AnimeJapan 2026 的15条、京まふ2022的14条。先核对目录实际链接、分页和全部款式，再处理明确证据；较大书目/音像/卡片组仍在原队列。",
+  "previousDiscovery": "../../series-evidence-20261104/kyomaf/next-sources.json"
+}

@@ -1,6 +1,6 @@
 {
   "at": "2026-11-05T07:05:23.677Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 46,
   "prepared": 46,
   "pending": 0,
@@ -19,12 +19,12 @@
         "https://online.aniplex.co.jp/itemKuxydEmp04.html",
         "https://online.aniplex.co.jp/itemKuxydEmp03.html"
       ],
-      "status": "source-discovery-only",
       "year": 2024,
       "reviewed": 23,
       "ready": 23,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     },
     {
       "groupId": "series-2ef3a64390060d91",
@@ -40,17 +40,18 @@
         "https://online.aniplex.co.jp/itemDONiaWGl.html",
         "https://online.aniplex.co.jp/itemNWOGOUAN.html"
       ],
-      "status": "source-discovery-only",
       "year": 2022,
       "reviewed": 23,
       "ready": 23,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     }
   ],
   "priorOverlap": 0,
   "officialVariantMatches": 46,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 46,
+  "maintenanceClosed": true
 }

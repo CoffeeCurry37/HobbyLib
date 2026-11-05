@@ -1,16 +1,43 @@
 {
-  "at": "2026-11-05T07:06:34.771Z",
-  "stage": "prepared-validated-not-applied",
+  "at": "2026-11-05T07:09:46.229Z",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-5a345df5342f76d8",
+      "label": "京まふ 2024",
+      "snapshotItems": 23,
+      "productionApplied": 23,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-2ef3a64390060d91",
+      "label": "AnimeJapan 2022",
+      "snapshotItems": 23,
+      "productionApplied": 23,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
   "candidates": 46,
-  "prepared": 46,
-  "productionApplied": 0,
+  "productionApplied": 46,
+  "batches": 3,
   "pendingEvidence": 0,
-  "plannedBatches": 3,
-  "simulationPassed": true,
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
+  "officialVariantMatches": 46,
+  "unresolved": [],
+  "fieldLimits": "field-limits.json",
   "maintenanceClosed": true,
-  "environmentRevision": 87,
+  "environmentRevision": 89,
+  "deploymentId": "appgdep_6aec2b687ecc8191be1d063f3ef35e06",
   "siteVersion": 70,
-  "next": "逐批核对实时版本并正式补充；保留变动记录，写后完整读回并关闭临时维护入口。",
-  "doNotReplay": "本轮尚未写入；所有历史成功批次不得重放。"
+  "previousOutstanding": "../../series-evidence-20261104/kyomaf/resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮3批46条已成功写入并完整读回；所有历史成功批次同样禁止重放。",
+  "note": "仅补空缺简介和追加证据，不等于完整核实；既有1746条待查未清空，3条原认可资料保留。"
 }
-

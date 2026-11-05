@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-05T06:15:25.529Z",
+  "at": "2026-11-05T07:09:45.951Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 43,
-  "seriesAwaitingItemReview": 1805,
+  "seriesWithItemReview": 45,
+  "seriesAwaitingItemReview": 1803,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6438,
-  "productionApplied": 4688,
+  "coveredSnapshotItems": 6484,
+  "productionApplied": 4734,
   "protectedExisting": 3,
   "pendingEvidence": 1746,
   "freshVersionSkips": 1,
@@ -449,7 +449,27 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-5a345df5342f76d8",
+      "label": "京まふ 2024",
+      "snapshotItems": 23,
+      "productionApplied": 23,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-2ef3a64390060d91",
+      "label": "AnimeJapan 2022",
+      "snapshotItems": 23,
+      "productionApplied": 23,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261104/kyomaf/next-sources.json"
+  "nextSourceFile": "../series-evidence-20261105/kyomaf-aj/next-sources.json"
 }
