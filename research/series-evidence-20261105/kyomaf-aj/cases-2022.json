@@ -1,0 +1,581 @@
+{
+  "year": 2022,
+  "candidates": 23,
+  "rows": [
+    {
+      "itemId": "source-165ffd49f462790744e6026483faaac7",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "アクリルキーホルダー(マーリン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemPgjmUkRc",
+      "variantId": "005",
+      "officialTitle": "アクリルキーホルダー（マーリン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+        "at": "2026-11-05T07:03:39.011Z",
+        "sha256": "d681f08be83e9589fce01090a3d93f6d5d6da8254cd0046e9b37bd570afc66cf"
+      },
+      "second": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "六个角色尺寸分别对应，不套用首款尺寸；未把两位画师逐一分配到角色。",
+      "summary": "AnimeJapan 2022 的「アクリルキーホルダー（マーリン）/ Fate/Grand Order」。使用霧月、スオウ新绘插画系列的亚克力钥匙扣。此角色款尺寸约45.5×78.5毫米。"
+    },
+    {
+      "itemId": "source-1f32ddefe73b2aed086e6a30c5a6d1a8",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(太公望)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "009",
+      "officialTitle": "SDミニアクリルマスコット（太公望）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（太公望）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-23a25d592101e63bf879a61357436cbb",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(光のコヤンスカヤ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "011",
+      "officialTitle": "SDミニアクリルマスコット（光のコヤンスカヤ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（光のコヤンスカヤ）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-3fbc12ee72a3b1119c988b9c2381b22c",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "B2タペストリー(スオウ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemIHGDoWSC",
+      "variantId": "001",
+      "officialTitle": "B2タペストリー（スオウ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemIHGDoWSC.html",
+        "at": "2026-11-05T07:03:40.955Z",
+        "sha256": "c072017a23dafc5a6c81b2529224ce8cb91f99e4bf56f570f3a12433cf6a6307"
+      },
+      "second": "https://online.aniplex.co.jp/itemIHGDoWSC.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「B2タペストリー（スオウ）/ Fate/Grand Order」。采用スオウ新绘插画的B2挂画，使用单层绒面面料（シングルスエード）。"
+    },
+    {
+      "itemId": "source-499d22ebeec90ff90febc16f880fd062",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "アクリルキーホルダー(ガレス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemPgjmUkRc",
+      "variantId": "003",
+      "officialTitle": "アクリルキーホルダー（ガレス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+        "at": "2026-11-05T07:03:39.011Z",
+        "sha256": "d681f08be83e9589fce01090a3d93f6d5d6da8254cd0046e9b37bd570afc66cf"
+      },
+      "second": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "六个角色尺寸分别对应，不套用首款尺寸；未把两位画师逐一分配到角色。",
+      "summary": "AnimeJapan 2022 的「アクリルキーホルダー（ガレス）/ Fate/Grand Order」。使用霧月、スオウ新绘插画系列的亚克力钥匙扣。此角色款尺寸约67.5×72毫米。"
+    },
+    {
+      "itemId": "source-594772ee5d31b130c8cb9fac151e6a2e",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(メリュジーヌ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "005",
+      "officialTitle": "SDミニアクリルマスコット（メリュジーヌ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（メリュジーヌ）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-697fff9a305a745c68102d502b0ce614",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(アルトリア・キャスター)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "001",
+      "officialTitle": "SDミニアクリルマスコット（アルトリア・キャスター）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（アルトリア・キャスター）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-71b1fbcde71c9254b8e006576ba1af94",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(ドブルイニャ・ニキチッチ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "010",
+      "officialTitle": "SDミニアクリルマスコット（ドブルイニャ・ニキチッチ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（ドブルイニャ・ニキチッチ）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-83be8ea5db856714732b89e4ba1a928b",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "アクリルキーホルダー(諸葛孔明〔エルメロイII世〕)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemPgjmUkRc",
+      "variantId": "006",
+      "officialTitle": "アクリルキーホルダー（諸葛孔明〔エルメロイⅡ世〕）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+        "at": "2026-11-05T07:03:39.011Z",
+        "sha256": "d681f08be83e9589fce01090a3d93f6d5d6da8254cd0046e9b37bd570afc66cf"
+      },
+      "second": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "六个角色尺寸分别对应，不套用首款尺寸；未把两位画师逐一分配到角色。",
+      "summary": "AnimeJapan 2022 的「アクリルキーホルダー（諸葛孔明〔エルメロイⅡ世〕）/ Fate/Grand Order」。使用霧月、スオウ新绘插画系列的亚克力钥匙扣。此角色款尺寸约38.5×81毫米。"
+    },
+    {
+      "itemId": "source-840db88deaa6fa8d7550cc77e1dce4b4",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(パーシヴァル)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "006",
+      "officialTitle": "SDミニアクリルマスコット（パーシヴァル）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（パーシヴァル）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-868a7984f8ee591ee716b49ed229c53f",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "アクリルキーホルダー(太公望)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemPgjmUkRc",
+      "variantId": "004",
+      "officialTitle": "アクリルキーホルダー（太公望）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+        "at": "2026-11-05T07:03:39.011Z",
+        "sha256": "d681f08be83e9589fce01090a3d93f6d5d6da8254cd0046e9b37bd570afc66cf"
+      },
+      "second": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "六个角色尺寸分别对应，不套用首款尺寸；未把两位画师逐一分配到角色。",
+      "summary": "AnimeJapan 2022 的「アクリルキーホルダー（太公望）/ Fate/Grand Order」。使用霧月、スオウ新绘插画系列的亚克力钥匙扣。此角色款尺寸约56×75毫米。"
+    },
+    {
+      "itemId": "source-9954a8d319e65aad9333e26782bab9eb",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "アクリルキーホルダー(メリュジーヌ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemPgjmUkRc",
+      "variantId": "001",
+      "officialTitle": "アクリルキーホルダー（メリュジーヌ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+        "at": "2026-11-05T07:03:39.011Z",
+        "sha256": "d681f08be83e9589fce01090a3d93f6d5d6da8254cd0046e9b37bd570afc66cf"
+      },
+      "second": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "六个角色尺寸分别对应，不套用首款尺寸；未把两位画师逐一分配到角色。",
+      "summary": "AnimeJapan 2022 的「アクリルキーホルダー（メリュジーヌ）/ Fate/Grand Order」。使用霧月、スオウ新绘插画系列的亚克力钥匙扣。此角色款尺寸约52.5×75毫米。"
+    },
+    {
+      "itemId": "source-9a829d6da22d83539d899fc0a7c1fa66",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "アクリルキーホルダー(バーゲスト)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemPgjmUkRc",
+      "variantId": "002",
+      "officialTitle": "アクリルキーホルダー（バーゲスト）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+        "at": "2026-11-05T07:03:39.011Z",
+        "sha256": "d681f08be83e9589fce01090a3d93f6d5d6da8254cd0046e9b37bd570afc66cf"
+      },
+      "second": "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "六个角色尺寸分别对应，不套用首款尺寸；未把两位画师逐一分配到角色。",
+      "summary": "AnimeJapan 2022 的「アクリルキーホルダー（バーゲスト）/ Fate/Grand Order」。使用霧月、スオウ新绘插画系列的亚克力钥匙扣。此角色款尺寸约78.5×72.5毫米。"
+    },
+    {
+      "itemId": "source-9b9bdf8b18d97c2cffddf737afeba4dd",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(モルガン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "002",
+      "officialTitle": "SDミニアクリルマスコット（モルガン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（モルガン）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-a33acfe2c994004b149f094a41163b5a",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(オベロン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "007",
+      "officialTitle": "SDミニアクリルマスコット（オベロン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（オベロン）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-a924a3e260c9b355e930d106917f71ae",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(ハベトロット)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "008",
+      "officialTitle": "SDミニアクリルマスコット（ハベトロット）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（ハベトロット）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-a92fb4f2b990471351eef0ff5284dd06",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(バーヴァン・シー)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "004",
+      "officialTitle": "SDミニアクリルマスコット（バーヴァン・シー）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（バーヴァン・シー）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-c31ebb5d287e7b20b9df5a841d67a5af",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(バーゲスト)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "003",
+      "officialTitle": "SDミニアクリルマスコット（バーゲスト）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（バーゲスト）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-db4db33bd4cf3132ab3f778fa21ea614",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "The Epic of Fate/Grand Order -Absolute Demonic Front: Babylonia- / Fate/Grand Order -絶対魔獣戦線バビロニア-",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemgzJLmmLI",
+      "variantId": "001",
+      "officialTitle": "The Epic of Fate/Grand Order -Absolute Demonic Front: Babylonia- / Fate/Grand Order -絶対魔獣戦線バビロニア-",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemgzJLmmLI.html",
+        "at": "2026-11-05T07:03:41.525Z",
+        "sha256": "c3a23741f23133e21224816d787bf44c326ac48124bdabb1fce1d1fa181f06fc"
+      },
+      "second": "https://online.aniplex.co.jp/itemgzJLmmLI.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "官方页将正文240页和从含第0话的22集中选收原画列为预定，未将计划页数或收录范围写成实物确认；活动上架不证明初版发行年份。",
+      "summary": "AnimeJapan 2022 的「The Epic of Fate/Grand Order -Absolute Demonic Front: Babylonia- / Fate/Grand Order -絶対魔獣戦線バビロニア-」。CloverWorks发行的《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》电视动画原画集，A4竖版、全彩印刷。"
+    },
+    {
+      "itemId": "source-e0220c89c99a0c0bd910dcefb6117ec1",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "SDミニアクリルマスコット(闇のコヤンスカヤ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itembnZLfAVJ",
+      "variantId": "012",
+      "officialTitle": "SDミニアクリルマスコット（闇のコヤンスカヤ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+        "at": "2026-11-05T07:03:40.366Z",
+        "sha256": "52169929b9401bd883b193f264a43f233ce6352abab820bf93eeb5b5ce325645"
+      },
+      "second": "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「SDミニアクリルマスコット（闇のコヤンスカヤ）/ Fate/Grand Order」。采用野崎つばた新绘SD插画的迷你亚克力摆件，约40×65毫米，具体尺寸因角色而异。"
+    },
+    {
+      "itemId": "source-f17b1cb841beb0e88190dea14d88455d",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "B2タペストリー(霧月)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemEACzAdse",
+      "variantId": "001",
+      "officialTitle": "B2タペストリー（霧月）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemEACzAdse.html",
+        "at": "2026-11-05T07:03:42.103Z",
+        "sha256": "9567ede234e07fc9f23cc0d0555f466dee07c37bf813bab83efc175bdb65ac66"
+      },
+      "second": "https://online.aniplex.co.jp/itemEACzAdse.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": null,
+      "summary": "AnimeJapan 2022 的「B2タペストリー（霧月）/ Fate/Grand Order」。采用霧月新绘插画的B2挂画，使用单层绒面面料（シングルスエード）。"
+    },
+    {
+      "itemId": "source-f1f20a54b15f935656898bf05b63ba04",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "A4クリアファイルセット(霧月)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemDONiaWGl",
+      "variantId": "001",
+      "officialTitle": "A4クリアファイルセット（霧月）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemDONiaWGl.html",
+        "at": "2026-11-05T07:03:42.650Z",
+        "sha256": "c9ef75db8e131407efffba9712016220da29f15ebe6607904578399274aceec0"
+      },
+      "second": "https://online.aniplex.co.jp/itemDONiaWGl.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "官方正文未明确每套数量，保留套装身份但不推断件数。",
+      "summary": "AnimeJapan 2022 的「A4クリアファイルセット（霧月）/ Fate/Grand Order」。采用霧月新绘插画的A4透明文件夹套装，材质为PP。"
+    },
+    {
+      "itemId": "source-fe5f1b12f7e99cd7ba82170df1090264",
+      "groupId": "series-2ef3a64390060d91",
+      "title": "A4クリアファイルセット(スオウ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方活动专题 FGO 商品区块、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemNWOGOUAN",
+      "variantId": "001",
+      "officialTitle": "A4クリアファイルセット（スオウ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemNWOGOUAN.html",
+        "at": "2026-11-05T07:03:43.246Z",
+        "sha256": "22751c2a6d9654e30257f8d764a37c42c44b850acf6514a4791298fc7d5c7ea0"
+      },
+      "second": "https://online.aniplex.co.jp/itemNWOGOUAN.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "contextSource": "https://online.aniplex.co.jp/animejapan2022",
+      "notes": "官方正文未明确每套数量，保留套装身份但不推断件数。",
+      "summary": "AnimeJapan 2022 的「A4クリアファイルセット（スオウ）/ Fate/Grand Order」。采用スオウ新绘插画的A4透明文件夹套装，材质为PP。"
+    }
+  ]
+}

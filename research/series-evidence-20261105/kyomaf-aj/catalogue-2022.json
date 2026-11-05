@@ -1,0 +1,52 @@
+{
+  "year": 2022,
+  "groupId": "series-2ef3a64390060d91",
+  "mode": "complete-static-FGO-section",
+  "total": 8,
+  "pages": [
+    {
+      "source": {
+        "url": "https://online.aniplex.co.jp/animejapan2022",
+        "at": "2026-11-05T07:03:38.159Z",
+        "sha256": "11b3d33fe3620250096a3eb18651d96143e043996f5b4510fcd152ee27225f32"
+      },
+      "entries": [
+        {
+          "url": "https://online.aniplex.co.jp/itemEACzAdse.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemIHGDoWSC.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemDONiaWGl.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemNWOGOUAN.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemPgjmUkRc.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemXBEajOrG.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itembnZLfAVJ.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemgzJLmmLI.html"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    "https://online.aniplex.co.jp/itemEACzAdse.html",
+    "https://online.aniplex.co.jp/itemIHGDoWSC.html",
+    "https://online.aniplex.co.jp/itemDONiaWGl.html",
+    "https://online.aniplex.co.jp/itemNWOGOUAN.html",
+    "https://online.aniplex.co.jp/itemPgjmUkRc.html",
+    "https://online.aniplex.co.jp/itemXBEajOrG.html",
+    "https://online.aniplex.co.jp/itembnZLfAVJ.html",
+    "https://online.aniplex.co.jp/itemgzJLmmLI.html"
+  ],
+  "pagination": "单页活动专题中的完整 FGO 商品区块；无分页。并非全活动或完整发行史。"
+}
