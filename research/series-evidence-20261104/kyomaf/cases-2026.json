@@ -1,0 +1,680 @@
+{
+  "year": 2026,
+  "candidates": 24,
+  "rows": [
+    {
+      "itemId": "source-0585ccfce621972d7c65143c95b9a572",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】缶バッジ3個セット(七原しえ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK02",
+      "variantId": "002",
+      "officialTitle": "【京まふ2026】缶バッジ3個セット（七原しえ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK02.html",
+        "at": "2026-11-05T02:19:58.419Z",
+        "sha256": "14eacc1f906cd1979582d1d9480bd5827b74fbae33cbb85413501d9af7f0c4cf"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK02.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】缶バッジ3個セット（七原しえ）/ Fate/Grand Order」。使用和服主题新绘插画，一套三枚徽章，单枚直径约 57 毫米。"
+    },
+    {
+      "itemId": "source-0c8dffcf1025e672d475111da049a356",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】アクリルスタンド(ラーヴァ/ティアマト)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK01",
+      "variantId": "006",
+      "officialTitle": "【京まふ2026】アクリルスタンド（ラーヴァ／ティアマト）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "at": "2026-11-05T02:19:59.036Z",
+        "sha256": "5a0933d384ff05e20a316007058ef4c26bf257e09a844d1193d4fd6c6593997f"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】アクリルスタンド（ラーヴァ／ティアマト）/ Fate/Grand Order」。使用和服主题新绘插画，材质为亚克力，尺寸在宽 115、高 150 毫米以内，因角色而异。"
+    },
+    {
+      "itemId": "source-151a5b8230df57ba837f872f0c7efc13",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】A4クリアファイル(クリームヒルト)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK03",
+      "variantId": "005",
+      "officialTitle": "【京まふ2026】A4クリアファイル（クリームヒルト）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+        "at": "2026-11-05T02:19:59.670Z",
+        "sha256": "c6e4238072eba6ef42b102d02857576c99c682507a8d07472be5309052eeef73"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】A4クリアファイル（クリームヒルト）/ Fate/Grand Order」。使用和服主题新绘插画，材质为 PP，文件夹约宽 220、高 310 毫米。"
+    },
+    {
+      "itemId": "source-15824236e7ec9d75ee27b94beaa4e66b",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】アクリルスタンド(クー・フーリン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK01",
+      "variantId": "003",
+      "officialTitle": "【京まふ2026】アクリルスタンド（クー・フーリン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "at": "2026-11-05T02:19:59.036Z",
+        "sha256": "5a0933d384ff05e20a316007058ef4c26bf257e09a844d1193d4fd6c6593997f"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】アクリルスタンド（クー・フーリン）/ Fate/Grand Order」。使用和服主题新绘插画，材质为亚克力，尺寸在宽 115、高 150 毫米以内，因角色而异。"
+    },
+    {
+      "itemId": "source-17367aebdc8355443af0e0d2c30f550f",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】A4クリアファイル(ジャック・ド・モレー(セイバー))/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK03",
+      "variantId": "002",
+      "officialTitle": "【京まふ2026】A4クリアファイル（ジャック・ド・モレー（セイバー））/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+        "at": "2026-11-05T02:19:59.670Z",
+        "sha256": "c6e4238072eba6ef42b102d02857576c99c682507a8d07472be5309052eeef73"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】A4クリアファイル（ジャック・ド・モレー（セイバー））/ Fate/Grand Order」。使用和服主题新绘插画，材质为 PP，文件夹约宽 220、高 310 毫米。"
+    },
+    {
+      "itemId": "source-234bc7c3cea911cb2158f413098f9c01",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】アクリルスタンド(クリームヒルト)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK01",
+      "variantId": "005",
+      "officialTitle": "【京まふ2026】アクリルスタンド（クリームヒルト）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "at": "2026-11-05T02:19:59.036Z",
+        "sha256": "5a0933d384ff05e20a316007058ef4c26bf257e09a844d1193d4fd6c6593997f"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】アクリルスタンド（クリームヒルト）/ Fate/Grand Order」。使用和服主题新绘插画，材质为亚克力，尺寸在宽 115、高 150 毫米以内，因角色而异。"
+    },
+    {
+      "itemId": "source-379014b7848122da2be26b7cfd653ba8",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】掛け軸風タペストリー(藤堂平助)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK06",
+      "variantId": "001",
+      "officialTitle": "【京まふ2026】掛け軸風タペストリー（藤堂平助）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+        "at": "2026-11-05T02:20:00.388Z",
+        "sha256": "bcfb7c9b8167bce4fdd3d8ca7e1a5f37af5f5e868e963dc4e4c6b84b24f74c50"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】掛け軸風タペストリー（藤堂平助）/ Fate/Grand Order」。为和服主题的挂轴风挂画，约宽 258、高 728 毫米；画布为聚酯纤维，杆件为 PVC，挂绳为人造丝。"
+    },
+    {
+      "itemId": "source-38b1a8d8285fc8aa18f8b58ea9733e49",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】ランダムカード(七原しえ/全6種)<単品・ランダム封入>/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK05",
+      "variantId": "001",
+      "officialTitle": "【京まふ2026】ランダムカード（七原しえ／全6種）＜単品・ランダム封入＞/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK05.html",
+        "at": "2026-11-05T02:20:01.016Z",
+        "sha256": "4f471fd7f166ed969b5c79094c465b2ddd5bcd879b568832e905e5e3973b96c7"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】ランダムカード（七原しえ／全6種）＜単品・ランダム封入＞/ Fate/Grand Order」。采用七原しえ新绘和服插画，为六款中随机封入的单品，不能选款。纸质卡片约宽 54、高 86 毫米。"
+    },
+    {
+      "itemId": "source-4d4fd4b05bced6327dfe141977352c4c",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】アクリルスタンド(オルガマリー・アニムスフィア)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK01",
+      "variantId": "004",
+      "officialTitle": "【京まふ2026】アクリルスタンド（オルガマリー・アニムスフィア）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "at": "2026-11-05T02:19:59.036Z",
+        "sha256": "5a0933d384ff05e20a316007058ef4c26bf257e09a844d1193d4fd6c6593997f"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】アクリルスタンド（オルガマリー・アニムスフィア）/ Fate/Grand Order」。使用和服主题新绘插画，材质为亚克力，尺寸在宽 115、高 150 毫米以内，因角色而异。"
+    },
+    {
+      "itemId": "source-558fd16bdac3c17ac84737d9d106da17",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】A4クリアファイル(藤堂平助)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK03",
+      "variantId": "001",
+      "officialTitle": "【京まふ2026】A4クリアファイル（藤堂平助）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+        "at": "2026-11-05T02:19:59.670Z",
+        "sha256": "c6e4238072eba6ef42b102d02857576c99c682507a8d07472be5309052eeef73"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】A4クリアファイル（藤堂平助）/ Fate/Grand Order」。使用和服主题新绘插画，材质为 PP，文件夹约宽 220、高 310 毫米。"
+    },
+    {
+      "itemId": "source-71d1a3e9ee862f8a602349d8abd5122e",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】A4クリアファイル(ラーヴァ/ティアマト)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK03",
+      "variantId": "006",
+      "officialTitle": "【京まふ2026】A4クリアファイル（ラーヴァ／ティアマト）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+        "at": "2026-11-05T02:19:59.670Z",
+        "sha256": "c6e4238072eba6ef42b102d02857576c99c682507a8d07472be5309052eeef73"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】A4クリアファイル（ラーヴァ／ティアマト）/ Fate/Grand Order」。使用和服主题新绘插画，材质为 PP，文件夹约宽 220、高 310 毫米。"
+    },
+    {
+      "itemId": "source-77ba1e297b5d45dcc27bb66ebe89dcd5",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】缶バッジ3個セット(こまやま明)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK02",
+      "variantId": "001",
+      "officialTitle": "【京まふ2026】缶バッジ3個セット（こまやま明）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK02.html",
+        "at": "2026-11-05T02:19:58.419Z",
+        "sha256": "14eacc1f906cd1979582d1d9480bd5827b74fbae33cbb85413501d9af7f0c4cf"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK02.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】缶バッジ3個セット（こまやま明）/ Fate/Grand Order」。使用和服主题新绘插画，一套三枚徽章，单枚直径约 57 毫米。"
+    },
+    {
+      "itemId": "source-806736b76592558eb45db946de4340c2",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】掛け軸風タペストリー(クー・フーリン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK06",
+      "variantId": "003",
+      "officialTitle": "【京まふ2026】掛け軸風タペストリー（クー・フーリン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+        "at": "2026-11-05T02:20:00.388Z",
+        "sha256": "bcfb7c9b8167bce4fdd3d8ca7e1a5f37af5f5e868e963dc4e4c6b84b24f74c50"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】掛け軸風タペストリー（クー・フーリン）/ Fate/Grand Order」。为和服主题的挂轴风挂画，约宽 258、高 728 毫米；画布为聚酯纤维，杆件为 PVC，挂绳为人造丝。"
+    },
+    {
+      "itemId": "source-8336d8c3c6425d313680ba1560b403b8",
+      "groupId": "series-7f2686658ec97714",
+      "title": "京まふ2026 アニプレックス Fate/Grand Order アクリルスタンド オルガマリー・アニマスフィア",
+      "status": "supported",
+      "scope": "官方年度目录、完整款名及挂牌图像对应",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK01",
+      "variantId": "004",
+      "officialTitle": "【京まふ2026】アクリルスタンド（オルガマリー・アニムスフィア）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "at": "2026-11-05T02:19:59.036Z",
+        "sha256": "5a0933d384ff05e20a316007058ef4c26bf257e09a844d1193d4fd6c6593997f"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": {
+        "year": 2026,
+        "itemId": "source-8336d8c3c6425d313680ba1560b403b8",
+        "targetTitle": "京まふ2026 アニプレックス Fate/Grand Order アクリルスタンド オルガマリー・アニマスフィア",
+        "retailerUrl": "https://auctions.yahoo.co.jp/jp/auction/e1245527890",
+        "officialUrl": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "variantId": "004",
+        "officialTitle": "【京まふ2026】アクリルスタンド（オルガマリー・アニムスフィア）/ Fate/Grand Order",
+        "reviewedAt": "2026-11-05T02:21:31.452Z",
+        "method": "会话逐图比对：原包装内立牌的红伞、白发、红黑和服、黑色裙摆、抬腿姿势及条纹秋叶底座均与官方规格004对应。挂牌姓氏写作アニマスフィア，官方为アニムスフィア；保留原标题，仅在来源及简介中使用官方完整款名。不判断真伪、品相或库存。",
+        "reviewedImage": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-17900585336704hznso520421.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "images": [
+          {
+            "role": "retailer",
+            "url": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-17900585336704hznso520421.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+            "sha256": "1e60ddcf4a309c94d0a0b8db8f223c45d24afff17923597a3e0d2b1422ec0aad",
+            "at": "2026-11-05T02:20:32.348Z"
+          },
+          {
+            "role": "official",
+            "url": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb36db372/items/event/kyomaf2026/fgo/fgo_01_04.jpg",
+            "sha256": "8793bfce8a9fefdefdfb3b7072b0347c69b02a499417402e76370be2d01f0324",
+            "at": "2026-11-05T02:20:32.391Z"
+          }
+        ]
+      },
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】アクリルスタンド（オルガマリー・アニムスフィア）/ Fate/Grand Order」。使用和服主题新绘插画，材质为亚克力，尺寸在宽 115、高 150 毫米以内，因角色而异。"
+    },
+    {
+      "itemId": "source-8a7da7c09c9abbb68c61d7ed425e7a11",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】掛け軸風タペストリー(ジャック・ド・モレー(セイバー))/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK06",
+      "variantId": "002",
+      "officialTitle": "【京まふ2026】掛け軸風タペストリー（ジャック・ド・モレー（セイバー））/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+        "at": "2026-11-05T02:20:00.388Z",
+        "sha256": "bcfb7c9b8167bce4fdd3d8ca7e1a5f37af5f5e868e963dc4e4c6b84b24f74c50"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】掛け軸風タペストリー（ジャック・ド・モレー（セイバー））/ Fate/Grand Order」。为和服主题的挂轴风挂画，约宽 258、高 728 毫米；画布为聚酯纤维，杆件为 PVC，挂绳为人造丝。"
+    },
+    {
+      "itemId": "source-8ea0e48771beb247b5df34cf34a50790",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】アクリルスタンド(藤堂平助)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK01",
+      "variantId": "001",
+      "officialTitle": "【京まふ2026】アクリルスタンド（藤堂平助）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "at": "2026-11-05T02:19:59.036Z",
+        "sha256": "5a0933d384ff05e20a316007058ef4c26bf257e09a844d1193d4fd6c6593997f"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】アクリルスタンド（藤堂平助）/ Fate/Grand Order」。使用和服主题新绘插画，材质为亚克力，尺寸在宽 115、高 150 毫米以内，因角色而异。"
+    },
+    {
+      "itemId": "source-a98adbce77937fa42e369a2ef547ac16",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】掛け軸風タペストリー(オルガマリー・アニムスフィア)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK06",
+      "variantId": "004",
+      "officialTitle": "【京まふ2026】掛け軸風タペストリー（オルガマリー・アニムスフィア）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+        "at": "2026-11-05T02:20:00.388Z",
+        "sha256": "bcfb7c9b8167bce4fdd3d8ca7e1a5f37af5f5e868e963dc4e4c6b84b24f74c50"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】掛け軸風タペストリー（オルガマリー・アニムスフィア）/ Fate/Grand Order」。为和服主题的挂轴风挂画，约宽 258、高 728 毫米；画布为聚酯纤维，杆件为 PVC，挂绳为人造丝。"
+    },
+    {
+      "itemId": "source-b842542ce709f349381f727fd0386cab",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】ランダムカード(こまやま明/全6種)<単品・ランダム封入>/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK04",
+      "variantId": "001",
+      "officialTitle": "【京まふ2026】ランダムカード（こまやま明／全6種）＜単品・ランダム封入＞/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK04.html",
+        "at": "2026-11-05T02:20:01.674Z",
+        "sha256": "0dea49a9bd47aad56741c0db3b17d4a477996c1cc413acbf41127b52098d3323"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK04.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】ランダムカード（こまやま明／全6種）＜単品・ランダム封入＞/ Fate/Grand Order」。采用こまやま明新绘和服插画，为六款中随机封入的单品，不能选款。纸质卡片约宽 54、高 86 毫米。"
+    },
+    {
+      "itemId": "source-c37541461882eb8fd2f948f18b1a682e",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】A4クリアファイル(オルガマリー・アニムスフィア)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK03",
+      "variantId": "004",
+      "officialTitle": "【京まふ2026】A4クリアファイル（オルガマリー・アニムスフィア）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+        "at": "2026-11-05T02:19:59.670Z",
+        "sha256": "c6e4238072eba6ef42b102d02857576c99c682507a8d07472be5309052eeef73"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】A4クリアファイル（オルガマリー・アニムスフィア）/ Fate/Grand Order」。使用和服主题新绘插画，材质为 PP，文件夹约宽 220、高 310 毫米。"
+    },
+    {
+      "itemId": "source-ce99379c34fe34b71fc44441ecd83250",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】掛け軸風タペストリー(ラーヴァ/ティアマト)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK06",
+      "variantId": "006",
+      "officialTitle": "【京まふ2026】掛け軸風タペストリー（ラーヴァ／ティアマト）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+        "at": "2026-11-05T02:20:00.388Z",
+        "sha256": "bcfb7c9b8167bce4fdd3d8ca7e1a5f37af5f5e868e963dc4e4c6b84b24f74c50"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】掛け軸風タペストリー（ラーヴァ／ティアマト）/ Fate/Grand Order」。为和服主题的挂轴风挂画，约宽 258、高 728 毫米；画布为聚酯纤维，杆件为 PVC，挂绳为人造丝。"
+    },
+    {
+      "itemId": "source-d970f83e8df8d229d1c655273dadde87",
+      "groupId": "series-7f2686658ec97714",
+      "title": "京まふ2026 アニプレックス Fate/Grand Order アクリルスタンド 藤堂平助",
+      "status": "supported",
+      "scope": "官方年度目录、完整款名及挂牌图像对应",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK01",
+      "variantId": "001",
+      "officialTitle": "【京まふ2026】アクリルスタンド（藤堂平助）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "at": "2026-11-05T02:19:59.036Z",
+        "sha256": "5a0933d384ff05e20a316007058ef4c26bf257e09a844d1193d4fd6c6593997f"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": {
+        "year": 2026,
+        "itemId": "source-d970f83e8df8d229d1c655273dadde87",
+        "targetTitle": "京まふ2026 アニプレックス Fate/Grand Order アクリルスタンド 藤堂平助",
+        "retailerUrl": "https://auctions.yahoo.co.jp/jp/auction/p1245536866",
+        "officialUrl": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "variantId": "001",
+        "officialTitle": "【京まふ2026】アクリルスタンド（藤堂平助）/ Fate/Grand Order",
+        "reviewedAt": "2026-11-05T02:21:31.452Z",
+        "method": "会话逐图比对：原包装内立牌的黑色圆帽、蓝色和服与条纹衣摆、橙白小包、系带靴及砖纹底座，与官方规格001对应。不判断真伪、品相或库存。",
+        "reviewedImage": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-1790058581758792kurd34.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "images": [
+          {
+            "role": "retailer",
+            "url": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-1790058581758792kurd34.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+            "sha256": "ec464207380af445757c9e605f3e3312a86489ffe4121f5fd94d7e39044a19c4",
+            "at": "2026-11-05T02:20:33.178Z"
+          },
+          {
+            "role": "official",
+            "url": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw11acdc16/items/event/kyomaf2026/fgo/fgo_01_01.jpg",
+            "sha256": "a79e5e08093180a843f9d99b44b4e32c39075bb3a89f446926042ec9d5a8743e",
+            "at": "2026-11-05T02:20:32.788Z"
+          }
+        ]
+      },
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】アクリルスタンド（藤堂平助）/ Fate/Grand Order」。使用和服主题新绘插画，材质为亚克力，尺寸在宽 115、高 150 毫米以内，因角色而异。"
+    },
+    {
+      "itemId": "source-df5eee77d54b697e4ae2f8d7083f117e",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】A4クリアファイル(クー・フーリン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK03",
+      "variantId": "003",
+      "officialTitle": "【京まふ2026】A4クリアファイル（クー・フーリン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+        "at": "2026-11-05T02:19:59.670Z",
+        "sha256": "c6e4238072eba6ef42b102d02857576c99c682507a8d07472be5309052eeef73"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK03.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】A4クリアファイル（クー・フーリン）/ Fate/Grand Order」。使用和服主题新绘插画，材质为 PP，文件夹约宽 220、高 310 毫米。"
+    },
+    {
+      "itemId": "source-e0ed3a0c55c57e0a4d69f89624da5bbb",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】アクリルスタンド(ジャック・ド・モレー(セイバー))/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK01",
+      "variantId": "002",
+      "officialTitle": "【京まふ2026】アクリルスタンド（ジャック・ド・モレー（セイバー））/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+        "at": "2026-11-05T02:19:59.036Z",
+        "sha256": "5a0933d384ff05e20a316007058ef4c26bf257e09a844d1193d4fd6c6593997f"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】アクリルスタンド（ジャック・ド・モレー（セイバー））/ Fate/Grand Order」。使用和服主题新绘插画，材质为亚克力，尺寸在宽 115、高 150 毫米以内，因角色而异。"
+    },
+    {
+      "itemId": "source-f9bced0b8594d4a2983d4bfd6447c237",
+      "groupId": "series-7f2686658ec97714",
+      "title": "【京まふ2026】掛け軸風タペストリー(クリームヒルト)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemSeLHMudK06",
+      "variantId": "005",
+      "officialTitle": "【京まふ2026】掛け軸風タペストリー（クリームヒルト）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+        "at": "2026-11-05T02:20:00.388Z",
+        "sha256": "bcfb7c9b8167bce4fdd3d8ca7e1a5f37af5f5e868e963dc4e4c6b84b24f74c50"
+      },
+      "second": "https://online.aniplex.co.jp/itemSeLHMudK06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=khwRyHSc&start=36&sz=12",
+        "at": "2026-11-05T02:20:51.099Z",
+        "sha256": "ac713aefa334882a5dc41fdfa5c3ca1c609e01c795d7e115c858446826c4fe83"
+      },
+      "contextSource": "https://online.aniplex.co.jp/khwRyHSc",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2026 的「【京まふ2026】掛け軸風タペストリー（クリームヒルト）/ Fate/Grand Order」。为和服主题的挂轴风挂画，约宽 258、高 728 毫米；画布为聚酯纤维，杆件为 PVC，挂绳为人造丝。"
+    }
+  ]
+}

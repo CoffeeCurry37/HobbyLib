@@ -8,7 +8,7 @@
     "variantId": "005",
     "officialTitle": "【京まふ2025】アクリルスタンド（メタトロン・ジャンヌ）/ Fate/Grand Order",
     "reviewedAt": "2026-11-05T02:19:25.856Z",
-    "method": "会话逐图比对：挂牌为原包装内的单件立牌；蓝色和服、带翼帽饰、坐姿、红色行李箱、团子及秋叶底座，与官方规格005图一致。只确认商品造型与该规格对应，不判断真伪、品相或库存。",
+    "method": "会话逐图比对：挂牌为原包装内的单件立牌；蓝色和服、棕色帽饰、肩后白翼、坐姿、红色行李箱、团子及秋叶底座，与官方规格005图一致。只确认商品造型与该规格对应，不判断真伪、品相或库存。",
     "reviewedImage": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-1789964648678358duco64771.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
     "images": [
       {
@@ -22,6 +22,58 @@
         "url": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwce2f0e95/items/event/kyomaf2025/fgo/F_01_05.jpg",
         "sha256": "f4a2ce2a6885c86eaad5253a1ec518556a6d7c3f9742a739693eac560326aaba",
         "at": "2026-11-05T02:17:44.304Z"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "itemId": "source-8336d8c3c6425d313680ba1560b403b8",
+    "targetTitle": "京まふ2026 アニプレックス Fate/Grand Order アクリルスタンド オルガマリー・アニマスフィア",
+    "retailerUrl": "https://auctions.yahoo.co.jp/jp/auction/e1245527890",
+    "officialUrl": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+    "variantId": "004",
+    "officialTitle": "【京まふ2026】アクリルスタンド（オルガマリー・アニムスフィア）/ Fate/Grand Order",
+    "reviewedAt": "2026-11-05T02:21:31.452Z",
+    "method": "会话逐图比对：原包装内立牌的红伞、白发、红黑和服、黑色裙摆、抬腿姿势及条纹秋叶底座均与官方规格004对应。挂牌姓氏写作アニマスフィア，官方为アニムスフィア；保留原标题，仅在来源及简介中使用官方完整款名。不判断真伪、品相或库存。",
+    "reviewedImage": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-17900585336704hznso520421.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+    "images": [
+      {
+        "role": "retailer",
+        "url": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-17900585336704hznso520421.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "sha256": "1e60ddcf4a309c94d0a0b8db8f223c45d24afff17923597a3e0d2b1422ec0aad",
+        "at": "2026-11-05T02:20:32.348Z"
+      },
+      {
+        "role": "official",
+        "url": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb36db372/items/event/kyomaf2026/fgo/fgo_01_04.jpg",
+        "sha256": "8793bfce8a9fefdefdfb3b7072b0347c69b02a499417402e76370be2d01f0324",
+        "at": "2026-11-05T02:20:32.391Z"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "itemId": "source-d970f83e8df8d229d1c655273dadde87",
+    "targetTitle": "京まふ2026 アニプレックス Fate/Grand Order アクリルスタンド 藤堂平助",
+    "retailerUrl": "https://auctions.yahoo.co.jp/jp/auction/p1245536866",
+    "officialUrl": "https://online.aniplex.co.jp/itemSeLHMudK01.html",
+    "variantId": "001",
+    "officialTitle": "【京まふ2026】アクリルスタンド（藤堂平助）/ Fate/Grand Order",
+    "reviewedAt": "2026-11-05T02:21:31.452Z",
+    "method": "会话逐图比对：原包装内立牌的黑色圆帽、蓝色和服与条纹衣摆、橙白小包、系带靴及砖纹底座，与官方规格001对应。不判断真伪、品相或库存。",
+    "reviewedImage": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-1790058581758792kurd34.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+    "images": [
+      {
+        "role": "retailer",
+        "url": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/a2403e31cca944bc50cb8d5d902e4e7b347cc203ef9bcda1380d1a6b09e4001e/i-img900x1200-1790058581758792kurd34.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "sha256": "ec464207380af445757c9e605f3e3312a86489ffe4121f5fd94d7e39044a19c4",
+        "at": "2026-11-05T02:20:33.178Z"
+      },
+      {
+        "role": "official",
+        "url": "https://online.aniplex.co.jp/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw11acdc16/items/event/kyomaf2026/fgo/fgo_01_01.jpg",
+        "sha256": "a79e5e08093180a843f9d99b44b4e32c39075bb3a89f446926042ec9d5a8743e",
+        "at": "2026-11-05T02:20:32.788Z"
       }
     ]
   }

@@ -6,9 +6,9 @@
     2026,
     2023
   ],
-  "reviewed": 59,
-  "prepared": 59,
+  "reviewed": 83,
+  "prepared": 83,
   "productionApplied": 0,
-  "next": "核对京まふ2026的24条，再核对2023的23条。",
+  "next": "核对京まふ2023的23条，再进行差异验证与实时版本保护写入。",
   "maintenanceClosed": true
 }
