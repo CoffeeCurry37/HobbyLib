@@ -1,14 +1,18 @@
 import assert from 'node:assert/strict';
+import fs from 'node:fs';
 import {read,write,cached,clean} from './four-series-common.mjs';
 const dir='research/series-evidence-20261104/kyomaf',priv='work/series-evidence-20261104/kyomaf',year=Number(process.argv[2]);
 const g=read(dir+'/order.json').find(x=>Number(x.label.slice(-4))===year),rows=read(priv+'/'+year+'-targets.json'),catalogue=read(dir+'/catalogue-'+year+'.json'),facts=read(dir+'/facts-'+year+'.json');
 const norm=s=>clean(s).replace(/&Lambda;/g,'Λ').normalize('NFKC').replace(/\s+/g,'').toLowerCase();
 const plain=s=>clean(s.replace(/<br\b[^>]*>/gi,'\n').replace(/<[^>]+>/g,' ').replace(/[ \t]+/g,' '));
 const pages=new Map(),results=[];
+const bindings=fs.existsSync(dir+'/visual-bindings.json')?read(dir+'/visual-bindings.json'):[];
 for(const t of rows){
  const base={itemId:t.id,groupId:t.groupId,title:t.title};
  if(t.editorial||t.manualFields?.length||t.locked||t.summary){results.push({...base,status:'protected'});continue}
- const obs=t.officialObservations||[],urls=[...new Set(obs.map(o=>o.url))],url=urls[0];
+ const obs=t.officialObservations||[],binding=bindings.find(b=>b.year===year&&b.itemId===t.id);
+ if(binding){assert.equal(obs.length,0);assert.equal(t.title,binding.targetTitle);assert.ok(t.sourceUrls.includes(binding.retailerUrl));assert.equal(t.image,binding.reviewedImage);}
+ const urls=binding?[binding.officialUrl]:[...new Set(obs.map(o=>o.url))],url=urls[0];
  if(urls.length!==1||!catalogue.entries.includes(url)){results.push({...base,status:'pending',reason:'no-single-official-catalogue-item',urls:t.sourceUrls});continue}
  if(!pages.has(url)){
   const {body,source}=cached(url),sku=new URL(url).pathname.slice(1,-5);
@@ -21,12 +25,12 @@ for(const t of rows){
   for(const anchor of facts[sku].anchors)assert.ok(norm(sections).includes(norm(anchor)),sku+': '+anchor);
   pages.set(url,{sku,title:clean(product.name),source,variants,sections});
  }
- const p=pages.get(url),vs=p.variants.filter(v=>norm(v.label)===norm(t.title)&&obs.every(o=>o.variant===v.id&&norm(o.listingTitle)===norm(v.label)));
+ const p=pages.get(url),vs=p.variants.filter(v=>binding?(v.id===binding.variantId&&norm(v.label)===norm(binding.officialTitle)):(norm(v.label)===norm(t.title)&&obs.every(o=>o.variant===v.id&&norm(o.listingTitle)===norm(v.label))));
  if(vs.length!==1){results.push({...base,status:'pending',reason:'variant-id-or-full-title-mismatch',url});continue}
  const v=vs[0],f=facts[p.sku],catalogueSource=catalogue.pages.find(p=>p.entries.some(e=>e.url===url)).source;
  const years=[...v.label.matchAll(/京まふ\s*(20\d{2})/g)].map(m=>+m[1]);
  if(years.some(y=>y!==year)){results.push({...base,status:'pending',reason:'official-variant-year-differs',url,officialTitle:v.label});continue}
- results.push({...base,status:'supported',scope:'官方年度目录、商品号及完整规格',sourceRole:'official-product',sku:p.sku,variantId:v.id,officialTitle:v.label,source:p.source,second:url,catalogueSource,contextSource:g.source,notes:f.notes||null,summary:'京まふ '+year+' 的「'+v.label+'」。'+f.fact+(f.variantFacts?.[v.id]||'')});
+ results.push({...base,status:'supported',scope:binding?'官方年度目录、完整款名及挂牌图像对应':'官方年度目录、商品号及完整规格',sourceRole:'official-product',sku:p.sku,variantId:v.id,officialTitle:v.label,source:p.source,second:url,catalogueSource,contextSource:g.source,retailerBinding:binding||null,notes:f.notes||null,summary:'京まふ '+year+' 的「'+v.label+'」。'+f.fact+(f.variantFacts?.[v.id]||'')});
 }
 assert.equal(results.length,g.candidates);
 write(dir+'/cases-'+year+'.json',{year,candidates:results.length,rows:results});
