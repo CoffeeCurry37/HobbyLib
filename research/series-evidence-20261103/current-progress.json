@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-05T00:01:47.519Z",
+  "at": "2026-11-05T06:15:25.529Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 39,
-  "seriesAwaitingItemReview": 1809,
+  "seriesWithItemReview": 43,
+  "seriesAwaitingItemReview": 1805,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6332,
-  "productionApplied": 4582,
+  "coveredSnapshotItems": 6438,
+  "productionApplied": 4688,
   "protectedExisting": 3,
   "pendingEvidence": 1746,
   "freshVersionSkips": 1,
@@ -409,7 +409,47 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-a749490847163856",
+      "label": "京まふ 2021",
+      "snapshotItems": 30,
+      "productionApplied": 30,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-d70f0c745e4cfb17",
+      "label": "京まふ 2025",
+      "snapshotItems": 29,
+      "productionApplied": 29,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-7f2686658ec97714",
+      "label": "京まふ 2026",
+      "snapshotItems": 24,
+      "productionApplied": 24,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-a905c4955d91d8a8",
+      "label": "京まふ 2023",
+      "snapshotItems": 23,
+      "productionApplied": 23,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261104/tenyear-aj/next-sources.json"
+  "nextSourceFile": "../series-evidence-20261104/kyomaf/next-sources.json"
 }
