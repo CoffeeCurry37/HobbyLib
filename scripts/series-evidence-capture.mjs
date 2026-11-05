@@ -10,6 +10,8 @@ allowed.add('www.amiami.jp');allowed.add('robotrobot.jp');
 allowed.add('auc-pctr.c.yimg.jp');
 allowed.add('bandai-lifestyle.jp');
 allowed.add('bandai-a.akamaihd.net');
+for(const host of ['www.kodansha.co.jp','news.kodansha.co.jp','www.hanmoto.com'])allowed.add(host);
+for(const host of ['stage.fate-go.jp','unison-s-g.com'])allowed.add(host);
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};
 const planPath=process.argv[2],plan=JSON.parse(fs.readFileSync(planPath,'utf8'));
 if(!Array.isArray(plan)||plan.length>350)throw Error('Capture plan exceeds 350 URLs');

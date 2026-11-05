@@ -1,0 +1,16 @@
+[
+  {
+    "id": "turas-retailer-set",
+    "url": "https://www.suruga-ya.jp/product/detail/WK13678",
+    "at": "2026-11-05T16:17:35.756Z",
+    "kind": "public-web-text-observation",
+    "retailerCode": "WK13678",
+    "volumeRange": [
+      1,
+      22
+    ],
+    "publisher": "講談社",
+    "author": "カワグチタケシ",
+    "scope": "独立零售正文明确1至22卷；不是整个系列完结全集；不把第22卷ISBN当套装ISBN。"
+  }
+]

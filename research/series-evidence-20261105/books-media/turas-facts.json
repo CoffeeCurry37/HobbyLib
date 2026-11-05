@@ -1,0 +1,310 @@
+{
+  "at": "2026-11-05T16:17:35.756Z",
+  "catalogueSource": {
+    "url": "https://www.kodansha.co.jp/titles/1000030527",
+    "at": "2026-11-05T16:14:17.318Z",
+    "sha256": "e35ddb50097d60d90e64bdf514cf55f72719c8385acbf3bf57b78876792c4d57"
+  },
+  "volumes": [
+    {
+      "volume": 1,
+      "title": "Fate/Grand Order-turas realta-(1)",
+      "isbn": "9784065107645",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2018年01月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000052938",
+        "at": "2026-11-05T16:14:18.026Z",
+        "sha256": "406f25867cb0ed7564db0271046fcc3f36a7aeed39e5709537e77b246ed82597"
+      }
+    },
+    {
+      "volume": 2,
+      "title": "Fate/Grand Order-turas realta-(2)",
+      "isbn": "9784065114063",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2018年05月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000116163",
+        "at": "2026-11-05T16:15:22.597Z",
+        "sha256": "337e92c330b84ab9c9f71339eead24ee3db367b6b8fa578c1b92bca230fb76c3"
+      }
+    },
+    {
+      "volume": 3,
+      "title": "Fate/Grand Order-turas realta-(3)",
+      "isbn": "9784065129876",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2018年10月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000313652",
+        "at": "2026-11-05T16:15:21.238Z",
+        "sha256": "a60cacecd23b95cd4d002dce0378257934f77c8469d3cb68fc418d7c627ef913"
+      }
+    },
+    {
+      "volume": 4,
+      "title": "Fate/Grand Order-turas realta-(4)",
+      "isbn": "9784065144398",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2019年03月08日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000319474",
+        "at": "2026-11-05T16:15:20.331Z",
+        "sha256": "090e47dfb992ace681d31af2becd2eb13a43c87c9a2bb91a798ee42c4c49a79c"
+      }
+    },
+    {
+      "volume": 5,
+      "title": "Fate/Grand Order-turas realta-(5)",
+      "isbn": "9784065153031",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2019年07月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000321359",
+        "at": "2026-11-05T16:15:19.002Z",
+        "sha256": "0ada0f2a4aac7e36bbe7827c7bd37861f0277a29a3df1ddb283a22b41d056894"
+      }
+    },
+    {
+      "volume": 6,
+      "title": "Fate/Grand Order-turas realta-(6)",
+      "isbn": "9784065173046",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2019年11月08日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000325290",
+        "at": "2026-11-05T16:15:18.409Z",
+        "sha256": "d93ec4a30ee6195b2b6c9dc0375d2330d6d6294d321c6dd21afa81fa2f4d4086"
+      }
+    },
+    {
+      "volume": 7,
+      "title": "Fate/Grand Order-turas realta-(7)",
+      "isbn": "9784065185124",
+      "format": "新書",
+      "pages": 176,
+      "releaseDate": "2020年03月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000330338",
+        "at": "2026-11-05T16:15:17.175Z",
+        "sha256": "b0064c7860cbfa97e035df999b875e173394ef6b894df3d6111a55b9495828f3"
+      }
+    },
+    {
+      "volume": 8,
+      "title": "Fate/Grand Order-turas realta-(8)",
+      "isbn": "9784065203248",
+      "format": "新書",
+      "pages": 176,
+      "releaseDate": "2020年08月07日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000343486",
+        "at": "2026-11-05T16:15:24.894Z",
+        "sha256": "66e11ef3eff0c917684452ba2b4b21c1a7360187b5264cbb029238e6c8decf1d"
+      }
+    },
+    {
+      "volume": 9,
+      "title": "Fate/Grand Order-turas realta-(9)",
+      "isbn": "9784065216767",
+      "format": "新書",
+      "pages": 176,
+      "releaseDate": "2020年12月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000347305",
+        "at": "2026-11-05T16:15:23.562Z",
+        "sha256": "e7cc8a6d2b82f88bb8a7c94d95a3bd2b9fc2ddaa42ee3d7beabad8d143d7f0e5"
+      }
+    },
+    {
+      "volume": 10,
+      "title": "Fate/Grand Order-turas realta-(10)",
+      "isbn": "9784065231562",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2021年05月07日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000351473",
+        "at": "2026-11-05T16:15:06.003Z",
+        "sha256": "29d9534e642b4bbc4ba92e532796663b81c85601c4f12f615812a260e08cf348"
+      }
+    },
+    {
+      "volume": 11,
+      "title": "Fate/Grand Order-turas realta-(11)",
+      "isbn": "9784065251331",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2021年10月08日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000356190",
+        "at": "2026-11-05T16:15:07.519Z",
+        "sha256": "6b658aaf71fbbf8ecd9d1a7ce90722c9ae5597bb4bf93aaae4d9275d3da91798"
+      }
+    },
+    {
+      "volume": 12,
+      "title": "Fate/Grand Order-turas realta-(12)",
+      "isbn": "9784065272701",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2022年03月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000362768",
+        "at": "2026-11-05T16:15:03.240Z",
+        "sha256": "6150e7a9a40ca3ede8d841b50fabb89a807a041268f3768f7140fbb3d80f8e61"
+      }
+    },
+    {
+      "volume": 13,
+      "title": "Fate/Grand Order-turas realta-(13)",
+      "isbn": "9784065286630",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2022年08月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000367968",
+        "at": "2026-11-05T16:15:04.612Z",
+        "sha256": "91b51b4084f3a194896df77f2d34a8392bec2f8a646362f7e9adc9ad6c77ccc0"
+      }
+    },
+    {
+      "volume": 14,
+      "title": "Fate/Grand Order-turas realta-(14)",
+      "isbn": "9784065305287",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2023年02月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000373108",
+        "at": "2026-11-05T16:15:09.488Z",
+        "sha256": "f2b694d4e68ed78eeb6d29ecd5e8b26018d0bf2773207dd8c444d498e38e13b7"
+      }
+    },
+    {
+      "volume": 15,
+      "title": "Fate/Grand Order-turas realta-(15)",
+      "isbn": "9784065321690",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2023年07月07日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000377832",
+        "at": "2026-11-05T16:15:10.175Z",
+        "sha256": "23348e9cfa3eabb5f1764dd8dafb17ebd147677f7ea01316062caa32953bb058"
+      }
+    },
+    {
+      "volume": 16,
+      "title": "Fate/Grand Order-turas realta-(16)",
+      "isbn": "9784065338827",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2024年01月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000383228",
+        "at": "2026-11-05T16:15:08.129Z",
+        "sha256": "830aaa452f734cd3df55ff9f580cd2992b25d6e971772fc7ee34a28b0b3df65d"
+      }
+    },
+    {
+      "volume": 17,
+      "title": "Fate/Grand Order-turas realta-(17)",
+      "isbn": "9784065361269",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2024年07月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000393877",
+        "at": "2026-11-05T16:15:08.816Z",
+        "sha256": "dd0ebf16084c449ae0ab184bc8ae4f315293f2a089724f0d57a005d0455739c7"
+      }
+    },
+    {
+      "volume": 18,
+      "title": "Fate/Grand Order-turas realta-(18)",
+      "isbn": "9784065374269",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2024年11月08日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000399662",
+        "at": "2026-11-05T16:15:11.581Z",
+        "sha256": "ed716f51e2ee4b6e50f43e13370998a9f3839a981168220ab202881d06832e1a"
+      }
+    },
+    {
+      "volume": 19,
+      "title": "Fate/Grand Order-turas realta-(19)",
+      "isbn": "9784065390559",
+      "format": "新書",
+      "pages": 208,
+      "releaseDate": "2025年04月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000409996",
+        "at": "2026-11-05T16:15:12.456Z",
+        "sha256": "bf1fb9a9849043e0ab9fa28a5d7c0a003161e36327c4c4e94ece5a9fcb6ca7b8"
+      }
+    },
+    {
+      "volume": 20,
+      "title": "Fate/Grand Order-turas realta-(20)",
+      "isbn": "9784065403525",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2025年08月07日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000417035",
+        "at": "2026-11-05T16:15:15.550Z",
+        "sha256": "65f3d8cba3374864170cffa667bfb37a3c56cdc3e333872a12fc79d91fe81510"
+      }
+    },
+    {
+      "volume": 21,
+      "title": "Fate/Grand Order-turas realta-(21)",
+      "isbn": "9784065418932",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2025年12月09日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000421983",
+        "at": "2026-11-05T16:15:14.737Z",
+        "sha256": "e9ac069a866cdd4117b99973aa66a46f48b8a7fd572e7b2449d4fb60c51ca99e"
+      }
+    },
+    {
+      "volume": 22,
+      "title": "Fate/Grand Order-turas realta-(22)",
+      "isbn": "9784065436097",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2026年05月08日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000426874",
+        "at": "2026-11-05T16:15:13.144Z",
+        "sha256": "6ba88f95a46266864d52a9570625c709b8818058924ac8b09a39cd11a305e75b"
+      }
+    },
+    {
+      "volume": 23,
+      "title": "Fate/Grand Order-turas realta-(23)",
+      "isbn": "9784065452684",
+      "format": "新書",
+      "pages": 192,
+      "releaseDate": "2026年10月08日",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000431853",
+        "at": "2026-11-05T16:15:26.456Z",
+        "sha256": "814433b1587e2461bcf3d7a38d68c1144661d70b9b252faa36e67e11b3e32a43"
+      }
+    }
+  ],
+  "accessNote": "网页工具旧403与本轮普通公开直连200不同；未登录、未绕过，已保存原HTML哈希。"
+}
