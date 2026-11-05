@@ -1,0 +1,253 @@
+{
+  "at": "2026-11-05T15:53:03Z",
+  "method": "实际查看公开厂商图片；逐项读取可见名称及图案。slot仅为图片排布顺序，不是商品编号。单款按留存系列名、完整款名和零售编号与普通款唯一对应；未声称逐件零售图片比对。",
+  "ticket": {
+    "catalogueUrl": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+    "reviewedImages": [
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_1.jpg",
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_2.jpg",
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg"
+    ],
+    "lineupImage": 3,
+    "normalMembers": [
+      {
+        "slot": 1,
+        "member": "アルトリア・ペンドラゴン",
+        "visibleName": "ALTRIA PENDRAGON"
+      },
+      {
+        "slot": 2,
+        "member": "千子村正",
+        "visibleName": "SENJI MURAMASA"
+      },
+      {
+        "slot": 3,
+        "member": "シャルルマーニュ",
+        "visibleName": "CHARLEMAGNE"
+      },
+      {
+        "slot": 4,
+        "member": "織田信長",
+        "visibleName": "ODA NOBUNAGA"
+      },
+      {
+        "slot": 5,
+        "member": "高杉晋作",
+        "visibleName": "TAKASUGI SHINSAKU"
+      },
+      {
+        "slot": 6,
+        "member": "エレシュキガル",
+        "visibleName": "ERESHKIGAL"
+      },
+      {
+        "slot": 7,
+        "member": "ネモ",
+        "visibleName": "NEMO"
+      },
+      {
+        "slot": 8,
+        "member": "マーリン",
+        "visibleName": "MERLIN"
+      },
+      {
+        "slot": 9,
+        "member": "キャスター/アルトリア・キャスター",
+        "visibleName": "ALTRIA CASTER"
+      },
+      {
+        "slot": 10,
+        "member": "岡田以蔵",
+        "visibleName": "OKADA IZO"
+      },
+      {
+        "slot": 11,
+        "member": "モルガン",
+        "visibleName": "MORGAN"
+      },
+      {
+        "slot": 12,
+        "member": "シャーロック・ホームズ",
+        "visibleName": "SHERLOCK HOLMES"
+      },
+      {
+        "slot": 13,
+        "member": "巌窟王エドモン・ダンテス",
+        "visibleName": "EDMOND DANTES"
+      },
+      {
+        "slot": 14,
+        "member": "ジャンヌ・ダルク〔オルタ〕",
+        "visibleName": "JEANNE D'ARC (ALTER)"
+      },
+      {
+        "slot": 15,
+        "member": "BB",
+        "visibleName": "BB"
+      },
+      {
+        "slot": 16,
+        "member": "蘆屋道満",
+        "visibleName": "ASHIYA DOMAN"
+      },
+      {
+        "slot": 17,
+        "member": "闇のコヤンスカヤ",
+        "visibleName": "KOYANSKAYA OF DARK"
+      },
+      {
+        "slot": 18,
+        "member": "オベロン",
+        "visibleName": "OBERON"
+      },
+      {
+        "slot": 19,
+        "member": "レディアヴァロン(プロトマーリン)",
+        "visibleName": "LADY AVALON"
+      },
+      {
+        "slot": 20,
+        "member": "マシュ・キリエライト",
+        "visibleName": "MASH KYRIELIGHT"
+      }
+    ],
+    "secrets": "第3图的两个秘密款为灰色占位图，无法绑定零售892791829/892791830。",
+    "size": "图2及厂商正文均为150×76mm；两种外包装示例不等于每包两枚。"
+  },
+  "sticker": {
+    "catalogueUrl": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+    "reviewedImages": [
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_1.jpg",
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_2.jpg",
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_4.jpg",
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_5.jpg",
+      "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_6.jpg"
+    ],
+    "lineupImage": 3,
+    "normalMembers": [
+      {
+        "slot": 1,
+        "member": "アヴェンジャー/巌窟王 エドモン・ダンテス",
+        "visibleName": "EDMOND DANTES",
+        "type": "character-name"
+      },
+      {
+        "slot": 2,
+        "member": "アーチャー/ジェームズ・モリアーティ",
+        "visibleName": "JAMES MORIARTY",
+        "type": "character-name"
+      },
+      {
+        "slot": 3,
+        "member": "アサシン/岡田以蔵",
+        "visibleName": "OKADA IZO",
+        "type": "character-name"
+      },
+      {
+        "slot": 4,
+        "member": "セイバー/斎藤一",
+        "visibleName": "SAITO HAJIME",
+        "type": "character-name"
+      },
+      {
+        "slot": 5,
+        "member": "バーサーカー/アルジュナ〔オルタ〕",
+        "visibleName": "ARJUNA",
+        "type": "character-name"
+      },
+      {
+        "slot": 6,
+        "member": "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕",
+        "visibleName": "JEANNE D'ARC",
+        "type": "character-name"
+      },
+      {
+        "slot": 7,
+        "member": "ランサー/エレシュキガル",
+        "visibleName": "ERESHKIGAL",
+        "type": "character-name"
+      },
+      {
+        "slot": 8,
+        "member": "アサシン/光のコヤンスカヤ",
+        "visibleName": "KOYANSKAYA OF LIGHT",
+        "type": "character-name"
+      },
+      {
+        "slot": 9,
+        "member": "キャスター/スカサハ=スカディ",
+        "visibleName": "SCATHACH=SKADI",
+        "type": "character-name"
+      },
+      {
+        "slot": 10,
+        "member": "バーサーカー/クー・フーリン〔オルタ〕",
+        "visibleName": "CU CHULAINN",
+        "type": "character-name"
+      },
+      {
+        "slot": 11,
+        "member": "星月夜",
+        "visibleName": "星月夜",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 12,
+        "member": "第一の太陽",
+        "visibleName": "第一の太陽",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 13,
+        "member": "超級維新・奇兵隊",
+        "visibleName": "超級維新・奇兵隊",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 14,
+        "member": "童女謳う華の帝政",
+        "visibleName": "童女謳う華の帝政",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 15,
+        "member": "無明三段突き",
+        "visibleName": "無明三段突き",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 16,
+        "member": "この世ならざる幻馬",
+        "visibleName": "この世ならざる幻馬",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 17,
+        "member": "六道五輪・倶利伽羅天象",
+        "visibleName": "六道五輪・倶利伽羅天象",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 18,
+        "member": "光殻湛えし虚樹",
+        "visibleName": "光殻湛えし虚樹",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 19,
+        "member": "初歩的なことだ、友よ",
+        "visibleName": "初歩的なことだ、友よ",
+        "type": "noble-phantasm-name"
+      },
+      {
+        "slot": 20,
+        "member": "天日光天照八野鎮石",
+        "visibleName": "天日光天照八野鎮石",
+        "type": "noble-phantasm-name"
+      }
+    ],
+    "secrets": "第6图可见两款台词图案：令呪をもって命ずる 和 俺に集るな…吐き気がする；页面未把图案与零售シークレット1/2编号对应，因此两条均不写入。",
+    "unrepresentedNormal": "アサシン/岡田以蔵 未在这24条候选中；不新增商品。"
+  }
+}

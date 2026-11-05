@@ -1,0 +1,33 @@
+[
+  {
+    "groupId": "series-f9bdeb076f26b3db",
+    "label": "Fate/Grand Order チケットライクコレクション",
+    "candidates": 24,
+    "source": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+    "capture": {
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+      "at": "2026-11-05T07:21:57.336Z",
+      "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+    },
+    "status": "source-discovery-only",
+    "scope": "厂商说明22种（20普通+2隐藏），该页面为单包1枚；24条候选含单款、包、盒，候选数量不等于款式数量。",
+    "next": "逐款核对官方图案/款名及零售编号；两条隐藏款不可从内部席位号推定。另证整盒数量与配置，不保证齐款。",
+    "key": "ticket"
+  },
+  {
+    "groupId": "series-b588c56ae22b3618",
+    "label": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+    "candidates": 24,
+    "source": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+    "capture": {
+      "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+      "at": "2026-11-05T07:21:57.391Z",
+      "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+    },
+    "status": "source-discovery-only",
+    "scope": "厂商此页为单包1枚，明确与2枚入り版同款式；不能将1枚包装规格写给2枚包或BOX。24条候选包括单款、包、盒和零售全22种组合。",
+    "next": "核对款名、隐藏款及图片，再分开1枚包/2枚包/BOX/零售齐款组合；不由同款式推定同包装或整盒齐款。",
+    "key": "sticker"
+  }
+]
+

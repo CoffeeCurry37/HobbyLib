@@ -1,0 +1,136 @@
+[
+  {
+    "id": "ticket-retail-pack",
+    "url": "https://www.suruga-ya.jp/product/detail/892791808",
+    "kind": "public-web-text-observation",
+    "at": "2026-11-05T15:53:03Z",
+    "retailerCode": "892791808",
+    "facts": {
+      "saleUnit": "パック",
+      "normalMembers": [
+        "アルトリア・ペンドラゴン",
+        "千子村正",
+        "シャルルマーニュ",
+        "織田信長",
+        "高杉晋作",
+        "エレシュキガル",
+        "ネモ",
+        "マーリン",
+        "キャスター/アルトリア・キャスター",
+        "岡田以蔵",
+        "モルガン",
+        "シャーロック・ホームズ",
+        "巌窟王エドモン・ダンテス",
+        "ジャンヌ・ダルク〔オルタ〕",
+        "BB",
+        "蘆屋道満",
+        "闇のコヤンスカヤ",
+        "オベロン",
+        "レディアヴァロン(プロトマーリン)",
+        "マシュ・キリエライト"
+      ],
+      "secretLabels": [
+        "シークレット01",
+        "シークレット02"
+      ]
+    },
+    "limitation": "网页公开检索文本；直连HTTP403，未保存原HTML；零售尺寸及材质未采用。"
+  },
+  {
+    "id": "ticket-retail-box",
+    "url": "https://www.suruga-ya.jp/product/detail/892907169",
+    "kind": "public-web-text-observation",
+    "at": "2026-11-05T15:53:03Z",
+    "retailerCode": "892907169",
+    "facts": {
+      "saleUnit": "ボックス",
+      "packsPerBox": 20
+    },
+    "limitation": "观察哈希不是原网页哈希；不推定整盒齐款。"
+  },
+  {
+    "id": "ticket-hlj-box",
+    "url": "https://www.hlj.co.jp/product/BANO993725",
+    "kind": "public-web-text-observation",
+    "at": "2026-11-05T15:53:03Z",
+    "facts": {
+      "jan": "4582769993725",
+      "packsPerBox": 20,
+      "random": true,
+      "completeSetGuaranteed": false
+    }
+  },
+  {
+    "id": "sticker-retail-set",
+    "url": "https://www.suruga-ya.jp/product/detail/859278818",
+    "kind": "public-web-text-observation",
+    "at": "2026-11-05T15:53:03Z",
+    "retailerCode": "859278818",
+    "facts": {
+      "saleUnit": "retailer-full-22-set",
+      "normalMembers": [
+        "アヴェンジャー/巌窟王 エドモン・ダンテス",
+        "アーチャー/ジェームズ・モリアーティ",
+        "アサシン/岡田以蔵",
+        "セイバー/斎藤一",
+        "バーサーカー/アルジュナ〔オルタ〕",
+        "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕",
+        "ランサー/エレシュキガル",
+        "アサシン/光のコヤンスカヤ",
+        "キャスター/スカサハ=スカディ",
+        "バーサーカー/クー・フーリン〔オルタ〕",
+        "星月夜",
+        "第一の太陽",
+        "超級維新・奇兵隊",
+        "童女謳う華の帝政",
+        "無明三段突き",
+        "この世ならざる幻馬",
+        "六道五輪・倶利伽羅天象",
+        "光殻湛えし虚樹",
+        "初歩的なことだ、友よ",
+        "天日光天照八野鎮石"
+      ],
+      "secretLabels": [
+        "シークレット1",
+        "シークレット2"
+      ]
+    },
+    "limitation": "零售商组合与厂商随机包/整盒是独立销售单位；隐藏款没有具体图案编号对应。"
+  },
+  {
+    "id": "sticker-two-box",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04812265",
+    "kind": "public-web-text-observation",
+    "at": "2026-11-05T15:53:03Z",
+    "facts": {
+      "jan": "4582769993466",
+      "packsPerBox": 20,
+      "sheetsPerPack": 2,
+      "random": true
+    },
+    "limitation": "可以证明该JAN的包装，不能单凭同系列名称绑定859278795或859902218。"
+  },
+  {
+    "id": "sticker-secret1",
+    "url": "https://www.suruga-ya.jp/product/detail/859278816",
+    "kind": "search-index-observation",
+    "at": "2026-11-05T15:53:03Z",
+    "retailerCode": "859278816",
+    "facts": {
+      "label": "シークレット1",
+      "foil": true
+    },
+    "limitation": "只给匿名隐藏款标签，没有图案与编号对应。"
+  },
+  {
+    "id": "sticker-unavailable",
+    "kind": "public-web-access-failure",
+    "at": "2026-11-05T15:53:03Z",
+    "urls": [
+      "https://www.suruga-ya.jp/product/detail/859278795",
+      "https://www.suruga-ya.jp/product/detail/859902218",
+      "https://www.suruga-ya.jp/product/detail/859278817"
+    ],
+    "limitation": "公开网页工具未能读取；未绕过访问限制；同域直连403已记录，未再批量请求24页。"
+  }
+]
