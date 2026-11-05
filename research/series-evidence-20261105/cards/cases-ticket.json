@@ -1,0 +1,1012 @@
+{
+  "at": "2026-11-05T15:55:05.570Z",
+  "groupId": "series-f9bdeb076f26b3db",
+  "reviewed": 24,
+  "rows": [
+    {
+      "itemId": "a8037e80-1f3a-4667-b752-23359e692b3a",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "BB 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791823",
+        "code": "892791823",
+        "retainedTitle": "BB 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-04T21:16:12.917Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791823"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "BB",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "BB",
+        "displaySlot": 15
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「BB」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "aefb5bad-e7ba-4062-b0dd-a0e84011ed00",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "ジャンヌ・ダルク〔オルタ〕 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791822",
+        "code": "892791822",
+        "retainedTitle": "ジャンヌ・ダルク〔オルタ〕 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-04T21:16:14.147Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791822"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "ジャンヌ・ダルク〔オルタ〕",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "JEANNE D'ARC (ALTER)",
+        "displaySlot": 14
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「ジャンヌ・ダルク〔オルタ〕」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-0a7892d6f25045ef0619f54927816d78",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "【ボックス】Fate/Grand Order チケットライクコレクション",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892907169",
+        "code": "892907169",
+        "retainedTitle": "【ボックス】Fate/Grand Order チケットライクコレクション",
+        "knownAt": "2026-10-06T01:42:20.746Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892907169"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "scope": "整盒：零售892907169明确20包，官方证明每包1枚",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」整盒商品。零售说明为每盒20包；官方单包规格为1枚、尺寸150×76毫米。系列共22款（20款普通、2款隐藏），随机封入，整盒不保证集齐全部款式。",
+      "observationIds": [
+        "ticket-retail-box",
+        "ticket-hlj-box"
+      ],
+      "notes": "盒数来自独立零售BOX说明，单卡尺寸及每包1枚来自厂商；不宣称齐款。",
+      "second": "https://www.suruga-ya.jp/product/detail/892907169",
+      "observationSources": [
+        {
+          "id": "ticket-retail-box",
+          "url": "https://www.suruga-ya.jp/product/detail/892907169",
+          "kind": "public-web-text-observation",
+          "sha256": "038f7dd8493d10308dc4d250b62bee1300c06d297b4b40f6cfdd5981fa0aa8c0"
+        },
+        {
+          "id": "ticket-hlj-box",
+          "url": "https://www.hlj.co.jp/product/BANO993725",
+          "kind": "public-web-text-observation",
+          "sha256": "ab2a27120878702c4d97485fa5efddaa44c09663575bb33dbca8600aec158ef1"
+        }
+      ]
+    },
+    {
+      "itemId": "source-13085487da6d507b7099b3ae1736b399",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "モルガン 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791819",
+        "code": "892791819",
+        "retainedTitle": "モルガン 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.743Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791819"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "モルガン",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "MORGAN",
+        "displaySlot": 11
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「モルガン」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-1878e0dfe3bc584a69275fba4656313f",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "【シークレット01】 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791829",
+        "code": "892791829",
+        "retainedTitle": "【シークレット01】 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.745Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791829"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "官方款式图仅有两个隐藏占位；匿名零售编号尚不能绑定具体图案。",
+      "sourcesChecked": [
+        "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_1.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_2.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "https://www.suruga-ya.jp/product/detail/892791829"
+      ]
+    },
+    {
+      "itemId": "source-19cd96c6f62f1343e859ec456e93256e",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "闇のコヤンスカヤ 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791825",
+        "code": "892791825",
+        "retainedTitle": "闇のコヤンスカヤ 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.744Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791825"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "闇のコヤンスカヤ",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "KOYANSKAYA OF DARK",
+        "displaySlot": 17
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「闇のコヤンスカヤ」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-1b0a9ea3dac20e4445e8b2cc6a10da46",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "織田信長 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791812",
+        "code": "892791812",
+        "retainedTitle": "織田信長 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.744Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791812"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "織田信長",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "ODA NOBUNAGA",
+        "displaySlot": 4
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「織田信長」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-244829ef1df7077c47a115f350d27cb4",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "シャーロック・ホームズ 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791820",
+        "code": "892791820",
+        "retainedTitle": "シャーロック・ホームズ 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.744Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791820"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "シャーロック・ホームズ",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "SHERLOCK HOLMES",
+        "displaySlot": 12
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「シャーロック・ホームズ」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-316d45847755c9e4b9ba0c3231e793b8",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "【パック】Fate/Grand Order チケットライクコレクション",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791808",
+        "code": "892791808",
+        "retainedTitle": "【パック】Fate/Grand Order チケットライクコレクション",
+        "knownAt": "2026-10-06T01:42:20.746Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791808"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "scope": "随机单包：独立零售编号与官方单包规格",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」随机单包，每包1枚票券造型全彩迷你海报，尺寸150×76毫米。系列共22款（20款普通、2款隐藏），内容随机，非指定款或齐款套装。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "notes": "单包1枚由官方页确认；不把两种外袋图理解为两枚入。",
+      "second": "https://www.suruga-ya.jp/product/detail/892791808",
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-3270ce9e586a2b1886bee7b2e9783e07",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "【シークレット02】 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791830",
+        "code": "892791830",
+        "retainedTitle": "【シークレット02】 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.743Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791830"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "官方款式图仅有两个隐藏占位；匿名零售编号尚不能绑定具体图案。",
+      "sourcesChecked": [
+        "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_1.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_2.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "https://www.suruga-ya.jp/product/detail/892791830"
+      ]
+    },
+    {
+      "itemId": "source-331c9d327c4245833897179fd486dee2",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "蘆屋道満 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791824",
+        "code": "892791824",
+        "retainedTitle": "蘆屋道満 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:10.662Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791824"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "蘆屋道満",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "ASHIYA DOMAN",
+        "displaySlot": 16
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「蘆屋道満」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-3ae11a68cfc4d8e6e79d76b16933af16",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "ネモ 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791815",
+        "code": "892791815",
+        "retainedTitle": "ネモ 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.744Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791815"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "ネモ",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "NEMO",
+        "displaySlot": 7
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「ネモ」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-4248145267aadaa2a84dd87cd59e21ea",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "アルトリア・ペンドラゴン 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791809",
+        "code": "892791809",
+        "retainedTitle": "アルトリア・ペンドラゴン 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.745Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791809"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "アルトリア・ペンドラゴン",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "ALTRIA PENDRAGON",
+        "displaySlot": 1
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「アルトリア・ペンドラゴン」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-5c3021cab1ec83d49516bb9d1d6b304e",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "岡田以蔵 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791818",
+        "code": "892791818",
+        "retainedTitle": "岡田以蔵 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.745Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791818"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "岡田以蔵",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "OKADA IZO",
+        "displaySlot": 10
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「岡田以蔵」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-78778e17ad79417da05101bc8dbb2116",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "エレシュキガル 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791814",
+        "code": "892791814",
+        "retainedTitle": "エレシュキガル 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.744Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791814"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "エレシュキガル",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "ERESHKIGAL",
+        "displaySlot": 6
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「エレシュキガル」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-987b123a33e347888fea411cf92d57d4",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "シャルルマーニュ 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791811",
+        "code": "892791811",
+        "retainedTitle": "シャルルマーニュ 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:10.662Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791811"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "シャルルマーニュ",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "CHARLEMAGNE",
+        "displaySlot": 3
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「シャルルマーニュ」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-a31ebe045b42cb96f8cbacf2b54e25df",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "巌窟王エドモン・ダンテス 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791821",
+        "code": "892791821",
+        "retainedTitle": "巌窟王エドモン・ダンテス 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:10.664Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791821"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "巌窟王エドモン・ダンテス",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "EDMOND DANTES",
+        "displaySlot": 13
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「巌窟王エドモン・ダンテス」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-ac89c23c5576494d6f3abd9708dea356",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "マーリン 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791816",
+        "code": "892791816",
+        "retainedTitle": "マーリン 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.745Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791816"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "マーリン",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "MERLIN",
+        "displaySlot": 8
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「マーリン」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-ae7e00bb1afa53117f11c50c41a54cfe",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "高杉晋作 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791813",
+        "code": "892791813",
+        "retainedTitle": "高杉晋作 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.746Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791813"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "高杉晋作",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "TAKASUGI SHINSAKU",
+        "displaySlot": 5
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「高杉晋作」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-be4466f2dc57534e704b8943038e9f88",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "オベロン 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791826",
+        "code": "892791826",
+        "retainedTitle": "オベロン 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:15.819Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791826"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "オベロン",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "OBERON",
+        "displaySlot": 18
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「オベロン」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-c6b4ae6c46bb18ac2628c129ac8e8a49",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "レディアヴァロン(プロトマーリン) 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791827",
+        "code": "892791827",
+        "retainedTitle": "レディアヴァロン(プロトマーリン) 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.745Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791827"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "レディアヴァロン(プロトマーリン)",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "LADY AVALON",
+        "displaySlot": 19
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「レディアヴァロン(プロトマーリン)」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-ee3b8ffa0052bdd7708fe3a9df3a0852",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "千子村正 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791810",
+        "code": "892791810",
+        "retainedTitle": "千子村正 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.743Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791810"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "千子村正",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "SENJI MURAMASA",
+        "displaySlot": 2
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「千子村正」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-f8964985a1b0d31d616487e988043595",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "マシュ・キリエライト 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791828",
+        "code": "892791828",
+        "retainedTitle": "マシュ・キリエライト 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.743Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791828"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "マシュ・キリエライト",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "MASH KYRIELIGHT",
+        "displaySlot": 20
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「マシュ・キリエライト」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    },
+    {
+      "itemId": "source-faae6e418af84784af4087c59201f299",
+      "groupId": "series-f9bdeb076f26b3db",
+      "title": "キャスター/アルトリア・キャスター 「Fate/Grand Order チケットライクコレクション」",
+      "productLine": "Fate/Grand Order チケットライクコレクション",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/892791817",
+        "code": "892791817",
+        "retainedTitle": "キャスター/アルトリア・キャスター 「Fate/Grand Order チケットライクコレクション」",
+        "knownAt": "2026-10-06T01:42:20.745Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/892791817"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "officialTitle": "Fate/Grand Order チケットライクコレクション",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "キャスター/アルトリア・キャスター",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+        "visibleName": "ALTRIA CASTER",
+        "displaySlot": 9
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order チケットライクコレクション」中的「キャスター/アルトリア・キャスター」普通款。票券造型全彩迷你海报，官方尺寸150×76毫米。系列共22款（20款普通、2款隐藏）；本条为指定单款。",
+      "notes": "只采用官方尺寸；未采用零售冲突尺寸或PET材质。单款不套用随机包或整盒配置。",
+      "observationIds": [
+        "ticket-retail-pack"
+      ],
+      "observationSources": [
+        {
+          "id": "ticket-retail-pack",
+          "url": "https://www.suruga-ya.jp/product/detail/892791808",
+          "kind": "public-web-text-observation",
+          "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77"
+        }
+      ]
+    }
+  ]
+}

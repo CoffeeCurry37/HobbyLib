@@ -1,0 +1,12 @@
+{
+  "captureReceipts": 35,
+  "uniqueUrls": 35,
+  "statuses": {
+    "captured": 11,
+    "unavailable": 24
+  },
+  "requests": 34,
+  "cacheHits": 1,
+  "paidModelApiCalls": 0,
+  "scope": "本地公开抓取回执；网页工具观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+}

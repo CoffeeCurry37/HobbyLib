@@ -1,0 +1,28 @@
+{
+  "stage": "prepared-validated-no-production-write",
+  "at": "2026-11-05T15:53:03Z",
+  "candidates": 48,
+  "prepared": 42,
+  "pendingEvidence": 6,
+  "productionApplied": 0,
+  "simulation": "simulation.json",
+  "groups": [
+    {
+      "key": "ticket",
+      "candidates": 24,
+      "prepared": 22,
+      "pending": 2
+    },
+    {
+      "key": "sticker",
+      "candidates": 24,
+      "prepared": 20,
+      "pending": 4
+    }
+  ],
+  "maintenanceClosed": true,
+  "siteVersion": 70,
+  "environmentRevision": 91,
+  "next": "实时核对目标完整版本，分3批最多20条写入，读回后立即关闭维护入口并实测。成功批次不得重放。",
+  "previousCheckpoint": "../aj26-ky22/resume.json"
+}

@@ -1,0 +1,990 @@
+{
+  "at": "2026-11-05T15:55:05.570Z",
+  "groupId": "series-b588c56ae22b3618",
+  "reviewed": 24,
+  "rows": [
+    {
+      "itemId": "0128e2ac-e5c5-4b2c-9d22-b8aed56952e8",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "全22種セット 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278818",
+        "code": "859278818",
+        "retainedTitle": "全22種セット 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-04T21:16:16.803Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278818"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "scope": "零售全22种组合：以该零售编号正文的完整组合清单为证，不认作厂商固定套装",
+      "summary": "零售商列出的「Fate/Grand Order モバイルステッカーコレクション Vol.2」全22种组合，清单含20款普通贴纸及2款隐藏贴纸。系列采用模切设计，最大约59×86毫米，表面为哑光涂层，隐藏款有特别烫箔。此条为零售齐款组合，不等同于厂商随机包或整盒。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "notes": "组合范围有零售正文及清单；隐藏款只按匿名清单计数，不写图案身份；不宣称官方固定套装。",
+      "second": "https://www.suruga-ya.jp/product/detail/859278818",
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "1aece5cd-7037-4087-89f1-61bf2e878b51",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "【パック】Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278795",
+        "code": "859278795",
+        "retainedTitle": "【パック】Fate/Grand Order モバイルステッカーコレクション Vol.2",
+        "knownAt": "2026-10-04T21:16:16.803Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278795"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "已确认官方一枚装和两枚装同款式，但当前零售编号无可读取的独立JAN或包装数量证据；不能选择任一规格。",
+      "sourcesChecked": [
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993466000",
+        "https://www.suruga-ya.jp/product/detail/859278795",
+        "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04812265"
+      ]
+    },
+    {
+      "itemId": "34fc6db7-9bc4-48c2-b08f-4f04d26c2879",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "超級維新・奇兵隊 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278808",
+        "code": "859278808",
+        "retainedTitle": "超級維新・奇兵隊 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-04T21:16:12.917Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278808"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "超級維新・奇兵隊",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "超級維新・奇兵隊",
+        "displaySlot": 13
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「超級維新・奇兵隊」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "45359560-5b9f-4c60-b57a-89cbabb139a1",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "バーサーカー/クー・フーリン〔オルタ〕 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278805",
+        "code": "859278805",
+        "retainedTitle": "バーサーカー/クー・フーリン〔オルタ〕 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-04T21:16:16.803Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278805"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "バーサーカー/クー・フーリン〔オルタ〕",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "CU CHULAINN",
+        "displaySlot": 10
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「バーサーカー/クー・フーリン〔オルタ〕」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "6aac2ce4-68a0-4a40-8536-0dc391d483d0",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "【ボックス】Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859902218",
+        "code": "859902218",
+        "retainedTitle": "【ボックス】Fate/Grand Order モバイルステッカーコレクション Vol.2",
+        "knownAt": "2026-10-04T21:16:16.803Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859902218"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "已确认官方一枚装和两枚装同款式，但当前零售编号无可读取的独立JAN或包装数量证据；不能选择任一规格。",
+      "sourcesChecked": [
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993466000",
+        "https://www.suruga-ya.jp/product/detail/859902218",
+        "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04812265"
+      ]
+    },
+    {
+      "itemId": "b4772eb3-5ce6-4939-b569-1adaed2e106b",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "アヴェンジャー/巌窟王 エドモン・ダンテス 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278796",
+        "code": "859278796",
+        "retainedTitle": "アヴェンジャー/巌窟王 エドモン・ダンテス 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-04T21:16:12.917Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278796"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "アヴェンジャー/巌窟王 エドモン・ダンテス",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "EDMOND DANTES",
+        "displaySlot": 1
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「アヴェンジャー/巌窟王 エドモン・ダンテス」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "cc50f3e4-11ab-4d8a-a8a6-852731bfbbd8",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "アサシン/光のコヤンスカヤ 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278803",
+        "code": "859278803",
+        "retainedTitle": "アサシン/光のコヤンスカヤ 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-04T21:16:12.917Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278803"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "アサシン/光のコヤンスカヤ",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "KOYANSKAYA OF LIGHT",
+        "displaySlot": 8
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「アサシン/光のコヤンスカヤ」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "d5ff39fe-b784-4982-900f-852a0b5b0366",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "光殻湛えし虚樹 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278813",
+        "code": "859278813",
+        "retainedTitle": "光殻湛えし虚樹 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-04T21:16:12.917Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278813"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "光殻湛えし虚樹",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "光殻湛えし虚樹",
+        "displaySlot": 18
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「光殻湛えし虚樹」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "e3a8929e-e850-466a-a9b0-fcb499e4a50f",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "第一の太陽 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278807",
+        "code": "859278807",
+        "retainedTitle": "第一の太陽 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-04T21:16:12.917Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278807"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "第一の太陽",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "第一の太陽",
+        "displaySlot": 12
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「第一の太陽」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-0f25712f182cdbe61ede3fbea8e406c6",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "童女謳う華の帝政 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278809",
+        "code": "859278809",
+        "retainedTitle": "童女謳う華の帝政 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.857Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278809"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "童女謳う華の帝政",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "童女謳う華の帝政",
+        "displaySlot": 14
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「童女謳う華の帝政」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-153f168685f5a234e1768e58c403412d",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "アーチャー/ジェームズ・モリアーティ 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278797",
+        "code": "859278797",
+        "retainedTitle": "アーチャー/ジェームズ・モリアーティ 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.856Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278797"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "アーチャー/ジェームズ・モリアーティ",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "JAMES MORIARTY",
+        "displaySlot": 2
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「アーチャー/ジェームズ・モリアーティ」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-29d2f97ffff0048ff471b061653f5bd6",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "キャスター/スカサハ=スカディ 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278804",
+        "code": "859278804",
+        "retainedTitle": "キャスター/スカサハ=スカディ 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:10.463Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278804"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "キャスター/スカサハ=スカディ",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "SCATHACH=SKADI",
+        "displaySlot": 9
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「キャスター/スカサハ=スカディ」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-336af54c7d8184138f76cfbb42cbbb1d",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "六道五輪・倶利伽羅天象 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278812",
+        "code": "859278812",
+        "retainedTitle": "六道五輪・倶利伽羅天象 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.856Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278812"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "六道五輪・倶利伽羅天象",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "六道五輪・倶利伽羅天象",
+        "displaySlot": 17
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「六道五輪・倶利伽羅天象」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-3c577324ebc9213bd0d659846b22ea72",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "バーサーカー/アルジュナ〔オルタ〕 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278800",
+        "code": "859278800",
+        "retainedTitle": "バーサーカー/アルジュナ〔オルタ〕 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:10.463Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278800"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "バーサーカー/アルジュナ〔オルタ〕",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "ARJUNA",
+        "displaySlot": 5
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「バーサーカー/アルジュナ〔オルタ〕」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-57acd70d48b7dc182f412ee0c5fdd445",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "この世ならざる幻馬 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278811",
+        "code": "859278811",
+        "retainedTitle": "この世ならざる幻馬 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:10.462Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278811"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "この世ならざる幻馬",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "この世ならざる幻馬",
+        "displaySlot": 16
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「この世ならざる幻馬」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-812322b940c4fb11691df08a0ab9cef0",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "天日光天照八野鎮石 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278815",
+        "code": "859278815",
+        "retainedTitle": "天日光天照八野鎮石 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.856Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278815"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "天日光天照八野鎮石",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "天日光天照八野鎮石",
+        "displaySlot": 20
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「天日光天照八野鎮石」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-82e3f3569d949b35fc861ff004d5b421",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "ランサー/エレシュキガル 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278802",
+        "code": "859278802",
+        "retainedTitle": "ランサー/エレシュキガル 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:10.463Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278802"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "ランサー/エレシュキガル",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "ERESHKIGAL",
+        "displaySlot": 7
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「ランサー/エレシュキガル」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-9b7e6cf279911febf1a9ccea6b543b0b",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278801",
+        "code": "859278801",
+        "retainedTitle": "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.856Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278801"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "JEANNE D'ARC",
+        "displaySlot": 6
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「アヴェンジャー/ジャンヌ・ダルク〔オルタ〕」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-9ceed8989e0e7ab30da417829c308992",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "【シークレット1】 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278816",
+        "code": "859278816",
+        "retainedTitle": "【シークレット1】 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.857Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278816"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "官方第6图展示两款台词图案，但没有与零售シークレット1/2编号的可靠对应。",
+      "sourcesChecked": [
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_1.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_2.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_4.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_5.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_6.jpg",
+        "https://www.suruga-ya.jp/product/detail/859278816"
+      ]
+    },
+    {
+      "itemId": "source-a8485949ee038febad37cbc39735909c",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "無明三段突き 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278810",
+        "code": "859278810",
+        "retainedTitle": "無明三段突き 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.856Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278810"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "無明三段突き",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "無明三段突き",
+        "displaySlot": 15
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「無明三段突き」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-b037c0a0a08e38012b203d393ebfe888",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "セイバー/斎藤一 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278799",
+        "code": "859278799",
+        "retainedTitle": "セイバー/斎藤一 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.858Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278799"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "セイバー/斎藤一",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "SAITO HAJIME",
+        "displaySlot": 4
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「セイバー/斎藤一」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-b536e2bf58e98524a6031d81e6c66836",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "初歩的なことだ、友よ 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278814",
+        "code": "859278814",
+        "retainedTitle": "初歩的なことだ、友よ 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:10.463Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278814"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "初歩的なことだ、友よ",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "初歩的なことだ、友よ",
+        "displaySlot": 19
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「初歩的なことだ、友よ」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-c2ea0cac85bc9cfc4d940bd17eca8539",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "星月夜 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278806",
+        "code": "859278806",
+        "retainedTitle": "星月夜 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:04.855Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278806"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "supported",
+      "member": "星月夜",
+      "visualMatch": {
+        "image": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "visibleName": "星月夜",
+        "displaySlot": 11
+      },
+      "scope": "单款：留存零售编号及完整款名，与官方普通款图中的名称、图案唯一对应；非当前库存或逐件零售图核验",
+      "summary": "万代「Fate/Grand Order モバイルステッカーコレクション Vol.2」中的「星月夜」普通款。模切贴纸，表面为哑光涂层；该系列尺寸最大约59×86毫米，具体大小随图案变化。本条为指定单款。",
+      "notes": "款名及图案对应官方普通款；最大尺寸不等于每款实际尺寸。单款不套用一枚装或两枚装的包装规格。",
+      "observationIds": [
+        "sticker-retail-set"
+      ],
+      "observationSources": [
+        {
+          "id": "sticker-retail-set",
+          "url": "https://www.suruga-ya.jp/product/detail/859278818",
+          "kind": "public-web-text-observation",
+          "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962"
+        }
+      ]
+    },
+    {
+      "itemId": "source-c37cbaa86070b8e6de976e6f2345b0bc",
+      "groupId": "series-b588c56ae22b3618",
+      "title": "【シークレット2】 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+      "productLine": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "retailerBinding": {
+        "url": "https://www.suruga-ya.jp/product/detail/859278817",
+        "code": "859278817",
+        "retainedTitle": "【シークレット2】 「Fate/Grand Order モバイルステッカーコレクション Vol.2」",
+        "knownAt": "2026-10-06T01:41:10.463Z",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/859278817"
+        ]
+      },
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "officialTitle": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "sourceRole": "official-series-specification-with-retained-retailer-identity",
+      "status": "pending",
+      "reason": "官方第6图展示两款台词图案，但没有与零售シークレット1/2编号的可靠对应。",
+      "sourcesChecked": [
+        "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_1.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_2.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_4.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_5.jpg",
+        "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_6.jpg",
+        "https://www.suruga-ya.jp/product/detail/859278817"
+      ]
+    }
+  ]
+}

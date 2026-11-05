@@ -1,0 +1,175 @@
+{
+  "at": "2026-11-05T15:55:05.570Z",
+  "groups": [
+    {
+      "groupId": "series-f9bdeb076f26b3db",
+      "label": "Fate/Grand Order チケットライクコレクション",
+      "candidates": 24,
+      "source": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "capture": {
+        "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582769993725000",
+        "at": "2026-11-05T07:21:57.336Z",
+        "sha256": "e9f0790d3f04714b96f5d5d5364cef2642bda928da5abdf8a286c47448489ecb"
+      },
+      "status": "source-discovery-only",
+      "scope": "厂商说明22种（20普通+2隐藏），该页面为单包1枚；24条候选含单款、包、盒，候选数量不等于款式数量。",
+      "next": "逐款核对官方图案/款名及零售编号；两条隐藏款不可从内部席位号推定。另证整盒数量与配置，不保证齐款。",
+      "key": "ticket",
+      "normal": 20,
+      "secret": 2,
+      "total": 22,
+      "spec": {
+        "cardMillimetres": [
+          150,
+          76
+        ],
+        "sheetsPerPack": 1,
+        "box": {
+          "packs": 20,
+          "observation": "ticket-retail-box"
+        },
+        "excluded": "零售PET及80×205×0.7mm不写入；两种包装示意不等于每包两枚；日期不一致不补日期。"
+      }
+    },
+    {
+      "groupId": "series-b588c56ae22b3618",
+      "label": "Fate/Grand Order モバイルステッカーコレクション Vol.2",
+      "candidates": 24,
+      "source": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "capture": {
+        "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993459000",
+        "at": "2026-11-05T07:21:57.391Z",
+        "sha256": "a4f63205801376fe6549b3d05a600027897ada315e50b41ffd3eadd77b6a5947"
+      },
+      "status": "source-discovery-only",
+      "scope": "厂商此页为单包1枚，明确与2枚入り版同款式；不能将1枚包装规格写给2枚包或BOX。24条候选包括单款、包、盒和零售全22种组合。",
+      "next": "核对款名、隐藏款及图片，再分开1枚包/2枚包/BOX/零售齐款组合；不由同款式推定同包装或整盒齐款。",
+      "key": "sticker",
+      "normal": 20,
+      "secret": 2,
+      "total": 22,
+      "spec": {
+        "maximumMillimetres": [
+          59,
+          86
+        ],
+        "matteCoating": true,
+        "sheetsPerPack": 1,
+        "twoSheetSource": {
+          "url": "https://bandai-lifestyle.jp/products/details.php?detail=4582769993466000",
+          "at": "2026-11-05T15:51:10.035Z",
+          "sha256": "6e6f4385a697a90d6abae32e81f24ced8d946ffb1867bc103d964636e0ebd087"
+        },
+        "excluded": "两个零售包装编号没有独立JAN/内容绑定；不按同系列名称或价格推定包装版本。"
+      }
+    }
+  ],
+  "imageSources": [
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_1.jpg",
+      "at": "2026-11-05T15:42:51.221Z",
+      "sha256": "658ff8249d5029639556c81d1fe60147eb3ea6483b0563dbb1bf952b2e5f9284",
+      "bytes": 103469
+    },
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_2.jpg",
+      "at": "2026-11-05T15:42:52.227Z",
+      "sha256": "baaf2516851c65ae0e4a03659326e9bed0f5cc36e34c96bf14d01ab59683254f",
+      "bytes": 97629
+    },
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000247909_3.jpg",
+      "at": "2026-11-05T15:42:53.427Z",
+      "sha256": "c96f6c0aac3cc26f6bb5fc1570d68981cb24a45b2a3dfc01c863027ea160e54b",
+      "bytes": 78021
+    },
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_1.jpg",
+      "at": "2026-11-05T15:50:13.902Z",
+      "sha256": "ea50b364b1c5b499753008251e74d0dfc9a05c1a1d4dbc788438bd5d2c77582f",
+      "bytes": 117844
+    },
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_2.jpg",
+      "at": "2026-11-05T15:50:14.935Z",
+      "sha256": "3142222a3dbbd1a5897153b58ff9e5ad8519d9a0cbc5efc4abbd22cac0a5492a",
+      "bytes": 77136
+    },
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_3.jpg",
+      "at": "2026-11-05T15:50:16.126Z",
+      "sha256": "3d9cbf9ca2293e5997db1027d62ffa0c933532d3b9995b137c00a5b5ea81c1d9",
+      "bytes": 86759
+    },
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_4.jpg",
+      "at": "2026-11-05T15:50:17.381Z",
+      "sha256": "5794a347575897866a63438cd8757dcb0870da3867ba37e7e754fe934f18302b",
+      "bytes": 107450
+    },
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_5.jpg",
+      "at": "2026-11-05T15:50:18.694Z",
+      "sha256": "6ed5d02ea3efb77716965488342d1791e167c29bb8c0311b1db29c347c06b405",
+      "bytes": 95190
+    },
+    {
+      "url": "https://bandai-a.akamaihd.net/bc/img/model/b/1000251223_6.jpg",
+      "at": "2026-11-05T15:50:19.846Z",
+      "sha256": "1f57dba9582fc7be7fcf4e6905dd2fa0fd3ff5953eb1f0b1045153bf4fc0502f",
+      "bytes": 71679
+    }
+  ],
+  "observations": [
+    {
+      "id": "ticket-retail-pack",
+      "kind": "public-web-text-observation",
+      "sha256": "e63b6596a947a45d46f1a9d77364281520dcb5a4909e80844f97ed9b4643bc77",
+      "hashScope": "JSON observation, not original HTML"
+    },
+    {
+      "id": "ticket-retail-box",
+      "kind": "public-web-text-observation",
+      "sha256": "038f7dd8493d10308dc4d250b62bee1300c06d297b4b40f6cfdd5981fa0aa8c0",
+      "hashScope": "JSON observation, not original HTML"
+    },
+    {
+      "id": "ticket-hlj-box",
+      "kind": "public-web-text-observation",
+      "sha256": "ab2a27120878702c4d97485fa5efddaa44c09663575bb33dbca8600aec158ef1",
+      "hashScope": "JSON observation, not original HTML"
+    },
+    {
+      "id": "sticker-retail-set",
+      "kind": "public-web-text-observation",
+      "sha256": "b8c036d9269e972bbce0c6f85eaa9723c233727a85e3dbe83f4eb2a8f9e5b962",
+      "hashScope": "JSON observation, not original HTML"
+    },
+    {
+      "id": "sticker-two-box",
+      "kind": "public-web-text-observation",
+      "sha256": "5cc5b11a882e435aeeba0bfe2d8b2ed4bbc6a2d1f15e6904cc9951f53bac8c7f",
+      "hashScope": "JSON observation, not original HTML"
+    },
+    {
+      "id": "sticker-secret1",
+      "kind": "search-index-observation",
+      "sha256": "75141e9a006edf2e0932a39edca65f25330e2dea9bc0321dd1582e9e8a840167",
+      "hashScope": "JSON observation, not original HTML"
+    },
+    {
+      "id": "sticker-unavailable",
+      "kind": "public-web-access-failure",
+      "sha256": "0dd714baccdf1c72716bfad84c8612e3d26c8fe7ac620bd3f29815204968c496",
+      "hashScope": "JSON observation, not original HTML"
+    }
+  ]
+}
