@@ -1,0 +1,41 @@
+[
+  {
+    "groupId": "series-5062e494236396ff",
+    "label": "AnimeJapan 2026",
+    "candidates": 15,
+    "source": "https://online.aniplex.co.jp/animejapan2026",
+    "existingOfficialProductUrls": [
+      "https://online.aniplex.co.jp/itemCWPTEBZQ06.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ07.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ08.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ01.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ05.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ02.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ04.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ09.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ10.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ03.html",
+      "https://online.aniplex.co.jp/itemCWPTEBZQ11.html"
+    ],
+    "year": 2026,
+    "previousSource": "https://online.aniplex.co.jp/EOyBwVvu",
+    "expectedWork": "Fate/strange Fake",
+    "sourceCorrection": "旧断点使用 FGO 专属目录，但本组15条为 Fate/strange Fake；改以 AnimeJapan2026 总目录逐页核对。"
+  },
+  {
+    "groupId": "series-b27a728651d41744",
+    "label": "京まふ 2022",
+    "candidates": 14,
+    "source": "https://online.aniplex.co.jp/VxfcUhGK",
+    "existingOfficialProductUrls": [
+      "https://online.aniplex.co.jp/itemCgoKeozL.html",
+      "https://online.aniplex.co.jp/itemRPSMkjWI.html",
+      "https://online.aniplex.co.jp/itemPNTRGumI.html",
+      "https://online.aniplex.co.jp/itemcIilKFLA.html",
+      "https://online.aniplex.co.jp/itemzDfAZmpq.html",
+      "https://online.aniplex.co.jp/itemKiigYQCY.html"
+    ],
+    "year": 2022
+  }
+]
+

@@ -1,0 +1,19 @@
+{
+  "at": "2026-11-05T07:15:49.526Z",
+  "groupId": "series-5062e494236396ff",
+  "previousSource": {
+    "url": "https://online.aniplex.co.jp/EOyBwVvu",
+    "at": "2026-11-05T07:12:45.456Z",
+    "sha256": "c43d7f002bef60453459d006e76e67bef46381b3ea280af5edfd63dc83aff270"
+  },
+  "correctedSource": {
+    "url": "https://online.aniplex.co.jp/animejapan2026",
+    "at": "2026-11-05T07:14:02.243Z",
+    "sha256": "21aaca9ad23ecad820f40e688608d02efd871157d4ad9e7d5815d16456b87654"
+  },
+  "expectedWork": "Fate/strange Fake",
+  "reason": "旧断点使用 FGO 专属目录，但本组15条为 Fate/strange Fake；改以 AnimeJapan2026 总目录逐页核对。",
+  "matchedRecords": 15,
+  "matchedProductPages": 11,
+  "note": "旧入口仅为来源发现，未用于此前生产写入；本轮以更正后的活动目录及官方商品页核对，不变更商品名称或作品归属。"
+}

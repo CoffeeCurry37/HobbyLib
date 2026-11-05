@@ -1,0 +1,14 @@
+{
+  "at": "2026-11-05T07:15:49.572Z",
+  "stage": "research-in-progress-not-applied",
+  "researched": 15,
+  "prepared": 15,
+  "productionApplied": 0,
+  "pendingEvidence": 0,
+  "next": "京まふ2022的14条；两组完成后冻结计划、验证并按实时版本写入。",
+  "sourceCorrection": "source-correction.json",
+  "maintenanceClosed": true,
+  "environmentRevision": 89,
+  "siteVersion": 70,
+  "doNotReplay": "本轮尚未写入；此前所有成功批次不得重放。"
+}
