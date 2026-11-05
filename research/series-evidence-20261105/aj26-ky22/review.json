@@ -1,6 +1,6 @@
 {
   "at": "2026-11-05T07:17:52.147Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 29,
   "prepared": 29,
   "pending": 0,
@@ -57,5 +57,6 @@
   "officialVariantMatches": 29,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 29,
+  "maintenanceClosed": true
 }

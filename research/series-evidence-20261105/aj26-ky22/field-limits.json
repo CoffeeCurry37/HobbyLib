@@ -1,0 +1,80 @@
+[
+  {
+    "itemId": "source-759e358c9766421172db8283c7736429",
+    "title": "【AJ2026】ランダムポートレート<A> / Fate/strange Fake",
+    "sku": "itemCWPTEBZQ09",
+    "variantId": "001",
+    "notes": "A为九种、B为八种；仅明确随机销售，不推断每包张数或整盒齐款。",
+    "source": {
+      "url": "https://online.aniplex.co.jp/itemCWPTEBZQ09.html",
+      "at": "2026-11-05T07:12:50.415Z",
+      "sha256": "8616b91c1441db3c12872034e8129cfe79b06865c1e9a890b41d8b759e507c90"
+    },
+    "action": "supported-summary-applied-unconfirmed-fields-omitted"
+  },
+  {
+    "itemId": "source-aeb3f248d2c1e82f1cb8f64e6b7df354",
+    "title": "【AJ2026】ランダムポートレート<B> / Fate/strange Fake",
+    "sku": "itemCWPTEBZQ10",
+    "variantId": "001",
+    "notes": "A为九种、B为八种；仅明确随机销售，不推断每包张数或整盒齐款。",
+    "source": {
+      "url": "https://online.aniplex.co.jp/itemCWPTEBZQ10.html",
+      "at": "2026-11-05T07:12:51.027Z",
+      "sha256": "b157d42074834a79dc417b542611f9921246f8779a3091582613cb7354dbe527"
+    },
+    "action": "supported-summary-applied-unconfirmed-fields-omitted"
+  },
+  {
+    "itemId": "source-cb370206b7638c983719993e306ece82",
+    "title": "【AJ2026】マスキングテープ / Fate/strange Fake",
+    "sku": "itemCWPTEBZQ11",
+    "variantId": "001",
+    "notes": "正文长度写为200mm；本次简介只采用宽度，不将其换算或推定为常见卷长。",
+    "source": {
+      "url": "https://online.aniplex.co.jp/itemCWPTEBZQ11.html",
+      "at": "2026-11-05T07:12:52.191Z",
+      "sha256": "2899d5e0ceea6d457b2d463b9ff5d6b1a42778f9b9e6d4f9a643b6c196e49bba"
+    },
+    "action": "supported-summary-applied-unconfirmed-fields-omitted"
+  },
+  {
+    "itemId": "source-2a3930e277878f09412bd4361a049bc5",
+    "title": "【京まふ2022】ゆらふわトレーディング缶バッジ(全9種)<単品・ランダム封入>/ Fate/Grand Order",
+    "sku": "itemCgoKeozL",
+    "variantId": "001",
+    "notes": "全九种与单品随机封入由官方完整规格名确认，不视作九枚齐款套装。",
+    "source": {
+      "url": "https://online.aniplex.co.jp/itemCgoKeozL.html",
+      "at": "2026-11-05T07:16:05.462Z",
+      "sha256": "502d9fd1cd537b373d4b46eb109076fad9ce38354b90b089f7078b9622676488"
+    },
+    "action": "supported-summary-applied-unconfirmed-fields-omitted"
+  },
+  {
+    "itemId": "source-d91a025b9ce981a2a69504f91198cdee",
+    "title": "【京まふ2022】ゆらふわクリアファイルセット / Fate/Grand Order",
+    "sku": "itemzDfAZmpq",
+    "variantId": "001",
+    "notes": "官方正文未明确文件夹件数，保留套装身份，不推断数量。",
+    "source": {
+      "url": "https://online.aniplex.co.jp/itemzDfAZmpq.html",
+      "at": "2026-11-05T07:16:07.683Z",
+      "sha256": "f817164275f16cae8921751440cc5f1e69f3256e0defae741d9945e2da182081"
+    },
+    "action": "supported-summary-applied-unconfirmed-fields-omitted"
+  },
+  {
+    "itemId": "source-ff58128ca4adade7d079dfaca0d3dfcc",
+    "title": "【京まふ2022】Fate/Grand Order さくらもち描き下ろしイラスト使用「秋巡る攘夷志士」セット",
+    "sku": "itemKiigYQCY",
+    "variantId": "001",
+    "notes": "明确套装内容只归于此商品，不沿用于ゆらふわ文件夹套装，也不拆分新增独立商品。",
+    "source": {
+      "url": "https://online.aniplex.co.jp/itemKiigYQCY.html",
+      "at": "2026-11-05T07:16:08.229Z",
+      "sha256": "6b801c1d08cfe440a7e143e104d5a0317556f81956410c4b725f7de753368740"
+    },
+    "action": "supported-summary-applied-unconfirmed-fields-omitted"
+  }
+]
