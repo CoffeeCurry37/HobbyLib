@@ -1,0 +1,604 @@
+{
+  "year": 2023,
+  "candidates": 23,
+  "rows": [
+    {
+      "itemId": "source-0c3134f9a2d84a0b41187b20d7468ad8",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】掛け軸風タペストリー(シャーロック・ホームズ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI05",
+      "variantId": "001",
+      "officialTitle": "【京まふ2023】掛け軸風タペストリー（シャーロック・ホームズ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+        "at": "2026-11-05T02:22:04.731Z",
+        "sha256": "ad9bfbfdc33f63bf3c2141ffc4bee965784d55c148dad2af8afc3883434dbbfd"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】掛け軸風タペストリー（シャーロック・ホームズ）/ Fate/Grand Order」。使用秋日和装主题新绘插画，画布采用常用于包袱布的「メロンアムンゼン」聚酯纤维面料，约宽 258、高 728 毫米，杆件为 PVC。"
+    },
+    {
+      "itemId": "source-10f66ae959624c06cddd9a4d08e70bfd",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】竹うちわ(ボイジャー)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI06",
+      "variantId": "002",
+      "officialTitle": "【京まふ2023】竹うちわ（ボイジャー）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+        "at": "2026-11-05T02:22:05.385Z",
+        "sha256": "735b1796ba601eee2a49f1c6982b1c2e818d28c57132a82d8f7014eb8878f55e"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】竹うちわ（ボイジャー）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为纸和竹，含手柄约宽 230、高 365 毫米。"
+    },
+    {
+      "itemId": "source-12d9b7a47278146c26939ab92be46e95",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】竹うちわ(メドゥーサ(セイバー))/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI06",
+      "variantId": "006",
+      "officialTitle": "【京まふ2023】竹うちわ（メドゥーサ（セイバー））/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+        "at": "2026-11-05T02:22:05.385Z",
+        "sha256": "735b1796ba601eee2a49f1c6982b1c2e818d28c57132a82d8f7014eb8878f55e"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】竹うちわ（メドゥーサ（セイバー））/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为纸和竹，含手柄约宽 230、高 365 毫米。"
+    },
+    {
+      "itemId": "source-1762d619fed4c2af1acebd6c172e65f9",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】アクリルスタンド(ボイジャー)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI01",
+      "variantId": "002",
+      "officialTitle": "【京まふ2023】アクリルスタンド（ボイジャー）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+        "at": "2026-11-05T02:22:06.065Z",
+        "sha256": "735a661269b230733b67be2a1469df9f46581dbbac1106be133e1b87c212b1c5"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】アクリルスタンド（ボイジャー）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为亚克力，尺寸约宽 85、高 140 毫米，因角色而异。"
+    },
+    {
+      "itemId": "source-1c7d1a7c3ed400de2d4076d865b053ba",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】アクリルスタンド(シャーロック・ホームズ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI01",
+      "variantId": "001",
+      "officialTitle": "【京まふ2023】アクリルスタンド（シャーロック・ホームズ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+        "at": "2026-11-05T02:22:06.065Z",
+        "sha256": "735a661269b230733b67be2a1469df9f46581dbbac1106be133e1b87c212b1c5"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】アクリルスタンド（シャーロック・ホームズ）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为亚克力，尺寸约宽 85、高 140 毫米，因角色而异。"
+    },
+    {
+      "itemId": "source-1edda61a8cfd9d03716dc4465bc1298e",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】掛け軸風タペストリー(オベロン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI05",
+      "variantId": "003",
+      "officialTitle": "【京まふ2023】掛け軸風タペストリー（オベロン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+        "at": "2026-11-05T02:22:04.731Z",
+        "sha256": "ad9bfbfdc33f63bf3c2141ffc4bee965784d55c148dad2af8afc3883434dbbfd"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】掛け軸風タペストリー（オベロン）/ Fate/Grand Order」。使用秋日和装主题新绘插画，画布采用常用于包袱布的「メロンアムンゼン」聚酯纤维面料，约宽 258、高 728 毫米，杆件为 PVC。"
+    },
+    {
+      "itemId": "source-28c6d63538ceb88aa8c7042641c06f7d",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】缶バッジセット(kaworu)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI02",
+      "variantId": "001",
+      "officialTitle": "【京まふ2023】缶バッジセット（kaworu）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI02.html",
+        "at": "2026-11-05T02:22:06.756Z",
+        "sha256": "a0a3b5bda11cc4506267acaafc1e82cf0b9c97f1e947125dd22a26bcff450ea4"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI02.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】缶バッジセット（kaworu）/ Fate/Grand Order」。使用秋日和装主题新绘插画，单枚徽章直径约 54 毫米。"
+    },
+    {
+      "itemId": "source-3a13f921244af3bc9521515eace9ea66",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】掛け軸風タペストリー(ボイジャー)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI05",
+      "variantId": "002",
+      "officialTitle": "【京まふ2023】掛け軸風タペストリー（ボイジャー）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+        "at": "2026-11-05T02:22:04.731Z",
+        "sha256": "ad9bfbfdc33f63bf3c2141ffc4bee965784d55c148dad2af8afc3883434dbbfd"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】掛け軸風タペストリー（ボイジャー）/ Fate/Grand Order」。使用秋日和装主题新绘插画，画布采用常用于包袱布的「メロンアムンゼン」聚酯纤维面料，约宽 258、高 728 毫米，杆件为 PVC。"
+    },
+    {
+      "itemId": "source-3f8985fbba69af8eae94784641a63548",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】アクリルスタンド(メドゥーサ(セイバー))/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI01",
+      "variantId": "006",
+      "officialTitle": "【京まふ2023】アクリルスタンド（メドゥーサ（セイバー））/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+        "at": "2026-11-05T02:22:06.065Z",
+        "sha256": "735a661269b230733b67be2a1469df9f46581dbbac1106be133e1b87c212b1c5"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】アクリルスタンド（メドゥーサ（セイバー））/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为亚克力，尺寸约宽 85、高 140 毫米，因角色而异。"
+    },
+    {
+      "itemId": "source-41db7e887326ff299e37bf7235fc038e",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】ミニクリアファイルセット(ねづみどし)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI04",
+      "variantId": "002",
+      "officialTitle": "【京まふ2023】ミニクリアファイルセット（ねづみどし）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI04.html",
+        "at": "2026-11-05T02:22:07.344Z",
+        "sha256": "22f13bd6662ebe2d0b11bb87aa1a72091a55af7268d83b6ed98ffcf0284b22e7"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI04.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】ミニクリアファイルセット（ねづみどし）/ Fate/Grand Order」。使用秋日和装主题新绘插画，为 A5 尺寸的 PP 迷你透明文件夹组合。"
+    },
+    {
+      "itemId": "source-90e327eb953beefe492ce25343855ad3",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】掛け軸風タペストリー(ネロ・クラウディウス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI05",
+      "variantId": "004",
+      "officialTitle": "【京まふ2023】掛け軸風タペストリー（ネロ・クラウディウス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+        "at": "2026-11-05T02:22:04.731Z",
+        "sha256": "ad9bfbfdc33f63bf3c2141ffc4bee965784d55c148dad2af8afc3883434dbbfd"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】掛け軸風タペストリー（ネロ・クラウディウス）/ Fate/Grand Order」。使用秋日和装主题新绘插画，画布采用常用于包袱布的「メロンアムンゼン」聚酯纤维面料，约宽 258、高 728 毫米，杆件为 PVC。"
+    },
+    {
+      "itemId": "source-92ffb82652f045611171769782a3e70d",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】SNS風アクリルチャーム<単品・ランダム封入>/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI03",
+      "variantId": "001",
+      "officialTitle": "【京まふ2023】SNS風アクリルチャーム＜単品・ランダム封入＞/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI03.html",
+        "at": "2026-11-05T02:22:07.975Z",
+        "sha256": "523c7d636213b1b74a25e50d4181c3e95e7235b18106d315fdba5035191d4c2c"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI03.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】SNS風アクリルチャーム＜単品・ランダム封入＞/ Fate/Grand Order」。为仿社交媒体画面的亚克力挂件，六款中随机封入，不能选款。约宽 65、高 90 毫米，材料含亚克力、锌合金和铁。"
+    },
+    {
+      "itemId": "source-9fc2d2d4b5026485ec1177f566737d3c",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】竹うちわ(シャーロック・ホームズ)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI06",
+      "variantId": "001",
+      "officialTitle": "【京まふ2023】竹うちわ（シャーロック・ホームズ）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+        "at": "2026-11-05T02:22:05.385Z",
+        "sha256": "735b1796ba601eee2a49f1c6982b1c2e818d28c57132a82d8f7014eb8878f55e"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】竹うちわ（シャーロック・ホームズ）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为纸和竹，含手柄约宽 230、高 365 毫米。"
+    },
+    {
+      "itemId": "source-a90c3b836a7691e59d0cd9d49d293c76",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】掛け軸風タペストリー(メドゥーサ(セイバー))/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI05",
+      "variantId": "006",
+      "officialTitle": "【京まふ2023】掛け軸風タペストリー（メドゥーサ（セイバー））/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+        "at": "2026-11-05T02:22:04.731Z",
+        "sha256": "ad9bfbfdc33f63bf3c2141ffc4bee965784d55c148dad2af8afc3883434dbbfd"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】掛け軸風タペストリー（メドゥーサ（セイバー））/ Fate/Grand Order」。使用秋日和装主题新绘插画，画布采用常用于包袱布的「メロンアムンゼン」聚酯纤维面料，约宽 258、高 728 毫米，杆件为 PVC。"
+    },
+    {
+      "itemId": "source-abd0f0dd9cc827e7974e6cc815bd1352",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】アクリルスタンド(オベロン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI01",
+      "variantId": "003",
+      "officialTitle": "【京まふ2023】アクリルスタンド（オベロン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+        "at": "2026-11-05T02:22:06.065Z",
+        "sha256": "735a661269b230733b67be2a1469df9f46581dbbac1106be133e1b87c212b1c5"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】アクリルスタンド（オベロン）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为亚克力，尺寸约宽 85、高 140 毫米，因角色而异。"
+    },
+    {
+      "itemId": "source-bbb0367755db39eff28d6ce147e0f87f",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】竹うちわ(オベロン)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI06",
+      "variantId": "003",
+      "officialTitle": "【京まふ2023】竹うちわ（オベロン）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+        "at": "2026-11-05T02:22:05.385Z",
+        "sha256": "735b1796ba601eee2a49f1c6982b1c2e818d28c57132a82d8f7014eb8878f55e"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】竹うちわ（オベロン）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为纸和竹，含手柄约宽 230、高 365 毫米。"
+    },
+    {
+      "itemId": "source-ce85ef6c0427ee09e64de5806427c216",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】アクリルスタンド(メルトリリス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI01",
+      "variantId": "005",
+      "officialTitle": "【京まふ2023】アクリルスタンド（メルトリリス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+        "at": "2026-11-05T02:22:06.065Z",
+        "sha256": "735a661269b230733b67be2a1469df9f46581dbbac1106be133e1b87c212b1c5"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】アクリルスタンド（メルトリリス）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为亚克力，尺寸约宽 85、高 140 毫米，因角色而异。"
+    },
+    {
+      "itemId": "source-d25002d1c8a0cf6b5a93e070d0701fa0",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】竹うちわ(メルトリリス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI06",
+      "variantId": "005",
+      "officialTitle": "【京まふ2023】竹うちわ（メルトリリス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+        "at": "2026-11-05T02:22:05.385Z",
+        "sha256": "735b1796ba601eee2a49f1c6982b1c2e818d28c57132a82d8f7014eb8878f55e"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】竹うちわ（メルトリリス）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为纸和竹，含手柄约宽 230、高 365 毫米。"
+    },
+    {
+      "itemId": "source-d3a52df852603370eac943f79a435ad1",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】ミニクリアファイルセット(kaworu)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI04",
+      "variantId": "001",
+      "officialTitle": "【京まふ2023】ミニクリアファイルセット（kaworu）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI04.html",
+        "at": "2026-11-05T02:22:07.344Z",
+        "sha256": "22f13bd6662ebe2d0b11bb87aa1a72091a55af7268d83b6ed98ffcf0284b22e7"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI04.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】ミニクリアファイルセット（kaworu）/ Fate/Grand Order」。使用秋日和装主题新绘插画，为 A5 尺寸的 PP 迷你透明文件夹组合。"
+    },
+    {
+      "itemId": "source-f73025da90153fb5e02615c980040acf",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】掛け軸風タペストリー(メルトリリス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI05",
+      "variantId": "005",
+      "officialTitle": "【京まふ2023】掛け軸風タペストリー（メルトリリス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+        "at": "2026-11-05T02:22:04.731Z",
+        "sha256": "ad9bfbfdc33f63bf3c2141ffc4bee965784d55c148dad2af8afc3883434dbbfd"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】掛け軸風タペストリー（メルトリリス）/ Fate/Grand Order」。使用秋日和装主题新绘插画，画布采用常用于包袱布的「メロンアムンゼン」聚酯纤维面料，约宽 258、高 728 毫米，杆件为 PVC。"
+    },
+    {
+      "itemId": "source-f85957acb07aa55e5980cfe6a31a9cb2",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】竹うちわ(ネロ・クラウディウス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI06",
+      "variantId": "004",
+      "officialTitle": "【京まふ2023】竹うちわ（ネロ・クラウディウス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+        "at": "2026-11-05T02:22:05.385Z",
+        "sha256": "735b1796ba601eee2a49f1c6982b1c2e818d28c57132a82d8f7014eb8878f55e"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】竹うちわ（ネロ・クラウディウス）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为纸和竹，含手柄约宽 230、高 365 毫米。"
+    },
+    {
+      "itemId": "source-f9327c33ba4a1fd6d9da9692a2d6fc26",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】アクリルスタンド(ネロ・クラウディウス)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI01",
+      "variantId": "004",
+      "officialTitle": "【京まふ2023】アクリルスタンド（ネロ・クラウディウス）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+        "at": "2026-11-05T02:22:06.065Z",
+        "sha256": "735a661269b230733b67be2a1469df9f46581dbbac1106be133e1b87c212b1c5"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】アクリルスタンド（ネロ・クラウディウス）/ Fate/Grand Order」。使用秋日和装主题新绘插画，材质为亚克力，尺寸约宽 85、高 140 毫米，因角色而异。"
+    },
+    {
+      "itemId": "source-ff6c8e0f1597a23f6fb48d2693ae4a54",
+      "groupId": "series-a905c4955d91d8a8",
+      "title": "【京まふ2023】缶バッジセット(ねづみどし)/ Fate/Grand Order",
+      "status": "supported",
+      "scope": "官方年度目录、商品号及完整规格",
+      "sourceRole": "official-product",
+      "sku": "itemilXFSNRI02",
+      "variantId": "002",
+      "officialTitle": "【京まふ2023】缶バッジセット（ねづみどし）/ Fate/Grand Order",
+      "source": {
+        "url": "https://online.aniplex.co.jp/itemilXFSNRI02.html",
+        "at": "2026-11-05T02:22:06.756Z",
+        "sha256": "a0a3b5bda11cc4506267acaafc1e82cf0b9c97f1e947125dd22a26bcff450ea4"
+      },
+      "second": "https://online.aniplex.co.jp/itemilXFSNRI02.html",
+      "catalogueSource": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "contextSource": "https://online.aniplex.co.jp/ybKsCZxS",
+      "retailerBinding": null,
+      "notes": null,
+      "summary": "京まふ 2023 的「【京まふ2023】缶バッジセット（ねづみどし）/ Fate/Grand Order」。使用秋日和装主题新绘插画，单枚徽章直径约 54 毫米。"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "captureReceipts": 47,
+  "uniqueUrls": 47,
+  "statuses": {
+    "captured": 47
+  },
+  "requests": 47,
+  "cacheHits": 0,
+  "paidModelApiCalls": 0,
+  "scope": "本地公开抓取回执；搜索访问另计，无额外模型API调用。费用信息不可用。"
+}

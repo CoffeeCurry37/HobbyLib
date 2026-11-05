@@ -1,0 +1,52 @@
+{
+  "at": "2026-11-05T06:10:25.469Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 106,
+  "prepared": 106,
+  "pending": 0,
+  "protected": 0,
+  "groups": [
+    {
+      "groupId": "series-a749490847163856",
+      "label": "京まふ 2021",
+      "candidates": 30,
+      "source": "https://online.aniplex.co.jp/qSpfIqXw",
+      "reviewed": 30,
+      "ready": 30,
+      "pending": 0
+    },
+    {
+      "groupId": "series-d70f0c745e4cfb17",
+      "label": "京まふ 2025",
+      "candidates": 29,
+      "source": "https://online.aniplex.co.jp/FFFfdThr",
+      "reviewed": 29,
+      "ready": 29,
+      "pending": 0
+    },
+    {
+      "groupId": "series-7f2686658ec97714",
+      "label": "京まふ 2026",
+      "candidates": 24,
+      "source": "https://online.aniplex.co.jp/khwRyHSc",
+      "reviewed": 24,
+      "ready": 24,
+      "pending": 0
+    },
+    {
+      "groupId": "series-a905c4955d91d8a8",
+      "label": "京まふ 2023",
+      "candidates": 23,
+      "source": "https://online.aniplex.co.jp/ybKsCZxS",
+      "reviewed": 23,
+      "ready": 23,
+      "pending": 0
+    }
+  ],
+  "priorOverlap": 0,
+  "officialVariantMatches": 103,
+  "visualRetailerMatches": 3,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0,
+  "productionApplied": 0
+}

@@ -1,0 +1,180 @@
+{
+  "year": 2023,
+  "groupId": "series-a905c4955d91d8a8",
+  "total": 36,
+  "pages": [
+    {
+      "source": {
+        "url": "https://online.aniplex.co.jp/ybKsCZxS",
+        "at": "2026-11-05T02:22:03.903Z",
+        "sha256": "8cdf9e02058b68819c9939f5cf6e5f670fc7004466cc80a822f40bfe3edd1df0"
+      },
+      "entries": [
+        {
+          "url": "https://online.aniplex.co.jp/itemddpNgCyr.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemrfeAWfJN01.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemrfeAWfJN02.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemrfeAWfJN03.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemrfeAWfJN04.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemrfeAWfJN05.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemrfeAWfJN06.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemhoNYWlIH01.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemhoNYWlIH02.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemilXFSNRI01.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemilXFSNRI02.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemilXFSNRI03.html"
+        }
+      ]
+    },
+    {
+      "source": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=12&sz=12",
+        "at": "2026-11-05T02:22:51.714Z",
+        "sha256": "22557e1904fe5a3e2fdeda3ca44d2ff44e4416480c3afee24fe0c83ecee56fe4"
+      },
+      "entries": [
+        {
+          "url": "https://online.aniplex.co.jp/itemilXFSNRI04.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemilXFSNRI05.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemilXFSNRI06.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemTUutCGAy01.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemTUutCGAy02.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemTUutCGAy03.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemTUutCGAy04.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemTUutCGAy05.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemCvRbPqnJ01.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemCvRbPqnJ02.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemCvRbPqnJ03.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemCvRbPqnJ04.html"
+        }
+      ]
+    },
+    {
+      "source": {
+        "url": "https://online.aniplex.co.jp/on/demandware.store/Sites-ANX-Site/ja_JP/Search-UpdateGrid?cgid=ybKsCZxS&start=24&sz=12",
+        "at": "2026-11-05T06:06:08.247Z",
+        "sha256": "5a39b6f7be8897a8b98d0882ef82bef50c91d2ff8919bb40b73b98c9e2258b73"
+      },
+      "entries": [
+        {
+          "url": "https://online.aniplex.co.jp/itemCvRbPqnJ05.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemCvRbPqnJ06.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsosGobFV01.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsosGobFV03.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsosGobFV02.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsosGobFV04.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsUtTCFVP01.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsUtTCFVP02.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsUtTCFVP03.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsUtTCFVP04.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsUtTCFVP05.html"
+        },
+        {
+          "url": "https://online.aniplex.co.jp/itemsUtTCFVP06.html"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    "https://online.aniplex.co.jp/itemddpNgCyr.html",
+    "https://online.aniplex.co.jp/itemrfeAWfJN01.html",
+    "https://online.aniplex.co.jp/itemrfeAWfJN02.html",
+    "https://online.aniplex.co.jp/itemrfeAWfJN03.html",
+    "https://online.aniplex.co.jp/itemrfeAWfJN04.html",
+    "https://online.aniplex.co.jp/itemrfeAWfJN05.html",
+    "https://online.aniplex.co.jp/itemrfeAWfJN06.html",
+    "https://online.aniplex.co.jp/itemhoNYWlIH01.html",
+    "https://online.aniplex.co.jp/itemhoNYWlIH02.html",
+    "https://online.aniplex.co.jp/itemilXFSNRI01.html",
+    "https://online.aniplex.co.jp/itemilXFSNRI02.html",
+    "https://online.aniplex.co.jp/itemilXFSNRI03.html",
+    "https://online.aniplex.co.jp/itemilXFSNRI04.html",
+    "https://online.aniplex.co.jp/itemilXFSNRI05.html",
+    "https://online.aniplex.co.jp/itemilXFSNRI06.html",
+    "https://online.aniplex.co.jp/itemTUutCGAy01.html",
+    "https://online.aniplex.co.jp/itemTUutCGAy02.html",
+    "https://online.aniplex.co.jp/itemTUutCGAy03.html",
+    "https://online.aniplex.co.jp/itemTUutCGAy04.html",
+    "https://online.aniplex.co.jp/itemTUutCGAy05.html",
+    "https://online.aniplex.co.jp/itemCvRbPqnJ01.html",
+    "https://online.aniplex.co.jp/itemCvRbPqnJ02.html",
+    "https://online.aniplex.co.jp/itemCvRbPqnJ03.html",
+    "https://online.aniplex.co.jp/itemCvRbPqnJ04.html",
+    "https://online.aniplex.co.jp/itemCvRbPqnJ05.html",
+    "https://online.aniplex.co.jp/itemCvRbPqnJ06.html",
+    "https://online.aniplex.co.jp/itemsosGobFV01.html",
+    "https://online.aniplex.co.jp/itemsosGobFV03.html",
+    "https://online.aniplex.co.jp/itemsosGobFV02.html",
+    "https://online.aniplex.co.jp/itemsosGobFV04.html",
+    "https://online.aniplex.co.jp/itemsUtTCFVP01.html",
+    "https://online.aniplex.co.jp/itemsUtTCFVP02.html",
+    "https://online.aniplex.co.jp/itemsUtTCFVP03.html",
+    "https://online.aniplex.co.jp/itemsUtTCFVP04.html",
+    "https://online.aniplex.co.jp/itemsUtTCFVP05.html",
+    "https://online.aniplex.co.jp/itemsUtTCFVP06.html"
+  ]
+}
