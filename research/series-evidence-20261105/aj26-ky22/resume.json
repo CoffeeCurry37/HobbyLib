@@ -1,14 +1,17 @@
 {
-  "at": "2026-11-05T07:15:49.572Z",
-  "stage": "research-in-progress-not-applied",
-  "researched": 15,
-  "prepared": 15,
+  "at": "2026-11-05T07:18:31.182Z",
+  "stage": "prepared-validated-not-applied",
+  "candidates": 29,
+  "prepared": 29,
   "productionApplied": 0,
   "pendingEvidence": 0,
-  "next": "京まふ2022的14条；两组完成后冻结计划、验证并按实时版本写入。",
-  "sourceCorrection": "source-correction.json",
+  "plannedBatches": 2,
+  "simulationPassed": true,
   "maintenanceClosed": true,
   "environmentRevision": 89,
   "siteVersion": 70,
-  "doNotReplay": "本轮尚未写入；此前所有成功批次不得重放。"
+  "sourceCorrection": "source-correction.json",
+  "next": "逐批核对实时版本、写入及完整读回，随后关闭维护入口。",
+  "doNotReplay": "本轮尚未写入；全部历史成功批次不得重放。"
 }
+
