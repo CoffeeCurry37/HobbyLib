@@ -1,11 +1,11 @@
 {
-  "stage": "validated-before-production",
+  "stage": "applied-read-back-and-closed",
   "reviewed": 135,
-  "prepared": 132,
+  "productionApplied": 132,
   "pending": 3,
-  "productionApplied": 0,
   "batches": 7,
-  "productionMaintenanceClosed": true,
-  "latestEvidence": "review.json",
-  "next": "先读取实时目标，版本一致者最多20条一批；写后读回并关闭维护入口。"
+  "versionSkips": 0,
+  "maintenanceClosed": true,
+  "environmentRevision": 85,
+  "next": "本轮全部成功批次不得重放。3条待查保持原样；累计进度及新候选入口正在整理。"
 }
