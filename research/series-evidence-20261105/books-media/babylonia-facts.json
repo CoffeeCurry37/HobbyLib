@@ -1,0 +1,52 @@
+{
+  "at": "2026-11-06T00:24:57.136Z",
+  "officialSources": [
+    {
+      "url": "https://stage.fate-go.jp/babylonia/bddvd/",
+      "at": "2026-11-05T16:17:01.491Z",
+      "sha256": "1adc9f105404bb684deaa6c2653c4526a1bda7070e91e6ce003f27f8a28777da"
+    },
+    {
+      "url": "https://stage.fate-go.jp/babylonia/news/?id=50988",
+      "at": "2026-11-06T00:19:38.107Z",
+      "sha256": "ea241d0ef357dbee16456508c61496fac6f5bf147bde35dc8d21cc5d57c19fb3"
+    },
+    {
+      "url": "https://unison-s-g.com/15th/16thsingle/",
+      "at": "2026-11-05T16:17:01.493Z",
+      "sha256": "185af1a6a8372749bdf4a0938fa71d865e846b84071ca647c9407dd67a2a852b"
+    },
+    {
+      "url": "https://anime.fate-go.jp/ep7-tv/package/",
+      "at": "2026-11-05T16:14:18.558Z",
+      "sha256": "1e5fe01f91831e94228cb7b2dd6a9c28279626c605dfda1acefbd4f523321612"
+    },
+    {
+      "url": "https://anime.fate-go.jp/ep7-tv/tv/music/?page=ost",
+      "at": "2026-11-05T16:17:41.189Z",
+      "sha256": "7ac00f18dad4731f607a8f25eeae7b63aeceef3ef45a4d5d694d3e70c58f1929"
+    }
+  ],
+  "stage": {
+    "baseDiscs": 3,
+    "additionalStoreDisc": 1,
+    "BD": [
+      2,
+      1
+    ],
+    "DVD": 3
+  },
+  "single": {
+    "limited": "TFCC-89674 / CD+2 LIVE CD",
+    "regular": "TFCC-89675 / CD"
+  },
+  "box": {
+    "model": "ANSX-16051～16056",
+    "mainBD": 6
+  },
+  "ost": {
+    "model": "SVWC-70628～70631",
+    "CD": 4
+  },
+  "scope": "官方原始HTML哈希与公开零售观察分别保存；未把报价历史当独立官方证据。"
+}

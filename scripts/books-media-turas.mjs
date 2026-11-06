@@ -6,7 +6,8 @@ const strip=s=>clean(s.replace(/<[^>]+>/g,' ')).normalize('NFKC').replace(/\s+/g
 const targets=read(priv+'/turas-targets.json'),volumes=[],rows=[];
 const originals=new Map(read('work/v6/production-after.json').items.map(i=>[i.id,i]));
 const setObservation={id:'turas-retailer-set',url:'https://www.suruga-ya.jp/product/detail/WK13678',at,kind:'public-web-text-observation',retailerCode:'WK13678',volumeRange:[1,22],publisher:'講談社',author:'カワグチタケシ',scope:'独立零售正文明确1至22卷；不是整个系列完结全集；不把第22卷ISBN当套装ISBN。'};
-write(dir+'/web-observations.json',[setObservation]);
+let otherObservations=[];try{otherObservations=read(dir+'/web-observations.json').filter(o=>o.id!=='turas-retailer-set')}catch(e){if(e.code!=='ENOENT')throw e}
+write(dir+'/web-observations.json',[setObservation,...otherObservations]);
 for(const t of targets){
  const original=originals.get(t.id),r={itemId:t.id,groupId:t.groupId,title:t.title,status:'pending',identityBinding:{isbn:original.isbn||'',jan:original.jan||'',productLine:original.productLine||'',offerUrls:[...new Set(original.offers.map(o=>o.url))].sort()}};
  if(original.editorial||original.locked||original.manualFields?.length||original.summary){rows.push({...r,status:'protected',reason:'保留认可、人工或既有简介'});continue}

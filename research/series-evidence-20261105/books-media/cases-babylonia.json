@@ -1,0 +1,591 @@
+{
+  "at": "2026-11-06T00:24:57.136Z",
+  "rows": [
+    {
+      "itemId": "749ce5e1-a981-45c3-ac12-e4e7639ff7f7",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 全5巻セット",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530120717",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/128076231",
+          "https://www.suruga-ya.jp/product/detail/128076231?tenpo_cd=400455",
+          "https://www.suruga-ya.jp/product/detail/128082400",
+          "https://www.suruga-ya.jp/product/detail/428063977",
+          "https://www.suruga-ya.jp/product/other/428063977"
+        ]
+      },
+      "status": "pending",
+      "reason": "同条目留存BD与DVD两种媒介挂牌，无法作为单一版本补写；不自动拆分归并",
+      "needed": "逐挂牌媒介、整套型号和组成，另行形成结构处理方案",
+      "retainedSourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/128082400",
+        "https://www.suruga-ya.jp/product/detail/128076231",
+        "https://www.suruga-ya.jp/product/detail/128076231?tenpo_cd=400455",
+        "https://www.suruga-ya.jp/product/detail/428063977",
+        "https://www.suruga-ya.jp/product/other/428063977"
+      ]
+    },
+    {
+      "itemId": "97f25801-08b6-4106-a36e-92cbdab15cad",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "舞台DVD Fate/Grand Order THE STAGE -絶対魔獣戦線バビロニア- 完全生産限",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349085217&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "status": "pending",
+      "reason": "Mandarake标题截断且无JAN/型号，原页当前不可读，不能确认3片本体或4片店铺组合",
+      "needed": "包装背面、完整型号及光盘清单；仅有舞台作品名不足",
+      "retainedSourceUrls": [
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349085217&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ]
+    },
+    {
+      "itemId": "member-1ihmh80",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 3",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "member-1irm2wz",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 2",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "member-1j1loly",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 1",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "member-1k5k3du",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 5",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "member-1kfjp2t",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 4",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "source-0d2de907a4d5348b13babe4f318dd809",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第3巻 [完全生産限定版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530120694",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-44506",
+          "https://www.suruga-ya.jp/product/detail/128080481",
+          "https://www.suruga-ya.jp/product/other/128074160"
+        ]
+      },
+      "status": "protected",
+      "reason": "既有官方V6单卷简介和证据原样保留；不重复追加",
+      "protection": "existing-summary",
+      "existingSummary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》DVD完全生产限定版第3卷，收录第8–11集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。"
+    },
+    {
+      "itemId": "source-1868942b045983266c84f9c4ce549c58",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Blu-ray 第5巻 [完全生産限定版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530120656",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-46222",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-46222-R",
+          "https://www.suruga-ya.jp/product/other/428062238"
+        ]
+      },
+      "status": "protected",
+      "reason": "既有官方V6单卷简介和证据原样保留；不重复追加",
+      "protection": "existing-summary",
+      "existingSummary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》Blu-ray完全生产限定版第5卷，收录第17–21集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。"
+    },
+    {
+      "itemId": "source-2133ea765b659bc96fccb7c763fcf665",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "CD UNISON SQUARE GARDEN / Phantom Joke 初回限定盤 (「Fate/Grand Order -絶対魔獣戦線バビロニア-」OPテーマ)[トイズファクトリー]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4988061896748",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-32956"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-product",
+      "source": {
+        "url": "https://unison-s-g.com/15th/16thsingle/",
+        "at": "2026-11-05T16:17:01.493Z",
+        "sha256": "185af1a6a8372749bdf4a0938fa71d865e846b84071ca647c9407dd67a2a852b"
+      },
+      "officialTitle": "Phantom Joke 初回限定盤 TFCC-89674",
+      "scope": "官方艺人单曲页区分初回与通常；与留存JAN及明确版本标题对应",
+      "summary": "UNISON SQUARE GARDEN第16张单曲《Phantom Joke》的初回限定盘，型号TFCC-89674。由单曲CD与2张现场CD组成；标题曲是巴比伦尼亚动画片头曲，现场CD收录2019年2月9日Zepp Tokyo公演。",
+      "notes": "JAN 4988061896748及初回标题为留存AmiAmi来源；不把预约或店铺特典算作所有副本原配。"
+    },
+    {
+      "itemId": "source-2a45b912988bd8e9ab44ed9e166d373c",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "【特典】BD Fate/Grand Order -絶対魔獣戦線バビロニア- & -終局特異点 冠位時間神殿ソロモン- Blu-ray Disc Box Standard Edition 通常盤 + CD Original Soundtrack 通常盤 2点セット[アニプレックス]【送料無料】《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54115"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-products-with-retailer-bundle",
+      "source": {
+        "url": "https://anime.fate-go.jp/ep7-tv/package/",
+        "at": "2026-11-05T16:14:18.558Z",
+        "sha256": "1e5fe01f91831e94228cb7b2dd6a9c28279626c605dfda1acefbd4f523321612"
+      },
+      "additionalSources": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/music/?page=ost",
+          "at": "2026-11-05T16:17:41.189Z",
+          "sha256": "7ac00f18dad4731f607a8f25eeae7b63aeceef3ef45a4d5d694d3e70c58f1929"
+        }
+      ],
+      "observationSources": [
+        {
+          "id": "babylonia-combo-54115",
+          "sha256": "f5de0a1479c4a6dc3d6da2892f1bd5c2ab1bdde428b004cf4c7bf87fe6b4cf5d"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order -絶対魔獣戦線バビロニア- & -終局特異点 冠位時間神殿ソロモン- Blu-ray Disc Box Standard Edition + Original Soundtrack",
+      "scope": "官方两个本体型号与AmiAmi MED-DVD2-54115的2点组合清单分别对应",
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54115&page=related_item",
+      "summary": "AmiAmi编号MED-DVD2-54115的零售组合，含巴比伦尼亚与所罗门的Standard Edition蓝光盒装（6张Blu-ray）及Original Soundtrack（4张CD）。清单另列BD、CD封面迷你卡各一张和同时购入A4文件夹。",
+      "notes": "2点指两个商品本体，不是两张光盘；特典仅依据此零售编号清单，不作当前库存保证。"
+    },
+    {
+      "itemId": "source-2d2d27c21cc1d54b9b5a873faa80415b",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "BD Fate/Grand Order THE STAGE -絶対魔獣戦線バビロニア- 完全生産限定版 (Blu-ray Disc)[アニプレックス]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530115287",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-43411"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-product",
+      "source": {
+        "url": "https://stage.fate-go.jp/babylonia/bddvd/",
+        "at": "2026-11-05T16:17:01.491Z",
+        "sha256": "1adc9f105404bb684deaa6c2653c4526a1bda7070e91e6ce003f27f8a28777da"
+      },
+      "additionalSources": [
+        {
+          "url": "https://stage.fate-go.jp/babylonia/news/?id=50988",
+          "at": "2026-11-06T00:19:38.107Z",
+          "sha256": "ea241d0ef357dbee16456508c61496fac6f5bf147bde35dc8d21cc5d57c19fb3"
+        }
+      ],
+      "observationSources": [
+        {
+          "id": "babylonia-stage-bd",
+          "sha256": "a9a43beb649b3d06e81fef847324a4def3481ab628d0d049ba17300e081fda69"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order THE STAGE -絶対魔獣戦線バビロニア- Blu-ray ANZX-10117/9",
+      "scope": "官方舞台页、官方包装勘误与JAN 4534530115287对应的零售型号交叉核对",
+      "summary": "《Fate/Grand Order THE STAGE -绝对魔兽战线巴比伦尼亚-》完全生产限定版蓝光本体，型号ANZX-10117～10119，为2张本篇Blu-ray加1张特典DVD。收录2019年1月26日女性御主版、1月27日男性御主版公演，附特制册子。",
+      "notes": "以官方勘误排除旧包装“DVD3枚”误记；额外店铺特典光盘不属于本体3片规格。",
+      "second": "https://stage.fate-go.jp/babylonia/news/?id=50988"
+    },
+    {
+      "itemId": "source-47b8c50beab3f9d41af8111aa5b4c7e4",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order-絶対魔獣戦線バビロニア-&-終局特異点 冠位時間神殿ソロモン- Blu-ray Disc Box Standard Edition",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/428070058",
+          "https://www.suruga-ya.jp/product/detail/428070058?tenpo_cd=400446"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-base-product",
+      "source": {
+        "url": "https://anime.fate-go.jp/ep7-tv/package/",
+        "at": "2026-11-05T16:14:18.558Z",
+        "sha256": "1e5fe01f91831e94228cb7b2dd6a9c28279626c605dfda1acefbd4f523321612"
+      },
+      "officialTitle": "Fate/Grand Order -絶対魔獣戦線バビロニア- & -終局特異点 冠位時間神殿ソロモン- Blu-ray Disc Box Standard Edition",
+      "scope": "官方型号ANSX-16051～16056及完整原始标题确认同一BD本体；特典逐挂牌保留",
+      "summary": "《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》与《终局特异点 冠位时间神殿所罗门》的Standard Edition蓝光盒装，型号ANSX-16051～16056。本体为6张Blu-ray，含英语配音和英语字幕。",
+      "notes": "只补共同本体规格；现有店铺特典、二手状态、挂牌和图片全部保留。"
+    },
+    {
+      "itemId": "source-4c1f8cc3313865192ec3ffcaa97c4c1d",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 全5巻セット(全巻収納BOX付き)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/128076795",
+          "https://www.suruga-ya.jp/product/detail/128083260",
+          "https://www.suruga-ya.jp/product/detail/428064287",
+          "https://www.suruga-ya.jp/product/detail/428073096",
+          "https://www.suruga-ya.jp/product/other/128076795",
+          "https://www.suruga-ya.jp/product/other/428064287"
+        ]
+      },
+      "status": "pending",
+      "reason": "同条目留存BD与DVD两种媒介挂牌，无法作为单一版本补写；不自动拆分归并",
+      "needed": "逐挂牌媒介、整套型号和组成，另行形成结构处理方案",
+      "retainedSourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/428064287",
+        "https://www.suruga-ya.jp/product/other/428064287",
+        "https://www.suruga-ya.jp/product/detail/128076795",
+        "https://www.suruga-ya.jp/product/other/128076795",
+        "https://www.suruga-ya.jp/product/detail/128083260",
+        "https://www.suruga-ya.jp/product/detail/428073096"
+      ]
+    },
+    {
+      "itemId": "source-59107c35066f6c002e7428660fa4c72c",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第5巻 [完全生産限定版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530120717",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-46223",
+          "https://www.suruga-ya.jp/product/detail/128080482",
+          "https://www.suruga-ya.jp/product/other/128074162"
+        ]
+      },
+      "status": "protected",
+      "reason": "既有官方V6单卷简介和证据原样保留；不重复追加",
+      "protection": "existing-summary",
+      "existingSummary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》DVD完全生产限定版第5卷，收录第17–21集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。"
+    },
+    {
+      "itemId": "source-5b84d85092ce14b8ecfc5589259c7e1d",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "CD UNISON SQUARE GARDEN / Phantom Joke 通常盤 (「Fate/Grand Order -絶対魔獣戦線バビロニア-」OPテーマ)[トイズファクトリー]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4988061896755",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-32957"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-product",
+      "source": {
+        "url": "https://unison-s-g.com/15th/16thsingle/",
+        "at": "2026-11-05T16:17:01.493Z",
+        "sha256": "185af1a6a8372749bdf4a0938fa71d865e846b84071ca647c9407dd67a2a852b"
+      },
+      "officialTitle": "Phantom Joke 通常盤 TFCC-89675",
+      "scope": "官方艺人单曲页区分初回与通常；与留存JAN及明确版本标题对应",
+      "summary": "UNISON SQUARE GARDEN第16张单曲《Phantom Joke》的通常盘，型号TFCC-89675，为单张CD。标题曲是巴比伦尼亚动画片头曲；通常盘不含初回限定盘附带的2张现场CD。",
+      "notes": "JAN 4988061896755及通常标题为留存AmiAmi来源；不追加未确认的预约或店铺特典。"
+    },
+    {
+      "itemId": "source-79e2e74c52b9a57f3e47cccb7acd81c7",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "【特典】CD Fate/Grand Order -絶対魔獣戦線バビロニア- & -終局特異点 冠位時間神殿ソロモン- Original Soundtrack 通常盤【送料無料】《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530144720",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-43841"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-product",
+      "source": {
+        "url": "https://anime.fate-go.jp/ep7-tv/tv/music/?page=ost",
+        "at": "2026-11-05T16:17:41.189Z",
+        "sha256": "7ac00f18dad4731f607a8f25eeae7b63aeceef3ef45a4d5d694d3e70c58f1929"
+      },
+      "observationSources": [
+        {
+          "id": "babylonia-ost-43841",
+          "sha256": "de9b6f28cec43fefa17992fc4962c12931abda802fe592517d7cc49df3d71110"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order バビロニア & ソロモン Original Soundtrack SVWC-70628～70631",
+      "scope": "官方原声4CD型号与零售编号MED-CD2-43841、JAN 4534530144720及特典清单对应",
+      "summary": "《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》与《终局特异点 冠位时间神殿所罗门》的原声CD，型号SVWC-70628～70631，共4张CD。AmiAmi编号MED-CD2-43841的商品清单另列封面插画迷你卡特典。",
+      "notes": "官方4CD规格优先；不写有冲突的零售时长，不据历史特典清单推定实时库存。",
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-43841&page=related_item"
+    },
+    {
+      "itemId": "source-82339700144bf79c2388849926b1b04f",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 単巻全11巻セット",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/728038214",
+          "https://www.suruga-ya.jp/product/detail/728038214?tenpo_cd=410028"
+        ]
+      },
+      "status": "pending",
+      "reason": "留存标题为出租版11卷；当前独立出租目录未获确认，不能套用零售5卷规格",
+      "needed": "11卷出租DVD的卷目、编号及包装证据",
+      "retainedSourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/728038214",
+        "https://www.suruga-ya.jp/product/detail/728038214?tenpo_cd=410028"
+      ]
+    },
+    {
+      "itemId": "source-b59338819772cd57f5713f0758da2501",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "【特典】BD Fate/Grand Order -絶対魔獣戦線バビロニア- & -終局特異点 冠位時間神殿ソロモン- Blu-ray Disc Box Standard Edition 通常盤【送料無料】《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530144768",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54110",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54113"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-base-product",
+      "source": {
+        "url": "https://anime.fate-go.jp/ep7-tv/package/",
+        "at": "2026-11-05T16:14:18.558Z",
+        "sha256": "1e5fe01f91831e94228cb7b2dd6a9c28279626c605dfda1acefbd4f523321612"
+      },
+      "officialTitle": "Fate/Grand Order -絶対魔獣戦線バビロニア- & -終局特異点 冠位時間神殿ソロモン- Blu-ray Disc Box Standard Edition",
+      "scope": "官方型号ANSX-16051～16056及完整原始标题确认同一BD本体；特典逐挂牌保留",
+      "summary": "《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》与《终局特异点 冠位时间神殿所罗门》的Standard Edition蓝光盒装，型号ANSX-16051～16056。本体为6张Blu-ray，含英语配音和英语字幕。",
+      "notes": "两挂牌JAN相同但54110与54113特典不同；仅补共同6BD本体，保留挂牌差别，不统一宣称附A4亚克力板。",
+      "observationSources": [
+        {
+          "id": "babylonia-box-54110",
+          "sha256": "837f7efc7bc95b226e2f5298aad3ed1cd471335fefea7f4d2c325193e7b272e2"
+        },
+        {
+          "id": "babylonia-box-54113",
+          "sha256": "4d0122843e685e5510b63448fb5cb209ca974a4e1b5c56828d55f280fc33f251"
+        }
+      ]
+    },
+    {
+      "itemId": "source-cbcc074c57fed8709895ebce44184124",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Blu-ray 第4巻 [完全生産限定版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530120649",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-44507",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-44507-R",
+          "https://www.suruga-ya.jp/product/other/428062237"
+        ]
+      },
+      "status": "protected",
+      "reason": "既有官方V6单卷简介和证据原样保留；不重复追加",
+      "protection": "existing-summary",
+      "existingSummary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》Blu-ray完全生产限定版第4卷，收录第12–16集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。"
+    },
+    {
+      "itemId": "source-d892fed9a363863e33ffc4ec8a239416",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Blu-ray 第3巻 [完全生産限定版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530120632",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-44505",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-44505-R",
+          "https://www.suruga-ya.jp/product/other/428062236"
+        ]
+      },
+      "status": "protected",
+      "reason": "既有官方V6单卷简介和证据原样保留；不重复追加",
+      "protection": "existing-summary",
+      "existingSummary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》Blu-ray完全生产限定版第3卷，收录第8–11集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。"
+    },
+    {
+      "itemId": "source-db29ce3b16cbf64cfd1f1e88bc7f956f",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "【あみあみ限定特典】【特典】BD Fate/Grand Order -絶対魔獣戦線バビロニア- & -終局特異点 冠位時間神殿ソロモン- Blu-ray Disc Box Standard Edition 通常盤 + CD Original Soundtrack 通常盤 2点セット[アニプレックス]【送料無料】《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54120"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-products-with-retailer-bundle",
+      "source": {
+        "url": "https://anime.fate-go.jp/ep7-tv/package/",
+        "at": "2026-11-05T16:14:18.558Z",
+        "sha256": "1e5fe01f91831e94228cb7b2dd6a9c28279626c605dfda1acefbd4f523321612"
+      },
+      "additionalSources": [
+        {
+          "url": "https://anime.fate-go.jp/ep7-tv/tv/music/?page=ost",
+          "at": "2026-11-05T16:17:41.189Z",
+          "sha256": "7ac00f18dad4731f607a8f25eeae7b63aeceef3ef45a4d5d694d3e70c58f1929"
+        }
+      ],
+      "observationSources": [
+        {
+          "id": "babylonia-combo-54120",
+          "sha256": "fcc6c35350c66a11d6598d44ff14d204e8c5be8e4510c6c974980b479c1583e9"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order -絶対魔獣戦線バビロニア- & -終局特異点 冠位時間神殿ソロモン- Blu-ray Disc Box Standard Edition + Original Soundtrack",
+      "scope": "官方两个本体型号与AmiAmi MED-DVD2-54120的2点组合清单分别对应",
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54120&page=related_item",
+      "summary": "AmiAmi编号MED-DVD2-54120的零售组合，含巴比伦尼亚与所罗门的Standard Edition蓝光盒装（6张Blu-ray）及Original Soundtrack（4张CD）。清单另列BD、CD封面迷你卡各一张和同时购入A4文件夹，以及AmiAmi限定A4亚克力板。",
+      "notes": "2点指两个商品本体，不是两张光盘；特典仅依据此零售编号清单，不作当前库存保证。"
+    },
+    {
+      "itemId": "source-db2efe4c23c38c612116a592d23f1188",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- DVD 第4巻 [完全生産限定版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530120700",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-44508",
+          "https://www.suruga-ya.jp/product/other/128074161"
+        ]
+      },
+      "status": "protected",
+      "reason": "既有官方V6单卷简介和证据原样保留；不重复追加",
+      "protection": "existing-summary",
+      "existingSummary": "电视动画《Fate/Grand Order -绝对魔兽战线巴比伦尼亚-》DVD完全生产限定版第4卷，收录第12–16集。附特典CD、设定小册子和三方背盒，二手缺件情况单独记录。"
+    },
+    {
+      "itemId": "source-ed1b7468c35bb9259c30fec25ca2345c",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "DVD Fate/Grand Order THE STAGE -絶対魔獣戦線バビロニア- 完全生産限定版[アニプレックス]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530115294",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-43410"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "official-product",
+      "source": {
+        "url": "https://stage.fate-go.jp/babylonia/bddvd/",
+        "at": "2026-11-05T16:17:01.491Z",
+        "sha256": "1adc9f105404bb684deaa6c2653c4526a1bda7070e91e6ce003f27f8a28777da"
+      },
+      "observationSources": [
+        {
+          "id": "babylonia-stage-dvd",
+          "sha256": "a097e5e0f23c8bf0e96e572a0a9c1e447671ef57dfe500ee2b34c19cd2d30823"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order THE STAGE -絶対魔獣戦線バビロニア- DVD ANZB-10117/9",
+      "scope": "官方舞台本体2本篇加1特典规格与JAN 4534530115294对应的DVD型号交叉核对",
+      "summary": "《Fate/Grand Order THE STAGE -绝对魔兽战线巴比伦尼亚-》完全生产限定版DVD本体，型号ANZB-10117～10119，为2张本篇DVD加1张特典DVD。分别收录2019年1月26日女性御主版、1月27日男性御主版公演，附特制册子。",
+      "notes": "未将ANIPLEX+/Animate额外附加光盘推广到此AmiAmi条目；不同媒介及原挂牌保持独立。"
+    },
+    {
+      "itemId": "source-fcfb8c6e6af0588d2b3670a98a24f3be",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "舞台Blu-ray Fate/Grand Order THE STAGE -絶対魔獣戦線バビロニア- 完全生産限",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1334814740&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "status": "pending",
+      "reason": "Mandarake标题截断且无JAN/型号，原页当前不可读，不能确认3片本体或4片店铺组合",
+      "needed": "包装背面、完整型号及光盘清单；仅有舞台作品名不足",
+      "retainedSourceUrls": [
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1334814740&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ]
+    }
+  ]
+}

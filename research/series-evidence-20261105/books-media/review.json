@@ -1,0 +1,70 @@
+{
+  "at": "2026-11-06T00:25:00.556Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 50,
+  "prepared": 34,
+  "pending": 10,
+  "protected": 6,
+  "protectionMeaning": "6条V6已有简介原样保留；既有3条人工认可资料亦保持不变，不能把两者称作9条人工认可。",
+  "groups": [
+    {
+      "groupId": "series-69c56fbae780ba75",
+      "label": "Fate/Grand Order -turas réalta-",
+      "candidates": 25,
+      "sources": [
+        "https://www.kodansha.co.jp/comic/products/0000362768",
+        "https://www.kodansha.co.jp/comic/products/0000367968",
+        "https://www.kodansha.co.jp/comic/products/0000351473",
+        "https://www.kodansha.co.jp/comic/products/0000356190",
+        "https://www.kodansha.co.jp/comic/products/0000383228",
+        "https://www.kodansha.co.jp/comic/products/0000393877",
+        "https://www.kodansha.co.jp/comic/products/0000373108",
+        "https://www.kodansha.co.jp/comic/products/0000377832",
+        "https://www.kodansha.co.jp/comic/products/0000399662",
+        "https://www.kodansha.co.jp/comic/products/0000409996",
+        "https://www.kodansha.co.jp/comic/products/0000426874",
+        "https://www.kodansha.co.jp/comic/products/0000421983",
+        "https://www.kodansha.co.jp/comic/products/0000417035",
+        "https://www.kodansha.co.jp/comic/products/0000330338",
+        "https://www.kodansha.co.jp/comic/products/0000325290",
+        "https://www.kodansha.co.jp/comic/products/0000321359",
+        "https://www.kodansha.co.jp/comic/products/0000319474",
+        "https://www.kodansha.co.jp/comic/products/0000313652",
+        "https://www.kodansha.co.jp/comic/products/0000116163",
+        "https://www.kodansha.co.jp/comic/products/0000052938",
+        "https://www.kodansha.co.jp/comic/products/0000347305",
+        "https://www.kodansha.co.jp/comic/products/0000343486",
+        "https://www.kodansha.co.jp/comic/products/0000431853"
+      ],
+      "scope": "23条卷册、1条系列页、1条1至22卷零售组合。逐卷核对ISBN、纸本/电子版、系列页边界；不把组合当单本。",
+      "status": "retained-official-links-access-blocked",
+      "access": "本轮公开网页工具抽查卷1及23官方页均返回403；未逐卷补证，未绕过。",
+      "key": "turas",
+      "reviewed": 25,
+      "ready": 25,
+      "pending": 0,
+      "protected": 0
+    },
+    {
+      "groupId": "series-1203beeb5e6df4c7",
+      "label": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+      "candidates": 25,
+      "sources": [
+        "https://anime.fate-go.jp/ep7-tv/bddvd/",
+        "https://anime.fate-go.jp/ep7-tv/package/",
+        "https://anime.fate-go.jp/ep7-tv/bddvd/?no=shop"
+      ],
+      "scope": "当前25条混有TV动画BD/DVD、舞台BD/DVD、主题曲CD、原声CD、套装及特典；仅TV官方BD页不能覆盖全部。媒介不明及跨媒介混合挂牌先保留待查，不自动拆分或归并。原组30个历史编号中5个不在当前投影，须保留历史映射。",
+      "status": "source-discovery-only",
+      "key": "babylonia",
+      "reviewed": 25,
+      "ready": 9,
+      "pending": 10,
+      "protected": 6
+    }
+  ],
+  "priorOverlap": 0,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0,
+  "productionApplied": 0
+}

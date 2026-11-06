@@ -12,5 +12,111 @@
     "publisher": "講談社",
     "author": "カワグチタケシ",
     "scope": "独立零售正文明确1至22卷；不是整个系列完结全集；不把第22卷ISBN当套装ISBN。"
+  },
+  {
+    "id": "babylonia-stage-bd",
+    "url": "https://books.rakuten.co.jp/rb/15781660/?l-id=item-c-physical-series",
+    "at": "2026-11-06T00:24:57.136Z",
+    "kind": "public-web-search-text-observation",
+    "jan": "4534530115287",
+    "model": "ANZX-10117/9",
+    "discs": {
+      "BD": 2,
+      "DVD": 1
+    },
+    "scope": "零售JAN与型号相联；本体规格，额外店铺光盘不在此范围。",
+    "hashMeaning": "JSON观察记录哈希，不是原HTML哈希；不作实时库存依据。"
+  },
+  {
+    "id": "babylonia-stage-dvd",
+    "url": "https://books.rakuten.co.jp/rb/15781661/?l-id=item-c-physical-series",
+    "at": "2026-11-06T00:24:57.136Z",
+    "kind": "public-web-search-text-observation",
+    "jan": "4534530115294",
+    "model": "ANZB-10117/9",
+    "discs": {
+      "DVD": 3
+    },
+    "scope": "零售JAN与型号相联；本体规格，额外店铺光盘不在此范围。",
+    "hashMeaning": "JSON观察记录哈希，不是原HTML哈希；不作实时库存依据。"
+  },
+  {
+    "id": "babylonia-box-54110",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54110&page=related_item",
+    "at": "2026-11-06T00:24:57.136Z",
+    "kind": "public-web-search-text-observation",
+    "code": "MED-DVD2-54110",
+    "jan": "4534530144768",
+    "mainBD": 6,
+    "extras": [
+      "封面迷你卡"
+    ],
+    "scope": "共同BD本体规格；与另一54113挂牌的特典差异保留。",
+    "hashMeaning": "JSON观察记录哈希，不是原HTML哈希；不作实时库存依据。"
+  },
+  {
+    "id": "babylonia-box-54113",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54113&page=related_item",
+    "at": "2026-11-06T00:24:57.136Z",
+    "kind": "public-web-search-text-observation",
+    "code": "MED-DVD2-54113",
+    "jan": "4534530144768",
+    "mainBD": 6,
+    "extras": [
+      "封面迷你卡",
+      "A4亚克力板"
+    ],
+    "scope": "AmiAmi特典仅属于此挂牌，不推广到54110。",
+    "hashMeaning": "JSON观察记录哈希，不是原HTML哈希；不作实时库存依据。"
+  },
+  {
+    "id": "babylonia-ost-43841",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-CD2-43841&page=related_item",
+    "at": "2026-11-06T00:24:57.136Z",
+    "kind": "public-web-search-text-observation",
+    "code": "MED-CD2-43841",
+    "jan": "4534530144720",
+    "extras": [
+      "封面迷你卡"
+    ],
+    "scope": "原声通常盘与此商品清单特典。光盘数采用官方4CD，不采零售时长。",
+    "hashMeaning": "JSON观察记录哈希，不是原HTML哈希；不作实时库存依据。"
+  },
+  {
+    "id": "babylonia-combo-54115",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54115&page=related_item",
+    "at": "2026-11-06T00:24:57.136Z",
+    "kind": "public-web-search-text-observation",
+    "code": "MED-DVD2-54115",
+    "components": [
+      "Standard Edition Blu-ray BOX",
+      "Original Soundtrack CD"
+    ],
+    "extras": [
+      "BD封面迷你卡",
+      "CD封面迷你卡",
+      "同时购入A4文件夹"
+    ],
+    "scope": "两种商品组合，不是两张光盘；此清单未含AmiAmi亚克力板。",
+    "hashMeaning": "JSON观察记录哈希，不是原HTML哈希；不作实时库存依据。"
+  },
+  {
+    "id": "babylonia-combo-54120",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-DVD2-54120&page=related_item",
+    "at": "2026-11-06T00:24:57.136Z",
+    "kind": "public-web-search-text-observation",
+    "code": "MED-DVD2-54120",
+    "components": [
+      "Standard Edition Blu-ray BOX",
+      "Original Soundtrack CD"
+    ],
+    "extras": [
+      "BD封面迷你卡",
+      "CD封面迷你卡",
+      "同时购入A4文件夹",
+      "AmiAmi A4亚克力板"
+    ],
+    "scope": "仅此零售编号的亚克力板特典，非所有组合共有。",
+    "hashMeaning": "JSON观察记录哈希，不是原HTML哈希；不作实时库存依据。"
   }
 ]
