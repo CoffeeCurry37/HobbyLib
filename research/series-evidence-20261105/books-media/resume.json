@@ -1,0 +1,236 @@
+{
+  "at": "2026-11-11T03:43:31.731Z",
+  "completedLocalDate": "2026-11-10",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-69c56fbae780ba75",
+      "label": "Fate/Grand Order -turas réalta-",
+      "snapshotItems": 25,
+      "productionApplied": 25,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-1203beeb5e6df4c7",
+      "label": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+      "snapshotItems": 25,
+      "productionApplied": 9,
+      "pendingEvidence": 10,
+      "protectedExisting": 6,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "candidates": 50,
+  "productionApplied": 34,
+  "batches": 2,
+  "pendingEvidence": 10,
+  "protectedExisting": 6,
+  "protectionMeaning": "6条动画V6既有简介及证据原样保留，不是新增人工认可；此前3条人工认可同样保留。",
+  "freshVersionSkips": 0,
+  "unresolved": [
+    {
+      "itemId": "749ce5e1-a981-45c3-ac12-e4e7639ff7f7",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 全5巻セット",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4534530120717",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/128076231",
+          "https://www.suruga-ya.jp/product/detail/128076231?tenpo_cd=400455",
+          "https://www.suruga-ya.jp/product/detail/128082400",
+          "https://www.suruga-ya.jp/product/detail/428063977",
+          "https://www.suruga-ya.jp/product/other/428063977"
+        ]
+      },
+      "status": "pending",
+      "reason": "同条目留存BD与DVD两种媒介挂牌，无法作为单一版本补写；不自动拆分归并",
+      "needed": "逐挂牌媒介、整套型号和组成，另行形成结构处理方案",
+      "retainedSourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/128082400",
+        "https://www.suruga-ya.jp/product/detail/128076231",
+        "https://www.suruga-ya.jp/product/detail/128076231?tenpo_cd=400455",
+        "https://www.suruga-ya.jp/product/detail/428063977",
+        "https://www.suruga-ya.jp/product/other/428063977"
+      ]
+    },
+    {
+      "itemId": "97f25801-08b6-4106-a36e-92cbdab15cad",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "舞台DVD Fate/Grand Order THE STAGE -絶対魔獣戦線バビロニア- 完全生産限",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349085217&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "status": "pending",
+      "reason": "Mandarake标题截断且无JAN/型号，原页当前不可读，不能确认3片本体或4片店铺组合",
+      "needed": "包装背面、完整型号及光盘清单；仅有舞台作品名不足",
+      "retainedSourceUrls": [
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349085217&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ]
+    },
+    {
+      "itemId": "member-1ihmh80",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 3",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "member-1irm2wz",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 2",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "member-1j1loly",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 1",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "member-1k5k3du",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 5",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "member-1kfjp2t",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 4",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "派生单卷仅有卷号，未明确BD/DVD，也无独立JAN或挂牌",
+      "needed": "原始包装媒介和型号，或可定位此编号的独立商品页",
+      "retainedSourceUrls": []
+    },
+    {
+      "itemId": "source-4c1f8cc3313865192ec3ffcaa97c4c1d",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 完全生産限定版 全5巻セット(全巻収納BOX付き)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/128076795",
+          "https://www.suruga-ya.jp/product/detail/128083260",
+          "https://www.suruga-ya.jp/product/detail/428064287",
+          "https://www.suruga-ya.jp/product/detail/428073096",
+          "https://www.suruga-ya.jp/product/other/128076795",
+          "https://www.suruga-ya.jp/product/other/428064287"
+        ]
+      },
+      "status": "pending",
+      "reason": "同条目留存BD与DVD两种媒介挂牌，无法作为单一版本补写；不自动拆分归并",
+      "needed": "逐挂牌媒介、整套型号和组成，另行形成结构处理方案",
+      "retainedSourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/428064287",
+        "https://www.suruga-ya.jp/product/other/428064287",
+        "https://www.suruga-ya.jp/product/detail/128076795",
+        "https://www.suruga-ya.jp/product/other/128076795",
+        "https://www.suruga-ya.jp/product/detail/128083260",
+        "https://www.suruga-ya.jp/product/detail/428073096"
+      ]
+    },
+    {
+      "itemId": "source-82339700144bf79c2388849926b1b04f",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 単巻全11巻セット",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/728038214",
+          "https://www.suruga-ya.jp/product/detail/728038214?tenpo_cd=410028"
+        ]
+      },
+      "status": "pending",
+      "reason": "留存标题为出租版11卷；当前独立出租目录未获确认，不能套用零售5卷规格",
+      "needed": "11卷出租DVD的卷目、编号及包装证据",
+      "retainedSourceUrls": [
+        "https://www.suruga-ya.jp/product/detail/728038214",
+        "https://www.suruga-ya.jp/product/detail/728038214?tenpo_cd=410028"
+      ]
+    },
+    {
+      "itemId": "source-fcfb8c6e6af0588d2b3670a98a24f3be",
+      "groupId": "series-1203beeb5e6df4c7",
+      "title": "舞台Blu-ray Fate/Grand Order THE STAGE -絶対魔獣戦線バビロニア- 完全生産限",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "絶対魔獣戦線バビロニア",
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1334814740&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "status": "pending",
+      "reason": "Mandarake标题截断且无JAN/型号，原页当前不可读，不能确认3片本体或4片店铺组合",
+      "needed": "包装背面、完整型号及光盘清单；仅有舞台作品名不足",
+      "retainedSourceUrls": [
+        "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1334814740&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+      ]
+    }
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 96,
+  "deploymentId": "appgdep_6af3e3ed48e881918fcfd61f378ba8c3",
+  "siteVersion": 70,
+  "previousOutstanding": "../cards/resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮2批34条已成功写入并完整读回；历史全部成功批次同样禁止重放。",
+  "note": "研究完成于11月5日，11月10日按用户继续指令恢复写入；此前审批未执行，不存在漏记生产批次。仅补空缺简介和追加两条证据，不增加完整核实。",
+  "historicalScope": "巴比伦尼亚原组30个历史编号中仅25个在原当前投影；另外5个历史映射保留，未重建或作为本轮候选统计。"
+}

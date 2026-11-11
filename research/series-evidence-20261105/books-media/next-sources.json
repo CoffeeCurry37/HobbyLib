@@ -1,0 +1,65 @@
+{
+  "at": "2026-11-11T03:43:31.731Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-23fffc96bf0a6a91",
+      "label": "Fate/Grand Order ウエハース2（第2弹）",
+      "candidates": 24,
+      "sources": [
+        "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000"
+      ],
+      "scope": "2018普通第2弹，勿混同巴比伦尼亚动画版第2弹或复刻第2弹。官方文字列全25种，含24普通编号和隐藏款；本轮后续候选24条，须逐一绑定原卡号和角色，不因目录25种新增缺失成员。",
+      "status": "official-text-located-item-review-not-started"
+    },
+    {
+      "groupId": "series-51eab3b1ff4440c6",
+      "label": "Fate/Grand Order ツインウエハース 特別弾 2025",
+      "candidates": 24,
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117918803000"
+      ],
+      "secondarySources": [
+        "https://www.suruga-ya.jp/product/detail/GN815102"
+      ],
+      "scope": "官方确认全24种，一包1张卡和2枚威化。当前条目多为待补款式编号；须结合原图、卡背编号、既有来源和零售ST/SST清单逐项绑定，不能把目录位置当角色证据。25年版勿混同24年特别弹，包装JAN不可当单卡JAN。",
+      "status": "official-page-and-retailer-lineup-located-item-review-not-started"
+    }
+  ],
+  "observations": [
+    {
+      "id": "wafer2-source-discovery",
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+      "at": "2026-11-11T03:43:31.731Z",
+      "kind": "public-web-search-text-observation",
+      "facts": {
+        "edition": "2018普通第2弹",
+        "cardTypes": 25,
+        "numberedRegularEntries": 24,
+        "secretEntries": 1
+      },
+      "scope": "只定位来源；未逐条核对，不计生产补证",
+      "observationSha256": "a3915dce2a8bfece75160933f40e88521bcf9168a512746c6241e26b7daf17cf",
+      "hashMeaning": "所列事实观察JSON哈希，非原HTML哈希"
+    },
+    {
+      "id": "wafer-special25-source-discovery",
+      "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+      "at": "2026-11-11T03:43:31.731Z",
+      "kind": "public-web-search-text-observation",
+      "facts": {
+        "edition": "特別弾2025",
+        "cardTypes": 24,
+        "cardsPerPack": 1,
+        "wafersPerPack": 2
+      },
+      "scope": "只定位来源；不把厂商总目录顺序绑定匿名候选",
+      "observationSha256": "ae9d1624891c35fae9b6aafc0806b77f8c338d5141ae1c3bfd0abed84bb77ff8",
+      "hashMeaning": "所列事实观察JSON哈希，非原HTML哈希"
+    }
+  ],
+  "pendingFirst": "本轮10条及此前1752条待查，仅取得新独立版本/包装/图案证据时再审；6条已有简介不重写。",
+  "nextRule": "按顺序核对威化第2弹24条、特别弹2025的24条，优先官方编号与款式明确者。先读原始身份和证据，现有占位编号不能直接映射。",
+  "productionApplied": 0
+}

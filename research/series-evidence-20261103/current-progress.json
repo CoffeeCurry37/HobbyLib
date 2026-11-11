@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-05T16:02:08.946Z",
+  "at": "2026-11-11T03:43:31.731Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 49,
-  "seriesAwaitingItemReview": 1799,
+  "seriesWithItemReview": 51,
+  "seriesAwaitingItemReview": 1797,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6561,
-  "productionApplied": 4805,
-  "protectedExisting": 3,
-  "pendingEvidence": 1752,
+  "coveredSnapshotItems": 6611,
+  "productionApplied": 4839,
+  "protectedExisting": 9,
+  "pendingEvidence": 1762,
   "freshVersionSkips": 1,
   "lastLiveCounts": {
     "main": 15790,
@@ -509,7 +509,31 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-69c56fbae780ba75",
+      "label": "Fate/Grand Order -turas réalta-",
+      "snapshotItems": 25,
+      "productionApplied": 25,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-1203beeb5e6df4c7",
+      "label": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+      "snapshotItems": 25,
+      "productionApplied": 9,
+      "pendingEvidence": 10,
+      "protectedExisting": 6,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261105/cards/next-sources.json"
+  "nextSourceFile": "../series-evidence-20261105/books-media/next-sources.json",
+  "protectionBreakdown": {
+    "acceptedEditorial": 3,
+    "existingV6Summary": 6
+  }
 }
