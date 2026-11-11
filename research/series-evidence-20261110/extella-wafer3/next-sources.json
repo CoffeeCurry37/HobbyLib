@@ -1,0 +1,134 @@
+{
+  "at": "2026-11-11T16:26:05.015Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-4c96c482cd244d03",
+      "label": "ぴくりる! FGO 亚克力立牌 vol.6",
+      "candidates": 17,
+      "sources": [
+        "https://www.hobbystock.jp/item/view/hso-ccg-00015320",
+        "https://www.hobbystock.jp/item/view/hso-ccg-00015313",
+        "https://www.hobbystock.jp/item/view/hso-ccg-00015314",
+        "https://www.hobbystock.jp/item/view/hso-ccg-00015316"
+      ],
+      "scope": "17条来源记录不等于17种角色；先逐件比对10种单品的角色、职阶、JAN及图片。官方尺寸写明角色间有差异，不能把共通约值当每款精确尺寸；十种套装特典亚瑟与单品分开，现有来源重复不自动合并。",
+      "status": "manufacturer-source-discovery-only"
+    },
+    {
+      "groupId": "series-d86ef97205e2fcc2",
+      "label": "ぴくりる! FGO 亚克力立牌 vol.5",
+      "candidates": 16,
+      "sources": [
+        "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html"
+      ],
+      "scope": "厂商专题页已显示vol.5十种亚克力立牌入口；先取得每款官方详情，再逐条绑定。不能混入同vol徽章、其他vol或套购特典，也不以标题相似自动合并。",
+      "status": "manufacturer-index-discovery-only"
+    }
+  ],
+  "observations": [
+    {
+      "id": "pikuriru6-discovery",
+      "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015320",
+      "at": "2026-11-11T16:26:05.015Z",
+      "kind": "public-web-text-observation",
+      "facts": {
+        "manufacturer": "HOBBY STOCK",
+        "medium": "acrylic stand",
+        "volume": 6,
+        "regularTypes": 10,
+        "bundleBonus": "セイバー/アーサー・ペンドラゴン〔プロトタイプ〕",
+        "material": "acrylic",
+        "accessory": "base",
+        "nominalSize": "约96×71mm，角色间存在差异",
+        "listedReleaseMonth": "2026-08"
+      },
+      "scope": "仅来源发现，不推定每条候选完整身份、尺寸或库存",
+      "observationSha256": "c999e71e6d7f8fa52a821998ea81270543b8bb7bbb70e865ae084223848b14c1",
+      "hashMeaning": "事实观察JSON哈希，非原HTML哈希"
+    },
+    {
+      "id": "pikuriru5-discovery",
+      "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+      "at": "2026-11-11T16:26:05.015Z",
+      "kind": "public-web-text-observation",
+      "facts": {
+        "volume": 5,
+        "medium": "acrylic stand",
+        "regularTypes": 10,
+        "indexExamples": [
+          "キャスター/マーリン",
+          "アサシン/山の翁"
+        ]
+      },
+      "scope": "仅厂商专题入口，未核对16条候选",
+      "observationSha256": "151915622eea37c556c4802c3423d88f36cc66b4ce6812110b88163348ef8d3e",
+      "hashMeaning": "事实观察JSON哈希，非原HTML哈希"
+    }
+  ],
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    }
+  ],
+  "pendingFirst": "EXTELLA三条拍卖需原详情/实物/版本绑定；威化3 No.25需实际卡背与角色对应证据。已有官方目录不足以猜补。",
+  "nextRule": "先vol.6的17条，再vol.5的16条；优先官方单款来源明确且无既有认可资料的候选。",
+  "productionApplied": 0
+}

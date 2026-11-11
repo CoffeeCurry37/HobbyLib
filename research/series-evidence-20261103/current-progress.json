@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-11T03:55:01.699Z",
+  "at": "2026-11-11T16:26:05.015Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 53,
-  "seriesAwaitingItemReview": 1795,
+  "seriesWithItemReview": 55,
+  "seriesAwaitingItemReview": 1793,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6659,
-  "productionApplied": 4864,
+  "coveredSnapshotItems": 6700,
+  "productionApplied": 4902,
   "protectedExisting": 9,
-  "pendingEvidence": 1785,
+  "pendingEvidence": 1788,
   "freshVersionSkips": 1,
   "lastLiveCounts": {
     "main": 15790,
@@ -549,11 +549,33 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-c2022bfe93fba72b",
+      "label": "Fate/EXTELLA",
+      "snapshotItems": 24,
+      "productionApplied": 21,
+      "pendingEvidence": 3,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-1121bbdd36248e9f",
+      "label": "Fate/Grand Order 威化第3弹",
+      "snapshotItems": 17,
+      "productionApplied": 17,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261110/wafers/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261110/extella-wafer3/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6
-  }
+  },
+  "latestPartialFieldPendingFile": "../series-evidence-20261110/extella-wafer3/field-pending.json",
+  "countingNote": "pendingEvidence统计未安全补简介的记录；已补简介记录仍可有未决字段，均不等于完整核实。"
 }

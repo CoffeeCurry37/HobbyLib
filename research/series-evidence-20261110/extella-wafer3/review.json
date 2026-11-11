@@ -1,6 +1,6 @@
 {
   "at": "2026-11-11T04:05:37.205Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 41,
   "prepared": 38,
   "pending": 3,
@@ -15,12 +15,12 @@
         "https://www.marv.jp/titles/cs/715/"
       ],
       "scope": "先区分各平台通常版、REGALIA、VELBER、Celebration、Best Collection及组件特典；官方PS4 REGALIA不能覆盖PSV版，双平台VELBER有独立组成。保留原JAN、平台、二手缺件及挂牌，不根据相似标题合并，也不把EXTELLA LINK混入。",
-      "status": "manufacturer-source-discovery-only",
       "key": "extella",
       "reviewed": 24,
       "ready": 21,
       "pending": 3,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     },
     {
       "groupId": "series-1121bbdd36248e9f",
@@ -30,16 +30,19 @@
         "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html"
       ],
       "scope": "官方文字列出24种明确款及1种隐藏款；当前17条具有既有目录编号/角色，先逐条比对，不能仅凭官方全25种新增商品。保留标点与原名，不把包装JAN写成单卡JAN。",
-      "status": "official-numbered-lineup-discovery-only",
       "key": "wafer3",
       "reviewed": 17,
       "ready": 17,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 38,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-11T16:26:05.015Z",
+  "additionalFieldPending": 1
 }

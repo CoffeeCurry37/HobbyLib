@@ -1,0 +1,144 @@
+{
+  "at": "2026-11-11T16:26:05.015Z",
+  "startedLocalDate": "2026-11-10",
+  "completedLocalDate": "2026-11-11",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-c2022bfe93fba72b",
+      "label": "Fate/EXTELLA",
+      "snapshotItems": 24,
+      "productionApplied": 21,
+      "pendingEvidence": 3,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-1121bbdd36248e9f",
+      "label": "Fate/Grand Order 威化第3弹",
+      "snapshotItems": 17,
+      "productionApplied": 17,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "candidates": 41,
+  "productionApplied": 38,
+  "batches": 2,
+  "pendingEvidence": 3,
+  "additionalFieldPending": [
+    {
+      "itemId": "catalogue-d48df67924586fdc75a5e636ab30519c",
+      "title": "Fate/Grand Orderウエハース3 No.25 シークレット",
+      "confirmedSummaryApplied": true,
+      "confirmed": "官方目录No.25、SSR、シークレット",
+      "unresolvedFields": [
+        "secretCharacterIdentity"
+      ],
+      "needed": "需有实际卡背编号与角色对应的独立证据；不能按同弹人物或宣传图猜名",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      }
+    }
+  ],
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
+  "unresolved": [
+    {
+      "itemId": "source-98baf5aff1cb6624110b5133246b9b6e",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "PS4 Fate/EXTELLA フェイト/エクステラ 新品未開封",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "PS4 Fate/EXTELLA フェイト/エクステラ 新品未開封",
+        "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/f58fec84a3c29f2211dfca6b69d86c7c1907e757e507f1ea1ab2540530da6bd4/i-img900x1200-17891351476926ovkhwa14636.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/f58fec84a3c29f2211dfca6b69d86c7c1907e757e507f1ea1ab2540530da6bd4/i-img900x1200-17891351476926ovkhwa14636.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+        ],
+        "offerUrls": [
+          "https://auctions.yahoo.co.jp/jp/auction/m1244214540"
+        ]
+      },
+      "status": "pending",
+      "reason": "原拍卖标题只确认PS4，未明确通常版、Best或其他包装；现页及编号检索未取得可独立核对详情。",
+      "needed": "原拍卖图文、封面版本标志或包装条码。",
+      "recheckRule": "取得独立身份资料后再查；访问失败不改挂牌状态",
+      "observationId": "unreadable-listings"
+    },
+    {
+      "itemId": "source-9c344c34604df07f84d62f5cb2f78101",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "PSVITA フェイト Fate EXTELLA エクステラ+LINK リンク+ステイナイト レアルタ・ヌア+ホロウ アタラクシア",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "PSVITA フェイト Fate EXTELLA エクステラ+LINK リンク+ステイナイト レアルタ・ヌア+ホロウ アタラクシア",
+        "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/32fb96eae3fbf2769ec9921893ed867188535e36d3f84e560e6ffb1489b6a68d/i-img1200x900-17892896716710jaapn912744.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/32fb96eae3fbf2769ec9921893ed867188535e36d3f84e560e6ffb1489b6a68d/i-img1200x900-17892896716710jaapn912744.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+        ],
+        "offerUrls": [
+          "https://auctions.yahoo.co.jp/jp/auction/r1244419300"
+        ]
+      },
+      "status": "pending",
+      "reason": "原标题混合EXTELLA、LINK、Realta Nua及hollow ataraxia多款游戏，不能当作官方EXTELLA套装；未取得各实物/版本证据。",
+      "needed": "原拍卖的完整照片、组合清单及各游戏版本。",
+      "recheckRule": "取得独立身份资料后再查；访问失败不改挂牌状态",
+      "observationId": "unreadable-listings"
+    },
+    {
+      "itemId": "source-a3ccc05d6d923083d2c9803d38d96e0c",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "未開封 MARVELOUS Fate/EXTELLA Celebration BOX for Nintendo Switch マーベラス フェイト スイッチ ソフト 限定版 261007Y7",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "未開封 MARVELOUS Fate/EXTELLA Celebration BOX for Nintendo Switch マーベラス フェイト スイッチ ソフト 限定版 261007Y7",
+        "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/834ca9f46f2febf5df188026c9191fc2d0071ada2bbeb49572b3342ec66eae5e/i-img1200x1200-17908380012563akbjuz36.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://auctions.yahoo.co.jp/jp/auction/w1246649967"
+        ]
+      },
+      "status": "pending",
+      "reason": "标题提及Switch Celebration BOX，但仅有规则标签与拍卖摘要，没有条码或独立实物身份资料；页面不可读。",
+      "needed": "原拍卖详情或独立包装/条码照片，将此拍卖ID与官方限定盒绑定。",
+      "recheckRule": "取得独立身份资料后再查；访问失败不改挂牌状态",
+      "observationId": "unreadable-listings"
+    }
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 100,
+  "deploymentId": "appgdep_6af49679757c8191b013ed511dd28035",
+  "siteVersion": 70,
+  "previousOutstanding": "../wafers/resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮2批38条成功写入并完整读回；上一轮2批25条及历史全部成功批次同样禁止重放。",
+  "note": "只补空缺简介和追加两条证据，原认可资料全部保留，不增加完整核实。No.25只确认官方隐藏款目录标签，未猜角色。"
+}
