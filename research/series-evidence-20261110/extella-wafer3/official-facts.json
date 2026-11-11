@@ -1,0 +1,161 @@
+{
+  "at": "2026-11-11T04:05:03.900Z",
+  "extella": {
+    "reviewed": 24,
+    "supported": 21,
+    "pending": 3,
+    "scope": "21条仅补有明确身份绑定的版本、平台、组件或逻辑目录。三条拍卖保留待查。",
+    "celebrationSource": {
+      "url": "https://celebration.fate-extella.jp/?utm_source=corp&utm_medium=officialSite&utm_campaign=newRelease",
+      "at": "2026-11-11T04:02:49.405Z",
+      "sha256": "e5334e03692f6605469a3841898f6751dd95180eca6d10fb623e9036204c29ec"
+    },
+    "celebrationCaution": "EXTELLA与LINK是官方同捆的不同游戏；PS4为衣装代码，Switch部分衣装预先收录。缺件/代码不作可用承诺。",
+    "regaliaCaution": "PS4用711、Vita用712；原旧证据不删。VELBER原配为双平台，不从零售分类推断单平台。"
+  },
+  "wafer3": {
+    "source": {
+      "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+      "at": "2026-11-11T03:58:01.925Z",
+      "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+    },
+    "corroboration": {
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660251392000",
+      "at": "2026-11-11T04:01:49.731Z",
+      "sha256": "178ac039f2717850cc7ceb922691515b381640f54222251c58d4d98c1b6393cf"
+    },
+    "releaseDate": "2018-06-05",
+    "totalTypes": 25,
+    "lineup": [
+      {
+        "number": 1,
+        "rarity": "N",
+        "name": "セイバー/柳生但馬守宗矩"
+      },
+      {
+        "number": 2,
+        "rarity": "N",
+        "name": "アーチャー/トリスタン"
+      },
+      {
+        "number": 3,
+        "rarity": "N",
+        "name": "アーチャー/アーチャー･インフェルノ"
+      },
+      {
+        "number": 4,
+        "rarity": "N",
+        "name": "ランサー/宝蔵院胤舜"
+      },
+      {
+        "number": 5,
+        "rarity": "N",
+        "name": "ライダー/牛若丸"
+      },
+      {
+        "number": 6,
+        "rarity": "N",
+        "name": "ライダー/アレキサンダー"
+      },
+      {
+        "number": 7,
+        "rarity": "N",
+        "name": "キャスター/ハンス･クリスチャン･アンデルセン"
+      },
+      {
+        "number": 8,
+        "rarity": "N",
+        "name": "キャスター/玄奘三蔵"
+      },
+      {
+        "number": 9,
+        "rarity": "N",
+        "name": "アサシン/ヘンリー･ジキル&ハイド"
+      },
+      {
+        "number": 10,
+        "rarity": "N",
+        "name": "アサシン/不夜城のアサシン"
+      },
+      {
+        "number": 11,
+        "rarity": "N",
+        "name": "バーサーカー/坂田金時"
+      },
+      {
+        "number": 12,
+        "rarity": "N",
+        "name": "アルターエゴ/メカエリチャン"
+      },
+      {
+        "number": 13,
+        "rarity": "R",
+        "name": "セイバー/アルトリア･ペンドラゴン[リリィ]"
+      },
+      {
+        "number": 14,
+        "rarity": "R",
+        "name": "アーチャー/新宿のアーチャー"
+      },
+      {
+        "number": 15,
+        "rarity": "R",
+        "name": "ランサー/ブリュンヒルデ"
+      },
+      {
+        "number": 16,
+        "rarity": "R",
+        "name": "ライダー/ケツァル・コアトル"
+      },
+      {
+        "number": 17,
+        "rarity": "R",
+        "name": "キャスター/不夜城のキャスター"
+      },
+      {
+        "number": 18,
+        "rarity": "R",
+        "name": "アサシン/クレオパトラ"
+      },
+      {
+        "number": 19,
+        "rarity": "R",
+        "name": "バーサーカー/謎のヒロインX[オルタ]"
+      },
+      {
+        "number": 20,
+        "rarity": "R",
+        "name": "ルーラー/シャーロック･ホームズ"
+      },
+      {
+        "number": 21,
+        "rarity": "SR",
+        "name": "セイバー/ネロ･クラウディウス[ブライド]"
+      },
+      {
+        "number": 22,
+        "rarity": "SR",
+        "name": "ランサー/エルキドゥ"
+      },
+      {
+        "number": 23,
+        "rarity": "SR",
+        "name": "キャスター/レオナルド･ダ･ヴィンチ"
+      },
+      {
+        "number": 24,
+        "rarity": "SR",
+        "name": "バーサーカー/クー･フーリン[オルタ]"
+      },
+      {
+        "number": 25,
+        "rarity": "SSR",
+        "name": "シークレット"
+      }
+    ],
+    "targetSingles": 16,
+    "targetFamily": 1,
+    "secretCharacterPending": true,
+    "scope": "15个有名角色、1个官方SSR隐藏款标签、1个目录。隐藏角色仍待查；未创建其余成员，不声称看过每张卡背。"
+  }
+}

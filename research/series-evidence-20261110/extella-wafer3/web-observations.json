@@ -1,0 +1,49 @@
+[
+  {
+    "id": "eu-retailer-binding",
+    "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=20038&search_word=Fate",
+    "at": "2026-11-11T04:05:03.900Z",
+    "kind": "public-web-text-observation",
+    "facts": {
+      "code": "109004053",
+      "jan": "5060540770011",
+      "platform": "Nintendo Switch",
+      "region": "EU",
+      "title": "Fate extella The Umbral Star"
+    },
+    "scope": "零售回收目录的身份对应，不作实时库存或官方规格来源",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "na-retailer-binding",
+    "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/105007013",
+    "at": "2026-11-11T04:05:03.900Z",
+    "kind": "public-web-text-observation",
+    "facts": {
+      "code": "105007013",
+      "jan": "0859716006055",
+      "model": "PCSE-00928",
+      "platform": "PSVita",
+      "region": "North America",
+      "publisher": "Xseed"
+    },
+    "scope": "零售回收详情的身份对应，不作实时库存或官方规格来源",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "unreadable-listings",
+    "at": "2026-11-11T04:05:03.900Z",
+    "kind": "public-web-access-observation",
+    "urls": [
+      "https://auctions.yahoo.co.jp/jp/auction/m1244214540",
+      "https://auctions.yahoo.co.jp/jp/auction/r1244419300",
+      "https://auctions.yahoo.co.jp/jp/auction/w1246649967",
+      "https://www.suruga-ya.jp/product/detail/209000021",
+      "https://www.suruga-ya.jp/product/detail/109004053",
+      "https://www.suruga-ya.jp/product/detail/105007013"
+    ],
+    "result": "网页工具无法读取；三条拍卖编号检索未取得独立对应详情。",
+    "scope": "访问失败不等于结束、售出或商品身份不存在；不修改挂牌状态",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  }
+]

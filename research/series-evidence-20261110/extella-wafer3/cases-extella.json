@@ -1,0 +1,1494 @@
+{
+  "at": "2026-11-11T04:05:03.900Z",
+  "rows": [
+    {
+      "itemId": "5860adb1-13d2-42e6-9c2b-cf6109336d4a",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA REGALIA BOX",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302540",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA REGALIA BOX",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107002198.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/107002198.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/107002198",
+          "https://www.suruga-ya.jp/product/detail/107003600",
+          "https://www.suruga-ya.jp/product/detail/107007291",
+          "https://www.suruga-ya.jp/product/other/107000644"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/711/",
+        "at": "2026-11-11T03:58:01.885Z",
+        "sha256": "2c619999ac9ded1254b95992b9564cf5b6b80c83b1e1750f224e4ab396df66ac"
+      },
+      "additionalSources": [
+        {
+          "url": "https://fate-extella.jp/spec/index.html",
+          "at": "2026-11-11T04:01:19.511Z",
+          "sha256": "0385ad595c8df98ce602adf29fc02e58f089bb3b43e3faae5ed421015352db96"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA REGALIA BOX（フェイト／エクステラ レガリア ボックス） for PlayStation®4",
+      "platform": "PlayStation 4",
+      "releaseDate": "2016-11-10",
+      "summary": "《Fate/EXTELLA》PS4版 REGALIA BOX，2016年11月10日发售。官方原配为PS4游戏、ワダアルコ绘制收纳盒、《Fate/EXTELLA material》及尼禄“束縛の花嫁衣装”兑换码。二手缺件与代码状态以各挂牌记录为准。",
+      "expectedJan": "4535506302540",
+      "expectedCategory": "PS4ソフト",
+      "identityEvidence": [
+        {
+          "field": "releaseDate",
+          "value": "2016/11/10",
+          "url": "https://www.suruga-ya.jp/product/other/107000644",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107002198",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2016-11-10",
+          "url": "https://www.suruga-ya.jp/product/detail/107002198",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107002198",
+          "at": "2026-10-06T01:54:32.630Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302540",
+          "url": "https://www.suruga-ya.jp/product/detail/107002198",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        }
+      ]
+    },
+    {
+      "itemId": "e514fc7c-0f5d-49c3-8c80-6c635c84c79f",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA VELBER BOX",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302588",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA VELBER BOX",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107002657.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/107002657.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/107000645",
+          "https://www.suruga-ya.jp/product/detail/107001178",
+          "https://www.suruga-ya.jp/product/detail/107001601",
+          "https://www.suruga-ya.jp/product/detail/107002657",
+          "https://www.suruga-ya.jp/product/detail/107003385",
+          "https://www.suruga-ya.jp/product/detail/107005923",
+          "https://www.suruga-ya.jp/product/detail/107900584",
+          "https://www.suruga-ya.jp/product/detail/107980077"
+        ]
+      },
+      "status": "supported",
+      "scope": "双平台官方原配；零售归在某一平台不代表原套装仅有该平台。缺PS4游戏的挂牌仍保持缺件，不改变关系。",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/715/",
+        "at": "2026-11-11T03:58:02.895Z",
+        "sha256": "ce0645a79147022c69c697b34c18a9eae8264285de0661d5e66e4bb9b98b25b1"
+      },
+      "additionalSources": [
+        {
+          "url": "https://fate-extella.jp/spec/index.html",
+          "at": "2026-11-11T04:01:19.511Z",
+          "sha256": "0385ad595c8df98ce602adf29fc02e58f089bb3b43e3faae5ed421015352db96"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA VELBER BOX（フェイト／エクステラ ヴェルバー ボックス）",
+      "platform": "PSVita",
+      "releaseDate": "2016-11-10",
+      "summary": "《Fate/EXTELLA》VELBER BOX，2016年11月10日发售。官方原配包含PS4与PS Vita两份游戏、ワダアルコ绘制收纳盒、《Fate/EXTELLA material》、Saber Bride鼠标垫，以及尼禄和吉尔伽美什服装兑换码。此处说明原始配置，保留各二手挂牌的缺件与代码状态。",
+      "expectedJan": "4535506302588",
+      "identityEvidence": [
+        {
+          "field": "releaseDate",
+          "value": "2016/11/10",
+          "url": "https://www.suruga-ya.jp/product/detail/107900584?tenpo_cd=",
+          "at": "2026-10-04T21:16:30.583Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107002657",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2016-11-10",
+          "url": "https://www.suruga-ya.jp/product/detail/107002657",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302588",
+          "url": "https://www.suruga-ya.jp/product/detail/107002657",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107002657",
+          "at": "2026-10-06T01:54:44.621Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ]
+    },
+    {
+      "itemId": "family-0183ff00ef87ca388a6e47040ebba2fe",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA（PS4）",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/EXTELLA",
+        "wave": "",
+        "member": "Fate/EXTELLA（PS4）",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107002198.jpg.webp",
+        "catalogueKey": "game:fateextella:PS4",
+        "catalogueGroupType": "editions",
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/107002198.jpg.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "scope": "平台逻辑目录；不把跨版本目录当成实物套装或把首发日期套给所有成员",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/713/",
+        "at": "2026-11-11T04:01:51.738Z",
+        "sha256": "d91228187d466b97da60588605406caed390713a5341fe89324bc009bcf5909f"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.marv.jp/titles/cs/711/",
+          "at": "2026-11-11T03:58:01.885Z",
+          "sha256": "2c619999ac9ded1254b95992b9564cf5b6b80c83b1e1750f224e4ab396df66ac"
+        },
+        {
+          "url": "https://www.marv.jp/titles/cs/9161/",
+          "at": "2026-11-11T04:01:48.799Z",
+          "sha256": "80e5ae48d5e9865bf5aa899a999f4cb34f9850516534616ee276635c33b98f0c"
+        },
+        {
+          "url": "https://www.marv.jp/titles/cs/9929/",
+          "at": "2026-11-11T04:01:21.567Z",
+          "sha256": "b7a5d8fe8be3334b3a592716a95c9983199ced3ecb5cfff3453d5725a1849b4f"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA（フェイト／エクステラ）",
+      "platform": "PlayStation 4",
+      "releaseDate": "2016-11-10",
+      "summary": "《Fate/EXTELLA》的PlayStation 4平台版本目录，收录该平台游戏的不同发行版本。各版本的发售批次、限定盒与附属内容分别保留；本条为目录，不代表一件实物或齐套商品。",
+      "identityEvidence": [
+        {
+          "field": "系列整理",
+          "value": "同平台版本目录；发行批次和捆绑内容保留在各版本资料内。",
+          "url": "",
+          "at": "2026-10-17T14:52:29.635Z",
+          "method": "逻辑父级；成员保持独立商品及个人状态"
+        }
+      ]
+    },
+    {
+      "itemId": "family-0f262895efbf6ddfd6959cacecc8e1b4",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA（Switch）",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/EXTELLA",
+        "wave": "",
+        "member": "Fate/EXTELLA（Switch）",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/109000021.jpg.webp",
+        "catalogueKey": "game:fateextella:Switch",
+        "catalogueGroupType": "editions",
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/109000021.jpg.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "scope": "平台逻辑目录；不把跨版本目录当成实物套装或把首发日期套给所有成员",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9027/",
+        "at": "2026-11-11T04:01:50.530Z",
+        "sha256": "20561c94cf97201fded87c3ede37680e46422171f0270c97453edab3f07baa86"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.marv.jp/titles/cs/9025/",
+          "at": "2026-11-11T04:01:22.682Z",
+          "sha256": "690412f48e90ce80c50537c3f1caaa42f2f332c36178ed57cb643ed737bc50c2"
+        },
+        {
+          "url": "https://www.marv.jp/titles/cs/9479/",
+          "at": "2026-11-11T04:01:22.079Z",
+          "sha256": "60b8e2890856e76b733b6c1e5f7b1f61f7801189d43209a3a37d81d5d23beafe"
+        },
+        {
+          "url": "https://www.marv.jp/titles/cs/9927/",
+          "at": "2026-11-11T04:01:20.946Z",
+          "sha256": "19a9c1a5599025230dda3497fdd4a34647dd1db6178a8be3a4b444c4a1f2547f"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA（フェイト／エクステラ）",
+      "platform": "Nintendo Switch",
+      "releaseDate": "2017-07-20",
+      "summary": "《Fate/EXTELLA》的Nintendo Switch平台版本目录，收录该平台游戏的不同发行版本。各版本的发售批次、限定盒与附属内容分别保留；本条为目录，不代表一件实物或齐套商品。",
+      "identityEvidence": [
+        {
+          "field": "系列整理",
+          "value": "同平台版本目录；发行批次和捆绑内容保留在各版本资料内。",
+          "url": "",
+          "at": "2026-10-17T14:52:29.667Z",
+          "method": "逻辑父级；成员保持独立商品及个人状态"
+        }
+      ]
+    },
+    {
+      "itemId": "family-247976461de98daf5176ebb4e6a5c3e0",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA（PSVita）",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/EXTELLA",
+        "wave": "",
+        "member": "Fate/EXTELLA（PSVita）",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/205001484.jpg.webp",
+        "catalogueKey": "game:fateextella:PSVita",
+        "catalogueGroupType": "editions",
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/205001484.jpg.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "scope": "平台逻辑目录；不把跨版本目录当成实物套装或把首发日期套给所有成员",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/714/",
+        "at": "2026-11-11T04:01:52.242Z",
+        "sha256": "d4c014e48c21676e9cbdf1d4d5fac4140fc80d9b801b3c6b1d12f8a685f15f6c"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.marv.jp/titles/cs/712/",
+          "at": "2026-11-11T04:01:51.149Z",
+          "sha256": "67ef6be5187ce3226da23069b3a41fd381a494d65c065d9a82c7d3e30c956fc6"
+        },
+        {
+          "url": "https://www.marv.jp/titles/cs/9157/",
+          "at": "2026-11-11T04:01:49.898Z",
+          "sha256": "bf6bd1e517b8d2aab7c5acbc1dccb333517ba6fc7b8e96b9be30186d0dcf481e"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA（フェイト／エクステラ）",
+      "platform": "PSVita",
+      "releaseDate": "2016-11-10",
+      "summary": "《Fate/EXTELLA》的PSVita平台版本目录，收录该平台游戏的不同发行版本。各版本的发售批次、限定盒与附属内容分别保留；本条为目录，不代表一件实物或齐套商品。",
+      "identityEvidence": [
+        {
+          "field": "系列整理",
+          "value": "同平台版本目录；发行批次和捆绑内容保留在各版本资料内。",
+          "url": "",
+          "at": "2026-10-17T14:52:29.670Z",
+          "method": "逻辑父级；成员保持独立商品及个人状态"
+        }
+      ]
+    },
+    {
+      "itemId": "game-member-15m8kc5",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA PlayStation Vita ゲームソフト",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA PlayStation Vita ゲームソフト",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": []
+      },
+      "status": "supported",
+      "scope": "既有套装成员证据与官方VELBER配置对应；不赋通常版包装JAN或单独零售版本身份",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/715/",
+        "at": "2026-11-11T03:58:02.895Z",
+        "sha256": "ce0645a79147022c69c697b34c18a9eae8264285de0661d5e66e4bb9b98b25b1"
+      },
+      "additionalSources": [
+        {
+          "url": "https://fate-extella.jp/spec/index.html",
+          "at": "2026-11-11T04:01:19.511Z",
+          "sha256": "0385ad595c8df98ce602adf29fc02e58f089bb3b43e3faae5ed421015352db96"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA VELBER BOX / PlayStation Vita 游戏组件",
+      "platform": "PlayStation Vita",
+      "summary": "《Fate/EXTELLA》PlayStation Vita版游戏本体组件，为官方VELBER BOX原配内容之一。此条记录游戏组件本身，收纳盒、资料集及其他特典另行保留，不据此推定二手套装内容齐全。",
+      "identityEvidence": [
+        {
+          "field": "套装成员",
+          "value": "Fate/EXTELLA PlayStation Vita ゲームソフト",
+          "url": "https://www.marv.jp/titles/cs/715/",
+          "at": "2026-10-05T05:26:08.086Z",
+          "method": "发行商官网明确同梱内容"
+        }
+      ]
+    },
+    {
+      "itemId": "game-member-1uv75td",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA PlayStation 4 ゲームソフト",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA PlayStation 4 ゲームソフト",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": []
+      },
+      "status": "supported",
+      "scope": "既有套装成员证据与官方VELBER配置对应；不赋通常版包装JAN或单独零售版本身份",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/715/",
+        "at": "2026-11-11T03:58:02.895Z",
+        "sha256": "ce0645a79147022c69c697b34c18a9eae8264285de0661d5e66e4bb9b98b25b1"
+      },
+      "additionalSources": [
+        {
+          "url": "https://fate-extella.jp/spec/index.html",
+          "at": "2026-11-11T04:01:19.511Z",
+          "sha256": "0385ad595c8df98ce602adf29fc02e58f089bb3b43e3faae5ed421015352db96"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA VELBER BOX / PlayStation 4 游戏组件",
+      "platform": "PlayStation 4",
+      "summary": "《Fate/EXTELLA》PlayStation 4版游戏本体组件，为官方VELBER BOX原配内容之一。此条记录游戏组件本身，收纳盒、资料集及其他特典另行保留，不据此推定二手套装内容齐全。",
+      "identityEvidence": [
+        {
+          "field": "套装成员",
+          "value": "Fate/EXTELLA PlayStation 4 ゲームソフト",
+          "url": "https://www.marv.jp/titles/cs/715/",
+          "at": "2026-10-05T05:26:08.086Z",
+          "method": "发行商官网明确同梱内容"
+        }
+      ]
+    },
+    {
+      "itemId": "source-09df383fc33dfe57a856f80c6ae438d1",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA Celebration BOX for Nintendo Switch",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506303257",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA Celebration BOX for Nintendo Switch",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/109001588.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/109001588.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/109001569",
+          "https://www.suruga-ya.jp/product/detail/109001588",
+          "https://www.suruga-ya.jp/product/detail/109001666",
+          "https://www.suruga-ya.jp/product/detail/109980059",
+          "https://www.suruga-ya.jp/product/other/109001247"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。 Celebration确实同捆LINK；不是将LINK单独游戏混为EXTELLA本体。两平台DLC收录方式不同，不互相套用。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9927/",
+        "at": "2026-11-11T04:01:20.946Z",
+        "sha256": "19a9c1a5599025230dda3497fdd4a34647dd1db6178a8be3a4b444c4a1f2547f"
+      },
+      "additionalSources": [
+        {
+          "url": "https://celebration.fate-extella.jp/?utm_source=corp&utm_medium=officialSite&utm_campaign=newRelease",
+          "at": "2026-11-11T04:02:49.405Z",
+          "sha256": "e5334e03692f6605469a3841898f6751dd95180eca6d10fb623e9036204c29ec"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA Celebration BOX for Nintendo Switch",
+      "platform": "Nintendo Switch",
+      "releaseDate": "2021-02-11",
+      "summary": "Fate/EXTRA十周年纪念商品《Fate/EXTELLA Celebration BOX》Nintendo Switch版，2021年2月11日发售。官方原配含该平台《EXTELLA》与《EXTELLA LINK》两款游戏、えくすてらっち电子宠物、A5画框画、纪念收纳盒及LINK尼禄新娘服装兑换码。二手缺件与代码状态以各挂牌记录为准。",
+      "expectedCategory": "ニンテンドースイッチソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109001588",
+          "at": "2026-10-06T01:52:29.956Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2021/02/11",
+          "url": "https://www.suruga-ya.jp/product/other/109001247",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109001588",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2021-02-11",
+          "url": "https://www.suruga-ya.jp/product/detail/109001588",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4535506303257",
+          "url": "https://www.suruga-ya.jp/product/detail/109001588",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        }
+      ]
+    },
+    {
+      "itemId": "source-2e0fef6c61ceaa2c0bc9d4501e7b9fc1",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA [通常版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302656",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA [通常版]",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/109000021.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/109000021.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/109001382",
+          "https://www.suruga-ya.jp/product/detail/109900066",
+          "https://www.suruga-ya.jp/product/other/109000021"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9027/",
+        "at": "2026-11-11T04:01:50.530Z",
+        "sha256": "20561c94cf97201fded87c3ede37680e46422171f0270c97453edab3f07baa86"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA（フェイト／エクステラ）",
+      "platform": "Nintendo Switch",
+      "releaseDate": "2017-07-20",
+      "summary": "Marvelous《Fate/EXTELLA》日本发行的Nintendo Switch通常版游戏，2017年07月20日发售，类型为高速从者动作游戏。此版本的游戏本体与限定盒附属品分别收录。",
+      "expectedJan": "4535506302656",
+      "expectedCategory": "ニンテンドースイッチソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109900066",
+          "at": "2026-10-06T01:53:50.287Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2017/07/20",
+          "url": "https://www.suruga-ya.jp/product/other/109000021",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109900066",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2017-07-20",
+          "url": "https://www.suruga-ya.jp/product/detail/109900066",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302656",
+          "url": "https://www.suruga-ya.jp/product/detail/109900066",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        }
+      ]
+    },
+    {
+      "itemId": "source-4944cd6506cf1882558c9626a736fd90",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA [通常版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302571",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA [通常版]",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/205001484.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/205001484.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/105001484",
+          "https://www.suruga-ya.jp/product/detail/205001484"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/714/",
+        "at": "2026-11-11T04:01:52.242Z",
+        "sha256": "d4c014e48c21676e9cbdf1d4d5fac4140fc80d9b801b3c6b1d12f8a685f15f6c"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA（フェイト／エクステラ）",
+      "platform": "PSVita",
+      "releaseDate": "2016-11-10",
+      "summary": "Marvelous《Fate/EXTELLA》日本发行的PSVita通常版游戏，2016年11月10日发售，类型为高速从者动作游戏。此版本的游戏本体与限定盒附属品分别收录。",
+      "expectedJan": "4535506302571",
+      "expectedCategory": "PSVITAソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/205001484",
+          "at": "2026-10-06T01:57:26.955Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2016-11-10",
+          "url": "https://www.suruga-ya.jp/product/detail/205001484",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302571",
+          "url": "https://www.suruga-ya.jp/product/detail/105001484",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/205001484",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-6c622374746f0c6d0484025f38149450",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA [Best Collection]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA [Best Collection]",
+        "image": "https://www.suruga-ya.jp/pics_webp/common/pc/logo-surugaya.svg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/pics_webp/common/pc/logo-surugaya.svg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/other/109000371"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9479/",
+        "at": "2026-11-11T04:01:22.079Z",
+        "sha256": "60b8e2890856e76b733b6c1e5f7b1f61f7801189d43209a3a37d81d5d23beafe"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA Best Collection",
+      "platform": "Nintendo Switch",
+      "releaseDate": "2018-12-20",
+      "summary": "Marvelous《Fate/EXTELLA》Nintendo Switch版 Best Collection，2018年12月20日发售的再版游戏，类型为高速从者动作游戏。",
+      "expectedJan": "",
+      "expectedCategory": "ニンテンドースイッチソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/other/109000371",
+          "at": "2026-10-06T01:52:35.889Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2018/12/20",
+          "url": "https://www.suruga-ya.jp/product/other/109000371",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/other/109000371",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-92943227ca3edcf56cc0876e4fab9c95",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA REGALIA BOX",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302557",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA REGALIA BOX",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/105900231.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/105900231.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/105001485",
+          "https://www.suruga-ya.jp/product/detail/105001970",
+          "https://www.suruga-ya.jp/product/detail/105002178",
+          "https://www.suruga-ya.jp/product/detail/105900231"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。 本轮以Vita专页712及原JAN/分类补证，不把旧PS4来源711当作Vita证据。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/712/",
+        "at": "2026-11-11T04:01:51.149Z",
+        "sha256": "67ef6be5187ce3226da23069b3a41fd381a494d65c065d9a82c7d3e30c956fc6"
+      },
+      "additionalSources": [
+        {
+          "url": "https://fate-extella.jp/spec/index.html",
+          "at": "2026-11-11T04:01:19.511Z",
+          "sha256": "0385ad595c8df98ce602adf29fc02e58f089bb3b43e3faae5ed421015352db96"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA REGALIA BOX（フェイト／エクステラ レガリア ボックス） for PlayStation®Vita",
+      "platform": "PSVita",
+      "releaseDate": "2016-11-10",
+      "summary": "《Fate/EXTELLA》PS Vita版 REGALIA BOX，2016年11月10日发售。官方原配为PS Vita游戏、ワダアルコ绘制收纳盒、《Fate/EXTELLA material》及吉尔伽美什服装兑换码。二手缺件与代码状态以各挂牌记录为准。",
+      "expectedJan": "4535506302557",
+      "expectedCategory": "PSVITAソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/105900231",
+          "at": "2026-10-06T01:57:45.609Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2016-11-10",
+          "url": "https://www.suruga-ya.jp/product/detail/105900231",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302557",
+          "url": "https://www.suruga-ya.jp/product/detail/105900231",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/105900231",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-9624fc8353e0a4d821790e6e37369a30",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "EU版 Fate extella The Umbral Star(国内版本体動作可)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "5060540770011",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "EU版 Fate extella The Umbral Star(国内版本体動作可)",
+        "image": "https://www.suruga-ya.jp/database/images/no_photo.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/images/no_photo.jpg"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/109004053"
+        ]
+      },
+      "status": "supported",
+      "scope": "欧洲Switch发行公告与零售条码/平台双重绑定；不使用日本或北美发售日",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.xseedgames.com/2017/04/13/xseed-games-sets-sights-on-nintendo-switch-version-for-fateextella-the-umbral-star/",
+        "at": "2026-11-11T04:01:48.837Z",
+        "sha256": "91b9b11eb51136bb89d78c7c612ce249a50eda9b37fc70d5750991a128a22d58"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA: The Umbral Star / Europe / Nintendo Switch",
+      "expectedJan": "5060540770011",
+      "expectedCategory": "ニンテンドースイッチソフト",
+      "platform": "Nintendo Switch",
+      "summary": "《Fate/EXTELLA: The Umbral Star》欧洲发行的Nintendo Switch版游戏。发行商公告列出欧洲版于2017年7月21日推出；原零售目录的地区、平台与商品条码相符。具体语言、包装附属品与运行条件不作额外推定。",
+      "retailerObservation": {
+        "id": "eu-retailer-binding",
+        "sha256": "7cb0078b686462ef04040bf47d3e2f81317726f00160eed186055f0eace7e903"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/search_buy?category=20038&search_word=Fate",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109004053",
+          "at": "2026-10-06T01:56:25.411Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "jan",
+          "value": "5060540770011",
+          "url": "https://www.suruga-ya.jp/product/detail/109004053",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109004053",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-98baf5aff1cb6624110b5133246b9b6e",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "PS4 Fate/EXTELLA フェイト/エクステラ 新品未開封",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "PS4 Fate/EXTELLA フェイト/エクステラ 新品未開封",
+        "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/f58fec84a3c29f2211dfca6b69d86c7c1907e757e507f1ea1ab2540530da6bd4/i-img900x1200-17891351476926ovkhwa14636.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/f58fec84a3c29f2211dfca6b69d86c7c1907e757e507f1ea1ab2540530da6bd4/i-img900x1200-17891351476926ovkhwa14636.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+        ],
+        "offerUrls": [
+          "https://auctions.yahoo.co.jp/jp/auction/m1244214540"
+        ]
+      },
+      "status": "pending",
+      "reason": "原拍卖标题只确认PS4，未明确通常版、Best或其他包装；现页及编号检索未取得可独立核对详情。",
+      "needed": "原拍卖图文、封面版本标志或包装条码。",
+      "recheckRule": "取得独立身份资料后再查；访问失败不改挂牌状态",
+      "observationId": "unreadable-listings"
+    },
+    {
+      "itemId": "source-9c344c34604df07f84d62f5cb2f78101",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "PSVITA フェイト Fate EXTELLA エクステラ+LINK リンク+ステイナイト レアルタ・ヌア+ホロウ アタラクシア",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "PSVITA フェイト Fate EXTELLA エクステラ+LINK リンク+ステイナイト レアルタ・ヌア+ホロウ アタラクシア",
+        "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/32fb96eae3fbf2769ec9921893ed867188535e36d3f84e560e6ffb1489b6a68d/i-img1200x900-17892896716710jaapn912744.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0209/user/32fb96eae3fbf2769ec9921893ed867188535e36d3f84e560e6ffb1489b6a68d/i-img1200x900-17892896716710jaapn912744.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+        ],
+        "offerUrls": [
+          "https://auctions.yahoo.co.jp/jp/auction/r1244419300"
+        ]
+      },
+      "status": "pending",
+      "reason": "原标题混合EXTELLA、LINK、Realta Nua及hollow ataraxia多款游戏，不能当作官方EXTELLA套装；未取得各实物/版本证据。",
+      "needed": "原拍卖的完整照片、组合清单及各游戏版本。",
+      "recheckRule": "取得独立身份资料后再查；访问失败不改挂牌状态",
+      "observationId": "unreadable-listings"
+    },
+    {
+      "itemId": "source-9d381d8f543e1d6cdd961f532937271c",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA LIMITED BOX [限定版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA LIMITED BOX [限定版]",
+        "image": "https://www.suruga-ya.jp/pics_webp/common/pc/logo-surugaya.svg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/pics_webp/common/pc/logo-surugaya.svg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/other/109000022"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9025/",
+        "at": "2026-11-11T04:01:22.682Z",
+        "sha256": "690412f48e90ce80c50537c3f1caaa42f2f332c36178ed57cb643ed737bc50c2"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA LIMITED BOX（フェイト／エクステラ リミテッド ボックス）",
+      "platform": "Nintendo Switch",
+      "releaseDate": "2017-07-20",
+      "summary": "《Fate/EXTELLA》Nintendo Switch版 LIMITED BOX，2017年7月20日发售。官方原配包含Switch游戏、ワダアルコ绘制收纳盒及其设计的“ネロとおでかけポーチ”收纳包。二手附属品状态保留在各挂牌记录中。",
+      "expectedCategory": "ニンテンドースイッチソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/other/109000022",
+          "at": "2026-10-06T01:53:04.498Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2017/07/20",
+          "url": "https://www.suruga-ya.jp/product/other/109000022",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/other/109000022",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-a3ccc05d6d923083d2c9803d38d96e0c",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "未開封 MARVELOUS Fate/EXTELLA Celebration BOX for Nintendo Switch マーベラス フェイト スイッチ ソフト 限定版 261007Y7",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "未開封 MARVELOUS Fate/EXTELLA Celebration BOX for Nintendo Switch マーベラス フェイト スイッチ ソフト 限定版 261007Y7",
+        "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/834ca9f46f2febf5df188026c9191fc2d0071ada2bbeb49572b3342ec66eae5e/i-img1200x1200-17908380012563akbjuz36.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://auctions.yahoo.co.jp/jp/auction/w1246649967"
+        ]
+      },
+      "status": "pending",
+      "reason": "标题提及Switch Celebration BOX，但仅有规则标签与拍卖摘要，没有条码或独立实物身份资料；页面不可读。",
+      "needed": "原拍卖详情或独立包装/条码照片，将此拍卖ID与官方限定盒绑定。",
+      "recheckRule": "取得独立身份资料后再查；访问失败不改挂牌状态",
+      "observationId": "unreadable-listings"
+    },
+    {
+      "itemId": "source-bb4712a111fa560467b5f6fe8b0dbe3d",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA Celebration BOX for PlayStation4",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA Celebration BOX for PlayStation4",
+        "image": "https://www.suruga-ya.jp/pics_webp/common/pc/logo-surugaya.svg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/pics_webp/common/pc/logo-surugaya.svg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/other/107004259"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。 Celebration确实同捆LINK；不是将LINK单独游戏混为EXTELLA本体。两平台DLC收录方式不同，不互相套用。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9929/",
+        "at": "2026-11-11T04:01:21.567Z",
+        "sha256": "b7a5d8fe8be3334b3a592716a95c9983199ced3ecb5cfff3453d5725a1849b4f"
+      },
+      "additionalSources": [
+        {
+          "url": "https://celebration.fate-extella.jp/?utm_source=corp&utm_medium=officialSite&utm_campaign=newRelease",
+          "at": "2026-11-11T04:02:49.405Z",
+          "sha256": "e5334e03692f6605469a3841898f6751dd95180eca6d10fb623e9036204c29ec"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA Celebration BOX for PlayStation®4",
+      "platform": "PlayStation 4",
+      "releaseDate": "2021-02-11",
+      "summary": "Fate/EXTRA十周年纪念商品《Fate/EXTELLA Celebration BOX》PlayStation 4版，2021年2月11日发售。官方原配含该平台《EXTELLA》与《EXTELLA LINK》两款游戏、えくすてらっち电子宠物、A5画框画、纪念收纳盒及LINK尼禄新娘服装兑换码。二手缺件与代码状态以各挂牌记录为准。",
+      "expectedCategory": "PS4ソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/other/107004259",
+          "at": "2026-10-06T01:52:20.790Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2021/02/11",
+          "url": "https://www.suruga-ya.jp/product/other/107004259",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/other/107004259",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-c058bb7427eedc21bc50926eec9ad3ad",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA [通常版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302564",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA [通常版]",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107900226.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/107900226.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/107001338",
+          "https://www.suruga-ya.jp/product/detail/107900226",
+          "https://www.suruga-ya.jp/product/other/107000643"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/713/",
+        "at": "2026-11-11T04:01:51.738Z",
+        "sha256": "d91228187d466b97da60588605406caed390713a5341fe89324bc009bcf5909f"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA（フェイト／エクステラ）",
+      "platform": "PlayStation 4",
+      "releaseDate": "2016-11-10",
+      "summary": "Marvelous《Fate/EXTELLA》日本发行的PlayStation 4通常版游戏，2016年11月10日发售，类型为高速从者动作游戏。此版本的游戏本体与限定盒附属品分别收录。",
+      "expectedJan": "4535506302564",
+      "expectedCategory": "PS4ソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107900226",
+          "at": "2026-10-06T01:54:42.844Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2016/11/10",
+          "url": "https://www.suruga-ya.jp/product/other/107000643",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107900226",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2016-11-10",
+          "url": "https://www.suruga-ya.jp/product/detail/107900226",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302564",
+          "url": "https://www.suruga-ya.jp/product/detail/107900226",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        }
+      ]
+    },
+    {
+      "itemId": "source-cd4bff27b3e072861e745a2614b02d67",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "北米版 Fate extella The Umbral Star(国内版本体動作可)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "0859716006055",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "北米版 Fate extella The Umbral Star(国内版本体動作可)",
+        "image": "https://www.suruga-ya.jp/database/images/no_photo.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/images/no_photo.jpg"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/105007013",
+          "https://www.suruga-ya.jp/product/detail/205007013"
+        ]
+      },
+      "status": "supported",
+      "scope": "北美发行商资料与零售条码/地区/平台一致；不推定Noble Phantasm Edition配置",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://xseedgames.com/games/fateextella-the-umbral-star/",
+        "at": "2026-11-11T04:01:48.839Z",
+        "sha256": "d820e06c37faba38eaee8651c5560604c429430b51154c4621a2152e36474551"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA: The Umbral Star / North America / PlayStation Vita",
+      "expectedJan": "0859716006055",
+      "expectedCategory": "PSVITAソフト",
+      "platform": "PSVita",
+      "summary": "XSEED发行的《Fate/EXTELLA: The Umbral Star》北美PS Vita版游戏，官方列出的PS Vita发售日为2017年1月17日。原零售目录将该条码对应至北美PS Vita商品；不将海外限定套装的附属品套用到本条。",
+      "retailerObservation": {
+        "id": "na-retailer-binding",
+        "sha256": "b597c19d86299a0bff60abad0af93ade9ab7f97aa696a72e49db2a6ae589bfee"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/kaitori_detail/105007013",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/205007013",
+          "at": "2026-10-06T01:59:34.385Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "jan",
+          "value": "0859716006055",
+          "url": "https://www.suruga-ya.jp/product/detail/105007013",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/205007013",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-d2c986fd1219a09dc0a23a1034e87076",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA [BEST版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302755",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA [BEST版]",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/205001980.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/205001980.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/105001980",
+          "https://www.suruga-ya.jp/product/detail/205001980"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9157/",
+        "at": "2026-11-11T04:01:49.898Z",
+        "sha256": "bf6bd1e517b8d2aab7c5acbc1dccb333517ba6fc7b8e96b9be30186d0dcf481e"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA Best Collection",
+      "platform": "PSVita",
+      "releaseDate": "2018-01-11",
+      "summary": "Marvelous《Fate/EXTELLA》PSVita版 Best Collection，2018年01月11日发售的再版游戏，类型为高速从者动作游戏。",
+      "expectedJan": "4535506302755",
+      "expectedCategory": "PSVITAソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/205001980",
+          "at": "2026-10-06T01:57:17.553Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2018-01-11",
+          "url": "https://www.suruga-ya.jp/product/detail/205001980",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302755",
+          "url": "https://www.suruga-ya.jp/product/detail/105001980",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/205001980",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-df27e40bfec555310d76293163ebd082",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA VELBER BOX",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302588",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA VELBER BOX",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/105007167.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/105007167.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/105007167"
+        ]
+      },
+      "status": "supported",
+      "scope": "双平台官方原配；零售归在某一平台不代表原套装仅有该平台。缺PS4游戏的挂牌仍保持缺件，不改变关系。",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/715/",
+        "at": "2026-11-11T03:58:02.895Z",
+        "sha256": "ce0645a79147022c69c697b34c18a9eae8264285de0661d5e66e4bb9b98b25b1"
+      },
+      "additionalSources": [
+        {
+          "url": "https://fate-extella.jp/spec/index.html",
+          "at": "2026-11-11T04:01:19.511Z",
+          "sha256": "0385ad595c8df98ce602adf29fc02e58f089bb3b43e3faae5ed421015352db96"
+        }
+      ],
+      "officialTitle": "Fate/EXTELLA VELBER BOX（フェイト／エクステラ ヴェルバー ボックス）",
+      "platform": "PSVita",
+      "releaseDate": "2016-11-10",
+      "summary": "《Fate/EXTELLA》VELBER BOX，2016年11月10日发售。官方原配包含PS4与PS Vita两份游戏、ワダアルコ绘制收纳盒、《Fate/EXTELLA material》、Saber Bride鼠标垫，以及尼禄和吉尔伽美什服装兑换码。此处说明原始配置，保留各二手挂牌的缺件与代码状态。",
+      "expectedJan": "4535506302588",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/105007167",
+          "at": "2026-10-06T01:57:43.919Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2016-11-10",
+          "url": "https://www.suruga-ya.jp/product/detail/105007167",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302588",
+          "url": "https://www.suruga-ya.jp/product/detail/105007167",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PSVITAソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/105007167",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-e821878efa15202c5c1ebd0cf67bf1c3",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/209000021.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/209000021.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/209000021"
+        ]
+      },
+      "status": "supported",
+      "scope": "原零售分类与发售日匹配官方Switch版；不根据209编号前缀推断版本，不添加通常版或完整包装结论",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9027/",
+        "at": "2026-11-11T04:01:50.530Z",
+        "sha256": "20561c94cf97201fded87c3ede37680e46422171f0270c97453edab3f07baa86"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA（フェイト／エクステラ）",
+      "platform": "Nintendo Switch",
+      "releaseDate": "2017-07-20",
+      "summary": "Marvelous《Fate/EXTELLA》的Nintendo Switch游戏记录，属于高速从者动作游戏。此处仅补已由原来源分类确认的平台和游戏类型，具体包装版本与附属品仍以原挂牌资料为准。",
+      "expectedCategory": "ニンテンドースイッチソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/209000021",
+          "at": "2026-10-06T01:53:56.245Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2017-07-20",
+          "url": "https://www.suruga-ya.jp/product/detail/209000021",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/209000021",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-ea9a64526473936a67bde793b4dc425b",
+      "groupId": "series-c2022bfe93fba72b",
+      "title": "Fate/EXTELLA [BEST版]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4535506302748",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "Fate/EXTELLA [BEST版]",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107001437.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/107001437.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/107001437"
+        ]
+      },
+      "status": "supported",
+      "scope": "官方版本专页与既有平台分类、条码或版本目录身份逐条对应",
+      "notes": "仅补官方版本说明；二手缺件、原名、旧描述、JAN、图片、挂牌和所有关系保留。原配不承诺当前挂牌齐全或下载码可用；不改认可状态。",
+      "source": {
+        "url": "https://www.marv.jp/titles/cs/9161/",
+        "at": "2026-11-11T04:01:48.799Z",
+        "sha256": "80e5ae48d5e9865bf5aa899a999f4cb34f9850516534616ee276635c33b98f0c"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/EXTELLA Best Collection",
+      "platform": "PlayStation 4",
+      "releaseDate": "2018-01-11",
+      "summary": "Marvelous《Fate/EXTELLA》PlayStation 4版 Best Collection，2018年01月11日发售的再版游戏，类型为高速从者动作游戏。",
+      "expectedJan": "4535506302748",
+      "expectedCategory": "PS4ソフト",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107001437",
+          "at": "2026-10-06T01:52:44.659Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2018-01-11",
+          "url": "https://www.suruga-ya.jp/product/detail/107001437",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4535506302748",
+          "url": "https://www.suruga-ya.jp/product/detail/107001437",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107001437",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    }
+  ]
+}
