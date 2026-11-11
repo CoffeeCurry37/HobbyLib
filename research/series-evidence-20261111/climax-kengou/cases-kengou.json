@@ -1,0 +1,728 @@
+{
+  "at": "2026-11-11T19:43:45.677Z",
+  "rows": [
+    {
+      "itemId": "6d999266-6963-4446-9852-340e367a31fc",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/英霊剣豪七番 2",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "2",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/英霊剣豪七番 2",
+        "image": "https://img.mandarake.co.jp/webshopimg/01/01/948/0101423948/s_01014239480.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348800634&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000324924",
+        "at": "2026-11-11T19:42:14.109Z",
+        "sha256": "99cd6741d8e9518a82c4fe77cb6cc5dd44a1b6421be174621c05cdd3b606eb7c"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(2)",
+      "officialIsbn": "9784065171554",
+      "volume": 2,
+      "recordKind": "retailer-single",
+      "identityMatch": "原实体书来源明确作品、卷号、讲谈社及渡れい，且纸本书籍/配送语境明确；与官方纸版单卷对应",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "講談社",
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348800634&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "at": "2026-10-04T21:17:11.444Z",
+          "method": "来源候选；保留已有字段"
+        }
+      ],
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第2卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2019-12-09发售。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "97265462-d9c9-45a2-a020-85ce08a15acd",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/英霊剣豪七番 3",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "3",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/英霊剣豪七番 3",
+        "image": "https://img.mandarake.co.jp/webshopimg/01/01/409/0101470409/s_01014704090.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348800699&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000340971",
+        "at": "2026-11-11T19:42:13.286Z",
+        "sha256": "59ba08ed4b1fde38e49fdb98583d609aa9d6290ea59d15f370ea3b7118d4addf"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(3)",
+      "officialIsbn": "9784065193037",
+      "volume": 3,
+      "recordKind": "retailer-single",
+      "identityMatch": "原实体书来源明确作品、卷号、讲谈社及渡れい，且纸本书籍/配送语境明确；与官方纸版单卷对应",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "講談社",
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348800699&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "at": "2026-10-04T21:17:11.444Z",
+          "method": "来源候选；保留已有字段"
+        }
+      ],
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第3卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2020-09-09发售。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "aa4817f3-1d34-484d-8632-641f934f9842",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/英霊剣豪七番 1",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "1",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/英霊剣豪七番 1",
+        "image": "https://img.mandarake.co.jp/webshopimg/01/01/367/0101399367/s_01013993671.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348800595&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000322207",
+        "at": "2026-11-11T19:42:15.823Z",
+        "sha256": "20bb2438c5a5f743c2abca9dedd125bb0a99ec52dc5743ce668d243ea4a47528"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(1)",
+      "officialIsbn": "9784065156926",
+      "volume": 1,
+      "recordKind": "retailer-single",
+      "identityMatch": "原实体书来源明确作品、卷号、讲谈社及渡れい，且纸本书籍/配送语境明确；与官方纸版单卷对应",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "講談社",
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348800595&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "at": "2026-10-04T21:17:11.444Z",
+          "method": "来源候选；保留已有字段"
+        }
+      ],
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第1卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2019-07-09发售。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "family-839233856b8118cb672d520294d69305",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "",
+        "member": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "image": "https://img.mandarake.co.jp/webshopimg/01/01/948/0101423948/s_01014239480.jpg",
+        "catalogueKey": "books:講談社:manga:fategrandorderepicofremnant英霊剣豪七番勝負:",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://img.mandarake.co.jp/webshopimg/01/01/948/0101423948/s_01014239480.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000322207",
+        "at": "2026-11-11T19:42:15.823Z",
+        "sha256": "20bb2438c5a5f743c2abca9dedd125bb0a99ec52dc5743ce668d243ea4a47528"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kodansha.co.jp/comic/products/0000425986",
+          "at": "2026-11-11T19:37:51.358Z",
+          "sha256": "e75648384c27b5027c43e2934e24b38e91a418622d5df037c5f93a67b903f7e3"
+        },
+        {
+          "url": "https://www.kodansha.co.jp/titles/1000034580",
+          "at": "2026-11-11T19:38:45.163Z",
+          "sha256": "076a8ab94879154552c854e87f2b46f039cea3a9174bdfc5a55eacec1adf422e"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+      "recordKind": "logical-series",
+      "scope": "逻辑系列目录只补作品与纸本系列范围；官方首卷和后续卷佐证，不声明整套、完结或拥有状态",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》漫画纸本系列目录。TYPE-MOON原作、渡れい作画，讲谈社出版。各卷独立刊行；本条不代表实体套装、已经完结或已拥有整套。",
+      "notes": "保留逻辑目录和单卷的原有关系，不新增缺卷、不归并、不迁移个人状态。"
+    },
+    {
+      "itemId": "member-10ld7an",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 6",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "6",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 6",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000425986",
+        "at": "2026-11-11T19:37:51.358Z",
+        "sha256": "e75648384c27b5027c43e2934e24b38e91a418622d5df037c5f93a67b903f7e3"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(6)",
+      "officialIsbn": "9784065433140",
+      "volume": 6,
+      "recordKind": "derived-set-member",
+      "identityMatch": "原套装成员证据明确1～6卷、渡れい；当前骏河屋WK13629页面确认讲谈社/マガジンKC实体套装，逐卷对应讲谈社纸版书目",
+      "identityEvidence": [
+        {
+          "field": "套装成员",
+          "value": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1~6巻セット / 渡れい",
+          "url": "https://www.suruga-ya.jp/product/detail/WK13629?tenpo_cd=",
+          "at": "2026-10-04T21:16:13.163Z",
+          "method": "原标题明确列出卷号；不推定单卷价格、发售日期或拥有状态"
+        }
+      ],
+      "retailerObservation": {
+        "id": "surugaya-WK13629",
+        "url": "https://www.suruga-ya.jp/product/detail/WK13629",
+        "sha256": "1668ece6daa2cb4b07c810dcaeda90d615e1cb1bb62b0f47bbaebfd490b7305f"
+      },
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第6卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2026-04-09发售。本条保留为原1～6卷套装的独立单卷成员。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "member-10vcszm",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 5",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "5",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 5",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000392813",
+        "at": "2026-11-11T19:37:49.959Z",
+        "sha256": "3c2c9861d3874003efc0e97038cc4bc455aa519ed9e278c6d5c6826a4407e320"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(5)",
+      "officialIsbn": "9784065357873",
+      "volume": 5,
+      "recordKind": "derived-set-member",
+      "identityMatch": "原套装成员证据明确1～6卷、渡れい；当前骏河屋WK13629页面确认讲谈社/マガジンKC实体套装，逐卷对应讲谈社纸版书目",
+      "identityEvidence": [
+        {
+          "field": "套装成员",
+          "value": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1~6巻セット / 渡れい",
+          "url": "https://www.suruga-ya.jp/product/detail/WK13629?tenpo_cd=",
+          "at": "2026-10-04T21:16:13.163Z",
+          "method": "原标题明确列出卷号；不推定单卷价格、发售日期或拥有状态"
+        }
+      ],
+      "retailerObservation": {
+        "id": "surugaya-WK13629",
+        "url": "https://www.suruga-ya.jp/product/detail/WK13629",
+        "sha256": "1668ece6daa2cb4b07c810dcaeda90d615e1cb1bb62b0f47bbaebfd490b7305f"
+      },
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第5卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、160页，2024-06-07发售。本条保留为原1～6卷套装的独立单卷成员。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "member-115ceol",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 4",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "4",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 4",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000350790",
+        "at": "2026-11-11T19:42:11.848Z",
+        "sha256": "b36ddd67eb842beae09387a811864b28366cfc9f1c25f45fa6916ca9fab48ada"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(4)",
+      "officialIsbn": "9784065228753",
+      "volume": 4,
+      "recordKind": "derived-set-member",
+      "identityMatch": "原套装成员证据明确1～6卷、渡れい；当前骏河屋WK13629页面确认讲谈社/マガジンKC实体套装，逐卷对应讲谈社纸版书目",
+      "identityEvidence": [
+        {
+          "field": "套装成员",
+          "value": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1~6巻セット / 渡れい",
+          "url": "https://www.suruga-ya.jp/product/detail/WK13629?tenpo_cd=",
+          "at": "2026-10-04T21:16:13.163Z",
+          "method": "原标题明确列出卷号；不推定单卷价格、发售日期或拥有状态"
+        }
+      ],
+      "retailerObservation": {
+        "id": "surugaya-WK13629",
+        "url": "https://www.suruga-ya.jp/product/detail/WK13629",
+        "sha256": "1668ece6daa2cb4b07c810dcaeda90d615e1cb1bb62b0f47bbaebfd490b7305f"
+      },
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第4卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、160页，2021-07-09发售。本条保留为原1～6卷套装的独立单卷成员。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "member-z7f6ts",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 3",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "3",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 3",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000340971",
+        "at": "2026-11-11T19:42:13.286Z",
+        "sha256": "59ba08ed4b1fde38e49fdb98583d609aa9d6290ea59d15f370ea3b7118d4addf"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(3)",
+      "officialIsbn": "9784065193037",
+      "volume": 3,
+      "recordKind": "derived-set-member",
+      "identityMatch": "原套装成员证据明确1～6卷、渡れい；当前骏河屋WK13629页面确认讲谈社/マガジンKC实体套装，逐卷对应讲谈社纸版书目",
+      "identityEvidence": [
+        {
+          "field": "套装成员",
+          "value": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1~6巻セット / 渡れい",
+          "url": "https://www.suruga-ya.jp/product/detail/WK13629?tenpo_cd=",
+          "at": "2026-10-04T21:16:13.163Z",
+          "method": "原标题明确列出卷号；不推定单卷价格、发售日期或拥有状态"
+        }
+      ],
+      "retailerObservation": {
+        "id": "surugaya-WK13629",
+        "url": "https://www.suruga-ya.jp/product/detail/WK13629",
+        "sha256": "1668ece6daa2cb4b07c810dcaeda90d615e1cb1bb62b0f47bbaebfd490b7305f"
+      },
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第3卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2020-09-09发售。本条保留为原1～6卷套装的独立单卷成员。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "member-zhesir",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 2",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "2",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 2",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000324924",
+        "at": "2026-11-11T19:42:14.109Z",
+        "sha256": "99cd6741d8e9518a82c4fe77cb6cc5dd44a1b6421be174621c05cdd3b606eb7c"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(2)",
+      "officialIsbn": "9784065171554",
+      "volume": 2,
+      "recordKind": "derived-set-member",
+      "identityMatch": "原套装成员证据明确1～6卷、渡れい；当前骏河屋WK13629页面确认讲谈社/マガジンKC实体套装，逐卷对应讲谈社纸版书目",
+      "identityEvidence": [
+        {
+          "field": "套装成员",
+          "value": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1~6巻セット / 渡れい",
+          "url": "https://www.suruga-ya.jp/product/detail/WK13629?tenpo_cd=",
+          "at": "2026-10-04T21:16:13.163Z",
+          "method": "原标题明确列出卷号；不推定单卷价格、发售日期或拥有状态"
+        }
+      ],
+      "retailerObservation": {
+        "id": "surugaya-WK13629",
+        "url": "https://www.suruga-ya.jp/product/detail/WK13629",
+        "sha256": "1668ece6daa2cb4b07c810dcaeda90d615e1cb1bb62b0f47bbaebfd490b7305f"
+      },
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第2卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2019-12-09发售。本条保留为原1～6卷套装的独立单卷成员。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "member-zree7q",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "1",
+        "member": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000322207",
+        "at": "2026-11-11T19:42:15.823Z",
+        "sha256": "20bb2438c5a5f743c2abca9dedd125bb0a99ec52dc5743ce668d243ea4a47528"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(1)",
+      "officialIsbn": "9784065156926",
+      "volume": 1,
+      "recordKind": "derived-set-member",
+      "identityMatch": "原套装成员证据明确1～6卷、渡れい；当前骏河屋WK13629页面确认讲谈社/マガジンKC实体套装，逐卷对应讲谈社纸版书目",
+      "identityEvidence": [
+        {
+          "field": "套装成员",
+          "value": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1~6巻セット / 渡れい",
+          "url": "https://www.suruga-ya.jp/product/detail/WK13629?tenpo_cd=",
+          "at": "2026-10-04T21:16:13.163Z",
+          "method": "原标题明确列出卷号；不推定单卷价格、发售日期或拥有状态"
+        }
+      ],
+      "retailerObservation": {
+        "id": "surugaya-WK13629",
+        "url": "https://www.suruga-ya.jp/product/detail/WK13629",
+        "sha256": "1668ece6daa2cb4b07c810dcaeda90d615e1cb1bb62b0f47bbaebfd490b7305f"
+      },
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第1卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2019-07-09发售。本条保留为原1～6卷套装的独立单卷成员。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-033ad09dd4baaac3eb04895982f27bef",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order ―Epic of Remnant― 亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(5) (書籍)[講談社]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "9784065357873",
+        "jan": "9784065357873",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "5",
+        "member": "Fate/Grand Order ―Epic of Remnant― 亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(5) (書籍)[講談社]《在庫切れ》",
+        "image": "https://dvs-cover.kodansha.co.jp/0000392813/7yp43oOcTOiSw8dgNjFX4zCuuzUcJgDUgVXZiyXz.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://dvs-cover.kodansha.co.jp/0000392813/7yp43oOcTOiSw8dgNjFX4zCuuzUcJgDUgVXZiyXz.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-040453"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000392813",
+        "at": "2026-11-11T19:37:49.959Z",
+        "sha256": "3c2c9861d3874003efc0e97038cc4bc455aa519ed9e278c6d5c6826a4407e320"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(5)",
+      "officialIsbn": "9784065357873",
+      "volume": 5,
+      "recordKind": "retailer-single",
+      "identityMatch": "原实体书来源明确作品、卷号、讲谈社及渡れい，且纸本书籍/配送语境明确；与官方纸版单卷对应",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "講談社",
+          "url": "https://api.openbd.jp/v1/get?isbn=9784065357873",
+          "at": "2026-10-05T20:59:39.912Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "書籍・ソフトウェア > 書籍 > コミック単行本",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-040453",
+          "at": "2026-10-05T07:23:10.093Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第5卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、160页，2024-06-07发售。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-12708c9f9252ccddedfc266215c1dcbc",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order ―Epic of Remnant― 亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(6) (書籍)[講談社]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "9784065433140",
+        "jan": "9784065433140",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "6",
+        "member": "Fate/Grand Order ―Epic of Remnant― 亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(6) (書籍)[講談社]《在庫切れ》",
+        "image": "https://dvs-cover.kodansha.co.jp/0000425986/NEbUbgNh2On3wsBIPeuv5RXAkthWS4Dleqz4lFkp.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://dvs-cover.kodansha.co.jp/0000425986/NEbUbgNh2On3wsBIPeuv5RXAkthWS4Dleqz4lFkp.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-052311"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000425986",
+        "at": "2026-11-11T19:37:51.358Z",
+        "sha256": "e75648384c27b5027c43e2934e24b38e91a418622d5df037c5f93a67b903f7e3"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(6)",
+      "officialIsbn": "9784065433140",
+      "volume": 6,
+      "recordKind": "retailer-single",
+      "identityMatch": "原实体书来源明确作品、卷号、讲谈社及渡れい，且纸本书籍/配送语境明确；与官方纸版单卷对应",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "講談社",
+          "url": "https://api.openbd.jp/v1/get?isbn=9784065433140",
+          "at": "2026-10-05T20:59:39.912Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "書籍・ソフトウェア > 書籍 > コミック単行本",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-052311",
+          "at": "2026-10-05T07:23:10.093Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第6卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2026-04-09发售。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-3ef7237ba92b95ead008f166a928dc0b",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order―Epic of Remnant―亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(2)(書籍)[講談社]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "9784065171554",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "2",
+        "member": "Fate/Grand Order―Epic of Remnant―亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(2)(書籍)[講談社]《在庫切れ》",
+        "image": "https://img.amiami.jp/images/product/main/194/MED-BOOK-014229.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/194/MED-BOOK-014229.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-014229"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000324924",
+        "at": "2026-11-11T19:42:14.109Z",
+        "sha256": "99cd6741d8e9518a82c4fe77cb6cc5dd44a1b6421be174621c05cdd3b606eb7c"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(2)",
+      "officialIsbn": "9784065171554",
+      "volume": 2,
+      "recordKind": "retailer-single",
+      "identityMatch": "原实体书来源明确作品、卷号、讲谈社及渡れい，且纸本书籍/配送语境明确；与官方纸版单卷对应",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "講談社",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-014229",
+          "at": "2026-10-05T07:23:10.093Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "書籍・ソフトウェア > 書籍 > コミック単行本",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-014229",
+          "at": "2026-10-05T07:23:10.093Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第2卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2019-12-09发售。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-a09ab538eeb5af25122a5afd5ee97cca",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order ―Epic of Remnant― 亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(4) (書籍)[講談社]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "9784065228753",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "4",
+        "member": "Fate/Grand Order ―Epic of Remnant― 亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(4) (書籍)[講談社]《在庫切れ》",
+        "image": "https://img.amiami.jp/images/product/main/213/MED-BOOK-022330.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/213/MED-BOOK-022330.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-022330"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000350790",
+        "at": "2026-11-11T19:42:11.848Z",
+        "sha256": "b36ddd67eb842beae09387a811864b28366cfc9f1c25f45fa6916ca9fab48ada"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(4)",
+      "officialIsbn": "9784065228753",
+      "volume": 4,
+      "recordKind": "retailer-single",
+      "identityMatch": "原实体书来源明确作品、卷号、讲谈社及渡れい，且纸本书籍/配送语境明确；与官方纸版单卷对应",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "講談社",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-022330",
+          "at": "2026-10-05T07:23:10.093Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "書籍・ソフトウェア > 書籍 > コミック単行本",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-022330",
+          "at": "2026-10-05T07:23:10.093Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第4卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、160页，2021-07-09发售。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-c9a2672c82280938534476ac549a6929",
+      "groupId": "series-2b6dbd370b1c0da3",
+      "title": "Fate/Grand Order―Epic of Remnant―亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 3 (書籍)[講談社]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "9784065193037",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負",
+        "wave": "3",
+        "member": "Fate/Grand Order―Epic of Remnant―亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 3 (書籍)[講談社]《在庫切れ》",
+        "image": "https://img.amiami.jp/images/product/main/203/MED-BOOK-016706.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/203/MED-BOOK-016706.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-016706"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000340971",
+        "at": "2026-11-11T19:42:13.286Z",
+        "sha256": "59ba08ed4b1fde38e49fdb98583d609aa9d6290ea59d15f370ea3b7118d4addf"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(3)",
+      "officialIsbn": "9784065193037",
+      "volume": 3,
+      "recordKind": "retailer-single",
+      "identityMatch": "原实体书来源明确作品、卷号、讲谈社及渡れい，且纸本书籍/配送语境明确；与官方纸版单卷对应",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "講談社",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-016706",
+          "at": "2026-10-05T07:23:10.093Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "書籍・ソフトウェア > 書籍 > コミック単行本",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-016706",
+          "at": "2026-10-05T07:23:10.093Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《Fate/Grand Order -Epic of Remnant- 英霊剣豪七番勝負》第3卷纸本漫画，TYPE-MOON原作、渡れい作画，讲谈社出版。官方纸版书目列示新書、192页，2020-09-09发售。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    }
+  ]
+}

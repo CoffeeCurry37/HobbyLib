@@ -1,0 +1,567 @@
+{
+  "at": "2026-11-11T19:43:45.677Z",
+  "rows": [
+    {
+      "itemId": "family-a425f133fb7a14287980bb855d0fc820",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "image": "",
+        "catalogueKey": "books:kadokawa:manga:マジキュー4コマfatestaynightclimax:",
+        "catalogueGroupType": "book-series",
+        "images": [],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003124/",
+        "at": "2026-11-11T18:35:23.264Z",
+        "sha256": "dc9a54cda3b3b158b49eecbac3ba9ed3b2b7d4ebea2be6ac7b3b2aaba40e9d82"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/200812000369/",
+          "at": "2026-11-11T19:37:50.628Z",
+          "sha256": "efc3102013ae4d74de1f6235fab1678e5eb25ff2c65b971b86e5329e783c31eb"
+        }
+      ],
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!",
+      "recordKind": "logical-series",
+      "scope": "逻辑系列目录只补作品与纸本系列范围；官方首卷和后续卷佐证，不声明整套、完结或拥有状态",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》纸本四格漫画系列目录。角川官方书目收录于MCコミックス，各卷具有独立ISBN；本条用于组织单卷，不代表实体套装、全卷已收录或作品已经完结。",
+      "notes": "保留逻辑目录和单卷的原有关系，不新增缺卷、不归并、不迁移个人状态。"
+    },
+    {
+      "itemId": "source-094430c3f531b3e0f824e6822b6e7d63",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(10)",
+      "identityBinding": {
+        "isbn": "9784757737044",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "10",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(10)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200708000073/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200708000073/",
+        "at": "2026-11-11T18:35:22.228Z",
+        "sha256": "dcd61e60104eaf618a33bb6cd88b89a21e37ac3e2973d55d75ae98e0770850b8"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(10)",
+      "officialIsbn": "9784757737044",
+      "volume": 10,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第10卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757737044。官方规格为A5判、112页。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-0f3fb78fb2eb0b4a73c2207c0260dffd",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(13)",
+      "identityBinding": {
+        "isbn": "9784757742451",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "13",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(13)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200804000081/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200804000081/",
+        "at": "2026-11-11T19:37:50.018Z",
+        "sha256": "ef0b3a261e47b03e7cf34039afa56a1f78b3214c8f293c2efa98103c0a487dab"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(13)",
+      "officialIsbn": "9784757742451",
+      "volume": 13,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第13卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757742451。官方规格为A5判、112页。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-40144cd7e36788d737396a612c997217",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(16)",
+      "identityBinding": {
+        "isbn": "9784757746916",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "16",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(16)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200812000369/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200812000369/",
+        "at": "2026-11-11T19:37:50.628Z",
+        "sha256": "efc3102013ae4d74de1f6235fab1678e5eb25ff2c65b971b86e5329e783c31eb"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(16)",
+      "officialIsbn": "9784757746916",
+      "volume": 16,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第16卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757746916。官方规格为A5判、112页。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-44286b8ab12fb2ce7cd3331dc83a03f1",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(3)",
+      "identityBinding": {
+        "isbn": "9784757728363",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "3",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(3)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200700003235/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003235/",
+        "at": "2026-11-11T19:37:51.203Z",
+        "sha256": "4f23abcd05d42cee992f708ca50b6d129d08b30d559e892954980a0d181aae75"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(3)",
+      "officialIsbn": "9784757728363",
+      "volume": 3,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第3卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757728363。官方页未明确页数及具体开本，暂不补写。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-47c5ff58f8f110acc796b41141886c98",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(8)",
+      "identityBinding": {
+        "isbn": "9784757735125",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "8",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(8)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200700003559/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003559/",
+        "at": "2026-11-11T19:37:51.758Z",
+        "sha256": "297618b073c7bde8075ec4de1693c1629a83315d6a91b16afd4287a7429e6fb6"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(8)",
+      "officialIsbn": "9784757735125",
+      "volume": 8,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第8卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757735125。官方页未明确页数及具体开本，暂不补写。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-58876c53280607e9e0bd6720e4fa726d",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(2)",
+      "identityBinding": {
+        "isbn": "9784757727373",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "2",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(2)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200700003193/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003193/",
+        "at": "2026-11-11T19:37:52.870Z",
+        "sha256": "bf50063dc272bd8c2c22f9eb9501fb3a1609e7d5b2fce10d8178c63a90ff3ff3"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(2)",
+      "officialIsbn": "9784757727373",
+      "volume": 2,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第2卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757727373。官方页未明确页数及具体开本，暂不补写。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-6aff2375b15b99bf8993e219a6aaf3fd",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(5)",
+      "identityBinding": {
+        "isbn": "9784757729957",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "5",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(5)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200700003351/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003351/",
+        "at": "2026-11-11T19:37:53.929Z",
+        "sha256": "fc9459dbecca95ebeca06c8638786aeb02b5b9277f75a358d220ca67ceaa4fb8"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(5)",
+      "officialIsbn": "9784757729957",
+      "volume": 5,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第5卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757729957。官方页未明确页数及具体开本，暂不补写。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-7740108da6976f69097a57c1364f771a",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(14)",
+      "identityBinding": {
+        "isbn": "9784757743397",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "14",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(14)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200806000437/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200806000437/",
+        "at": "2026-11-11T19:37:55.032Z",
+        "sha256": "2dc49a8095b64254df195fc37f82a259f4c36920743c6736984da71e5970ea00"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(14)",
+      "officialIsbn": "9784757743397",
+      "volume": 14,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第14卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757743397。官方规格为A5判、112页。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-7d2e5192ec7f575ef15a18315994cc12",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(11)",
+      "identityBinding": {
+        "isbn": "9784757738119",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "11",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(11)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200710000007/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200710000007/",
+        "at": "2026-11-11T19:37:55.708Z",
+        "sha256": "c966a355e1ebc606d8c83b83ddd981b91be26ca62d45b72e6440378be9e01f85"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(11)",
+      "officialIsbn": "9784757738119",
+      "volume": 11,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第11卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757738119。官方规格为A5判、112页。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-8280a11a6dbf7f3bd7a1e3324ab380d3",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(6)",
+      "identityBinding": {
+        "isbn": "9784757730823",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "6",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(6)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200700003385/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003385/",
+        "at": "2026-11-11T19:37:56.890Z",
+        "sha256": "d49f2910b56f94b12a8f8d8676f8f00f74aeaef177665c37f33321051c8075a7"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(6)",
+      "officialIsbn": "9784757730823",
+      "volume": 6,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第6卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757730823。官方页未明确页数及具体开本，暂不补写。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-85b3b65a7860c9f95d9f51b217550395",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(1)",
+      "identityBinding": {
+        "isbn": "9784757726369",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "1",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(1)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200700003124/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003124/",
+        "at": "2026-11-11T18:35:23.264Z",
+        "sha256": "dc9a54cda3b3b158b49eecbac3ba9ed3b2b7d4ebea2be6ac7b3b2aaba40e9d82"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(1)",
+      "officialIsbn": "9784757726369",
+      "volume": 1,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第1卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757726369。官方页未明确页数及具体开本，暂不补写。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-a19496ad4d2d6dee53158885952abcca",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(4)",
+      "identityBinding": {
+        "isbn": "9784757729094",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "4",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(4)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200700003278/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003278/",
+        "at": "2026-11-11T19:37:57.647Z",
+        "sha256": "78c28f90b39a79176ee154179a5ec27ca0d2dfd63d29dc665c429345a6ef8815"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(4)",
+      "officialIsbn": "9784757729094",
+      "volume": 4,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第4卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757729094。官方页未明确页数及具体开本，暂不补写。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-b2a40a018d935c030fb4c1676b4f38d4",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(12)",
+      "identityBinding": {
+        "isbn": "9784757739932",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "12",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(12)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200712000287/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200712000287/",
+        "at": "2026-11-11T19:37:58.346Z",
+        "sha256": "144e47eb5a5e5776e85ac97315c354a3cc88bd453ae87cb7e975f3ca8a680f6b"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(12)",
+      "officialIsbn": "9784757739932",
+      "volume": 12,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第12卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757739932。官方规格为A5判、112页。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-e472f37aa48eb83be66e6bfe6a05d784",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(15)",
+      "identityBinding": {
+        "isbn": "9784757744929",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "15",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(15)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200809000427/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200809000427/",
+        "at": "2026-11-11T19:37:59.440Z",
+        "sha256": "5a3bbd6c8a729eb8352d39f5ca91ffe4044622f0271eb933ad5497051e11efe7"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(15)",
+      "officialIsbn": "9784757744929",
+      "volume": 15,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第15卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757744929。官方规格为A5判、112页。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    },
+    {
+      "itemId": "source-ebc6bdaef8b79359b3cb8dc134612b9a",
+      "groupId": "series-93d25632dbaa49e6",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(7)",
+      "identityBinding": {
+        "isbn": "9784757733565",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "wave": "7",
+        "member": "マジキュー4コマ Fate/stay night CLIMAX!(7)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200700003475/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003475/",
+        "at": "2026-11-11T19:38:00.097Z",
+        "sha256": "3b23a510b8f827dec35ed14918d5ad89ad300071ac45eda90593498b4afcc73b"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(7)",
+      "officialIsbn": "9784757733565",
+      "volume": 7,
+      "recordKind": "publisher-single",
+      "identityMatch": "原记录卷号与ISBN均精确对应角川官方书目；原官方来源URL相同",
+      "scope": "限定出版社纸本书目；卷号及原ISBN或实体书来源相互核对，纸版与电子版字段分开，不使用推荐区资料",
+      "summary": "《マジキュー4コマ Fate/stay night CLIMAX!》第7卷，MCコミックス纸本四格漫画。角川官方书目列示ISBN 9784757733565。官方页未明确页数及具体开本，暂不补写。",
+      "notes": "只补空缺简介和两条出处；原ISBN/JAN、报价、原证据、关系及个人状态保留。官方出版日期不表示初版印次，套装日期/价格不下放单卷。"
+    }
+  ]
+}

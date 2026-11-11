@@ -1,0 +1,348 @@
+{
+  "at": "2026-11-11T19:43:45.677Z",
+  "climax": [
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200708000073/",
+        "at": "2026-11-11T18:35:22.228Z",
+        "sha256": "dcd61e60104eaf618a33bb6cd88b89a21e37ac3e2973d55d75ae98e0770850b8"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(10)",
+      "volume": 10,
+      "isbn": "9784757737044",
+      "pages": 112,
+      "format": "A5判",
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003124/",
+        "at": "2026-11-11T18:35:23.264Z",
+        "sha256": "dc9a54cda3b3b158b49eecbac3ba9ed3b2b7d4ebea2be6ac7b3b2aaba40e9d82"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(1)",
+      "volume": 1,
+      "isbn": "9784757726369",
+      "pages": null,
+      "format": null,
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200804000081/",
+        "at": "2026-11-11T19:37:50.018Z",
+        "sha256": "ef0b3a261e47b03e7cf34039afa56a1f78b3214c8f293c2efa98103c0a487dab"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(13)",
+      "volume": 13,
+      "isbn": "9784757742451",
+      "pages": 112,
+      "format": "A5判",
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200812000369/",
+        "at": "2026-11-11T19:37:50.628Z",
+        "sha256": "efc3102013ae4d74de1f6235fab1678e5eb25ff2c65b971b86e5329e783c31eb"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(16)",
+      "volume": 16,
+      "isbn": "9784757746916",
+      "pages": 112,
+      "format": "A5判",
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003235/",
+        "at": "2026-11-11T19:37:51.203Z",
+        "sha256": "4f23abcd05d42cee992f708ca50b6d129d08b30d559e892954980a0d181aae75"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(3)",
+      "volume": 3,
+      "isbn": "9784757728363",
+      "pages": null,
+      "format": null,
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003559/",
+        "at": "2026-11-11T19:37:51.758Z",
+        "sha256": "297618b073c7bde8075ec4de1693c1629a83315d6a91b16afd4287a7429e6fb6"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(8)",
+      "volume": 8,
+      "isbn": "9784757735125",
+      "pages": null,
+      "format": null,
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003193/",
+        "at": "2026-11-11T19:37:52.870Z",
+        "sha256": "bf50063dc272bd8c2c22f9eb9501fb3a1609e7d5b2fce10d8178c63a90ff3ff3"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(2)",
+      "volume": 2,
+      "isbn": "9784757727373",
+      "pages": null,
+      "format": null,
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003351/",
+        "at": "2026-11-11T19:37:53.929Z",
+        "sha256": "fc9459dbecca95ebeca06c8638786aeb02b5b9277f75a358d220ca67ceaa4fb8"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(5)",
+      "volume": 5,
+      "isbn": "9784757729957",
+      "pages": null,
+      "format": null,
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200806000437/",
+        "at": "2026-11-11T19:37:55.032Z",
+        "sha256": "2dc49a8095b64254df195fc37f82a259f4c36920743c6736984da71e5970ea00"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(14)",
+      "volume": 14,
+      "isbn": "9784757743397",
+      "pages": 112,
+      "format": "A5判",
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200710000007/",
+        "at": "2026-11-11T19:37:55.708Z",
+        "sha256": "c966a355e1ebc606d8c83b83ddd981b91be26ca62d45b72e6440378be9e01f85"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(11)",
+      "volume": 11,
+      "isbn": "9784757738119",
+      "pages": 112,
+      "format": "A5判",
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003385/",
+        "at": "2026-11-11T19:37:56.890Z",
+        "sha256": "d49f2910b56f94b12a8f8d8676f8f00f74aeaef177665c37f33321051c8075a7"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(6)",
+      "volume": 6,
+      "isbn": "9784757730823",
+      "pages": null,
+      "format": null,
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003278/",
+        "at": "2026-11-11T19:37:57.647Z",
+        "sha256": "78c28f90b39a79176ee154179a5ec27ca0d2dfd63d29dc665c429345a6ef8815"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(4)",
+      "volume": 4,
+      "isbn": "9784757729094",
+      "pages": null,
+      "format": null,
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200712000287/",
+        "at": "2026-11-11T19:37:58.346Z",
+        "sha256": "144e47eb5a5e5776e85ac97315c354a3cc88bd453ae87cb7e975f3ca8a680f6b"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(12)",
+      "volume": 12,
+      "isbn": "9784757739932",
+      "pages": 112,
+      "format": "A5判",
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200809000427/",
+        "at": "2026-11-11T19:37:59.440Z",
+        "sha256": "5a3bbd6c8a729eb8352d39f5ca91ffe4044622f0271eb933ad5497051e11efe7"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(15)",
+      "volume": 15,
+      "isbn": "9784757744929",
+      "pages": 112,
+      "format": "A5判",
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003475/",
+        "at": "2026-11-11T19:38:00.097Z",
+        "sha256": "3b23a510b8f827dec35ed14918d5ad89ad300071ac45eda90593498b4afcc73b"
+      },
+      "officialTitle": "マジキュー4コマ Fate/stay night CLIMAX!(7)",
+      "volume": 7,
+      "isbn": "9784757733565",
+      "pages": null,
+      "format": null,
+      "publisherCatalog": "KADOKAWA",
+      "label": "MCコミックス",
+      "medium": "paper"
+    }
+  ],
+  "kengou": [
+    {
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000425986",
+        "at": "2026-11-11T19:37:51.358Z",
+        "sha256": "e75648384c27b5027c43e2934e24b38e91a418622d5df037c5f93a67b903f7e3"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(6)",
+      "volume": 6,
+      "isbn": "9784065433140",
+      "pages": 192,
+      "releaseDate": "2026-04-09",
+      "format": "新書",
+      "publisher": "講談社",
+      "label": "講談社コミックス",
+      "author": "渡れい",
+      "original": "TYPE-MOON",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000350790",
+        "at": "2026-11-11T19:42:11.848Z",
+        "sha256": "b36ddd67eb842beae09387a811864b28366cfc9f1c25f45fa6916ca9fab48ada"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(4)",
+      "volume": 4,
+      "isbn": "9784065228753",
+      "pages": 160,
+      "releaseDate": "2021-07-09",
+      "format": "新書",
+      "publisher": "講談社",
+      "label": "講談社コミックス",
+      "author": "渡れい",
+      "original": "TYPE-MOON",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000340971",
+        "at": "2026-11-11T19:42:13.286Z",
+        "sha256": "59ba08ed4b1fde38e49fdb98583d609aa9d6290ea59d15f370ea3b7118d4addf"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(3)",
+      "volume": 3,
+      "isbn": "9784065193037",
+      "pages": 192,
+      "releaseDate": "2020-09-09",
+      "format": "新書",
+      "publisher": "講談社",
+      "label": "講談社コミックス",
+      "author": "渡れい",
+      "original": "TYPE-MOON",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000324924",
+        "at": "2026-11-11T19:42:14.109Z",
+        "sha256": "99cd6741d8e9518a82c4fe77cb6cc5dd44a1b6421be174621c05cdd3b606eb7c"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(2)",
+      "volume": 2,
+      "isbn": "9784065171554",
+      "pages": 192,
+      "releaseDate": "2019-12-09",
+      "format": "新書",
+      "publisher": "講談社",
+      "label": "講談社コミックス",
+      "author": "渡れい",
+      "original": "TYPE-MOON",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000322207",
+        "at": "2026-11-11T19:42:15.823Z",
+        "sha256": "20bb2438c5a5f743c2abca9dedd125bb0a99ec52dc5743ce668d243ea4a47528"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(1)",
+      "volume": 1,
+      "isbn": "9784065156926",
+      "pages": 192,
+      "releaseDate": "2019-07-09",
+      "format": "新書",
+      "publisher": "講談社",
+      "label": "講談社コミックス",
+      "author": "渡れい",
+      "original": "TYPE-MOON",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kodansha.co.jp/comic/products/0000392813",
+        "at": "2026-11-11T19:37:49.959Z",
+        "sha256": "3c2c9861d3874003efc0e97038cc4bc455aa519ed9e278c6d5c6826a4407e320"
+      },
+      "officialTitle": "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負(5)",
+      "volume": 5,
+      "isbn": "9784065357873",
+      "pages": 160,
+      "releaseDate": "2024-06-07",
+      "format": "新書",
+      "publisher": "講談社",
+      "label": "講談社コミックス",
+      "author": "渡れい",
+      "original": "TYPE-MOON",
+      "medium": "paper"
+    }
+  ],
+  "seriesSource": {
+    "url": "https://www.kodansha.co.jp/titles/1000034580",
+    "at": "2026-11-11T19:38:45.163Z",
+    "sha256": "076a8ab94879154552c854e87f2b46f039cea3a9174bdfc5a55eacec1adf422e"
+  },
+  "scope": "CLIMAX候选无第9卷，不新增；第1～8卷官方未明确页数/具体开本，不类推。英霊剣豪仅采用纸版书目信息，不把电子版、套装价格/日期、推荐作品或印次混入。",
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

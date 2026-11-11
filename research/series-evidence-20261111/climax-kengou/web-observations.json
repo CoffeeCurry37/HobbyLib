@@ -1,0 +1,26 @@
+[
+  {
+    "id": "surugaya-WK13629",
+    "url": "https://www.suruga-ya.jp/product/detail/WK13629",
+    "at": "2026-11-11T19:43:30.942Z",
+    "access": "web.run readable page; observation JSON hash is not original HTML hash",
+    "facts": {
+      "title": "少年コミック ★未完)Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負 1～6巻セット / 渡れい",
+      "managementCode": "WK13629",
+      "publisher": "講談社",
+      "label": "マガジンKC",
+      "artist": "渡れい",
+      "setVolumes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "medium": "physical manga set"
+    },
+    "scope": "仅用于原套装成员的卷号/纸本对应；不把套装日期/价格/ISBN分配给所有单卷，不声明完结或特典。"
+  }
+]
+

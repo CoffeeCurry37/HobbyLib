@@ -1,0 +1,46 @@
+{
+  "at": "2026-11-11T19:44:12.286Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 31,
+  "prepared": 31,
+  "pending": 0,
+  "protected": 0,
+  "groups": [
+    {
+      "groupId": "series-93d25632dbaa49e6",
+      "label": "マジキュー4コマ Fate/stay night CLIMAX!",
+      "candidates": 16,
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200708000073/",
+        "https://www.kadokawa.co.jp/product/200700003124/"
+      ],
+      "scope": "15条已有ISBN单卷与1条目录；第9卷不在当前16条中，不因编号间断新建。逐卷核对书号、卷次、纸本规格和发行日；不能把共通系列简介当逐卷页数证据。",
+      "status": "publisher-source-discovery-only",
+      "key": "climax",
+      "reviewed": 16,
+      "ready": 16,
+      "pending": 0,
+      "protected": 0
+    },
+    {
+      "groupId": "series-2b6dbd370b1c0da3",
+      "label": "FGO 英霊剣豪七番勝負",
+      "candidates": 15,
+      "sources": [
+        "https://www.kodansha.co.jp/comic/products/0000392813",
+        "https://www.kodansha.co.jp/comic/products/0000425986"
+      ],
+      "scope": "1至6卷混有零售单卷、套装派生成员及目录；先核对媒介、卷号和来源。5/6卷ISBN可作入口，不能把同一卷纸本书号套给未明确媒介、目录或组合，不自动归并来源记录。",
+      "status": "publisher-source-discovery-only",
+      "key": "kengou",
+      "reviewed": 15,
+      "ready": 15,
+      "pending": 0,
+      "protected": 0
+    }
+  ],
+  "priorOverlap": 0,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0,
+  "productionApplied": 0
+}

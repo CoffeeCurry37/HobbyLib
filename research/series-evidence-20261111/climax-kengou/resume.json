@@ -1,0 +1,21 @@
+{
+  "at": "2026-11-11T19:45:00.248Z",
+  "stage": "prepared-no-production-write",
+  "order": [
+    "climax:16",
+    "kengou:15"
+  ],
+  "candidates": 31,
+  "prepared": 31,
+  "pendingEvidence": 0,
+  "protectedExisting": 0,
+  "productionApplied": 0,
+  "simulationPassed": true,
+  "next": "应用已冻结的31条计划前先读当前版本；20+11两批，每批完整读回，最终关闭维护入口并验证HTTP401。失败或中断先查本地回执及正式库，禁止重放已成功批次。",
+  "previous": "../pikuriru/resume.json",
+  "siteVersion": 70,
+  "environmentRevision": 102,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}
+
