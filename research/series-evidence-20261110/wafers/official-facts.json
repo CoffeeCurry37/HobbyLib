@@ -1,0 +1,178 @@
+{
+  "at": "2026-11-11T03:49:44.615Z",
+  "wafer2": {
+    "source": {
+      "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+      "at": "2026-11-11T03:48:13.963Z",
+      "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+    },
+    "corroboration": {
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+      "at": "2026-11-11T03:47:01.200Z",
+      "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+    },
+    "releaseDate": "2018-03-13",
+    "totalTypes": 25,
+    "regularLineup": [
+      {
+        "number": 1,
+        "rarity": "N",
+        "name": "セイバー/ベティヴィエール"
+      },
+      {
+        "number": 2,
+        "rarity": "N",
+        "name": "セイバー/ガウェイン"
+      },
+      {
+        "number": 3,
+        "rarity": "N",
+        "name": "アーチャー/アーラシュ"
+      },
+      {
+        "number": 4,
+        "rarity": "N",
+        "name": "アーチャー/エウリュアレ"
+      },
+      {
+        "number": 5,
+        "rarity": "N",
+        "name": "ランサー/ジャガーマン"
+      },
+      {
+        "number": 6,
+        "rarity": "N",
+        "name": "ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ"
+      },
+      {
+        "number": 7,
+        "rarity": "N",
+        "name": "ライダー/マルタ"
+      },
+      {
+        "number": 8,
+        "rarity": "N",
+        "name": "キャスター/ニトクリス"
+      },
+      {
+        "number": 9,
+        "rarity": "N",
+        "name": "アサシン/新宿のアサシン"
+      },
+      {
+        "number": 10,
+        "rarity": "N",
+        "name": "バーサーカー/ポール・バニヤン"
+      },
+      {
+        "number": 11,
+        "rarity": "N",
+        "name": "バーサーカー/ヘラクレス"
+      },
+      {
+        "number": 12,
+        "rarity": "N",
+        "name": "アヴェンジャー/ゴルゴーン"
+      },
+      {
+        "number": 13,
+        "rarity": "R",
+        "name": "セイバー/アルトリア・ペンドラゴン(オルタ)"
+      },
+      {
+        "number": 14,
+        "rarity": "R",
+        "name": "アーチャー/アルジュナ"
+      },
+      {
+        "number": 15,
+        "rarity": "R",
+        "name": "ランサー/カルナ"
+      },
+      {
+        "number": 16,
+        "rarity": "R",
+        "name": "ライダー/女王メイヴ"
+      },
+      {
+        "number": 17,
+        "rarity": "R",
+        "name": "キャスター/ギルガメッシュ"
+      },
+      {
+        "number": 18,
+        "rarity": "R",
+        "name": "アサシン/謎のヒロインX"
+      },
+      {
+        "number": 19,
+        "rarity": "R",
+        "name": "バーサーカー/タマモキャット"
+      },
+      {
+        "number": 20,
+        "rarity": "R",
+        "name": "ルーラー/天草四郎"
+      },
+      {
+        "number": 21,
+        "rarity": "SR",
+        "name": "ライダー/オジマンディアス"
+      },
+      {
+        "number": 22,
+        "rarity": "SR",
+        "name": "キャスター/マーリン"
+      },
+      {
+        "number": 23,
+        "rarity": "SR",
+        "name": "アサシン/酒呑童子"
+      },
+      {
+        "number": 24,
+        "rarity": "SR",
+        "name": "バーサーカー/源頼光"
+      }
+    ],
+    "secretLabel": "シークレット",
+    "cardMaterial": "plastic",
+    "finish": "metallic printing",
+    "scope": "目录编号逐项匹配，不声称已检查每张卡背。",
+    "targetSingles": 23,
+    "targetFamily": 1,
+    "notInCurrentTargets": [
+      {
+        "number": 23,
+        "name": "アサシン/酒呑童子"
+      }
+    ],
+    "notInTargetsRule": "No.23酒呑童子及隐藏款不在本轮24条候选内，未新建或重新归类。"
+  },
+  "special25": {
+    "source": {
+      "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+      "at": "2026-11-11T03:47:02.790Z",
+      "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+    },
+    "corroboration": {
+      "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117918803000",
+      "at": "2026-11-11T03:47:03.606Z",
+      "sha256": "88faf5ef4d1c8fa3f149235a100b8da03ff9de524046466ba64df984358b1c6d"
+    },
+    "releaseDate": "2025-01-06",
+    "totalTypes": 24,
+    "originalPack": {
+      "cards": 1,
+      "wafers": 2
+    },
+    "finish": "holographic foil and hologram effect",
+    "targetPlaceholders": 23,
+    "targetFamily": 1,
+    "retailerObservation": {
+      "id": "special25-retailer-lineup",
+      "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+    },
+    "scope": "实际卡号清单与旧占位绑定是两件事；没有独立映射，所有占位保持待查。"
+  }
+}

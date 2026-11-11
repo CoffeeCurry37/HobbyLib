@@ -1,0 +1,944 @@
+{
+  "at": "2026-11-11T03:49:44.615Z",
+  "rows": [
+    {
+      "itemId": "catalogue-1817cac42266e69fcd5ab009e89e92e6",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.13 セイバー/アルトリア・ペンドラゴン(オルタ)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.13 セイバー/アルトリア・ペンドラゴン(オルタ)",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:13",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.13 R セイバー/アルトリア・ペンドラゴン(オルタ)",
+      "number": 13,
+      "rarity": "R",
+      "officialName": "セイバー/アルトリア・ペンドラゴン(オルタ)",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.13，R级，款式为セイバー/アルトリア・ペンドラゴン(オルタ)。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-268cb4dec72c31aa14037aedb667a57b",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.24 バーサーカー/源頼光",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.24 バーサーカー/源頼光",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:24",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.24 SR バーサーカー/源頼光",
+      "number": 24,
+      "rarity": "SR",
+      "officialName": "バーサーカー/源頼光",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.24，SR级，款式为バーサーカー/源頼光。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-2810be56ff7ce8caa684ed35fd0a4b68",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.17 キャスター/ギルガメッシュ",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.17 キャスター/ギルガメッシュ",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:17",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.17 R キャスター/ギルガメッシュ",
+      "number": 17,
+      "rarity": "R",
+      "officialName": "キャスター/ギルガメッシュ",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.17，R级，款式为キャスター/ギルガメッシュ。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-3ba6b3d1afb04d31452040638c1c6a5a",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.16 ライダー/女王メイヴ",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.16 ライダー/女王メイヴ",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:16",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.16 R ライダー/女王メイヴ",
+      "number": 16,
+      "rarity": "R",
+      "officialName": "ライダー/女王メイヴ",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.16，R级，款式为ライダー/女王メイヴ。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-41bb3d1988dc13b5fd0fd384c31463aa",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.19 バーサーカー/タマモキャット",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.19 バーサーカー/タマモキャット",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:19",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.19 R バーサーカー/タマモキャット",
+      "number": 19,
+      "rarity": "R",
+      "officialName": "バーサーカー/タマモキャット",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.19，R级，款式为バーサーカー/タマモキャット。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-4d420cec577b6d55691ddd32eedd3a87",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.01 セイバー/ベティヴィエール",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.01 セイバー/ベティヴィエール",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:01",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.01 N セイバー/ベティヴィエール",
+      "number": 1,
+      "rarity": "N",
+      "officialName": "セイバー/ベティヴィエール",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.01，N级，款式为セイバー/ベティヴィエール。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-512cb3aa997175ff21a4447f4687fad7",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.21 ライダー/オジマンディアス",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.21 ライダー/オジマンディアス",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:21",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.21 SR ライダー/オジマンディアス",
+      "number": 21,
+      "rarity": "SR",
+      "officialName": "ライダー/オジマンディアス",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.21，SR级，款式为ライダー/オジマンディアス。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-5410b0b26d91a4e1ba2006deb0e387c1",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.12 アヴェンジャー/ゴルゴーン",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.12 アヴェンジャー/ゴルゴーン",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:12",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.12 N アヴェンジャー/ゴルゴーン",
+      "number": 12,
+      "rarity": "N",
+      "officialName": "アヴェンジャー/ゴルゴーン",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.12，N级，款式为アヴェンジャー/ゴルゴーン。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-60e30f1853d003f436e9dccca977131f",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.05 ランサー/ジャガーマン",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.05 ランサー/ジャガーマン",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:05",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.05 N ランサー/ジャガーマン",
+      "number": 5,
+      "rarity": "N",
+      "officialName": "ランサー/ジャガーマン",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.05，N级，款式为ランサー/ジャガーマン。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-66a6fd56cccde5326212257b81a09b34",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.09 アサシン/新宿のアサシン",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.09 アサシン/新宿のアサシン",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:09",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.09 N アサシン/新宿のアサシン",
+      "number": 9,
+      "rarity": "N",
+      "officialName": "アサシン/新宿のアサシン",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.09，N级，款式为アサシン/新宿のアサシン。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-68f9e3dcce7d7685894035a71d6bdf30",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.11 バーサーカー/ヘラクレス",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.11 バーサーカー/ヘラクレス",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:11",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.11 N バーサーカー/ヘラクレス",
+      "number": 11,
+      "rarity": "N",
+      "officialName": "バーサーカー/ヘラクレス",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.11，N级，款式为バーサーカー/ヘラクレス。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-8e21ed7ebc260a27623f85324803f88d",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.22 キャスター/マーリン",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.22 キャスター/マーリン",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:22",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.22 SR キャスター/マーリン",
+      "number": 22,
+      "rarity": "SR",
+      "officialName": "キャスター/マーリン",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.22，SR级，款式为キャスター/マーリン。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-8f173da876e81c38bef97e751c8d64bf",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.08 キャスター/ニトクリス",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.08 キャスター/ニトクリス",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:08",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.08 N キャスター/ニトクリス",
+      "number": 8,
+      "rarity": "N",
+      "officialName": "キャスター/ニトクリス",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.08，N级，款式为キャスター/ニトクリス。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-91a13ca6cfb22f69d6bc22c123d729ff",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.06 ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.06 ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:06",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.06 N ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+      "number": 6,
+      "rarity": "N",
+      "officialName": "ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.06，N级，款式为ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-adc10dd42f8aabb80b0bd4f578308d8e",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.10 バーサーカー/ポール・バニヤン",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.10 バーサーカー/ポール・バニヤン",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:10",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.10 N バーサーカー/ポール・バニヤン",
+      "number": 10,
+      "rarity": "N",
+      "officialName": "バーサーカー/ポール・バニヤン",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.10，N级，款式为バーサーカー/ポール・バニヤン。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-b2902cb15e8f8485f6551c398777b0b3",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.07 ライダー/マルタ",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.07 ライダー/マルタ",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:07",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.07 N ライダー/マルタ",
+      "number": 7,
+      "rarity": "N",
+      "officialName": "ライダー/マルタ",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.07，N级，款式为ライダー/マルタ。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-b917f82c1117f622247f17128ab238fc",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.04 アーチャー/エウリュアレ",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.04 アーチャー/エウリュアレ",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:04",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.04 N アーチャー/エウリュアレ",
+      "number": 4,
+      "rarity": "N",
+      "officialName": "アーチャー/エウリュアレ",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.04，N级，款式为アーチャー/エウリュアレ。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-c4054bb9fb1a969ba68fa4a8b335d464",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.02 セイバー/ガウェイン",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.02 セイバー/ガウェイン",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:02",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.02 N セイバー/ガウェイン",
+      "number": 2,
+      "rarity": "N",
+      "officialName": "セイバー/ガウェイン",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.02，N级，款式为セイバー/ガウェイン。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-c7d32d8114502fbc6489f5ebd363ff58",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.18 アサシン/謎のヒロインX",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.18 アサシン/謎のヒロインX",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:18",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.18 R アサシン/謎のヒロインX",
+      "number": 18,
+      "rarity": "R",
+      "officialName": "アサシン/謎のヒロインX",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.18，R级，款式为アサシン/謎のヒロインX。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-d787dde69ec74db2bafc12ddf5d12fd9",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.03 アーチャー/アーラシュ",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.03 アーチャー/アーラシュ",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:03",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.03 N アーチャー/アーラシュ",
+      "number": 3,
+      "rarity": "N",
+      "officialName": "アーチャー/アーラシュ",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.03，N级，款式为アーチャー/アーラシュ。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-db1ac5583a9cfd5805854a89c9c08c9f",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.20 ルーラー/天草四郎",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.20 ルーラー/天草四郎",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:20",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.20 R ルーラー/天草四郎",
+      "number": 20,
+      "rarity": "R",
+      "officialName": "ルーラー/天草四郎",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.20，R级，款式为ルーラー/天草四郎。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-e4cee6adc5f54efb758181750498aefe",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.15 ランサー/カルナ",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.15 ランサー/カルナ",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:15",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.15 R ランサー/カルナ",
+      "number": 15,
+      "rarity": "R",
+      "officialName": "ランサー/カルナ",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.15，R级，款式为ランサー/カルナ。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "catalogue-f48583d3b6fed6d5cc4ab46fdb46c82b",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2 No.14 アーチャー/アルジュナ",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "No.14 アーチャー/アルジュナ",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000:card:14",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2 / No.14 R アーチャー/アルジュナ",
+      "number": 14,
+      "rarity": "R",
+      "officialName": "アーチャー/アルジュナ",
+      "scope": "官方文字清单的编号、角色/职阶与既有官方款式证据逐项一致；不是按图片顺序猜测",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹的单张塑料卡，官方目录No.14，R级，款式为アーチャー/アルジュナ。该弹于2018年3月13日发售，卡面采用金属光泽印刷，背面刊载从者资料。",
+      "notes": "只写官方目录编号、稀有度和单卡共同规格；不把包装JAN写作单卡JAN，不承诺附食品或整盒齐款。官方姓名拼写照录，原名及图片保持不变。"
+    },
+    {
+      "itemId": "family-7eedbda2253761c7edd2d11f20c052fc",
+      "groupId": "series-23fffc96bf0a6a91",
+      "title": "Fate/Grand Orderウエハース2",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "2",
+        "member": "Fate/Grand Orderウエハース2",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+        "catalogueKey": "fgo-wafer:4549660224976000",
+        "catalogueGroupType": "collection",
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/49/000000206349.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/53/000000206353.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/57/000000206357.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/61/000000206361.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/65/000000206365.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/69/000000206369.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/73/000000206373.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660224976000.html",
+        "at": "2026-11-11T03:48:13.963Z",
+        "sha256": "27958b0fa5539a408ea1516bb1b2251bfce2fb7905407a8c5a5205f89565ccab"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000",
+          "at": "2026-11-11T03:47:01.200Z",
+          "sha256": "f4fe1d71d8efebb692a4755848488b2636b0b0bf1b861191173d79408649b58a"
+        }
+      ],
+      "officialTitle": "Fate/Grand Orderウエハース2",
+      "scope": "官方第2弹系列目录；逻辑父级，不是零售整盒或齐款套装",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第2弹，2018年3月13日发售，全25种，含24种普通公开款及1种隐藏款。卡片采用金属光泽印刷；本条为系列目录，各张卡片独立收录，不代表整套实物。",
+      "notes": "官方名单与BANDAI商品总目录相互核对；保留各成员与个人状态；隐藏款只按官方“シークレット”记录，不猜名称。"
+    }
+  ]
+}

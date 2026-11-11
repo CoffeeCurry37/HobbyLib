@@ -1,0 +1,120 @@
+[
+  {
+    "id": "special25-retailer-lineup",
+    "url": "https://www.suruga-ya.jp/product/detail/GN815102",
+    "at": "2026-11-11T03:49:44.615Z",
+    "kind": "public-web-text-observation",
+    "retailerCode": "GN815102",
+    "productCode": "2753157",
+    "lineup": [
+      {
+        "code": "ST-01",
+        "name": "ヴォルフガング・アマデウス・モーツァルト"
+      },
+      {
+        "code": "ST-02",
+        "name": "モードレッド"
+      },
+      {
+        "code": "ST-03",
+        "name": "巌窟王 エドモン・ダンテス"
+      },
+      {
+        "code": "ST-04",
+        "name": "ジャンヌ・ダルク〔オルタ〕"
+      },
+      {
+        "code": "ST-05",
+        "name": "マリー・アントワネット"
+      },
+      {
+        "code": "ST-06",
+        "name": "マーリン"
+      },
+      {
+        "code": "ST-07",
+        "name": "アーサー・ペンドラゴン〔プロトタイプ〕"
+      },
+      {
+        "code": "ST-08",
+        "name": "ジェームズ・モリアーティ"
+      },
+      {
+        "code": "ST-09",
+        "name": "葛飾北斎"
+      },
+      {
+        "code": "ST-10",
+        "name": "殺生院キアラ"
+      },
+      {
+        "code": "ST-11",
+        "name": "アルトリア・ペンドラゴン〔オルタ〕"
+      },
+      {
+        "code": "ST-12",
+        "name": "アルジュナ〔オルタ〕"
+      },
+      {
+        "code": "ST-13",
+        "name": "謎のアルターエゴ・Λ"
+      },
+      {
+        "code": "ST-14",
+        "name": "スペース・イシュタル"
+      },
+      {
+        "code": "ST-15",
+        "name": "ヴァン・ゴッホ"
+      },
+      {
+        "code": "ST-16",
+        "name": "蘆屋道満"
+      },
+      {
+        "code": "ST-17",
+        "name": "光のコヤンスカヤ"
+      },
+      {
+        "code": "ST-18",
+        "name": "沖田総司〔オルタ〕"
+      },
+      {
+        "code": "ST-19",
+        "name": "アルクェイド・ブリュンスタッド"
+      },
+      {
+        "code": "ST-20",
+        "name": "徐福"
+      },
+      {
+        "code": "ST-21",
+        "name": "レディ・アヴァロン"
+      },
+      {
+        "code": "ST-22",
+        "name": "駒姫"
+      },
+      {
+        "code": "ST-23",
+        "name": "雨の魔女トネリコ"
+      },
+      {
+        "code": "SST-24",
+        "name": "空を道とし 宮本武蔵"
+      }
+    ],
+    "scope": "独立零售齐款清单24张；可作实际卡号资料，不能建立旧本地占位编号的对应关系。",
+    "hashMeaning": "此记录的哈希为观察JSON哈希；原HTML直连不可用，不冒称已保存零售原文。"
+  },
+  {
+    "id": "special25-shared-image",
+    "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+    "at": "2026-11-11T03:49:44.615Z",
+    "kind": "original-image-visual-observation",
+    "sourceAt": "2026-11-11T03:48:15.697Z",
+    "sourceSha256": "b42a5cfc3df93c829186d8edb97a73fbc62bf5f2ad6353104902476fc3091c7b",
+    "facts": "图片是包装及两张示例卡的合成宣传图；23条占位共用此图，没有各占位独立卡背或单款图对应。",
+    "scope": "已实际打开原图观察；仅用于否定共享图片可区分23个占位的假设，不据角色图案命名占位。"
+  }
+]

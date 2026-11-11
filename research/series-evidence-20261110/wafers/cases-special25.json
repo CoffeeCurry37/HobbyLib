@@ -1,0 +1,1059 @@
+{
+  "at": "2026-11-11T03:49:44.615Z",
+  "rows": [
+    {
+      "itemId": "catalogue-0805ff8be48cd33f4ff2084626199fae",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 18",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 18",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:18",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 18,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 18",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-089db985bd81108b1be9181365d1f80c",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 08",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 08",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:08",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 8,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 08",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-096633e77757b4207f0adfbff6ecc195",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 12",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 12",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:12",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 12,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 12",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-23423ea9557c7ac3a83eb02dbb6e7255",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 04",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 04",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:04",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 4,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 04",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-323253a8b89c3d014dcd886d5be9fe3d",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 13",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 13",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:13",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 13,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 13",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-387b8cd1575a8360c3ff5301bd45782d",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 09",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 09",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:09",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 9,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 09",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-3fb70627c6f609061ab164f6adc9b1d8",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 05",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 05",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:05",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 5,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 05",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-434faf9f30556f826894ad7239a16b78",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 21",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 21",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:21",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 21,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 21",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-4a986f5cfbb30e90129a004ca4485fc1",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 15",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 15",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:15",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 15,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 15",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-52864f1621906669b8f68a24d75e639f",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 19",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 19",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:19",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 19,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 19",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-68a9c4fdcb52d82652cc74ec3ad8afd6",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 22",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 22",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:22",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 22,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 22",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-7a4f507b1d6e4c566b80d5d08240b14d",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 20",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 20",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:20",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 20,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 20",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-8ae44ae094324840879fece212f6bcb4",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 16",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 16",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:16",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 16,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 16",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-9305c6f5c79d8cb82663db117e10272c",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 07",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 07",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:07",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 7,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 07",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-938d4bdfcb31dc970b2cc43fab9a18a5",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 24",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 24",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:24",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 24,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 24",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-99692b9b46b6a16ef5c1b6ba743d5236",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 03",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 03",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:03",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 3,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 03",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-aaa4f1c5dde3460b151c55730d788317",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 14",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 14",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:14",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 14,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 14",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-abaaf57f65f517bdfdc9227f16b716f4",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 23",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 23",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:23",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 23,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 23",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-b7cd9b89b321ccc93ea607aa876246a8",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 01",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 01",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:01",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 1,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 01",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-dee94d0d3f6441b80bcdf7f7046bb337",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 02",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 02",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:02",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 2,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 02",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-e1c240871363bf1ca64229556000ef64",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 17",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 17",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:17",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 17,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 17",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-e7429b3ae1c8ce177b9403892ee87980",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 11",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 11",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:11",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 11,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 11",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "catalogue-f0bfb5ba330d585dcee050be51b385ae",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025 待补款式 10",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "待补款式 10",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000:card:10",
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "pending",
+      "reason": "仅由官方总款数建立的本地占位；没有真实卡号、角色或独立图片/挂牌。23个占位共用同一宣传图，不能绑定零售ST/SST清单。",
+      "needed": "旧占位ID到实际印刷卡号的独立历史对应；若原本无对应，需另行形成保留历史映射的占位整理方案，不能以相同序号自动命名。",
+      "placeholderNumber": 10,
+      "originalEvidence": {
+        "field": "发行席位",
+        "value": "待补款式 10",
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-10-17T14:52:07.481Z",
+        "method": "按官方款数预留；不推测角色或在售状态"
+      },
+      "officialSource": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "retailerObservation": {
+        "id": "special25-retailer-lineup",
+        "sha256": "16bb412f7eb6937bf498518b8574b730766b827d0f33091652dd71322bed947b"
+      },
+      "imageObservation": {
+        "id": "special25-shared-image",
+        "sha256": "8e513d43da4986370799edde7f177504f676cc3a364a467438cf779769d33c07"
+      },
+      "recheckRule": "已取得实际零售卡号清单，缺的是旧占位身份映射；重复抓总目录不能消除此缺口。"
+    },
+    {
+      "itemId": "family-8e4b4adbe3dcce7d1e332975779f4332",
+      "groupId": "series-51eab3b1ff4440c6",
+      "title": "Fate/Grand Order ツインウエハース 特別弾 2025",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "productLine": "威化卡片",
+        "wave": "特別弾 2025",
+        "member": "Fate/Grand Order ツインウエハース 特別弾 2025",
+        "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+        "catalogueKey": "fgo-wafer:4570117918803000",
+        "catalogueGroupType": "collection",
+        "images": [
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/YH9/000000425491OQDkmjjDAzFS1QQyJJZUlEf4yxpfCoZ5UYH9.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/RrT/000000425495bxr5HVzlME4qrvNbutokUYjz3DoSm8ZbHRrT.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/rzu/000000425499LRFkO7D1e4VEtiPT2U7cOpYkN2OLKfbqKrzu.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/BGp/000000425503fxJFzbDeMNL9nhlukgnPsdbJtLRJI0WGrBGp.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/0eT/000000425507HkbQ2a8HPSzuuEn58O8EUL968PJcehRt00eT.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/TD3/000000425511YnoFkzyu2me4BRN1GnmDjn09JCiwcXF8HTD3.jpg",
+          "https://www.bandai.co.jp/candy/published/bnc_files/product/O2q/000000425515m6Q2PPD6V0TvARQ5DOTK8HbJq55tPN1e6O2q.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2025/4570117918803000.html",
+        "at": "2026-11-11T03:47:02.790Z",
+        "sha256": "51ad52b68af58b30d9413abfdcb165a10d31a727e3cb91358dd59fac388d8f0b"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4570117918803000",
+          "at": "2026-11-11T03:47:03.606Z",
+          "sha256": "88faf5ef4d1c8fa3f149235a100b8da03ff9de524046466ba64df984358b1c6d"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order ツインウエハース 特別弾 2025",
+      "scope": "官方2025特别弹系列目录；仅确认系列规格，不将24种目录顺序赋予旧匿名占位",
+      "summary": "BANDAI《Fate/Grand Order》双威化特别弹2025，2025年1月6日发售，全24种金属光泽塑料卡，采用全息箔和全息效果。原包装每包含1张卡与2枚巧克力威化；本条为系列目录，不代表24张齐款套装。",
+      "notes": "原包装数量不是二手单卡附属品承诺；系列目录不充当实物套装，包装编号不转写单卡JAN；旧匿名成员保持待查。"
+    }
+  ]
+}
