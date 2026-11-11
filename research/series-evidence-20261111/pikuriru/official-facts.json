@@ -1,0 +1,531 @@
+{
+  "at": "2026-11-11T18:31:42.185Z",
+  "indexSource": {
+    "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+    "at": "2026-11-11T18:28:33.987Z",
+    "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+  },
+  "products": [
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015299?ga=sm_fgo",
+        "at": "2026-11-11T18:29:15.426Z",
+        "sha256": "99883fcc6bcc3b1b2f2324d100de18939ad5a564f0d59575f038bd2a89218a0c"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 キャスター/マーリン",
+      "manufacturerCode": "hso-ccg-00015299",
+      "jan": "4580822009215",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "キャスター/マーリン"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015300?ga=sm_fgo",
+        "at": "2026-11-11T18:29:16.191Z",
+        "sha256": "6724797b56dc0fe17450601adda03375ff4def9cb915c7a9341fd74747476cf7"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 キャスター/ギルガメッシュ",
+      "manufacturerCode": "hso-ccg-00015300",
+      "jan": "4580822009222",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "キャスター/ギルガメッシュ"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015301?ga=sm_fgo",
+        "at": "2026-11-11T18:29:16.818Z",
+        "sha256": "cda259cf944720eecc7dbf72ef538961a3e62074a7b179e4903a41b4d07f9dec"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/エルキドゥ",
+      "manufacturerCode": "hso-ccg-00015301",
+      "jan": "4580822009239",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "ランサー/エルキドゥ"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015302?ga=sm_fgo",
+        "at": "2026-11-11T18:29:17.431Z",
+        "sha256": "a437a05221b831a742a832b3aacb13bb532981b2cbdb8f20a9a95da231bfe609"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 アーチャー/イシュタル",
+      "manufacturerCode": "hso-ccg-00015302",
+      "jan": "4580822009246",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "アーチャー/イシュタル"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015303?ga=sm_fgo",
+        "at": "2026-11-11T18:29:18.149Z",
+        "sha256": "79d9bd93c6b0d7428b8e9a4769acbf4ff4269da41b8aa8074e16ea6ecdd6fa81"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/メドゥーサ",
+      "manufacturerCode": "hso-ccg-00015303",
+      "jan": "4580822009253",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "ランサー/メドゥーサ"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015304?ga=sm_fgo",
+        "at": "2026-11-11T18:29:18.856Z",
+        "sha256": "716189e6cb37bf6bd2b544952b2aef520396ae730ee632f074411d9af2d826cb"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/ジャガーマン",
+      "manufacturerCode": "hso-ccg-00015304",
+      "jan": "4580822009260",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "ランサー/ジャガーマン"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015305?ga=sm_fgo",
+        "at": "2026-11-11T18:29:19.581Z",
+        "sha256": "fd3af03454eed926437f27b0ad9c1ac0d1f7d545475dd642d38f4fde341388d8"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ライダー/ケツァル・コアトル",
+      "manufacturerCode": "hso-ccg-00015305",
+      "jan": "4580822009277",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "ライダー/ケツァル・コアトル"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015306?ga=sm_fgo",
+        "at": "2026-11-11T18:29:20.208Z",
+        "sha256": "b171ec37e3f149f0a5f63bc9cd8dd277de55002450d453eeb9d088b756373244"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 アサシン/“山の翁”",
+      "manufacturerCode": "hso-ccg-00015306",
+      "jan": "4580822009284",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "アサシン/“山の翁”"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015307?ga=sm_fgo",
+        "at": "2026-11-11T18:29:20.939Z",
+        "sha256": "9ca811e2262510e36de039881325c666bda8c602fbd71aefcd1eb0ed4f1cbc10"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 アヴェンジャー/ゴルゴーン",
+      "manufacturerCode": "hso-ccg-00015307",
+      "jan": "4580822009291",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "アヴェンジャー/ゴルゴーン"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015308?ga=sm_fgo",
+        "at": "2026-11-11T18:29:21.566Z",
+        "sha256": "6292a58d1e450b9c21478c5f39b3f21190b085f922dbaaf4ddaa6449d1eb919d"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 セイバー/宮本武蔵",
+      "manufacturerCode": "hso-ccg-00015308",
+      "jan": "4580822009307",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "セイバー/宮本武蔵"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015310?ga=sm_fgo",
+        "at": "2026-11-11T18:29:22.917Z",
+        "sha256": "91d88675732e43eb516114d1fe857fc2469d847f9f572390efb318aa10e0e752"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 ランサー/アルトリア・ペンドラゴン",
+      "manufacturerCode": "hso-ccg-00015310",
+      "jan": "4580822009314",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "ランサー/アルトリア・ペンドラゴン"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015311?ga=sm_fgo",
+        "at": "2026-11-11T18:29:23.620Z",
+        "sha256": "63415237b70b25171f8a37c1ac06eca7bbbef3239657f0029504a9a02c3685a4"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 セイバー/ガウェイン",
+      "manufacturerCode": "hso-ccg-00015311",
+      "jan": "4580822009321",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "セイバー/ガウェイン"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015312?ga=sm_fgo",
+        "at": "2026-11-11T18:29:24.337Z",
+        "sha256": "9c8858f9bf6309626b4dcab0dc4980ed44b7c1584f5773ab2dac751b904671da"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 セイバー/ランスロット",
+      "manufacturerCode": "hso-ccg-00015312",
+      "jan": "4580822009338",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "セイバー/ランスロット"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015313?ga=sm_fgo",
+        "at": "2026-11-11T18:29:25.047Z",
+        "sha256": "3fd17f3860e014dbff946b58e7fb2d98cd9069f4e2a10b290ebc56d90389d2ac"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 アーチャー/トリスタン",
+      "manufacturerCode": "hso-ccg-00015313",
+      "jan": "4580822009345",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "アーチャー/トリスタン"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015314?ga=sm_fgo",
+        "at": "2026-11-11T18:29:25.713Z",
+        "sha256": "94e8a7fa2e366a94042aba5c1acb15fef967cbfddd770b256ac4bff9ecea381c"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 セイバー/ベディヴィエール",
+      "manufacturerCode": "hso-ccg-00015314",
+      "jan": "4580822009352",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "セイバー/ベディヴィエール"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015315?ga=sm_fgo",
+        "at": "2026-11-11T18:29:26.439Z",
+        "sha256": "e2dbccff29298f5f27a26f9d48a8b774cd6d3e99d1c04829c2ab369904ddde45"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 アーチャー/アーラシュ",
+      "manufacturerCode": "hso-ccg-00015315",
+      "jan": "4580822009369",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "アーチャー/アーラシュ"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015316?ga=sm_fgo",
+        "at": "2026-11-11T18:29:27.072Z",
+        "sha256": "b6a2c9e58f3ff9d167a30dd823e68822846993a9a8cca55b534b51229383d23b"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 ライダー/オジマンディアス",
+      "manufacturerCode": "hso-ccg-00015316",
+      "jan": "4580822009376",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "ライダー/オジマンディアス"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015317?ga=sm_fgo",
+        "at": "2026-11-11T18:29:27.799Z",
+        "sha256": "7b48721b9052aafbceb20dbf289444b19174023ae263653262b63ba3204b4c87"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 キャスター/ニトクリス",
+      "manufacturerCode": "hso-ccg-00015317",
+      "jan": "4580822009383",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "キャスター/ニトクリス"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015318?ga=sm_fgo",
+        "at": "2026-11-11T18:29:28.444Z",
+        "sha256": "22e3fab4ae03052d862a41e91cbd0321c2617452d23510e374682c33f7fd2a2a"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 キャスター/レオナルド・ダ・ヴィンチ",
+      "manufacturerCode": "hso-ccg-00015318",
+      "jan": "4580822009390",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "キャスター/レオナルド・ダ・ヴィンチ"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015319?ga=sm_fgo",
+        "at": "2026-11-11T18:29:29.154Z",
+        "sha256": "46253fd1e867cba256174da27459f03ccd3ebb281a8bbe7c410b4312648caf25"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.6 キャスター/玄奘三蔵",
+      "manufacturerCode": "hso-ccg-00015319",
+      "jan": "4580822009406",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "仅取商品自身标题、meta关键词条码和规格块；排除推荐区/其他vol内容",
+      "character": "キャスター/玄奘三蔵"
+    }
+  ],
+  "bundles": [
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015309?ga=sm_fgo",
+        "at": "2026-11-11T18:29:14.207Z",
+        "sha256": "cea3d04e6e14eaec2e7e50a9000060ba9ecf9e7e06d001fdbae3da0173ca982d"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order アクリルスタンド vol.5（10種セット）",
+      "manufacturerCode": "hso-ccg-00015309",
+      "jan": "4580822009413",
+      "volume": 5,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "91mm×73mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "十种套购条件特典；与普通单品、另一vol及徽章商品分别保留",
+      "regularTypes": 10,
+      "storeSetBonus": "セイバー/エリザベート・バートリー〔ブレイブ〕"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015320?ga=sm_fgo",
+        "at": "2026-11-11T18:29:22.193Z",
+        "sha256": "6926976f52df85d16379d0db61ae03fd4ef3573c3d80eeaaa82bba3660d079da"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order アクリルスタンド vol.6（10種セット）",
+      "manufacturerCode": "hso-ccg-00015320",
+      "jan": "4580822009420",
+      "volume": 6,
+      "releaseMonth": "2026-08",
+      "material": "acrylic",
+      "originalAccessory": "base",
+      "nominalSize": "96mm×71mm",
+      "sizeCaveat": "官方约值且明确角色间有差异；不作逐款精确尺寸",
+      "scope": "十种套购条件特典；与普通单品、另一vol及徽章商品分别保留",
+      "regularTypes": 10,
+      "storeSetBonus": "セイバー/アーサー・ペンドラゴン〔プロトタイプ〕"
+    }
+  ],
+  "reviewedSourceRecords": 33,
+  "distinctOfficialSingles": 20,
+  "scope": "vol.6 17条对应10种；vol.5 16条对应10种。来源记录数量不是新增角色数；全部保持独立ID，不新增套装/特典。",
+  "notAppliedFields": [
+    "精确逐款尺寸",
+    "新增JAN字段",
+    "实时库存",
+    "二手当前附属品完整性"
+  ],
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

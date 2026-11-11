@@ -1,0 +1,1247 @@
+{
+  "at": "2026-11-11T18:31:42.185Z",
+  "rows": [
+    {
+      "itemId": "1a892cd0-01b4-44d4-8389-1f8702b85242",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "アヴェンジャー/ゴルゴーン ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "アヴェンジャー/ゴルゴーン ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741968&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741968&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741968"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015307?ga=sm_fgo",
+        "at": "2026-11-11T18:29:20.939Z",
+        "sha256": "9ca811e2262510e36de039881325c666bda8c602fbd71aefcd1eb0ed4f1cbc10"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 アヴェンジャー/ゴルゴーン",
+      "manufacturerCode": "hso-ccg-00015307",
+      "officialJan": "4580822009291",
+      "character": "アヴェンジャー/ゴルゴーン",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741968",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741968",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741968",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741968",
+          "at": "2026-10-06T01:41:04.852Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为アヴェンジャー/ゴルゴーン。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "3d83d2d9-bdd6-42ee-b225-44ad7167422e",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "キャスター/マーリン ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "キャスター/マーリン ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741960&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741960&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741960"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015299?ga=sm_fgo",
+        "at": "2026-11-11T18:29:15.426Z",
+        "sha256": "99883fcc6bcc3b1b2f2324d100de18939ad5a564f0d59575f038bd2a89218a0c"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 キャスター/マーリン",
+      "manufacturerCode": "hso-ccg-00015299",
+      "officialJan": "4580822009215",
+      "character": "キャスター/マーリン",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741960",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741960",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741960",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741960",
+          "at": "2026-10-06T01:40:54.146Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为キャスター/マーリン。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "40b2d006-f72c-498d-a61e-c00e9d105496",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "アーチャー/イシュタル ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "アーチャー/イシュタル ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741963&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741963&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741963"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015302?ga=sm_fgo",
+        "at": "2026-11-11T18:29:17.431Z",
+        "sha256": "a437a05221b831a742a832b3aacb13bb532981b2cbdb8f20a9a95da231bfe609"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 アーチャー/イシュタル",
+      "manufacturerCode": "hso-ccg-00015302",
+      "officialJan": "4580822009246",
+      "character": "アーチャー/イシュタル",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741963",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741963",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741963",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741963",
+          "at": "2026-10-06T01:40:59.587Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为アーチャー/イシュタル。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "65010557-dc5d-480c-a6b5-81872c5c71c9",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ランサー/メドゥーサ ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ランサー/メドゥーサ ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741964&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741964&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741964"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015303?ga=sm_fgo",
+        "at": "2026-11-11T18:29:18.149Z",
+        "sha256": "79d9bd93c6b0d7428b8e9a4769acbf4ff4269da41b8aa8074e16ea6ecdd6fa81"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/メドゥーサ",
+      "manufacturerCode": "hso-ccg-00015303",
+      "officialJan": "4580822009253",
+      "character": "ランサー/メドゥーサ",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741964",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741964",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741964",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741964",
+          "at": "2026-10-06T01:40:59.587Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为ランサー/メドゥーサ。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "7f801273-33b9-47c3-87f2-0e5690538318",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "キャスター/ギルガメッシュ ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "キャスター/ギルガメッシュ ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741961&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741961&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741961"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015300?ga=sm_fgo",
+        "at": "2026-11-11T18:29:16.191Z",
+        "sha256": "6724797b56dc0fe17450601adda03375ff4def9cb915c7a9341fd74747476cf7"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 キャスター/ギルガメッシュ",
+      "manufacturerCode": "hso-ccg-00015300",
+      "officialJan": "4580822009222",
+      "character": "キャスター/ギルガメッシュ",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741961",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741961",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741961",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741961",
+          "at": "2026-10-06T01:40:54.147Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为キャスター/ギルガメッシュ。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "e18a7fd0-ece1-409f-8543-337cb9c1b283",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ライダー/ケツァル・コアトル ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ライダー/ケツァル・コアトル ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741966&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741966&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741966"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015305?ga=sm_fgo",
+        "at": "2026-11-11T18:29:19.581Z",
+        "sha256": "fd3af03454eed926437f27b0ad9c1ac0d1f7d545475dd642d38f4fde341388d8"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ライダー/ケツァル・コアトル",
+      "manufacturerCode": "hso-ccg-00015305",
+      "officialJan": "4580822009277",
+      "character": "ライダー/ケツァル・コアトル",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741966",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741966",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741966",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741966",
+          "at": "2026-10-06T01:40:59.588Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为ライダー/ケツァル・コアトル。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "e3e94186-38a2-4278-858c-6e268f18208a",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ランサー/エルキドゥ ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ランサー/エルキドゥ ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741962&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741962&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741962"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015301?ga=sm_fgo",
+        "at": "2026-11-11T18:29:16.818Z",
+        "sha256": "cda259cf944720eecc7dbf72ef538961a3e62074a7b179e4903a41b4d07f9dec"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/エルキドゥ",
+      "manufacturerCode": "hso-ccg-00015301",
+      "officialJan": "4580822009239",
+      "character": "ランサー/エルキドゥ",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741962",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741962",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741962",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741962",
+          "at": "2026-10-06T01:40:54.146Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为ランサー/エルキドゥ。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "f276023b-3f94-4cfd-8ec3-f7ad7af220de",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "アサシン/“山の翁” ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "アサシン/“山の翁” ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741967&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741967&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741967"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015306?ga=sm_fgo",
+        "at": "2026-11-11T18:29:20.208Z",
+        "sha256": "b171ec37e3f149f0a5f63bc9cd8dd277de55002450d453eeb9d088b756373244"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 アサシン/“山の翁”",
+      "manufacturerCode": "hso-ccg-00015306",
+      "officialJan": "4580822009284",
+      "character": "アサシン/“山の翁”",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741967",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741967",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741967",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741967",
+          "at": "2026-10-06T01:40:54.145Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为アサシン/“山の翁”。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "f2779d4c-ba70-4300-8883-1fe7aa37f692",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ランサー/ジャガーマン ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ランサー/ジャガーマン ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741965&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741965&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741965"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015304?ga=sm_fgo",
+        "at": "2026-11-11T18:29:18.856Z",
+        "sha256": "716189e6cb37bf6bd2b544952b2aef520396ae730ee632f074411d9af2d826cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/ジャガーマン",
+      "manufacturerCode": "hso-ccg-00015304",
+      "officialJan": "4580822009260",
+      "character": "ランサー/ジャガーマン",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741965",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741965",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741965",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741965",
+          "at": "2026-10-06T01:40:59.588Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为ランサー/ジャガーマン。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "fffc5288-1f3e-496d-8dec-f1ce87498979",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "セイバー/宮本武蔵 ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "セイバー/宮本武蔵 ぴくりる! アクリルスタンド vol.5 「Fate/Grand Order」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560741969&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=560741969&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560741969"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015308?ga=sm_fgo",
+        "at": "2026-11-11T18:29:21.566Z",
+        "sha256": "6292a58d1e450b9c21478c5f39b3f21190b085f922dbaaf4ddaa6449d1eb919d"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 セイバー/宮本武蔵",
+      "manufacturerCode": "hso-ccg-00015308",
+      "officialJan": "4580822009307",
+      "character": "セイバー/宮本武蔵",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/560741969",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2026/08/28",
+          "url": "https://www.suruga-ya.jp/product/detail/560741969",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741969",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "アクリルスタンド・アクリルパネル",
+          "url": "https://www.suruga-ya.jp/product/detail/560741969",
+          "at": "2026-10-06T01:41:04.853Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确为HOBBY STOCK立牌；作品、vol及完整职阶/角色与官方单品、专题入口唯一对应。原JAN为空继续保留。",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为セイバー/宮本武蔵。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "source-0a16a13028627bd44d9c25518078d240",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 ランサー/エルキドゥ[ホビーストック]《発売済・在庫品》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4580822009239",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 ランサー/エルキドゥ[ホビーストック]《発売済・在庫品》",
+        "image": "https://img.amiami.jp/images/product/main/262/GOODS-04820732.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/262/GOODS-04820732.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820732"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015301?ga=sm_fgo",
+        "at": "2026-11-11T18:29:16.818Z",
+        "sha256": "cda259cf944720eecc7dbf72ef538961a3e62074a7b179e4903a41b4d07f9dec"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/エルキドゥ",
+      "manufacturerCode": "hso-ccg-00015301",
+      "officialJan": "4580822009239",
+      "character": "ランサー/エルキドゥ",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820732",
+          "at": "2026-10-05T19:52:59.820Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820732",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "26年08月未定",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820732",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4580822009239",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820732",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820732",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原JAN与厂商meta条码一致，且作品、vol、立牌种类、职阶/角色完全对应",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为ランサー/エルキドゥ。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "source-3af831f6c01d47f52d6d2b7662efd013",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 アーチャー/イシュタル[ホビーストック]《発売済・在庫品》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4580822009246",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 アーチャー/イシュタル[ホビーストック]《発売済・在庫品》",
+        "image": "https://img.amiami.jp/images/product/main/262/GOODS-04820733.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/262/GOODS-04820733.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820733"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015302?ga=sm_fgo",
+        "at": "2026-11-11T18:29:17.431Z",
+        "sha256": "a437a05221b831a742a832b3aacb13bb532981b2cbdb8f20a9a95da231bfe609"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 アーチャー/イシュタル",
+      "manufacturerCode": "hso-ccg-00015302",
+      "officialJan": "4580822009246",
+      "character": "アーチャー/イシュタル",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820733",
+          "at": "2026-10-05T19:53:07.708Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820733",
+          "at": "2026-10-05T20:33:38.545Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "26年08月未定",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820733",
+          "at": "2026-10-05T20:33:38.545Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4580822009246",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820733",
+          "at": "2026-10-05T20:33:38.545Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820733",
+          "at": "2026-10-05T20:33:38.545Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原JAN与厂商meta条码一致，且作品、vol、立牌种类、职阶/角色完全对应",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为アーチャー/イシュタル。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "source-50c54e4902bf4f3a999994fe6b80cbdf",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 キャスター/マーリン[ホビーストック]《発売済・在庫品》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4580822009215",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 キャスター/マーリン[ホビーストック]《発売済・在庫品》",
+        "image": "https://img.amiami.jp/images/product/main/262/GOODS-04820730.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/262/GOODS-04820730.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820730"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015299?ga=sm_fgo",
+        "at": "2026-11-11T18:29:15.426Z",
+        "sha256": "99883fcc6bcc3b1b2f2324d100de18939ad5a564f0d59575f038bd2a89218a0c"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 キャスター/マーリン",
+      "manufacturerCode": "hso-ccg-00015299",
+      "officialJan": "4580822009215",
+      "character": "キャスター/マーリン",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820730",
+          "at": "2026-10-05T19:53:12.512Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820730",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "26年08月未定",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820730",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4580822009215",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820730",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820730",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原JAN与厂商meta条码一致，且作品、vol、立牌种类、职阶/角色完全对应",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为キャスター/マーリン。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "source-6a24de88d9c02cfa81b870f5c338fdfc",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 キャスター/ギルガメッシュ[ホビーストック]《発売済・在庫品》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4580822009222",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 キャスター/ギルガメッシュ[ホビーストック]《発売済・在庫品》",
+        "image": "https://img.amiami.jp/images/product/main/262/GOODS-04820731.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/262/GOODS-04820731.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820731"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015300?ga=sm_fgo",
+        "at": "2026-11-11T18:29:16.191Z",
+        "sha256": "6724797b56dc0fe17450601adda03375ff4def9cb915c7a9341fd74747476cf7"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 キャスター/ギルガメッシュ",
+      "manufacturerCode": "hso-ccg-00015300",
+      "officialJan": "4580822009222",
+      "character": "キャスター/ギルガメッシュ",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820731",
+          "at": "2026-10-05T19:53:09.291Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820731",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "26年08月未定",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820731",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4580822009222",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820731",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820731",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原JAN与厂商meta条码一致，且作品、vol、立牌种类、职阶/角色完全对应",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为キャスター/ギルガメッシュ。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "source-ccaec3eaccfc71ba6eab3118d6c8c237",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 ランサー/ジャガーマン[ホビーストック]《発売済・在庫品》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4580822009260",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 ランサー/ジャガーマン[ホビーストック]《発売済・在庫品》",
+        "image": "https://img.amiami.jp/images/product/main/262/GOODS-04820735.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/262/GOODS-04820735.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820735"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015304?ga=sm_fgo",
+        "at": "2026-11-11T18:29:18.856Z",
+        "sha256": "716189e6cb37bf6bd2b544952b2aef520396ae730ee632f074411d9af2d826cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/ジャガーマン",
+      "manufacturerCode": "hso-ccg-00015304",
+      "officialJan": "4580822009260",
+      "character": "ランサー/ジャガーマン",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820735",
+          "at": "2026-10-05T19:53:20.680Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820735",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "26年08月未定",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820735",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4580822009260",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820735",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820735",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原JAN与厂商meta条码一致，且作品、vol、立牌种类、职阶/角色完全对应",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为ランサー/ジャガーマン。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    },
+    {
+      "itemId": "source-ed2fa95722046b37e4219fa601795605",
+      "groupId": "series-d86ef97205e2fcc2",
+      "title": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 ランサー/メドゥーサ[ホビーストック]《発売済・在庫品》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4580822009253",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! アクリルスタンド",
+        "wave": "5",
+        "member": "ぴくりる! Fate/Grand Order アクリルスタンド vol.5 ランサー/メドゥーサ[ホビーストック]《発売済・在庫品》",
+        "image": "https://img.amiami.jp/images/product/main/262/GOODS-04820734.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/262/GOODS-04820734.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820734"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015303?ga=sm_fgo",
+        "at": "2026-11-11T18:29:18.149Z",
+        "sha256": "79d9bd93c6b0d7428b8e9a4769acbf4ff4269da41b8aa8074e16ea6ecdd6fa81"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "ぴくりる！ Fate/Grand Order アクリルスタンド vol.5 ランサー/メドゥーサ",
+      "manufacturerCode": "hso-ccg-00015303",
+      "officialJan": "4580822009253",
+      "character": "ランサー/メドゥーサ",
+      "volume": 5,
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820734",
+          "at": "2026-10-05T19:53:17.531Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820734",
+          "at": "2026-10-05T20:33:38.545Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "releaseDate",
+          "value": "26年08月未定",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820734",
+          "at": "2026-10-05T20:33:38.545Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4580822009253",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820734",
+          "at": "2026-10-05T20:33:38.545Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "キャラクターグッズ > 一般ゲーム系",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820734",
+          "at": "2026-10-05T20:33:38.545Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原JAN与厂商meta条码一致，且作品、vol、立牌种类、职阶/角色完全对应",
+      "scope": "厂商单品和专题入口与原记录的作品、立牌种类、vol、完整职阶/角色逐项对应；有原JAN时另核条码，不据商品编号猜款式",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 亚克力立牌 vol.5，款式为ランサー/メドゥーサ。采用Q版角色插画，材质为亚克力，官方原配底座；厂商标示2026年8月发售。本条为单款立牌，店铺套购特典另计。",
+      "notes": "只补空缺简介；原JAN、原名、图片、报价历史及个人状态保留。官方尺寸为角色间有差异的约值，省略逐款精确尺寸；不承诺二手附属品齐全，不写实时库存，不自动归并同款来源。"
+    }
+  ]
+}

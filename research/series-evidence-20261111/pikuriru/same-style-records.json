@@ -1,0 +1,176 @@
+{
+  "at": "2026-11-11T18:31:42.185Z",
+  "action": "none",
+  "rule": "仅记录同官方单品的多来源匹配，不归并、不迁移挂牌和个人状态",
+  "groups": [
+    {
+      "manufacturerCode": "hso-ccg-00015310",
+      "officialJan": "4580822009314",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015310?ga=sm_fgo",
+        "at": "2026-11-11T18:29:22.917Z",
+        "sha256": "91d88675732e43eb516114d1fe857fc2469d847f9f572390efb318aa10e0e752"
+      },
+      "itemIds": [
+        "25d1b595-ee93-48ef-b58d-d4050a58603d",
+        "source-14a343cd274c15686fee1790e0c4d9cb"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015319",
+      "officialJan": "4580822009406",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015319?ga=sm_fgo",
+        "at": "2026-11-11T18:29:29.154Z",
+        "sha256": "46253fd1e867cba256174da27459f03ccd3ebb281a8bbe7c410b4312648caf25"
+      },
+      "itemIds": [
+        "2ed56726-3cf0-413e-b963-8352d0dc5f01",
+        "source-f9a6667511c42e97a29e13e21c76d718"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015313",
+      "officialJan": "4580822009345",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015313?ga=sm_fgo",
+        "at": "2026-11-11T18:29:25.047Z",
+        "sha256": "3fd17f3860e014dbff946b58e7fb2d98cd9069f4e2a10b290ebc56d90389d2ac"
+      },
+      "itemIds": [
+        "75b21ecb-7236-45f1-aa7d-9be2d54d7579",
+        "source-1a01d17d0da1a084fd5b931c5581037a"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015318",
+      "officialJan": "4580822009390",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015318?ga=sm_fgo",
+        "at": "2026-11-11T18:29:28.444Z",
+        "sha256": "22e3fab4ae03052d862a41e91cbd0321c2617452d23510e374682c33f7fd2a2a"
+      },
+      "itemIds": [
+        "9c11223b-b7be-4ee8-a469-ffc07b64a042",
+        "source-98a636d4587d4ff59a99d76097d5bf3f"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015311",
+      "officialJan": "4580822009321",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015311?ga=sm_fgo",
+        "at": "2026-11-11T18:29:23.620Z",
+        "sha256": "63415237b70b25171f8a37c1ac06eca7bbbef3239657f0029504a9a02c3685a4"
+      },
+      "itemIds": [
+        "ae0be2d7-796d-491d-813e-8c0a58538daf",
+        "source-352ad0f388dcf048565392b27471654b"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015312",
+      "officialJan": "4580822009338",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015312?ga=sm_fgo",
+        "at": "2026-11-11T18:29:24.337Z",
+        "sha256": "9c8858f9bf6309626b4dcab0dc4980ed44b7c1584f5773ab2dac751b904671da"
+      },
+      "itemIds": [
+        "dbdf3e0d-5821-4510-a465-faeafb620b0f",
+        "source-693f2a1376a0e772f48d29f3f25800c2"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015315",
+      "officialJan": "4580822009369",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015315?ga=sm_fgo",
+        "at": "2026-11-11T18:29:26.439Z",
+        "sha256": "e2dbccff29298f5f27a26f9d48a8b774cd6d3e99d1c04829c2ab369904ddde45"
+      },
+      "itemIds": [
+        "ec93bcfd-2daa-4cf3-802e-d5c1485cdb38",
+        "source-2528df02742ec801897e1e0314479134"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015299",
+      "officialJan": "4580822009215",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015299?ga=sm_fgo",
+        "at": "2026-11-11T18:29:15.426Z",
+        "sha256": "99883fcc6bcc3b1b2f2324d100de18939ad5a564f0d59575f038bd2a89218a0c"
+      },
+      "itemIds": [
+        "3d83d2d9-bdd6-42ee-b225-44ad7167422e",
+        "source-50c54e4902bf4f3a999994fe6b80cbdf"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015302",
+      "officialJan": "4580822009246",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015302?ga=sm_fgo",
+        "at": "2026-11-11T18:29:17.431Z",
+        "sha256": "a437a05221b831a742a832b3aacb13bb532981b2cbdb8f20a9a95da231bfe609"
+      },
+      "itemIds": [
+        "40b2d006-f72c-498d-a61e-c00e9d105496",
+        "source-3af831f6c01d47f52d6d2b7662efd013"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015303",
+      "officialJan": "4580822009253",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015303?ga=sm_fgo",
+        "at": "2026-11-11T18:29:18.149Z",
+        "sha256": "79d9bd93c6b0d7428b8e9a4769acbf4ff4269da41b8aa8074e16ea6ecdd6fa81"
+      },
+      "itemIds": [
+        "65010557-dc5d-480c-a6b5-81872c5c71c9",
+        "source-ed2fa95722046b37e4219fa601795605"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015300",
+      "officialJan": "4580822009222",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015300?ga=sm_fgo",
+        "at": "2026-11-11T18:29:16.191Z",
+        "sha256": "6724797b56dc0fe17450601adda03375ff4def9cb915c7a9341fd74747476cf7"
+      },
+      "itemIds": [
+        "7f801273-33b9-47c3-87f2-0e5690538318",
+        "source-6a24de88d9c02cfa81b870f5c338fdfc"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015301",
+      "officialJan": "4580822009239",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015301?ga=sm_fgo",
+        "at": "2026-11-11T18:29:16.818Z",
+        "sha256": "cda259cf944720eecc7dbf72ef538961a3e62074a7b179e4903a41b4d07f9dec"
+      },
+      "itemIds": [
+        "e3e94186-38a2-4278-858c-6e268f18208a",
+        "source-0a16a13028627bd44d9c25518078d240"
+      ]
+    },
+    {
+      "manufacturerCode": "hso-ccg-00015304",
+      "officialJan": "4580822009260",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015304?ga=sm_fgo",
+        "at": "2026-11-11T18:29:18.856Z",
+        "sha256": "716189e6cb37bf6bd2b544952b2aef520396ae730ee632f074411d9af2d826cb"
+      },
+      "itemIds": [
+        "f2779d4c-ba70-4300-8883-1fe7aa37f692",
+        "source-ccaec3eaccfc71ba6eab3118d6c8c237"
+      ]
+    }
+  ]
+}
