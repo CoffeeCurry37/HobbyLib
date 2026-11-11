@@ -1,6 +1,6 @@
 {
   "at": "2026-11-11T03:50:48.250Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 48,
   "prepared": 25,
   "pending": 23,
@@ -14,12 +14,12 @@
         "https://www.bandai.co.jp/catalog/item.php?jan_cd=4549660224976000"
       ],
       "scope": "2018普通第2弹，勿混同巴比伦尼亚动画版第2弹或复刻第2弹。官方文字列全25种，含24普通编号和隐藏款；本轮后续候选24条，须逐一绑定原卡号和角色，不因目录25种新增缺失成员。",
-      "status": "official-text-located-item-review-not-started",
       "key": "wafer2",
       "reviewed": 24,
       "ready": 24,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     },
     {
       "groupId": "series-51eab3b1ff4440c6",
@@ -33,16 +33,18 @@
         "https://www.suruga-ya.jp/product/detail/GN815102"
       ],
       "scope": "官方确认全24种，一包1张卡和2枚威化。当前条目多为待补款式编号；须结合原图、卡背编号、既有来源和零售ST/SST清单逐项绑定，不能把目录位置当角色证据。25年版勿混同24年特别弹，包装JAN不可当单卡JAN。",
-      "status": "official-page-and-retailer-lineup-located-item-review-not-started",
       "key": "special25",
       "reviewed": 24,
       "ready": 1,
       "pending": 23,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 25,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-11T03:55:01.699Z"
 }
