@@ -1,0 +1,180 @@
+{
+  "at": "2026-11-11T18:36:55.133Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-93d25632dbaa49e6",
+      "label": "マジキュー4コマ Fate/stay night CLIMAX!",
+      "candidates": 16,
+      "sources": [
+        "https://www.kadokawa.co.jp/product/200708000073/",
+        "https://www.kadokawa.co.jp/product/200700003124/"
+      ],
+      "scope": "15条已有ISBN单卷与1条目录；第9卷不在当前16条中，不因编号间断新建。逐卷核对书号、卷次、纸本规格和发行日；不能把共通系列简介当逐卷页数证据。",
+      "status": "publisher-source-discovery-only"
+    },
+    {
+      "groupId": "series-2b6dbd370b1c0da3",
+      "label": "FGO 英霊剣豪七番勝負",
+      "candidates": 15,
+      "sources": [
+        "https://www.kodansha.co.jp/comic/products/0000392813",
+        "https://www.kodansha.co.jp/comic/products/0000425986"
+      ],
+      "scope": "1至6卷混有零售单卷、套装派生成员及目录；先核对媒介、卷号和来源。5/6卷ISBN可作入口，不能把同一卷纸本书号套给未明确媒介、目录或组合，不自动归并来源记录。",
+      "status": "publisher-source-discovery-only"
+    }
+  ],
+  "observations": [
+    {
+      "id": "climax10-discovery",
+      "url": "https://www.kadokawa.co.jp/product/200708000073/",
+      "at": "2026-11-11T18:36:55.133Z",
+      "kind": "original-html-fact-extraction",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200708000073/",
+        "at": "2026-11-11T18:35:22.228Z",
+        "sha256": "dcd61e60104eaf618a33bb6cd88b89a21e37ac3e2973d55d75ae98e0770850b8"
+      },
+      "facts": {
+        "series": "マジキュー4コマ Fate/stay night CLIMAX!",
+        "volume": 10,
+        "isbn": "9784757737044"
+      },
+      "scope": "已确认原网页标题及ISBN，仅下批来源发现，未处理16条",
+      "observationSha256": "11290f31e86c7557224343e256d62382fb2d0050c9b0b015becf5a5ecb1db6cb",
+      "hashMeaning": "source.sha256为原HTML哈希；observationSha256为事实记录哈希"
+    },
+    {
+      "id": "climax1-discovery",
+      "url": "https://www.kadokawa.co.jp/product/200700003124/",
+      "at": "2026-11-11T18:36:55.133Z",
+      "kind": "original-html-fact-extraction",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003124/",
+        "at": "2026-11-11T18:35:23.264Z",
+        "sha256": "dc9a54cda3b3b158b49eecbac3ba9ed3b2b7d4ebea2be6ac7b3b2aaba40e9d82"
+      },
+      "facts": {
+        "volume": 1,
+        "isbn": "9784757726369"
+      },
+      "scope": "已确认原网页标题及ISBN",
+      "observationSha256": "95962c730408d94ae637b725732136f9403e34850faaf6325997f0fd07a5fdce",
+      "hashMeaning": "source.sha256为原HTML哈希；observationSha256为事实记录哈希"
+    },
+    {
+      "id": "kengou5-discovery",
+      "url": "https://www.kodansha.co.jp/comic/products/0000392813",
+      "at": "2026-11-11T18:36:55.133Z",
+      "kind": "public-web-text-observation",
+      "facts": {
+        "volume": 5,
+        "isbn": "9784065357873",
+        "medium": "paper",
+        "releaseDate": "2024-06-07",
+        "pages": 160,
+        "creator": "渡れい",
+        "originalWork": "TYPE-MOON"
+      },
+      "scope": "出版社纸版栏目；电子版另有JDCN，尚未逐条绑定15条目标",
+      "observationSha256": "398e1ef67b0b2a6335e19f2903f566654e661e53fb6d36f91bbf96ee8b0aa78a",
+      "hashMeaning": "观察JSON哈希，未声称保存原HTML"
+    },
+    {
+      "id": "kengou6-discovery",
+      "url": "https://www.kodansha.co.jp/comic/products/0000425986",
+      "at": "2026-11-11T18:36:55.133Z",
+      "kind": "public-web-text-observation",
+      "facts": {
+        "volume": 6,
+        "isbn": "9784065433140",
+        "medium": "paper",
+        "releaseDate": "2026-04-09",
+        "pages": 192
+      },
+      "scope": "出版社纸版栏目，仅来源发现",
+      "observationSha256": "55accb5df83df578712b6a4c2d5cf414c93a975a06df0fa2c93fd35ad7c0d6aa",
+      "hashMeaning": "观察JSON哈希，未声称保存原HTML"
+    }
+  ],
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-9cd624974209cc26",
+      "label": "Fate/Apocrypha 漫画版",
+      "candidates": 16,
+      "protectedSnapshot": 16,
+      "reason": "原快照16条已有认可简介，保留不重查"
+    },
+    {
+      "groupId": "series-774a4872988f96e5",
+      "label": "新宿幻霊事件",
+      "candidates": 16,
+      "protectedSnapshot": 7,
+      "reason": "含7条已有认可简介及派生成员，后续先做身份映射；本轮不重查认可资料"
+    }
+  ],
+  "pendingFirst": "此前EXTELLA3条拍卖、威化3隐藏角色、特别弹2025匿名占位等沿用历史断点。只在独立证据补足后处理，不猜身份。",
+  "nextRule": "先CLIMAX!的16条，再英霊剣豪七番勝負15条；优先有官方书号入口且尚无认可简介的组。",
+  "productionApplied": 0
+}

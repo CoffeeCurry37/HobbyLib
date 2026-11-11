@@ -1,0 +1,49 @@
+{
+  "at": "2026-11-11T18:36:55.133Z",
+  "completedLocalDate": "2026-11-11",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-4c96c482cd244d03",
+      "label": "ぴくりる! FGO 亚克力立牌 vol.6",
+      "snapshotItems": 17,
+      "productionApplied": 17,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-d86ef97205e2fcc2",
+      "label": "ぴくりる! FGO 亚克力立牌 vol.5",
+      "snapshotItems": 16,
+      "productionApplied": 16,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
+  "candidates": 33,
+  "productionApplied": 33,
+  "batches": 2,
+  "pendingEvidence": 0,
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
+  "unresolved": [],
+  "limitations": [
+    "两组各10种，33条是来源记录数量；13组同款多来源未合并",
+    "尺寸仅系列共通约值，未写逐款精确尺寸",
+    "官方原配底座不保证二手附属品齐全；未更新库存",
+    "未增加完整核实商品或系列"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 102,
+  "deploymentId": "appgdep_6af4b526f1488191aae236069865ba00",
+  "siteVersion": 70,
+  "previousOutstanding": "../../series-evidence-20261110/extella-wafer3/resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮2批33条及此前EXTELLA/威化3的2批38条、全部历史成功动作禁止重放。",
+  "note": "全部原认可、旧证据、JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。前轮隐藏角色及全部历史待查继续沿用。"
+}

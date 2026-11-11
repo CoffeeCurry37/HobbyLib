@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-11T16:26:05.015Z",
+  "at": "2026-11-11T18:36:55.133Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 55,
-  "seriesAwaitingItemReview": 1793,
+  "seriesWithItemReview": 57,
+  "seriesAwaitingItemReview": 1791,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6700,
-  "productionApplied": 4902,
+  "coveredSnapshotItems": 6733,
+  "productionApplied": 4935,
   "protectedExisting": 9,
   "pendingEvidence": 1788,
   "freshVersionSkips": 1,
@@ -569,9 +569,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-4c96c482cd244d03",
+      "label": "ぴくりる! FGO 亚克力立牌 vol.6",
+      "snapshotItems": 17,
+      "productionApplied": 17,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-d86ef97205e2fcc2",
+      "label": "ぴくりる! FGO 亚克力立牌 vol.5",
+      "snapshotItems": 16,
+      "productionApplied": 16,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261110/extella-wafer3/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261111/pikuriru/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6
