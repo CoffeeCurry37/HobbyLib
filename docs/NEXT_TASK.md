@@ -4,23 +4,23 @@
 
 ## 最新断点
 
-截至 2026-11-11，累计已逐件检查 55 个系列的 6,700 条候选，4,902 条有效记录已补齐简介和来源。1,788 条仍待补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,793 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-11，累计已逐件检查 57 个系列的 6,733 条候选，4,935 条有效记录已补齐简介和来源。1,788 条仍待补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,791 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮按顺序检查 Fate/EXTELLA 24条和威化第3弹17条，共41条。38条分2批正式补充并逐条完整读回，3条拍卖记录保留待查，版本跳过0。仅补空缺简介并追加证据，原证据、认可资料、个人字段、图片、挂牌、历史、关系及偏好保留。Sites 70，环境修订100；维护入口已实测 HTTP 401 关闭。
+本轮按顺序检查ぴくりる! FGO亚克力立牌vol.6的17条和vol.5的16条，共33条。33条分2批正式补充并逐条完整读回，新增待查0条，版本跳过0。仅补空缺简介并追加证据，原认可资料、旧证据、原名、JAN、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订102；维护入口已实测 HTTP 401 关闭。
 
-EXTELLA补充21条：REGALIA按PS4/Vita官方专页分别对应，VELBER说明双平台原配，缺件和旧证据不改；Celebration官方确实同捆EXTELLA与LINK，保留独立游戏身份。3条拍卖缺少可核对版本或实物绑定。威化第3弹17条补充中，No.25仅确认官方SSR隐藏款标签，角色身份仍待查；已补简介不等于完整核实。
+两组各10种普通款，33条是现有来源记录数量；13组同款多来源未合并。13条已有JAN与厂商单品一致，其余按厂商、作品、立牌种类、vol及完整职阶/角色对应，空JAN保留。尺寸为角色间有差异的约值，未写逐款精确尺寸；两组套购特典未混入普通单品。原配底座不承诺二手齐全，未更新库存或完整核实状态。
 
-[本轮报告](../research/series-evidence-20261110/extella-wafer3/README.md) · [正式断点](../research/series-evidence-20261110/extella-wafer3/resume.json) · [生产读回](../research/series-evidence-20261110/extella-wafer3/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
+[本轮报告](../research/series-evidence-20261111/pikuriru/README.md) · [正式断点](../research/series-evidence-20261111/pikuriru/resume.json) · [生产读回](../research/series-evidence-20261111/pikuriru/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
 
 ## 下一步
 
-1. 下一批先补查ぴくりる! FGO亚克力立牌vol.6的17条，再查vol.5的16条。HOBBY STOCK单款及专题入口已定位，仍需逐件核对角色、职阶、JAN及版本；17/16条来源记录不代表17/16种角色，不自动合并重复来源。套购特典与单品分开，共通约值不当作每款精确尺寸。 见[下批来源和范围](../research/series-evidence-20261110/extella-wafer3/next-sources.json)。
-2. EXTELLA的3条拍卖需要原详情、版本标志或独立实物绑定；不能将多游戏挂牌当官方套装，也不能用制造商共通介绍消除包装身份缺口。见[待查清单](../research/series-evidence-20261110/extella-wafer3/pending.json)。
-3. 威化第3弹No.25已有“SSR シークレット”官方标签，但角色仍待独立卡背/款式证据。见[未决字段](../research/series-evidence-20261110/extella-wafer3/field-pending.json)；不得猜名或将补简介算作完整核实。
-4. 大量匿名威化组继续排队，旧占位编号不是印刷卡号。特别弹2025的23条已保存ST/SST清单，缺旧ID对应，见[上一轮待查](../research/series-evidence-20261110/wafers/pending.json)。不要重复抓总目录冒充解决映射。
-5. 电击漫画19条中18条、西脇Fate/stay night漫画20条已有认可简介，保留不重查；西脇派生21条需先核对历史映射。来源发现不计为本轮逐件完成。
-6. 书目/音像已补34条、保留6条V6简介、待查10条；票券/贴纸6条及十周年一番赏款式缺口沿用[历史断点](../research/series-evidence-20261105/books-media/resume.json)及其链。全部成功批次禁止重放。
-7. AnimeJapan2019文件夹尺寸冲突、原画集预定页数及不明组合数量继续待查。AnimeJapan2026为Fate/strange Fake的更正有效，ルギマート用途冲突仍需包装或厂商单件说明。
+1. 下一批先补查マジキュー4コマ Fate/stay night CLIMAX!的16条，再查FGO英霊剣豪七番勝負15条。KADOKAWA与讲谈社官方书目入口已定位；逐件核对ISBN、纸本/电子媒介、卷次、套装派生成员和目录范围，不能把单卷书号套给目录或组合。 见[下批来源和范围](../research/series-evidence-20261111/pikuriru/next-sources.json)。CLIMAX!本轮候选为15单卷加目录，第9卷不在候选中，不因编号间断新增商品。
+2. 英霊剣豪七番勝負的15条混有零售、套装派生单卷及目录。先核对同卷不同来源是否明确纸本；不能把5/6卷书号或页数套给其他卷，也不自动归并重复。
+3. 本轮立牌33条已全部补充，13组同款多来源保持原ID与个人状态，见[对应记录](../research/series-evidence-20261111/pikuriru/same-style-records.json)。不可重放或据此直接合并。
+4. 上一轮EXTELLA的3条拍卖需要原详情、版本标志或独立实物绑定；威化3 No.25仅确认SSR隐藏款，角色仍待独立卡背证据。见[前轮断点](../research/series-evidence-20261110/extella-wafer3/resume.json)。
+5. 大量匿名威化组继续排队，旧占位编号不是印刷卡号。特别弹2025的23条已保存ST/SST清单，缺旧ID对应，见[匿名占位待查](../research/series-evidence-20261110/wafers/pending.json)。不能重复抓总目录冒充解决映射。
+6. 电击漫画19条中18条、西脇Fate/stay night漫画20条、Apocrypha漫画16条已有认可简介，保留不重查；西脇派生21条需先核对历史映射。来源发现不计为逐件完成。
+7. 书目/音像10条、票券/贴纸6条及一番赏等历史缺口沿用[书目/音像断点](../research/series-evidence-20261105/books-media/resume.json)与其链。AnimeJapan2019尺寸冲突、原画集预定页数、ルギマート用途冲突仍待明确来源；AnimeJapan2026为Fate/strange Fake的更正有效。
 
 ## 执行规则
 
@@ -35,13 +35,14 @@ EXTELLA补充21条：REGALIA按PS4/Vita官方专页分别对应，VELBER说明�
 
 ## 禁止重放
 
-本轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
+本轮立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
 
 V6的477批9,531条变更及25组合并、旧32条、五边和001–006均禁止重放。最新正式库：34,999有效 / 8,575归档 / 1,823关联；个人数据保护不变。
 
 [主要记忆](PROJECT_MEMORY.md) · [V6规范](RECOGNITION_V6.md) · [正式整理报告](../research/production-v6-20261102/REPORT.md)。
 
 本轮授权为实际研究与安全接续；不额外接入收费模型或设置常驻任务。历史停止条件不覆盖新的用户请求。
+
 
 
 
