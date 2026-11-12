@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-12T06:13:52.310Z",
+  "at": "2026-11-12T06:18:48.792Z",
   "items": [
     {
       "itemId": "281c9f1b-94e0-4b64-aff0-74ff96cc2614",
@@ -10,7 +10,8 @@
       ],
       "reason": "原来源明确单包身份，但本轮详情页不可读；厂商当前页面为BOX规格，不把BOX数量/条码下放单包。",
       "next": "有对应单包详情或明确包装照片后补充。",
-      "safeSummaryPrepared": true
+      "safeSummaryPrepared": true,
+      "appliedSafeSummary": true
     },
     {
       "itemId": "86f56cb1-0592-4016-924e-f25637827048",
@@ -21,7 +22,8 @@
       ],
       "reason": "原来源明确单包身份，但本轮详情页不可读；厂商当前页面为BOX规格，不把BOX数量/条码下放单包。",
       "next": "有对应单包详情或明确包装照片后补充。",
-      "safeSummaryPrepared": true
+      "safeSummaryPrepared": true,
+      "appliedSafeSummary": true
     }
   ],
   "note": "2条单包可补系列及身份简介，封入枚数和条码仍未确认；不计为未写入候选，不代表完整核实。"

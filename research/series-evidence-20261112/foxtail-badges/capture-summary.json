@@ -1,12 +1,13 @@
 {
-  "captureReceipts": 22,
-  "uniqueUrls": 22,
+  "captureReceipts": 25,
+  "uniqueUrls": 25,
   "statuses": {
-    "captured": 16,
+    "captured": 19,
     "unavailable": 6
   },
-  "requests": 17,
+  "recordedRequests": 20,
   "cacheHits": 5,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "仅已落盘采集回执，含下批3个入口。6个骏河屋详情不可读，不绕过；2份全套资料为网页搜索索引观察，其JSON哈希不是原HTML。新增厂商域名前有一次采集进程前置中断，可能发起但未落盘的请求及网页工具次数不计在recordedRequests；实际费用不可用。",
+  "evidenceScope": "本轮正式采用13个角川单卷书目、2个HOBBY STOCK商品页及专题入口，另用2份同编号零售全套索引观察。"
 }

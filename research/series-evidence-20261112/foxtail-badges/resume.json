@@ -1,24 +1,62 @@
 {
-  "at": "2026-11-12T06:14:43.638Z",
-  "stage": "prepared-no-production-write",
+  "at": "2026-11-12T06:18:48.792Z",
+  "completedLocalDate": "2026-11-12",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-f72558fd519ee9da",
+      "label": "フェイト/エクストラ CCC FoxTail",
+      "snapshotItems": 14,
+      "productionApplied": 14,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-dfa688e9c60ed886",
+      "label": "ぴくりる! FGO トレーディング缶バッジ vol.5",
+      "snapshotItems": 14,
+      "productionApplied": 14,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-c8d09b5e8f38e635",
+      "label": "ぴくりる! FGO トレーディング缶バッジ vol.6",
+      "snapshotItems": 14,
+      "productionApplied": 14,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
   "candidates": 42,
-  "prepared": 42,
+  "productionApplied": 42,
+  "batches": 3,
   "pendingEvidence": 0,
   "protectedExisting": 0,
+  "freshVersionSkips": 0,
   "fieldPendingRecords": 2,
-  "productionApplied": 0,
-  "simulationPassed": true,
-  "batches": 3,
-  "order": [
-    "foxtail:14",
-    "vol5:14",
-    "vol6:14"
+  "fieldPendingFile": "field-pending.json",
+  "limitations": [
+    "FoxTail为13个纸本单卷和1个逻辑目录，不声明完结或初版印次",
+    "徽章20单款/2单包/4条BOX来源/2零售全套分别保留；原JAN为空的继续为空",
+    "2条单包封入枚数和专属JAN仍未确认，只补明确身份与系列规格",
+    "两组店铺BOX特典均未混入普通款；不保证二手包装/附件，不更新库存",
+    "完整核实商品及系列仍为0"
   ],
-  "next": "使用冻结的20+20+2计划，先读取每个目标完整当前版本，再写入/读回。中断时先核成功回执和当前状态，禁止重放。最后关闭入口并实测401。",
-  "previous": "../../series-evidence-20261111/climax-kengou/resume.json",
+  "maintenanceClosed": true,
+  "environmentRevision": 107,
+  "deploymentId": "appgdep_6af559b1b0d48191a2a4b21726953c9f",
   "siteVersion": 70,
-  "environmentRevision": 105,
-  "fullProductVerified": 0,
-  "fullSeriesVerified": 0
+  "preparedCommit": "bb04885aeada292f058cebe3a477511ee5666b84",
+  "previousOutstanding": "../../series-evidence-20261111/climax-kengou/resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮3批42条、此前CLIMAX/英霊剣豪31条、立牌33条以及全部历史成功动作禁止重放。",
+  "note": "原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。CLIMAX8条规格缺口等全部历史待查沿用。"
 }
-

@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-12T06:05:14.273Z",
+  "at": "2026-11-12T06:18:48.792Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 59,
-  "seriesAwaitingItemReview": 1789,
+  "seriesWithItemReview": 62,
+  "seriesAwaitingItemReview": 1786,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6764,
-  "productionApplied": 4966,
+  "coveredSnapshotItems": 6806,
+  "productionApplied": 5008,
   "protectedExisting": 9,
   "pendingEvidence": 1788,
   "freshVersionSkips": 1,
@@ -609,9 +609,39 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-f72558fd519ee9da",
+      "label": "フェイト/エクストラ CCC FoxTail",
+      "snapshotItems": 14,
+      "productionApplied": 14,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-dfa688e9c60ed886",
+      "label": "ぴくりる! FGO トレーディング缶バッジ vol.5",
+      "snapshotItems": 14,
+      "productionApplied": 14,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-c8d09b5e8f38e635",
+      "label": "ぴくりる! FGO トレーディング缶バッジ vol.6",
+      "snapshotItems": 14,
+      "productionApplied": 14,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261111/climax-kengou/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261112/foxtail-badges/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6

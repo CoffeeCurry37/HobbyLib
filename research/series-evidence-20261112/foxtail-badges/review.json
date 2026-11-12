@@ -1,6 +1,6 @@
 {
   "at": "2026-11-12T06:13:57.086Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 42,
   "prepared": 42,
   "pending": 0,
@@ -15,12 +15,12 @@
         "https://www.kadokawa.co.jp/product/322509000886/"
       ],
       "scope": "13个单卷加逻辑目录；既有ISBN及官方URL可定位，逐卷核对卷次/媒介/作者，不与ろび～な的EXTRA或CCC漫画混淆。官方商品页与商店系列列表日期有差异时保留来源精度，不猜初版印次。",
-      "status": "official-source-discovery-only",
       "key": "foxtail",
       "reviewed": 14,
       "ready": 14,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     },
     {
       "groupId": "series-dfa688e9c60ed886",
@@ -31,12 +31,12 @@
         "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html"
       ],
       "scope": "10普通单款、单包、整盒、全10种零售套装及另一来源BOX分别核查；不能把包装JAN、套购特典或立牌资料赋予普通徽章。",
-      "status": "official-source-discovery-only",
       "key": "vol5",
       "reviewed": 14,
       "ready": 14,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     },
     {
       "groupId": "series-c8d09b5e8f38e635",
@@ -47,16 +47,19 @@
         "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html"
       ],
       "scope": "与vol.5同样区分单款/单包/BOX/零售全套；本组是徽章，不能复用已完成亚克力立牌的规格。",
-      "status": "official-source-discovery-only",
       "key": "vol6",
       "reviewed": 14,
       "ready": 14,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified"
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 42,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-12T06:18:48.792Z",
+  "fieldPendingRecords": 2
 }

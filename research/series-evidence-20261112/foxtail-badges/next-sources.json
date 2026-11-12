@@ -1,0 +1,137 @@
+{
+  "at": "2026-11-12T06:18:48.792Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-8c95f4466ea6ff11",
+      "label": "衛宮さんちの今日のごはん",
+      "candidates": 13,
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321609000448/",
+        "https://www.kadokawa.co.jp/product/322509001237/"
+      ],
+      "scope": "12个已有ISBN纸本单卷加逻辑目录；逐卷核对书号/媒介/卷号。与配方书、画集或环保袋特装版及电子版分开，不把特装附件写入普通卷。",
+      "status": "official-source-discovery-only"
+    },
+    {
+      "groupId": "series-0faa7b7d365e6d46",
+      "label": "FGO きゃらとりあ缶 Vol.22",
+      "candidates": 13,
+      "sources": [
+        "https://market.algernonproduct.co.jp/items/149340313"
+      ],
+      "scope": "10个具名徽章、单包、BOX和零售全套分别核对；官方商店有角色标签、素材与尺寸入口，但尚未逐条绑定。保留服装括注，注意同角色亚克力商品；BOX封入数量/完整性需独立确认。",
+      "status": "official-source-discovery-only"
+    }
+  ],
+  "observations": [
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321609000448/",
+        "at": "2026-11-12T06:17:53.351Z",
+        "sha256": "1ddebc6aa5232ffc1558465923e9a843fd02032b06d0ea89c53077774f946f84"
+      },
+      "officialTitle": "「衛宮さんちの今日のごはん (1)」TAa [角川コミックス・エース] - KADOKAWA",
+      "isbn": "9784041052310",
+      "scope": "仅官方入口发现；未逐件补证，不计入完成或生产补充"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322509001237/",
+        "at": "2026-11-12T06:17:54.256Z",
+        "sha256": "524ae673d5b218e426e1e0a711043541011ff44a9eee9e93af1f5237106e99ca"
+      },
+      "officialTitle": "「衛宮さんちの今日のごはん (12)」TAa [角川コミックス・エース] - KADOKAWA",
+      "isbn": "9784041170380",
+      "scope": "仅官方入口发现；未逐件补证，不计入完成或生产补充"
+    },
+    {
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX | あるじゃんマーケット",
+      "scope": "仅官方入口发现；未逐件补证，不计入完成或生产补充"
+    }
+  ],
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-9cd624974209cc26",
+      "label": "Fate/Apocrypha 漫画版",
+      "candidates": 16,
+      "protectedSnapshot": 16,
+      "reason": "原快照16条已有认可简介，保留不重查"
+    },
+    {
+      "groupId": "series-774a4872988f96e5",
+      "label": "新宿幻霊事件",
+      "candidates": 16,
+      "protectedSnapshot": 7,
+      "reason": "含7条已有认可简介及派生成员，后续先做身份映射；本轮不重查认可资料"
+    }
+  ],
+  "pendingFirst": "本轮单包封入枚数/专属JAN、CLIMAX1～8卷页数/开本及所有历史待查继续保留；有独立证据再补。",
+  "nextRule": "先衛宮さんちの今日のごはん13条，再FGOきゃらとりあ缶Vol.22的13条；原认可资料不重查。",
+  "productionApplied": 0
+}

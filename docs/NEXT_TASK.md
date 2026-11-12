@@ -1,27 +1,23 @@
-> 本轮进行中：CCC FoxTail、ぴくりる徽章vol.5/6各14条，42条已完成证据匹配和隔离验证，尚未正式写入；两条单包的封入枚数和专属JAN仍待查。见[冻结断点](../research/series-evidence-20261112/foxtail-badges/resume.json)，先核回执与当前版本，历史成功批次禁止重放。
-
 # 当前任务：系列补证（2026-11-03 启动）
 
 用户授权：从 GitHub 断点按已确定顺序补证，优先官方来源明确、覆盖商品多的系列；有明确证据才写入，无法确认的保留待查，保留已认可资料，及时保存 GitHub 进度。该任务接续已完成 V6，不重放旧迁移。
 
 ## 最新断点
 
-截至 2026-11-12，累计已逐件检查 59 个系列的 6,764 条候选，4,966 条有效记录已补齐简介和来源。1,788 条仍待补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,789 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-12，累计已逐件检查 62 个系列的 6,806 条候选，5,008 条有效记录已补齐简介和来源。1,788 条仍待补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,786 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮按顺序完成CLIMAX!四格漫画16条及英霊剣豪七番勝負15条，共31条，分20+11两批正式补充并逐条完整读回，无版本跳过。只补空缺简介并追加两条证据，原认可资料、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订105；维护入口已实测 HTTP 401 关闭。
+本轮依次完成CCC FoxTail、ぴくりる! FGO徽章vol.5和vol.6，各14条，共42条；分20+20+2三批正式补充并完整读回，无版本跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订107；维护入口已实测 HTTP 401 关闭。
 
-CLIMAX!为15个单卷和1个逻辑目录，15个原ISBN均与角川官方书目对应；候选无第9卷，不新增。第1～8卷的页数及具体开本仍待查，安全简介已补，不类推其他卷规格。英霊剣豪14条单卷来源记录对应1～6卷，另有1个目录；其中6条原套装派生成员由骏河屋WK13629明确的1～6卷纸本套装佐证，并逐卷核对讲谈社纸版书目。同卷多来源保持独立；电子版、套装日期/价格及初版印次不混入。
+FoxTail的13个纸本单卷均与角川书目卷号、ISBN和页数精确对应，另补1个逻辑目录。两组徽章共20个普通单款、2单包、4条BOX来源和2个零售全套，分别保留。2条Amiami BOX的原JAN与厂商BOX一致；空JAN不填，店铺特典不混入普通款，同款来源不合并。两条单包的封入枚数、专属JAN仍待查，只补明确身份与系列规格；不保证二手原封或附属品完整，不更新库存。
 
-11月11日冻结计划后，正式写入前自动审批因额度无法完成，动作未执行；11月12日从同一计划恢复并完成，成功动作只计一次。
-
-[本轮报告](../research/series-evidence-20261111/climax-kengou/README.md) · [正式断点](../research/series-evidence-20261111/climax-kengou/resume.json) · [生产读回](../research/series-evidence-20261111/climax-kengou/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
+[本轮报告](../research/series-evidence-20261112/foxtail-badges/README.md) · [正式断点](../research/series-evidence-20261112/foxtail-badges/resume.json) · [生产读回](../research/series-evidence-20261112/foxtail-badges/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
 
 ## 下一步
 
-1. 下一批先补查CCC FoxTail的14条，再查ぴくりる! FGO徽章vol.5和vol.6各14条。官方书目与厂商商品入口已定位；区分纸本单卷与目录、徽章单款与单包/BOX/零售全套，不把包装JAN或店铺特典套给普通单款。 见[下批来源和范围](../research/series-evidence-20261111/climax-kengou/next-sources.json)。本轮未写这42条。
-2. CLIMAX!第1～8卷的页数和开本继续[字段待查](../research/series-evidence-20261111/climax-kengou/field-pending.json)，它们已补安全简介，不计为未写入记录，也不等于完整核实。
-3. 此前立牌33条已全部补充，13组同款多来源保持原ID与个人状态，见[对应记录](../research/series-evidence-20261111/pikuriru/same-style-records.json)。不可重放或据此直接合并。
-4. EXTELLA的3条拍卖需要原详情、版本标志或独立实物绑定；威化3 No.25仅确认SSR隐藏款，角色仍待独立卡背证据。见[历史断点](../research/series-evidence-20261110/extella-wafer3/resume.json)。
+1. 下一批先补查衛宮さんちの今日のごはん13条，再查FGOきゃらとりあ缶Vol.22的13条。角川书目和厂商自营商店入口已定位；单卷/目录、普通版/特装版、具名徽章/单包/BOX/零售全套须分别核对。 见[下批来源和范围](../research/series-evidence-20261112/foxtail-badges/next-sources.json)。这26条仅定位入口，尚未逐条补证。
+2. 两条徽章单包的封入枚数、专属JAN继续[字段待查](../research/series-evidence-20261112/foxtail-badges/field-pending.json)；不能把厂商BOX参数或零售全套条码下放。6个零售详情本轮不可读，保留原来源；全套另有相同管理编号的可读索引佐证。
+3. CLIMAX!第1～8卷的页数和开本继续[字段待查](../research/series-evidence-20261111/climax-kengou/field-pending.json)。这些记录与本轮单包均已补安全简介，但不代表完整核实。
+4. 此前立牌33条及本轮两组BOX同款来源保持原ID；不自动归并。EXTELLA的3条拍卖仍需版本或实物绑定，威化3 No.25角色仍待独立卡背证据，见[历史断点](../research/series-evidence-20261110/extella-wafer3/resume.json)。
 5. 匿名威化旧占位编号不是印刷卡号。特别弹2025的23条已有ST/SST清单但缺旧ID对应，见[匿名占位待查](../research/series-evidence-20261110/wafers/pending.json)；不能重复抓总目录冒充解决映射。
 6. 电击漫画19条中18条、西脇Fate/stay night漫画20条、Apocrypha漫画16条已有认可简介，保留不重查；西脇派生21条及新宿派生成员先核对映射。来源发现不计为逐件完成。
 7. 书目/音像10条、票券/贴纸6条及一番赏等历史缺口沿用[书目/音像断点](../research/series-evidence-20261105/books-media/resume.json)与其链。AnimeJapan2019尺寸冲突、原画集预定页数、ルギマート用途冲突仍待明确来源；AnimeJapan2026为Fate/strange Fake的更正有效。
@@ -39,13 +35,14 @@ CLIMAX!为15个单卷和1个逻辑目录，15个原ISBN均与角川官方书目�
 
 ## 禁止重放
 
-本轮CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
+本轮FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
 
 V6的477批9,531条变更及25组合并、旧32条、五边和001–006均禁止重放。最新正式库：34,999有效 / 8,575归档 / 1,823关联；个人数据保护不变。
 
 [主要记忆](PROJECT_MEMORY.md) · [V6规范](RECOGNITION_V6.md) · [正式整理报告](../research/production-v6-20261102/REPORT.md)。
 
 本轮授权为实际研究与安全接续；不额外接入收费模型或设置常驻任务。历史停止条件不覆盖新的用户请求。
+
 
 
 
