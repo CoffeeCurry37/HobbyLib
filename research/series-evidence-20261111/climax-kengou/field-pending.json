@@ -1,0 +1,142 @@
+{
+  "at": "2026-11-12T06:05:14.273Z",
+  "items": [
+    {
+      "itemId": "source-44286b8ab12fb2ce7cd3331dc83a03f1",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(3)",
+      "volume": 3,
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003235/",
+        "at": "2026-11-11T19:37:51.203Z",
+        "sha256": "4f23abcd05d42cee992f708ca50b6d129d08b30d559e892954980a0d181aae75"
+      },
+      "appliedSafeSummary": true,
+      "unconfirmedFields": [
+        "页数",
+        "具体开本"
+      ],
+      "reason": "官方书目未明确页数且开本为その他，不把其他卷A5/112页类推。",
+      "next": "有独立出版社资料、版权页或明确对应ISBN的实物来源后再补。"
+    },
+    {
+      "itemId": "source-47c5ff58f8f110acc796b41141886c98",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(8)",
+      "volume": 8,
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003559/",
+        "at": "2026-11-11T19:37:51.758Z",
+        "sha256": "297618b073c7bde8075ec4de1693c1629a83315d6a91b16afd4287a7429e6fb6"
+      },
+      "appliedSafeSummary": true,
+      "unconfirmedFields": [
+        "页数",
+        "具体开本"
+      ],
+      "reason": "官方书目未明确页数且开本为その他，不把其他卷A5/112页类推。",
+      "next": "有独立出版社资料、版权页或明确对应ISBN的实物来源后再补。"
+    },
+    {
+      "itemId": "source-58876c53280607e9e0bd6720e4fa726d",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(2)",
+      "volume": 2,
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003193/",
+        "at": "2026-11-11T19:37:52.870Z",
+        "sha256": "bf50063dc272bd8c2c22f9eb9501fb3a1609e7d5b2fce10d8178c63a90ff3ff3"
+      },
+      "appliedSafeSummary": true,
+      "unconfirmedFields": [
+        "页数",
+        "具体开本"
+      ],
+      "reason": "官方书目未明确页数且开本为その他，不把其他卷A5/112页类推。",
+      "next": "有独立出版社资料、版权页或明确对应ISBN的实物来源后再补。"
+    },
+    {
+      "itemId": "source-6aff2375b15b99bf8993e219a6aaf3fd",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(5)",
+      "volume": 5,
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003351/",
+        "at": "2026-11-11T19:37:53.929Z",
+        "sha256": "fc9459dbecca95ebeca06c8638786aeb02b5b9277f75a358d220ca67ceaa4fb8"
+      },
+      "appliedSafeSummary": true,
+      "unconfirmedFields": [
+        "页数",
+        "具体开本"
+      ],
+      "reason": "官方书目未明确页数且开本为その他，不把其他卷A5/112页类推。",
+      "next": "有独立出版社资料、版权页或明确对应ISBN的实物来源后再补。"
+    },
+    {
+      "itemId": "source-8280a11a6dbf7f3bd7a1e3324ab380d3",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(6)",
+      "volume": 6,
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003385/",
+        "at": "2026-11-11T19:37:56.890Z",
+        "sha256": "d49f2910b56f94b12a8f8d8676f8f00f74aeaef177665c37f33321051c8075a7"
+      },
+      "appliedSafeSummary": true,
+      "unconfirmedFields": [
+        "页数",
+        "具体开本"
+      ],
+      "reason": "官方书目未明确页数且开本为その他，不把其他卷A5/112页类推。",
+      "next": "有独立出版社资料、版权页或明确对应ISBN的实物来源后再补。"
+    },
+    {
+      "itemId": "source-85b3b65a7860c9f95d9f51b217550395",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(1)",
+      "volume": 1,
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003124/",
+        "at": "2026-11-11T18:35:23.264Z",
+        "sha256": "dc9a54cda3b3b158b49eecbac3ba9ed3b2b7d4ebea2be6ac7b3b2aaba40e9d82"
+      },
+      "appliedSafeSummary": true,
+      "unconfirmedFields": [
+        "页数",
+        "具体开本"
+      ],
+      "reason": "官方书目未明确页数且开本为その他，不把其他卷A5/112页类推。",
+      "next": "有独立出版社资料、版权页或明确对应ISBN的实物来源后再补。"
+    },
+    {
+      "itemId": "source-a19496ad4d2d6dee53158885952abcca",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(4)",
+      "volume": 4,
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003278/",
+        "at": "2026-11-11T19:37:57.647Z",
+        "sha256": "78c28f90b39a79176ee154179a5ec27ca0d2dfd63d29dc665c429345a6ef8815"
+      },
+      "appliedSafeSummary": true,
+      "unconfirmedFields": [
+        "页数",
+        "具体开本"
+      ],
+      "reason": "官方书目未明确页数且开本为その他，不把其他卷A5/112页类推。",
+      "next": "有独立出版社资料、版权页或明确对应ISBN的实物来源后再补。"
+    },
+    {
+      "itemId": "source-ebc6bdaef8b79359b3cb8dc134612b9a",
+      "title": "マジキュー4コマ Fate/stay night CLIMAX!(7)",
+      "volume": 7,
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200700003475/",
+        "at": "2026-11-11T19:38:00.097Z",
+        "sha256": "3b23a510b8f827dec35ed14918d5ad89ad300071ac45eda90593498b4afcc73b"
+      },
+      "appliedSafeSummary": true,
+      "unconfirmedFields": [
+        "页数",
+        "具体开本"
+      ],
+      "reason": "官方书目未明确页数且开本为その他，不把其他卷A5/112页类推。",
+      "next": "有独立出版社资料、版权页或明确对应ISBN的实物来源后再补。"
+    }
+  ],
+  "note": "8条已补安全简介，但规格仍有缺口；不重复计作未写入候选，不代表完整核实。"
+}

@@ -1,11 +1,12 @@
 {
-  "captureReceipts": 46,
-  "uniqueUrls": 44,
+  "captureReceipts": 50,
+  "uniqueUrls": 48,
   "statuses": {
-    "captured": 46
+    "captured": 50
   },
-  "requests": 41,
-  "cacheHits": 5,
+  "requests": 44,
+  "cacheHits": 6,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "含最初导航发现及下一批4个官方入口；导航抓取包含非目标系列，全部排除逐条证据。公开网页观察另计，其JSON哈希不是原HTML哈希。无收费模型调用，实际费用不可用。",
+  "evidenceScope": "本轮正式依据21个官方单卷页、1个官方系列页及1份骏河屋可读观察；下一批只作来源发现。"
 }

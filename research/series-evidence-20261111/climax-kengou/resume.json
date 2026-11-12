@@ -1,21 +1,53 @@
 {
-  "at": "2026-11-11T19:45:00.248Z",
-  "stage": "prepared-no-production-write",
-  "order": [
-    "climax:16",
-    "kengou:15"
+  "at": "2026-11-12T06:05:14.273Z",
+  "completedLocalDate": "2026-11-12",
+  "timezone": "America/Chicago",
+  "researchLocalDate": "2026-11-11",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-93d25632dbaa49e6",
+      "label": "マジキュー4コマ Fate/stay night CLIMAX!",
+      "snapshotItems": 16,
+      "productionApplied": 16,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-2b6dbd370b1c0da3",
+      "label": "FGO 英霊剣豪七番勝負",
+      "snapshotItems": 15,
+      "productionApplied": 15,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
   ],
   "candidates": 31,
-  "prepared": 31,
+  "productionApplied": 31,
+  "batches": 2,
   "pendingEvidence": 0,
   "protectedExisting": 0,
-  "productionApplied": 0,
-  "simulationPassed": true,
-  "next": "应用已冻结的31条计划前先读当前版本；20+11两批，每批完整读回，最终关闭维护入口并验证HTTP401。失败或中断先查本地回执及正式库，禁止重放已成功批次。",
-  "previous": "../pikuriru/resume.json",
+  "freshVersionSkips": 0,
+  "fieldPendingRecords": 8,
+  "fieldPendingFile": "field-pending.json",
+  "limitations": [
+    "CLIMAX为15个单卷和1个逻辑目录，候选无第9卷，不新增",
+    "英霊剣豪14条单卷来源对应6卷，含6条原套装派生成员；同卷多来源不合并",
+    "电子版字段、套装日期/价格、初版印次不写入单卷",
+    "完整核实商品及系列仍为0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 105,
+  "deploymentId": "appgdep_6af5568b1fbc8191bbed1e38a00e2a02",
   "siteVersion": 70,
-  "environmentRevision": 102,
-  "fullProductVerified": 0,
-  "fullSeriesVerified": 0
+  "previousOutstanding": "../../series-evidence-20261110/extella-wafer3/resume.json",
+  "previousCompleted": "../pikuriru/resume.json",
+  "nextSources": "next-sources.json",
+  "interruption": "11月11日冻结后，正式写入前自动审批因额度无法完成，动作未执行；11月12日按同一冻结计划恢复，未发现旧成功回执；先读取当前版本再补入。",
+  "doNotReplay": "本轮2批31条及此前立牌33条、EXTELLA/威化3的38条与全部历史成功动作禁止重放。",
+  "note": "原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。所有历史待查继续沿用。"
 }
-

@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-11T18:36:55.133Z",
+  "at": "2026-11-12T06:05:14.273Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 57,
-  "seriesAwaitingItemReview": 1791,
+  "seriesWithItemReview": 59,
+  "seriesAwaitingItemReview": 1789,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6733,
-  "productionApplied": 4935,
+  "coveredSnapshotItems": 6764,
+  "productionApplied": 4966,
   "protectedExisting": 9,
   "pendingEvidence": 1788,
   "freshVersionSkips": 1,
@@ -589,9 +589,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-93d25632dbaa49e6",
+      "label": "マジキュー4コマ Fate/stay night CLIMAX!",
+      "snapshotItems": 16,
+      "productionApplied": 16,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-2b6dbd370b1c0da3",
+      "label": "FGO 英霊剣豪七番勝負",
+      "snapshotItems": 15,
+      "productionApplied": 15,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261111/pikuriru/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261111/climax-kengou/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6

@@ -1,0 +1,163 @@
+{
+  "at": "2026-11-12T06:05:14.273Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-f72558fd519ee9da",
+      "label": "フェイト/エクストラ CCC FoxTail",
+      "candidates": 14,
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321311000121/",
+        "https://www.kadokawa.co.jp/product/322509000886/"
+      ],
+      "scope": "13个单卷加逻辑目录；既有ISBN及官方URL可定位，逐卷核对卷次/媒介/作者，不与ろび～な的EXTRA或CCC漫画混淆。官方商品页与商店系列列表日期有差异时保留来源精度，不猜初版印次。",
+      "status": "official-source-discovery-only"
+    },
+    {
+      "groupId": "series-dfa688e9c60ed886",
+      "label": "ぴくりる! FGO トレーディング缶バッジ vol.5",
+      "candidates": 14,
+      "sources": [
+        "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html"
+      ],
+      "scope": "10普通单款、单包、整盒、全10种零售套装及另一来源BOX分别核查；不能把包装JAN、套购特典或立牌资料赋予普通徽章。",
+      "status": "official-source-discovery-only"
+    },
+    {
+      "groupId": "series-c8d09b5e8f38e635",
+      "label": "ぴくりる! FGO トレーディング缶バッジ vol.6",
+      "candidates": 14,
+      "sources": [
+        "https://www.hobbystock.jp/item/view/hso-ccg-00015298?ga=sm_fgo",
+        "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html"
+      ],
+      "scope": "与vol.5同样区分单款/单包/BOX/零售全套；本组是徽章，不能复用已完成亚克力立牌的规格。",
+      "status": "official-source-discovery-only"
+    }
+  ],
+  "indexSource": {
+    "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+    "at": "2026-11-11T18:28:33.987Z",
+    "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+  },
+  "observations": [
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321311000121/",
+        "at": "2026-11-12T06:04:10.441Z",
+        "sha256": "c89a25b12e424ec0795dcec70762991cc551facb3973b4b07eb3c1e67c07451d"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (1)",
+      "isbn": "9784041210550",
+      "scope": "仅确认官方入口及标题/书号；下批逐件审查，不计为本轮补证或完整核实"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322509000886/",
+        "at": "2026-11-12T06:04:11.321Z",
+        "sha256": "ffe1808758a819504df7a9d9bf9b8ac998d8538cebb25a6f2194297773809ea3"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (13)",
+      "isbn": "9784041170090",
+      "scope": "仅确认官方入口及标题/书号；下批逐件审查，不计为本轮补证或完整核实"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "officialTitle": "【HS特典付き】ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX|ホビーの総合通販サイト ホビーストック",
+      "scope": "仅确认官方入口及标题/书号；下批逐件审查，不计为本轮补证或完整核实"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015298?ga=sm_fgo",
+        "at": "2026-11-12T06:04:10.519Z",
+        "sha256": "e1388acb5a453b64090b9a3db2ce41be11c6c523f5d3e1ca1cd168dfcc430b72"
+      },
+      "officialTitle": "【HS特典付き】ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.6 10個入り1BOX|ホビーの総合通販サイト ホビーストック",
+      "scope": "仅确认官方入口及标题/书号；下批逐件审查，不计为本轮补证或完整核实"
+    }
+  ],
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-9cd624974209cc26",
+      "label": "Fate/Apocrypha 漫画版",
+      "candidates": 16,
+      "protectedSnapshot": 16,
+      "reason": "原快照16条已有认可简介，保留不重查"
+    },
+    {
+      "groupId": "series-774a4872988f96e5",
+      "label": "新宿幻霊事件",
+      "candidates": 16,
+      "protectedSnapshot": 7,
+      "reason": "含7条已有认可简介及派生成员，后续先做身份映射；本轮不重查认可资料"
+    }
+  ],
+  "pendingFirst": "CLIMAX1～8卷页数/开本与此前EXTELLA拍卖、威化隐藏角色、匿名占位等待查继续保留，独立证据补足后处理。",
+  "nextRule": "先CCC FoxTail14条，再ぴくりる徽章vol.5与vol.6各14条；官方明确、覆盖多且无认可资料的组优先。",
+  "productionApplied": 0
+}
