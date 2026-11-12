@@ -1,0 +1,40 @@
+{
+  "at": "2026-11-12T06:47:45.929Z",
+  "items": [
+    {
+      "itemId": "1a053f7c-8394-498c-94d7-9fed3ecf2ece",
+      "title": "全10種セット 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "safeSummaryPrepared": true,
+      "unconfirmedFields": [
+        "零售全套具体封装",
+        "附属内容",
+        "全套专属JAN"
+      ],
+      "reason": "本轮原详情不可读，只保留已有目录身份及厂商明确系列参数。",
+      "next": "取得对应包装的厂商明确规格或可读同编号详情再补。"
+    },
+    {
+      "itemId": "1ce73ea5-62f3-401c-8723-7cd110de78d8",
+      "title": "【ボックス】Fate/Grand Order きゃらとりあ缶 Vol.22",
+      "safeSummaryPrepared": true,
+      "unconfirmedFields": [
+        "整盒必定集齐与否",
+        "BOX专属JAN"
+      ],
+      "reason": "零售商完整性说法不一致；所见两组JAN包装归属未由厂商明确。",
+      "next": "取得对应包装的厂商明确规格或可读同编号详情再补。"
+    },
+    {
+      "itemId": "9f3174ce-d5a0-4b78-93d7-9751ae576971",
+      "title": "【パック】Fate/Grand Order きゃらとりあ缶 Vol.22",
+      "safeSummaryPrepared": true,
+      "unconfirmedFields": [
+        "单包封入枚数",
+        "单包专属JAN"
+      ],
+      "reason": "本轮原详情不可读，只保留已有目录身份及厂商明确系列参数。",
+      "next": "取得对应包装的厂商明确规格或可读同编号详情再补。"
+    }
+  ],
+  "note": "3条已准备安全范围简介，缺少或冲突字段继续待查；所有13条原空JAN均保留，不计为完整核实。"
+}

@@ -1,0 +1,212 @@
+{
+  "at": "2026-11-12T06:47:45.929Z",
+  "books": [
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321609000448/",
+        "at": "2026-11-12T06:17:53.351Z",
+        "sha256": "1ddebc6aa5232ffc1558465923e9a843fd02032b06d0ea89c53077774f946f84"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (1)",
+      "volume": 1,
+      "isbn": "9784041052310",
+      "pages": 164,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321708000500/",
+        "at": "2026-11-12T06:42:25.090Z",
+        "sha256": "6cc9e475e70726a2dde7a935f190b54667952e1f82616bd99cc3ee4049afac9e"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (2)",
+      "volume": 2,
+      "isbn": "9784041063910",
+      "pages": 162,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321805000555/",
+        "at": "2026-11-12T06:42:22.637Z",
+        "sha256": "c611d1a4d0328e69b5be4c1ac362e0ba5675b809b2f7ccb855b00f8be02c053d"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (3)",
+      "volume": 3,
+      "isbn": "9784041073551",
+      "pages": 162,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321903000917/",
+        "at": "2026-11-12T06:42:17.424Z",
+        "sha256": "6c84df6041b14045ebfabb97de609eddfa4363005506ede4f982ea0802ba7236"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (4)",
+      "volume": 4,
+      "isbn": "9784041084755",
+      "pages": 162,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321903000919/",
+        "at": "2026-11-12T06:42:21.371Z",
+        "sha256": "3be75fa2f558d31087423ff92083193aed58a5a533ca5d923c8a07227f06cc73"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (5)",
+      "volume": 5,
+      "isbn": "9784041084779",
+      "pages": 162,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322007000347/",
+        "at": "2026-11-12T06:42:18.246Z",
+        "sha256": "412aecb94e1631000294f1e9181301c9bdedb4ad45453775c684bf6ab36945aa"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (6)",
+      "volume": 6,
+      "isbn": "9784041108208",
+      "pages": 170,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322104000422/",
+        "at": "2026-11-12T06:42:20.197Z",
+        "sha256": "06469a81767e6b52c697394e4e545903bf92c9b33554d414fff627d5c44f559e"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (7)",
+      "volume": 7,
+      "isbn": "9784041116791",
+      "pages": 170,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322201000014/",
+        "at": "2026-11-12T06:42:23.957Z",
+        "sha256": "f3bdff4fe646402ae20f592b067748aa715f2a403e31365e26e4f99ac562a649"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (8)",
+      "volume": 8,
+      "isbn": "9784041125151",
+      "pages": 162,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322208001125/",
+        "at": "2026-11-12T06:42:18.915Z",
+        "sha256": "55e910013b3dd212a2d50533f42f897382b6daa6ed333fecf1989a1ffe9a1074"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (9)",
+      "volume": 9,
+      "isbn": "9784041132524",
+      "pages": 170,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322404000505/",
+        "at": "2026-11-12T06:42:16.458Z",
+        "sha256": "42970ee50737d222ec7613ae268535878101a56c9cb15b23b69a794755066d2d"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (10)",
+      "volume": 10,
+      "isbn": "9784041152232",
+      "pages": 162,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322406000076/",
+        "at": "2026-11-12T06:42:26.396Z",
+        "sha256": "c71bce2aa4a948166f73c00a9e55dc143f79775edad2b84b530d68d12ea656b0"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (11)",
+      "volume": 11,
+      "isbn": "9784041154267",
+      "pages": 154,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322509001237/",
+        "at": "2026-11-12T06:17:54.256Z",
+        "sha256": "524ae673d5b218e426e1e0a711043541011ff44a9eee9e93af1f5237106e99ca"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (12)",
+      "volume": 12,
+      "isbn": "9784041170380",
+      "pages": 154,
+      "format": "B6変形判",
+      "artist": "TAa",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    }
+  ],
+  "badge": {
+    "source": {
+      "url": "https://market.algernonproduct.co.jp/items/149340313",
+      "at": "2026-11-12T06:17:53.399Z",
+      "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+    },
+    "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+    "volume": 22,
+    "lineup": [
+      "キャスター/ネロ・クラウディウス",
+      "ランサー/清姫",
+      "セイバー/沖田総司〔オルタ〕",
+      "セイバー/ガレス",
+      "セイバー/パッションリップ",
+      "アーチャー/ラーヴァ/ティアマト",
+      "ムーンキャンサー/両儀式",
+      "セイバー/ガウェイン〔夏の御曹司〕",
+      "セイバー/斎藤一〔渚のヘラヘラ男〕",
+      "アサシン/テスカトリポカ〔ワイルド・ガンマン〕"
+    ],
+    "material": "ブリキ",
+    "diameter": "約56mm",
+    "scope": "官方商店商品信息自身区段的规格及角色标签；未以推荐商品推定规格，未从价格推断数量或条码。"
+  },
+  "scope": "12纸本单卷+逻辑目录；官方商店10名角色与13条来源身份分别绑定。只补明确事实，未确认的包装内容、条码及整盒完整性不推断。",
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

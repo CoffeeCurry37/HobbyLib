@@ -1,0 +1,492 @@
+{
+  "at": "2026-11-12T06:47:45.929Z",
+  "rows": [
+    {
+      "itemId": "family-8de86bed375dab620981680f62f5fa03",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "",
+        "member": "衛宮さんちの今日のごはん",
+        "image": "https://cdn.kdkw.jp/cover_1000/322404/322404000505.webp",
+        "catalogueKey": "books:kadokawa:manga:衛宮さんちの今日のごはん:",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322404/322404000505.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321609000448/",
+        "at": "2026-11-12T06:17:53.351Z",
+        "sha256": "1ddebc6aa5232ffc1558465923e9a843fd02032b06d0ea89c53077774f946f84"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/322509001237/",
+          "at": "2026-11-12T06:17:54.256Z",
+          "sha256": "524ae673d5b218e426e1e0a711043541011ff44a9eee9e93af1f5237106e99ca"
+        }
+      ],
+      "officialTitle": "衛宮さんちの今日のごはん",
+      "recordKind": "logical-series",
+      "scope": "逻辑系列目录；官方首卷与后续纸本书目佐证，不声明完结、整套或拥有",
+      "summary": "《衛宮さんちの今日のごはん》纸本漫画系列目录，TAa绘制，收录于角川コミックス・エース。各卷独立刊行并有独立ISBN；本条用于组织单卷，不表示实体套装、已经完结或已拥有全套。",
+      "notes": "保留逻辑目录关系；不把电子版或特装版附属品写入普通纸本单卷，不新增缺卷或合并来源。"
+    },
+    {
+      "itemId": "source-1435dd8fe9b02c8ba9f97ed6b480fbc8",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (10)",
+      "identityBinding": {
+        "isbn": "9784041152232",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "10",
+        "member": "衛宮さんちの今日のごはん (10)",
+        "image": "https://cdn.kdkw.jp/cover_1000/322404/322404000505.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322404/322404000505.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/322404000505/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322404000505/",
+        "at": "2026-11-12T06:42:16.458Z",
+        "sha256": "42970ee50737d222ec7613ae268535878101a56c9cb15b23b69a794755066d2d"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (10)",
+      "volume": 10,
+      "officialIsbn": "9784041152232",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第10卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、162页，ISBN 9784041152232。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-5547d27e82b54e68a82d3e7eb8e43700",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (1)",
+      "identityBinding": {
+        "isbn": "9784041052310",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "1",
+        "member": "衛宮さんちの今日のごはん (1)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321609/321609000448.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321609/321609000448.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321609000448/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321609000448/",
+        "at": "2026-11-12T06:17:53.351Z",
+        "sha256": "1ddebc6aa5232ffc1558465923e9a843fd02032b06d0ea89c53077774f946f84"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (1)",
+      "volume": 1,
+      "officialIsbn": "9784041052310",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第1卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、164页，ISBN 9784041052310。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-59234b5d5ad0fddcfac6941eae840dac",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (4)",
+      "identityBinding": {
+        "isbn": "9784041084755",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "4",
+        "member": "衛宮さんちの今日のごはん (4)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321903/321903000917.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321903/321903000917.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321903000917/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321903000917/",
+        "at": "2026-11-12T06:42:17.424Z",
+        "sha256": "6c84df6041b14045ebfabb97de609eddfa4363005506ede4f982ea0802ba7236"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (4)",
+      "volume": 4,
+      "officialIsbn": "9784041084755",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第4卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、162页，ISBN 9784041084755。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-6bbbd85479e471a051ff9aefb4c3d970",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん(6) (書籍)[KADOKAWA]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "9784041108208",
+        "jan": "9784041108208",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "6",
+        "member": "衛宮さんちの今日のごはん(6) (書籍)[KADOKAWA]《在庫切れ》",
+        "image": "https://cdn.kdkw.jp/cover_1000/322007/322007000347.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322007/322007000347.webp"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-018987",
+          "https://www.kadokawa.co.jp/product/322007000347/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322007000347/",
+        "at": "2026-11-12T06:42:18.246Z",
+        "sha256": "412aecb94e1631000294f1e9181301c9bdedb4ad45453775c684bf6ab36945aa"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (6)",
+      "volume": 6,
+      "officialIsbn": "9784041108208",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第6卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、170页，ISBN 9784041108208。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-7d7f397b80838e7550552af6f6d151e0",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん(9) (書籍)[KADOKAWA]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "9784041132524",
+        "jan": "9784041132524",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "9",
+        "member": "衛宮さんちの今日のごはん(9) (書籍)[KADOKAWA]《在庫切れ》",
+        "image": "https://cdn.kdkw.jp/cover_1000/322208/322208001125.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322208/322208001125.webp"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-035631",
+          "https://www.kadokawa.co.jp/product/322208001125/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322208001125/",
+        "at": "2026-11-12T06:42:18.915Z",
+        "sha256": "55e910013b3dd212a2d50533f42f897382b6daa6ed333fecf1989a1ffe9a1074"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (9)",
+      "volume": 9,
+      "officialIsbn": "9784041132524",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第9卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、170页，ISBN 9784041132524。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-8806f98820298808e7353b063ab41690",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん(7) (書籍)[KADOKAWA]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "9784041116791",
+        "jan": "9784041116791",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "7",
+        "member": "衛宮さんちの今日のごはん(7) (書籍)[KADOKAWA]《在庫切れ》",
+        "image": "https://img.amiami.jp/images/product/main/214/MED-BOOK-024247.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/214/MED-BOOK-024247.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-024247",
+          "https://www.kadokawa.co.jp/product/322104000422/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322104000422/",
+        "at": "2026-11-12T06:42:20.197Z",
+        "sha256": "06469a81767e6b52c697394e4e545903bf92c9b33554d414fff627d5c44f559e"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (7)",
+      "volume": 7,
+      "officialIsbn": "9784041116791",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第7卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、170页，ISBN 9784041116791。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-9673da1f9960c1ce7a877d3a2037639e",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (5)",
+      "identityBinding": {
+        "isbn": "9784041084779",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "5",
+        "member": "衛宮さんちの今日のごはん (5)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321903/321903000919.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321903/321903000919.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321903000919/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321903000919/",
+        "at": "2026-11-12T06:42:21.371Z",
+        "sha256": "3be75fa2f558d31087423ff92083193aed58a5a533ca5d923c8a07227f06cc73"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (5)",
+      "volume": 5,
+      "officialIsbn": "9784041084779",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第5卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、162页，ISBN 9784041084779。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-969d5ad2763f51caf5fc1e56177207af",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (3)",
+      "identityBinding": {
+        "isbn": "9784041073551",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "3",
+        "member": "衛宮さんちの今日のごはん (3)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321805/321805000555.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321805/321805000555.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321805000555/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321805000555/",
+        "at": "2026-11-12T06:42:22.637Z",
+        "sha256": "c611d1a4d0328e69b5be4c1ac362e0ba5675b809b2f7ccb855b00f8be02c053d"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (3)",
+      "volume": 3,
+      "officialIsbn": "9784041073551",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第3卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、162页，ISBN 9784041073551。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-a2d1152449406833c6fc0e13262c8936",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (8) (書籍)[KADOKAWA]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "9784041125151",
+        "jan": "9784041125151",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "8",
+        "member": "衛宮さんちの今日のごはん (8) (書籍)[KADOKAWA]《在庫切れ》",
+        "image": "https://cdn.kdkw.jp/cover_1000/322201/322201000014.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322201/322201000014.webp"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-028876",
+          "https://www.kadokawa.co.jp/product/322201000014/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322201000014/",
+        "at": "2026-11-12T06:42:23.957Z",
+        "sha256": "f3bdff4fe646402ae20f592b067748aa715f2a403e31365e26e4f99ac562a649"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (8)",
+      "volume": 8,
+      "officialIsbn": "9784041125151",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第8卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、162页，ISBN 9784041125151。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-acc9f3f1d8e33e722b85e74583c52fbb",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (2)",
+      "identityBinding": {
+        "isbn": "9784041063910",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "2",
+        "member": "衛宮さんちの今日のごはん (2)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321708/321708000500.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321708/321708000500.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321708000500/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321708000500/",
+        "at": "2026-11-12T06:42:25.090Z",
+        "sha256": "6cc9e475e70726a2dde7a935f190b54667952e1f82616bd99cc3ee4049afac9e"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (2)",
+      "volume": 2,
+      "officialIsbn": "9784041063910",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第2卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、162页，ISBN 9784041063910。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-c1467881b6e13efd0b2b452346a21b14",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (11)",
+      "identityBinding": {
+        "isbn": "9784041154267",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "11",
+        "member": "衛宮さんちの今日のごはん (11)",
+        "image": "https://cdn.kdkw.jp/cover_1000/322406/322406000076.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322406/322406000076.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/322406000076/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322406000076/",
+        "at": "2026-11-12T06:42:26.396Z",
+        "sha256": "c71bce2aa4a948166f73c00a9e55dc143f79775edad2b84b530d68d12ea656b0"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (11)",
+      "volume": 11,
+      "officialIsbn": "9784041154267",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第11卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、154页，ISBN 9784041154267。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    },
+    {
+      "itemId": "source-fb99d6e00456406a6b201d6d77dffb75",
+      "groupId": "series-8c95f4466ea6ff11",
+      "title": "衛宮さんちの今日のごはん (12)",
+      "identityBinding": {
+        "isbn": "9784041170380",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "衛宮さんちの今日のごはん",
+        "wave": "12",
+        "member": "衛宮さんちの今日のごはん (12)",
+        "image": "https://cdn.kdkw.jp/cover_1000/322509/322509001237.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322509/322509001237.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/322509001237/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322509001237/",
+        "at": "2026-11-12T06:17:54.256Z",
+        "sha256": "524ae673d5b218e426e1e0a711043541011ff44a9eee9e93af1f5237106e99ca"
+      },
+      "officialTitle": "衛宮さんちの今日のごはん (12)",
+      "volume": 12,
+      "officialIsbn": "9784041170380",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区、电子版或特装附件",
+      "summary": "《衛宮さんちの今日のごはん》第12卷纸本漫画，TAa绘制，角川コミックス・エース出版。官方书目列示B6变形判、154页，ISBN 9784041170380。",
+      "notes": "仅补空缺简介及两条出处；书号、原字段与证据保持。不更改初版印次或发行日期，不添加食谱、画集或环保袋特装附件。"
+    }
+  ]
+}

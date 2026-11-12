@@ -1,0 +1,67 @@
+[
+  {
+    "id": "surugaya-chara22-box",
+    "url": "https://www.suruga-ya.jp/product/detail/881006880",
+    "at": "2026-11-12T06:47:43.814Z",
+    "access": "web open readable indexed text",
+    "facts": {
+      "volume": 22,
+      "managementCode": "881006880",
+      "productKind": "BOX",
+      "manufacturer": "アルジャーノンプロダクト",
+      "regularTypes": 10,
+      "boxCount": 10,
+      "diameter": "約56mm",
+      "material": "ブリキ"
+    },
+    "scope": "仅同编号BOX条目；不据此宣称必定集齐，不把整盒数量或条码写入单包。"
+  },
+  {
+    "id": "hobbysearch-chara22-caution",
+    "url": "https://www.1999.co.jp/11430977",
+    "at": "2026-11-12T06:47:43.814Z",
+    "access": "search result readable indexed product text; subsequent open/find did not expose the same specification",
+    "facts": {
+      "volume": 22,
+      "boxCount": 10,
+      "completeSetClaim": "may not complete",
+      "listedJan": "4570121784234"
+    },
+    "scope": "检索观察用于记录冲突，不作为生产确定事实或原HTML缓存。"
+  },
+  {
+    "id": "animate-chara22-claim",
+    "url": "https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%B0%E3%83%83%E3%82%BA-%E3%83%90%E3%83%83%E3%83%81%E3%80%91Fate/Grand%2BOrder%2B%E3%81%8D%E3%82%83%E3%82%89%E3%81%A8%E3%82%8A%E3%81%82%E7%BC%B6%2BVol.22/pd/3532261/",
+    "at": "2026-11-12T06:47:43.814Z",
+    "access": "web search readable indexed product text",
+    "facts": {
+      "volume": 22,
+      "boxPacks": 10,
+      "completeSetClaim": "complete",
+      "listedJan": "4570121784234"
+    },
+    "scope": "与HobbySearch整盒完整性表述冲突，未采用完成保证；条码包装归属不推断。"
+  },
+  {
+    "id": "rakuten-chara22-code",
+    "url": "https://books.rakuten.co.jp/rb/18715349/?l-id=search-c-item-text-86",
+    "at": "2026-11-12T06:47:43.814Z",
+    "access": "web search readable indexed product text",
+    "facts": {
+      "volume": 22,
+      "listedJan": "4570121784241"
+    },
+    "scope": "与其他零售来源条码不同；不推断两个条码分别属于BOX/单包，原空白JAN全部保留。"
+  },
+  {
+    "id": "surugaya-chara22-package-unavailable",
+    "urls": [
+      "https://www.suruga-ya.jp/product/detail/889232573",
+      "https://www.suruga-ya.jp/product/detail/889232562"
+    ],
+    "at": "2026-11-12T06:47:43.814Z",
+    "access": "web open inaccessible; exact management-code search no matching results",
+    "scope": "未绕过访问限制；仅保留已有目录标题的全套/单包身份，不新增封装、单包数量及完整性结论。"
+  }
+]
+

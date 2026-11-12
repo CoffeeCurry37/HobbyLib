@@ -1,0 +1,17 @@
+{
+  "at": "2026-11-12T06:49:36.908Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 26,
+  "prepared": 26,
+  "productionApplied": 0,
+  "plannedBatches": [
+    20,
+    6
+  ],
+  "fieldPendingRecords": 3,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0,
+  "previousOutstanding": "../foxtail-badges/resume.json",
+  "note": "来源与隔离校验已完成；未打开维护窗口。正式写入前重新读取实时完整记录，不重放历史成功批次。"
+}
+

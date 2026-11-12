@@ -1,0 +1,25 @@
+[
+  {
+    "groupId": "series-8c95f4466ea6ff11",
+    "label": "衛宮さんちの今日のごはん",
+    "candidates": 13,
+    "sources": [
+      "https://www.kadokawa.co.jp/product/321609000448/",
+      "https://www.kadokawa.co.jp/product/322509001237/"
+    ],
+    "scope": "12个已有ISBN纸本单卷加逻辑目录；逐卷核对书号/媒介/卷号。与配方书、画集或环保袋特装版及电子版分开，不把特装附件写入普通卷。",
+    "status": "official-source-discovery-only",
+    "key": "emiya"
+  },
+  {
+    "groupId": "series-0faa7b7d365e6d46",
+    "label": "FGO きゃらとりあ缶 Vol.22",
+    "candidates": 13,
+    "sources": [
+      "https://market.algernonproduct.co.jp/items/149340313"
+    ],
+    "scope": "10个具名徽章、单包、BOX和零售全套分别核对；官方商店有角色标签、素材与尺寸入口，但尚未逐条绑定。保留服装括注，注意同角色亚克力商品；BOX封入数量/完整性需独立确认。",
+    "status": "official-source-discovery-only",
+    "key": "chara22"
+  }
+]

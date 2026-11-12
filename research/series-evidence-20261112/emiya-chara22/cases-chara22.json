@@ -1,0 +1,671 @@
+{
+  "at": "2026-11-12T06:47:45.929Z",
+  "rows": [
+    {
+      "itemId": "046bd285-705c-4137-9c21-6b3bb82f786c",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "アサシン/テスカトリポカ〔ワイルド・ガンマン〕 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "アサシン/テスカトリポカ〔ワイルド・ガンマン〕 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232572&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232572?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "アサシン/テスカトリポカ〔ワイルド・ガンマン〕",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232572?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232572?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为アサシン/テスカトリポカ〔ワイルド・ガンマン〕单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "0cc85824-5207-4bc0-8a0d-bc24adc7d481",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "アーチャー/ラーヴァ/ティアマト 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "アーチャー/ラーヴァ/ティアマト 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232568&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232568?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "アーチャー/ラーヴァ/ティアマト",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232568?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232568?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为アーチャー/ラーヴァ/ティアマト单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "1a053f7c-8394-498c-94d7-9fed3ecf2ece",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "全10種セット 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "全10種セット 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232573&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232573?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "retailer-complete-set",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232573?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232573?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源候选；保留已有字段"
+        }
+      ],
+      "identityMatch": "原来源明确同厂商/作品/徽章Vol与包装类型；BOX数量另核原编号详情，单包及全套仅保留目录身份",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。原零售目录以“全10种套装”收录本条，保留该来源身份；具体封装和附属内容仍待核实，不据此认定为原封BOX。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "1ce73ea5-62f3-401c-8723-7cd110de78d8",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "【ボックス】Fate/Grand Order きゃらとりあ缶 Vol.22",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": "22",
+        "member": "【ボックス】Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=881006880&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/881006880"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "box",
+      "retailerObservation": {
+        "id": "surugaya-chara22-box",
+        "url": "https://www.suruga-ya.jp/product/detail/881006880",
+        "sha256": "ee45067f69ba6af8b6cca320b754dba02323c76b114d08bac98f131efe3294f0"
+      },
+      "second": "https://www.suruga-ya.jp/product/detail/881006880",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/881006880",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/881006880",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原来源明确同厂商/作品/徽章Vol与包装类型；BOX数量另核原编号详情，单包及全套仅保留目录身份",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为整盒条目，骏河屋同编号页面列示每BOX 10枚。整盒是否必定集齐尚待确认。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "34ba8152-aa8a-43e2-8dc7-498f12f7517d",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "ムーンキャンサー/両儀式 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "ムーンキャンサー/両儀式 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232569&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232569?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "ムーンキャンサー/両儀式",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232569?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232569?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为ムーンキャンサー/両儀式单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "5376f856-eb9c-4c22-8e64-50249887d51d",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "キャスター/ネロ・クラウディウス 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "キャスター/ネロ・クラウディウス 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232563&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232563?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "キャスター/ネロ・クラウディウス",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232563?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232563?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为キャスター/ネロ・クラウディウス单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "73820c5c-0276-4f1a-ab72-4189c5d4658d",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "セイバー/ガウェイン〔夏の御曹司〕 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "セイバー/ガウェイン〔夏の御曹司〕 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232570&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232570?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "セイバー/ガウェイン〔夏の御曹司〕",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232570?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232570?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为セイバー/ガウェイン〔夏の御曹司〕单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "81899067-9a3e-484e-8df0-794352903720",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "セイバー/沖田総司〔オルタ〕 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "セイバー/沖田総司〔オルタ〕 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232565&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232565?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "セイバー/沖田総司〔オルタ〕",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232565?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232565?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为セイバー/沖田総司〔オルタ〕单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "866d26d5-a12f-47f6-b2b9-0dfe4e4cf8b8",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "セイバー/斎藤一〔渚のヘラヘラ男〕 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "セイバー/斎藤一〔渚のヘラヘラ男〕 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232571&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232571?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "セイバー/斎藤一〔渚のヘラヘラ男〕",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232571?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232571?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为セイバー/斎藤一〔渚のヘラヘラ男〕单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "9f3174ce-d5a0-4b78-93d7-9751ae576971",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "【パック】Fate/Grand Order きゃらとりあ缶 Vol.22",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": "22",
+        "member": "【パック】Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232562&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232562?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "pack",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232562?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232562?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原来源明确同厂商/作品/徽章Vol与包装类型；BOX数量另核原编号详情，单包及全套仅保留目录身份",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条按原零售目录保留为未指定角色的单包条目；单包封入枚数与条码尚待确认。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "c0d9352e-abb8-4af5-8e11-e6bfa3a0fbc7",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "セイバー/パッションリップ 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "セイバー/パッションリップ 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232567&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232567?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "セイバー/パッションリップ",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232567?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232567?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为セイバー/パッションリップ单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "d76e9651-4490-445d-8884-86342f57f867",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "ランサー/清姫 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "ランサー/清姫 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232564&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232564?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "ランサー/清姫",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232564?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232564?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为ランサー/清姫单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    },
+    {
+      "itemId": "d94ea96e-ca28-43cc-854a-669f93bbacdd",
+      "groupId": "series-0faa7b7d365e6d46",
+      "title": "セイバー/ガレス 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order きゃらとりあ缶 Vol.22",
+        "wave": null,
+        "member": "セイバー/ガレス 「Fate/Grand Order きゃらとりあ缶 Vol.22」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889232566&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889232566?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149340313",
+        "at": "2026-11-12T06:17:53.399Z",
+        "sha256": "d84a752a75cdf0514cc485c172413f322c15942640132b618121f7cebc0a2bc4"
+      },
+      "officialTitle": "Fate/Grand Order きゃらとりあ缶 Vol.22 BOX",
+      "volume": 22,
+      "recordKind": "single",
+      "character": "セイバー/ガレス",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "アルジャーノンプロダクト",
+          "url": "https://www.suruga-ya.jp/product/detail/889232566?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889232566?tenpo_cd=",
+          "at": "2026-10-04T21:16:15.280Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、Vol及完整职阶/角色/服装与官方角色标签唯一对应",
+      "scope": "官方商店明确尺寸、材质及10名角色标签；单款、单包、BOX和零售全套分别解释，不推断条码或完整性",
+      "summary": "アルジャーノンプロダクト《Fate/Grand Order》きゃらとりあ缶Vol.22徽章，直径约56mm，材质为马口铁。官方商品信息列出10种角色款。本条为セイバー/ガレス单款，角色及服装括注与官方清单对应。",
+      "notes": "只补明确的简介和两条出处；原JAN、发行日期、个人字段与报价保留。空JAN不填，零售商完整性及条码差异保留待查，不更新库存。"
+    }
+  ]
+}

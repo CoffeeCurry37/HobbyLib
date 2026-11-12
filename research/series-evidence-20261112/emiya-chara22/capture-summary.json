@@ -1,0 +1,11 @@
+{
+  "captureReceipts": 13,
+  "uniqueUrls": 13,
+  "statuses": {
+    "captured": 13
+  },
+  "requests": 10,
+  "cacheHits": 3,
+  "paidModelApiCalls": 0,
+  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+}
