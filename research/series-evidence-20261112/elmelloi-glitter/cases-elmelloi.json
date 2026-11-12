@@ -1,0 +1,520 @@
+{
+  "at": "2026-11-12T19:13:15.618Z",
+  "rows": [
+    {
+      "itemId": "3b5852f8-d277-44ba-b852-587d052e3410",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険9 星冠密議1",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158371453",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "9",
+        "member": "ロード・エルメロイII世の冒険9 星冠密議1",
+        "image": "https://img.amiami.jp/images/product/main/244/MED-BOOK-043847.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.mandarake.co.jp/webshopimg/04/29/648/0429481648/s_04294816480.jpg"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1289659409&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349884379&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-043847"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-043847",
+      "officialTitle": "ロード・エルメロイII世の冒険9 星冠密議 (1)",
+      "volume": 9,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-9",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-043847",
+        "sha256": "8cde47e9f5e8070a0d4f9c36ea43cb132e3d2fd4ad2d8474e77536270898bada"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第9卷「星冠密議(1)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "4e75e6f7-b3e3-422d-809a-e4ccddeca595",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険8 フェムの船宴(下)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158371415",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "8",
+        "member": "ロード・エルメロイII世の冒険8 フェムの船宴(下)",
+        "image": "https://img.amiami.jp/images/product/main/243/MED-BOOK-042043.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/243/MED-BOOK-042043.jpg"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1302705455&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-042043",
+          "https://www.suruga-ya.jp/product/detail/ZHORE277775"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-042043",
+      "officialTitle": "ロード・エルメロイII世の冒険8 フェムの 船宴 (下)",
+      "volume": 8,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-8",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-042043",
+        "sha256": "7b516785eb641bab77f42fa1cd6f920effd771b21019fb2054174c043ede13d2"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第8卷「フェムの船宴(下)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "5ac523ae-db11-4c89-b106-68de8050f9cc",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険11 星冠密議3",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158371590",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "11",
+        "member": "ロード・エルメロイII世の冒険11 星冠密議3",
+        "image": "https://img.amiami.jp/images/product/main/254/MED-BOOK-050284.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/254/MED-BOOK-050284.jpg"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1344646172&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-050284"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-050284",
+      "officialTitle": "ロード・エルメロイII世の冒険11 星冠密議 (3)",
+      "volume": 11,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-11",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-050284",
+        "sha256": "207392f6bf5d561766bfac454fb0b5df5097ff91585e251f0cf000e745b1fcc5"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第11卷「星冠密議(3)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "703de297-5ca1-4e2b-9423-a83776eec218",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険7 フェムの船宴(中)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158371286",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "7",
+        "member": "ロード・エルメロイII世の冒険7 フェムの船宴(中)",
+        "image": "https://img.amiami.jp/images/product/main/234/MED-BOOK-037746.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/234/MED-BOOK-037746.jpg"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1274163890&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-037746",
+          "https://www.suruga-ya.jp/product/detail/ZHORE269397"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-037746",
+      "officialTitle": "ロード・エルメロイII世の冒険7 フェムの 船宴 (中)",
+      "volume": 7,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-7",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-037746",
+        "sha256": "3dfc7a027d09fbcfef718cf564b2e8e2d8850f8996d95d5c8ab30713296494b6"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第7卷「フェムの船宴(中)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "7f6292d2-ba7f-4588-9753-96b00466adfd",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険3 彷徨海の魔神(下) 3",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158370913",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "3",
+        "member": "ロード・エルメロイII世の冒険3 彷徨海の魔神(下) 3",
+        "image": "https://img.amiami.jp/images/product/main/214/MED-BOOK-026289.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/214/MED-BOOK-026289.jpg"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1344550583&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-026289",
+          "https://www.suruga-ya.jp/product/detail/ZHORE245696",
+          "https://www.suruga-ya.jp/product/other/ZHORE245696"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-026289",
+      "officialTitle": "ロード・エルメロイII世の冒険3 彷徨海の魔人(下)",
+      "volume": 3,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-3",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-026289",
+        "sha256": "261eccb5db4a1123bcc9b5ebd72664fcce5ffaf14f4e441666a411683916d123"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第3卷「彷徨海の魔人(下)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。官方副标题使用「魔人」，原来源名称中的「魔神」写法保持原记录。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "eecab7ee-dcd9-40c7-a9bf-1d1de068a108",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険2 彷徨海の魔神(上) 2",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158370791",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "2",
+        "member": "ロード・エルメロイII世の冒険2 彷徨海の魔神(上) 2",
+        "image": "https://img.amiami.jp/images/product/main/213/MED-BOOK-023115.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/213/MED-BOOK-023115.jpg"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1344550856&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-023115",
+          "https://www.suruga-ya.jp/product/detail/ZHORE293017",
+          "https://www.suruga-ya.jp/product/other/ZHORE293017"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-023115",
+      "officialTitle": "ロード・エルメロイII世の冒険2 彷徨海の魔人(上)",
+      "volume": 2,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-2",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-023115",
+        "sha256": "b2c5a95ffbb5ac9a56fc54f2fe62b844c2acabe483db0081e3d7f8fe790af642"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第2卷「彷徨海の魔人(上)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。官方副标题使用「魔人」，原来源名称中的「魔神」写法保持原记录。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "source-55c4ce1754bce82a09082018ec6a8dc3",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険 12 星冠密議(4) / 三田誠 / 坂本みねぢ / TYPE-MOON(箱・ジャケット・ケース不備(中))",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158370937",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "4",
+        "member": "ロード・エルメロイII世の冒険 12 星冠密議(4) / 三田誠 / 坂本みねぢ / TYPE-MOON(箱・ジャケット・ケース不備(中))",
+        "image": "https://img.amiami.jp/images/product/main/223/MED-BOOK-030366.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/223/MED-BOOK-030366.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-030366",
+          "https://www.suruga-ya.jp/product/detail/ZHORE307622?branch_number=0003"
+        ]
+      },
+      "status": "pending",
+      "recordKind": "cross-volume-source-conflict",
+      "titleVolume": 12,
+      "linkedVolume": 4,
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "retailerObservation": {
+        "id": "book-retailer-4",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-030366",
+        "sha256": "86a16c86249468f52ca49d5ed3e84f98a026348cb8183df5b8b6d5a3005bf3d5"
+      },
+      "reason": "标题为第12卷，但已有Amiami商品代码MED-BOOK-030366及JAN 4560158370937均指向第4卷；该记录混有不同卷来源，当前商品身份不能只按标题或条码确定。",
+      "next": "保留原ID、个人字段、旧证据及挂牌；下一步对完整挂牌/归并来源形成具体修复方案并作完整副本验证，再决定是否拆分或重归属。本轮不改名、不改JAN、不迁移Offer、不写summary。"
+    },
+    {
+      "itemId": "source-698d39a49148c3c0468ee2e7640a5f5e",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険 9 星冠密議(1) / 三田誠 / 坂本みねぢ / TYPE-MOON",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158370784",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "1",
+        "member": "ロード・エルメロイII世の冒険 9 星冠密議(1) / 三田誠 / 坂本みねぢ / TYPE-MOON",
+        "image": "https://img.amiami.jp/images/product/main/204/MED-BOOK-018675.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/204/MED-BOOK-018675.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-018675",
+          "https://www.suruga-ya.jp/product/detail/ZHORE236436",
+          "https://www.suruga-ya.jp/product/detail/ZHORE284295"
+        ]
+      },
+      "status": "pending",
+      "recordKind": "cross-volume-source-conflict",
+      "titleVolume": 9,
+      "linkedVolume": 1,
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "retailerObservation": {
+        "id": "book-retailer-1",
+        "url": "https://store.shopping.yahoo.co.jp/amiami/med-book-018675.html",
+        "sha256": "42b26eb199173aef6e6ffc9f31a001667be3406df4a11daf8fc4d3f25c101f58"
+      },
+      "reason": "标题为第9卷，但已有Amiami商品代码MED-BOOK-018675及JAN 4560158370784均指向第1卷；该记录混有不同卷来源，当前商品身份不能只按标题或条码确定。",
+      "next": "保留原ID、个人字段、旧证据及挂牌；下一步对完整挂牌/归并来源形成具体修复方案并作完整副本验证，再决定是否拆分或重归属。本轮不改名、不改JAN、不迁移Offer、不写summary。"
+    },
+    {
+      "itemId": "source-7972a5ec7c8f68590ce32177e8384692",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険10 星冠密議(2) (書籍)[TYPE-MOON BOOKS]《発売済・在庫品》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158371521",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "10",
+        "member": "ロード・エルメロイII世の冒険10 星冠密議(2) (書籍)[TYPE-MOON BOOKS]《発売済・在庫品》",
+        "image": "https://img.amiami.jp/images/product/main/253/MED-BOOK-048002.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/253/MED-BOOK-048002.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-048002"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-048002",
+      "officialTitle": "ロード・エルメロイII世の冒険10 星冠密議 (2)",
+      "volume": 10,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-10",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-048002",
+        "sha256": "4dd73d02f7a305cca5d3aef6f25ecbbbf101d96543673f67f0436ed036aa78dd"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第10卷「星冠密議(2)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "source-7d4bd8e6afaf35fa3f529df5d1eadf6d",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険12 星冠密議(4) (書籍)[TYPE-MOON BOOKS]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158371651",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "12",
+        "member": "ロード・エルメロイII世の冒険12 星冠密議(4) (書籍)[TYPE-MOON BOOKS]《在庫切れ》",
+        "image": "https://img.amiami.jp/images/product/main/263/MED-BOOK-055099.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/263/MED-BOOK-055099.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-055099"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-055099",
+      "officialTitle": "ロード・エルメロイII世の冒険12 星冠密議 (4)",
+      "volume": 12,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-12",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-055099",
+        "sha256": "19671d627356965f4e50977b0d98ad3fa8f529a6f152dd27eb5149d761b8c0e7"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第12卷「星冠密議(4)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "source-a95b9a83c8a1205eb696a02864850d75",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険5 錬金術師の遺産(下) (書籍)[TYPE-MOON BOOKS]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158371064",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "5",
+        "member": "ロード・エルメロイII世の冒険5 錬金術師の遺産(下) (書籍)[TYPE-MOON BOOKS]《在庫切れ》",
+        "image": "https://img.amiami.jp/images/product/main/224/MED-BOOK-032172.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/224/MED-BOOK-032172.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-032172"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-032172",
+      "officialTitle": "ロード・エルメロイII世の冒険5 錬金術師の遺産(下)",
+      "volume": 5,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-5",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-032172",
+        "sha256": "bc58e832b30f540ac38f64ae5ab10a1974f0b965716cab625c90bb089661c1d0"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第5卷「錬金術師の遺産(下)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    },
+    {
+      "itemId": "source-c98940b54c47076ce5e5fa1df399374e",
+      "groupId": "series-48bb85ab60ca3056",
+      "title": "ロード・エルメロイII世の冒険 6 フェムの船宴 / 三田誠 / 坂本みねぢ / TYPE-MOON",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4560158371163",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の冒険",
+        "wave": "6",
+        "member": "ロード・エルメロイII世の冒険 6 フェムの船宴 / 三田誠 / 坂本みねぢ / TYPE-MOON",
+        "image": "https://img.amiami.jp/images/product/main/233/MED-BOOK-035327.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/233/MED-BOOK-035327.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-035327",
+          "https://www.suruga-ya.jp/product/detail/ZHORE263468"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-035327&page=rt_11",
+      "officialTitle": "ロード・エルメロイII世の冒険6 フェムの 船宴 (上)",
+      "volume": 6,
+      "recordKind": "paper-volume",
+      "retailerObservation": {
+        "id": "book-retailer-6",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-035327&page=rt_11",
+        "sha256": "c12d336de1cc8346e9e3518fa86d9e84bbf09ac18223c0c20b9d79a6e3b9e28f"
+      },
+      "identityMatch": "官网单卷对应购买商品代码、原卷号、既有JAN与同代码销售观察一致",
+      "scope": "官方书目标题、卷次、作者、插画、出版方及四六判；原有Amiami商品代码和JAN另核同编号页面",
+      "summary": "TYPE-MOON BOOKS《ロード・エルメロイII世の冒険》第6卷「フェムの船宴(上)」纸本小说，由三田誠著、坂本みねぢ绘制插画，官方列示四六判。",
+      "notes": "只补空缺简介及两条出处；保留原名、JAN、ISBN空值与所有原字段。不推断页数、初版印次或套装，不把456开头JAN填为ISBN。"
+    }
+  ]
+}

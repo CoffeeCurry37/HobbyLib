@@ -1,0 +1,83 @@
+[
+  {
+    "itemId": "source-55c4ce1754bce82a09082018ec6a8dc3",
+    "groupId": "series-48bb85ab60ca3056",
+    "title": "ロード・エルメロイII世の冒険 12 星冠密議(4) / 三田誠 / 坂本みねぢ / TYPE-MOON(箱・ジャケット・ケース不備(中))",
+    "identityBinding": {
+      "isbn": "",
+      "jan": "4560158370937",
+      "platform": null,
+      "edition": null,
+      "productLine": "ロード・エルメロイII世の冒険",
+      "wave": "4",
+      "member": "ロード・エルメロイII世の冒険 12 星冠密議(4) / 三田誠 / 坂本みねぢ / TYPE-MOON(箱・ジャケット・ケース不備(中))",
+      "image": "https://img.amiami.jp/images/product/main/223/MED-BOOK-030366.jpg",
+      "catalogueKey": null,
+      "catalogueGroupType": null,
+      "images": [
+        "https://img.amiami.jp/images/product/main/223/MED-BOOK-030366.jpg"
+      ],
+      "offerUrls": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-030366",
+        "https://www.suruga-ya.jp/product/detail/ZHORE307622?branch_number=0003"
+      ]
+    },
+    "status": "pending",
+    "recordKind": "cross-volume-source-conflict",
+    "titleVolume": 12,
+    "linkedVolume": 4,
+    "source": {
+      "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+      "at": "2026-11-12T19:08:17.566Z",
+      "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+    },
+    "retailerObservation": {
+      "id": "book-retailer-4",
+      "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-030366",
+      "sha256": "86a16c86249468f52ca49d5ed3e84f98a026348cb8183df5b8b6d5a3005bf3d5"
+    },
+    "reason": "标题为第12卷，但已有Amiami商品代码MED-BOOK-030366及JAN 4560158370937均指向第4卷；该记录混有不同卷来源，当前商品身份不能只按标题或条码确定。",
+    "next": "保留原ID、个人字段、旧证据及挂牌；下一步对完整挂牌/归并来源形成具体修复方案并作完整副本验证，再决定是否拆分或重归属。本轮不改名、不改JAN、不迁移Offer、不写summary。"
+  },
+  {
+    "itemId": "source-698d39a49148c3c0468ee2e7640a5f5e",
+    "groupId": "series-48bb85ab60ca3056",
+    "title": "ロード・エルメロイII世の冒険 9 星冠密議(1) / 三田誠 / 坂本みねぢ / TYPE-MOON",
+    "identityBinding": {
+      "isbn": "",
+      "jan": "4560158370784",
+      "platform": null,
+      "edition": null,
+      "productLine": "ロード・エルメロイII世の冒険",
+      "wave": "1",
+      "member": "ロード・エルメロイII世の冒険 9 星冠密議(1) / 三田誠 / 坂本みねぢ / TYPE-MOON",
+      "image": "https://img.amiami.jp/images/product/main/204/MED-BOOK-018675.jpg",
+      "catalogueKey": null,
+      "catalogueGroupType": null,
+      "images": [
+        "https://img.amiami.jp/images/product/main/204/MED-BOOK-018675.jpg"
+      ],
+      "offerUrls": [
+        "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-018675",
+        "https://www.suruga-ya.jp/product/detail/ZHORE236436",
+        "https://www.suruga-ya.jp/product/detail/ZHORE284295"
+      ]
+    },
+    "status": "pending",
+    "recordKind": "cross-volume-source-conflict",
+    "titleVolume": 9,
+    "linkedVolume": 1,
+    "source": {
+      "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+      "at": "2026-11-12T19:08:17.566Z",
+      "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+    },
+    "retailerObservation": {
+      "id": "book-retailer-1",
+      "url": "https://store.shopping.yahoo.co.jp/amiami/med-book-018675.html",
+      "sha256": "42b26eb199173aef6e6ffc9f31a001667be3406df4a11daf8fc4d3f25c101f58"
+    },
+    "reason": "标题为第9卷，但已有Amiami商品代码MED-BOOK-018675及JAN 4560158370784均指向第1卷；该记录混有不同卷来源，当前商品身份不能只按标题或条码确定。",
+    "next": "保留原ID、个人字段、旧证据及挂牌；下一步对完整挂牌/归并来源形成具体修复方案并作完整副本验证，再决定是否拆分或重归属。本轮不改名、不改JAN、不迁移Offer、不写summary。"
+  }
+]

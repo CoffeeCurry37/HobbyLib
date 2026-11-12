@@ -1,0 +1,25 @@
+[
+  {
+    "groupId": "series-48bb85ab60ca3056",
+    "label": "ロード・エルメロイII世の冒険",
+    "candidates": 12,
+    "sources": [
+      "https://typemoon.com/products/tmbooks/elmelloi_bouken/"
+    ],
+    "scope": "官方有卷1～12和作者/插画/开本；12个现有来源记录不等于12个独立卷。先查两条标题与JAN/挂牌来源疑似跨卷的记录，再逐卷绑定；不修改原名/条码或自动合并。",
+    "status": "official-source-discovery-only",
+    "key": "elmelloi"
+  },
+  {
+    "groupId": "series-ecf1dcef0691c090",
+    "label": "グリッターCANバッジ Fate/Grand Order E",
+    "candidates": 13,
+    "sources": [
+      "https://store.kadokawa.co.jp/shop/series/series00121501?p=12&ps=12&style=T",
+      "https://www.suruga-ya.jp/product/detail/881005212"
+    ],
+    "scope": "10个具名单款、单包、BOX、零售全套。KADOKAWA官方商店目录列示本款BOX，但不是制造商原规格；需取得商品详情/厂商清单逐项对应，保留职阶及名称差异。",
+    "status": "official-shop-index-and-retailer-discovery-only",
+    "key": "glitter"
+  }
+]

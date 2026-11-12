@@ -1,0 +1,722 @@
+{
+  "at": "2026-11-12T19:13:15.618Z",
+  "rows": [
+    {
+      "itemId": "source-0627e34cd10529e34656dae20dac1e5a",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "エゴ/ジュネス・クレーン 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "エゴ/ジュネス・クレーン 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186974&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186974&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186974"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "アルターエゴ/ジュネス・クレーン",
+      "retailerObservation": {
+        "id": "glitter-e-crane-single",
+        "url": "https://www.suruga-ya.jp/product/detail/889186974",
+        "sha256": "682f5029649ac29cca6e4702d9cfae608362a0536fac720637ffb5540af0d673"
+      },
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为アルターエゴ/ジュネス・クレーン单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-134b5184fed6b561c0838edccecc827e",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "キャスター/マーリン 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "キャスター/マーリン 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186969&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186969&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186969"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "キャスター/マーリン",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为キャスター/マーリン单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-1ef38a8e1d06570b49165875eeeb0b28",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "セイバー/パッションリップ 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "セイバー/パッションリップ 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186972&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186972&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186972"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "セイバー/パッションリップ",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为セイバー/パッションリップ单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-23e72ab7f6042e1ec744836feaff3797",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "ルーラー/スカサハースカディ 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "ルーラー/スカサハースカディ 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186971&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186971&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186971"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "ルーラー/スカサハースカディ",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为ルーラー/スカサハースカディ单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-69b83a7d6a640d72cee718aee8eccac5",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "バーサーカー/呼延灼 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "バーサーカー/呼延灼 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186973&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186973&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186973"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "バーサーカー/呼延灼",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为バーサーカー/呼延灼单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-8c244bc3b60b213fb779cd9f44d3c414",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "バーサーカー/宮本武蔵 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "バーサーカー/宮本武蔵 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186966&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186966&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186966"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "バーサーカー/宮本武蔵",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为バーサーカー/宮本武蔵单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-8c4feccf49521f8566ec9ddd0b8902b9",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "セイバー/葛飾北斎 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "セイバー/葛飾北斎 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186967&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186967&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186967"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "セイバー/葛飾北斎",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为セイバー/葛飾北斎单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-98cdfafd882d2dc1f265e30fcbd7c9be",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "全10種セット 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "全10種セット 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186976&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186976&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186976"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "retailer-complete-set",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。原零售目录将本条列为全10种套装；具体封装及附属内容待核实，不据此认定为原封BOX。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-a05f89809948bf62eaf6750614a56396",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "アサシン/沖田総司 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "アサシン/沖田総司 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186968&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186968&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186968"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "アサシン/沖田総司",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为アサシン/沖田総司单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-abab437288549ac289ab90876d8277f1",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "【ボックス】グリッターCANバッジ Fate/Grand Order E",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "【ボックス】グリッターCANバッジ Fate/Grand Order E",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=881005212&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=881005212&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/881005212"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "box",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为整盒条目；KADOKAWA商店列示每BOX 10枚、全10种，并注明一盒不保证集齐。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-ea222d8cdf7ebe505e8d4323ae04c68f",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "バーサーカー/伊吹童子 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "バーサーカー/伊吹童子 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186970&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186970&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186970"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "バーサーカー/伊吹童子",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为バーサーカー/伊吹童子单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-fa4e79a37ab4700e9516c8f38162c709",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "【パック】グリッターCANバッジ Fate/Grand Order E",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "【パック】グリッターCANバッジ Fate/Grand Order E",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186965&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186965&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186965"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "pack",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条按原零售目录保留为未指定角色的单包条目，单包封入枚数和专属条码仍待核实。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    },
+    {
+      "itemId": "source-fabf66f30707d6b3d0b1c5dea928bea6",
+      "groupId": "series-ecf1dcef0691c090",
+      "title": "セイバー/斎藤一 「グリッターCANバッジ Fate/Grand Order E」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order E",
+        "wave": null,
+        "member": "セイバー/斎藤一 「グリッターCANバッジ Fate/Grand Order E」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186975&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186975&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186975"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+        "at": "2026-11-12T19:10:13.072Z",
+        "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+      },
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+          "at": "2026-11-12T19:09:33.549Z",
+          "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+      "recordKind": "single",
+      "character": "セイバー/斎藤一",
+      "imageObservation": {
+        "id": "glitter-e-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+        "sha256": "e6ff7ba63f69f519e3e90b554c1b61b2c8480148d12e4e6febda01549129397d"
+      },
+      "lineupObservation": {
+        "id": "glitter-e-retailer-lineup",
+        "url": "https://www.suruga-ya.jp/product/detail/881005212",
+        "sha256": "b61b5532934d07a764a1d43b926bd337da825ca9f79dd61224d1ed1001f62fa9"
+      },
+      "identityMatch": "原来源厂商/作品/徽章E组与同款销售详情对应，具名单款另核款式清单和实链商品图；包装类型分别保留",
+      "scope": "KADOKAWA官方商店及HOBBY STOCK作为销售来源；尺寸、闪粉工艺与包装范围仅按本商品明确描述，非制造商原目录",
+      "summary": "《Fate/Grand Order》グリッターCANバッジ E闪粉徽章，销售详情列示直径约56mm、厚约4mm、共10种，制造商为バンダイ。本条为セイバー/斎藤一单款，与本款销售清单及商品图对应。",
+      "notes": "仅补空缺简介及两条出处；原名、空JAN、图片和个人资料均保留。原零售清单バッションリップ拼写与图中Passionlip另存核对，原记录不重命名；不推断材质或发行日，不保证二手完整性。"
+    }
+  ]
+}

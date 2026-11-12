@@ -1,0 +1,230 @@
+[
+  {
+    "id": "book-retailer-1",
+    "url": "https://store.shopping.yahoo.co.jp/amiami/med-book-018675.html",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 1,
+      "gcode": "MED-BOOK-018675",
+      "jan": "4560158370784",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-2",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-023115",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 2,
+      "gcode": "MED-BOOK-023115",
+      "jan": "4560158370791",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-3",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-026289",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 3,
+      "gcode": "MED-BOOK-026289",
+      "jan": "4560158370913",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-4",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-030366",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 4,
+      "gcode": "MED-BOOK-030366",
+      "jan": "4560158370937",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-5",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-032172",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 5,
+      "gcode": "MED-BOOK-032172",
+      "jan": "4560158371064",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-6",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-035327&page=rt_11",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 6,
+      "gcode": "MED-BOOK-035327",
+      "jan": "4560158371163",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-7",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-037746",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 7,
+      "gcode": "MED-BOOK-037746",
+      "jan": "4560158371286",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-8",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-042043",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 8,
+      "gcode": "MED-BOOK-042043",
+      "jan": "4560158371415",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-9",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-043847",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 9,
+      "gcode": "MED-BOOK-043847",
+      "jan": "4560158371453",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-10",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-048002",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 10,
+      "gcode": "MED-BOOK-048002",
+      "jan": "4560158371521",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-11",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-050284",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 11,
+      "gcode": "MED-BOOK-050284",
+      "jan": "4560158371590",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "book-retailer-12",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-055099",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; ordinary direct Amiami requests unavailable",
+    "facts": {
+      "volume": 12,
+      "gcode": "MED-BOOK-055099",
+      "jan": "4560158371651",
+      "publisher": "TYPE-MOON BOOKS"
+    },
+    "scope": "仅核对相同商品代码、卷号及JAN；出版社官网各卷购买链接另作绑定，不采纳库存、初版印次或缺失页数。"
+  },
+  {
+    "id": "glitter-e-image",
+    "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "original cached image visually inspected",
+    "sourceSha256": "be1f3c5e68e94690e1c675b58e7279adb2c606227c35b9fc3e2149f690071c1b",
+    "facts": {
+      "badgeCount": 10,
+      "positions": [
+        "上排左：Miyamoto Musashi",
+        "上排中：Katsushika Hokusai",
+        "上排右：Okita Souji",
+        "中排左：Merlin",
+        "中排左二：Ibuki-Douji",
+        "中排右二：Scathach Skadi",
+        "中排右：Passionlip",
+        "下排左：Huyan Zhuo",
+        "下排中：Jeunesse Crane",
+        "下排右：Saito Hajime"
+      ],
+      "manufacturerLabel": "発売元：株式会社バンダイ"
+    },
+    "scope": "本商品页实际链接的款式图；图中文字Passionlip辅助核清零售清单バッションリップ笔误，角色图不替代原记录其他身份或完整商品核实。"
+  },
+  {
+    "id": "glitter-e-retailer-lineup",
+    "url": "https://www.suruga-ya.jp/product/detail/881005212",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; direct fetch unavailable",
+    "facts": {
+      "managementCode": "881005212",
+      "boxCount": 10,
+      "regularTypes": 10,
+      "manufacturer": "ハセ・プロ/バンダイ",
+      "lineup": [
+        "バーサーカー/宮本武蔵",
+        "セイバー/葛飾北斎",
+        "アサシン/沖田総司",
+        "キャスター/マーリン",
+        "バーサーカー/伊吹童子",
+        "ルーラー/スカサハースカディ",
+        "セイバー/バッションリップ",
+        "バーサーカー/呼延灼",
+        "アルターエゴ/ジュネス・クレーン",
+        "セイバー/斎藤一"
+      ]
+    },
+    "scope": "只作为零售款式清单观察，不提升为厂商目录。バッションリップ原写法保留在观察，商品图另明确Passionlip；不自动改原名。"
+  },
+  {
+    "id": "glitter-e-crane-single",
+    "url": "https://www.suruga-ya.jp/product/detail/889186974",
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "web search readable indexed product text; direct open unavailable",
+    "facts": {
+      "managementCode": "889186974",
+      "character": "アルターエゴ/ジュネス・クレーン",
+      "diameterDepth": "直径約56×D4mm"
+    },
+    "scope": "原编号单款页面和已有description均写完整职阶，原title截成エゴ保持不变；简介可记录完整职阶出处。"
+  },
+  {
+    "id": "glitter-e-packages-unavailable",
+    "urls": [
+      "https://www.suruga-ya.jp/product/detail/889186976",
+      "https://www.suruga-ya.jp/product/detail/889186965"
+    ],
+    "at": "2026-11-12T19:13:11.529Z",
+    "access": "direct web open unavailable; exact code search no matching product result",
+    "scope": "单包/全套只保留已有目录身份，未确认的封入枚数/封装/附属内容和条码不新增。"
+  }
+]
+

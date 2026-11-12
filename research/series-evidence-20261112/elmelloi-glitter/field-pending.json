@@ -1,0 +1,29 @@
+{
+  "at": "2026-11-12T19:13:15.618Z",
+  "items": [
+    {
+      "itemId": "source-98cdfafd882d2dc1f265e30fcbd7c9be",
+      "title": "全10種セット 「グリッターCANバッジ Fate/Grand Order E」",
+      "safeSummaryPrepared": true,
+      "unconfirmedFields": [
+        "零售全套实际封装",
+        "附属内容",
+        "全套专属JAN"
+      ],
+      "reason": "原单包/全套详情不可读；只补明确系列规格及保留目录身份，不把BOX参数下放。",
+      "next": "取得可读同编号详情或明确包装证据再补。"
+    },
+    {
+      "itemId": "source-fa4e79a37ab4700e9516c8f38162c709",
+      "title": "【パック】グリッターCANバッジ Fate/Grand Order E",
+      "safeSummaryPrepared": true,
+      "unconfirmedFields": [
+        "单包封入枚数",
+        "单包专属JAN"
+      ],
+      "reason": "原单包/全套详情不可读；只补明确系列规格及保留目录身份，不把BOX参数下放。",
+      "next": "取得可读同编号详情或明确包装证据再补。"
+    }
+  ],
+  "note": "2条仅准备安全范围简介；13条徽章原空JAN全部保留。不等于完整核实。"
+}

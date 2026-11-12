@@ -1,0 +1,309 @@
+{
+  "at": "2026-11-12T19:13:15.618Z",
+  "books": [
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険1 神を喰らった男",
+      "volume": 1,
+      "subtitle": "神を喰らった男",
+      "retailerProductCode": "MED-BOOK-018675",
+      "retailerObservation": {
+        "id": "book-retailer-1",
+        "url": "https://store.shopping.yahoo.co.jp/amiami/med-book-018675.html",
+        "sha256": "42b26eb199173aef6e6ffc9f31a001667be3406df4a11daf8fc4d3f25c101f58"
+      },
+      "listedJan": "4560158370784",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険2 彷徨海の魔人(上)",
+      "volume": 2,
+      "subtitle": "彷徨海の魔人(上)",
+      "retailerProductCode": "MED-BOOK-023115",
+      "retailerObservation": {
+        "id": "book-retailer-2",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-023115",
+        "sha256": "b2c5a95ffbb5ac9a56fc54f2fe62b844c2acabe483db0081e3d7f8fe790af642"
+      },
+      "listedJan": "4560158370791",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険3 彷徨海の魔人(下)",
+      "volume": 3,
+      "subtitle": "彷徨海の魔人(下)",
+      "retailerProductCode": "MED-BOOK-026289",
+      "retailerObservation": {
+        "id": "book-retailer-3",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-026289",
+        "sha256": "261eccb5db4a1123bcc9b5ebd72664fcce5ffaf14f4e441666a411683916d123"
+      },
+      "listedJan": "4560158370913",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険4 錬金術師の遺産(上)",
+      "volume": 4,
+      "subtitle": "錬金術師の遺産(上)",
+      "retailerProductCode": "MED-BOOK-030366",
+      "retailerObservation": {
+        "id": "book-retailer-4",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-030366",
+        "sha256": "86a16c86249468f52ca49d5ed3e84f98a026348cb8183df5b8b6d5a3005bf3d5"
+      },
+      "listedJan": "4560158370937",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険5 錬金術師の遺産(下)",
+      "volume": 5,
+      "subtitle": "錬金術師の遺産(下)",
+      "retailerProductCode": "MED-BOOK-032172",
+      "retailerObservation": {
+        "id": "book-retailer-5",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-032172",
+        "sha256": "bc58e832b30f540ac38f64ae5ab10a1974f0b965716cab625c90bb089661c1d0"
+      },
+      "listedJan": "4560158371064",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険6 フェムの 船宴 (上)",
+      "volume": 6,
+      "subtitle": "フェムの船宴(上)",
+      "retailerProductCode": "MED-BOOK-035327",
+      "retailerObservation": {
+        "id": "book-retailer-6",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-035327&page=rt_11",
+        "sha256": "c12d336de1cc8346e9e3518fa86d9e84bbf09ac18223c0c20b9d79a6e3b9e28f"
+      },
+      "listedJan": "4560158371163",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険7 フェムの 船宴 (中)",
+      "volume": 7,
+      "subtitle": "フェムの船宴(中)",
+      "retailerProductCode": "MED-BOOK-037746",
+      "retailerObservation": {
+        "id": "book-retailer-7",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-037746",
+        "sha256": "3dfc7a027d09fbcfef718cf564b2e8e2d8850f8996d95d5c8ab30713296494b6"
+      },
+      "listedJan": "4560158371286",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険8 フェムの 船宴 (下)",
+      "volume": 8,
+      "subtitle": "フェムの船宴(下)",
+      "retailerProductCode": "MED-BOOK-042043",
+      "retailerObservation": {
+        "id": "book-retailer-8",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-042043",
+        "sha256": "7b516785eb641bab77f42fa1cd6f920effd771b21019fb2054174c043ede13d2"
+      },
+      "listedJan": "4560158371415",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険9 星冠密議 (1)",
+      "volume": 9,
+      "subtitle": "星冠密議(1)",
+      "retailerProductCode": "MED-BOOK-043847",
+      "retailerObservation": {
+        "id": "book-retailer-9",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-043847",
+        "sha256": "8cde47e9f5e8070a0d4f9c36ea43cb132e3d2fd4ad2d8474e77536270898bada"
+      },
+      "listedJan": "4560158371453",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険10 星冠密議 (2)",
+      "volume": 10,
+      "subtitle": "星冠密議(2)",
+      "retailerProductCode": "MED-BOOK-048002",
+      "retailerObservation": {
+        "id": "book-retailer-10",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-048002",
+        "sha256": "4dd73d02f7a305cca5d3aef6f25ecbbbf101d96543673f67f0436ed036aa78dd"
+      },
+      "listedJan": "4560158371521",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険11 星冠密議 (3)",
+      "volume": 11,
+      "subtitle": "星冠密議(3)",
+      "retailerProductCode": "MED-BOOK-050284",
+      "retailerObservation": {
+        "id": "book-retailer-11",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-050284",
+        "sha256": "207392f6bf5d561766bfac454fb0b5df5097ff91585e251f0cf000e745b1fcc5"
+      },
+      "listedJan": "4560158371590",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    },
+    {
+      "source": {
+        "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+        "at": "2026-11-12T19:08:17.566Z",
+        "sha256": "d915843c76436ebacb52b834352b2909f078fb4037451e094810e78b6ecd2992"
+      },
+      "officialTitle": "ロード・エルメロイII世の冒険12 星冠密議 (4)",
+      "volume": 12,
+      "subtitle": "星冠密議(4)",
+      "retailerProductCode": "MED-BOOK-055099",
+      "retailerObservation": {
+        "id": "book-retailer-12",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-055099",
+        "sha256": "19671d627356965f4e50977b0d98ad3fa8f529a6f152dd27eb5149d761b8c0e7"
+      },
+      "listedJan": "4560158371651",
+      "author": "三田誠",
+      "illustrator": "坂本みねぢ",
+      "format": "四六判",
+      "medium": "paper",
+      "scope": "官网单卷h3及其购买链接；查询参数仅按gcode/scode提取商品代码，去掉跟踪参数。"
+    }
+  ],
+  "badge": {
+    "source": {
+      "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584673/",
+      "at": "2026-11-12T19:10:13.072Z",
+      "sha256": "56a9f9ef69afae9a7a6744a042f50f3fb932d468bee0d1a541b74b41af30beac"
+    },
+    "additionalSource": {
+      "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407803",
+      "at": "2026-11-12T19:09:33.549Z",
+      "sha256": "cbd78807fad8c3e27826928bbace8002428ac7740a5c81e923d241ef93727d65"
+    },
+    "officialTitle": "Fate/Grand Order グリッターCANバッジ E 【1BOX】",
+    "sourceRole": "KADOKAWA官方商店销售详情，非制造商原目录",
+    "manufacturer": "バンダイ",
+    "regularTypes": 10,
+    "boxCount": 10,
+    "boxCompletionGuaranteed": false,
+    "diameterDepth": "直径約56×D4mm",
+    "imageSource": {
+      "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584673.jpg",
+      "at": "2026-11-12T19:10:54.787Z",
+      "sha256": "be1f3c5e68e94690e1c675b58e7279adb2c606227c35b9fc3e2149f690071c1b"
+    },
+    "lineup": [
+      "バーサーカー/宮本武蔵",
+      "セイバー/葛飾北斎",
+      "アサシン/沖田総司",
+      "キャスター/マーリン",
+      "バーサーカー/伊吹童子",
+      "ルーラー/スカサハースカディ",
+      "セイバー/パッションリップ",
+      "バーサーカー/呼延灼",
+      "アルターエゴ/ジュネス・クレーン",
+      "セイバー/斎藤一"
+    ],
+    "scope": "销售详情明确规格+该款实链商品图；不把店铺目录标作厂商规格，不推断材质、包装JAN或首发日期。"
+  },
+  "scope": "官方书目与商品代码逐卷绑定；徽章为销售详情与商品图佐证，不冒充制造商原文。",
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

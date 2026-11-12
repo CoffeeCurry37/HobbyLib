@@ -17,6 +17,8 @@ allowed.add('celebration.fate-extella.jp');
 allowed.add('www.hobbystock.jp');
 // Algernon's official public shop, discovered from its product catalogue.
 allowed.add('market.algernonproduct.co.jp');
+// Official KADOKAWA shop index discovered for the current evidence round.
+allowed.add('store.kadokawa.co.jp');
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};
 const planPath=process.argv[2],plan=JSON.parse(fs.readFileSync(planPath,'utf8'));
 if(!Array.isArray(plan)||plan.length>350)throw Error('Capture plan exceeds 350 URLs');
@@ -24,7 +26,7 @@ const oldCaches=['../hobbylib-review-20261028/work/pilot-v3/source-cache'];
 const receiptFile=planPath.replace(/\.json$/,'.receipts.jsonl');
 async function capture(spec){
  allowedUrl(spec.url);const key=hash(spec.url),meta=cache+'/'+key+'.json';
- if(fs.existsSync(meta)){const r=JSON.parse(fs.readFileSync(meta));return {...r,cacheHit:true};}
+ if(fs.existsSync(meta)){const r=JSON.parse(fs.readFileSync(meta));if(!(process.argv.includes('--retry-environment-denied')&&r.errorCode==='EACCES'))return {...r,cacheHit:true};}
  for(const old of oldCaches){const p=path.join(old,key+'.json');if(!fs.existsSync(p))continue;const r=JSON.parse(fs.readFileSync(p));if(r.status==='captured'&&r.body&&Date.now()-Date.parse(r.at)<180*86400000){fs.writeFileSync(cache+'/'+key+'.html',r.body);const {body,...rest}=r;const result={...rest,legacyCacheReused:true,cacheHit:true};fs.writeFileSync(meta,JSON.stringify(result));return result;}}
  let r={url:spec.url,at:new Date().toISOString(),requestCount:0,cacheHit:false};
  try{

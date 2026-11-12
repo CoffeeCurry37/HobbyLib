@@ -1,0 +1,18 @@
+{
+  "at": "2026-11-12T19:15:32.412Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 25,
+  "prepared": 23,
+  "pendingEvidence": 2,
+  "fieldPendingRecords": 2,
+  "productionApplied": 0,
+  "plannedBatches": [
+    20,
+    3
+  ],
+  "previousOutstanding": "../emiya-chara22/resume.json",
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0,
+  "note": "两条跨卷冲突整条保留，不新增summary；23条只补明确简介和两条出处，原认可及其他字段不变。隔离校验通过，维护入口尚未打开。"
+}
+
