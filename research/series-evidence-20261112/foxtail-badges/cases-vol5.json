@@ -1,0 +1,853 @@
+{
+  "at": "2026-11-12T06:13:52.310Z",
+  "rows": [
+    {
+      "itemId": "2124a475-4dd0-425b-b27c-6c2c4a3ec96f",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "ランサー/メドゥーサ 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "ランサー/メドゥーサ 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209340&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209340&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209340"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "ランサー/メドゥーサ",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209340",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209340",
+          "at": "2026-10-06T01:40:59.589Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为ランサー/メドゥーサ普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "281c9f1b-94e0-4b64-aff0-74ff96cc2614",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "【パック】ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "【パック】ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209335&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209335&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209335"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "pack",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209335",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209335",
+          "at": "2026-10-06T01:40:54.145Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确同厂商/作品/徽章vol及包装类型，使用相同系列规格；全套另核相同零售管理编号的内容清单",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条保留为原零售来源的单包条目，未指定角色。系列普通款共10种；不将整盒规格视为单包内容。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "289c2abc-164c-4c15-a25b-79fb873a6948",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "【ボックス】ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "【ボックス】ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=881006039&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=881006039&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/881006039"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "box",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/881006039",
+          "at": "2026-10-04T21:16:16.803Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/881006039",
+          "at": "2026-10-06T01:41:04.854Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确同厂商/作品/徽章vol及包装类型，使用相同系列规格；全套另核相同零售管理编号的内容清单",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为整盒条目。厂商规格为每BOX 10枚并集齐普通款10种；店铺购买特典另计，不据此保证二手包装及附属品完整。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "3591c391-edf7-4878-87b8-61d6c39969ad",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "ライダー/ケツァル・コアトル 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "ライダー/ケツァル・コアトル 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209342&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209342&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209342"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "ライダー/ケツァル・コアトル",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209342",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209342",
+          "at": "2026-10-06T01:40:59.589Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为ライダー/ケツァル・コアトル普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "36c8853e-65a0-4438-b255-c80fe8b3ea2a",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "セイバー/宮本武蔵 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "セイバー/宮本武蔵 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209345&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209345&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209345"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "セイバー/宮本武蔵",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209345",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209345",
+          "at": "2026-10-06T01:40:59.590Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为セイバー/宮本武蔵普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "3d0a5f78-182e-4d04-a971-ef75356256b3",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "キャスター/ギルガメッシュ 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "キャスター/ギルガメッシュ 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209337&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209337&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209337"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "キャスター/ギルガメッシュ",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209337",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209337",
+          "at": "2026-10-06T01:40:59.591Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为キャスター/ギルガメッシュ普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "496449c3-a12d-487e-a8cd-89bb0f5ce0ac",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "アサシン/“山の翁” 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "アサシン/“山の翁” 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209343&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209343&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209343"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "アサシン/“山の翁”",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209343",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209343",
+          "at": "2026-10-06T01:40:54.145Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为アサシン/“山の翁”普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "49835230-e7b7-4fc2-8875-7e75097d00ae",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "ランサー/ジャガーマン 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "ランサー/ジャガーマン 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209341&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209341&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209341"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "ランサー/ジャガーマン",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209341",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209341",
+          "at": "2026-10-06T01:40:59.589Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为ランサー/ジャガーマン普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "7e9ee9a9-beb9-4cb7-a956-5abd71f41813",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "ランサー/エルキドゥ 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "ランサー/エルキドゥ 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209338&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209338&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209338"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "ランサー/エルキドゥ",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209338",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209338",
+          "at": "2026-10-06T01:40:54.145Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为ランサー/エルキドゥ普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "8e90321f-102d-4e4a-a545-84d1188bcb12",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "キャスター/マーリン 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "キャスター/マーリン 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209336&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209336&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209336"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "キャスター/マーリン",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209336",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209336",
+          "at": "2026-10-06T01:40:59.591Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为キャスター/マーリン普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "b2e74462-39b0-4d3f-8f7a-aa7688fffa93",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "全10種セット 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "全10種セット 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209346&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209346&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209346"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "retailer-complete-set",
+      "retailerObservation": {
+        "id": "surugaya-set-vol5",
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/889209346",
+        "sha256": "182ed6d820bba60a1a90f9d6db320420272912e365c18db26765051b444e7901"
+      },
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209346",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209346",
+          "at": "2026-10-06T01:40:59.591Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原来源明确同厂商/作品/徽章vol及包装类型，使用相同系列规格；全套另核相同零售管理编号的内容清单",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为原零售来源列示的普通款全10种组合，内容与官方普通款清单对应；不据此认定为原封整盒或包含店铺特典。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "fb14a8dc-d490-41e2-a85c-c0f745380b90",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "アヴェンジャー/ゴルゴーン 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "アヴェンジャー/ゴルゴーン 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209344&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209344&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209344"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "アヴェンジャー/ゴルゴーン",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209344",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209344",
+          "at": "2026-10-06T01:40:59.590Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为アヴェンジャー/ゴルゴーン普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "fb90853f-c1e8-47f7-9f5f-8cb660785e1c",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "アーチャー/イシュタル 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "アーチャー/イシュタル 「ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889209339&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889209339&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889209339"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "single",
+      "character": "アーチャー/イシュタル",
+      "identityEvidence": [
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.suruga-ya.jp/product/detail/889209339",
+          "at": "2026-10-04T21:16:12.917Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "来源分类",
+          "value": "バッジ・ビンズ",
+          "url": "https://www.suruga-ya.jp/product/detail/889209339",
+          "at": "2026-10-06T01:41:04.851Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        }
+      ],
+      "identityMatch": "原厂商、徽章类型、vol及完整职阶/角色与厂商普通款清单唯一对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为アーチャー/イシュタル普通单款，属于该系列10种普通款之一。店铺整盒购买特典另计。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    },
+    {
+      "itemId": "source-ff14b44c190001e87b0cb21674136d43",
+      "groupId": "series-dfa688e9c60ed886",
+      "title": "ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5 10個入りBOX[ホビーストック]《発売済・在庫品》",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4580822009185",
+        "platform": null,
+        "edition": null,
+        "productLine": "ぴくりる! トレーディング缶バッジ",
+        "wave": "5",
+        "member": "ぴくりる! Fate/Grand Order トレーディング缶バッジ vol.5 10個入りBOX[ホビーストック]《発売済・在庫品》",
+        "image": "https://img.amiami.jp/images/product/main/262/GOODS-04820728.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/262/GOODS-04820728.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820728"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+          "at": "2026-11-11T18:28:33.987Z",
+          "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+        }
+      ],
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "recordKind": "box",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "コレクショントイ(食玩) > 一般系 > その他",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820728",
+          "at": "2026-10-05T19:52:58.247Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "brand",
+          "value": "ホビーストック",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820728",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4580822009185",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04820728",
+          "at": "2026-10-05T20:33:10.503Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ],
+      "identityMatch": "原BOX JAN与厂商BOX元信息完全一致，作品/vol/包装类型对应",
+      "scope": "厂商本款规格与原来源明确身份逐项对应；普通单款、单包、整盒和零售全套分别解释；BOX JAN只用于原BOX记录核对",
+      "summary": "HOBBY STOCK《Fate/Grand Order》ぴくりる! 徽章vol.5，使用Q版角色插画，徽章直径约57mm，材质为纸和钢。厂商标示2026年8月发售。本条为整盒条目。厂商规格为每BOX 10枚并集齐普通款10种；店铺购买特典另计，不据此保证二手包装及附属品完整。",
+      "notes": "只补空缺简介及两条出处；原JAN、个人字段与报价保留，空JAN不填。不混入同角色立牌、缶钥匙扣或店铺特典，不更新实时库存。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "at": "2026-11-12T06:13:52.310Z",
+  "action": "none",
+  "groups": [
+    {
+      "volume": 5,
+      "ids": [
+        "289c2abc-164c-4c15-a25b-79fb873a6948",
+        "source-ff14b44c190001e87b0cb21674136d43"
+      ],
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      }
+    },
+    {
+      "volume": 6,
+      "ids": [
+        "aed69154-1ea9-4dd2-9be9-dbb1443cf7a9",
+        "source-567079c17094b94b17c58c601d5d5503"
+      ],
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015298?ga=sm_fgo",
+        "at": "2026-11-12T06:04:10.519Z",
+        "sha256": "e1388acb5a453b64090b9a3db2ce41be11c6c523f5d3e1ca1cd168dfcc430b72"
+      }
+    }
+  ],
+  "rule": "同BOX多来源保持原ID；全套和BOX不合并；无新增商品、特典或关系。"
+}

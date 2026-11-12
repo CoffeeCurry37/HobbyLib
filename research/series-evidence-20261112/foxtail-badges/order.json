@@ -1,0 +1,38 @@
+[
+  {
+    "groupId": "series-f72558fd519ee9da",
+    "label": "フェイト/エクストラ CCC FoxTail",
+    "candidates": 14,
+    "sources": [
+      "https://www.kadokawa.co.jp/product/321311000121/",
+      "https://www.kadokawa.co.jp/product/322509000886/"
+    ],
+    "scope": "13个单卷加逻辑目录；既有ISBN及官方URL可定位，逐卷核对卷次/媒介/作者，不与ろび～な的EXTRA或CCC漫画混淆。官方商品页与商店系列列表日期有差异时保留来源精度，不猜初版印次。",
+    "status": "official-source-discovery-only",
+    "key": "foxtail"
+  },
+  {
+    "groupId": "series-dfa688e9c60ed886",
+    "label": "ぴくりる! FGO トレーディング缶バッジ vol.5",
+    "candidates": 14,
+    "sources": [
+      "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+      "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html"
+    ],
+    "scope": "10普通单款、单包、整盒、全10种零售套装及另一来源BOX分别核查；不能把包装JAN、套购特典或立牌资料赋予普通徽章。",
+    "status": "official-source-discovery-only",
+    "key": "vol5"
+  },
+  {
+    "groupId": "series-c8d09b5e8f38e635",
+    "label": "ぴくりる! FGO トレーディング缶バッジ vol.6",
+    "candidates": 14,
+    "sources": [
+      "https://www.hobbystock.jp/item/view/hso-ccg-00015298?ga=sm_fgo",
+      "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html"
+    ],
+    "scope": "与vol.5同样区分单款/单包/BOX/零售全套；本组是徽章，不能复用已完成亚克力立牌的规格。",
+    "status": "official-source-discovery-only",
+    "key": "vol6"
+  }
+]

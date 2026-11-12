@@ -1,0 +1,534 @@
+{
+  "at": "2026-11-12T06:13:52.310Z",
+  "rows": [
+    {
+      "itemId": "0477198f-b907-4b84-8956-52d525701106",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 2",
+      "identityBinding": {
+        "isbn": "9784041022818",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "2",
+        "member": "フェイト/エクストラ CCC FoxTail 2",
+        "image": "https://cdn.kdkw.jp/cover_1000/321407/321407000121.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321407/321407000121.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1160549519&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/321407000121/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321407000121/",
+        "at": "2026-11-12T06:10:05.634Z",
+        "sha256": "13fd2310f1704a3f36a3da873c5f9866d4744a9d7bbbc6b0352f000ce5bc54db"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (2)",
+      "volume": 2,
+      "officialIsbn": "9784041022818",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第2卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、180页，ISBN 9784041022818。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "43d21841-c24e-41dd-891e-4f3e522e0804",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 5",
+      "identityBinding": {
+        "isbn": "9784041050460",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "5",
+        "member": "フェイト/エクストラ CCC FoxTail 5",
+        "image": "https://cdn.kdkw.jp/cover_1000/321607/321607000589.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321607/321607000589.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062285119&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/321607000589/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321607000589/",
+        "at": "2026-11-12T06:10:07.079Z",
+        "sha256": "d82230c64e687833028d3c6cfc590dbc82c0e15c5e17eea638f17dfa272dabcf"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (5)",
+      "volume": 5,
+      "officialIsbn": "9784041050460",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第5卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、164页，ISBN 9784041050460。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "4972f4f6-56fc-46a4-a4d5-e1b5a2e7692b",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 4",
+      "identityBinding": {
+        "isbn": "9784041040911",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "4",
+        "member": "フェイト/エクストラ CCC FoxTail 4",
+        "image": "https://cdn.kdkw.jp/cover_1000/321511/321511000538.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321511/321511000538.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1211064386&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/321511000538/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321511000538/",
+        "at": "2026-11-12T06:10:07.856Z",
+        "sha256": "d554e076dbb31fb5e015bde8164f8b10271ff757c1c093a7a9d450bd118f8504"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (4)",
+      "volume": 4,
+      "officialIsbn": "9784041040911",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第4卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、180页，ISBN 9784041040911。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "52425078-219d-4023-803c-8c6e0c529dcc",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 7",
+      "identityBinding": {
+        "isbn": "9784041071717",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "7",
+        "member": "フェイト/エクストラ CCC FoxTail 7",
+        "image": "https://cdn.kdkw.jp/cover_1000/321803/321803001436.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321803/321803001436.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1092827696&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/321803001436/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321803001436/",
+        "at": "2026-11-12T06:10:08.698Z",
+        "sha256": "f2cac30fc37016b231e7a9f1c613d4bc8dfb3f36facacaca2b61def99fa5bc85"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (7)",
+      "volume": 7,
+      "officialIsbn": "9784041071717",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第7卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、178页，ISBN 9784041071717。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "9b31d8c9-8ef1-4622-bf37-32c427d40255",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 6",
+      "identityBinding": {
+        "isbn": "9784041061947",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "6",
+        "member": "フェイト/エクストラ CCC FoxTail 6",
+        "image": "https://cdn.kdkw.jp/cover_1000/321706/321706000662.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321706/321706000662.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1211068767&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/321706000662/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321706000662/",
+        "at": "2026-11-12T06:10:10.031Z",
+        "sha256": "85184b181f41b6f74f892090e2443a5934d7c7f83a54973cdabe19bd366d213f"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (6)",
+      "volume": 6,
+      "officialIsbn": "9784041061947",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第6卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、148页，ISBN 9784041061947。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "aa3c7fdf-f377-4f75-9de2-25eda5c8b863",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 1",
+      "identityBinding": {
+        "isbn": "9784041210550",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "1",
+        "member": "フェイト/エクストラ CCC FoxTail 1",
+        "image": "https://cdn.kdkw.jp/cover_1000/321311/321311000121.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321311/321311000121.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1163316777&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/321311000121/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321311000121/",
+        "at": "2026-11-12T06:04:10.441Z",
+        "sha256": "c89a25b12e424ec0795dcec70762991cc551facb3973b4b07eb3c1e67c07451d"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (1)",
+      "volume": 1,
+      "officialIsbn": "9784041210550",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第1卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、196页，ISBN 9784041210550。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "b119f192-20e7-4a5c-8bc3-e1755e662a16",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 11",
+      "identityBinding": {
+        "isbn": "9784041131565",
+        "jan": "9784041131565",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "11",
+        "member": "フェイト/エクストラ CCC FoxTail 11",
+        "image": "https://img.mandarake.co.jp/webshopimg/01/00/709/0100769709/s_01007697090.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1217969765&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-031766",
+          "https://www.kadokawa.co.jp/product/322207000991/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322207000991/",
+        "at": "2026-11-12T06:10:11.313Z",
+        "sha256": "ddb0b46535f652923e50bdbbdb11e3ca189979d05e18c2a31432c6da48098cfd"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (11)",
+      "volume": 11,
+      "officialIsbn": "9784041131565",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第11卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、178页，ISBN 9784041131565。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "family-1bbdff81ae0efc6aeb292ab1a95cb73d",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "",
+        "member": "フェイト/エクストラ CCC FoxTail",
+        "image": "https://cdn.kdkw.jp/cover_1000/321407/321407000121.webp",
+        "catalogueKey": "books:kadokawa:manga:フェイトエクストラcccfoxtail:",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321407/321407000121.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321311000121/",
+        "at": "2026-11-12T06:04:10.441Z",
+        "sha256": "c89a25b12e424ec0795dcec70762991cc551facb3973b4b07eb3c1e67c07451d"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/322509000886/",
+          "at": "2026-11-12T06:04:11.321Z",
+          "sha256": "ffe1808758a819504df7a9d9bf9b8ac998d8538cebb25a6f2194297773809ea3"
+        }
+      ],
+      "officialTitle": "フェイト/エクストラ CCC FoxTail",
+      "recordKind": "logical-series",
+      "scope": "逻辑系列目录；以官方首卷与后续单卷书目佐证，不声明完结、整套或拥有",
+      "summary": "《フェイト/エクストラ CCC FoxTail》纸本漫画系列目录，由たけのこ星人绘制，收录于角川コミックス・エース。各卷独立刊行并有独立ISBN；本条用于组织单卷，不表示实体套装、已经完结或已拥有全套。",
+      "notes": "保留逻辑目录关系；不与ろび～な的EXTRA/CCC漫画混淆，不新增缺卷或合并来源。"
+    },
+    {
+      "itemId": "source-13e53b4833830ed3c061717a34f4236e",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail(9) (書籍)[KADOKAWA]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "9784041105054",
+        "jan": "9784041105054",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "9",
+        "member": "フェイト/エクストラ CCC FoxTail(9) (書籍)[KADOKAWA]《在庫切れ》",
+        "image": "https://img.amiami.jp/images/product/main/204/MED-BOOK-018511.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://img.amiami.jp/images/product/main/204/MED-BOOK-018511.jpg"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-018511",
+          "https://www.kadokawa.co.jp/product/322006000433/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322006000433/",
+        "at": "2026-11-12T06:10:12.635Z",
+        "sha256": "cb251094d557fd9575943a0ee6b2a5f79f19f41fda60dcc4b40d3b11e9683ff1"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (9)",
+      "volume": 9,
+      "officialIsbn": "9784041105054",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第9卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、178页，ISBN 9784041105054。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "source-24ca38235ee82015928e148cdb3732bd",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 13",
+      "identityBinding": {
+        "isbn": "9784041170090",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "13",
+        "member": "フェイト/エクストラ CCC FoxTail 13",
+        "image": "https://cdn.kdkw.jp/cover_1000/322509/322509000886.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322509/322509000886.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1343196113&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/322509000886/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322509000886/",
+        "at": "2026-11-12T06:04:11.321Z",
+        "sha256": "ffe1808758a819504df7a9d9bf9b8ac998d8538cebb25a6f2194297773809ea3"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (13)",
+      "volume": 13,
+      "officialIsbn": "9784041170090",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第13卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、170页，ISBN 9784041170090。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "source-65f59031e8cce5edb250443dab47b338",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail (3)",
+      "identityBinding": {
+        "isbn": "9784041033265",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "3",
+        "member": "フェイト/エクストラ CCC FoxTail (3)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321503/321503000205.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321503/321503000205.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321503000205/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321503000205/",
+        "at": "2026-11-12T06:10:13.966Z",
+        "sha256": "b6f018483d9a335e613bbbe2bd06ae79d42357d6bafc73712c68ec38e983fce1"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (3)",
+      "volume": 3,
+      "officialIsbn": "9784041033265",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第3卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、162页，ISBN 9784041033265。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "source-6df433b1d2bc08a4feaf894d1ad42651",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 10",
+      "identityBinding": {
+        "isbn": "9784041121085",
+        "jan": "9784041121085",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "10",
+        "member": "フェイト/エクストラ CCC FoxTail 10",
+        "image": "https://img.mandarake.co.jp/webshopimg/01/01/254/0101771254/s_01017712540.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1217997325&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-024901",
+          "https://www.kadokawa.co.jp/product/322108000787/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322108000787/",
+        "at": "2026-11-12T06:10:14.673Z",
+        "sha256": "4ccdaea7710661020c824a7d972ba7f5d79d5fc2bf8ce1506b87cc0600ed547e"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (10)",
+      "volume": 10,
+      "officialIsbn": "9784041121085",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第10卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、178页，ISBN 9784041121085。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "source-96b2ac2e9905c8202a435f7603e91862",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail (8)",
+      "identityBinding": {
+        "isbn": "9784041082294",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "8",
+        "member": "フェイト/エクストラ CCC FoxTail (8)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321901/321901000405.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321901/321901000405.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321901000405/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321901000405/",
+        "at": "2026-11-12T06:10:15.988Z",
+        "sha256": "5da21fa22d1835c0e4072c8dcc29a5dfc3f74bcaa0f2674c0c61d56dce7c05a1"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (8)",
+      "volume": 8,
+      "officialIsbn": "9784041082294",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第8卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、194页，ISBN 9784041082294。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    },
+    {
+      "itemId": "source-f599ee46fd52e5143d4ecd083b6371ab",
+      "groupId": "series-f72558fd519ee9da",
+      "title": "フェイト/エクストラ CCC FoxTail 12",
+      "identityBinding": {
+        "isbn": "9784041139585",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC FoxTail",
+        "wave": "12",
+        "member": "フェイト/エクストラ CCC FoxTail 12",
+        "image": "https://cdn.kdkw.jp/cover_1000/322304/322304000093.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322304/322304000093.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1277988477&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/322304000093/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322304000093/",
+        "at": "2026-11-12T06:10:17.250Z",
+        "sha256": "87cc7cc640877dacc56ad68c6de780b0762a9c986d464d6dabf65aa6f3be721f"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (12)",
+      "volume": 12,
+      "officialIsbn": "9784041139585",
+      "recordKind": "paper-volume",
+      "identityMatch": "原作品名、卷号、ISBN与同一官方URL精确对应",
+      "scope": "出版社纸本书目自身标题、作者、ISBN、页数、开本；不使用推荐区或电子版参数",
+      "summary": "《フェイト/エクストラ CCC FoxTail》第12卷纸本漫画，たけのこ星人绘制，角川コミックス・エース出版。官方书目列示B6变形判、180页，ISBN 9784041139585。",
+      "notes": "仅补空缺简介；书号、原字段与证据保持。未改发行日/初版印次，不把商店系列列表日期当作版权页证据。"
+    }
+  ]
+}

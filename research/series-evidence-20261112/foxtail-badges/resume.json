@@ -1,0 +1,24 @@
+{
+  "at": "2026-11-12T06:14:43.638Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 42,
+  "prepared": 42,
+  "pendingEvidence": 0,
+  "protectedExisting": 0,
+  "fieldPendingRecords": 2,
+  "productionApplied": 0,
+  "simulationPassed": true,
+  "batches": 3,
+  "order": [
+    "foxtail:14",
+    "vol5:14",
+    "vol6:14"
+  ],
+  "next": "使用冻结的20+20+2计划，先读取每个目标完整当前版本，再写入/读回。中断时先核成功回执和当前状态，禁止重放。最后关闭入口并实测401。",
+  "previous": "../../series-evidence-20261111/climax-kengou/resume.json",
+  "siteVersion": 70,
+  "environmentRevision": 105,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}
+

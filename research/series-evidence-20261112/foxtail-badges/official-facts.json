@@ -1,0 +1,284 @@
+{
+  "at": "2026-11-12T06:13:52.310Z",
+  "books": [
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321311000121/",
+        "at": "2026-11-12T06:04:10.441Z",
+        "sha256": "c89a25b12e424ec0795dcec70762991cc551facb3973b4b07eb3c1e67c07451d"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (1)",
+      "volume": 1,
+      "isbn": "9784041210550",
+      "pages": 196,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321407000121/",
+        "at": "2026-11-12T06:10:05.634Z",
+        "sha256": "13fd2310f1704a3f36a3da873c5f9866d4744a9d7bbbc6b0352f000ce5bc54db"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (2)",
+      "volume": 2,
+      "isbn": "9784041022818",
+      "pages": 180,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321503000205/",
+        "at": "2026-11-12T06:10:13.966Z",
+        "sha256": "b6f018483d9a335e613bbbe2bd06ae79d42357d6bafc73712c68ec38e983fce1"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (3)",
+      "volume": 3,
+      "isbn": "9784041033265",
+      "pages": 162,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321511000538/",
+        "at": "2026-11-12T06:10:07.856Z",
+        "sha256": "d554e076dbb31fb5e015bde8164f8b10271ff757c1c093a7a9d450bd118f8504"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (4)",
+      "volume": 4,
+      "isbn": "9784041040911",
+      "pages": 180,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321607000589/",
+        "at": "2026-11-12T06:10:07.079Z",
+        "sha256": "d82230c64e687833028d3c6cfc590dbc82c0e15c5e17eea638f17dfa272dabcf"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (5)",
+      "volume": 5,
+      "isbn": "9784041050460",
+      "pages": 164,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321706000662/",
+        "at": "2026-11-12T06:10:10.031Z",
+        "sha256": "85184b181f41b6f74f892090e2443a5934d7c7f83a54973cdabe19bd366d213f"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (6)",
+      "volume": 6,
+      "isbn": "9784041061947",
+      "pages": 148,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321803001436/",
+        "at": "2026-11-12T06:10:08.698Z",
+        "sha256": "f2cac30fc37016b231e7a9f1c613d4bc8dfb3f36facacaca2b61def99fa5bc85"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (7)",
+      "volume": 7,
+      "isbn": "9784041071717",
+      "pages": 178,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321901000405/",
+        "at": "2026-11-12T06:10:15.988Z",
+        "sha256": "5da21fa22d1835c0e4072c8dcc29a5dfc3f74bcaa0f2674c0c61d56dce7c05a1"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (8)",
+      "volume": 8,
+      "isbn": "9784041082294",
+      "pages": 194,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322006000433/",
+        "at": "2026-11-12T06:10:12.635Z",
+        "sha256": "cb251094d557fd9575943a0ee6b2a5f79f19f41fda60dcc4b40d3b11e9683ff1"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (9)",
+      "volume": 9,
+      "isbn": "9784041105054",
+      "pages": 178,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322108000787/",
+        "at": "2026-11-12T06:10:14.673Z",
+        "sha256": "4ccdaea7710661020c824a7d972ba7f5d79d5fc2bf8ce1506b87cc0600ed547e"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (10)",
+      "volume": 10,
+      "isbn": "9784041121085",
+      "pages": 178,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322207000991/",
+        "at": "2026-11-12T06:10:11.313Z",
+        "sha256": "ddb0b46535f652923e50bdbbdb11e3ca189979d05e18c2a31432c6da48098cfd"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (11)",
+      "volume": 11,
+      "isbn": "9784041131565",
+      "pages": 178,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322304000093/",
+        "at": "2026-11-12T06:10:17.250Z",
+        "sha256": "87cc7cc640877dacc56ad68c6de780b0762a9c986d464d6dabf65aa6f3be721f"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (12)",
+      "volume": 12,
+      "isbn": "9784041139585",
+      "pages": 180,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322509000886/",
+        "at": "2026-11-12T06:04:11.321Z",
+        "sha256": "ffe1808758a819504df7a9d9bf9b8ac998d8538cebb25a6f2194297773809ea3"
+      },
+      "officialTitle": "フェイト/エクストラ CCC FoxTail (13)",
+      "volume": 13,
+      "isbn": "9784041170090",
+      "pages": 170,
+      "format": "B6変形判",
+      "artist": "たけのこ星人",
+      "label": "角川コミックス・エース",
+      "medium": "paper"
+    }
+  ],
+  "badges": [
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015297?ga=sm_fgo",
+        "at": "2026-11-02T01:26:56.344Z",
+        "sha256": "a8ab0f6d3275776c2c93403079f6a62dd7644a466fbe1c7c40f3ca2c182a6016"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.5 10個入り1BOX",
+      "volume": 5,
+      "officialBoxJan": "4580822009185",
+      "lineup": [
+        "キャスター/マーリン",
+        "キャスター/ギルガメッシュ",
+        "ランサー/エルキドゥ",
+        "アーチャー/イシュタル",
+        "ランサー/メドゥーサ",
+        "ランサー/ジャガーマン",
+        "ライダー/ケツァル・コアトル",
+        "アサシン/“山の翁”",
+        "アヴェンジャー/ゴルゴーン",
+        "セイバー/宮本武蔵"
+      ],
+      "regularTypes": 10,
+      "boxCount": 10,
+      "nominalDiameter": "約57mm",
+      "materials": [
+        "紙",
+        "スチール"
+      ],
+      "releaseMonth": "2026-08",
+      "storeBoxBonus": "セイバー/エリザベート・バートリー〔ブレイブ〕",
+      "scope": "仅商品自身标题、meta规格、明确发售月和店铺条件特典；排除推荐区、2019缶钥匙扣及亚克力立牌"
+    },
+    {
+      "source": {
+        "url": "https://www.hobbystock.jp/item/view/hso-ccg-00015298?ga=sm_fgo",
+        "at": "2026-11-12T06:04:10.519Z",
+        "sha256": "e1388acb5a453b64090b9a3db2ce41be11c6c523f5d3e1ca1cd168dfcc430b72"
+      },
+      "indexSource": {
+        "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+        "at": "2026-11-11T18:28:33.987Z",
+        "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+      },
+      "officialTitle": "【HS特典付き】ぴくりる！ Fate/Grand Order トレーディング缶バッジ vol.6 10個入り1BOX",
+      "volume": 6,
+      "officialBoxJan": "4580822009208",
+      "lineup": [
+        "ランサー/アルトリア・ペンドラゴン",
+        "セイバー/ガウェイン",
+        "セイバー/ランスロット",
+        "アーチャー/トリスタン",
+        "セイバー/ベディヴィエール",
+        "アーチャー/アーラシュ",
+        "ライダー/オジマンディアス",
+        "キャスター/ニトクリス",
+        "キャスター/レオナルド・ダ・ヴィンチ",
+        "キャスター/玄奘三蔵"
+      ],
+      "regularTypes": 10,
+      "boxCount": 10,
+      "nominalDiameter": "約57mm",
+      "materials": [
+        "紙",
+        "スチール"
+      ],
+      "releaseMonth": "2026-08",
+      "storeBoxBonus": "セイバー/アーサー・ペンドラゴン〔プロトタイプ〕",
+      "scope": "仅商品自身标题、meta规格、明确发售月和店铺条件特典；排除推荐区、2019缶钥匙扣及亚克力立牌"
+    }
+  ],
+  "indexSource": {
+    "url": "https://www.hobbystock.jp/sp/sm/fgo/?m=1054-html",
+    "at": "2026-11-11T18:28:33.987Z",
+    "sha256": "6c82732b600112ad05b90e75147ff37ddf4c743f62115e8d13084e25cc4fd797"
+  },
+  "scope": "13个纸本单卷书目+2个徽章BOX官方商品页及专题；纸本/目录、徽章单款/单包/BOX/零售全套分别核对。",
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

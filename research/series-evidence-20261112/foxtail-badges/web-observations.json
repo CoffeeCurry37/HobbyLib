@@ -1,0 +1,55 @@
+[
+  {
+    "id": "surugaya-set-vol5",
+    "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/889209346",
+    "at": "2026-11-12T06:13:17.553Z",
+    "access": "web search readable indexed text; direct detail open unavailable",
+    "facts": {
+      "volume": 5,
+      "managementCode": "889209346",
+      "productKind": "全10種セット",
+      "manufacturer": "ホビーストック",
+      "lineup": [
+        "キャスター/マーリン",
+        "キャスター/ギルガメッシュ",
+        "ランサー/エルキドゥ",
+        "アーチャー/イシュタル",
+        "ランサー/メドゥーサ",
+        "ランサー/ジャガーマン",
+        "ライダー/ケツァル・コアトル",
+        "アサシン/“山の翁”",
+        "アヴェンジャー/ゴルゴーン",
+        "セイバー/宮本武蔵"
+      ],
+      "listedJan": "4580822009178"
+    },
+    "scope": "仅佐证相同管理编号的零售全套内容；其列示JAN不作为单款或原厂BOX条码，不保证原封/特典/实时库存。"
+  },
+  {
+    "id": "surugaya-set-vol6",
+    "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/889209358",
+    "at": "2026-11-12T06:13:17.553Z",
+    "access": "web search readable indexed text; direct detail open unavailable",
+    "facts": {
+      "volume": 6,
+      "managementCode": "889209358",
+      "productKind": "全10種セット",
+      "manufacturer": "ホビーストック",
+      "lineup": [
+        "ランサー/アルトリア・ペンドラゴン",
+        "セイバー/ガウェイン",
+        "セイバー/ランスロット",
+        "アーチャー/トリスタン",
+        "セイバー/ベディヴィエール",
+        "アーチャー/アーラシュ",
+        "ライダー/オジマンディアス",
+        "キャスター/ニトクリス",
+        "キャスター/レオナルド・ダ・ヴィンチ",
+        "キャスター/玄奘三蔵"
+      ],
+      "listedJan": "4580822009192"
+    },
+    "scope": "仅佐证相同管理编号的零售全套内容；其列示JAN不作为单款或原厂BOX条码，不保证原封/特典/实时库存。"
+  }
+]
+
