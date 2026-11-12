@@ -1,17 +1,52 @@
 {
-  "at": "2026-11-12T06:49:36.908Z",
-  "stage": "prepared-no-production-write",
-  "candidates": 26,
-  "prepared": 26,
-  "productionApplied": 0,
-  "plannedBatches": [
-    20,
-    6
+  "at": "2026-11-12T19:03:53.635Z",
+  "completedLocalDate": "2026-11-12",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-8c95f4466ea6ff11",
+      "label": "衛宮さんちの今日のごはん",
+      "snapshotItems": 13,
+      "productionApplied": 13,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-0faa7b7d365e6d46",
+      "label": "FGO きゃらとりあ缶 Vol.22",
+      "snapshotItems": 13,
+      "productionApplied": 13,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
   ],
+  "candidates": 26,
+  "productionApplied": 26,
+  "batches": 2,
+  "pendingEvidence": 0,
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
   "fieldPendingRecords": 3,
-  "fullProductVerified": 0,
-  "fullSeriesVerified": 0,
+  "fieldPendingFile": "field-pending.json",
+  "limitations": [
+    "卫宫家12个普通纸本单卷与1个逻辑目录；不混入电子版或特装附件，不声明完结或初版印次",
+    "Vol.22的10个具名单款、单包、BOX和零售全套分别保留；所有原空JAN仍空",
+    "BOX完整性/条码归属、单包数量与条码、零售全套封装/附件继续待查",
+    "只补厂商明确规格及原目录身份，不更新实时库存或保证二手附属品完整",
+    "完整核实商品及系列仍为0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 109,
+  "deploymentId": "appgdep_6af60ce867dc8191a1328c4291f73be4",
+  "siteVersion": 70,
+  "preparedCommit": "852a4d413964da4afa34710eb1977c63107a9396",
   "previousOutstanding": "../foxtail-badges/resume.json",
-  "note": "来源与隔离校验已完成；未打开维护窗口。正式写入前重新读取实时完整记录，不重放历史成功批次。"
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮2批26条、此前FoxTail/徽章42条、CLIMAX/英霊剣豪31条、立牌33条以及全部历史成功动作禁止重放。",
+  "note": "原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留；此前2条徽章单包、8条CLIMAX规格等历史待查沿用。"
 }
-

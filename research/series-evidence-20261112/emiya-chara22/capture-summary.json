@@ -1,11 +1,13 @@
 {
-  "captureReceipts": 13,
-  "uniqueUrls": 13,
+  "captureReceipts": 14,
+  "uniqueUrls": 14,
   "statuses": {
-    "captured": 13
+    "captured": 13,
+    "unavailable": 1
   },
-  "requests": 10,
+  "recordedRequests": 11,
   "cacheHits": 3,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "本机公开采集回执，含下一批TYPE-MOON入口1次环境EACCES失败，未作站点限制推断。网页工具观察另计，观察JSON哈希不是原HTML哈希；费用不可用。",
+  "evidenceScope": "本轮12角川书目与1厂商官方商店有原文缓存；原编号BOX另有网页索引观察，完整性/条码冲突记录但不写成结论。"
 }

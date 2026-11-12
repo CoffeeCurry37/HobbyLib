@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-12T06:18:48.792Z",
+  "at": "2026-11-12T19:03:53.635Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 62,
-  "seriesAwaitingItemReview": 1786,
+  "seriesWithItemReview": 64,
+  "seriesAwaitingItemReview": 1784,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6806,
-  "productionApplied": 5008,
+  "coveredSnapshotItems": 6832,
+  "productionApplied": 5034,
   "protectedExisting": 9,
   "pendingEvidence": 1788,
   "freshVersionSkips": 1,
@@ -639,9 +639,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-8c95f4466ea6ff11",
+      "label": "衛宮さんちの今日のごはん",
+      "snapshotItems": 13,
+      "productionApplied": 13,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-0faa7b7d365e6d46",
+      "label": "FGO きゃらとりあ缶 Vol.22",
+      "snapshotItems": 13,
+      "productionApplied": 13,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261112/foxtail-badges/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261112/emiya-chara22/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6

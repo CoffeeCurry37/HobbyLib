@@ -1,0 +1,177 @@
+{
+  "at": "2026-11-12T19:03:49.430Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-48bb85ab60ca3056",
+      "label": "ロード・エルメロイII世の冒険",
+      "candidates": 12,
+      "sources": [
+        "https://typemoon.com/products/tmbooks/elmelloi_bouken/"
+      ],
+      "scope": "官方有卷1～12和作者/插画/开本；12个现有来源记录不等于12个独立卷。先查两条标题与JAN/挂牌来源疑似跨卷的记录，再逐卷绑定；不修改原名/条码或自动合并。",
+      "status": "official-source-discovery-only"
+    },
+    {
+      "groupId": "series-ecf1dcef0691c090",
+      "label": "グリッターCANバッジ Fate/Grand Order E",
+      "candidates": 13,
+      "sources": [
+        "https://store.kadokawa.co.jp/shop/series/series00121501?p=12&ps=12&style=T",
+        "https://www.suruga-ya.jp/product/detail/881005212"
+      ],
+      "scope": "10个具名单款、单包、BOX、零售全套。KADOKAWA官方商店目录列示本款BOX，但不是制造商原规格；需取得商品详情/厂商清单逐项对应，保留职阶及名称差异。",
+      "status": "official-shop-index-and-retailer-discovery-only"
+    }
+  ],
+  "observations": [
+    {
+      "id": "elmelloi-official-index",
+      "url": "https://typemoon.com/products/tmbooks/elmelloi_bouken/",
+      "at": "2026-11-12T19:03:49.430Z",
+      "access": "web open readable; local raw fetch blocked by environment EACCES",
+      "facts": {
+        "publisher": "TYPE-MOON BOOKS",
+        "author": "三田誠",
+        "illustrator": "坂本みねぢ",
+        "format": "四六判",
+        "listedVolumes": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "scope": "仅发现入口；未逐项匹配，未保存原HTML哈希，未计入补证完成。",
+      "observationSha256": "d47aed0fe604f0e24c99181a45c3f996ef3f143029a964821fcb51379a65fe96"
+    },
+    {
+      "id": "glitter-e-official-shop-index",
+      "url": "https://store.kadokawa.co.jp/shop/series/series00121501?p=12&ps=12&style=T",
+      "at": "2026-11-12T19:03:49.430Z",
+      "access": "web search readable index; direct open cache miss",
+      "facts": {
+        "title": "Fate/Grand Order グリッターCANバッジ E 【1BOX】"
+      },
+      "scope": "KADOKAWA商店为销售来源，非本商品制造商；仅定位入口，不保证具体单款和包装。",
+      "observationSha256": "c824a444d78ef6e16fa14d4826b327788abb7391c2fb6301f06b490a30ae8b2b"
+    },
+    {
+      "id": "glitter-e-retailer-box",
+      "url": "https://www.suruga-ya.jp/product/detail/881005212",
+      "at": "2026-11-12T19:03:49.430Z",
+      "access": "web search readable indexed product text",
+      "facts": {
+        "boxCount": 10,
+        "regularTypes": 10,
+        "manufacturerLabel": "ハセ・プロ/バンダイ"
+      },
+      "scope": "仅发现；需与官方商品详情和原ID绑定。",
+      "observationSha256": "fb970b59064f50868bd0ebb32cc373d9bba72aa1572a52f8c9a9c2c538a0ab05"
+    }
+  ],
+  "identityWarnings": [
+    {
+      "itemId": "source-55c4ce1754bce82a09082018ec6a8dc3",
+      "title": "ロード・エルメロイII世の冒険 12 星冠密議(4)",
+      "originalJan": "4560158370937",
+      "amiamiGcode": "MED-BOOK-030366",
+      "reason": "同组另一卷12条码为4560158371651/gcode MED-BOOK-055099；疑似混入其他卷来源，未确认前不按标题写入。"
+    },
+    {
+      "itemId": "source-698d39a49148c3c0468ee2e7640a5f5e",
+      "title": "ロード・エルメロイII世の冒険 9 星冠密議(1)",
+      "originalJan": "4560158370784",
+      "amiamiGcode": "MED-BOOK-018675",
+      "reason": "同组另一卷9条码为4560158371453/gcode MED-BOOK-043847；需核对全部来源，未确认前不按标题写入。"
+    }
+  ],
+  "pendingFirst": "本轮Vol.22包装3条、此前徽章单包2条、CLIMAX书目8条及全部历史缺口继续保留，有独立证据再补。",
+  "nextRule": "先查官方卷目明确的ロード・エルメロイII世の冒険12条，再查グリッターCANバッジ E的13条；来源发现不计为逐件完成。",
+  "productionApplied": 0,
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-9cd624974209cc26",
+      "label": "Fate/Apocrypha 漫画版",
+      "candidates": 16,
+      "protectedSnapshot": 16,
+      "reason": "原快照16条已有认可简介，保留不重查"
+    },
+    {
+      "groupId": "series-774a4872988f96e5",
+      "label": "新宿幻霊事件",
+      "candidates": 16,
+      "protectedSnapshot": 7,
+      "reason": "含7条已有认可简介及派生成员，后续先做身份映射；本轮不重查认可资料"
+    }
+  ],
+  "observationHashScope": "每个observationSha256为本文件观察JSON的哈希，不是网页HTML哈希。"
+}
