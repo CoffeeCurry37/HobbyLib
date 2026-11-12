@@ -17,6 +17,7 @@ allowed.add('celebration.fate-extella.jp');
 allowed.add('www.hobbystock.jp');
 // Algernon's official public shop, discovered from its product catalogue.
 allowed.add('market.algernonproduct.co.jp');
+allowed.add('algernonproduct.co.jp');
 // Official KADOKAWA shop index discovered for the current evidence round.
 allowed.add('store.kadokawa.co.jp');
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};

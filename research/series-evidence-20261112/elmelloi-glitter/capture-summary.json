@@ -1,12 +1,13 @@
 {
-  "captureReceipts": 19,
-  "uniqueUrls": 19,
+  "captureReceipts": 21,
+  "uniqueUrls": 20,
   "statuses": {
-    "unavailable": 13,
-    "captured": 6
+    "unavailable": 14,
+    "captured": 7
   },
-  "requests": 19,
+  "recordedRequests": 21,
   "cacheHits": 0,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "本机公开采集回执，包含环境EACCES失败与获准重试；未绕过站点403或访问门槛。网页工具观察另计，观察JSON哈希不是原HTML哈希，费用不可用。",
+  "evidenceScope": "本轮TYPE-MOON卷目、销售详情与商品图有原文缓存；Amiami等网页索引观察分列。下一批ALGERNON公告已缓存，仅记来源发现，不计完成。"
 }

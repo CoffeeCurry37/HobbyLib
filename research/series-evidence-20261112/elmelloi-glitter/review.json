@@ -1,6 +1,6 @@
 {
   "at": "2026-11-12T19:14:42.276Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 25,
   "prepared": 23,
   "pending": 2,
@@ -14,12 +14,13 @@
         "https://typemoon.com/products/tmbooks/elmelloi_bouken/"
       ],
       "scope": "官方有卷1～12和作者/插画/开本；12个现有来源记录不等于12个独立卷。先查两条标题与JAN/挂牌来源疑似跨卷的记录，再逐卷绑定；不修改原名/条码或自动合并。",
-      "status": "official-source-discovery-only",
       "key": "elmelloi",
       "reviewed": 12,
       "ready": 10,
       "pending": 2,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 10
     },
     {
       "groupId": "series-ecf1dcef0691c090",
@@ -30,16 +31,20 @@
         "https://www.suruga-ya.jp/product/detail/881005212"
       ],
       "scope": "10个具名单款、单包、BOX、零售全套。KADOKAWA官方商店目录列示本款BOX，但不是制造商原规格；需取得商品详情/厂商清单逐项对应，保留职阶及名称差异。",
-      "status": "official-shop-index-and-retailer-discovery-only",
       "key": "glitter",
       "reviewed": 13,
       "ready": 13,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 13
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 23,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-12T19:24:03.500Z",
+  "fieldPendingRecords": 2
 }

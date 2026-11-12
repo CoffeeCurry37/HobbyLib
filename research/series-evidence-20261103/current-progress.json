@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-12T19:03:53.635Z",
+  "at": "2026-11-12T19:24:03.500Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 64,
-  "seriesAwaitingItemReview": 1784,
+  "seriesWithItemReview": 66,
+  "seriesAwaitingItemReview": 1782,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6832,
-  "productionApplied": 5034,
+  "coveredSnapshotItems": 6857,
+  "productionApplied": 5057,
   "protectedExisting": 9,
-  "pendingEvidence": 1788,
+  "pendingEvidence": 1790,
   "freshVersionSkips": 1,
   "lastLiveCounts": {
     "main": 15790,
@@ -659,9 +659,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-48bb85ab60ca3056",
+      "label": "ロード・エルメロイII世の冒険",
+      "snapshotItems": 12,
+      "productionApplied": 10,
+      "pendingEvidence": 2,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-ecf1dcef0691c090",
+      "label": "グリッターCANバッジ Fate/Grand Order E",
+      "snapshotItems": 13,
+      "productionApplied": 13,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261112/emiya-chara22/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261112/elmelloi-glitter/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6

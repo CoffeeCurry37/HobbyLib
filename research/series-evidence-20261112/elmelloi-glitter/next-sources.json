@@ -1,0 +1,133 @@
+{
+  "at": "2026-11-12T19:24:03.500Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-4ed43fc65a984413",
+      "label": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "candidates": 12,
+      "sources": [
+        "https://algernonproduct.co.jp/news/12193/"
+      ],
+      "scope": "10个具名单款、单包、零售全套；逐项匹配角色/职阶/衣装，保留包装身份与原空JAN。不新增BOX、购入特典或收纳盒。",
+      "status": "manufacturer-source-discovery-only"
+    },
+    {
+      "groupId": "series-588f24c11680a193",
+      "label": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.5",
+      "candidates": 12,
+      "sources": [
+        "https://algernonproduct.co.jp/news/12193/"
+      ],
+      "scope": "10个具名单款、单包、零售全套；逐项匹配角色/职阶/衣装，保留包装身份与原空JAN。不新增BOX、购入特典或收纳盒。",
+      "status": "manufacturer-source-discovery-only"
+    }
+  ],
+  "observations": [
+    {
+      "id": "algernon-tsuikore-vol4-vol5",
+      "url": "https://algernonproduct.co.jp/news/12193/",
+      "at": "2026-11-12T19:22:21.441Z",
+      "access": "manufacturer announcement HTTP 200, raw HTML privately cached",
+      "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344",
+      "sourceRole": "manufacturer",
+      "facts": {
+        "announcedOn": "2026-07-07",
+        "scheduledRelease": "2026年9月下旬",
+        "keychainSize": "约W20mm×H67mm",
+        "normalTypesPerVolume": 10,
+        "conditionalBoxBonus": {
+          "vol4": "ゴルドルフ・ムジーク（アロハVer.）",
+          "vol5": "カドック・ゼムルプス（水着Ver.）",
+          "restriction": "FGO Fes.2026会场、あるじゃんマーケット初回预约限定"
+        },
+        "separateStorageCaseSize": "约W68mm×H95mm"
+      },
+      "scope": "仅入口发现；未逐件应用。收纳盒是独立商品，其尺寸不用于钥匙扣；限渠道初回BOX特典不计入普通10款，不保证每个BOX都有。"
+    }
+  ],
+  "identityWarnings": [
+    "角色职阶及夏季衣装必须逐项匹配，特别是两版奥伯龙、主角男女与异职阶角色",
+    "原24条JAN为空；零售页面出现不同条码时先确定包/盒作用域，不下放到单款或卖家全套",
+    "全10种零售套装不直接视为厂家封装BOX；单包数量、封装、特典包含情况须独立证据"
+  ],
+  "pendingFirst": "本轮2条书目跨卷冲突及2条徽章包装字段待查；此前Vol.22包装3条、徽章单包2条、CLIMAX规格8条及历史缺口沿用。",
+  "nextRule": "先补查ついコレ钥匙扣vol.4的12条，再查vol.5的12条；来源发现不计为逐件完成。",
+  "productionApplied": 0,
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-9cd624974209cc26",
+      "label": "Fate/Apocrypha 漫画版",
+      "candidates": 16,
+      "protectedSnapshot": 16,
+      "reason": "原快照16条已有认可简介，保留不重查"
+    },
+    {
+      "groupId": "series-774a4872988f96e5",
+      "label": "新宿幻霊事件",
+      "candidates": 16,
+      "protectedSnapshot": 7,
+      "reason": "含7条已有认可简介及派生成员，后续先做身份映射；本轮不重查认可资料"
+    }
+  ]
+}

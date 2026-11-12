@@ -1,29 +1,28 @@
-> 进行中（2026-11-12）：エルメロイ冒険12条及闪粉徽章E组13条已检查；23条准备写入、2条跨卷冲突保留，另有2条包装字段待查。见[冻结断点](../research/series-evidence-20261112/elmelloi-glitter/resume.json)。正式写入0；下一步按版本保护分20+3两批写入、完整读回并关闭维护入口，不重放历史批次。
-
 # 当前任务：系列补证（2026-11-03 启动）
 
 用户授权：从 GitHub 断点按已确定顺序补证，优先官方来源明确、覆盖商品多的系列；有明确证据才写入，无法确认的保留待查，保留已认可资料，及时保存 GitHub 进度。该任务接续已完成 V6，不重放旧迁移。
 
 ## 最新断点
 
-截至 2026-11-12，累计已逐件检查 64 个系列的 6,832 条候选，5,034 条有效记录已补齐简介和来源。1,788 条仍待补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,784 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-12，累计已逐件检查 66 个系列的 6,857 条候选，5,057 条有效记录已补齐简介和来源。1,790 条仍待补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,782 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮依次完成衛宮さんちの今日のごはん13条、FGOきゃらとりあ缶Vol.22的13条，共26条；分20+6两批正式补充并完整读回，无版本跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订109；维护入口已实测 HTTP 401 关闭。
+本轮依次检查ロード・エルメロイII世の冒険12条、グリッターCANバッジ Fate/Grand Order E的13条，共25条；其中23条分20+3两批正式补充并完整读回，无版本跳过，2条跨卷冲突保持原状。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订111；维护入口已实测 HTTP 401 关闭。
 
-卫宫家12个普通纸本单卷与角川的卷号、ISBN、开本和页数精确对应，另补1个逻辑目录；未混入电子版或食谱、画集、环保袋特装附件。Vol.22的10个具名徽章、单包、BOX和零售全套分别保留，厂商明确直径约56mm及马口铁材质。BOX数量由原编号零售页佐证；整盒是否必定集齐、包装专属JAN、单包封入数量及全套封装/附件仍待查。13条原空JAN继续为空，不保证二手附属品完整，不更新库存。
+书目10条对应TYPE-MOON官网卷目、购买链接商品代码及原JAN；另外两条标题12/9分别混入卷4/1来源，整条保留待查，不改名、不改JAN、不迁移挂牌。徽章10个具名单款、单包、BOX和零售全套分别保留，销售详情与本款商品图佐证全10种、约56×D4mm，BOX明确不保证集齐。单包枚数/专属JAN、零售全套封装/附件/JAN仍待查；13条原空JAN保留，销售商出处不标为制造商原文。
 
-[本轮报告](../research/series-evidence-20261112/emiya-chara22/README.md) · [正式断点](../research/series-evidence-20261112/emiya-chara22/resume.json) · [生产读回](../research/series-evidence-20261112/emiya-chara22/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
+[本轮报告](../research/series-evidence-20261112/elmelloi-glitter/README.md) · [正式断点](../research/series-evidence-20261112/elmelloi-glitter/resume.json) · [生产读回](../research/series-evidence-20261112/elmelloi-glitter/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
 
 ## 下一步
 
-1. 下一批先补查ロード・エルメロイII世の冒険12条，再查グリッターCANバッジ Fate/Grand Order E的13条。前者有官方卷目，先核清两条标题与JAN/挂牌来源疑似跨卷记录；后者已定位KADOKAWA官方商店目录及原零售BOX页，仍需查商品详情/厂商清单，不能将销售目录当制造商规格。 见[下批来源与身份警告](../research/series-evidence-20261112/emiya-chara22/next-sources.json)。这25条仅作入口发现，尚未逐条补证。
-2. 本轮Vol.22包装3条见[字段待查](../research/series-evidence-20261112/emiya-chara22/field-pending.json)；不能把条码或完整性冲突推断为结论。
-3. 此前两条徽章单包的封入枚数、专属JAN继续[字段待查](../research/series-evidence-20261112/foxtail-badges/field-pending.json)；不能把厂商BOX参数或零售全套条码下放。此前6个零售详情不可读，保留原来源；全套另有相同管理编号的可读索引佐证。
-4. CLIMAX!第1～8卷的页数和开本继续[字段待查](../research/series-evidence-20261111/climax-kengou/field-pending.json)。这些记录与本轮单包均已补安全简介，但不代表完整核实。
-5. 此前立牌33条及此前两组BOX同款来源保持原ID；不自动归并。EXTELLA的3条拍卖仍需版本或实物绑定，威化3 No.25角色仍待独立卡背证据，见[历史断点](../research/series-evidence-20261110/extella-wafer3/resume.json)。
-6. 匿名威化旧占位编号不是印刷卡号。特别弹2025的23条已有ST/SST清单但缺旧ID对应，见[匿名占位待查](../research/series-evidence-20261110/wafers/pending.json)；不能重复抓总目录冒充解决映射。
-7. 电击漫画19条中18条、西脇Fate/stay night漫画20条、Apocrypha漫画16条已有认可简介，保留不重查；西脇派生21条及新宿派生成员先核对映射。来源发现不计为逐件完成。
-8. 书目/音像10条、票券/贴纸6条及一番赏等历史缺口沿用[书目/音像断点](../research/series-evidence-20261105/books-media/resume.json)与其链。AnimeJapan2019尺寸冲突、原画集预定页数、ルギマート用途冲突仍待明确来源；AnimeJapan2026为Fate/strange Fake的更正有效。
+1. 下一批先补查FGOついコレ亚克力钥匙扣vol.4的12条，再查vol.5的12条。ALGERNON官方公告已取得原文缓存；每组为10个具名单款、单包与零售全套。逐项核对职阶和夏季衣装，收纳盒、普通款与限定渠道BOX购入特典分别处理，包装条码不得下放。 见[下批来源与包装边界](../research/series-evidence-20261112/elmelloi-glitter/next-sources.json)。这24条仅作来源发现，尚未逐条补证。
+2. 本轮2条书目跨卷冲突见[整条待查](../research/series-evidence-20261112/elmelloi-glitter/pending.json)，2条徽章包装见[字段待查](../research/series-evidence-20261112/elmelloi-glitter/field-pending.json)。跨卷修复须先形成具体方案并在完整副本验证。
+3. 此前Vol.22包装3条见[字段待查](../research/series-evidence-20261112/emiya-chara22/field-pending.json)；不能把条码或完整性冲突推断为结论。
+4. 此前两条徽章单包的封入枚数、专属JAN继续[字段待查](../research/series-evidence-20261112/foxtail-badges/field-pending.json)；不能把厂商BOX参数或零售全套条码下放。此前6个零售详情不可读，保留原来源；全套另有相同管理编号的可读索引佐证。
+5. CLIMAX!第1～8卷的页数和开本继续[字段待查](../research/series-evidence-20261111/climax-kengou/field-pending.json)。这些记录与此前单包均已补安全简介，但不代表完整核实。
+6. 此前立牌33条及此前两组BOX同款来源保持原ID；不自动归并。EXTELLA的3条拍卖仍需版本或实物绑定，威化3 No.25角色仍待独立卡背证据，见[历史断点](../research/series-evidence-20261110/extella-wafer3/resume.json)。
+7. 匿名威化旧占位编号不是印刷卡号。特别弹2025的23条已有ST/SST清单但缺旧ID对应，见[匿名占位待查](../research/series-evidence-20261110/wafers/pending.json)；不能重复抓总目录冒充解决映射。
+8. 电击漫画19条中18条、西脇Fate/stay night漫画20条、Apocrypha漫画16条已有认可简介，保留不重查；西脇派生21条及新宿派生成员先核对映射。来源发现不计为逐件完成。
+9. 书目/音像10条、票券/贴纸6条及一番赏等历史缺口沿用[书目/音像断点](../research/series-evidence-20261105/books-media/resume.json)与其链。AnimeJapan2019尺寸冲突、原画集预定页数、ルギマート用途冲突仍待明确来源；AnimeJapan2026为Fate/strange Fake的更正有效。
 
 ## 执行规则
 
@@ -38,7 +37,7 @@
 
 ## 禁止重放
 
-本轮卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
+本轮エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
 
 V6的477批9,531条变更及25组合并、旧32条、五边和001–006均禁止重放。最新正式库：34,999有效 / 8,575归档 / 1,823关联；个人数据保护不变。
 
