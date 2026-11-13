@@ -1,6 +1,6 @@
 {
   "at": "2026-11-13T20:53:31.776Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 22,
   "prepared": 22,
   "pending": 0,
@@ -15,12 +15,13 @@
         "https://www.amiami.com/eng/detail/?gcode=GOODS-04802992"
       ],
       "scope": "10个普通单款+1个单包；核对夏季职阶、截断名称、尺寸冲突与包装条码。",
-      "status": "retailer-detail-source-discovery-only",
       "key": "aurora-e",
       "reviewed": 11,
       "ready": 11,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 11
     },
     {
       "groupId": "series-86e51df0ac43080e",
@@ -31,16 +32,20 @@
         "https://www.suruga-ya.jp/product/detail/561847516"
       ],
       "scope": "9个普通单款+1个单包+1个零售全套；本组无Scathach单款，不补造第10条，不复用徽章规格；保留A/Λ差异待证。",
-      "status": "retailer-detail-source-discovery-only",
       "key": "aurora-f",
       "reviewed": 11,
       "ready": 11,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 11
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 22,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-13T20:58:47.733Z",
+  "fieldPendingRecords": 22
 }

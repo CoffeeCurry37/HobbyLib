@@ -1,27 +1,21 @@
-# 当前准备断点：极光钥匙扣 E / F（2026-11-13）
-
-22条已准备并通过完整副本校验，正式写入尚0；22条高度字段继续待查，其中3条另有包装、1条另有名称/图款缺口。先读[本轮断点](../research/series-evidence-20261113/aurora-ef/resume.json)，按20＋2两批写入、读回并关闭维护入口，恢复前查本机回执。基线提交6ec0a025a80e87a50da993a8fe6658506bc74367；此前成功动作禁止重放。
-
----
-
 # 当前任务：系列补证（2026-11-03 启动）
 
 用户授权：从 GitHub 断点按已确定顺序补证，优先官方来源明确、覆盖商品多的系列；有明确证据才写入，无法确认的保留待查，保留已认可资料，及时保存 GitHub 进度。该任务接续已完成 V6，不重放旧迁移。
 
 ## 最新断点
 
-截至 2026-11-12，累计已逐件检查 70 个系列的 6,904 条候选，5,104 条有效记录已补齐简介和来源。1,790 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,778 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-13，累计已逐件检查 72 个系列的 6,926 条候选，5,126 条有效记录已补齐简介和来源。1,790 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,776 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮按顺序补查闪粉徽章F的12条、もちもちマスコットvol.16的11条，共23条；分20+3两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订115；维护入口已实测 HTTP 401 关闭。
+本轮按顺序补查FGO极光亚克力钥匙扣E、F各11条，共22条；分20+2两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订117；维护入口已实测 HTTP 401 关闭。
 
-闪粉F销售详情确认普通10款、约直径56×厚4mm、闪粉效果，BOX10个但不保证集齐，明确标作销售来源。もちもちvol.16厂商/品牌商店确认普通9款及珠链，约50×85mm来自Amiami销售详情；两个渠道的男女主角制服BOX特典与普通款分开。3条名称差异（A/Λ、耀星/輝星、孫市/孫一）只补系列通用规格，原名不改；4条包装记录的实际封装、附件或条码绑定继续待查。全23条原空JAN保留，不把资料补充当完整核实。
+两组销售详情及商品图确认普通10款、极光效果和约宽48×厚3mm（不含安装配件），明确标作销售来源。高度在KADOKAWA约74mm与BicCamera约76mm之间有冲突，厂商精确规格未定位，因此22条均不填高度。19个单款中18个对应商品图，A/Λ只补系列共通事实、原名保留；2单包和1零售全套的封装/数量/附件或JAN继续待查。全22条原空JAN保留，BOX10个不保证集齐不当成单包或零售组合保证，完整核实仍0。
 
-[本轮报告](../research/series-evidence-20261112/glitterf-mochi16/README.md) · [正式断点](../research/series-evidence-20261112/glitterf-mochi16/resume.json) · [生产读回](../research/series-evidence-20261112/glitterf-mochi16/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
+[本轮报告](../research/series-evidence-20261113/aurora-ef/README.md) · [正式断点](../research/series-evidence-20261113/aurora-ef/resume.json) · [生产读回](../research/series-evidence-20261113/aurora-ef/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
 
 ## 下一步
 
-1. 下一批先补查オーロラアクリルキーホルダー Fate/Grand Order E的11条，再查F的11条。两组KADOKAWA销售详情已保存；继续查厂商规格，优先核对H74/H76尺寸冲突、夏季职阶、原名差异及包装作用域。这22条仅为来源发现，尚未逐条补证。见[来源与核对要点](../research/series-evidence-20261112/glitterf-mochi16/next-sources.json)。
-2. 本轮7条字段缺口见[待查](../research/series-evidence-20261112/glitterf-mochi16/field-pending.json)，包括3条名称差异和4条包装记录。上一轮ついコレ的4条包装字段仍见[此前待查](../research/series-evidence-20261112/tsuikore45/field-pending.json)；历史缺口沿[上一轮断点](../research/series-evidence-20261112/tsuikore45/resume.json)保留。
+1. 下一批先补查Fate/EXTELLA LINK的11条，再查Fate/Samurai Remnant的11条。官方产品页已缓存，逐项核对平台、地区版、通常/限定及套装内容；拍卖组合与平台逻辑目录分别处理。这22条仅为来源发现，尚未逐条补证。见[来源与核对要点](../research/series-evidence-20261113/aurora-ef/next-sources.json)。
+2. 本轮22条高度缺口（其中3条包装、1条A/Λ）见[字段待查](../research/series-evidence-20261113/aurora-ef/field-pending.json)。此前闪粉F/もちもち的7条缺口见[前轮待查](../research/series-evidence-20261112/glitterf-mochi16/field-pending.json)；ついコレ4条包装缺口以及其他历史未决项沿[前轮断点](../research/series-evidence-20261112/glitterf-mochi16/resume.json)继续保留。
 3. 此前2条书目跨卷冲突见[整条待查](../research/series-evidence-20261112/elmelloi-glitter/pending.json)，2条徽章包装见[字段待查](../research/series-evidence-20261112/elmelloi-glitter/field-pending.json)。跨卷修复须先形成具体方案并在完整副本验证。
 4. 此前Vol.22包装3条见[字段待查](../research/series-evidence-20261112/emiya-chara22/field-pending.json)；不能把条码或完整性冲突推断为结论。
 5. 此前两条徽章单包的封入枚数、专属JAN继续[字段待查](../research/series-evidence-20261112/foxtail-badges/field-pending.json)；不能把厂商BOX参数或零售全套条码下放。此前6个零售详情不可读，保留原来源；全套另有相同管理编号的可读索引佐证。
@@ -44,7 +38,7 @@
 
 ## 禁止重放
 
-本轮闪粉F/もちもちvol.16两批23条、此前ついコレvol.4/vol.5两批24条、此前エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
+本轮极光钥匙扣E/F两批22条、此前闪粉F/もちもちvol.16两批23条、此前ついコレvol.4/vol.5两批24条、此前エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
 
 V6的477批9,531条变更及25组合并、旧32条、五边和001–006均禁止重放。最新正式库：34,999有效 / 8,575归档 / 1,823关联；个人数据保护不变。
 

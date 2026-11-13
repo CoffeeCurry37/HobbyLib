@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-13T03:27:41.672Z",
+  "at": "2026-11-13T20:58:47.733Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 70,
-  "seriesAwaitingItemReview": 1778,
+  "seriesWithItemReview": 72,
+  "seriesAwaitingItemReview": 1776,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6904,
-  "productionApplied": 5104,
+  "coveredSnapshotItems": 6926,
+  "productionApplied": 5126,
   "protectedExisting": 9,
   "pendingEvidence": 1790,
   "freshVersionSkips": 1,
@@ -719,9 +719,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-0d4249c4b43da9c9",
+      "label": "オーロラアクリルキーホルダー Fate/Grand Order E",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-86e51df0ac43080e",
+      "label": "オーロラアクリルキーホルダー Fate/Grand Order F",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261112/glitterf-mochi16/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261113/aurora-ef/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6
