@@ -1,0 +1,26 @@
+[
+  {
+    "groupId": "series-0d4249c4b43da9c9",
+    "label": "オーロラアクリルキーホルダー Fate/Grand Order E",
+    "candidates": 11,
+    "sources": [
+      "https://store.kadokawa.co.jp/shop/g/gca4545403584710/",
+      "https://www.amiami.com/eng/detail/?gcode=GOODS-04802992"
+    ],
+    "scope": "10个普通单款+1个单包；核对夏季职阶、截断名称、尺寸冲突与包装条码。",
+    "status": "retailer-detail-source-discovery-only",
+    "key": "aurora-e"
+  },
+  {
+    "groupId": "series-86e51df0ac43080e",
+    "label": "オーロラアクリルキーホルダー Fate/Grand Order F",
+    "candidates": 11,
+    "sources": [
+      "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "https://www.suruga-ya.jp/product/detail/561847516"
+    ],
+    "scope": "9个普通单款+1个单包+1个零售全套；本组无Scathach单款，不补造第10条，不复用徽章规格；保留A/Λ差异待证。",
+    "status": "retailer-detail-source-discovery-only",
+    "key": "aurora-f"
+  }
+]

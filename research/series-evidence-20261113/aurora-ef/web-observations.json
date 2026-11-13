@@ -1,0 +1,102 @@
+[
+  {
+    "id": "aurora-e-sales-image",
+    "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584710.jpg",
+    "at": "2026-11-13T20:52:59.317Z",
+    "sourceAt": "2026-11-13T20:51:10.486Z",
+    "sourceSha256": "70d67339a3686c25391e78b73059accab1921b4cb1f36c2783310f33ae9f0d7a",
+    "access": "已视觉检查1100×1100公开销售详情实链商品图",
+    "facts": {
+      "normalTypes": 10,
+      "visibleLabels": [
+        "Berserker Miyamoto Musashi",
+        "Saber Katsushika Hokusai",
+        "Assassin Okita Souji",
+        "Caster Merlin",
+        "Berserker Ibuki-Douji",
+        "Ruler Scathach-Skadi",
+        "Saber Passionlip",
+        "Berserker Huyan Zhuo",
+        "Alter Ego Jeunesse Crane",
+        "Saber Saito Hajime"
+      ],
+      "publisher": "株式会社バンダイ",
+      "dimensionText": false
+    },
+    "scope": "仅记录图中商品及英文姓名/职阶；未从图像比例估算尺寸，未修改原日文名。"
+  },
+  {
+    "id": "aurora-f-sales-image",
+    "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+    "at": "2026-11-13T20:52:59.317Z",
+    "sourceAt": "2026-11-13T20:51:11.749Z",
+    "sourceSha256": "b1bcad9880b8f262638db419156719eac6b917c7fee8c279f12927a6a56a0274",
+    "access": "已视觉检查1100×1100公开销售详情实链商品图",
+    "facts": {
+      "normalTypes": 10,
+      "visibleLabels": [
+        "Assassin Scathach",
+        "Ruler Altria Pendragon",
+        "Lancer Mysterious Alter Ego Λ",
+        "Pretender Lady Avalon",
+        "Assassin Thrúd",
+        "Alter Ego Ashiya Douman",
+        "Rider Kriemhild",
+        "Moon Cancer Jade Rabbit",
+        "Archer Larva/Tiamat",
+        "Assassin Tezcatlipoca"
+      ],
+      "publisher": "株式会社バンダイ",
+      "dimensionText": false
+    },
+    "scope": "仅记录图中商品及英文姓名/职阶；未从图像比例估算尺寸，未修改原日文名。"
+  },
+  {
+    "id": "aurora-e-biccamera-height",
+    "url": "https://www.biccamera.com/bc/item/15138609/",
+    "at": "2026-11-13T20:52:59.317Z",
+    "access": "网页工具可读销售索引内容；未取得原HTML",
+    "facts": {
+      "heightMm": 76,
+      "widthMm": 48,
+      "depthMm": 3,
+      "excludesAttachment": true
+    },
+    "scope": "与KADOKAWA同E/F系列的高度74mm冲突。保留分歧，不取多数票；观察JSON哈希不是原HTML哈希。"
+  },
+  {
+    "id": "aurora-f-biccamera-height",
+    "url": "https://www.biccamera.com/bc/item/15138610/",
+    "at": "2026-11-13T20:52:59.317Z",
+    "access": "网页工具可读销售索引内容；未取得原HTML",
+    "facts": {
+      "heightMm": 76,
+      "widthMm": 48,
+      "depthMm": 3,
+      "excludesAttachment": true
+    },
+    "scope": "与KADOKAWA同E/F系列的高度74mm冲突。保留分歧，不取多数票；观察JSON哈希不是原HTML哈希。"
+  },
+  {
+    "id": "aurora-f-original-lancer-label",
+    "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561847508",
+    "at": "2026-11-13T20:52:59.317Z",
+    "access": "网页工具可读同零售编号购入详情",
+    "facts": {
+      "retailerId": "561847508",
+      "name": "ランサー/謎のアルターエゴ・A",
+      "listedJan": "4545403584727"
+    },
+    "scope": "确认原编号目录确写A；原图HTTP403，不能因此裁定A/Λ字形或精确图款绑定。共用系列JAN不写到原空字段。"
+  },
+  {
+    "id": "manufacturer-search-boundary",
+    "url": "https://www.hasepro-official.com/newitem_list.php",
+    "at": "2026-11-13T20:52:59.317Z",
+    "access": "网页工具可读厂商新商品列表，并检索厂商域名Fate/Grand Order",
+    "facts": {
+      "matchedFateEntry": false
+    },
+    "scope": "本轮未定位可核对的E/F厂商原始规格；列表无匹配不证明厂商不存在该商品。"
+  }
+]

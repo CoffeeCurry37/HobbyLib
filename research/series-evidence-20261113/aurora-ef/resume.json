@@ -1,0 +1,24 @@
+{
+  "at": "2026-11-13T20:54:30.000Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 22,
+  "prepared": 22,
+  "productionApplied": 0,
+  "pendingEvidence": 0,
+  "fieldPendingRecords": 22,
+  "fieldPendingFile": "field-pending.json",
+  "fieldScope": {
+    "height": 22,
+    "packaging": 3,
+    "identityLabel": 1
+  },
+  "simulation": "simulation.json",
+  "previousCompletedCommit": "6ec0a025a80e87a50da993a8fe6658506bc74367",
+  "previousOutstanding": "../../series-evidence-20261112/glitterf-mochi16/resume.json",
+  "nextAction": "按E11/F11顺序，仅应用冻结22条，20+2两批；新鲜完整目标及expectedVersion保护，读回后关闭维护入口并实测，再更新累计。",
+  "doNotReplay": "前轮闪粉F/もちもち23条及所有历史成功动作禁止重放；恢复前检查本机回执和实时状态。",
+  "siteVersion": 70,
+  "baselineEnvironmentRevision": 115,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

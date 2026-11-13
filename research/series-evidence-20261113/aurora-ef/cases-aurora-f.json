@@ -1,0 +1,571 @@
+{
+  "at": "2026-11-13T20:52:59.317Z",
+  "rows": [
+    {
+      "itemId": "source-0a32d41d41a47871f83366ec1e3b84d7",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "【パック】オーロラアクリルキーホルダー Fate/Grand Order F",
+      "status": "supported",
+      "recordKind": "pack",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "【パック】オーロラアクリルキーホルダー Fate/Grand Order F",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847505&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847505&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847505"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": null,
+      "imageLabel": null,
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条按原目录保留为未指定角色的单包，实际封入数量和专属条码待核实。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原目录保持单包/零售全套范围，不以BOX参数下放。"
+    },
+    {
+      "itemId": "source-0e279d76bbcf9078ae816b46e5cec8d1",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "ルーラー/アルトリア・ペンドラゴン 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "ルーラー/アルトリア・ペンドラゴン 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847507&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847507&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847507"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": 1,
+      "imageLabel": "Ruler Altria Pendragon",
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条为ルーラー/アルトリア・ペンドラゴン普通单款，原名称保留。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原作品/弹次/厂商及原简介职阶与商品图所示对应；不采用泛角色标签替换夏季职阶"
+    },
+    {
+      "itemId": "source-0eb5fcb1edf7813cdffccc9ddc0b1afb",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "エゴ/蘆屋道満 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "エゴ/蘆屋道満 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847511&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847511&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847511"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": 5,
+      "imageLabel": "Alter Ego Ashiya Douman",
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条为エゴ/蘆屋道満普通单款，原名称保留。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原作品/弹次/厂商及原简介职阶与商品图所示对应；不采用泛角色标签替换夏季职阶"
+    },
+    {
+      "itemId": "source-3887cd510eb37df623230bbc8a638cf2",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "ライダー/クリームヒルト 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "ライダー/クリームヒルト 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847512&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847512&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847512"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": 6,
+      "imageLabel": "Rider Kriemhild",
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条为ライダー/クリームヒルト普通单款，原名称保留。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原作品/弹次/厂商及原简介职阶与商品图所示对应；不采用泛角色标签替换夏季职阶"
+    },
+    {
+      "itemId": "source-9314d37f40e491bbf48deb5b78798649",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "アサシン/テスカトリポカ 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "アサシン/テスカトリポカ 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847515&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847515&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847515"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": 9,
+      "imageLabel": "Assassin Tezcatlipoca",
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条为アサシン/テスカトリポカ普通单款，原名称保留。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原作品/弹次/厂商及原简介职阶与商品图所示对应；不采用泛角色标签替换夏季职阶"
+    },
+    {
+      "itemId": "source-9a17bff70dd91505eb59c8dec369e5e9",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "全10種セット 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "retailer-complete-set",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "全10種セット 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847516&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847516&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847516"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": null,
+      "imageLabel": null,
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。原零售目录列为全10种套装，实际封装、附件和条码待核实，不视为厂家原封BOX或附带特典。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原目录保持单包/零售全套范围，不以BOX参数下放。"
+    },
+    {
+      "itemId": "source-9ba0bc35de3cc2a4f3adcdc0edc9ae7c",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "ブリテンダー/レディ・アヴァロン 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "ブリテンダー/レディ・アヴァロン 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847509&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847509&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847509"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": 3,
+      "imageLabel": "Pretender Lady Avalon",
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条为ブリテンダー/レディ・アヴァロン普通单款，原名称保留。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原作品/弹次/厂商及原简介职阶与商品图所示对应；不采用泛角色标签替换夏季职阶"
+    },
+    {
+      "itemId": "source-b43b1bb79c2be62d3fb9b978a2d7340c",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "ランサー/謎のアルターエゴ・A 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "ランサー/謎のアルターエゴ・A 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847508&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847508&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847508"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "lineupObservation": {
+        "id": "aurora-f-original-lancer-label",
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/561847508",
+        "sha256": "6898dd65684f98b95fd34d587e949d653d40ce5c980f721a8d5a0aa35b1eb747"
+      },
+      "imageSlot": null,
+      "imageLabel": null,
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条保留原目录单款名，A与Λ的名称差异及对应图款仍待核实。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。同编号购入页仍写A，原图不可读，仅写通用系列规格。",
+      "identityMatch": "作品/产品线/F弹次/厂商与原目录明确一致；A/Λ款式映射未定，只用系列通用事实"
+    },
+    {
+      "itemId": "source-de663429af149c8bfe0fcd2c4cff4988",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "ムーンキャンサー/玉兎 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "ムーンキャンサー/玉兎 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847513&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847513&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847513"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": 7,
+      "imageLabel": "Moon Cancer Jade Rabbit",
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条为ムーンキャンサー/玉兎普通单款，原名称保留。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原作品/弹次/厂商及原简介职阶与商品图所示对应；不采用泛角色标签替换夏季职阶"
+    },
+    {
+      "itemId": "source-f0d7d5b9b24ea0086228358f2a36d2d1",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "アサシン/スルーズ 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "アサシン/スルーズ 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847510&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847510&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847510"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": 4,
+      "imageLabel": "Assassin Thrúd",
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条为アサシン/スルーズ普通单款，原名称保留。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原作品/弹次/厂商及原简介职阶与商品图所示对应；不采用泛角色标签替换夏季职阶"
+    },
+    {
+      "itemId": "source-ffe824ca7fae19199536eba6b315e754",
+      "groupId": "series-86e51df0ac43080e",
+      "title": "アーチャー/ラーヴァ/ティアマト 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "オーロラアクリルキーホルダー Fate/Grand Order F",
+        "wave": null,
+        "member": "アーチャー/ラーヴァ/ティアマト 「オーロラアクリルキーホルダー Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=561847514&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=561847514&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/561847514"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "additionalSources": [],
+      "second": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "officialTitle": "Fate/Grand Order オーロラアクリルキーホルダー F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "aurora-f-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584727.jpg",
+        "sha256": "e5699c2f7e35ec3498b06496ed6de37abf31b3677e3e9338d06ac083c6d272eb"
+      },
+      "retailerObservation": {
+        "id": "aurora-f-biccamera-height",
+        "url": "https://www.biccamera.com/bc/item/15138610/",
+        "sha256": "85d506a838fc36717c6b70cb7c476c93db38ce23f3d35bb914841ebe307f1b1f"
+      },
+      "imageSlot": 8,
+      "imageLabel": "Archer Larva/Tiamat",
+      "summary": "《Fate/Grand Order》极光亚克力钥匙扣 F，普通款共10种，销售页标注厂商为BANDAI，表面随光照呈现极光效果。本体宽约48mm、厚约3mm（不含安装配件）；高度因来源存在差异，暂待核实。本条为アーチャー/ラーヴァ/ティアマト普通单款，原名称保留。",
+      "scope": "KADOKAWA同E/F系列详情及商品图；宽48/厚3mm不含安装配件；高度74/76mm有冲突，不判定",
+      "notes": "只补空简介和两条出处，保留原名、空JAN、认可和全部原字段。エゴ截断在比对时使用原简介全称，Lady职阶拼写仅在比对时规范化；不改名。",
+      "identityMatch": "原作品/弹次/厂商及原简介职阶与商品图所示对应；不采用泛角色标签替换夏季职阶"
+    }
+  ]
+}

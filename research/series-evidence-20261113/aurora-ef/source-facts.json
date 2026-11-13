@@ -1,0 +1,52 @@
+{
+  "at": "2026-11-13T20:52:59.317Z",
+  "facts": [
+    {
+      "key": "aurora-e",
+      "sourceRole": "retailer",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584710/",
+        "at": "2026-11-13T03:26:40.867Z",
+        "sha256": "fe2ba9ecc6f196f24ff6f6f4461fd0cb8017bb6ba7f52c7c5a798817d7228c94"
+      },
+      "normalTypes": 10,
+      "boxCount": 10,
+      "boxCompletionGuaranteed": false,
+      "finish": "随光照变化的极光效果",
+      "manufacturerAsListed": "バンダイ",
+      "listedSize": "约H74×W48×D3mm（不含安装配件）",
+      "supportedDimensions": {
+        "widthMm": 48,
+        "depthMm": 3,
+        "excludesAttachment": true
+      },
+      "heightStatus": "pending-conflicting-retail-sources-74-vs-76",
+      "listedJan": "4545403584710",
+      "scope": "KADOKAWA是销售来源；材料名称来自亚克力产品名。高度冲突不写入简介；零售共用JAN不推为单款唯一身份。"
+    },
+    {
+      "key": "aurora-f",
+      "sourceRole": "retailer",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "at": "2026-11-13T03:26:42.346Z",
+        "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349"
+      },
+      "normalTypes": 10,
+      "boxCount": 10,
+      "boxCompletionGuaranteed": false,
+      "finish": "随光照变化的极光效果",
+      "manufacturerAsListed": "バンダイ",
+      "listedSize": "约H74×W48×D3mm（不含安装配件）",
+      "supportedDimensions": {
+        "widthMm": 48,
+        "depthMm": 3,
+        "excludesAttachment": true
+      },
+      "heightStatus": "pending-conflicting-retail-sources-74-vs-76",
+      "listedJan": "4545403584727",
+      "scope": "KADOKAWA是销售来源；材料名称来自亚克力产品名。高度冲突不写入简介；零售共用JAN不推为单款唯一身份。"
+    }
+  ],
+  "fullyVerified": 0
+}
