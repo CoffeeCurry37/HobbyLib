@@ -1,6 +1,6 @@
 {
   "at": "2026-11-13T01:48:32.764Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 24,
   "prepared": 24,
   "pending": 0,
@@ -14,12 +14,13 @@
         "https://algernonproduct.co.jp/news/12193/"
       ],
       "scope": "10个具名单款、单包、零售全套；逐项匹配角色/职阶/衣装，保留包装身份与原空JAN。不新增BOX、购入特典或收纳盒。",
-      "status": "manufacturer-source-discovery-only",
       "key": "vol4",
       "reviewed": 12,
       "ready": 12,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 12
     },
     {
       "groupId": "series-588f24c11680a193",
@@ -29,16 +30,20 @@
         "https://algernonproduct.co.jp/news/12193/"
       ],
       "scope": "10个具名单款、单包、零售全套；逐项匹配角色/职阶/衣装，保留包装身份与原空JAN。不新增BOX、购入特典或收纳盒。",
-      "status": "manufacturer-source-discovery-only",
       "key": "vol5",
       "reviewed": 12,
       "ready": 12,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 12
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 24,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-13T01:55:35.975Z",
+  "fieldPendingRecords": 4
 }

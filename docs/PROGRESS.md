@@ -1,18 +1,20 @@
-> 截至 2026-11-12，累计已逐件检查 66 个系列的 6,857 条候选，5,057 条有效记录已补齐简介和来源。1,790 条仍待补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,782 个系列尚待逐件研究。完整核实系列数为 0。 [最新断点](../research/series-evidence-20261112/elmelloi-glitter/README.md)。以下保留此前阶段记录。
+> 截至 2026-11-12，累计已逐件检查 68 个系列的 6,881 条候选，5,081 条有效记录已补齐简介和来源。1,790 条仍待补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,780 个系列尚待逐件研究。完整核实系列数为 0。 [最新断点](../research/series-evidence-20261112/tsuikore45/README.md)。以下保留此前阶段记录。
 
 # 当前进度
 
-本轮依次检查ロード・エルメロイII世の冒険12条、グリッターCANバッジ Fate/Grand Order E的13条，共25条；其中23条分20+3两批正式补充并完整读回，无版本跳过，2条跨卷冲突保持原状。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订111；维护入口已实测 HTTP 401 关闭。
+本轮依次完成FGOついコレ亚克力钥匙扣vol.4、vol.5各12条，共24条；分20+4两批正式补充并完整读回，无版本跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订113；维护入口已实测 HTTP 401 关闭。
 
-书目10条对应TYPE-MOON官网卷目、购买链接商品代码及原JAN；另外两条标题12/9分别混入卷4/1来源，整条保留待查，不改名、不改JAN、不迁移挂牌。徽章10个具名单款、单包、BOX和零售全套分别保留，销售详情与本款商品图佐证全10种、约56×D4mm，BOX明确不保证集齐。单包枚数/专属JAN、零售全套封装/附件/JAN仍待查；13条原空JAN保留，销售商出处不标为制造商原文。
+两组各10个普通单款逐项对应ALGERNON公告、厂商商店清单和宣传图，明确亚克力材质及约宽20×高67mm。单包2条、零售全套2条分别保留；官方图确认单件装1个、BOX10个，1PCS和1BOX条码仅作为包装范围事实保存，原24条空JAN不填。两条单包的原编号JAN绑定、两条全套的实际封装/附件/特典/JAN仍待查。另售收纳盒和限定渠道初回BOX特典不混入普通10款；当前厂商商店明确初回特典不附。
 
-本轮2条书目跨卷冲突见[整条待查](../research/series-evidence-20261112/elmelloi-glitter/pending.json)，2条徽章包装见[字段待查](../research/series-evidence-20261112/elmelloi-glitter/field-pending.json)。
+本轮4条包装记录继续[字段待查](../research/series-evidence-20261112/tsuikore45/field-pending.json)。此前エルメロイ/闪粉徽章23条不重放。
+
+此前2条书目跨卷冲突见[整条待查](../research/series-evidence-20261112/elmelloi-glitter/pending.json)，2条徽章包装见[字段待查](../research/series-evidence-20261112/elmelloi-glitter/field-pending.json)。
 
 此前卫宫家/Vol.22两批26条不重放。此前FoxTail/徽章42条不重放，其中2条单包仍有[字段待查](../research/series-evidence-20261112/foxtail-badges/field-pending.json)；此前Vol.22的3条包装缺口见[字段待查](../research/series-evidence-20261112/emiya-chara22/field-pending.json)。
 
 上一轮CLIMAX/英霊剣豪31条已补充，CLIMAX第1～8卷页数/开本仍[待查](../research/series-evidence-20261111/climax-kengou/field-pending.json)，本轮未重放。
 
-下一批先补查FGOついコレ亚克力钥匙扣vol.4的12条，再查vol.5的12条。ALGERNON官方公告已取得原文缓存；每组为10个具名单款、单包与零售全套。逐项核对职阶和夏季衣装，收纳盒、普通款与限定渠道BOX购入特典分别处理，包装条码不得下放。
+下一批先补查グリッターCANバッジ Fate/Grand Order F的12条，再查FGOもちもちマスコットvol.16的11条。前者已取得KADOKAWA销售详情，后者已定位SK JAPAN厂商页；逐项核对职阶、名称写法、包装条码和限定渠道特典。
 
 上一轮EXTELLA/威化3补充38条，3条拍卖及No.25隐藏角色继续待查，见[历史断点](../research/series-evidence-20261110/extella-wafer3/resume.json)。
 
@@ -146,6 +148,7 @@ Prompt先提交0441557。已准备300条真实历史挂牌，开发100/冻结候
 ## 旧阶段停止点（历史）
 
 原32条阶段等待分类、身份和层级语义验收；此后用户已另行启动300条隔离试点并反馈首30条，现状见本文顶部。#495拆分、后续Apocrypha、独立盲测标注、生产增量采集与性能扩量仍未启动；不能重放历史成功动作。
+
 
 
 

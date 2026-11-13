@@ -1,29 +1,53 @@
 {
-  "at": "2026-11-13T01:49:48.535Z",
-  "localDate": "2026-11-12",
+  "at": "2026-11-13T01:55:35.975Z",
+  "completedLocalDate": "2026-11-12",
   "timezone": "America/Chicago",
-  "stage": "prepared-and-simulated-no-production-write",
-  "candidates": 24,
-  "prepared": 24,
-  "productionApplied": 0,
+  "stage": "applied-read-back-and-closed",
   "groups": [
     {
-      "key": "vol4",
-      "candidates": 12
+      "groupId": "series-4ed43fc65a984413",
+      "label": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "snapshotItems": 12,
+      "productionApplied": 12,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     },
     {
-      "key": "vol5",
-      "candidates": 12
+      "groupId": "series-588f24c11680a193",
+      "label": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.5",
+      "snapshotItems": 12,
+      "productionApplied": 12,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
+  "candidates": 24,
+  "productionApplied": 24,
+  "batches": 2,
   "pendingEvidence": 0,
+  "pendingFile": "pending.json",
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
   "fieldPendingRecords": 4,
   "fieldPendingFile": "field-pending.json",
-  "simulationPassed": true,
-  "plannedBatches": 2,
+  "limitations": [
+    "两组各10个普通单款、1个单包、1个零售全套；公告、厂商商店与宣传图逐项核对职阶及夏季衣装",
+    "官方单件装1个、BOX10个；单件装和BOX条码仅记来源事实，24条原空JAN不填",
+    "两条单包原编号的JAN绑定、两条零售全套的实际封装/附件/特典/JAN仍待查",
+    "官方收纳盒另售；限定渠道初回BOX特典不属于普通10款；当前厂商商店选择项明确初回特典不附",
+    "不更新实时库存，不把预约日期当实际首发日，不保证二手附属品完整；完整核实商品和系列仍为0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 113,
+  "deploymentId": "appgdep_6af66d4a8be4819196503dcdb1fc093e",
+  "siteVersion": 70,
+  "preparedCommit": "89a7c40f64561dbf6e0669ce5062230f916569af",
   "previousOutstanding": "../elmelloi-glitter/resume.json",
-  "next": "确认GitHub准备断点后，只写本轮新鲜目标；20+4两批完整读回，保存回执，关闭维护入口并更新累计。",
-  "doNotReplay": "上一轮23条及全部历史成功动作禁止重放。",
-  "scope": "普通单款20、单包2、零售全套2。4条包装专属JAN/封装/附件继续待查；24条原空JAN保留。"
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮2批24条、上一轮エルメロイ/闪粉徽章23条、卫宫家/Vol.22两批26条、FoxTail/徽章42条及全部历史成功动作禁止重放。",
+  "note": "原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系和偏好保留。此前2条跨卷冲突、2条徽章包装字段及历史缺口沿用。"
 }
-

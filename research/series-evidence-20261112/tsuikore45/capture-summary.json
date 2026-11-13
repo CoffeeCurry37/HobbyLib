@@ -1,12 +1,14 @@
 {
-  "captureReceipts": 10,
-  "uniqueUrls": 10,
+  "captureReceipts": 11,
+  "uniqueUrls": 11,
   "statuses": {
-    "captured": 6,
+    "captured": 7,
     "unavailable": 4
   },
-  "requests": 9,
+  "recordedRequests": 10,
   "cacheHits": 1,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "本机公开采集回执；厂商公告复用已存缓存，两官方商店详情及两宣传图新采集。原四个零售详情不可用，不绕过访问限制。网页工具观察另计，观察JSON哈希不是原HTML哈希；总费用不可用。",
+  "evidenceScope": "包含下一批闪粉F销售详情1条，只有来源发现，不计完成。",
+  "interruption": "一次公开商店缓存请求因自动审批用量限制未执行；用户继续后经原审批流程完成，不计为HTTP请求。"
 }
