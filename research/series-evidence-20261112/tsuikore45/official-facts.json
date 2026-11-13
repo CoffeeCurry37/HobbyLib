@@ -1,0 +1,110 @@
+{
+  "at": "2026-11-13T01:45:55.475Z",
+  "facts": [
+    {
+      "volume": 4,
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "lineup": [
+        "主人公（男）礼装 サマー・ストリート",
+        "シールダー/マシュ・キリエライト(常夏の水着Ver.02)",
+        "バーサーカー/アルトリア・キャスター",
+        "キャスター/水妃モルガン",
+        "ムーンキャンサー/殺生院キアラ",
+        "フォーリナー/ アビゲイル・ウィリアムズ〔夏〕",
+        "プリテンダー/オベロン〔爽やかサマー･プリンス〕",
+        "ライダー/アキレウス〔フィアレス･ダイバー〕",
+        "ライダー/マンドリカルド〔サマー・スポーツウェア〕",
+        "ライダー/エドワード・ティーチ〔盛夏の紳士〕"
+      ],
+      "manufacturer": "株式会社アルジャーノンプロダクト",
+      "material": "アクリル",
+      "size": "约W20mm×H67mm",
+      "normalTypes": 10,
+      "boxCompletionGuaranteed": true,
+      "separateStorageCase": true,
+      "boxBonus": {
+        "character": "ゴルドルフ・ムジーク（アロハVer.）",
+        "restriction": "FGO Fes.2026会场销售和あるじゃんマーケット初回预约限定",
+        "currentShopSelectorSaysNoBonus": true
+      },
+      "scope": "厂商公告和厂商自营商店两处清单精确交叉对应；BOX集齐说明仅用于厂家BOX，不下放到单包或零售组合。",
+      "imageSource": {
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "at": "2026-11-13T01:46:11.737Z",
+        "sha256": "be6e1e427f55712c40c52d634f3c00888566bbef85be4d369fb453ee4d3340fd"
+      },
+      "packaging": {
+        "singleCount": 1,
+        "boxCount": 10,
+        "singleJan": "4570121785231",
+        "boxJan": "4570121785248",
+        "scope": "来自已视觉读图的厂商1PCS和1BOX标签；未与原24条空JAN建立专属条码绑定，不写JAN字段。"
+      }
+    },
+    {
+      "volume": 5,
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.5",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339738",
+        "at": "2026-11-13T01:44:13.704Z",
+        "sha256": "9ffca6ede3888a6151fe4389a83e7ed4c8710166c64a0046214a15eb2d8a9458"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "lineup": [
+        "主人公（女）礼装 サマー・ストリート",
+        "ムーンキャンサー/BB",
+        "ムーンキャンサー/テノチティトラン",
+        "ライダー/イシュタル",
+        "ビースト/エレシュキガル",
+        "プリテンダー/オベロン〔不機嫌サマー・オベロン〕",
+        "キャスター/マーリン〔Camelot ＆ Co〕",
+        "アサシン/テスカトリポカ〔ワイルド・ガンマン〕",
+        "キャスター/クー・フーリン〔トロピカル・ルーンサマー〕",
+        "キャスター/アスクレピオス〔サマーレスキュー〕"
+      ],
+      "manufacturer": "株式会社アルジャーノンプロダクト",
+      "material": "アクリル",
+      "size": "约W20mm×H67mm",
+      "normalTypes": 10,
+      "boxCompletionGuaranteed": true,
+      "separateStorageCase": true,
+      "boxBonus": {
+        "character": "カドック・ゼムルプス（水着Ver.）",
+        "restriction": "FGO Fes.2026会场销售和あるじゃんマーケット初回预约限定",
+        "currentShopSelectorSaysNoBonus": true
+      },
+      "scope": "厂商公告和厂商自营商店两处清单精确交叉对应；BOX集齐说明仅用于厂家BOX，不下放到单包或零售组合。",
+      "imageSource": {
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol5_POP-特典あり-1024x724.jpg",
+        "at": "2026-11-13T01:46:13.244Z",
+        "sha256": "700c06e2aaed719d371186b17689f2327db2641ab7c795998a961f9774804820"
+      },
+      "packaging": {
+        "singleCount": 1,
+        "boxCount": 10,
+        "singleJan": "4570121785255",
+        "boxJan": "4570121785262",
+        "scope": "来自已视觉读图的厂商1PCS和1BOX标签；未与原24条空JAN建立专属条码绑定，不写JAN字段。"
+      }
+    }
+  ],
+  "scope": "20个普通款，不混入独立收纳盒或2个条件限定BOX特典；材料/尺寸/厂商事实已确认，包装JAN不推断。"
+}

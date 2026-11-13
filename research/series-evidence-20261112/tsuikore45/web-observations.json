@@ -1,0 +1,42 @@
+[
+  {
+    "id": "vol4-manufacturer-image",
+    "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+    "at": "2026-11-13T01:47:50.051Z",
+    "sourceAt": "2026-11-13T01:46:11.737Z",
+    "sourceSha256": "be6e1e427f55712c40c52d634f3c00888566bbef85be4d369fb453ee4d3340fd",
+    "access": "已视觉检查厂商公告实链图片1024×724",
+    "facts": {
+      "volume": 4,
+      "normalTypes": 10,
+      "itemsPerSinglePackage": 1,
+      "itemsPerBox": 10,
+      "onePcsJan": "4570121785231",
+      "boxJan": "4570121785248",
+      "sealedBoxCompletesRegularSet": true,
+      "storageCaseSeparatelySold": true,
+      "conditionalBonusSeparatePanel": true
+    },
+    "scope": "图中左侧10个具名普通款逐项对应公告清单；右侧为另售收纳盒示例，下右为限定渠道初回BOX特典。底部1PCS/1BOX条码仅记厂商包装范围，不填到原空JAN记录。"
+  },
+  {
+    "id": "vol5-manufacturer-image",
+    "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol5_POP-特典あり-1024x724.jpg",
+    "at": "2026-11-13T01:47:50.051Z",
+    "sourceAt": "2026-11-13T01:46:13.244Z",
+    "sourceSha256": "700c06e2aaed719d371186b17689f2327db2641ab7c795998a961f9774804820",
+    "access": "已视觉检查厂商公告实链图片1024×724",
+    "facts": {
+      "volume": 5,
+      "normalTypes": 10,
+      "itemsPerSinglePackage": 1,
+      "itemsPerBox": 10,
+      "onePcsJan": "4570121785255",
+      "boxJan": "4570121785262",
+      "sealedBoxCompletesRegularSet": true,
+      "storageCaseSeparatelySold": true,
+      "conditionalBonusSeparatePanel": true
+    },
+    "scope": "图中左侧10个具名普通款逐项对应公告清单；右侧为另售收纳盒示例，下右为限定渠道初回BOX特典。底部1PCS/1BOX条码仅记厂商包装范围，不填到原空JAN记录。"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "at": "2026-11-13T01:49:48.535Z",
+  "localDate": "2026-11-12",
+  "timezone": "America/Chicago",
+  "stage": "prepared-and-simulated-no-production-write",
+  "candidates": 24,
+  "prepared": 24,
+  "productionApplied": 0,
+  "groups": [
+    {
+      "key": "vol4",
+      "candidates": 12
+    },
+    {
+      "key": "vol5",
+      "candidates": 12
+    }
+  ],
+  "pendingEvidence": 0,
+  "fieldPendingRecords": 4,
+  "fieldPendingFile": "field-pending.json",
+  "simulationPassed": true,
+  "plannedBatches": 2,
+  "previousOutstanding": "../elmelloi-glitter/resume.json",
+  "next": "确认GitHub准备断点后，只写本轮新鲜目标；20+4两批完整读回，保存回执，关闭维护入口并更新累计。",
+  "doNotReplay": "上一轮23条及全部历史成功动作禁止重放。",
+  "scope": "普通单款20、单包2、零售全套2。4条包装专属JAN/封装/附件继续待查；24条原空JAN保留。"
+}
+

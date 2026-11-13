@@ -1,0 +1,24 @@
+[
+  {
+    "groupId": "series-4ed43fc65a984413",
+    "label": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+    "candidates": 12,
+    "sources": [
+      "https://algernonproduct.co.jp/news/12193/"
+    ],
+    "scope": "10个具名单款、单包、零售全套；逐项匹配角色/职阶/衣装，保留包装身份与原空JAN。不新增BOX、购入特典或收纳盒。",
+    "status": "manufacturer-source-discovery-only",
+    "key": "vol4"
+  },
+  {
+    "groupId": "series-588f24c11680a193",
+    "label": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.5",
+    "candidates": 12,
+    "sources": [
+      "https://algernonproduct.co.jp/news/12193/"
+    ],
+    "scope": "10个具名单款、单包、零售全套；逐项匹配角色/职阶/衣装，保留包装身份与原空JAN。不新增BOX、购入特典或收纳盒。",
+    "status": "manufacturer-source-discovery-only",
+    "key": "vol5"
+  }
+]

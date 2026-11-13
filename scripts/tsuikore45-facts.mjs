@@ -1,0 +1,12 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';import {cached,clean,write} from './four-series-common.mjs';
+const dir='research/series-evidence-20261112/tsuikore45',priv='work/series-evidence-20261112/tsuikore45',news=cached('https://algernonproduct.co.jp/news/12193/');
+const strip=s=>clean(s.replace(/<[^>]+>/g,'')).replace(/\s+/g,' ').trim(),norm=s=>s.normalize('NFKC').replace(/\s/g,'').replaceAll('･','・');
+const headings=[...news.body.matchAll(/<h[23]\b[^>]*>([\s\S]*?)<\/h[23]>/g)];const facts=[];
+for(const vol of [4,5]){const index=headings.findIndex(m=>strip(m[1]).endsWith('キーホルダー Vol.'+vol));assert.ok(index>=0);const fragment=news.body.slice(headings[index].index,headings[index+1].index);
+const ps=[...fragment.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/g)].map(m=>m[1]),lines=ps.flatMap(p=>p.split(/<br\s*\/?\s*>/i)).map(strip).filter(s=>/^\d+\./.test(s)).map(s=>s.replace(/^\d+\.\s*/,''));assert.equal(lines.length,10);assert.ok(strip(fragment).includes('W20mm×H67mm'));
+const shop=cached('https://market.algernonproduct.co.jp/items/'+(vol===4?'149339737':'149339738')),description=clean(shop.body.match(/<meta property="og:description" content="([\s\S]*?)"/)[1]),normalized=norm(description);for(const name of lines)assert.ok(normalized.includes(norm(name)),name);for(const text of ['＜素材＞アクリル','W20mm×H67mm','アクリル収納ケースは別売りです','BOX購入で全種コンプリート出来ます'])assert.ok(normalized.includes(norm(text)),text);
+facts.push({volume:vol,officialTitle:'Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.'+vol,source:shop.source,additionalSources:[news.source],lineup:lines,manufacturer:'株式会社アルジャーノンプロダクト',material:'アクリル',size:'约W20mm×H67mm',normalTypes:10,boxCompletionGuaranteed:true,separateStorageCase:true,boxBonus:{character:vol===4?'ゴルドルフ・ムジーク（アロハVer.）':'カドック・ゼムルプス（水着Ver.）',restriction:'FGO Fes.2026会场销售和あるじゃんマーケット初回预约限定',currentShopSelectorSaysNoBonus:shop.body.includes('あるじゃんマーケット初回予約特典は付属しません。')},scope:'厂商公告和厂商自营商店两处清单精确交叉对应；BOX集齐说明仅用于厂家BOX，不下放到单包或零售组合。'});
+}
+write(dir+'/official-facts.json',{at:new Date().toISOString(),facts,scope:'20个普通款，不混入独立收纳盒或2个条件限定BOX特典；材料/尺寸/厂商事实已确认，包装JAN不推断。'});
+const imagePlans=[...news.body.matchAll(/src="([^"]+)"/g)].map(m=>clean(m[1])).filter(u=>/FGO_ついコレ_アクリルキーホルダーvol[45]_POP-特典あり-1024x724\.jpg/.test(u));assert.equal(imagePlans.length,2);write(priv+'/image-capture.json',imagePlans.map(url=>({url,kind:'image'})));console.log(JSON.stringify({facts,imagePlans}));
+

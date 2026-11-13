@@ -1,0 +1,591 @@
+{
+  "at": "2026-11-13T01:47:50.051Z",
+  "rows": [
+    {
+      "itemId": "1ad4aff4-3580-4ab2-8a8c-75dac1144ed2",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "ライダー/マンドリカルド〔サマー・スポーツウェア〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "ライダー/マンドリカルド〔サマー・スポーツウェア〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809631&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809631?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "ライダー/マンドリカルド〔サマー・スポーツウェア〕",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为ライダー/マンドリカルド〔サマー・スポーツウェア〕普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "2570263b-8595-4bbd-bb3f-da55e9a7b72d",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "ムーンキャンサー/殺生院キアラ 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "ムーンキャンサー/殺生院キアラ 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809627&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809627?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "ムーンキャンサー/殺生院キアラ",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为ムーンキャンサー/殺生院キアラ普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "304d55e7-b7b8-41a6-aa38-4d54c33c2312",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "【パック】Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": "4",
+        "member": "【パック】Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809622&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809622?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "pack",
+      "volume": 4,
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条按原零售目录保留为未指定角色的单包；厂商图示该系列单件装为1个，不能据此视为双件套装。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "3538b62e-0d2c-4002-b5f3-6d02cea8ad5a",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "ライダー/エドワード・ティーチ〔盛夏の紳士〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "ライダー/エドワード・ティーチ〔盛夏の紳士〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809632&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809632?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "ライダー/エドワード・ティーチ〔盛夏の紳士〕",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为ライダー/エドワード・ティーチ〔盛夏の紳士〕普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "42a4f4b6-060c-4b96-ad11-c44c08fe6a2d",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "プリテンダー/オベロン〔爽やかサマー・プリンス〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "プリテンダー/オベロン〔爽やかサマー・プリンス〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809629&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809629?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "プリテンダー/オベロン〔爽やかサマー･プリンス〕",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为プリテンダー/オベロン〔爽やかサマー･プリンス〕普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "5df1ffe5-e3d9-47cc-9eca-c1f19398b844",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "全10種セット 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "全10種セット 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809633&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809633?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "retailer-complete-set",
+      "volume": 4,
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。原零售目录将本条列为普通全10种套装；实际封装及附属内容待核实，不据此视为厂家原封BOX或含购入特典。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "90069e63-dc2e-45b9-b414-8c92450e34a8",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "シールダー/マシュ・キリエライト(常夏の水着Ver.02) 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "シールダー/マシュ・キリエライト(常夏の水着Ver.02) 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809624&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809624?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "シールダー/マシュ・キリエライト(常夏の水着Ver.02)",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为シールダー/マシュ・キリエライト(常夏の水着Ver.02)普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "a726a0ef-5bb7-4599-bfbd-25ed52dcf2fd",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "フォーリナー/アビゲイル・ウィリアムズ〔夏〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "フォーリナー/アビゲイル・ウィリアムズ〔夏〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809628&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809628?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "フォーリナー/ アビゲイル・ウィリアムズ〔夏〕",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为フォーリナー/ アビゲイル・ウィリアムズ〔夏〕普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "cb9d9799-82b2-4002-b614-4d7025d4b09c",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "主人公(男)/礼装 サマー・ストリート 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "主人公(男)/礼装 サマー・ストリート 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809623&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809623?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "主人公（男）礼装 サマー・ストリート",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为主人公（男）礼装 サマー・ストリート普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "e9ae4082-0f5c-4bd9-9b5c-a0d80d47b9db",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "ライダー/アキレウス〔フィアレス・ダイバー〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "ライダー/アキレウス〔フィアレス・ダイバー〕 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809630&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809630?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "ライダー/アキレウス〔フィアレス･ダイバー〕",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为ライダー/アキレウス〔フィアレス･ダイバー〕普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "ec169387-f0bf-4ff3-88cd-8c6f5d7ada82",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "バーサーカー/アルトリア・キャスター 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "バーサーカー/アルトリア・キャスター 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809625&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809625?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "バーサーカー/アルトリア・キャスター",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为バーサーカー/アルトリア・キャスター普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    },
+    {
+      "itemId": "ec1e69c2-29b8-4fec-a66e-a3787d96a8f1",
+      "groupId": "series-4ed43fc65a984413",
+      "title": "キャスター/水妃モルガン 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+        "wave": null,
+        "member": "キャスター/水妃モルガン 「Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560809626&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560809626?tenpo_cd="
+        ]
+      },
+      "status": "supported",
+      "recordKind": "single",
+      "volume": 4,
+      "character": "キャスター/水妃モルガン",
+      "source": {
+        "url": "https://market.algernonproduct.co.jp/items/149339737",
+        "at": "2026-11-13T01:45:10.929Z",
+        "sha256": "f8ff5bbb0567724c0084cb259f3311a0511291363022340bccc3bdb06689b5a5"
+      },
+      "additionalSources": [
+        {
+          "url": "https://algernonproduct.co.jp/news/12193/",
+          "at": "2026-11-12T19:22:21.441Z",
+          "sha256": "fd480285076c88bc542a7674a5309ebe2254387c62041d891f20936361cd8344"
+        }
+      ],
+      "second": "https://algernonproduct.co.jp/news/12193/",
+      "officialTitle": "Fate/Grand Order ついコレ トレーディングアクリルキーホルダー vol.4",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "vol4-manufacturer-image",
+        "url": "https://algernonproduct.co.jp/wp-content/uploads/2026/07/FGO_ついコレ_アクリルキーホルダーvol4_POP-特典あり-1024x724.jpg",
+        "sha256": "17b4f58d07d99022dc1576e481f1fb3a218cf7763915dbcf6f7ef2a581f6b0c1"
+      },
+      "identityMatch": "原作品、ついコレ产品线、弹次、厂商与官方一致；20个具名单款逐项匹配职阶/衣装，单包和零售全套分别保留。",
+      "scope": "厂商自营商店与公告同弹清单、亚克力材质及约W20×H67mm；宣传图单件装/BOX标注分开核对",
+      "summary": "ALGERNON PRODUCT《Fate/Grand Order》ついコレ集换式亚克力钥匙扣vol.4，普通款共10种，本体约宽20×高67mm。本条为キャスター/水妃モルガン普通单款，与厂商公告、商店清单及宣传图对应。专用收纳盒另售。",
+      "notes": "只补空简介并追加两条出处，原名、空JAN及全部个人/挂牌字段保留。宣传图的1PCS/1BOX条码仅作参考；官方BOX集齐及限渠道特典规则不下放给单款、单包或零售套装。"
+    }
+  ]
+}
