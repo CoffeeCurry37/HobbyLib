@@ -1,0 +1,133 @@
+{
+  "at": "2026-11-13T03:27:41.672Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-0d4249c4b43da9c9",
+      "label": "オーロラアクリルキーホルダー Fate/Grand Order E",
+      "candidates": 11,
+      "sources": [
+        "https://store.kadokawa.co.jp/shop/g/gca4545403584710/",
+        "https://www.amiami.com/eng/detail/?gcode=GOODS-04802992"
+      ],
+      "scope": "10个普通单款+1个单包；核对夏季职阶、截断名称、尺寸冲突与包装条码。",
+      "status": "retailer-detail-source-discovery-only"
+    },
+    {
+      "groupId": "series-86e51df0ac43080e",
+      "label": "オーロラアクリルキーホルダー Fate/Grand Order F",
+      "candidates": 11,
+      "sources": [
+        "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+        "https://www.suruga-ya.jp/product/detail/561847516"
+      ],
+      "scope": "9个普通单款+1个单包+1个零售全套；本组无Scathach单款，不补造第10条，不复用徽章规格；保留A/Λ差异待证。",
+      "status": "retailer-detail-source-discovery-only"
+    }
+  ],
+  "observations": [
+    {
+      "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584710/",
+      "at": "2026-11-13T03:26:40.867Z",
+      "sha256": "fe2ba9ecc6f196f24ff6f6f4461fd0cb8017bb6ba7f52c7c5a798817d7228c94",
+      "sourceRole": "retailer",
+      "scope": "KADOKAWA销售详情已取得原HTML；仅定位入口，未逐字段写入。"
+    },
+    {
+      "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584727/",
+      "at": "2026-11-13T03:26:42.346Z",
+      "sha256": "6e7dfd8feaa06f321c887584993dcd6437a6e807c708c61afcd528395bf95349",
+      "sourceRole": "retailer",
+      "scope": "KADOKAWA销售详情已取得原HTML；仅定位入口，未逐字段写入。"
+    }
+  ],
+  "identityWarnings": [
+    "E与F的原投影成员数量结构不同，不按同类整套推算",
+    "原拼写/职阶截断、A/Λ差异需独立来源，不能从徽章同角色推定钥匙扣规格",
+    "Amiami/Suruga资料约H74×W48×D3mm，BicCamera销售页出现H76；尺寸先核厂商或清晰商品图，冲突不取多数票",
+    "销售详情与制造商页面分开标注，继续查厂商原始规格；条码不得从BOX下放单包/单款"
+  ],
+  "conflictSources": [
+    "https://www.amiami.com/eng/detail/?gcode=GOODS-04802992",
+    "https://www.biccamera.com/bc/item/15138609/"
+  ],
+  "pendingFirst": "本轮7条字段缺口及previousOutstanding链全部保留。",
+  "nextRule": "先查极光亚克力钥匙扣E的11条，再查F的11条；当前仅来源发现，不计完成。",
+  "productionApplied": 0,
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-9cd624974209cc26",
+      "label": "Fate/Apocrypha 漫画版",
+      "candidates": 16,
+      "protectedSnapshot": 16,
+      "reason": "原快照16条已有认可简介，保留不重查"
+    },
+    {
+      "groupId": "series-774a4872988f96e5",
+      "label": "新宿幻霊事件",
+      "candidates": 16,
+      "protectedSnapshot": 7,
+      "reason": "含7条已有认可简介及派生成员，后续先做身份映射；本轮不重查认可资料"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
 {
-  "captureReceipts": 17,
-  "uniqueUrls": 17,
+  "captureReceipts": 19,
+  "uniqueUrls": 19,
   "statuses": {
     "unavailable": 10,
-    "captured": 7
+    "captured": 9
   },
-  "requests": 16,
+  "recordedRequests": 18,
   "cacheHits": 1,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "本机有限公开采集；网页工具观察另计，观察JSON哈希非原HTML哈希。原商品详情/图不可用不绕过。费用未取得账单。",
+  "evidenceScope": "包含下一批极光E/F两条销售页，仅来源发现。"
 }

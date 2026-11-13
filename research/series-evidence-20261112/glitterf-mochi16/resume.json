@@ -1,20 +1,54 @@
 {
-  "at": "2026-11-13T03:23:36.518Z",
-  "stage": "prepared-no-production-write",
+  "at": "2026-11-13T03:27:41.672Z",
+  "completedLocalDate": "2026-11-12",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-254da9037f23bdf5",
+      "label": "グリッターCANバッジ Fate/Grand Order F",
+      "snapshotItems": 12,
+      "productionApplied": 12,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-795afbdf0293913e",
+      "label": "Fate/Grand Order もちもちマスコット vol.16",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
   "candidates": 23,
-  "prepared": 23,
-  "productionApplied": 0,
+  "productionApplied": 23,
+  "batches": 2,
   "pendingEvidence": 0,
+  "pendingFile": "pending.json",
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
   "fieldPendingRecords": 7,
   "fieldPendingFile": "field-pending.json",
-  "simulation": "simulation.json",
-  "previousCompletedCommit": "54d3e370e3fba27ce0c014b42059cd909f8ac530",
-  "previousOutstanding": "../tsuikore45/resume.json",
-  "nextAction": "按顺序仅应用本轮冻结的23条，20+3两批；新鲜完整目标与expectedVersion校验后读回；关闭维护入口再更新累计。",
-  "doNotReplay": "上一轮tsuikore45已完成24条及所有历史成功动作；当前仅prepared，恢复前检查本机apply回执与生产状态。",
+  "limitations": [
+    "闪粉F销售来源确认普通10种/约56×D4mm/闪粉效果；BOX10个但不保证集齐，不把销售商当制造商",
+    "もちもちvol.16厂商确认9个普通款和珠链；约50×85mm来自Amiami零售详情",
+    "A/Λ、耀星/輝星、孫市/孫一保留原名，只补系列通用规格，未宣称个别字形或对应款完整确认",
+    "4条包装记录实际封装/附件或条码绑定待查，23条原空JAN不改",
+    "SK商店型番5289和Amiami BOX JAN5296分别保存；各渠道男女主角制服特典与普通9款分开",
+    "既有日期保留，不将9月30日预约占位推为实际首发；不更新库存，不保证二手附属品；完整核实仍0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 115,
+  "deploymentId": "appgdep_6af683231694819183da48d462075041",
   "siteVersion": 70,
-  "baselineEnvironmentRevision": 113,
-  "fullProductVerified": 0,
-  "fullSeriesVerified": 0
+  "preparedCommit": "239920f283c5dcf71b353192710ecbcbca03a860",
+  "previousOutstanding": "../tsuikore45/resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮2批23条、前轮ついコレ2批24条、エルメロイ/闪粉23条及所有历史成功动作禁止重放。",
+  "note": "原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系和偏好保留。历史未决项沿previousOutstanding接续。"
 }
-

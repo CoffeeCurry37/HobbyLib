@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-13T01:55:35.975Z",
+  "at": "2026-11-13T03:27:41.672Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 68,
-  "seriesAwaitingItemReview": 1780,
+  "seriesWithItemReview": 70,
+  "seriesAwaitingItemReview": 1778,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6881,
-  "productionApplied": 5081,
+  "coveredSnapshotItems": 6904,
+  "productionApplied": 5104,
   "protectedExisting": 9,
   "pendingEvidence": 1790,
   "freshVersionSkips": 1,
@@ -699,9 +699,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-254da9037f23bdf5",
+      "label": "グリッターCANバッジ Fate/Grand Order F",
+      "snapshotItems": 12,
+      "productionApplied": 12,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-795afbdf0293913e",
+      "label": "Fate/Grand Order もちもちマスコット vol.16",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261112/tsuikore45/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261112/glitterf-mochi16/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6

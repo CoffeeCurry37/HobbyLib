@@ -1,6 +1,6 @@
 {
   "at": "2026-11-13T03:22:45.816Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 23,
   "prepared": 23,
   "pending": 0,
@@ -15,12 +15,13 @@
         "https://www.suruga-ya.jp/product/detail/881005213"
       ],
       "scope": "10个具名单款、单包与BOX；KADOKAWA为销售来源，逐条核对角色职阶/截断及误字，不将销售商冒充制造商。",
-      "status": "retailer-detail-source-discovery-only",
       "key": "glitterf",
       "reviewed": 12,
       "ready": 12,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 12
     },
     {
       "groupId": "series-795afbdf0293913e",
@@ -31,16 +32,20 @@
         "https://mochi2.shop-pro.jp/?pid=191997931"
       ],
       "scope": "9个普通单款、单包与零售全套；两渠道的主角男女制服BOX特典分别处理，先核对哈桑/杂贺名字差异及条码包装作用域。",
-      "status": "manufacturer-source-discovery-only",
       "key": "mochi16",
       "reviewed": 11,
       "ready": 11,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 11
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 23,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-13T03:27:41.672Z",
+  "fieldPendingRecords": 7
 }
