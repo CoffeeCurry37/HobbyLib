@@ -1,0 +1,577 @@
+{
+  "at": "2026-11-13T03:22:42.939Z",
+  "rows": [
+    {
+      "itemId": "1be90155-b9f4-490b-9fc7-1ffc457a6662",
+      "groupId": "series-795afbdf0293913e",
+      "title": "アヴェンジャー/マリー・アントワネット[オルタ] 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "アヴェンジャー/マリー・アントワネット[オルタ] 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728044&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728044?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条为原目录所列的普通单款。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "38fcaf66-f644-4ba7-8c48-deb68e6d2897",
+      "groupId": "series-795afbdf0293913e",
+      "title": "折田さん 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "折田さん 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728048&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728048?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条为原目录所列的普通单款。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "3c687d92-b796-402c-90a6-4ee400b15652",
+      "groupId": "series-795afbdf0293913e",
+      "title": "バーサーカー/永倉新八 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "バーサーカー/永倉新八 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728051&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728051?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条为原目录所列的普通单款。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "48ed62d9-9d70-4d19-ad0f-0229baaf2a69",
+      "groupId": "series-795afbdf0293913e",
+      "title": "プリテンダー/アレッサンドロ・ディ・カリオストロ 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "プリテンダー/アレッサンドロ・ディ・カリオストロ 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728046&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728046?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条为原目录所列的普通单款。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "65f1bec8-8fa0-4489-906f-bdee17ea9b1a",
+      "groupId": "series-795afbdf0293913e",
+      "title": "【パック】Fate/Grand Order もちもちマスコット vol.16",
+      "status": "supported",
+      "recordKind": "pack",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": "16",
+        "member": "【パック】Fate/Grand Order もちもちマスコット vol.16",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728043&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728043?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条按原目录保留为未指定角色的单包，实际封装数量与专属条码仍待核实。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "8414e328-b9c3-4e3d-8ee3-1cef559bf0c4",
+      "groupId": "series-795afbdf0293913e",
+      "title": "アーチャー/雑賀孫市 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "アーチャー/雑賀孫市 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728052&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728052?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条保留原目录单款名称，名称字形差异继续待查。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。原名雑賀孫市，Amiami清单雑賀孫一；厂商图无日文标签，同编号原图不可读，姓名字形待查。",
+      "identityMatch": "原名雑賀孫市，Amiami清单雑賀孫一；厂商图无日文标签，同编号原图不可读，姓名字形待查。"
+    },
+    {
+      "itemId": "a254eab3-14cb-4275-9907-76168ce50cd6",
+      "groupId": "series-795afbdf0293913e",
+      "title": "アヴェンジャー/巌窟王 モンテ・クリスト 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "アヴェンジャー/巌窟王 モンテ・クリスト 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728047&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728047?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条为原目录所列的普通单款。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "e3a84b94-ed70-435b-8adc-43b74c533a55",
+      "groupId": "series-795afbdf0293913e",
+      "title": "全9種セット 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "retailer-complete-set",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "全9種セット 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728053&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728053?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。原零售目录列为普通全9种套装，实际封装及附属内容待核实，不能据此视为厂家原封BOX或包含店铺特典。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "ed054af3-c610-46e9-95a1-73aa6919ed65",
+      "groupId": "series-795afbdf0293913e",
+      "title": "ライダー/武田信玄 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "ライダー/武田信玄 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728050&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728050?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条为原目录所列的普通单款。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "f0bddbde-5843-4a1c-929f-0308deb3a7cb",
+      "groupId": "series-795afbdf0293913e",
+      "title": "ランサー/長尾景虎 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "ランサー/長尾景虎 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728049&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728049?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条为原目录所列的普通单款。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "f24edd42-f75e-40b7-905a-f00b070a7513",
+      "groupId": "series-795afbdf0293913e",
+      "title": "アサシン/耀星のハサン 「Fate/Grand Order もちもちマスコット vol.16」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order もちもちマスコット vol.16",
+        "wave": null,
+        "member": "アサシン/耀星のハサン 「Fate/Grand Order もちもちマスコット vol.16」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=560728045&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/560728045?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "second": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+      "officialTitle": "もちもちマスコット Fate/Grand Order vol.16",
+      "sourceRole": "manufacturer",
+      "imageObservation": {
+        "id": "mochi16-manufacturer-image",
+        "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+        "sha256": "eb0747413ef54eb5952d624808f94e7f193af11e8ba47acf71d7878b601c1f86"
+      },
+      "lineupObservation": {
+        "id": "mochi16-amiami-lineup",
+        "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+        "sha256": "763433efbd65dbe50aa84c3a18f3c10633270873398c075381dfc7e451ace1c3"
+      },
+      "summary": "SK JAPAN《Fate/Grand Order》もちもちマスコット vol.16，普通款共9种，为附珠链的吉祥物挂件；Amiami销售页标注尺寸约50×85mm。本条保留原目录单款名称，名称字形差异继续待查。主角男女制服款为不同店铺的BOX购入特典，另行区分。",
+      "scope": "SK JAPAN公告和品牌商店证实vol.16、普通9款及珠链；约50×85mm来自Amiami销售页，非厂商尺寸声明",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。原名耀星のハサン，Amiami清单輝星のハサン；厂商图无日文标签，同编号原图不可读，姓名字形待查。",
+      "identityMatch": "原名耀星のハサン，Amiami清单輝星のハサン；厂商图无日文标签，同编号原图不可读，姓名字形待查。"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "at": "2026-11-13T03:22:42.939Z",
+  "facts": [
+    {
+      "key": "glitterf",
+      "sourceRole": "retailer",
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "manufacturerAsListed": "バンダイ",
+      "normalTypes": 10,
+      "boxCount": 10,
+      "boxCompletionGuaranteed": false,
+      "size": "直径约56×厚4mm",
+      "finish": "闪粉",
+      "shopJan": "4545403584680",
+      "scope": "销售商详情及其商品图；不冒充厂商页面，不将整盒数量下放单包，不填原空JAN。"
+    },
+    {
+      "key": "mochi16",
+      "sourceRole": "manufacturer",
+      "source": {
+        "url": "https://www.sk-japan.co.jp/mochimochi/archive/26100822",
+        "at": "2026-11-13T03:15:44.392Z",
+        "sha256": "1bae0742ced6cef1e2f2adcfb5c8bc4b75ba386cc12fa0ce1108d88eb9d162cb"
+      },
+      "additionalSources": [
+        {
+          "url": "https://mochi2.shop-pro.jp/?pid=191997931",
+          "at": "2026-11-13T03:15:44.395Z",
+          "sha256": "9ebbfd2e2127ce021fa32ee3173bbad219c3f6c40f5b7aa14019091a88fa12c3"
+        }
+      ],
+      "manufacturer": "株式会社エスケイジャパン",
+      "normalTypes": 9,
+      "boxCount": 9,
+      "boxCompletionGuaranteed": true,
+      "ballChain": true,
+      "releaseMonth": "2026年9月",
+      "storeModelNumber": "4544815095289",
+      "bonuses": {
+        "animate": "主人公（男）制服ver.",
+        "mochiStore": "主人公（女）制服ver."
+      },
+      "scope": "原厂公告与品牌商店；男女主角为各自渠道BOX购入特典，非普通9款。商店型番与零售BOX JAN不同，只记各自来源，不互相替代。尺寸来自单独标注的Amiami销售观察。"
+    }
+  ]
+}

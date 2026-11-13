@@ -1,0 +1,20 @@
+{
+  "at": "2026-11-13T03:23:36.518Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 23,
+  "prepared": 23,
+  "productionApplied": 0,
+  "pendingEvidence": 0,
+  "fieldPendingRecords": 7,
+  "fieldPendingFile": "field-pending.json",
+  "simulation": "simulation.json",
+  "previousCompletedCommit": "54d3e370e3fba27ce0c014b42059cd909f8ac530",
+  "previousOutstanding": "../tsuikore45/resume.json",
+  "nextAction": "按顺序仅应用本轮冻结的23条，20+3两批；新鲜完整目标与expectedVersion校验后读回；关闭维护入口再更新累计。",
+  "doNotReplay": "上一轮tsuikore45已完成24条及所有历史成功动作；当前仅prepared，恢复前检查本机apply回执与生产状态。",
+  "siteVersion": 70,
+  "baselineEnvironmentRevision": 113,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}
+

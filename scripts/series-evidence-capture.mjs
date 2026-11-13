@@ -20,6 +20,9 @@ allowed.add('market.algernonproduct.co.jp');
 allowed.add('algernonproduct.co.jp');
 // Official KADOKAWA shop index discovered for the current evidence round.
 allowed.add('store.kadokawa.co.jp');
+allowed.add('www.sk-japan.co.jp');
+allowed.add('mochi2.shop-pro.jp');
+allowed.add('img07.shop-pro.jp');
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};
 const planPath=process.argv[2],plan=JSON.parse(fs.readFileSync(planPath,'utf8'));
 if(!Array.isArray(plan)||plan.length>350)throw Error('Capture plan exceeds 350 URLs');

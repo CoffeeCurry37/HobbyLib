@@ -13,8 +13,12 @@ export function cached(url) {
   const name = parent + '/cache/' + hash(url);
   const meta = read(name + '.json');
   assert.equal(meta.status, 'captured', url);
-  const body = fs.readFileSync(name + '.html', 'utf8');
-  assert.equal(hash(body), meta.sha256);
+  const bytes = fs.readFileSync(name + '.html');
+  assert.equal(hash(bytes), meta.sha256);
+  const declared = String(meta.contentType || '').match(/charset=\s*["']?([^\s;"']+)/i)?.[1]
+    || bytes.subarray(0,6000).toString('ascii').match(/charset=\s*["']?([^\s;"'<>]+)/i)?.[1]
+    || 'utf-8';
+  const body = new TextDecoder(declared).decode(bytes);
   return {body, source:{url, at:meta.at, sha256:meta.sha256}};
 }
 export function clean(s) {

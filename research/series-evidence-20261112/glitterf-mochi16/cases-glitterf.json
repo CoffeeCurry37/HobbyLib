@@ -1,0 +1,605 @@
+{
+  "at": "2026-11-13T03:22:42.939Z",
+  "rows": [
+    {
+      "itemId": "source-0178fa6bc971358aae3833e4b1ceae0e",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "ランサー/謎のアルターエゴ・A 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "ランサー/謎のアルターエゴ・A 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186980&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186980&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186980"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条保留原目录单款名称，名称字形差异继续待查。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。原名为謎のアルターエゴ・A，销售商品图为Mysterious Alter Ego Λ；同编号原图不可读，个别字形及款式绑定继续待查。",
+      "identityMatch": "原名为謎のアルターエゴ・A，销售商品图为Mysterious Alter Ego Λ；同编号原图不可读，个别字形及款式绑定继续待查。"
+    },
+    {
+      "itemId": "source-211d4dc7fd9950dd2f9e34e4b6b49e04",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "アサシン/スルーズ 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "アサシン/スルーズ 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186982&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186982&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186982"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-33dab562f79be0be7391dcc9c75a5dfa",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "ブリテンダー/レディ・アヴァロン 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "ブリテンダー/レディ・アヴァロン 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186981&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186981&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186981"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-33e70dcbb29732422580968b0adfddc3",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "【ボックス】グリッターCANバッジ Fate/Grand Order F",
+      "status": "supported",
+      "recordKind": "box",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "【ボックス】グリッターCANバッジ Fate/Grand Order F",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=881005213&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=881005213&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/881005213"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。销售页说明每BOX为10个，整盒不保证集齐全部10款；本条实际封装状态及专属条码仍待核实。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-672b89e11d57f99fb7f825e88afbae4f",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "アサシン/スカサハ 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "アサシン/スカサハ 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186978&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186978&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186978"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-7223f2a61b746ca49d0df9c460ddf783",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "ライダー/クリームヒルト 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "ライダー/クリームヒルト 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186984&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186984&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186984"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-7693e67abbf770d5c8fa97aeca7bac45",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "アサシン/テスカトリポカ 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "アサシン/テスカトリポカ 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186987&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186987&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186987"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-85b265954b15bb188c72bae52bff41a0",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "ルーラー/アルトリア・ペンドラゴン 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "ルーラー/アルトリア・ペンドラゴン 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186979&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186979&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186979"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-92d9e5f9d2c60c056c17915abf835a52",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "【パック】グリッターCANバッジ Fate/Grand Order F",
+      "status": "supported",
+      "recordKind": "pack",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "【パック】グリッターCANバッジ Fate/Grand Order F",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186977&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186977&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186977"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条按原目录保留为未指定角色的单包，实际封装数量与专属条码仍待核实。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-9a96e685470fbe207e9b3e90812cae9b",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "ムーンキャンサー/玉兎 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "ムーンキャンサー/玉兎 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186985&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186985&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186985"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-dfb3ffa177c8e368f8d0484fcb24a4c8",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "アーチャー/ラーヴァ/ティアマト 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "アーチャー/ラーヴァ/ティアマト 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186986&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186986&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186986"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    },
+    {
+      "itemId": "source-ed6d2d6d3906eb6cfd01fbd9cbfebd0c",
+      "groupId": "series-254da9037f23bdf5",
+      "title": "エゴ/蘆屋道満 「グリッターCANバッジ Fate/Grand Order F」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "グリッターCANバッジ Fate/Grand Order F",
+        "wave": null,
+        "member": "エゴ/蘆屋道満 「グリッターCANバッジ Fate/Grand Order F」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889186983&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889186983&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889186983"
+        ]
+      },
+      "source": {
+        "url": "https://store.kadokawa.co.jp/shop/g/gca4545403584680/",
+        "at": "2026-11-13T01:54:20.590Z",
+        "sha256": "aea2c6bd87abb80879703c0386df0ce3bfa5069acb554ee6c68ede26655be852"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+          "at": "2026-11-13T03:20:18.498Z",
+          "sha256": "c8124b7b1b78ab20313a86f204448a3621b4156490a40d85e2465231ea400d33"
+        }
+      ],
+      "second": "https://www.hobbystock.jp/item/view/hby-ccg-00407804",
+      "officialTitle": "グリッターCANバッジ Fate/Grand Order F",
+      "sourceRole": "retailer",
+      "sourceLabel": "销售来源",
+      "imageObservation": {
+        "id": "glitterf-sales-image",
+        "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+        "sha256": "92118295977accf4e92f01f81c3219c26812b298297ed3effc5f8bcd0bf07fd9"
+      },
+      "summary": "《Fate/Grand Order》グリッターCANバッジ F，销售页标注厂商为BANDAI，普通款共10种，采用闪粉效果，直径约56mm、厚约4mm。本条为原目录所列的普通单款。",
+      "scope": "KADOKAWA和HOBBY STOCK销售规格及商品图；只补同作品同F系列通用事实，原名不改",
+      "notes": "仅补空简介并追加两条来源，保留原认可、原名、空JAN和所有其他字段。包装数量、条码、渠道特典不在不同记录类型之间套用。",
+      "identityMatch": "原作品、产品线、弹次和厂商一致；保持原编号/职阶/名称，未更改身份字段。"
+    }
+  ]
+}

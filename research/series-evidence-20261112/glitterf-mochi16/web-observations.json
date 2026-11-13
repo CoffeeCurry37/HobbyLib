@@ -1,0 +1,77 @@
+[
+  {
+    "id": "glitterf-sales-image",
+    "url": "https://store.kadokawa.co.jp/img/goods/L/ca4545403584680.jpg",
+    "at": "2026-11-13T03:22:42.939Z",
+    "sourceAt": "2026-11-13T03:17:03.108Z",
+    "sourceSha256": "2107ac20c3d7cb57fe438c90581a64d5f4a425b3fe338e29794356bf4d94e9dc",
+    "access": "已视觉检查公开详情实链商品图；原图仅本地保存",
+    "facts": {
+      "normalTypes": 10,
+      "labels": [
+        "ASSASSIN Scathach",
+        "RULER Altria Pendragon",
+        "LANCER Mysterious Alter Ego Λ",
+        "PRETENDER Lady Avalon",
+        "ASSASSIN Thrúd",
+        "ALTER EGO Ashiya Douman",
+        "RIDER Kriemhild",
+        "MOON CANCER Jade Rabbit",
+        "ARCHER Larva/Tiamat",
+        "ASSASSIN Tezcatlipoca"
+      ],
+      "publisher": "株式会社バンダイ"
+    }
+  },
+  {
+    "id": "mochi16-manufacturer-image",
+    "url": "https://img07.shop-pro.jp/PA01386/865/product/191997931.jpg?cmsp_timestamp=20260528172713",
+    "at": "2026-11-13T03:22:42.939Z",
+    "sourceAt": "2026-11-13T03:17:03.153Z",
+    "sourceSha256": "f3b7d990170ce058a974c58f2495038ac2677f9f2773ea5b1297204f16999fed",
+    "access": "已视觉检查公开详情实链商品图；原图仅本地保存",
+    "facts": {
+      "normalTypes": 9,
+      "characterTextLabels": false,
+      "scope": "9个普通款的商品合图；不从无名图片裁定日文姓名字形，不混入单独的主角男女特典图"
+    }
+  },
+  {
+    "id": "mochi16-store-image",
+    "url": "https://www.sk-japan.co.jp/wp-content/uploads/2026/10/260528_mcFGO16_tsumi_X-e1791372788456.jpg",
+    "at": "2026-11-13T03:22:42.939Z",
+    "sourceAt": "2026-11-13T03:17:03.150Z",
+    "sourceSha256": "866167c47b84a18191cb70f0af24e2882bb94f53312b33a099677414783b934c",
+    "access": "已视觉检查公开详情实链商品图；原图仅本地保存",
+    "facts": {
+      "normalTypes": 9,
+      "characterTextLabels": false,
+      "scope": "9个普通款的商品合图；不从无名图片裁定日文姓名字形，不混入单独的主角男女特典图"
+    }
+  },
+  {
+    "id": "mochi16-amiami-lineup",
+    "url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04817499",
+    "at": "2026-11-13T03:22:42.939Z",
+    "access": "网页工具可读零售详情；本地原HTML不可用",
+    "facts": {
+      "boxCount": 9,
+      "size": "约50mm×约85mm",
+      "ballChain": true,
+      "boxCompletesRegularSet": true,
+      "boxJan": "4544815095296",
+      "lineup": [
+        "アヴェンジャー/マリー・アントワネット[オルタ]",
+        "アサシン/輝星のハサン",
+        "プリテンダー/アレッサンドロ・ディ・カリオストロ",
+        "アヴェンジャー/巌窟王 モンテ・クリスト",
+        "折田さん",
+        "ランサー/長尾景虎",
+        "ライダー/武田信玄",
+        "バーサーカー/永倉新八",
+        "アーチャー/雑賀孫一"
+      ]
+    },
+    "scope": "引用本产品解说中的款式清单，不采用泛角色搜索标签。耀/輝、孫市/孫一字形差异未裁定。观察JSON哈希不是原HTML哈希。"
+  }
+]
