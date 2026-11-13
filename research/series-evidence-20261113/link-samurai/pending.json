@@ -1,0 +1,33 @@
+[
+  {
+    "itemId": "source-c3761dc45350e06fb856b9081f91a85d",
+    "groupId": "series-f38ab0c1f9c9b4e6",
+    "title": "PS4 Fate EXTELLA LINK Fate/EXTELLA エクステラ セット",
+    "identityBinding": {
+      "isbn": "",
+      "jan": "",
+      "platform": null,
+      "edition": null,
+      "productLine": null,
+      "wave": null,
+      "member": "PS4 Fate EXTELLA LINK Fate/EXTELLA エクステラ セット",
+      "image": "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/users/4b83502d0dcf00aea07480843dbaf87fc37dd5d3/i-img1200x1138-17918714420003gd9qd.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200",
+      "catalogueKey": null,
+      "catalogueGroupType": null,
+      "images": [
+        "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/users/4b83502d0dcf00aea07480843dbaf87fc37dd5d3/i-img1200x1138-17918714420003gd9qd.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+      ],
+      "offerUrls": [
+        "https://auctions.yahoo.co.jp/jp/auction/z703580438"
+      ]
+    },
+    "status": "pending",
+    "reason": "PS4 EXTELLA与LINK双游戏拍卖仅有标题，原详情不可读、编号检索无独立绑定；不能视为官方Celebration BOX或推断两个游戏的具体版本。",
+    "needed": "原拍卖编号对应的清单及封面/条码照片，逐件确认版本与实际组合。",
+    "retailerObservation": {
+      "id": "link-two-game-unreadable",
+      "sha256": "269dce4923543256a86fbb889dd22409f6cc7c93eedbd973f65f93855b4c5152"
+    },
+    "recheckRule": "出现独立详情后再核对；不改原挂牌及状态"
+  }
+]

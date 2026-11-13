@@ -1,0 +1,118 @@
+[
+  {
+    "id": "link-switch-regions",
+    "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=20038&search_word=Fate",
+    "kind": "public-web-text-observation",
+    "facts": [
+      {
+        "code": "109004350",
+        "jan": "4974365861445",
+        "model": "LA-H-AQBED-CNT",
+        "platform": "Nintendo Switch",
+        "region": "Asia"
+      },
+      {
+        "code": "109004052",
+        "jan": "5060540770189",
+        "platform": "Nintendo Switch",
+        "region": "EU"
+      }
+    ],
+    "scope": "零售目录逐行对应地区、条码和平台；不采信库存或运行保证",
+    "at": "2026-11-13T21:11:34.240Z",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "link-eu-ps4",
+    "url": "https://www.mediamarkt.es/es/product/_ps4-fate-extella-link-1444526.html",
+    "kind": "public-search-index-observation",
+    "facts": {
+      "jan": "5060540770141",
+      "platform": "PlayStation 4",
+      "title": "Fate/EXTELLA LINK",
+      "edition": "Standard"
+    },
+    "scope": "零售搜索可读技术栏仅用于条码、标题、平台及通常版对应；不采用其独占、厂商或包装尺寸描述",
+    "at": "2026-11-13T21:11:34.240Z",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "link-vita-normal",
+    "url": "https://www.suruga-ya.jp/product/detail/105002056?tenpo_cd=400407",
+    "kind": "public-search-index-observation",
+    "facts": {
+      "code": "105002056",
+      "model": "VLJM-38008",
+      "platform": "PSVita",
+      "title": "Fate/EXTELLA LINK [通常版]",
+      "releaseDate": "2018-06-07"
+    },
+    "scope": "105002056原商品身份对应；原空JAN保留，不按编号前缀推断205002056的包装状态",
+    "at": "2026-11-13T21:11:34.240Z",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "samurai-eu-ps5",
+    "url": "https://www.gadcet.com/products/fate-samurai-remnant-ps5",
+    "kind": "public-web-text-observation",
+    "facts": {
+      "jan": "5060327537233",
+      "platform": "PlayStation 5",
+      "title": "Fate Samurai Remnant"
+    },
+    "scope": "零售标题及条码身份交叉核对；不引用泛化配件、库存或保证",
+    "at": "2026-11-13T21:11:34.240Z",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "link-two-game-unreadable",
+    "url": "https://auctions.yahoo.co.jp/jp/auction/z703580438",
+    "kind": "public-access-observation",
+    "result": "公开抓取不可用，网页工具不可读，精确拍卖编号检索无独立详情。",
+    "scope": "不因访问失败推定结束或已售；仍需原拍卖图文与各游戏版本",
+    "at": "2026-11-13T21:11:34.240Z",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "auction-image-p1248404306",
+    "at": "2026-11-13T21:11:34.240Z",
+    "kind": "local-public-image-review",
+    "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0210/user/8a2dd754c57fcddb8aa41291c4ca2ebe81589e46a96916d9caf8433a51fc4413/i-img1200x1200-179203023119272csylh931.jpg",
+    "sha256": "13bb42b8fb555d5a8eb519e1896d958b7e742aba23e02cf2739859e1676f2438",
+    "source": {
+      "url": "https://auctions.yahoo.co.jp/jp/auction/p1248404306",
+      "at": "2026-11-13T21:07:29.520Z",
+      "sha256": "cb1a8d7668f711cb1d14b7332267990619cd92a4450dd3ae051d721508d97083"
+    },
+    "facts": {
+      "platform": "PS4",
+      "title": "Fate/EXTELLA LINK",
+      "packaging": "PS4游戏盒正面，日文CERO D标志可见；不据此断言内含附件或JAN"
+    },
+    "hashMeaning": "观察JSON哈希；sha256单独标记原图片字节哈希"
+  },
+  {
+    "id": "auction-image-d1222760685",
+    "at": "2026-11-13T21:11:34.240Z",
+    "kind": "local-public-image-review",
+    "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0203/user/601d984665018dd3c5ee2d3cc6b92d883c9e33d7ce051e3384a0322e6b9467cc/i-img600x450-177336558139338istus10392.jpg",
+    "sha256": "802c1fcb591bbbd2ac18380413750eab0145d581243a6f2805145fad89c30f0b",
+    "source": {
+      "url": "https://auctions.yahoo.co.jp/jp/auction/d1222760685",
+      "at": "2026-11-13T21:07:31.038Z",
+      "sha256": "313a9bf94976161fcea876bbe060b6d73368d243af1a3173417414c5811d1257"
+    },
+    "facts": {
+      "platform": "PSVita",
+      "count": 4,
+      "contents": [
+        "Fate/EXTELLA LINK",
+        "Fate/EXTELLA",
+        "Fate/stay night [Realta Nua]",
+        "Fate/hollow ataraxia"
+      ],
+      "packaging": "四张裸游戏卡；未把模糊标签读作条码或再版结论"
+    },
+    "hashMeaning": "观察JSON哈希；sha256单独标记原图片字节哈希"
+  }
+]

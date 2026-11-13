@@ -1,0 +1,17 @@
+{
+  "at": "2026-11-13T21:13:10.683Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 22,
+  "ready": 21,
+  "pendingEvidence": 1,
+  "pendingFile": "pending.json",
+  "fieldPendingRecords": 3,
+  "fieldPendingFile": "field-pending.json",
+  "productionApplied": 0,
+  "maintenanceClosed": true,
+  "simulation": "simulation.json",
+  "previousOutstanding": "../aurora-ef/resume.json",
+  "previousFinalCommit": "f11a57e9e59fc0e6ee959bb486af124561554551",
+  "nextAction": "先保存本检查点；确认正式目标新鲜版本后按20+1写入，逐条读回，关闭维护入口并验证401；再更新累计进度。",
+  "doNotReplay": "此前aurora E/F等所有历史成功批次禁止重放。当前21条尚未生产写入。"
+}

@@ -1,0 +1,717 @@
+{
+  "at": "2026-11-13T21:11:34.240Z",
+  "rows": [
+    {
+      "itemId": "family-59eec0445d551caa577fa3c597220221",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant [PS5]（PS5）",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant [PS5]",
+        "wave": "",
+        "member": "Fate/Samurai Remnant [PS5]（PS5）",
+        "image": "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg",
+        "catalogueKey": "game:fatesamurairemnantps5:PS5",
+        "catalogueGroupType": "editions",
+        "images": [
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "recordKind": "family",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / PlayStation 5平台目录",
+      "summary": "《Fate/Samurai Remnant》的PlayStation 5平台版本目录。官方列有通常版与TREASURE BOX等发行形式；各地区、批次及捆绑内容保留在对应版本中。本条为逻辑目录，不代表额外实物或齐套商品。",
+      "sourceRole": "publisher",
+      "scope": "官方列明对应平台及版本形式；逻辑目录不附包装JAN、不套用单一发行日期",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "platform": "PlayStation 5",
+      "identityEvidence": [
+        {
+          "field": "系列整理",
+          "value": "同平台版本目录；发行批次和捆绑内容保留在各版本资料内。",
+          "url": "",
+          "at": "2026-10-17T14:52:29.664Z",
+          "method": "逻辑父级；成员保持独立商品及个人状态"
+        }
+      ]
+    },
+    {
+      "itemId": "family-5e7756a8202eed59a972c9a3450ff4c7",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant [Nintendo Switch]（Switch）",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant [Nintendo Switch]",
+        "wave": "",
+        "member": "Fate/Samurai Remnant [Nintendo Switch]（Switch）",
+        "image": "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg",
+        "catalogueKey": "game:fatesamurairemnantnintendoswitch:Switch",
+        "catalogueGroupType": "editions",
+        "images": [
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "recordKind": "family",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / Nintendo Switch平台目录",
+      "summary": "《Fate/Samurai Remnant》的Nintendo Switch平台版本目录。官方列有通常版与TREASURE BOX等发行形式；各地区、批次及捆绑内容保留在对应版本中。本条为逻辑目录，不代表额外实物或齐套商品。",
+      "sourceRole": "publisher",
+      "scope": "官方列明对应平台及版本形式；逻辑目录不附包装JAN、不套用单一发行日期",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "platform": "Nintendo Switch",
+      "identityEvidence": [
+        {
+          "field": "系列整理",
+          "value": "同平台版本目录；发行批次和捆绑内容保留在各版本资料内。",
+          "url": "",
+          "at": "2026-10-17T14:52:29.666Z",
+          "method": "逻辑父级；成员保持独立商品及个人状态"
+        }
+      ]
+    },
+    {
+      "itemId": "family-eed921303df983d6a87451f58b8681d6",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant [PS4]（PS4）",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant [PS4]",
+        "wave": "",
+        "member": "Fate/Samurai Remnant [PS4]（PS4）",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107006716.jpg.webp",
+        "catalogueKey": "game:fatesamurairemnantps4:PS4",
+        "catalogueGroupType": "editions",
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/107006716.jpg.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "recordKind": "family",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / PlayStation 4平台目录",
+      "summary": "《Fate/Samurai Remnant》的PlayStation 4平台版本目录。官方列有通常版与TREASURE BOX等发行形式；各地区、批次及捆绑内容保留在对应版本中。本条为逻辑目录，不代表额外实物或齐套商品。",
+      "sourceRole": "publisher",
+      "scope": "官方列明对应平台及版本形式；逻辑目录不附包装JAN、不套用单一发行日期",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "platform": "PlayStation 4",
+      "identityEvidence": [
+        {
+          "field": "系列整理",
+          "value": "同平台版本目录；发行批次和捆绑内容保留在各版本资料内。",
+          "url": "",
+          "at": "2026-10-17T14:52:29.665Z",
+          "method": "逻辑父级；成员保持独立商品及个人状态"
+        }
+      ]
+    },
+    {
+      "itemId": "source-11beaabe440fdb201c912b06c2e7bbd7",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "EU版 Fate/Samurai Remnant(国内版本体動作可)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "5060327537233",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "EU版 Fate/Samurai Remnant(国内版本体動作可)",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/110000776.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/110000776.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/110000776"
+        ]
+      },
+      "status": "supported",
+      "recordKind": "game",
+      "source": {
+        "url": "https://www.koeitecmoeurope.com/fate-sr/",
+        "at": "2026-11-13T21:07:26.782Z",
+        "sha256": "35e22bb5f874521658f6e38c1deed56fe7c3f48ab0c3d92926d950d5b9da2498"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / Europe / PlayStation 5",
+      "summary": "《Fate/Samurai Remnant》欧洲发行的PlayStation 5版游戏。光荣特库摩欧洲官网列出欧洲发售日为2023年9月29日，并列明该平台实体版；原条码及平台与零售商品资料对应。日版TREASURE BOX附件不套用到本条，具体语言及二手包装状态保留待核。",
+      "sourceRole": "publisher",
+      "scope": "欧洲官方发行资料与原欧洲条码/平台及独立零售资料一致；不引用日本发售日",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "expectedJan": "5060327537233",
+      "expectedCategory": "PS5ソフト",
+      "platform": "PlayStation 5",
+      "region": "EU",
+      "retailerObservation": {
+        "id": "samurai-eu-ps5",
+        "sha256": "801af29394fab5a395460e4f00d9e2e17ce82bf14e43b85d620632cf90de650f"
+      },
+      "second": "https://www.gadcet.com/products/fate-samurai-remnant-ps5",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS5ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/110000776",
+          "at": "2026-10-06T01:55:40.993Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "jan",
+          "value": "5060327537233",
+          "url": "https://www.suruga-ya.jp/product/detail/110000776",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PS5ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/110000776",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-1faa89fa41ba642dfe2dd32082f1894d",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant TREASURE BOX [PS5]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4988615183881",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant",
+        "wave": null,
+        "member": "Fate/Samurai Remnant TREASURE BOX [PS5]",
+        "image": "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg",
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox02.jpg"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/110000620",
+          "https://www.suruga-ya.jp/product/detail/110980042",
+          "https://www.suruga-ya.jp/product/detail/110980047"
+        ]
+      },
+      "status": "supported",
+      "recordKind": "treasure-box",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / 日本PlayStation 5 TREASURE BOX",
+      "summary": "《Fate/Samurai Remnant》日版PlayStation 5 TREASURE BOX。官方原配为该平台游戏、material资料集、B2布海报、单碟原声CD、7种令咒贴纸及四六判“红玉之书”书套；宫本武藏服装另列为早期购买特典。此为原始配置说明，二手缺件、附属品和代码状态以原挂牌为准。",
+      "sourceRole": "publisher",
+      "scope": "官方产品资料与原平台分类、条码及版本身份对应；不跨地区套用",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "expectedJan": "4988615183881",
+      "expectedCategory": "PS5ソフト",
+      "platform": "PlayStation 5",
+      "region": "Japan",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS5ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/110980042",
+          "at": "2026-10-06T01:52:42.726Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2023-09-28",
+          "url": "https://www.suruga-ya.jp/product/detail/110980042",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4988615183881",
+          "url": "https://www.suruga-ya.jp/product/detail/110980042",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "PS5ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/110980042",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-2affb18f71e8e38d5e5a1f8834ae3158",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant TREASURE BOX [PS4]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4988615183874",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant",
+        "wave": null,
+        "member": "Fate/Samurai Remnant TREASURE BOX [PS4]",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107006716.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/107006716.jpg.webp",
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg",
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox02.jpg"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/107006716"
+        ]
+      },
+      "status": "supported",
+      "recordKind": "treasure-box",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / 日本PlayStation 4 TREASURE BOX",
+      "summary": "《Fate/Samurai Remnant》日版PlayStation 4 TREASURE BOX。官方原配为该平台游戏、material资料集、B2布海报、单碟原声CD、7种令咒贴纸及四六判“红玉之书”书套；宫本武藏服装另列为早期购买特典。此为原始配置说明，二手缺件、附属品和代码状态以原挂牌为准。",
+      "sourceRole": "publisher",
+      "scope": "官方产品资料与原平台分类、条码及版本身份对应；不跨地区套用",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "expectedJan": "4988615183874",
+      "expectedCategory": "PS4ソフト",
+      "platform": "PlayStation 4",
+      "region": "Japan",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107006716",
+          "at": "2026-10-06T01:52:04.263Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2023-09-28",
+          "url": "https://www.suruga-ya.jp/product/detail/107006716",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4988615183874",
+          "url": "https://www.suruga-ya.jp/product/detail/107006716",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107006716",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-2c145f81f5a68a6848e95139ba4513f6",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant TREASURE BOX [Nintendo Switch]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4988615183898",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant",
+        "wave": null,
+        "member": "Fate/Samurai Remnant TREASURE BOX [Nintendo Switch]",
+        "image": "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox01.jpg",
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_tbox02.jpg"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/109003043",
+          "https://www.suruga-ya.jp/product/detail/109003314"
+        ]
+      },
+      "status": "supported",
+      "recordKind": "treasure-box",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / 日本Nintendo Switch TREASURE BOX",
+      "summary": "《Fate/Samurai Remnant》日版Nintendo Switch TREASURE BOX。官方原配为该平台游戏、material资料集、B2布海报、单碟原声CD、7种令咒贴纸及四六判“红玉之书”书套；宫本武藏服装另列为早期购买特典。此为原始配置说明，二手缺件、附属品和代码状态以原挂牌为准。",
+      "sourceRole": "publisher",
+      "scope": "官方产品资料与原平台分类、条码及版本身份对应；不跨地区套用",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "expectedJan": "4988615183898",
+      "expectedCategory": "ニンテンドースイッチソフト",
+      "platform": "Nintendo Switch",
+      "region": "Japan",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109003314",
+          "at": "2026-10-06T01:52:15.106Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2023-09-28",
+          "url": "https://www.suruga-ya.jp/product/detail/109003314",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4988615183898",
+          "url": "https://www.suruga-ya.jp/product/detail/109003314",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109003314",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-2e9972988f84c4b955302b3258f872f2",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant 通常版 [Nintendo Switch]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4988615183867",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant",
+        "wave": null,
+        "member": "Fate/Samurai Remnant 通常版 [Nintendo Switch]",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/109003042.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/109003042.jpg.webp",
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_04.jpg",
+          "https://img.mandarake.co.jp/webshopimg/03/80/331/0380179331/s_03801793310.jpg",
+          "https://static.mercdn.net/item/detail/orig/photos/m26376260071_1.jpg?1788788967",
+          "https://static.mercdn.net/item/detail/orig/photos/m26376260071_2.jpg?1788788967",
+          "https://static.mercdn.net/item/detail/orig/photos/m26376260071_3.jpg?1788788967"
+        ],
+        "offerUrls": [
+          "https://jp.mercari.com/item/m26376260071",
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1349825684&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.suruga-ya.jp/product/detail/109003042"
+        ]
+      },
+      "status": "supported",
+      "recordKind": "game",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / 日本Nintendo Switch通常版",
+      "summary": "《Fate/Samurai Remnant》日版Nintendo Switch通常版游戏，由光荣特库摩开发、TYPE-MOON监修，为以江户“盈月之仪”为舞台的动作RPG。通常版内容为游戏本体，TREASURE BOX附属品及各店特典另行区分；各二手挂牌状态保留。",
+      "sourceRole": "publisher",
+      "scope": "官方产品资料与原平台分类、条码及版本身份对应；不跨地区套用",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "expectedJan": "4988615183867",
+      "expectedCategory": "ニンテンドースイッチソフト",
+      "platform": "Nintendo Switch",
+      "region": "Japan",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109003042",
+          "at": "2026-10-06T01:51:52.669Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2023-09-28",
+          "url": "https://www.suruga-ya.jp/product/detail/109003042",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4988615183867",
+          "url": "https://www.suruga-ya.jp/product/detail/109003042",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "ニンテンドースイッチソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/109003042",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-56e2c90817eb8f1a0ecf37bc6902a3ef",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant 通常版 [PS4]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4988615183850",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant",
+        "wave": null,
+        "member": "Fate/Samurai Remnant 通常版 [PS4]",
+        "image": "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_04.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_04.jpg",
+          "https://img.mandarake.co.jp/webshopimg/03/80/357/0380179357/s_03801793570.jpg",
+          "https://auc-pctr.c.yimg.jp/i/auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0208/user/93c580c57913e5cd1f23cb3f0da1df70ccd36a91b6f85dfb09759c31eb24b314/i-img640x480-17861186750460shscir33.jpg?pri=l&w=300&h=300&up=0&nf_src=sy&nf_path=images/auc/pc/top/image/1.0.3/na_170x170.png&nf_st=200"
+        ],
+        "offerUrls": [
+          "https://auctions.yahoo.co.jp/jp/auction/c1240028858",
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1347896445&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.suruga-ya.jp/product/detail/107006715",
+          "https://www.suruga-ya.jp/product/detail/107007030"
+        ]
+      },
+      "status": "supported",
+      "recordKind": "game",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / 日本PlayStation 4通常版",
+      "summary": "《Fate/Samurai Remnant》日版PlayStation 4通常版游戏，由光荣特库摩开发、TYPE-MOON监修，为以江户“盈月之仪”为舞台的动作RPG。通常版内容为游戏本体，TREASURE BOX附属品及各店特典另行区分；各二手挂牌状态保留。",
+      "sourceRole": "publisher",
+      "scope": "官方产品资料与原平台分类、条码及版本身份对应；不跨地区套用",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "expectedJan": "4988615183850",
+      "expectedCategory": "PS4ソフト",
+      "platform": "PlayStation 4",
+      "region": "Japan",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107007030",
+          "at": "2026-10-06T01:52:16.964Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2023-09-28",
+          "url": "https://www.suruga-ya.jp/product/detail/107007030",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4988615183850",
+          "url": "https://www.suruga-ya.jp/product/detail/107007030",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107007030",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-b0973a5503538f8ca493bf101e083ba5",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "EU版 Fate/Samurai Remnant(国内版本体動作可)",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "5060327537172",
+        "platform": null,
+        "edition": null,
+        "productLine": null,
+        "wave": null,
+        "member": "EU版 Fate/Samurai Remnant(国内版本体動作可)",
+        "image": "https://cdn.suruga-ya.jp/database/pics_webp/game/107006981.jpg.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.suruga-ya.jp/database/pics_webp/game/107006981.jpg.webp"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/107006981"
+        ]
+      },
+      "status": "supported",
+      "recordKind": "game",
+      "source": {
+        "url": "https://www.koeitecmoeurope.com/fate-sr/",
+        "at": "2026-11-13T21:07:26.782Z",
+        "sha256": "35e22bb5f874521658f6e38c1deed56fe7c3f48ab0c3d92926d950d5b9da2498"
+      },
+      "additionalSources": [
+        {
+          "url": "https://itemdrop.co.uk/fate-samurai-remnant-ps4",
+          "at": "2026-11-13T21:07:29.256Z",
+          "sha256": "122f432b79dc30eddf103d4326a3cc24450bfa83b8bfb63a54ca8d4a9490725f"
+        }
+      ],
+      "officialTitle": "Fate/Samurai Remnant / Europe / PlayStation 4",
+      "summary": "《Fate/Samurai Remnant》欧洲发行的PlayStation 4版游戏。光荣特库摩欧洲官网列出欧洲发售日为2023年9月29日，并列明该平台实体版；原条码及平台与零售商品资料对应。日版TREASURE BOX附件不套用到本条，具体语言及二手包装状态保留待核。",
+      "sourceRole": "publisher",
+      "scope": "欧洲官方发行资料与原欧洲条码/平台及独立零售资料一致；不引用日本发售日",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "expectedJan": "5060327537172",
+      "expectedCategory": "PS4ソフト",
+      "platform": "PlayStation 4",
+      "region": "EU",
+      "second": "https://itemdrop.co.uk/fate-samurai-remnant-ps4",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107006981",
+          "at": "2026-10-06T01:55:24.913Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "jan",
+          "value": "5060327537172",
+          "url": "https://www.suruga-ya.jp/product/detail/107006981",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "PS4ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/107006981",
+          "at": "2026-10-06T03:39:09.115Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-ef582f5eedf300f7c58570874e6ff6d1",
+      "groupId": "series-422361b32a4e0c43",
+      "title": "Fate/Samurai Remnant 通常版 [PS5]",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "4988615183843",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Samurai Remnant",
+        "wave": null,
+        "member": "Fate/Samurai Remnant 通常版 [PS5]",
+        "image": "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_04.jpg",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.gamecity.ne.jp/fate-sr/assets/img/products_img_04.jpg",
+          "https://img.mandarake.co.jp/webshopimg/03/80/378/0380179378/s_03801793780.jpg"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1347887215&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.suruga-ya.jp/product/detail/110000619",
+          "https://www.suruga-ya.jp/product/detail/110000903"
+        ]
+      },
+      "status": "supported",
+      "recordKind": "game",
+      "source": {
+        "url": "https://www.gamecity.ne.jp/fate-sr/",
+        "at": "2026-11-02T01:23:03.993Z",
+        "sha256": "c88e617a96c4b7fc9b8a48553c231d6dcad149f559cea9bf2b515b10e238d9a4"
+      },
+      "additionalSources": [],
+      "officialTitle": "Fate/Samurai Remnant / 日本PlayStation 5通常版",
+      "summary": "《Fate/Samurai Remnant》日版PlayStation 5通常版游戏，由光荣特库摩开发、TYPE-MOON监修，为以江户“盈月之仪”为舞台的动作RPG。通常版内容为游戏本体，TREASURE BOX附属品及各店特典另行区分；各二手挂牌状态保留。",
+      "sourceRole": "publisher",
+      "scope": "官方产品资料与原平台分类、条码及版本身份对应；不跨地区套用",
+      "notes": "仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。",
+      "expectedJan": "4988615183843",
+      "expectedCategory": "PS5ソフト",
+      "platform": "PlayStation 5",
+      "region": "Japan",
+      "identityEvidence": [
+        {
+          "field": "来源分类",
+          "value": "PS5ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/110000903",
+          "at": "2026-10-06T01:52:09.629Z",
+          "method": "商品页局部分类标签；优先于标题关键词和旧推断"
+        },
+        {
+          "field": "releaseDate",
+          "value": "2023-09-28",
+          "url": "https://www.suruga-ya.jp/product/detail/110000903",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "jan",
+          "value": "4988615183843",
+          "url": "https://www.suruga-ya.jp/product/detail/110000903",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "category",
+          "value": "PS5ソフト",
+          "url": "https://www.suruga-ya.jp/product/detail/110000903",
+          "at": "2026-10-06T03:01:54.312Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    }
+  ]
+}

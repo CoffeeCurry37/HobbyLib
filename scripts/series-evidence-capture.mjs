@@ -25,6 +25,9 @@ allowed.add('mochi2.shop-pro.jp');
 allowed.add('img07.shop-pro.jp');
 allowed.add('fate-extella-link.jp');
 allowed.add('www.gamecity.ne.jp');
+// Public publisher/regional press and retailer identity pages for LINK / Samurai.
+for(const host of ['asia.sega.com','www.koeitecmoeurope.com','www.decibel-pr.com','auctions.yahoo.co.jp','www.mediamarkt.es','itemdrop.co.uk','www.gadcet.com'])allowed.add(host);
+allowed.add('info.fate-extella.jp');
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};
 const planPath=process.argv[2],plan=JSON.parse(fs.readFileSync(planPath,'utf8'));
 if(!Array.isArray(plan)||plan.length>350)throw Error('Capture plan exceeds 350 URLs');

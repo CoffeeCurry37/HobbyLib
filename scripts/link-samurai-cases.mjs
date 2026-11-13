@@ -1,0 +1,65 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';import {read,write,cached,clean,hash} from './four-series-common.mjs';
+const dir='research/series-evidence-20261113/link-samurai',priv='work/series-evidence-20261113/link-samurai',at=new Date().toISOString();assert.ok(!fs.existsSync(priv+'/apply-receipts.jsonl'));
+const originals=new Map(read('work/v6/production-after.json').items.map(i=>[i.id,i]));
+const strip=s=>clean(s.replace(/<script[\s\S]*?<\/script>/g,'').replace(/<style[\s\S]*?<\/style>/g,'').replace(/<[^>]+>/g,' ')).replace(/\s+/g,' ');
+const marv=n=>cached('https://www.marv.jp/titles/cs/'+n+'/');
+const news=cached('https://info.fate-extella.jp/product_2.html'),jp=cached('https://www.gamecity.ne.jp/fate-sr/'),eusr=cached('https://www.koeitecmoeurope.com/fate-sr/'),asia=cached('https://asia.sega.com/fate-extella-link/cht/switch/'),asiadate=cached('https://asia.sega.com/cht/psvita.html');
+const eulink=cached('https://www.decibel-pr.com/single-post/2019/03/22/fateextella-link-now-available-for-nintendo-switch-playstation-4-and-playstation-vita-w');
+assert.ok(strip(news.body).includes('2018年6月7日')&&strip(news.body).includes('PlayStation®Vita限定版12,980円＋税、通常版5,980円'));
+assert.ok(strip(asiadate.body).includes('Switch 2019年1月31日'));assert.ok(strip(asia.body).includes('聲音僅有日語語音'));
+assert.ok(eulink.body.includes('22nd March 2019')&&strip(eulink.body).includes('physically for the Nintendo Switch and PlayStation 4'));
+assert.ok(eusr.body.includes('Releases 29th September 2023'));
+for(const s of ['Fate/Samurai Remnant material','B2布ポスター','オリジナルサウンドトラックCD','令呪シール','紅玉の書 ブックカバー','【早期購入特典】'])assert.ok(strip(jp.body).includes(s),s);
+const observations=[
+ {id:'link-switch-regions',url:'https://www.suruga-ya.jp/kaitori/search_buy?category=20038&search_word=Fate',kind:'public-web-text-observation',facts:[{code:'109004350',jan:'4974365861445',model:'LA-H-AQBED-CNT',platform:'Nintendo Switch',region:'Asia'},{code:'109004052',jan:'5060540770189',platform:'Nintendo Switch',region:'EU'}],scope:'零售目录逐行对应地区、条码和平台；不采信库存或运行保证'},
+ {id:'link-eu-ps4',url:'https://www.mediamarkt.es/es/product/_ps4-fate-extella-link-1444526.html',kind:'public-search-index-observation',facts:{jan:'5060540770141',platform:'PlayStation 4',title:'Fate/EXTELLA LINK',edition:'Standard'},scope:'零售搜索可读技术栏仅用于条码、标题、平台及通常版对应；不采用其独占、厂商或包装尺寸描述'},
+ {id:'link-vita-normal',url:'https://www.suruga-ya.jp/product/detail/105002056?tenpo_cd=400407',kind:'public-search-index-observation',facts:{code:'105002056',model:'VLJM-38008',platform:'PSVita',title:'Fate/EXTELLA LINK [通常版]',releaseDate:'2018-06-07'},scope:'105002056原商品身份对应；原空JAN保留，不按编号前缀推断205002056的包装状态'},
+ {id:'samurai-eu-ps5',url:'https://www.gadcet.com/products/fate-samurai-remnant-ps5',kind:'public-web-text-observation',facts:{jan:'5060327537233',platform:'PlayStation 5',title:'Fate Samurai Remnant'},scope:'零售标题及条码身份交叉核对；不引用泛化配件、库存或保证'},
+ {id:'link-two-game-unreadable',url:'https://auctions.yahoo.co.jp/jp/auction/z703580438',kind:'public-access-observation',result:'公开抓取不可用，网页工具不可读，精确拍卖编号检索无独立详情。',scope:'不因访问失败推定结束或已售；仍需原拍卖图文与各游戏版本'}
+].map(o=>({...o,at,hashMeaning:'观察JSON哈希，不是原HTML哈希'}));
+const obs=id=>{const o=observations.find(o=>o.id===id);assert.ok(o);return{id,sha256:hash(JSON.stringify(o))}};
+const binding=i=>({...Object.fromEntries(['isbn','jan','platform','edition','productLine','wave','member','image','catalogueKey','catalogueGroupType'].map(k=>[k,i[k]??null])),images:i.images??null,offerUrls:[...new Set(i.offers.map(o=>o.url))].sort()});
+const maps=new Map(),note='仅补空简介与两条出处；保留认可、旧证据、原名、条码、图片、个人字段和挂牌关系。官方原配不保证二手齐套、代码有效或当前库存；不改认可状态。';
+function put(id,source,summary,extra={}){maps.set(id,{source:source.source,additionalSources:[],officialTitle:clean(source.body.match(/<title>([\s\S]*?)<\/title>/i)?.[1]||'Fate/EXTELLA LINK'),summary,sourceRole:'publisher',scope:'官方产品资料与原平台分类、条码及版本身份对应；不跨地区套用',notes:note,...extra});}
+function japanLink(id,n,p,date,jan,category,summary){const c=marv(n),s=strip(c.body),main=s.slice(s.indexOf('発売日'),s.indexOf('関連タイトル'));assert.ok(main.includes('発売日：'+date)&&main.includes(p));put(id,c,summary,{platform:p,releaseDate:date.replaceAll('/','-'),expectedJan:jan,expectedCategory:category,region:'Japan'});}
+japanLink('115deb04-1006-4b00-ba43-6284953d2b39','9229','PlayStation 4','2018/06/07','4535506302762','PS4ソフト','《Fate/EXTELLA LINK》日版PS4 Premium限定版，2018年6月7日发售。官方原配包括PS4游戏、ワダアルコ绘制的“月の聖牌セット”麻将牌和收纳盒、原声带，以及斯卡哈“魔境のサージェント”服装兑换码。二手缺件及代码状态保留在原挂牌资料中。');
+japanLink('source-f36b99cf0321a137d3ad11ba71b28cc8','9227','PSVita','2018/06/07','4535506302786','PSVITAソフト','《Fate/EXTELLA LINK》日版PS Vita Premium限定版，2018年6月7日发售。官方原配包括PS Vita游戏、ワダアルコ绘制的“月の聖牌セット”麻将牌和收纳盒、原声带，以及无铭“正義の弓道家”服装兑换码。二手缺件及代码状态保留在原挂牌资料中。');
+japanLink('8bcf403a-5092-4e0f-8bf9-31406825a7d4','9225','PlayStation 4','2018/06/07','4535506302779','PS4ソフト','Marvelous《Fate/EXTELLA LINK》日版PS4通常版，2018年6月7日发售，类型为高速从者动作游戏。原记录含仅游戏光盘等二手状态，具体包装和附件仍以各挂牌记录为准。');
+japanLink('526488a1-004e-4456-95a1-b10f444bad3c','9481','Nintendo Switch','2019/01/31','4535506302915','ニンテンドースイッチソフト','Marvelous《Fate/EXTELLA LINK》日版Nintendo Switch游戏，2019年1月31日发售，类型为高速从者动作游戏。各二手挂牌的包装和附件状态分别保留。');
+put('source-e669525b872eabfa7e799a8aca0809b3',news,'Marvelous《Fate/EXTELLA LINK》日版PS Vita通常版，2018年6月7日发售。官方发行公告与原零售通常版、PS Vita分类及105002056商品资料对应；原空条码保留，二手包装和附件状态另行核对。',{officialTitle:'Fate/EXTELLA LINK / 日本PS Vita通常版发行公告',expectedJan:'',expectedCategory:'PSVITAソフト',platform:'PSVita',region:'Japan',retailerObservation:obs('link-vita-normal'),second:observations[2].url,recordKind:'game'});
+put('bb0a19b0-5367-4632-b7e1-4775e5a53a70',asia,'《Fate/EXTELLA LINK》亚洲发行的Nintendo Switch版游戏。SEGA亚洲资料列出Switch版于2019年1月31日发售，字幕可切换中文、韩文、日文及英文，语音为日语。原亚洲版条码与零售目录对应；不据此保证二手附属品或下载码状态。',{officialTitle:'Fate/EXTELLA LINK / SEGA亚洲Switch版',expectedJan:'4974365861445',expectedCategory:'ニンテンドースイッチソフト',platform:'Nintendo Switch',region:'Asia',additionalSources:[asiadate.source],retailerObservation:obs('link-switch-regions'),second:observations[0].url});
+for(const [id,p,jan,category,ob]of[
+ ['source-65ad83bc72653e39be898be55c70d5ed','Nintendo Switch','5060540770189','ニンテンドースイッチソフト','link-switch-regions'],
+ ['source-f87f2e9a87a98d879afbb7f5e902b410','PlayStation 4','5060540770141','PS4ソフト','link-eu-ps4']
+])put(id,eulink,'《Fate/EXTELLA LINK》欧洲发行的'+p+'版游戏。Marvelous Europe通过Decibel PR发布的发行公告确认，欧洲PS4和Switch实体版于2019年3月22日推出；本条原地区、平台及条码与零售资料对应。具体语言和包装附件不作额外推定。',{officialTitle:'Marvelous Europe发行公告（Decibel PR发布）/ Fate/EXTELLA LINK',sourceRole:'publisher-press-release',expectedJan:jan,expectedCategory:category,platform:p,region:'EU',retailerObservation:obs(ob),second:observations.find(o=>o.id===ob).url,scope:'发行方在公关机构发布的欧洲发行公告；零售条码只用于身份绑定，不当成厂商来源'});
+for(const [id,aid]of[['source-8bc6d8e68f96c22dc213e772c8070c46','p1248404306'],['source-ea8dfc1621f186b4a3cc5d14bb39465a','d1222760685']]){
+ const a=cached('https://auctions.yahoo.co.jp/jp/auction/'+aid),detail=JSON.parse(a.body.match(/<script[^>]+id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/)[1]).props.pageProps.initialState.item.detail.item;assert.equal(detail.auctionId,aid);
+ const url=detail.img[0].image,meta=read('work/series-evidence-20261103/cache/'+hash(url)+'.json');assert.equal(meta.status,'captured');assert.equal(hash(fs.readFileSync('work/series-evidence-20261103/cache/'+hash(url)+'.img')),meta.sha256);
+ const o={id:'auction-image-'+aid,at,kind:'local-public-image-review',url,sha256:meta.sha256,source:a.source,facts:aid==='p1248404306'?{platform:'PS4',title:'Fate/EXTELLA LINK',packaging:'PS4游戏盒正面，日文CERO D标志可见；不据此断言内含附件或JAN'}:{platform:'PSVita',count:4,contents:['Fate/EXTELLA LINK','Fate/EXTELLA','Fate/stay night [Realta Nua]','Fate/hollow ataraxia'],packaging:'四张裸游戏卡；未把模糊标签读作条码或再版结论'},hashMeaning:'观察JSON哈希；sha256单独标记原图片字节哈希'};observations.push(o);
+ if(aid==='p1248404306'){assert.ok(detail.descriptionHtml.includes('パッケージ種類：通常版'));put(id,marv('9225'),'《Fate/EXTELLA LINK》日版PS4通常版游戏。原拍卖说明明确列出PS4、通常版和2018年6月7日发售，商品图可见对应的日文PS4游戏盒。此处仅补版本说明，原空JAN、附件缺失可能及挂牌状态保持。',{officialTitle:'Fate/EXTELLA LINK / 日本PS4通常版',expectedJan:'',platform:'PlayStation 4',region:'Japan',recordKind:'auction-game',additionalSources:[a.source],second:a.source.url,imageObservation:obs(o.id),scope:'官方PS4通常版与同一拍卖ID的详细说明及封面照片交叉核对'});}
+ else {for(const text of ['【セット内容】','ソフトのみの４本セット','Fate/EXTELLA LINK','Fate/EXTELLA','Fate/stay night','Fate/hollow ataraxia'])assert.ok(detail.descriptionHtml.includes(text));put(id,a,'卖家自组的PS Vita四张游戏卡组合，原拍卖清单及照片对应《Fate/EXTELLA LINK》《Fate/EXTELLA》《Fate/stay night [Realta Nua]》与《Fate/hollow ataraxia》，均为仅软件。此条为拍卖组合，各卡的具体发行批次仍待查；不视为官方限定套装，不补套装JAN或推定附属品齐全。',{officialTitle:'拍卖d1222760685 / 卖家自组PS Vita四游戏卡组合',sourceRole:'retailer',sourceLabel:'销售来源',expectedJan:'',platform:'PSVita',recordKind:'seller-bundle',imageObservation:obs(o.id),scope:'原拍卖ID、卖家明确四本清单与同页游戏卡照片相互对应；销售资料，不是官方套装公告',notes:note+' 各卡具体印刷/发行批次与条码继续待查；不创建组件或关系。'});}
+}
+for(const [id,p]of[['family-59eec0445d551caa577fa3c597220221','PlayStation 5'],['family-5e7756a8202eed59a972c9a3450ff4c7','Nintendo Switch'],['family-eed921303df983d6a87451f58b8681d6','PlayStation 4']])put(id,jp,'《Fate/Samurai Remnant》的'+p+'平台版本目录。官方列有通常版与TREASURE BOX等发行形式；各地区、批次及捆绑内容保留在对应版本中。本条为逻辑目录，不代表额外实物或齐套商品。',{officialTitle:'Fate/Samurai Remnant / '+p+'平台目录',platform:p,recordKind:'family',scope:'官方列明对应平台及版本形式；逻辑目录不附包装JAN、不套用单一发行日期'});
+for(const [id,p,jan,c,box]of[
+ ['source-1faa89fa41ba642dfe2dd32082f1894d','PlayStation 5','4988615183881','PS5ソフト',true],
+ ['source-2affb18f71e8e38d5e5a1f8834ae3158','PlayStation 4','4988615183874','PS4ソフト',true],
+ ['source-2c145f81f5a68a6848e95139ba4513f6','Nintendo Switch','4988615183898','ニンテンドースイッチソフト',true],
+ ['source-2e9972988f84c4b955302b3258f872f2','Nintendo Switch','4988615183867','ニンテンドースイッチソフト',false],
+ ['source-56e2c90817eb8f1a0ecf37bc6902a3ef','PlayStation 4','4988615183850','PS4ソフト',false],
+ ['source-ef582f5eedf300f7c58570874e6ff6d1','PlayStation 5','4988615183843','PS5ソフト',false]
+])put(id,jp,box?'《Fate/Samurai Remnant》日版'+p+' TREASURE BOX。官方原配为该平台游戏、material资料集、B2布海报、单碟原声CD、7种令咒贴纸及四六判“红玉之书”书套；宫本武藏服装另列为早期购买特典。此为原始配置说明，二手缺件、附属品和代码状态以原挂牌为准。':'《Fate/Samurai Remnant》日版'+p+'通常版游戏，由光荣特库摩开发、TYPE-MOON监修，为以江户“盈月之仪”为舞台的动作RPG。通常版内容为游戏本体，TREASURE BOX附属品及各店特典另行区分；各二手挂牌状态保留。',{officialTitle:'Fate/Samurai Remnant / 日本'+p+(box?' TREASURE BOX':'通常版'),expectedJan:jan,expectedCategory:c,platform:p,region:'Japan',recordKind:box?'treasure-box':'game'});
+for(const [id,p,jan,c,ob]of[['source-11beaabe440fdb201c912b06c2e7bbd7','PlayStation 5','5060327537233','PS5ソフト','samurai-eu-ps5'],['source-b0973a5503538f8ca493bf101e083ba5','PlayStation 4','5060327537172','PS4ソフト',null]]){
+ const retail=ob?null:cached('https://itemdrop.co.uk/fate-samurai-remnant-ps4');if(retail)assert.ok(strip(retail.body).includes(jan)&&strip(retail.body).includes('PlayStation 4'));
+ put(id,eusr,'《Fate/Samurai Remnant》欧洲发行的'+p+'版游戏。光荣特库摩欧洲官网列出欧洲发售日为2023年9月29日，并列明该平台实体版；原条码及平台与零售商品资料对应。日版TREASURE BOX附件不套用到本条，具体语言及二手包装状态保留待核。',{officialTitle:'Fate/Samurai Remnant / Europe / '+p,expectedJan:jan,expectedCategory:c,platform:p,region:'EU',additionalSources:retail?[retail.source]:[],...(ob?{retailerObservation:obs(ob)}:{}),second:retail?.source.url||observations.find(o=>o.id===ob).url,scope:'欧洲官方发行资料与原欧洲条码/平台及独立零售资料一致；不引用日本发售日'});
+}
+assert.equal(maps.size,21);
+for(const key of ['link','samurai']){const rows=read(priv+'/'+key+'-targets.json').map(t=>{const i=originals.get(t.id),r={itemId:i.id,groupId:t.groupId,title:i.title,identityBinding:binding(i)};assert.ok(!i.summary&&!i.editorial&&!i.locked&&!i.manualFields?.length);
+ if(i.id==='source-c3761dc45350e06fb856b9081f91a85d')return{...r,status:'pending',reason:'PS4 EXTELLA与LINK双游戏拍卖仅有标题，原详情不可读、编号检索无独立绑定；不能视为官方Celebration BOX或推断两个游戏的具体版本。',needed:'原拍卖编号对应的清单及封面/条码照片，逐件确认版本与实际组合。',retailerObservation:obs('link-two-game-unreadable'),recheckRule:'出现独立详情后再核对；不改原挂牌及状态'};
+ const m=maps.get(i.id);assert.ok(m,i.id);if(m.expectedJan!==undefined)assert.equal(i.jan,m.expectedJan);if(m.expectedCategory)assert.ok(i.evidence.some(e=>e.field==='category'&&e.value===m.expectedCategory),i.id);return{...r,status:'supported',recordKind:'game',...m,identityEvidence:[...new Map(i.evidence.filter(e=>['category','来源分类','jan','releaseDate','系列整理'].includes(e.field)).map(e=>[e.field+'|'+e.value,e])).values()]};});write(dir+'/cases-'+key+'.json',{at,rows});}
+write(dir+'/web-observations.json',observations);
+write(dir+'/field-pending.json',{at,note:'3条已可补安全简介；条码、个别发行批次或附件尚未完整核实。欧洲4条语言/包装亦未作额外推定；不保证任何二手挂牌齐套。',items:[
+ {itemId:'source-e669525b872eabfa7e799a8aca0809b3',fields:['JAN','二手包装/附件'],reason:'Vita通常版已由官方和原零售编号绑定，但原JAN为空；未把其他包装的条码下放。',needed:'同一版本的独立条码及各挂牌包装证据'},
+ {itemId:'source-8bc6d8e68f96c22dc213e772c8070c46',fields:['JAN','附件完整性'],reason:'PS4通常版由拍卖说明和封面确认，尚未读取背面条码或逐件附件；卖家提示说明书/序列号可能缺失。',needed:'该挂牌条码及内部附件图'},
+ {itemId:'source-ea8dfc1621f186b4a3cc5d14bb39465a',fields:['各卡发行批次','各卡条码'],reason:'四卡清单及图片明确；具体发行批次未独立核实。保留卖家软件单独组合身份。',needed:'每张卡清晰标签或独立版本对应'}
+].map(r=>({...r,appliedSafeSummary:false}))});
+console.log(JSON.stringify({cases:22,ready:21,pending:1,fieldPending:3,officialOrPublisher:20,sellerBundle:1}));
