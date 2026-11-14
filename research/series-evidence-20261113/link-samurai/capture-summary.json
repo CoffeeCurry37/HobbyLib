@@ -1,12 +1,13 @@
 {
-  "captureReceipts": 37,
-  "uniqueUrls": 20,
+  "captureReceipts": 39,
+  "uniqueUrls": 22,
   "statuses": {
-    "captured": 16,
+    "captured": 18,
     "unavailable": 21
   },
-  "requests": 35,
+  "recordedRequests": 37,
   "cacheHits": 2,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "有限公开采集，含环境网络拒绝及重试；网页观察另计。观察JSON哈希非HTML原字节哈希。原详情不可用不绕过；费用无账单。",
+  "evidenceScope": "含本轮官方/发行方/零售/拍卖来源及两张拍卖图；下一批两个出版社入口仅来源发现。"
 }

@@ -1,6 +1,6 @@
 {
-  "at": "2026-11-13T21:11:34.240Z",
-  "note": "3条已可补安全简介；条码、个别发行批次或附件尚未完整核实。欧洲4条语言/包装亦未作额外推定；不保证任何二手挂牌齐套。",
+  "at": "2026-11-14T02:57:57.306Z",
+  "note": "7条已补安全简介但仍有字段缺口：3条条码/个别批次/附件，4条欧洲版语言与各挂牌包装。所有二手完整性不作保证；完整核实仍0。",
   "items": [
     {
       "itemId": "source-e669525b872eabfa7e799a8aca0809b3",
@@ -10,7 +10,7 @@
       ],
       "reason": "Vita通常版已由官方和原零售编号绑定，但原JAN为空；未把其他包装的条码下放。",
       "needed": "同一版本的独立条码及各挂牌包装证据",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "source-8bc6d8e68f96c22dc213e772c8070c46",
@@ -20,7 +20,7 @@
       ],
       "reason": "PS4通常版由拍卖说明和封面确认，尚未读取背面条码或逐件附件；卖家提示说明书/序列号可能缺失。",
       "needed": "该挂牌条码及内部附件图",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "source-ea8dfc1621f186b4a3cc5d14bb39465a",
@@ -30,7 +30,52 @@
       ],
       "reason": "四卡清单及图片明确；具体发行批次未独立核实。保留卖家软件单独组合身份。",
       "needed": "每张卡清晰标签或独立版本对应",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
+    },
+    {
+      "itemId": "source-65ad83bc72653e39be898be55c70d5ed",
+      "fields": [
+        "具体语言",
+        "各挂牌包装/附件"
+      ],
+      "reason": "欧洲平台与条码已绑定；未将日版语言或限定配置套用。",
+      "needed": "与原条码/挂牌对应的区域包装及语言说明",
+      "appliedSafeSummary": true
+    },
+    {
+      "itemId": "source-f87f2e9a87a98d879afbb7f5e902b410",
+      "fields": [
+        "具体语言",
+        "各挂牌包装/附件"
+      ],
+      "reason": "欧洲平台与条码已绑定；未将日版语言或限定配置套用。",
+      "needed": "与原条码/挂牌对应的区域包装及语言说明",
+      "appliedSafeSummary": true
+    },
+    {
+      "itemId": "source-11beaabe440fdb201c912b06c2e7bbd7",
+      "fields": [
+        "具体语言",
+        "各挂牌包装/附件"
+      ],
+      "reason": "欧洲平台与条码已绑定；未将日版语言或限定配置套用。",
+      "needed": "与原条码/挂牌对应的区域包装及语言说明",
+      "appliedSafeSummary": true
+    },
+    {
+      "itemId": "source-b0973a5503538f8ca493bf101e083ba5",
+      "fields": [
+        "具体语言",
+        "各挂牌包装/附件"
+      ],
+      "reason": "欧洲平台与条码已绑定；未将日版语言或限定配置套用。",
+      "needed": "与原条码/挂牌对应的区域包装及语言说明",
+      "appliedSafeSummary": true
     }
-  ]
+  ],
+  "scopeCounts": {
+    "auctionOrVitaIdentityAndPackaging": 3,
+    "euLanguageAndPackaging": 4,
+    "distinctRecords": 7
+  }
 }

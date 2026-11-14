@@ -1,12 +1,12 @@
-> 截至 2026-11-13，累计已逐件检查 72 个系列的 6,926 条候选，5,126 条有效记录已补齐简介和来源。1,790 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,776 个系列尚待逐件研究。完整核实系列数为 0。 [最新断点](../research/series-evidence-20261113/aurora-ef/README.md)。以下保留此前阶段记录。
+> 截至 2026-11-13，累计已逐件检查 74 个系列的 6,948 条候选，5,147 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,774 个系列尚待逐件研究。完整核实系列数为 0。 [最新断点](../research/series-evidence-20261113/link-samurai/README.md)。以下保留此前阶段记录。
 
 # 当前进度
 
-本轮按顺序补查FGO极光亚克力钥匙扣E、F各11条，共22条；分20+2两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订117；维护入口已实测 HTTP 401 关闭。
+本轮按顺序检查Fate/EXTELLA LINK和Fate/Samurai Remnant各11条，共22条；LINK补10条、1条整条待查，Samurai补11条。20+1两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订121；维护入口已实测 HTTP 401 关闭。
 
-两组销售详情及商品图确认普通10款、极光效果和约宽48×厚3mm（不含安装配件），明确标作销售来源。高度在KADOKAWA约74mm与BicCamera约76mm之间有冲突，厂商精确规格未定位，因此22条均不填高度。19个单款中18个对应商品图，A/Λ只补系列共通事实、原名保留；2单包和1零售全套的封装/数量/附件或JAN继续待查。全22条原空JAN保留，BOX10个不保证集齐不当成单包或零售组合保证，完整核实仍0。
+日本、亚洲及欧洲版本分别核对日期/平台；LINK的PS4与Vita限定版服装代码不同。原拍卖图文确认PS4通常版和卖家四张PS Vita卡组合，四卡组合明确标为销售来源，另一条PS4双游戏拍卖仍缺实物/版本绑定。Samurai包含3个平台逻辑目录、6个日版通常/限定版本及2个EU版，目录不代表额外实物；日版TREASURE BOX原配含书套，宫本武藏服装是早期购买特典。7条已补简介仍有条码、个别批次、语言或包装/附件缺口，完整核实仍0。
 
-本轮22条记录保留[字段待查](../research/series-evidence-20261113/aurora-ef/field-pending.json)。此前闪粉F/もちもち23条已补充，7条名称/包装缺口仍见[此前待查](../research/series-evidence-20261112/glitterf-mochi16/field-pending.json)。此前ついコレ24条已补充，其4条包装字段继续[待查](../research/series-evidence-20261112/tsuikore45/field-pending.json)，以及此前エルメロイ/闪粉徽章23条均不重放。
+本轮[1条整条待查](../research/series-evidence-20261113/link-samurai/pending.json)及[7条字段待查](../research/series-evidence-20261113/link-samurai/field-pending.json)保留。上轮极光E/F的22条记录保留[字段待查](../research/series-evidence-20261113/aurora-ef/field-pending.json)。此前闪粉F/もちもち23条已补充，7条名称/包装缺口仍见[此前待查](../research/series-evidence-20261112/glitterf-mochi16/field-pending.json)。此前ついコレ24条已补充，其4条包装字段继续[待查](../research/series-evidence-20261112/tsuikore45/field-pending.json)，以及此前エルメロイ/闪粉徽章23条均不重放。
 
 此前2条书目跨卷冲突见[整条待查](../research/series-evidence-20261112/elmelloi-glitter/pending.json)，2条徽章包装见[字段待查](../research/series-evidence-20261112/elmelloi-glitter/field-pending.json)。
 
@@ -14,7 +14,7 @@
 
 上一轮CLIMAX/英霊剣豪31条已补充，CLIMAX第1～8卷页数/开本仍[待查](../research/series-evidence-20261111/climax-kengou/field-pending.json)，本轮未重放。
 
-下一批先补查Fate/EXTELLA LINK的11条，再查Fate/Samurai Remnant的11条。官方产品页已缓存，逐项核对平台、地区版、通常/限定及套装内容；拍卖组合与平台逻辑目录分别处理。这22条仅为来源发现，尚未逐条补证。
+下一批先补查真月譚 月姫的11条，再查新装版 Fate/strange Fake的11条。出版社入口已缓存，逐卷核对ISBN、纸本/电子版、作者、再版与零售映射；保留原ID，不自动归并相似卷目。这22条仅为来源发现，尚未逐条补证。
 
 上一轮EXTELLA/威化3补充38条，3条拍卖及No.25隐藏角色继续待查，见[历史断点](../research/series-evidence-20261110/extella-wafer3/resume.json)。
 

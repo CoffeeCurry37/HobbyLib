@@ -1,17 +1,67 @@
 {
-  "at": "2026-11-13T21:13:10.683Z",
-  "stage": "prepared-no-production-write",
+  "at": "2026-11-14T02:57:57.306Z",
+  "completedLocalDate": "2026-11-13",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-f38ab0c1f9c9b4e6",
+      "label": "Fate/EXTELLA LINK",
+      "snapshotItems": 11,
+      "productionApplied": 10,
+      "pendingEvidence": 1,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-422361b32a4e0c43",
+      "label": "Fate/Samurai Remnant",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
   "candidates": 22,
-  "ready": 21,
+  "productionApplied": 21,
+  "batches": 2,
   "pendingEvidence": 1,
   "pendingFile": "pending.json",
-  "fieldPendingRecords": 3,
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
+  "fieldPendingRecords": 7,
   "fieldPendingFile": "field-pending.json",
-  "productionApplied": 0,
+  "fieldScope": {
+    "auctionOrVitaIdentityAndPackaging": 3,
+    "euLanguageAndPackaging": 4,
+    "distinctRecords": 7
+  },
+  "limitations": [
+    "LINK 10条补写、1条PS4双游戏拍卖缺版本和实物绑定继续待查；访问失败不改挂牌状态",
+    "两条原拍卖图文已分别确认PS4通常版与卖家四卡组合；四卡不是官方套装，各卡发行批次继续待查",
+    "Samurai 11条含3逻辑目录、3通常版、3TREASURE BOX及2EU版；目录不是额外实物",
+    "日本/亚洲/欧洲日期、语言和平台限定配置分开；书套为日本TREASURE BOX原配，宫本武藏服装为早期特典",
+    "20条以官方或发行方新闻稿为主，1条卖家组合明确标为销售来源；零售观察仅绑定身份，不当厂商规格",
+    "7条字段缺口详见field-pending；原空JAN、旧证据、所有个人字段和挂牌关系保留；完整核实商品/系列仍0"
+  ],
   "maintenanceClosed": true,
-  "simulation": "simulation.json",
+  "environmentRevision": 121,
+  "deploymentId": "appgdep_6af7cda2a298819198a4c6804e694bb2",
+  "siteVersion": 70,
+  "preparedCommit": "5f399e41856971a67f53e757b58b051748a652da",
   "previousOutstanding": "../aurora-ef/resume.json",
-  "previousFinalCommit": "f11a57e9e59fc0e6ee959bb486af124561554551",
-  "nextAction": "先保存本检查点；确认正式目标新鲜版本后按20+1写入，逐条读回，关闭维护入口并验证401；再更新累计进度。",
-  "doNotReplay": "此前aurora E/F等所有历史成功批次禁止重放。当前21条尚未生产写入。"
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮20+1两批21条、前轮极光E/F22条和所有历史成功动作禁止重放。",
+  "accessAudit": {
+    "initialWriteRejected": true,
+    "initialProductionWrites": 0,
+    "temporaryWindowClosedBeforeApproval": true,
+    "explicitDestinationAuthorizationReceived": true,
+    "scope": "仅本站/api/maintenance补证、读回及关闭验证；不包含其他外部目的地",
+    "completedAfterApproval": true
+  },
+  "note": "上轮22条高度、其中3包装/1名称及此前其他历史未决项沿previousOutstanding链全部保留。"
 }

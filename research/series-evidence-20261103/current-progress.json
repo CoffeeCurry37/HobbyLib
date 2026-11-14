@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-13T20:58:47.733Z",
+  "at": "2026-11-14T02:57:57.306Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 72,
-  "seriesAwaitingItemReview": 1776,
+  "seriesWithItemReview": 74,
+  "seriesAwaitingItemReview": 1774,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6926,
-  "productionApplied": 5126,
+  "coveredSnapshotItems": 6948,
+  "productionApplied": 5147,
   "protectedExisting": 9,
-  "pendingEvidence": 1790,
+  "pendingEvidence": 1791,
   "freshVersionSkips": 1,
   "lastLiveCounts": {
     "main": 15790,
@@ -739,9 +739,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-f38ab0c1f9c9b4e6",
+      "label": "Fate/EXTELLA LINK",
+      "snapshotItems": 11,
+      "productionApplied": 10,
+      "pendingEvidence": 1,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-422361b32a4e0c43",
+      "label": "Fate/Samurai Remnant",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261113/aurora-ef/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261113/link-samurai/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6

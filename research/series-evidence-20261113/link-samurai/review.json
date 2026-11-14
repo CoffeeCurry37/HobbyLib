@@ -1,6 +1,6 @@
 {
   "at": "2026-11-13T21:12:17.019Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 22,
   "prepared": 21,
   "pending": 1,
@@ -15,12 +15,13 @@
         "https://fate-extella-link.jp/switch/"
       ],
       "scope": "核PS4/PS Vita/Switch、通常/限定、亚版/EU版；3条拍卖含独立游戏与2本/4本组合，需逐条版本或实物绑定；不将日本官方参数套给外区。",
-      "status": "official-product-source-discovery-only",
       "key": "link",
       "reviewed": 11,
       "ready": 10,
       "pending": 1,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 10
     },
     {
       "groupId": "series-422361b32a4e0c43",
@@ -30,16 +31,20 @@
         "https://www.gamecity.ne.jp/fate-sr/"
       ],
       "scope": "3个平台逻辑目录、3通常版、3TREASURE BOX及2EU版分别核对；逻辑目录不是额外实物，平台/地区/条码/套装内容不能混用。",
-      "status": "official-product-source-discovery-only",
       "key": "samurai",
       "reviewed": 11,
       "ready": 11,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 11
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 21,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-14T02:57:57.306Z",
+  "fieldPendingRecords": 7
 }

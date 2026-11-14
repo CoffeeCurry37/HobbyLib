@@ -61,5 +61,5 @@ write(dir+'/field-pending.json',{at,note:'3条已可补安全简介；条码、�
  {itemId:'source-e669525b872eabfa7e799a8aca0809b3',fields:['JAN','二手包装/附件'],reason:'Vita通常版已由官方和原零售编号绑定，但原JAN为空；未把其他包装的条码下放。',needed:'同一版本的独立条码及各挂牌包装证据'},
  {itemId:'source-8bc6d8e68f96c22dc213e772c8070c46',fields:['JAN','附件完整性'],reason:'PS4通常版由拍卖说明和封面确认，尚未读取背面条码或逐件附件；卖家提示说明书/序列号可能缺失。',needed:'该挂牌条码及内部附件图'},
  {itemId:'source-ea8dfc1621f186b4a3cc5d14bb39465a',fields:['各卡发行批次','各卡条码'],reason:'四卡清单及图片明确；具体发行批次未独立核实。保留卖家软件单独组合身份。',needed:'每张卡清晰标签或独立版本对应'}
-].map(r=>({...r,appliedSafeSummary:false}))});
-console.log(JSON.stringify({cases:22,ready:21,pending:1,fieldPending:3,officialOrPublisher:20,sellerBundle:1}));
+,...['source-65ad83bc72653e39be898be55c70d5ed','source-f87f2e9a87a98d879afbb7f5e902b410','source-11beaabe440fdb201c912b06c2e7bbd7','source-b0973a5503538f8ca493bf101e083ba5'].map(itemId=>({itemId,fields:['具体语言','各挂牌包装/附件'],reason:'欧洲平台与条码已绑定；未将日版语言或限定配置套用。',needed:'与原条码/挂牌对应的区域包装及语言说明'}))].map(r=>({...r,appliedSafeSummary:false}))});
+console.log(JSON.stringify({cases:22,ready:21,pending:1,fieldPending:7,officialOrPublisher:20,sellerBundle:1}));
