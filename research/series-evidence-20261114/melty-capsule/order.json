@@ -1,0 +1,26 @@
+[
+  {
+    "groupId": "series-f92d4d0766326d79",
+    "label": "MELTY BLOOD 桐嶋たける漫画书目",
+    "candidates": 10,
+    "sources": [
+      "https://www.kadokawa.co.jp/product/200512000077/"
+    ],
+    "sourceRole": "publisher",
+    "scope": "9个纸本单卷加1逻辑目录；逐卷核ISBN、作者、B6变形判/页数及纸本日期，不能套电子版日期或视为游戏本体。",
+    "status": "researching",
+    "key": "melty"
+  },
+  {
+    "groupId": "series-01c35cca0008ca4b",
+    "label": "埃尔梅罗二世 Grace note HOBBY STOCK 缶バッジコレクション",
+    "candidates": 10,
+    "sources": [
+      "https://anime.elmelloi.com/news/?id=51244"
+    ],
+    "sourceRole": "anime-official",
+    "scope": "8个具名单款、1隐藏款、1全10种零售套组。官方为2019年9月胶囊机售9普通+1隐藏、约57mm；逐图核A/B/C与隐藏款身份，不混同NAMJATOWN的6款56mm或其他厂商徽章。",
+    "status": "researching",
+    "key": "capsule"
+  }
+]

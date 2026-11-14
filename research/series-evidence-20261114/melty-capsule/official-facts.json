@@ -1,0 +1,176 @@
+{
+  "at": "2026-11-14T10:37:18.150Z",
+  "books": [
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200512000077/",
+        "at": "2026-11-14T05:00:15.728Z",
+        "sha256": "4085bc5541ed2332df580cce9a2136fa499998f6a57881c3d30a44b28017e78d"
+      },
+      "officialTitle": "MELTY BLOOD (1)",
+      "volume": 1,
+      "isbn": "9784047138186",
+      "pages": 196,
+      "format": "B6変形判",
+      "releaseDate": "2006-04-05",
+      "credits": "著者 桐嶋 たける 原作 TYPE-MOON",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200609000150/",
+        "at": "2026-11-14T10:32:33.565Z",
+        "sha256": "443f2d2712117bf1176750cff626cd0fca602e09805e3399f5f4097c33147fa6"
+      },
+      "officialTitle": "MELTY BLOOD (2)",
+      "volume": 2,
+      "isbn": "9784047138919",
+      "pages": 180,
+      "format": "B6変形判",
+      "releaseDate": "2006-12-21",
+      "credits": "著者 桐嶋 たける 原作 TYPE-MOON 原作 フランスパン",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200706000139/",
+        "at": "2026-11-14T10:32:36.632Z",
+        "sha256": "e7747f9908db890220574ec3fbb78d3371f87ae304409709c72c484aee36f0aa"
+      },
+      "officialTitle": "MELTY BLOOD (3)",
+      "volume": 3,
+      "isbn": "9784047139640",
+      "pages": 212,
+      "format": "B6変形判",
+      "releaseDate": "2007-09-21",
+      "credits": "著者 桐嶋 たける 原作 TYPE-MOON",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200706000141/",
+        "at": "2026-11-14T10:32:35.419Z",
+        "sha256": "666f40852c3125961183612f855c867e0aa036b4e6f463fae4c59973f4ad2af0"
+      },
+      "officialTitle": "MELTY BLOOD (4)",
+      "volume": 4,
+      "isbn": "9784047150164",
+      "pages": 196,
+      "format": "B6変形判",
+      "releaseDate": "2008-04-24",
+      "credits": "著者 桐嶋 たける 原作 TYPE-MOON 原作 フランスパン",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200805000014/",
+        "at": "2026-11-14T10:32:32.756Z",
+        "sha256": "6abf23ab661f223b92fe211937f276fcc2b6f4cf229f92a43d05372051448233"
+      },
+      "officialTitle": "MELTY BLOOD (5)",
+      "volume": 5,
+      "isbn": "9784047150966",
+      "pages": 180,
+      "format": "B6変形判",
+      "releaseDate": "2008-08-22",
+      "credits": "著者 桐嶋 たける 原作 TYPE-MOON 原作 フランスパン",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200809000346/",
+        "at": "2026-11-14T10:32:31.777Z",
+        "sha256": "7d48edcb6084c790280c2758c21245edca586368a5be932f600d653381056ace"
+      },
+      "officialTitle": "MELTY BLOOD (6)",
+      "volume": 6,
+      "isbn": "9784047151666",
+      "pages": 164,
+      "format": "B6変形判",
+      "releaseDate": "2009-01-22",
+      "credits": "著者 桐嶋 たける 原作 TYPE-MOON 原作 フランスパン",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200904000328/",
+        "at": "2026-11-14T10:32:38.435Z",
+        "sha256": "f65c4ca274fbd997d0c2e6e266f96ed5404139651a5b5f08ede035d6db871a94"
+      },
+      "officialTitle": "MELTY BLOOD (7)",
+      "volume": 7,
+      "isbn": "9784047152786",
+      "pages": 178,
+      "format": "B6変形判",
+      "releaseDate": "2009-08-22",
+      "credits": "著者 桐嶋 たける 原作 TYPE-MOON 原作 フランスパン",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200910000517/",
+        "at": "2026-11-14T10:32:37.348Z",
+        "sha256": "6db1203753f3395b58686d9911cdc7917da1d1bfdb12dbb3788418204ce01275"
+      },
+      "officialTitle": "MELTY BLOOD (8)",
+      "volume": 8,
+      "isbn": "9784047153820",
+      "pages": 162,
+      "format": "B6変形判",
+      "releaseDate": "2010-01-22",
+      "credits": "著者 桐嶋 たける 原作 TYPE-MOON 原作 フランスパン",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201005000022/",
+        "at": "2026-11-14T10:32:34.312Z",
+        "sha256": "dd2fa12eabd549cdd7ac0722f760ab08b09a21426732650092a5f9c5e630f3c5"
+      },
+      "officialTitle": "MELTY BLOOD (9)",
+      "volume": 9,
+      "isbn": "9784047155039",
+      "pages": 178,
+      "format": "B6変形判",
+      "releaseDate": "2010-08-21",
+      "credits": "原作 TYPE-MOON 原作 フランスパン 著者 桐嶋 たける",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "本商品纸本DOM及window.item交叉核对；不借用关联电子版日期或署名，不推定具体印次。"
+    }
+  ],
+  "capsule": {
+    "source": {
+      "url": "https://anime.elmelloi.com/news/?id=51244",
+      "at": "2026-11-14T05:00:15.766Z",
+      "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+    },
+    "manufacturer": "株式会社ホビーストック",
+    "releaseWindow": "2019年9月",
+    "diameterMm": 57,
+    "ordinaryTypes": 9,
+    "hiddenTypes": 1,
+    "totalTypes": 10,
+    "salesMethod": "capsule-machine",
+    "material": null,
+    "scope": "仅同公告缶バッジコレクション段及实链合图；不采用其他商品参数，不推定9月30日、材质、隐藏身份或厂家BOX。"
+  },
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

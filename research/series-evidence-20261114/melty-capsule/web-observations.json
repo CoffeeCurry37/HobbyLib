@@ -1,0 +1,20 @@
+[
+  {
+    "id": "capsule-official-lineup",
+    "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+    "at": "2026-11-14T10:37:18.150Z",
+    "sourceAt": "2026-11-14T10:33:03.216Z",
+    "sourceSha256": "aec147dfa66b2dee696c15b420b8e937494d725d3d1b75b20c3d53cdcc07df8a",
+    "kind": "visual-observation-of-official-linked-image",
+    "facts": {
+      "ordinaryDesignsShown": 9,
+      "hiddenPlaceholder": "绿色圆形问号",
+      "ordinaryLayout": [
+        3,
+        4,
+        2
+      ],
+      "scope": "上排3张同角色画面、中排2+2张同角色画面、下排2张画面及问号；没有日文A/B/C标签，隐藏款没有公开实图。不按布局或编号推断原款号。"
+    }
+  }
+]

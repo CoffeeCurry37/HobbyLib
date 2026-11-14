@@ -1,0 +1,405 @@
+{
+  "at": "2026-11-14T10:37:18.150Z",
+  "rows": [
+    {
+      "itemId": "15669103-cd3c-4da0-ac39-a4661937d53a",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "グレイ B 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "グレイ B 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680917&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680917?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。原A/B/C款号保留；官方合图没有对应标签，具体画面对照继续待查。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "28220f8d-4ea5-427a-9391-7fbdab5556e2",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "全10種セット 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "retailer-complete-set",
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "全10種セット 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680923&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680923?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。本条保留原零售全10种套组范围；实际封装、隐藏款实物及附属内容仍待核，不视为厂家原封BOX。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "2ed35d0b-1988-4bc8-ba38-9caaa816ab9a",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "グレイ A 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "グレイ A 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680916&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680916?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。原A/B/C款号保留；官方合图没有对应标签，具体画面对照继续待查。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "527dd502-8677-497b-b03a-a6aa25db88d3",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "ライネス・エルメロイ・アーチゾルテ B 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "ライネス・エルメロイ・アーチゾルテ B 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680919&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680919?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。原A/B/C款号保留；官方合图没有对应标签，具体画面对照继续待查。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "659ff24d-0629-4582-a902-fcd3e73d04a3",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "スヴィン・グラシュエート 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "スヴィン・グラシュエート 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680921&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680921?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "8320fd5d-41f2-47d9-ad01-64ff042c51e9",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "フラット・エスカルドス 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "フラット・エスカルドス 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680920&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680920?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "a0969f36-3c10-4a81-b8f4-ea108a83b049",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "ロードエルメロイII世 C 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "ロードエルメロイII世 C 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680915&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680915?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。原A/B/C款号保留；官方合图没有对应标签，具体画面对照继续待查。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "a8396456-3da2-436b-8593-0646e1f62465",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "ロードエルメロイII世 A 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "ロードエルメロイII世 A 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680913&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680913?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。原A/B/C款号保留；官方合图没有对应标签，具体画面对照继续待查。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "c6f865cd-3598-48c7-b7ca-93517f8deb3a",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "【シークレット】 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "hidden-single",
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "【シークレット】 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680922&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680922?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。官方确认含1种隐藏款，但公开图以问号代替；本条隐藏款的具体角色和图案继续待查。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    },
+    {
+      "itemId": "d8e9b18a-8927-4bba-a2db-f1753593e77e",
+      "groupId": "series-01c35cca0008ca4b",
+      "title": "ライネス・エルメロイ・アーチゾルテ A 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション",
+        "wave": null,
+        "member": "ライネス・エルメロイ・アーチゾルテ A 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 缶バッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=871680918&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/871680918?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51244",
+        "at": "2026-11-14T05:00:15.766Z",
+        "sha256": "0fddef443d335c638d3a296b3a459edd5ff031b74d784d4c079280f9a507d135"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイⅡ世の事件簿-魔眼蒐集列車Grace note-缶バッジコレクション",
+      "imageObservation": {
+        "id": "capsule-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019072518071212234182/w776",
+        "sha256": "02768c24c482c1197e64082400bab322f8a0be6dcb598cc52cc19affc83e9cca"
+      },
+      "identityMatch": "原作品、产品线和HOBBY STOCK厂商与官方一致；仅补与原款号/隐藏身份/零售包装无关的系列共通事实",
+      "scope": "动画官方同商品公告：直径约57mm、胶囊机销售、普通9款加隐藏1款、2019年9月；不补材质/具体日/厂家BOX",
+      "summary": "HOBBY STOCK《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》徽章收藏系列，官方标注直径约57mm、通过胶囊机销售，共10款（普通9款及隐藏1款），发售期为2019年9月。原A/B/C款号保留；官方合图没有对应标签，具体画面对照继续待查。",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。"
+    }
+  ]
+}

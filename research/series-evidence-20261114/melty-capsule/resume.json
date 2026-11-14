@@ -1,0 +1,17 @@
+{
+  "completedLocalDate": null,
+  "clientDate": "2026-11-14",
+  "timezone": "America/Chicago",
+  "stage": "prepared-no-production-write",
+  "candidates": 20,
+  "prepared": 20,
+  "productionApplied": 0,
+  "wholePending": 0,
+  "fieldPendingRecords": 8,
+  "fieldPendingFile": "field-pending.json",
+  "simulation": "simulation.json",
+  "previousOutstanding": "../../series-evidence-20261113/strangefake-mirror/resume.json",
+  "previousFinalCommit": "1c7d9efaf6d14c9076dee470c7a43b8e24c555e4",
+  "nextAction": "核对同站所有者和实时目标后，最多20条一批补空简介及两条来源；完整读回、关闭维护并实测401。",
+  "noReplay": "历史全部成功动作不重放；此包尚未正式写入。"
+}

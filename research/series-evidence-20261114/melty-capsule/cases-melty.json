@@ -1,0 +1,398 @@
+{
+  "at": "2026-11-14T10:37:18.150Z",
+  "rows": [
+    {
+      "itemId": "family-ed5f4eb3cba134f10959c5ecc7e67c4f",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "",
+        "member": "MELTY BLOOD",
+        "image": "https://cdn.kdkw.jp/cover_1000/200809/200809000346.webp",
+        "catalogueKey": "books:kadokawa:manga:meltyblood:",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200809/200809000346.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200512000077/",
+        "at": "2026-11-14T05:00:15.728Z",
+        "sha256": "4085bc5541ed2332df580cce9a2136fa499998f6a57881c3d30a44b28017e78d"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/201005000022/",
+          "at": "2026-11-14T10:32:34.312Z",
+          "sha256": "dd2fa12eabd549cdd7ac0722f760ab08b09a21426732650092a5f9c5e630f3c5"
+        }
+      ],
+      "officialTitle": "MELTY BLOOD",
+      "recordKind": "logical-series",
+      "childIds": [
+        "source-f01142f550e45349048e53a95812c284",
+        "source-6c9c96596e3876c7c82eb323fb6773fa",
+        "source-0900f798056aed5edd812ce9c2bbaf58",
+        "source-59237ee28febbf51fde0cdeb36b31a42",
+        "source-8709fdbbac99bd1ef7a6ff28f788b0cd",
+        "source-b14d646cc683dae48c615bf07bfed7c8",
+        "source-1309e4487fc859fd6af9ce23f1986a0f",
+        "source-800b38d6adb31ea4a503722f040e9a33",
+        "source-9b1368d4cc449c77768d2056820b20ba"
+      ],
+      "scope": "原逻辑父级与9个纸本单卷关系核对；首尾卷官方书目佐证作品和版本，不认定实体套装",
+      "summary": "《MELTY BLOOD》纸本漫画系列目录，由桐嶋たける绘制，TYPE-MOON原作，官方书目列入角川コミックス・エース。现有目录关联第1至9卷，各卷独立出版并有独立ISBN；本条为单卷组织目录，不表示实体套装或已拥有整套。"
+    },
+    {
+      "itemId": "source-0900f798056aed5edd812ce9c2bbaf58",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (6)",
+      "identityBinding": {
+        "isbn": "9784047151666",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "6",
+        "member": "MELTY BLOOD (6)",
+        "image": "https://cdn.kdkw.jp/cover_1000/200809/200809000346.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200809/200809000346.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200809000346/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200809000346/",
+        "at": "2026-11-14T10:32:31.777Z",
+        "sha256": "7d48edcb6084c790280c2758c21245edca586368a5be932f600d653381056ace"
+      },
+      "officialTitle": "MELTY BLOOD (6)",
+      "officialIsbn": "9784047151666",
+      "volume": 6,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第6卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、164页，ISBN 9784047151666，纸本发售日为2009-01-22；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-1309e4487fc859fd6af9ce23f1986a0f",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (5)",
+      "identityBinding": {
+        "isbn": "9784047150966",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "5",
+        "member": "MELTY BLOOD (5)",
+        "image": "https://cdn.kdkw.jp/cover_1000/200805/200805000014.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200805/200805000014.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200805000014/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200805000014/",
+        "at": "2026-11-14T10:32:32.756Z",
+        "sha256": "6abf23ab661f223b92fe211937f276fcc2b6f4cf229f92a43d05372051448233"
+      },
+      "officialTitle": "MELTY BLOOD (5)",
+      "officialIsbn": "9784047150966",
+      "volume": 5,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第5卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、180页，ISBN 9784047150966，纸本发售日为2008-08-22；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-59237ee28febbf51fde0cdeb36b31a42",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (2)",
+      "identityBinding": {
+        "isbn": "9784047138919",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "2",
+        "member": "MELTY BLOOD (2)",
+        "image": "https://cdn.kdkw.jp/cover_1000/200609/200609000150.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200609/200609000150.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200609000150/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200609000150/",
+        "at": "2026-11-14T10:32:33.565Z",
+        "sha256": "443f2d2712117bf1176750cff626cd0fca602e09805e3399f5f4097c33147fa6"
+      },
+      "officialTitle": "MELTY BLOOD (2)",
+      "officialIsbn": "9784047138919",
+      "volume": 2,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第2卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、180页，ISBN 9784047138919，纸本发售日为2006-12-21；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-6c9c96596e3876c7c82eb323fb6773fa",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (9)",
+      "identityBinding": {
+        "isbn": "9784047155039",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "9",
+        "member": "MELTY BLOOD (9)",
+        "image": "https://cdn.kdkw.jp/cover_1000/201005/201005000022.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/201005/201005000022.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/201005000022/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201005000022/",
+        "at": "2026-11-14T10:32:34.312Z",
+        "sha256": "dd2fa12eabd549cdd7ac0722f760ab08b09a21426732650092a5f9c5e630f3c5"
+      },
+      "officialTitle": "MELTY BLOOD (9)",
+      "officialIsbn": "9784047155039",
+      "volume": 9,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第9卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、178页，ISBN 9784047155039，纸本发售日为2010-08-21；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-800b38d6adb31ea4a503722f040e9a33",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (4)",
+      "identityBinding": {
+        "isbn": "9784047150164",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "4",
+        "member": "MELTY BLOOD (4)",
+        "image": "https://cdn.kdkw.jp/cover_1000/200706/200706000141.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200706/200706000141.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200706000141/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200706000141/",
+        "at": "2026-11-14T10:32:35.419Z",
+        "sha256": "666f40852c3125961183612f855c867e0aa036b4e6f463fae4c59973f4ad2af0"
+      },
+      "officialTitle": "MELTY BLOOD (4)",
+      "officialIsbn": "9784047150164",
+      "volume": 4,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第4卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、196页，ISBN 9784047150164，纸本发售日为2008-04-24；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-8709fdbbac99bd1ef7a6ff28f788b0cd",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (1)",
+      "identityBinding": {
+        "isbn": "9784047138186",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "1",
+        "member": "MELTY BLOOD (1)",
+        "image": "https://cdn.kdkw.jp/cover_1000/200512/200512000077.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200512/200512000077.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200512000077/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200512000077/",
+        "at": "2026-11-14T05:00:15.728Z",
+        "sha256": "4085bc5541ed2332df580cce9a2136fa499998f6a57881c3d30a44b28017e78d"
+      },
+      "officialTitle": "MELTY BLOOD (1)",
+      "officialIsbn": "9784047138186",
+      "volume": 1,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第1卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、196页，ISBN 9784047138186，纸本发售日为2006-04-05；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-9b1368d4cc449c77768d2056820b20ba",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (3)",
+      "identityBinding": {
+        "isbn": "9784047139640",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "3",
+        "member": "MELTY BLOOD (3)",
+        "image": "https://cdn.kdkw.jp/cover_1000/200706/200706000139.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200706/200706000139.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200706000139/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200706000139/",
+        "at": "2026-11-14T10:32:36.632Z",
+        "sha256": "e7747f9908db890220574ec3fbb78d3371f87ae304409709c72c484aee36f0aa"
+      },
+      "officialTitle": "MELTY BLOOD (3)",
+      "officialIsbn": "9784047139640",
+      "volume": 3,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第3卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、212页，ISBN 9784047139640，纸本发售日为2007-09-21；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-b14d646cc683dae48c615bf07bfed7c8",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (8)",
+      "identityBinding": {
+        "isbn": "9784047153820",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "8",
+        "member": "MELTY BLOOD (8)",
+        "image": "https://cdn.kdkw.jp/cover_1000/200910/200910000517.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200910/200910000517.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200910000517/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200910000517/",
+        "at": "2026-11-14T10:32:37.348Z",
+        "sha256": "6db1203753f3395b58686d9911cdc7917da1d1bfdb12dbb3788418204ce01275"
+      },
+      "officialTitle": "MELTY BLOOD (8)",
+      "officialIsbn": "9784047153820",
+      "volume": 8,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第8卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、162页，ISBN 9784047153820，纸本发售日为2010-01-22；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-f01142f550e45349048e53a95812c284",
+      "groupId": "series-f92d4d0766326d79",
+      "title": "MELTY BLOOD (7)",
+      "identityBinding": {
+        "isbn": "9784047152786",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "MELTY BLOOD",
+        "wave": "7",
+        "member": "MELTY BLOOD (7)",
+        "image": "https://cdn.kdkw.jp/cover_1000/200904/200904000328.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/200904/200904000328.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/200904000328/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；保留原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和全部关系。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/200904000328/",
+        "at": "2026-11-14T10:32:38.435Z",
+        "sha256": "f65c4ca274fbd997d0c2e6e266f96ed5404139651a5b5f08ede035d6db871a94"
+      },
+      "officialTitle": "MELTY BLOOD (7)",
+      "officialIsbn": "9784047152786",
+      "volume": 7,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与当前纸本书目精确一致",
+      "scope": "本卷纸本书目：卷号、ISBN、作者、B6变形判、页数及日期逐项核对；不采用电子版字段",
+      "summary": "《MELTY BLOOD》第7卷纸本漫画，由桐嶋たける绘制，TYPE-MOON原作，角川コミックス・エース出版。出版社标注B6变形判、178页，ISBN 9784047152786，纸本发售日为2009-08-22；具体印次不作推定。"
+    }
+  ]
+}
