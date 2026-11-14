@@ -1,12 +1,12 @@
-# 系列补证进度（2026-11-13）
+# 系列补证进度（2026-11-14）
 
-截至 2026-11-13，累计已逐件检查 78 个系列的 6,992 条候选，5,191 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,770 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-14，累计已逐件检查 80 个系列的 7,012 条候选，5,211 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,768 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮按顺序检查strange Fake闪粉徽章与埃尔梅罗二世镜面挂件各11条，共22条；20+2两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条官方出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订125；维护入口已实测 HTTP 401 关闭。
+本轮按顺序检查MELTY BLOOD漫画书目与HOBBY STOCK埃尔梅罗二世扭蛋徽章各10条，共20条；单批正式补充并完整读回，无跳过。仅补空缺简介并追加两条官方出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订127；维护入口已实测 HTTP 401 关闭。
 
-22条补入官方支持的系列共通信息，9条仍有字段待查：徽章2条原フラット名称与官方图FRANCESCA PRELATI冲突；挂件3条A/B原标签无官方画面映射；另4条包装记录保留实际封装、附件及专属条码缺口。原名不改，BOX商品码不填给单款或零售套组；挂件约65×65mm是最大尺寸，不能当每款精确长宽。
+漫画9个纸本单卷和1个逻辑目录分别处理，ISBN、B6变形判、页数和纸本日期均按本卷出版社页面核对，不套用电子版资料。徽章只补约57mm、2019年9月、胶囊机销售及9普通+1隐藏的明确规格；6条A/B/C、1隐藏款及1零售全10种套组共8条仍有字段待查，具体画面、隐藏身份、实际包装和附属内容不作推定。
 
-本轮[9条字段待查](../series-evidence-20261113/strangefake-mirror/field-pending.json)及[前轮未决链](../series-evidence-20261113/tsukihime-strangefake/resume.json)均保留；已补通用信息不等于完整核实。
+本轮[8条字段待查](../series-evidence-20261114/melty-capsule/field-pending.json)保留；上轮[9条字段待查](../series-evidence-20261113/strangefake-mirror/field-pending.json)及[前轮未决链](../series-evidence-20261113/tsukihime-strangefake/resume.json)均保留；已补通用信息不等于完整核实。
 
 前轮[2条日期字段待查](../series-evidence-20261113/tsukihime-strangefake/field-pending.json)保留；历史未决项沿[前轮断点](../series-evidence-20261113/link-samurai/resume.json)继续保留。
 
@@ -18,9 +18,9 @@
 
 上一轮CLIMAX/英霊剣豪31条已补充，CLIMAX第1～8卷页数/开本仍[待查](../series-evidence-20261111/climax-kengou/field-pending.json)，本轮未重放。
 
-下一批先补查MELTY BLOOD漫画书目的10条，再查埃尔梅罗二世 Grace note HOBBY STOCK扭蛋徽章的10条。出版社与动画官方入口已缓存；逐卷核ISBN及纸本日期，徽章逐图核A/B/C、隐藏款及零售全套范围。这20条仅为来源发现，尚未逐条补证。
+下一批先补查Key-th Fate/strange Fake迷你角色徽章的10条，再查Fate/EXTRA CCC ろび～な漫画书目的9条。厂家及出版社入口已缓存；徽章须区分7单款、BOX、单包和零售全套，漫画须逐卷核纸本ISBN与第6卷零售来源。这19条仅为来源发现，尚未逐条补证。
 
-[最新断点](../series-evidence-20261113/strangefake-mirror/README.md) · [待查及接续](../series-evidence-20261113/strangefake-mirror/resume.json) · [累计分组](current-progress.json)。
+[最新断点](../series-evidence-20261114/melty-capsule/README.md) · [待查及接续](../series-evidence-20261114/melty-capsule/resume.json) · [累计分组](current-progress.json)。
 
 以下保留此前阶段记录，不覆盖最新断点。
 

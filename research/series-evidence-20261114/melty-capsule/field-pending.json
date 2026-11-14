@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-14T10:37:18.150Z",
+  "at": "2026-11-14T10:44:00.111Z",
   "items": [
     {
       "itemId": "15669103-cd3c-4da0-ac39-a4661937d53a",
@@ -9,7 +9,7 @@
       ],
       "reason": "官方合图没有A/B/C标记，同编号原图不可读；不按排列或编号推断对应。",
       "needed": "取得相同零售编号可读详情/原图或明确绑定的实物与官方包装资料。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "28220f8d-4ea5-427a-9391-7fbdab5556e2",
@@ -21,7 +21,7 @@
       ],
       "reason": "系列全10种不证明原零售套组封装与附属；同编号原详情和图片不可读。",
       "needed": "取得相同零售编号可读详情/原图或明确绑定的实物与官方包装资料。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "2ed35d0b-1988-4bc8-ba38-9caaa816ab9a",
@@ -31,7 +31,7 @@
       ],
       "reason": "官方合图没有A/B/C标记，同编号原图不可读；不按排列或编号推断对应。",
       "needed": "取得相同零售编号可读详情/原图或明确绑定的实物与官方包装资料。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "527dd502-8677-497b-b03a-a6aa25db88d3",
@@ -41,7 +41,7 @@
       ],
       "reason": "官方合图没有A/B/C标记，同编号原图不可读；不按排列或编号推断对应。",
       "needed": "取得相同零售编号可读详情/原图或明确绑定的实物与官方包装资料。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "a0969f36-3c10-4a81-b8f4-ea108a83b049",
@@ -51,7 +51,7 @@
       ],
       "reason": "官方合图没有A/B/C标记，同编号原图不可读；不按排列或编号推断对应。",
       "needed": "取得相同零售编号可读详情/原图或明确绑定的实物与官方包装资料。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "a8396456-3da2-436b-8593-0646e1f62465",
@@ -61,7 +61,7 @@
       ],
       "reason": "官方合图没有A/B/C标记，同编号原图不可读；不按排列或编号推断对应。",
       "needed": "取得相同零售编号可读详情/原图或明确绑定的实物与官方包装资料。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "c6f865cd-3598-48c7-b7ca-93517f8deb3a",
@@ -71,7 +71,7 @@
       ],
       "reason": "官方仅确认隐藏1款且合图为问号，没有角色或图案证据。",
       "needed": "取得相同零售编号可读详情/原图或明确绑定的实物与官方包装资料。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "d8e9b18a-8927-4bba-a2db-f1753593e77e",
@@ -81,7 +81,7 @@
       ],
       "reason": "官方合图没有A/B/C标记，同编号原图不可读；不按排列或编号推断对应。",
       "needed": "取得相同零售编号可读详情/原图或明确绑定的实物与官方包装资料。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     }
   ],
   "scopeCounts": {

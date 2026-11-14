@@ -1,6 +1,6 @@
 {
   "at": "2026-11-14T10:38:31.787Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 20,
   "prepared": 20,
   "pending": 0,
@@ -15,12 +15,13 @@
       ],
       "sourceRole": "publisher",
       "scope": "9个纸本单卷加1逻辑目录；逐卷核ISBN、作者、B6变形判/页数及纸本日期，不能套电子版日期或视为游戏本体。",
-      "status": "researching",
       "key": "melty",
       "reviewed": 10,
       "ready": 10,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 10
     },
     {
       "groupId": "series-01c35cca0008ca4b",
@@ -31,16 +32,20 @@
       ],
       "sourceRole": "anime-official",
       "scope": "8个具名单款、1隐藏款、1全10种零售套组。官方为2019年9月胶囊机售9普通+1隐藏、约57mm；逐图核A/B/C与隐藏款身份，不混同NAMJATOWN的6款56mm或其他厂商徽章。",
-      "status": "researching",
       "key": "capsule",
       "reviewed": 10,
       "ready": 10,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 10
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 20,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-14T10:44:00.111Z",
+  "fieldPendingRecords": 8
 }

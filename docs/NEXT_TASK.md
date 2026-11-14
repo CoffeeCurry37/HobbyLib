@@ -1,27 +1,25 @@
-> 当前进行中（2026-11-14）：MELTY BLOOD漫画10条、HOBBY STOCK埃尔梅罗二世徽章10条已完成研究和副本验证，20条待正式补充，8条字段缺口保留。准备断点见 research/series-evidence-20261114/melty-capsule/resume.json；下文为前轮正式实绩，本轮尚未计入。禁止重放历史成功动作。
-
 # 当前任务：系列补证（2026-11-03 启动）
 
 用户授权：从 GitHub 断点按已确定顺序补证，优先官方来源明确、覆盖商品多的系列；有明确证据才写入，无法确认的保留待查，保留已认可资料，及时保存 GitHub 进度。该任务接续已完成 V6，不重放旧迁移。
 
 ## 最新断点
 
-截至 2026-11-13，累计已逐件检查 78 个系列的 6,992 条候选，5,191 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,770 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-14，累计已逐件检查 80 个系列的 7,012 条候选，5,211 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,768 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮按顺序检查strange Fake闪粉徽章与埃尔梅罗二世镜面挂件各11条，共22条；20+2两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条官方出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订125；维护入口已实测 HTTP 401 关闭。
+本轮按顺序检查MELTY BLOOD漫画书目与HOBBY STOCK埃尔梅罗二世扭蛋徽章各10条，共20条；单批正式补充并完整读回，无跳过。仅补空缺简介并追加两条官方出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订127；维护入口已实测 HTTP 401 关闭。
 
-22条补入官方支持的系列共通信息，9条仍有字段待查：徽章2条原フラット名称与官方图FRANCESCA PRELATI冲突；挂件3条A/B原标签无官方画面映射；另4条包装记录保留实际封装、附件及专属条码缺口。原名不改，BOX商品码不填给单款或零售套组；挂件约65×65mm是最大尺寸，不能当每款精确长宽。
+漫画9个纸本单卷和1个逻辑目录分别处理，ISBN、B6变形判、页数和纸本日期均按本卷出版社页面核对，不套用电子版资料。徽章只补约57mm、2019年9月、胶囊机销售及9普通+1隐藏的明确规格；6条A/B/C、1隐藏款及1零售全10种套组共8条仍有字段待查，具体画面、隐藏身份、实际包装和附属内容不作推定。
 
-同编号22个原详情及22张原图不可读，4张官方实链图已视觉检查。只写有独立官方支撑的系列规格，不因此更名、推断A/B或改挂牌状态。完整核实商品/系列仍0。
+10个原零售详情及10张原图不可读，1张官方实链合图已视觉检查。原A/B/C标签与名称保留；隐藏款不由问号位置推断。第1及3卷纸本页署名与关联电子版有差异，未借用电子版字段。完整核实商品/系列仍0。
 
-[本轮报告](../research/series-evidence-20261113/strangefake-mirror/README.md) · [正式断点](../research/series-evidence-20261113/strangefake-mirror/resume.json) · [生产读回](../research/series-evidence-20261113/strangefake-mirror/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
+[本轮报告](../research/series-evidence-20261114/melty-capsule/README.md) · [正式断点](../research/series-evidence-20261114/melty-capsule/resume.json) · [生产读回](../research/series-evidence-20261114/melty-capsule/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
 
 ## 下一步
 
-1. 下一批先补查MELTY BLOOD漫画书目的10条，再查埃尔梅罗二世 Grace note HOBBY STOCK扭蛋徽章的10条。出版社与动画官方入口已缓存；逐卷核ISBN及纸本日期，徽章逐图核A/B/C、隐藏款及零售全套范围。这20条仅为来源发现，尚未逐条补证。见[来源与核对要点](../research/series-evidence-20261113/strangefake-mirror/next-sources.json)。HOBBY STOCK为9普通+1隐藏、约57mm胶囊商品，不能混同NAMJATOWN的6款56mm版本。
-2. 本轮[9条字段待查](../research/series-evidence-20261113/strangefake-mirror/field-pending.json)：2条角色名称、3条A/B图款、4条包装。优先取得相同零售编号可读详情或实物，再核对角色、图款及包装，不改现有名称。
-3. 上轮新装版第3卷的2条日期字段，以及此前LINK/Samurai的1条整条/7条字段及所有历史未决项，沿[前轮断点](../research/series-evidence-20261113/tsukihime-strangefake/resume.json)及previousOutstanding链保留；已成功动作不重放。
-4. Fate/Zero多用途板、FGO威化混合12条和Fate/stay night混合12条须先核身份；原已认可漫画和派生卷目按原边界保留，详见next-sources的延后清单。
+1. 下一批先补查Key-th Fate/strange Fake迷你角色徽章的10条，再查Fate/EXTRA CCC ろび～な漫画书目的9条。厂家及出版社入口已缓存；徽章须区分7单款、BOX、单包和零售全套，漫画须逐卷核纸本ISBN与第6卷零售来源。这19条仅为来源发现，尚未逐条补证。见[来源与核对要点](../research/series-evidence-20261114/melty-capsule/next-sources.json)。
+2. 本轮[8条字段待查](../research/series-evidence-20261114/melty-capsule/field-pending.json)：6条A/B/C图款、1隐藏身份、1零售套组。取得相同零售编号可读详情/原图或明确绑定的实物资料再补。
+3. 上轮[9条字段待查](../research/series-evidence-20261113/strangefake-mirror/field-pending.json)（2名称、3A/B、4包装），以及月姫/新装版、LINK/Samurai等全部历史未决项，沿[前轮断点](../research/series-evidence-20261113/strangefake-mirror/resume.json)及previousOutstanding链保留。已成功动作不重放。
+4. プリズマ☆イリヤ两季音像10条均为同一套组拆出的匿名卷序号，先证明两季各卷、媒介及限定版映射，不按1至10顺序猜配。Fate/Zero多用途板、FGO混合威化及其他混合组继续按next-sources延后清单处理；已认可资料保持。
 
 ## 执行规则
 
@@ -36,13 +34,14 @@
 
 ## 禁止重放
 
-本轮strange Fake闪粉徽章/埃尔梅罗镜面挂件两批22条、此前月姫/新装版strange Fake两批22条、此前LINK/Samurai两批21条、此前极光钥匙扣E/F两批22条、此前闪粉F/もちもちvol.16两批23条、此前ついコレvol.4/vol.5两批24条、此前エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
+本轮MELTY BLOOD/HOBBY STOCK单批20条、前轮strange Fake闪粉徽章/埃尔梅罗镜面挂件两批22条、此前月姫/新装版strange Fake两批22条、此前LINK/Samurai两批21条、此前极光钥匙扣E/F两批22条、此前闪粉F/もちもちvol.16两批23条、此前ついコレvol.4/vol.5两批24条、此前エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
 
 V6的477批9,531条变更及25组合并、旧32条、五边和001–006均禁止重放。最新正式库：34,999有效 / 8,575归档 / 1,823关联；个人数据保护不变。
 
 [主要记忆](PROJECT_MEMORY.md) · [V6规范](RECOGNITION_V6.md) · [正式整理报告](../research/production-v6-20261102/REPORT.md)。
 
 本轮授权为实际研究与安全接续；不额外接入收费模型或设置常驻任务。历史停止条件不覆盖新的用户请求。
+
 
 
 

@@ -32,6 +32,8 @@ allowed.add('info.fate-extella.jp');
 allowed.add('www.ensky.co.jp');
 allowed.add('www.enskyshop.com');
 allowed.add('anime.elmelloi.com');
+// Key-th official shop linked from the discovered Fate/strange Fake catalogue.
+allowed.add('www.curtain-damashii.com');
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};
 const planPath=process.argv[2],plan=JSON.parse(fs.readFileSync(planPath,'utf8'));
 if(!Array.isArray(plan)||plan.length>350)throw Error('Capture plan exceeds 350 URLs');

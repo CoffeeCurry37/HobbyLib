@@ -1,17 +1,61 @@
 {
-  "completedLocalDate": null,
-  "clientDate": "2026-11-14",
+  "at": "2026-11-14T10:44:00.111Z",
+  "completedLocalDate": "2026-11-14",
   "timezone": "America/Chicago",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-f92d4d0766326d79",
+      "label": "MELTY BLOOD 桐嶋たける漫画书目",
+      "snapshotItems": 10,
+      "productionApplied": 10,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-01c35cca0008ca4b",
+      "label": "埃尔梅罗二世 Grace note HOBBY STOCK 缶バッジコレクション",
+      "snapshotItems": 10,
+      "productionApplied": 10,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
   "candidates": 20,
-  "prepared": 20,
-  "productionApplied": 0,
-  "wholePending": 0,
+  "productionApplied": 20,
+  "batches": 1,
+  "pendingEvidence": 0,
+  "pendingFile": "pending.json",
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
   "fieldPendingRecords": 8,
   "fieldPendingFile": "field-pending.json",
-  "simulation": "simulation.json",
+  "fieldScope": {
+    "abcVariant": 6,
+    "hiddenIdentity": 1,
+    "retailSet": 1,
+    "distinctRecords": 8
+  },
+  "limitations": [
+    "9个纸本单卷逐项绑定出版社卷号、ISBN、B6变形判、页数和纸本日期；第1/3卷纸本页未列フランスパン，未借电子版补署名",
+    "1个逻辑目录保持9条contains关系，不当作实体套装或已拥有整套",
+    "徽章只补官方共通规格：约57mm、2019年9月胶囊机销售、9普通+1隐藏，不写材质或9月30日",
+    "6条原A/B/C画面对应、1隐藏款身份和1零售全10种套组封装/内容仍待查；官方图无A/B/C标记，隐藏款为问号",
+    "同编号10个零售详情与10张原图不可读，1张官方实链合图已视觉检查并保留字节哈希；不按排列或编号推断款式",
+    "原8具名单款不是系列全体9普通款，不补造缺失单款；套组不推定厂家BOX",
+    "仅补空简介和两条来源；原名、ISBN/JAN、图片、认可、个人字段及全部证据/挂牌/关系保持；完整核实商品/系列仍0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 127,
+  "deploymentId": "appgdep_6af83ac4a590819189d20fc2d40be270",
+  "siteVersion": 70,
+  "preparedCommit": "de337216632b1903d95ddd11d6eca2deb89d808e",
   "previousOutstanding": "../../series-evidence-20261113/strangefake-mirror/resume.json",
-  "previousFinalCommit": "1c7d9efaf6d14c9076dee470c7a43b8e24c555e4",
-  "nextAction": "核对同站所有者和实时目标后，最多20条一批补空简介及两条来源；完整读回、关闭维护并实测401。",
-  "noReplay": "历史全部成功动作不重放；此包尚未正式写入。"
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮单批20条、前轮strange Fake闪粉徽章/镜面挂件22条及全部历史成功动作禁止重放。",
+  "note": "本轮8条字段、上轮9条字段及全部历史未决项沿previousOutstanding链保留。"
 }
