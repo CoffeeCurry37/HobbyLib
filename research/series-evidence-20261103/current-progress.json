@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-14T10:44:00.111Z",
+  "at": "2026-11-14T20:19:40.721Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 80,
-  "seriesAwaitingItemReview": 1768,
+  "seriesWithItemReview": 82,
+  "seriesAwaitingItemReview": 1766,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 7012,
-  "productionApplied": 5211,
+  "coveredSnapshotItems": 7031,
+  "productionApplied": 5230,
   "protectedExisting": 9,
   "pendingEvidence": 1791,
   "freshVersionSkips": 1,
@@ -819,13 +819,33 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-e4893849203fceb4",
+      "label": "Fate/strange Fake Key-th 迷你角色徽章",
+      "snapshotItems": 10,
+      "productionApplied": 10,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-2c99af905c9427ad",
+      "label": "Fate/EXTRA CCC ろび～な漫画书目",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261114/melty-capsule/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261114/keyth-ccc/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6
   },
-  "latestPartialFieldPendingFile": "../series-evidence-20261114/melty-capsule/field-pending.json",
+  "latestPartialFieldPendingFile": "../series-evidence-20261114/keyth-ccc/field-pending.json",
   "countingNote": "pendingEvidence统计未安全补简介的记录；已补简介记录仍可有未决字段，均不等于完整核实。"
 }

@@ -1,27 +1,27 @@
-> 当前进行中（2026-11-14）：Key-th迷你角色徽章10条及Fate/EXTRA CCC漫画9条已完成研究和副本验证，19条待正式补充，3条字段缺口保留。准备断点见 research/series-evidence-20261114/keyth-ccc/resume.json；下文是上轮正式实绩，本轮尚未计入。禁止重放历史成功动作。
-
 # 当前任务：系列补证（2026-11-03 启动）
 
 用户授权：从 GitHub 断点按已确定顺序补证，优先官方来源明确、覆盖商品多的系列；有明确证据才写入，无法确认的保留待查，保留已认可资料，及时保存 GitHub 进度。该任务接续已完成 V6，不重放旧迁移。
 
 ## 最新断点
 
-截至 2026-11-14，累计已逐件检查 80 个系列的 7,012 条候选，5,211 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,768 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-14，累计已逐件检查 82 个系列的 7,031 条候选，5,230 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,766 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮按顺序检查MELTY BLOOD漫画书目与HOBBY STOCK埃尔梅罗二世扭蛋徽章各10条，共20条；单批正式补充并完整读回，无跳过。仅补空缺简介并追加两条官方出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订127；维护入口已实测 HTTP 401 关闭。
+本轮按顺序检查Key-th Fate/strange Fake迷你角色徽章10条、Fate/EXTRA CCC漫画书目9条，共19条；单批正式补充并完整读回，无跳过。仅补空简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系和偏好保留。Sites 70，环境修订129；维护入口已实测 HTTP 401 关闭。
 
-漫画9个纸本单卷和1个逻辑目录分别处理，ISBN、B6变形判、页数和纸本日期均按本卷出版社页面核对，不套用电子版资料。徽章只补约57mm、2019年9月、胶囊机销售及9普通+1隐藏的明确规格；6条A/B/C、1隐藏款及1零售全10种套组共8条仍有字段待查，具体画面、隐藏身份、实际包装和附属内容不作推定。
+徽章7单款、BOX、单包与零售全套分别保留；厂家页/图确认商品线、七款设计及BOX7个，约57mm、纸/钢等与随机封入明确标为销售资料，BOX不保证集齐。漫画8卷纸本加1逻辑目录，前4卷B6变形判、后4卷B6判，第6卷既有零售JAN保持。单包/全套封装与附件、漫画第5卷日期共3条字段继续待查，日期差异未写入简介。
 
-10个原零售详情及10张原图不可读，1张官方实链合图已视觉检查。原A/B/C标签与名称保留；隐藏款不由问号位置推断。第1及3卷纸本页署名与关联电子版有差异，未借用电子版字段。完整核实商品/系列仍0。
+徽章10个原详情及10张原图不可读，1张厂家实链图已目视检查。Tokyo Otaku Mode与駿河屋可读网页观察单列，未伪装为原HTML字节哈希。第5卷同ISBN出版社2020-02-22与零售2020-02-25差异保留；未改任何原ISBN/JAN。
 
-[本轮报告](../research/series-evidence-20261114/melty-capsule/README.md) · [正式断点](../research/series-evidence-20261114/melty-capsule/resume.json) · [生产读回](../research/series-evidence-20261114/melty-capsule/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
+本次原生读取发现网站已为public、当前用户为owner；保留现有访问范围，使用普通发布操作部署同一Sites 70，仅更新维护开关。没有修改站点或GitHub权限。维护现已关闭。
+
+[本轮报告](../research/series-evidence-20261114/keyth-ccc/README.md) · [正式断点](../research/series-evidence-20261114/keyth-ccc/resume.json) · [生产读回](../research/series-evidence-20261114/keyth-ccc/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
 
 ## 下一步
 
-1. 下一批先补查Key-th Fate/strange Fake迷你角色徽章的10条，再查Fate/EXTRA CCC ろび～な漫画书目的9条。厂家及出版社入口已缓存；徽章须区分7单款、BOX、单包和零售全套，漫画须逐卷核纸本ISBN与第6卷零售来源。这19条仅为来源发现，尚未逐条补证。见[来源与核对要点](../research/series-evidence-20261114/melty-capsule/next-sources.json)。
-2. 本轮[8条字段待查](../research/series-evidence-20261114/melty-capsule/field-pending.json)：6条A/B/C图款、1隐藏身份、1零售套组。取得相同零售编号可读详情/原图或明确绑定的实物资料再补。
-3. 上轮[9条字段待查](../research/series-evidence-20261113/strangefake-mirror/field-pending.json)（2名称、3A/B、4包装），以及月姫/新装版、LINK/Samurai等全部历史未决项，沿[前轮断点](../research/series-evidence-20261113/strangefake-mirror/resume.json)及previousOutstanding链保留。已成功动作不重放。
-4. プリズマ☆イリヤ两季音像10条均为同一套组拆出的匿名卷序号，先证明两季各卷、媒介及限定版映射，不按1至10顺序猜配。Fate/Zero多用途板、FGO混合威化及其他混合组继续按next-sources延后清单处理；已认可资料保持。
+1. 下一批先补查FGO威化第4弹具名单卡的9条，再查FGO コミックアラカルト漫画选集的9条。厂家与出版社入口已缓存；单卡逐图核卡号/人物，8条零售书目及1目录须先绑定纸本卷号和零售编号，不借用PLUS!或电子版。这18条仅为来源发现，尚未逐条补证。见[来源与核对要点](../research/series-evidence-20261114/keyth-ccc/next-sources.json)。第1卷出版社与楽天书店日期有初步差异，正式研究时单列核对。
+2. 本轮[3条字段待查](../research/series-evidence-20261114/keyth-ccc/field-pending.json)：徽章单包、零售全套的封装/数量/附件/专属条码，以及漫画第5卷发售日期。有明确同编号或同书号证据再补，不重放已写内容。
+3. 前轮MELTY/HOBBY STOCK的[8条字段待查](../research/series-evidence-20261114/melty-capsule/field-pending.json)，以及此前9条徽章/镜面挂件字段和全部历史未决项，沿[前轮断点](../research/series-evidence-20261114/melty-capsule/resume.json)及previousOutstanding链保留。
+4. プリズマ☆イリヤ两季音像、Fate/Zero多用途板、FGO混弹与其他匿名占位组按next-sources延后清单处理；不能以本地序号推断跨季卷目或实际卡号，已认可资料保持。
 
 ## 执行规则
 
@@ -36,13 +36,14 @@
 
 ## 禁止重放
 
-本轮MELTY BLOOD/HOBBY STOCK单批20条、前轮strange Fake闪粉徽章/埃尔梅罗镜面挂件两批22条、此前月姫/新装版strange Fake两批22条、此前LINK/Samurai两批21条、此前极光钥匙扣E/F两批22条、此前闪粉F/もちもちvol.16两批23条、此前ついコレvol.4/vol.5两批24条、此前エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
+本轮Key-th/EXTRA CCC单批19条、前轮MELTY BLOOD/HOBBY STOCK单批20条、前轮strange Fake闪粉徽章/埃尔梅罗镜面挂件两批22条、此前月姫/新装版strange Fake两批22条、此前LINK/Samurai两批21条、此前极光钥匙扣E/F两批22条、此前闪粉F/もちもちvol.16两批23条、此前ついコレvol.4/vol.5两批24条、此前エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
 
 V6的477批9,531条变更及25组合并、旧32条、五边和001–006均禁止重放。最新正式库：34,999有效 / 8,575归档 / 1,823关联；个人数据保护不变。
 
 [主要记忆](PROJECT_MEMORY.md) · [V6规范](RECOGNITION_V6.md) · [正式整理报告](../research/production-v6-20261102/REPORT.md)。
 
 本轮授权为实际研究与安全接续；不额外接入收费模型或设置常驻任务。历史停止条件不覆盖新的用户请求。
+
 
 
 

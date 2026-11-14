@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-14T20:13:55.577Z",
+  "at": "2026-11-14T20:19:40.721Z",
   "items": [
     {
       "itemId": "cea57bac-3c51-46fd-a574-63850127585b",
@@ -11,7 +11,7 @@
       ],
       "reason": "厂家BOX及销售方系列信息不能证明这个原零售编号的单包/全套封装与附件；原详情和原图不可读。",
       "needed": "同编号可读商品详情、包装图或可绑定的实物依据。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "fcc79f6b-5507-4b05-ad90-45115aa6b559",
@@ -23,7 +23,7 @@
       ],
       "reason": "厂家BOX及销售方系列信息不能证明这个原零售编号的单包/全套封装与附件；原详情和原图不可读。",
       "needed": "同编号可读商品详情、包装图或可绑定的实物依据。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "source-0a34434f48ee5188525e31da56c2ad23",
@@ -43,7 +43,7 @@
       },
       "reason": "同卷同ISBN出版社为2020-02-22，駿河屋为2020-02-25；暂不补日期。",
       "needed": "发行说明或可区分出版社发售与零售上架日期的明确依据。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     }
   ],
   "scopeCounts": {

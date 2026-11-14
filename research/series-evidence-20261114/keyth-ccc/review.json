@@ -1,6 +1,6 @@
 {
   "at": "2026-11-14T20:14:35.470Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 19,
   "prepared": 19,
   "pending": 0,
@@ -16,12 +16,13 @@
       ],
       "sourceRole": "manufacturer",
       "scope": "7个单款、1 BOX、1单包、1全7种零售套组。厂家目录确认迷你角色BOX7个；逐图核对成员、材料/尺寸、单包与BOX/零售全套和集齐规则，不能借用执事女仆版。",
-      "status": "researching",
       "key": "keyth",
       "reviewed": 10,
       "ready": 10,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 10
     },
     {
       "groupId": "series-2c99af905c9427ad",
@@ -32,16 +33,20 @@
       ],
       "sourceRole": "publisher",
       "scope": "8个纸本单卷加1逻辑目录；逐卷核ISBN、作者、页数和纸本日期。第6卷来自零售并保留既有JAN作用域；不与FoxTail、游戏或电子版合并。",
-      "status": "researching",
       "key": "ccc",
       "reviewed": 9,
       "ready": 9,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 9
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 19,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-14T20:19:40.721Z",
+  "fieldPendingRecords": 3
 }

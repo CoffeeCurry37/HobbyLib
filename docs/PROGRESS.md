@@ -1,12 +1,12 @@
-> 截至 2026-11-14，累计已逐件检查 80 个系列的 7,012 条候选，5,211 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,768 个系列尚待逐件研究。完整核实系列数为 0。 [最新断点](../research/series-evidence-20261114/melty-capsule/README.md)。以下保留此前阶段记录。
+> 截至 2026-11-14，累计已逐件检查 82 个系列的 7,031 条候选，5,230 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,766 个系列尚待逐件研究。完整核实系列数为 0。 [最新断点](../research/series-evidence-20261114/keyth-ccc/README.md)。以下保留此前阶段记录。
 
 # 当前进度
 
-本轮按顺序检查MELTY BLOOD漫画书目与HOBBY STOCK埃尔梅罗二世扭蛋徽章各10条，共20条；单批正式补充并完整读回，无跳过。仅补空缺简介并追加两条官方出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订127；维护入口已实测 HTTP 401 关闭。
+本轮按顺序检查Key-th Fate/strange Fake迷你角色徽章10条、Fate/EXTRA CCC漫画书目9条，共19条；单批正式补充并完整读回，无跳过。仅补空简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系和偏好保留。Sites 70，环境修订129；维护入口已实测 HTTP 401 关闭。
 
-漫画9个纸本单卷和1个逻辑目录分别处理，ISBN、B6变形判、页数和纸本日期均按本卷出版社页面核对，不套用电子版资料。徽章只补约57mm、2019年9月、胶囊机销售及9普通+1隐藏的明确规格；6条A/B/C、1隐藏款及1零售全10种套组共8条仍有字段待查，具体画面、隐藏身份、实际包装和附属内容不作推定。
+徽章7单款、BOX、单包与零售全套分别保留；厂家页/图确认商品线、七款设计及BOX7个，约57mm、纸/钢等与随机封入明确标为销售资料，BOX不保证集齐。漫画8卷纸本加1逻辑目录，前4卷B6变形判、后4卷B6判，第6卷既有零售JAN保持。单包/全套封装与附件、漫画第5卷日期共3条字段继续待查，日期差异未写入简介。
 
-本轮[8条字段待查](../research/series-evidence-20261114/melty-capsule/field-pending.json)保留；上轮[9条字段待查](../research/series-evidence-20261113/strangefake-mirror/field-pending.json)及[前轮未决链](../research/series-evidence-20261113/tsukihime-strangefake/resume.json)均保留；已补通用信息不等于完整核实。
+本轮[3条字段待查](../research/series-evidence-20261114/keyth-ccc/field-pending.json)保留；前轮[8条字段待查](../research/series-evidence-20261114/melty-capsule/field-pending.json)保留；上轮[9条字段待查](../research/series-evidence-20261113/strangefake-mirror/field-pending.json)及[前轮未决链](../research/series-evidence-20261113/tsukihime-strangefake/resume.json)均保留；已补通用信息不等于完整核实。
 
 前轮[2条日期字段待查](../research/series-evidence-20261113/tsukihime-strangefake/field-pending.json)保留；历史未决项沿[前轮断点](../research/series-evidence-20261113/link-samurai/resume.json)继续保留。
 
@@ -18,7 +18,7 @@
 
 上一轮CLIMAX/英霊剣豪31条已补充，CLIMAX第1～8卷页数/开本仍[待查](../research/series-evidence-20261111/climax-kengou/field-pending.json)，本轮未重放。
 
-下一批先补查Key-th Fate/strange Fake迷你角色徽章的10条，再查Fate/EXTRA CCC ろび～な漫画书目的9条。厂家及出版社入口已缓存；徽章须区分7单款、BOX、单包和零售全套，漫画须逐卷核纸本ISBN与第6卷零售来源。这19条仅为来源发现，尚未逐条补证。
+下一批先补查FGO威化第4弹具名单卡的9条，再查FGO コミックアラカルト漫画选集的9条。厂家与出版社入口已缓存；单卡逐图核卡号/人物，8条零售书目及1目录须先绑定纸本卷号和零售编号，不借用PLUS!或电子版。这18条仅为来源发现，尚未逐条补证。
 
 上一轮EXTELLA/威化3补充38条，3条拍卖及No.25隐藏角色继续待查，见[历史断点](../research/series-evidence-20261110/extella-wafer3/resume.json)。
 

@@ -1,0 +1,199 @@
+{
+  "at": "2026-11-14T20:19:40.721Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-f0cdf1d7a4690774",
+      "label": "FGO威化第4弹具名单卡",
+      "candidates": 9,
+      "sources": [
+        "https://www.bandai.co.jp/candy/products/2018/4549660252245000.html"
+      ],
+      "sourceRole": "manufacturer",
+      "scope": "9个具名零售单卡，核原卡号、人物及卡面；与匿名占位/混合弹次分组分开，不把全25种及包装条码填成单卡身份。",
+      "status": "official-entry-source-discovery-only"
+    },
+    {
+      "groupId": "series-2a798dcc42dea8c6",
+      "label": "FGO コミックアラカルト漫画选集",
+      "candidates": 9,
+      "sources": [
+        "https://www.kadokawa.co.jp/product/321511000539/"
+      ],
+      "sourceRole": "publisher",
+      "scope": "8条原零售纸本卷目加1逻辑目录，原ISBN/JAN均空；先逐条绑定零售编号、卷号与出版社纸本书目，勿套用PLUS!系列、电子版或凭标题补书号。",
+      "status": "official-entry-source-discovery-only"
+    }
+  ],
+  "observations": [
+    {
+      "url": "https://www.bandai.co.jp/candy/products/2018/4549660252245000.html",
+      "at": "2026-11-14T20:18:37.262Z",
+      "sha256": "63423378f7003b583f82c692f8affbcbc440654f37eef52c0d5eb5b3228b3f75",
+      "sourceRole": "manufacturer",
+      "scope": "仅确认官方商品入口；未逐条研究，不计补证完成。"
+    },
+    {
+      "url": "https://www.kadokawa.co.jp/product/321511000539/",
+      "at": "2026-11-14T20:18:37.308Z",
+      "sha256": "6bff42a393b4aa8013605e98270535683fac9edab105300b3974ee89f7018754",
+      "sourceRole": "publisher",
+      "scope": "仅确认官方商品入口；未逐条研究，不计补证完成。"
+    }
+  ],
+  "pendingFirst": "本轮3条字段与全部previousOutstanding缺口保留；19条成功动作不重放。",
+  "nextRule": "先FGO威化第4弹具名单卡9条，再FGO漫画选集9条；仅来源发现，无新增写入。",
+  "productionApplied": 0,
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-9cd624974209cc26",
+      "label": "Fate/Apocrypha 漫画版",
+      "candidates": 16,
+      "protectedSnapshot": 16,
+      "reason": "原快照16条已有认可简介，保留不重查"
+    },
+    {
+      "groupId": "series-774a4872988f96e5",
+      "label": "新宿幻霊事件",
+      "candidates": 16,
+      "protectedSnapshot": 7,
+      "reason": "含7条已有认可简介及派生成员，后续先做身份映射；本轮不重查认可资料"
+    },
+    {
+      "groupId": "series-2c5365f51b170b46",
+      "label": "Fate/stay night 既有混合分组",
+      "candidates": 12,
+      "reason": "原投影混有PS2/PC游戏、拍卖组合、Saber玩偶及2幅REMASTERED复制画；不能套用统一游戏规格，须先逐条确定品类及来源，不改原分组或关系。"
+    },
+    {
+      "groupId": "series-7a54af02babd8464",
+      "label": "Fate/Zero マルチプレートコレクション",
+      "candidates": 11,
+      "source": "https://www.geestore.com/detail/id/00000046863",
+      "sourceRole": "retailer",
+      "reason": "初查找到GEE!STORE零售盒装页，未取得厂商单款映射；同为11条先选两个官方来源明确的系列。"
+    },
+    {
+      "groupId": "series-0a91fb12918c98ba",
+      "label": "FGO威化既有混合组",
+      "candidates": 12,
+      "reason": "含XSR01/SP03/R14等不同弹次零售/拍卖记录；先逐条映射弹次与图片，不将统一系列规格套给全部。"
+    },
+    {
+      "groupId": "series-d3fe5c3aa70938b3",
+      "label": "プリズマ☆イリヤ ドライ!!",
+      "candidates": 15,
+      "protectedSnapshot": 14,
+      "reason": "14条已有认可或简介，保留；逻辑目录另排，不重复补单卷。"
+    },
+    {
+      "groupId": "series-2a9bd38ef59a7912",
+      "label": "Fate/Zero 漫画",
+      "candidates": 14,
+      "protectedSnapshot": 14,
+      "reason": "既有认可或简介保持，未计入本轮研究完成。"
+    },
+    {
+      "groupId": "series-a5da8402b48f5640",
+      "label": "Fate/stay night Heaven’s Feel 漫画",
+      "candidates": 12,
+      "protectedSnapshot": 12,
+      "reason": "既有认可或简介保持，不覆盖。"
+    },
+    {
+      "groupId": "series-4c61e0375a0d5d45",
+      "label": "Fate/stay night アンソロジーコミック",
+      "candidates": 12,
+      "protectedSnapshot": 12,
+      "reason": "既有认可或简介保持，卷目/零售套组不归并。"
+    },
+    {
+      "groupId": "series-14d4d8b3963250dc",
+      "label": "深海電脳楽土 SE.RA.PH漫画",
+      "candidates": 11,
+      "protectedSnapshot": 8,
+      "reason": "8条已有认可或简介；剩余卷目/组合需先独立映射，保留已认可资料。"
+    },
+    {
+      "groupId": "series-e56eb539bb9ba0fd",
+      "label": "プリズマ☆イリヤ ツヴァイ!+ヘルツ! 初回版",
+      "candidates": 10,
+      "reason": "10条均由同一零售组合128076924拆出的占位卷1至10；须先证明两季各卷映射、DVD/BD及限定版，不能按顺序猜为两季1至5。",
+      "discoveredOfficialUrls": [
+        "https://anime.prisma-illya.jp/2wei/product/bddvd_2nd.php",
+        "https://anime.prisma-illya.jp/2weihelz/product/bddvd_1.php"
+      ],
+      "scope": "仅浏览入口并检查原身份，未逐条研究计数"
+    }
+  ],
+  "dateWatch": [
+    {
+      "scope": "下一批第1卷仅来源发现，未绑定原零售编号，未计逐条研究",
+      "publisherUrl": "https://www.kadokawa.co.jp/product/321511000539/",
+      "publisherDate": "2016-03-10",
+      "retailerUrl": "https://books.rakuten.co.jp/rb/13605613/",
+      "retailerDate": "2016-03-08頃",
+      "note": "网页搜索显示同ISBN9784041040928日期差异；进入本卷研究时单独核对，不自动带入新简介。"
+    }
+  ]
+}

@@ -1,16 +1,68 @@
 {
-  "clientDate": "2026-11-14",
+  "at": "2026-11-14T20:19:40.721Z",
+  "completedLocalDate": "2026-11-14",
   "timezone": "America/Chicago",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-e4893849203fceb4",
+      "label": "Fate/strange Fake Key-th 迷你角色徽章",
+      "snapshotItems": 10,
+      "productionApplied": 10,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-2c99af905c9427ad",
+      "label": "Fate/EXTRA CCC ろび～な漫画书目",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
   "candidates": 19,
-  "prepared": 19,
-  "productionApplied": 0,
-  "wholePending": 0,
+  "productionApplied": 19,
+  "batches": 1,
+  "pendingEvidence": 0,
+  "pendingFile": "pending.json",
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
   "fieldPendingRecords": 3,
   "fieldPendingFile": "field-pending.json",
-  "simulation": "simulation.json",
+  "fieldScope": {
+    "packaging": 2,
+    "bookDate": 1,
+    "distinctRecords": 3
+  },
+  "limitations": [
+    "7个徽章单款、BOX、单包、零售全套分别保留；厂家页只证迷你角色商品线、BOX7个与官方图，不借执事女仆版参数",
+    "约57mm、纸/钢等材质及随机封入属于销售资料；明确分层标注，BOX不保证集齐，原空JAN不填",
+    "单包封入/封装和全7种零售组合实际封装/附属内容共2条继续待查",
+    "漫画8卷纸本和1逻辑目录分别核对，前4卷B6变形判、后4卷B6判；第6卷既有零售JAN保留，不声称官方另列JAN",
+    "第5卷同ISBN出版社2020-02-22、零售2020-02-25存在差异；简介不补日期",
+    "10徽章原详情及10原图不可读，1张厂家实链合图已目视检查；零售网页可读观察独立留存，观察JSON哈希不冒充HTML哈希",
+    "只补空简介与两条出处；原名、原证据、认可、图片、个人字段、挂牌/关系/偏好保持；完整核实商品/系列仍0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 129,
+  "deploymentId": "appgdep_6af8c1e518548191809b097b872f4041",
+  "siteVersion": 70,
+  "hostingAccess": {
+    "observedAtStart": "public",
+    "currentUserRole": "owner",
+    "action": "preserved-existing-audience",
+    "accessPolicyMutation": false,
+    "deployOperation": "deploy_site_version",
+    "note": "原生读取发现站点已为public，未调用任何权限修改；沿用当前访问范围部署同一已保存版本。GitHub仓库权限未改。"
+  },
+  "preparedCommit": "3e83f2f1742fc5b6b917af8e19d8ee0491ebcf98",
   "previousOutstanding": "../melty-capsule/resume.json",
-  "previousFinalCommit": "7576fe5af5ad0143e4d4c7dbdbe6fd0d08a7f25a",
-  "nextAction": "核对同站所有者及实时目标后，单批补19条空简介及两条来源；读回、关闭维护并实测401。",
-  "noReplay": "历史全部成功动作不重放；此包尚未正式写入。"
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮单批19条、前轮MELTY/HOBBY STOCK单批20条及全部历史成功动作禁止重放。",
+  "note": "本轮3条字段、前轮8条字段及全部历史未决项沿previousOutstanding链保留。"
 }
