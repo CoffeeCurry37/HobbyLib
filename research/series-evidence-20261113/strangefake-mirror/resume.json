@@ -1,0 +1,23 @@
+{
+  "at": "2026-11-14T04:57:07.419Z",
+  "localDate": "2026-11-13",
+  "stage": "prepared-no-production-write",
+  "candidates": 22,
+  "prepared": 22,
+  "productionApplied": 0,
+  "pendingEvidence": 0,
+  "fieldPendingRecords": 9,
+  "plannedBatchSizes": [
+    20,
+    2
+  ],
+  "groups": [
+    "series-badf6d6ba4f59b93",
+    "series-27a7fb010a9ce561"
+  ],
+  "previousCommit": "c6e56cd84c63155f69eb1a75be394cb520d54302",
+  "previousOutstanding": "../tsukihime-strangefake/resume.json",
+  "nextAction": "新鲜读取22条后按预期版本保护20+2写入，完整读回，关闭维护入口并实测，更新累计及下一批。",
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

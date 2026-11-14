@@ -1,0 +1,26 @@
+[
+  {
+    "groupId": "series-badf6d6ba4f59b93",
+    "label": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+    "candidates": 11,
+    "sources": [
+      "https://www.ensky.co.jp/item/31780.html"
+    ],
+    "sourceRole": "manufacturer",
+    "scope": "9单款、1全9种零售组合、1单包；需逐图核棋盘/名字版本、Filia、包装数量及BOX与单包JAN作用域；厂商BOX码不可写入单款。",
+    "status": "researching",
+    "key": "badges"
+  },
+  {
+    "groupId": "series-27a7fb010a9ce561",
+    "label": "ロード・エルメロイII世の事件簿 Grace note トレーディングミラーチャーム",
+    "candidates": 11,
+    "sources": [
+      "https://anime.elmelloi.com/news/?id=51121"
+    ],
+    "sourceRole": "anime-official",
+    "scope": "9单款、1全10种零售组合、1未标包装条目；逐图核A/B和多人组合、原零售编号，单包/BOX与套组分开；旧队列未包含Grey A单条不代表系列只有9款。",
+    "status": "researching",
+    "key": "mirror"
+  }
+]

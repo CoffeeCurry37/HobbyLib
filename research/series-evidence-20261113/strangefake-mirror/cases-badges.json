@@ -1,0 +1,486 @@
+{
+  "at": "2026-11-14T04:56:01.448Z",
+  "rows": [
+    {
+      "itemId": "source-376b041eb3026fe31d8bf0cde529eaea",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "フラット・エスカルドス(チェス) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": true,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "フラット・エスカルドス(チェス) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179279&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179279&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179279",
+          "https://www.suruga-ya.jp/product/other/889179279"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条原目录名称与官方图中文字存在冲突，角色及图款对应继续待查，原名保留。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。原フラット与官方FRANCESCA PRELATI冲突，只写系列通用事实。",
+      "identityMatch": "原作品、产品线和厂商一致，但角色名与官方图冲突；只支持系列通用事实"
+    },
+    {
+      "itemId": "source-3b7d2c580c51e53d979ffd7c02ecd880",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "フィリア 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "フィリア 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179280&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179280&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179280",
+          "https://www.suruga-ya.jp/product/detail/889179280?tenpo_cd=410061"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "source-513fd8c47ac79de7029cf9fee2ca0897",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "セイバー(名前有り) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "セイバー(名前有り) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179281&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179281&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179281",
+          "https://www.suruga-ya.jp/product/detail/889179281?tenpo_cd=410061"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "source-55e571aa2ad0b0ec71ac4458ed555293",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "ランサー(名前有り) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "ランサー(名前有り) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179283&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179283&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179283",
+          "https://www.suruga-ya.jp/product/other/889179283"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "source-7a8fa7d5019d58f09225d8bbb160fd8a",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "フラット・エスカルドス(名前有り) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": true,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "フラット・エスカルドス(名前有り) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179284&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179284&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179284",
+          "https://www.suruga-ya.jp/product/other/889179284"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条原目录名称与官方图中文字存在冲突，角色及图款对应继续待查，原名保留。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。原フラット与官方FRANCESCA PRELATI冲突，只写系列通用事实。",
+      "identityMatch": "原作品、产品线和厂商一致，但角色名与官方图冲突；只支持系列通用事实"
+    },
+    {
+      "itemId": "source-94b90ef20a99b482630fffaa352472fb",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "ランサー(チェス) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "ランサー(チェス) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179278&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179278&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179278",
+          "https://www.suruga-ya.jp/product/other/889179278"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "source-a1b706fe9777f3ad3793c85e6a666147",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "アーチャー(名前有り) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "アーチャー(名前有り) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179282&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179282&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179282",
+          "https://www.suruga-ya.jp/product/other/889179282"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "source-b226ea10b97621f656f6115b8e26655e",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "アーチャー(チェス) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "アーチャー(チェス) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179277&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179277&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179277"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "source-b814d7e4c654980abc7dd28c7bb01b29",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "セイバー(チェス) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "セイバー(チェス) 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179276&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179276&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179276",
+          "https://www.suruga-ya.jp/product/detail/889179276?tenpo_cd=410061"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "source-c4563d86711f039678b0a77829c24b62",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "全9種セット 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+      "status": "supported",
+      "recordKind": "retailer-complete-set",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "全9種セット 「TVアニメ Fate/strange Fake ラメキラカンバッジコレクション」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179285&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179285&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179285"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。本条保留原零售全9种组合范围，实际封装及附属内容待核，不视为厂家原封BOX。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "source-f5606b4c192cd09542404bdea20a7550",
+      "groupId": "series-badf6d6ba4f59b93",
+      "title": "【パック】TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "status": "supported",
+      "recordKind": "pack",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "wave": null,
+        "member": "【パック】TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889179275&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889179275&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889179275"
+        ]
+      },
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "imageObservation": {
+        "id": "badges-official-lineup",
+        "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+        "sha256": "ab54074e8347bf0d46138ff812d44dac04cff33e3d784604e07ef48e7570b312"
+      },
+      "summary": "Ensky《TVアニメ Fate/strange Fake》ラメキラ闪粉徽章系列，共9款；官方标注约H58×W58×D3mm，材质为马口铁、纸和PET。官方单盒为随机1枚。本条原零售目录标作单包，实际封装与专属条码仍待核实，不套用整盒商品码。",
+      "scope": "Ensky商品页同系列规格和官方实链商品图；只补通用尺寸/材质/款数，单包与BOX规格分别标注",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    }
+  ]
+}

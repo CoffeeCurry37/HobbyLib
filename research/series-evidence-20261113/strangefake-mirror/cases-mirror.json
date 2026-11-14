@@ -1,0 +1,456 @@
+{
+  "at": "2026-11-14T04:56:01.448Z",
+  "rows": [
+    {
+      "itemId": "3c020526-c0b9-4e2e-94ca-31a35eb93ec9",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "アッド 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "アッド 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829403&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829403?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "60daf2c1-03e3-454c-a5b9-72628c398a46",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "フラット&スヴィン 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "フラット&スヴィン 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829409&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829409?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "6ac9f21e-01c2-490e-9d21-1b61cc4cef38",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "全10種セット 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "retailer-complete-set",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "全10種セット 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829411&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829411?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条保留原零售全10种组合范围，实际封装及附属内容待核，不视为厂家原封BOX。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "708bf331-0c71-4bed-aa05-7032e8c0f0c7",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "status": "supported",
+      "recordKind": "unspecified-package",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829400&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829400?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。原记录未注明单包或BOX，本次不补封入数量、专属条码或集齐保证，包装层级继续待查。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "79dbf527-ba81-4510-9ab2-28da8c19857c",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "フラット・エスカルドス 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "フラット・エスカルドス 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829405&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829405?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "91058cac-204e-43f9-95d3-4e7d816a68b0",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "エルメロイII世&グレイ&フラット&スヴィン 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "エルメロイII世&グレイ&フラット&スヴィン 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829410&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829410?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "cc053ede-3f3c-4fe5-8f1a-e28ff7f02cfb",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "グレイB 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "グレイB 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829408&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829408?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条原A/B标记保留；官方合图未标A/B，具体画面对照继续待查。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原作品、产品线和厂商一致，同角色在官方图有多款，A/B对应未明确；只补系列共通事实"
+    },
+    {
+      "itemId": "e218b18d-1beb-4c69-ba31-84f8f43e55e5",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "ロード・エルメロイII世A 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "ロード・エルメロイII世A 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829401&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829401?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条原A/B标记保留；官方合图未标A/B，具体画面对照继续待查。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原作品、产品线和厂商一致，同角色在官方图有多款，A/B对应未明确；只补系列共通事实"
+    },
+    {
+      "itemId": "ec933390-e110-4fae-a735-c6390302bb36",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "ライネス・エルメロイ・アーチゾルテ 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "ライネス・エルメロイ・アーチゾルテ 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829404&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829404?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "f29b3bd6-9f1e-48c5-9bd1-7cb5e6e1310a",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "スヴィン・グラシュエート 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": false,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "スヴィン・グラシュエート 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829406&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829406?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条保留原目录所列单款身份，未重新命名或变更角色。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原目录作品、产品线和厂商与官方一致；系列通用事实独立于原挂牌状态，保留单款/零售组合类型"
+    },
+    {
+      "itemId": "f3dca48d-76ea-44df-bd9e-75201306ff81",
+      "groupId": "series-27a7fb010a9ce561",
+      "title": "ロード・エルメロイII世B 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+      "status": "supported",
+      "recordKind": "single",
+      "nameConflict": false,
+      "variantPending": true,
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+        "wave": null,
+        "member": "ロード・エルメロイII世B 「ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=608829407&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/608829407?tenpo_cd="
+        ]
+      },
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "officialTitle": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- トレーディングミラーチャーム",
+      "imageObservation": {
+        "id": "mirror-official-lineup",
+        "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+        "sha256": "2685adb373c5787e7167d694c1452f895ce12779ee235c29264661ca58989e4d"
+      },
+      "summary": "卡纳莉亚（カナリア）《ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-》亚克力镜面挂件系列，共10款，背面为镜面并附珠链。动画官方公告标注最大尺寸约65×65mm、发售期为2019年9月下旬。本条原A/B标记保留；官方合图未标A/B，具体画面对照继续待查。",
+      "scope": "动画官方商品公告本挂件段及官方实链合图；最大尺寸65×65mm、亚克力、珠链、10款，排除同页其他商品参数",
+      "notes": "仅补空简介并追加两条出处；原认可、原名、空ISBN/JAN、图片、个人字段、挂牌历史和关系保留。同编号原详情与原图不可读，不推断包装或按排列确定A/B。",
+      "identityMatch": "原作品、产品线和厂商一致，同角色在官方图有多款，A/B对应未明确；只补系列共通事实"
+    }
+  ]
+}

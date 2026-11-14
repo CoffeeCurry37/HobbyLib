@@ -1,0 +1,46 @@
+{
+  "at": "2026-11-14T04:56:01.448Z",
+  "facts": [
+    {
+      "key": "badges",
+      "source": {
+        "url": "https://www.ensky.co.jp/item/31780.html",
+        "at": "2026-11-14T04:47:47.601Z",
+        "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072"
+      },
+      "sourceRole": "manufacturer",
+      "manufacturer": "エンスカイ",
+      "types": 9,
+      "size": "约H58×W58×D3mm",
+      "materials": [
+        "马口铁",
+        "纸",
+        "PET"
+      ],
+      "singleBoxCount": 1,
+      "boxContainsSingleBoxes": 9,
+      "boxCompletesSet": true,
+      "boxProductCode": "4970381927332",
+      "scope": "产品页规格仅作用于该系列；BOX商品码不写入原空JAN，原零售单包/全套与厂家BOX区分。海报为2026年7月预告，不推定7月30日为官方实际日期。"
+    },
+    {
+      "key": "mirror",
+      "source": {
+        "url": "https://anime.elmelloi.com/news/?id=51121",
+        "at": "2026-11-14T04:48:00.294Z",
+        "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0"
+      },
+      "sourceRole": "anime-official",
+      "manufacturer": "株式会社カナリア",
+      "types": 10,
+      "size": "约65×65mm（最大尺寸）",
+      "material": "亚克力",
+      "ballChain": true,
+      "reverseMirrorShown": true,
+      "releaseWindow": "2019年9月下旬",
+      "scope": "只取镜面挂件段落，排除同公告的立牌/钥匙扣/卡套尺寸。最大尺寸不是每款精确长宽；无官方A/B映射或本页BOX封入说明。"
+    }
+  ],
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

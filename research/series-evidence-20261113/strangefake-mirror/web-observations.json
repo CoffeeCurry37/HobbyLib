@@ -1,0 +1,71 @@
+[
+  {
+    "id": "badges-official-poster",
+    "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764a49a3.jpg",
+    "at": "2026-11-14T04:56:01.448Z",
+    "sourceAt": "2026-11-14T04:53:32.679Z",
+    "sourceSha256": "1dc5fc7dfb036606d46516cc9898f668891c047c76509a45294d3029cb770393",
+    "kind": "visual-observation-of-official-linked-image",
+    "facts": {
+      "typesShown": 9,
+      "visibleNameBands": [
+        "SABER",
+        "ARCHER",
+        "LANCER",
+        "FRANCESCA PRELATI"
+      ],
+      "scope": "5个装饰背景款和4个名字带款；名字带明确为FRANCESCA PRELATI，不是原目录的フラット・エスカルドス。仅记录看得见的文字，未改原名。"
+    }
+  },
+  {
+    "id": "mirror-official-lineup",
+    "url": "https://anime.elmelloi.com/news/SYS/CONTENTS/2019071110374277926864/w776",
+    "at": "2026-11-14T04:56:01.448Z",
+    "sourceAt": "2026-11-14T04:53:32.723Z",
+    "sourceSha256": "88a2add139d12762bb185f6e7b99cfbda0a5abdf5582a704001a0542e6ba5a27",
+    "kind": "visual-observation-of-official-linked-image",
+    "facts": {
+      "typesShown": 10,
+      "reverseMirrorShown": true,
+      "ballChainsShown": true,
+      "visibleEnglishNames": [
+        "Lord El-Melloi II",
+        "Gray",
+        "Add",
+        "Reines El-Melloi Archisorte",
+        "Flat Escardos",
+        "Svin Glascheit"
+      ],
+      "scope": "图示同角色多款和双人/四人画面；没有日文A/B标记，不按排列顺序指定原A/B。"
+    }
+  },
+  {
+    "id": "badges-official-saber",
+    "url": "https://www.enskyshop.com/html/upload/save_image/0424113725_69ead765157f0.jpg",
+    "at": "2026-11-14T04:56:01.448Z",
+    "sourceAt": "2026-11-14T04:53:33.587Z",
+    "sourceSha256": "4b9831232bf79fef9cd0a2c444a511d1604cb0ef251d258088ce7af8623c5229",
+    "kind": "visual-observation-of-official-linked-image",
+    "facts": {
+      "scope": "单张红底王冠/披风Saber设计近图；不作为其余单款的原零售图。"
+    }
+  },
+  {
+    "id": "badges-official-lineup",
+    "url": "https://www.enskyshop.com/html/upload/save_image/0424113724_69ead764d7a7a.jpg",
+    "at": "2026-11-14T04:56:01.448Z",
+    "sourceAt": "2026-11-14T04:53:34.620Z",
+    "sourceSha256": "8c8c05fedfb466adb85a941177adeec6e9d18af780e8385614810535bd387280",
+    "kind": "visual-observation-of-official-linked-image",
+    "facts": {
+      "typesShown": 9,
+      "visibleNameBands": [
+        "SABER",
+        "ARCHER",
+        "LANCER",
+        "FRANCESCA PRELATI"
+      ],
+      "scope": "5个装饰背景款和4个名字带款；名字带明确为FRANCESCA PRELATI，不是原目录的フラット・エスカルドス。仅记录看得见的文字，未改原名。"
+    }
+  }
+]
