@@ -1,0 +1,16 @@
+{
+  "clientDate": "2026-11-14",
+  "timezone": "America/Chicago",
+  "stage": "prepared-no-production-write",
+  "candidates": 19,
+  "prepared": 19,
+  "productionApplied": 0,
+  "wholePending": 0,
+  "fieldPendingRecords": 3,
+  "fieldPendingFile": "field-pending.json",
+  "simulation": "simulation.json",
+  "previousOutstanding": "../melty-capsule/resume.json",
+  "previousFinalCommit": "7576fe5af5ad0143e4d4c7dbdbe6fd0d08a7f25a",
+  "nextAction": "核对同站所有者及实时目标后，单批补19条空简介及两条来源；读回、关闭维护并实测401。",
+  "noReplay": "历史全部成功动作不重放；此包尚未正式写入。"
+}

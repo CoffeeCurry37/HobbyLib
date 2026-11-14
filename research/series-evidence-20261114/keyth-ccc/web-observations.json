@@ -1,0 +1,90 @@
+[
+  {
+    "id": "keyth-official-lineup",
+    "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+    "at": "2026-11-14T20:13:55.577Z",
+    "sourceAt": "2026-11-14T20:11:28.910Z",
+    "sourceSha256": "5e3cfa952299099c01f77b6f0293e147ba679eb60c1dec39b858046e06669446",
+    "kind": "visual-observation-of-official-linked-image",
+    "facts": {
+      "designsShown": 7,
+      "layout": [
+        2,
+        3,
+        2
+      ],
+      "scope": "七个圆形迷你角色徽章设计，格纹及紫/青装饰背景、SAMPLE水印；不从视觉推定材质、精确尺寸、包装条码或集齐保证。"
+    }
+  },
+  {
+    "id": "keyth-retailer-specs",
+    "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+    "at": "2026-11-14T20:13:55.577Z",
+    "kind": "public-web-text-observation",
+    "sourceRole": "retailer",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希",
+    "facts": {
+      "officialProductLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+      "brand": "カーテン魂",
+      "boxCount": 7,
+      "diameterMm": 57,
+      "materials": [
+        "纸",
+        "钢等"
+      ],
+      "randomlyPacked": true,
+      "guaranteedComplete": false,
+      "plannedDelivery": "2026年9月内",
+      "scope": "明确标注为Tokyo Otaku Mode销售资料；原HTML采集不可用。交货计划不当作实际发售日或现货。"
+    }
+  },
+  {
+    "id": "keyth-retailer-box-binding",
+    "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+    "at": "2026-11-14T20:13:55.577Z",
+    "kind": "public-web-search-text-observation",
+    "sourceRole": "retailer",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希",
+    "facts": {
+      "shop": "駿河屋メルカリ店",
+      "managementCode": "881005960000",
+      "originalCatalogueCode": "881005960",
+      "manufacturer": "Key-th",
+      "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+      "boxCount": 7,
+      "types": 7,
+      "diameterMm": 57,
+      "materials": [
+        "纸",
+        "钢"
+      ],
+      "names": [
+        "アヤカ・サジョウ",
+        "セイバー",
+        "銀狼の合成獣",
+        "ランサー",
+        "フラット・エスカルドス＆バーサーカー",
+        "繰丘椿＆ライダー",
+        "シグマ"
+      ],
+      "warning": "1BOX不一定集齐",
+      "scope": "同一零售管理编号前九位及产品名明确对应原BOX；不能外推为零售全套包装或全部单包条码。"
+    }
+  },
+  {
+    "id": "ccc5-retailer-date-difference",
+    "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/503115085",
+    "at": "2026-11-14T20:13:55.577Z",
+    "kind": "public-web-search-text-observation",
+    "sourceRole": "retailer",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希",
+    "facts": {
+      "title": "フェイト/エクストラ CCC(5) / ろび～な",
+      "code": "503115085",
+      "isbn": "9784048111683",
+      "retailerDate": "2020-02-25",
+      "publisherDate": "2020-02-22",
+      "scope": "卷号、作者及书号一致但日期不同；两者保留，不据多数来源消除差异。"
+    }
+  }
+]

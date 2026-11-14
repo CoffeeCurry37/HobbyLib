@@ -1,0 +1,49 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';import {read,write,cached,clean,hash} from './four-series-common.mjs';
+const dir='research/series-evidence-20261114/keyth-ccc',priv='work/series-evidence-20261114/keyth-ccc',at=new Date().toISOString();assert.ok(!fs.existsSync(priv+'/apply-receipts.jsonl'));
+const snapshot=read('work/v6/production-after.json'),originals=new Map(snapshot.items.map(i=>[i.id,i]));
+const norm=s=>s.normalize('NFKC').replace(/\s+/g,' ').trim(),strip=s=>norm(clean(s.replace(/<script[\s\S]*?<\/script>/g,'').replace(/<style[\s\S]*?<\/style>/g,'').replace(/<[^>]+>/g,' ')));
+const books=read(priv+'/book-facts.json').map(({url})=>{
+ const {body:b,source}=cached(url),data=JSON.parse(b.match(/window\.item\s*=\s*(\{[^\r\n]+\});/)[1]);
+ const title=strip(b.match(/<h1[^>]+itemprop="name"[^>]*>([\s\S]*?)<\/h1>/)?.[1]||''),volume=Number(title.match(/\((\d+)\)/)?.[1]),isbn=b.match(/<dd[^>]+itemprop="isbn"[^>]*>\s*(\d{13})\s*<\/dd>/)?.[1],pages=Number(b.match(/itemprop="numberOfPages"[^>]*>\s*(\d+)/)?.[1]),format=strip(b.match(/<dd class="detail-edition-text">([^<]+)/)?.[1]||'');
+ assert.equal(data.item_code,new URL(url).pathname.split('/').filter(Boolean).at(-1));assert.equal(norm(data.disp_title),title);assert.equal(data.isbn_13,isbn);assert.equal(data.page_num,pages);assert.equal(format,volume<=4?'B6変形判':'B6判');assert.equal(data.togo_item_kbn,1);assert.equal(data.product_form,5);assert.equal(data.jan,'');assert.ok(!data.magazine_jan);
+ const start=b.indexOf('id="book-title-sp"'),end=b.indexOf('同じシリーズ',start),body=strip(b.slice(start,end>start?end:start+20000));assert.ok(body.includes('紙書籍'));
+ const credits=strip(data.author_name1);assert.ok(credits.includes('ろび~な')&&credits.includes('TYPE-MOON/マーベラス'));assert.ok(strip(b.match(/<title>([\s\S]*?)<\/title>/)[1]).includes('角川コミックス・エース'));
+ return{source,officialTitle:title,volume,isbn,pages,format,releaseDate:data.release_date,credits,label:'角川コミックス・エース',medium:'paper',scope:'本商品纸本DOM与window.item交叉核对；不采用电子版、FoxTail或游戏资料。'};
+}).sort((a,b)=>a.volume-b.volume);assert.deepEqual(books.map(f=>f.volume),[1,2,3,4,5,6,7,8]);
+const official=cached('https://www.curtain-damashii.com/item/badgebox_fatesf02/'),officialText=strip(official.body);assert.ok(officialText.includes('トレーディング缶バッジBOX(ミニキャラ)7個入り')&&officialText.includes('株式会社Key-th'));
+const imageUrl='https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg',receipt=fs.readFileSync(priv+'/image-capture.receipts.jsonl','utf8').trim().split('\n').map(JSON.parse).find(r=>r.url===imageUrl);assert.equal(receipt.status,'captured');assert.equal(hash(fs.readFileSync('work/series-evidence-20261103/cache/'+receipt.file)),receipt.sha256);assert.ok(official.body.includes(imageUrl));
+const tom='https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item',mercari='https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM',dateUrl='https://www.suruga-ya.jp/kaitori/kaitori_detail/503115085';
+const names=['アヤカ・サジョウ','セイバー','銀狼の合成獣','ランサー','フラット・エスカルドス＆バーサーカー','繰丘椿＆ライダー','シグマ'];
+const observations=[
+{id:'keyth-official-lineup',url:imageUrl,at,sourceAt:receipt.at,sourceSha256:receipt.sha256,kind:'visual-observation-of-official-linked-image',facts:{designsShown:7,layout:[2,3,2],scope:'七个圆形迷你角色徽章设计，格纹及紫/青装饰背景、SAMPLE水印；不从视觉推定材质、精确尺寸、包装条码或集齐保证。'}},
+{id:'keyth-retailer-specs',url:tom,at,kind:'public-web-text-observation',sourceRole:'retailer',hashMeaning:'观察JSON哈希，不是原HTML哈希',facts:{officialProductLine:'Fate/strange Fake トレーディング缶バッジ ミニキャラ',brand:'カーテン魂',boxCount:7,diameterMm:57,materials:['纸','钢等'],randomlyPacked:true,guaranteedComplete:false,plannedDelivery:'2026年9月内',scope:'明确标注为Tokyo Otaku Mode销售资料；原HTML采集不可用。交货计划不当作实际发售日或现货。'}},
+{id:'keyth-retailer-box-binding',url:mercari,at,kind:'public-web-search-text-observation',sourceRole:'retailer',hashMeaning:'观察JSON哈希，不是原HTML哈希',facts:{shop:'駿河屋メルカリ店',managementCode:'881005960000',originalCatalogueCode:'881005960',manufacturer:'Key-th',productLine:'Fate/strange Fake トレーディング缶バッジ ミニキャラ',boxCount:7,types:7,diameterMm:57,materials:['纸','钢'],names,warning:'1BOX不一定集齐',scope:'同一零售管理编号前九位及产品名明确对应原BOX；不能外推为零售全套包装或全部单包条码。'}},
+{id:'ccc5-retailer-date-difference',url:dateUrl,at,kind:'public-web-search-text-observation',sourceRole:'retailer',hashMeaning:'观察JSON哈希，不是原HTML哈希',facts:{title:'フェイト/エクストラ CCC(5) / ろび～な',code:'503115085',isbn:'9784048111683',retailerDate:'2020-02-25',publisherDate:'2020-02-22',scope:'卷号、作者及书号一致但日期不同；两者保留，不据多数来源消除差异。'}}
+];write(dir+'/web-observations.json',observations);
+const ref=id=>{const o=observations.find(o=>o.id===id);return{id:o.id,url:o.url,sha256:hash(JSON.stringify(o))};};
+write(dir+'/official-facts.json',{at,books,keyth:{source:official.source,manufacturer:'Key-th／カーテン魂',productLine:'迷你角色徽章',officialBoxCount:7,officialImageDesigns:7,retailerSpecs:ref('keyth-retailer-specs'),scope:'厂家页/实链图证明商品线、BOX7个及七款图；尺寸、材质、随机封入来自销售资料，来源层级明确分开。'},fullProductVerified:0,fullSeriesVerified:0});
+const bind=i=>({...Object.fromEntries(['isbn','jan','platform','edition','productLine','wave','member','image','catalogueKey','catalogueGroupType'].map(k=>[k,i[k]??null])),images:i.images??null,offerUrls:[...new Set(i.offers.map(o=>o.url))].sort()});
+const notes='仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。',fields=[];
+const keyth=read(priv+'/keyth-targets.json').map(t=>{
+ const i=originals.get(t.id);assert.ok(!i.editorial&&!i.summary&&!i.locked&&!i.manualFields?.length);assert.equal(i.jan,'');assert.equal(i.isbn,'');assert.ok(i.description.includes('Key-th'));assert.ok(i.title.includes('ミニキャラ'));
+ const recordKind=i.title.startsWith('全7種セット')?'retailer-complete-set':i.title.startsWith('【ボックス】')?'box':i.title.startsWith('【パック】')?'pack':'single';
+ if(recordKind==='single'){const name=i.title.split(' 「')[0].replaceAll('&','＆');assert.ok(names.includes(name));}
+ if(recordKind==='box')assert.ok(i.offers.some(o=>o.url==='https://www.suruga-ya.jp/product/detail/881005960'));
+ const detail=recordKind==='retailer-complete-set'?'本条保留原零售全7种组合范围，实际封装、附属内容和专属条码仍待查，不视为厂家原封BOX。':recordKind==='box'?'厂家商品页明确BOX为7个；销售资料注明随机封入、不保证一盒集齐。':recordKind==='pack'?'本条保留原单包层级；实际单包封装、封入数量及专属条码仍待核，不套用BOX7个规格。':'本条保留原目录单款身份，角色名称可对应销售方同系列清单；不改变名称或图片。';
+ if(['pack','retailer-complete-set'].includes(recordKind))fields.push({itemId:i.id,title:i.title,fields:recordKind==='pack'?['单包实际封装','封入数量','单包专属条码']:['零售全7种组合实际封装','附属内容','套组专属条码'],reason:'厂家BOX及销售方系列信息不能证明这个原零售编号的单包/全套封装与附件；原详情和原图不可读。',needed:'同编号可读商品详情、包装图或可绑定的实物依据。',appliedSafeSummary:false});
+ return{itemId:i.id,groupId:t.groupId,title:i.title,status:'supported',recordKind,identityBinding:bind(i),source:official.source,sourceRole:'manufacturer',officialTitle:'Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り',imageObservation:ref('keyth-official-lineup'),retailerObservation:ref('keyth-retailer-specs'),lineupObservation:ref('keyth-retailer-box-binding'),second:tom,identityMatch:'原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定',scope:'官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数',summary:'Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。'+detail,notes:notes+' 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。'};
+});
+const ccc=read(priv+'/ccc-targets.json').map(t=>{
+ const i=originals.get(t.id),base={itemId:i.id,groupId:t.groupId,title:i.title,identityBinding:bind(i),status:'supported',sourceRole:'publisher',notes};assert.ok(!i.editorial&&!i.summary&&!i.locked&&!i.manualFields?.length);
+ if(i.id.startsWith('family-')){
+  assert.ok(i.description.includes('同出版社、同媒介版本'));const childIds=snapshot.relations.filter(r=>r.fromId===i.id&&r.kind==='contains').map(r=>r.toId);assert.equal(childIds.length,8);assert.ok(childIds.every(id=>read(priv+'/ccc-targets.json').some(t=>t.id===id)));
+  return{...base,source:books[0].source,additionalSources:[books.at(-1).source],officialTitle:i.title,recordKind:'logical-series',childIds,scope:'原逻辑目录及8条纸本单卷关系核对；不认定实体套装、电子版或FoxTail',summary:'《Fate/EXTRA CCC》纸本漫画系列目录，由ろび～な绘制，TYPE-MOON／マーベラス原作，官方书目列入角川コミックス・エース。现有目录关联第1至8卷，各卷有独立ISBN；本条用于组织单卷，不表示实体套装或已拥有全套。'};
+ }
+ const f=books.find(f=>f.isbn===i.isbn);assert.ok(f);assert.equal(Number(norm(i.title).match(/\((\d+)\)/)?.[1]),f.volume);assert.ok(i.evidence.some(e=>e.url===f.source.url));assert.equal(i.jan,f.volume===6?f.isbn:'');
+ const dateConflict=f.volume===5;if(dateConflict){assert.equal(f.releaseDate,'2020-02-22');fields.push({itemId:i.id,title:i.title,fields:['发售日期'],publisherSource:f.source,retailerObservation:ref('ccc5-retailer-date-difference'),reason:'同卷同ISBN出版社为2020-02-22，駿河屋为2020-02-25；暂不补日期。',needed:'发行说明或可区分出版社发售与零售上架日期的明确依据。',appliedSafeSummary:false});}
+ return{...base,source:f.source,officialTitle:f.officialTitle,officialIsbn:f.isbn,volume:f.volume,dateConflict,recordKind:'publisher-bound-volume',identityMatch:'原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN',...(dateConflict?{retailerObservation:ref('ccc5-retailer-date-difference')} : {}),scope:'本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写',summary:'《Fate/EXTRA CCC》第'+f.volume+'卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注'+(f.volume<=4?'B6变形判':'B6判')+'、'+f.pages+'页，ISBN '+f.isbn+'。'+(dateConflict?'出版社与零售资料的日期存在差异，暂不补写发售日期。':'官方纸本发售日为'+f.releaseDate+'；具体印次不作推定。')};
+});
+assert.equal(keyth.length,10);assert.equal(ccc.length,9);assert.equal(fields.length,3);
+write(dir+'/cases-keyth.json',{at,rows:keyth});write(dir+'/cases-ccc.json',{at,rows:ccc});write(dir+'/pending.json',[]);
+write(dir+'/field-pending.json',{at,items:fields,scopeCounts:{packaging:2,bookDate:1,distinctRecords:3},note:'19条可补明确支持的身份/规格；单包、零售全套及漫画第5卷日期仍待查。保留全部历史未决项，不计完整核实。'});
+console.log(JSON.stringify({reviewed:19,ready:19,wholePending:0,fieldPending:3,books:8,logicalDirectories:1,badgeSingles:7,box:1,pack:1,retailSet:1}));

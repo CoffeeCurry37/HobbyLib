@@ -1,0 +1,525 @@
+{
+  "at": "2026-11-14T20:13:55.577Z",
+  "rows": [
+    {
+      "itemId": "2998bcf0-f622-419e-bfd2-1581e7990614",
+      "groupId": "series-e4893849203fceb4",
+      "title": "銀狼の合成獣 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "銀狼の合成獣 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207638&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207638&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207638"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原目录单款身份，角色名称可对应销售方同系列清单；不改变名称或图片。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "3147c156-bd96-49b3-a4a9-8b95703cf211",
+      "groupId": "series-e4893849203fceb4",
+      "title": "【ボックス】Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+      "status": "supported",
+      "recordKind": "box",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "【ボックス】Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=881005960&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=881005960&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/881005960"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。厂家商品页明确BOX为7个；销售资料注明随机封入、不保证一盒集齐。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "4740b478-8e70-4378-997e-2133cdf758f4",
+      "groupId": "series-e4893849203fceb4",
+      "title": "ランサー 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "ランサー 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207639&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207639&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207639"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原目录单款身份，角色名称可对应销售方同系列清单；不改变名称或图片。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "49941fce-539f-4d74-a2eb-9617734bb774",
+      "groupId": "series-e4893849203fceb4",
+      "title": "アヤカ・サジョウ 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "アヤカ・サジョウ 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207636&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207636&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207636"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原目录单款身份，角色名称可对应销售方同系列清单；不改变名称或图片。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "4b2cfce1-443f-4adf-8647-1955f5705f4a",
+      "groupId": "series-e4893849203fceb4",
+      "title": "フラット・エスカルドス&バーサーカー 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "フラット・エスカルドス&バーサーカー 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207640&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207640&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207640"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原目录单款身份，角色名称可对应销售方同系列清单；不改变名称或图片。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "50e78b01-eb8f-4d2f-b329-032590a81df5",
+      "groupId": "series-e4893849203fceb4",
+      "title": "シグマ 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "シグマ 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207642&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207642&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207642"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原目录单款身份，角色名称可对应销售方同系列清单；不改变名称或图片。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "a661b6f5-ee92-4d83-8e2c-44921fb2f96a",
+      "groupId": "series-e4893849203fceb4",
+      "title": "繰丘椿&ライダー 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "繰丘椿&ライダー 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207641&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207641&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207641"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原目录单款身份，角色名称可对应销售方同系列清单；不改变名称或图片。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "cea57bac-3c51-46fd-a574-63850127585b",
+      "groupId": "series-e4893849203fceb4",
+      "title": "【パック】Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+      "status": "supported",
+      "recordKind": "pack",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "【パック】Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207635&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207635&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207635"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原单包层级；实际单包封装、封入数量及专属条码仍待核，不套用BOX7个规格。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "d4adec22-d962-4dd0-9bee-164112f550d0",
+      "groupId": "series-e4893849203fceb4",
+      "title": "セイバー 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "status": "supported",
+      "recordKind": "single",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "セイバー 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207637&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207637&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207637"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原目录单款身份，角色名称可对应销售方同系列清单；不改变名称或图片。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    },
+    {
+      "itemId": "fcc79f6b-5507-4b05-ad90-45115aa6b559",
+      "groupId": "series-e4893849203fceb4",
+      "title": "全7種セット 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "status": "supported",
+      "recordKind": "retailer-complete-set",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+        "wave": null,
+        "member": "全7種セット 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=889207643&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=889207643&size=m"
+        ],
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/889207643"
+        ]
+      },
+      "source": {
+        "url": "https://www.curtain-damashii.com/item/badgebox_fatesf02/",
+        "at": "2026-11-02T01:24:28.145Z",
+        "sha256": "75c7b920312ccd2f683ccb42c321c83b2b1852a2d3550721396bf8069c50b9f3"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/strange Fake トレーディング缶バッジBOX（ミニキャラ）7個入り",
+      "imageObservation": {
+        "id": "keyth-official-lineup",
+        "url": "https://www.curtain-damashii.com/parts/item_img/fatesf/badgebox_fatesf02/badgebox_fatesf02_1.jpg",
+        "sha256": "469dd61fadb979683d44326dac71f7ef6fefec9c8f875e212cbf25f825f357a2"
+      },
+      "retailerObservation": {
+        "id": "keyth-retailer-specs",
+        "url": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+        "sha256": "499928ff85f9b19424aeefb500fedbabcba7aaab86a2a51ae328771e5a7de5dd"
+      },
+      "lineupObservation": {
+        "id": "keyth-retailer-box-binding",
+        "url": "https://jp.mercari.com/shops/product/2JWcovdZhLTUjpTfcmNdHM",
+        "sha256": "b751d41c89d5cd0a1860cd5fc05a299e0a2528aaa56a0e05ca88c2e7b104034c"
+      },
+      "second": "https://ja.otakumode.com/products/fate-strange-fake-box-7-fate-strange-fake-trading-can-badge-mini-character-pre-order-item",
+      "identityMatch": "原作品、迷你角色商品线和Key-th厂商一致；原具名单款与销售方7款清单匹配，BOX另由同管理编号销售记录绑定",
+      "scope": "官方只证商品线、BOX7个和合图；约57mm、纸/钢等及随机封入来自Tokyo Otaku Mode/駿河屋销售资料，非厂家原文参数",
+      "summary": "Key-th（カーテン魂）《Fate/strange Fake》迷你角色徽章系列，官方合图展示7款设计。销售资料列示直径约57mm、材质为纸和钢等。本条保留原零售全7种组合范围，实际封装、附属内容和专属条码仍待查，不视为厂家原封BOX。",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。 规格及随机封入属销售资料；不补实际发售日期、不套用执事女仆版、不改原空JAN。"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "at": "2026-11-14T20:13:55.577Z",
+  "rows": [
+    {
+      "itemId": "family-131bb27b20b4e981feff846ba6221c01",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "",
+        "member": "フェイト/エクストラ CCC",
+        "image": "https://cdn.kdkw.jp/cover_1000/321809/321809000514.webp",
+        "catalogueKey": "books:kadokawa:manga:フェイトエクストラccc:",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321809/321809000514.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321509000559/",
+        "at": "2026-11-14T10:42:50.641Z",
+        "sha256": "a5bfcdccfa3e92a6bd11edaa9651952e4cba3fe8a8080a2961cbd7254f03005f"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/322303001620/",
+          "at": "2026-11-14T20:11:01.273Z",
+          "sha256": "3410693efca657de30ebee0b18bc4ae8794c964ffe7709448b9ed5858f3f7e1d"
+        }
+      ],
+      "officialTitle": "フェイト/エクストラ CCC",
+      "recordKind": "logical-series",
+      "childIds": [
+        "source-55454724a31577fd1416bae674e8d8e3",
+        "source-e54cfc2791198472639f52965a5e7d5b",
+        "source-0a34434f48ee5188525e31da56c2ad23",
+        "source-0411e26b50bbc814386ed200e0f09564",
+        "source-d0137590a7157cf2ececdf497a026393",
+        "source-afbd12d81f9218720dbae277e6d30177",
+        "source-67e9b220c83bf15573179735de33f2e3",
+        "source-a0da2de1b8ead294a588b1335b090222"
+      ],
+      "scope": "原逻辑目录及8条纸本单卷关系核对；不认定实体套装、电子版或FoxTail",
+      "summary": "《Fate/EXTRA CCC》纸本漫画系列目录，由ろび～な绘制，TYPE-MOON／マーベラス原作，官方书目列入角川コミックス・エース。现有目录关联第1至8卷，各卷有独立ISBN；本条用于组织单卷，不表示实体套装或已拥有全套。"
+    },
+    {
+      "itemId": "source-0411e26b50bbc814386ed200e0f09564",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC (4)",
+      "identityBinding": {
+        "isbn": "9784041078129",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "4",
+        "member": "フェイト/エクストラ CCC (4)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321809/321809000514.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321809/321809000514.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321809000514/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321809000514/",
+        "at": "2026-11-14T20:10:55.568Z",
+        "sha256": "f57b57906de9236b9d9cab97047f669de5f52d52f8e16f6b51f105cc9deec2d6"
+      },
+      "officialTitle": "フェイト/エクストラ CCC (4)",
+      "officialIsbn": "9784041078129",
+      "volume": 4,
+      "dateConflict": false,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN",
+      "scope": "本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写",
+      "summary": "《Fate/EXTRA CCC》第4卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注B6变形判、164页，ISBN 9784041078129。官方纸本发售日为2019-02-09；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-0a34434f48ee5188525e31da56c2ad23",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC (5)",
+      "identityBinding": {
+        "isbn": "9784048111683",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "5",
+        "member": "フェイト/エクストラ CCC (5)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321909/321909000434.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321909/321909000434.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321909000434/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321909000434/",
+        "at": "2026-11-14T20:10:56.322Z",
+        "sha256": "376a6ea36b1160d510d343c2be913f3541b9755b77de8eef4f75c8944c7c010f"
+      },
+      "officialTitle": "フェイト/エクストラ CCC (5)",
+      "officialIsbn": "9784048111683",
+      "volume": 5,
+      "dateConflict": true,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN",
+      "retailerObservation": {
+        "id": "ccc5-retailer-date-difference",
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/503115085",
+        "sha256": "448c52a7efe08b5f868e8e0637747bfafba8d1f52edd73123a7a933c13b34794"
+      },
+      "scope": "本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写",
+      "summary": "《Fate/EXTRA CCC》第5卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注B6判、164页，ISBN 9784048111683。出版社与零售资料的日期存在差异，暂不补写发售日期。"
+    },
+    {
+      "itemId": "source-55454724a31577fd1416bae674e8d8e3",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC(6) (書籍)[KADOKAWA]《在庫切れ》",
+      "identityBinding": {
+        "isbn": "9784041110041",
+        "jan": "9784041110041",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "6",
+        "member": "フェイト/エクストラ CCC(6) (書籍)[KADOKAWA]《在庫切れ》",
+        "image": "https://cdn.kdkw.jp/cover_1000/322009/322009000421.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322009/322009000421.webp"
+        ],
+        "offerUrls": [
+          "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-019476",
+          "https://www.kadokawa.co.jp/product/322009000421/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322009000421/",
+        "at": "2026-11-14T20:10:57.101Z",
+        "sha256": "7840444d4318c5e69b290268610034f3dfe44ccd97164d511831ac0266e23700"
+      },
+      "officialTitle": "フェイト/エクストラ CCC (6)",
+      "officialIsbn": "9784041110041",
+      "volume": 6,
+      "dateConflict": false,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN",
+      "scope": "本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写",
+      "summary": "《Fate/EXTRA CCC》第6卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注B6判、162页，ISBN 9784041110041。官方纸本发售日为2021-02-10；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-67e9b220c83bf15573179735de33f2e3",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC (2)",
+      "identityBinding": {
+        "isbn": "9784041050248",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "2",
+        "member": "フェイト/エクストラ CCC (2)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321607/321607000567.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321607/321607000567.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321607000567/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321607000567/",
+        "at": "2026-11-14T20:10:57.843Z",
+        "sha256": "85f52bbc950233ccc99efc1a636d502a0f3cfefa6c98827e5283130661708a2e"
+      },
+      "officialTitle": "フェイト/エクストラ CCC (2)",
+      "officialIsbn": "9784041050248",
+      "volume": 2,
+      "dateConflict": false,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN",
+      "scope": "本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写",
+      "summary": "《Fate/EXTRA CCC》第2卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注B6变形判、164页，ISBN 9784041050248。官方纸本发售日为2016-11-26；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-a0da2de1b8ead294a588b1335b090222",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC (7)",
+      "identityBinding": {
+        "isbn": "9784041139226",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "7",
+        "member": "フェイト/エクストラ CCC (7)",
+        "image": "https://cdn.kdkw.jp/cover_1000/322303/322303001619.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322303/322303001619.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/322303001619/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322303001619/",
+        "at": "2026-11-14T20:10:58.965Z",
+        "sha256": "24a58f852ed110825c862a9e239bc8316bd7c5af6889e850b6337bc39ecf03e0"
+      },
+      "officialTitle": "フェイト/エクストラ CCC (7)",
+      "officialIsbn": "9784041139226",
+      "volume": 7,
+      "dateConflict": false,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN",
+      "scope": "本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写",
+      "summary": "《Fate/EXTRA CCC》第7卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注B6判、160页，ISBN 9784041139226。官方纸本发售日为2024-03-08；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-afbd12d81f9218720dbae277e6d30177",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC (1)",
+      "identityBinding": {
+        "isbn": "9784041038604",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "1",
+        "member": "フェイト/エクストラ CCC (1)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321509/321509000559.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321509/321509000559.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321509000559/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321509000559/",
+        "at": "2026-11-14T10:42:50.641Z",
+        "sha256": "a5bfcdccfa3e92a6bd11edaa9651952e4cba3fe8a8080a2961cbd7254f03005f"
+      },
+      "officialTitle": "フェイト/エクストラ CCC (1)",
+      "officialIsbn": "9784041038604",
+      "volume": 1,
+      "dateConflict": false,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN",
+      "scope": "本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写",
+      "summary": "《Fate/EXTRA CCC》第1卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注B6变形判、196页，ISBN 9784041038604。官方纸本发售日为2016-04-26；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-d0137590a7157cf2ececdf497a026393",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC (3)",
+      "identityBinding": {
+        "isbn": "9784041064924",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "3",
+        "member": "フェイト/エクストラ CCC (3)",
+        "image": "https://cdn.kdkw.jp/cover_1000/321709/321709000572.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/321709/321709000572.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/321709000572/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321709000572/",
+        "at": "2026-11-14T20:11:00.135Z",
+        "sha256": "13f9abcb35fdd4f0112ae6180f2150ae0e2101fc370f26ac030c78db41ccd884"
+      },
+      "officialTitle": "フェイト/エクストラ CCC (3)",
+      "officialIsbn": "9784041064924",
+      "volume": 3,
+      "dateConflict": false,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN",
+      "scope": "本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写",
+      "summary": "《Fate/EXTRA CCC》第3卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注B6变形判、196页，ISBN 9784041064924。官方纸本发售日为2018-02-10；具体印次不作推定。"
+    },
+    {
+      "itemId": "source-e54cfc2791198472639f52965a5e7d5b",
+      "groupId": "series-2c99af905c9427ad",
+      "title": "フェイト/エクストラ CCC (8)",
+      "identityBinding": {
+        "isbn": "9784041139233",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "フェイト/エクストラ CCC",
+        "wave": "8",
+        "member": "フェイト/エクストラ CCC (8)",
+        "image": "https://cdn.kdkw.jp/cover_1000/322303/322303001620.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322303/322303001620.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/322303001620/"
+        ]
+      },
+      "status": "supported",
+      "sourceRole": "publisher",
+      "notes": "仅补空简介和两条出处；原名、ISBN/JAN、描述、图片、旧证据、认可、个人字段、挂牌历史和关系保持。",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322303001620/",
+        "at": "2026-11-14T20:11:01.273Z",
+        "sha256": "3410693efca657de30ebee0b18bc4ae8794c964ffe7709448b9ed5858f3f7e1d"
+      },
+      "officialTitle": "フェイト/エクストラ CCC (8)",
+      "officialIsbn": "9784041139233",
+      "volume": 8,
+      "dateConflict": false,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN、作者和已有官方URL与当前纸本书目一致；第6卷原零售JAN保持，不声称出版社另列JAN",
+      "scope": "本卷纸本书目；前4卷B6变形判、后4卷B6判，原书号/零售JAN作用域保留；第5卷日期冲突不写",
+      "summary": "《Fate/EXTRA CCC》第8卷纸本漫画，由ろび～な绘制，TYPE-MOON／マーベラス原作，角川コミックス・エース出版。出版社标注B6判、192页，ISBN 9784041139233。官方纸本发售日为2024-03-08；具体印次不作推定。"
+    }
+  ]
+}

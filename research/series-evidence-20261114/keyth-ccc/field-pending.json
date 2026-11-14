@@ -1,0 +1,55 @@
+{
+  "at": "2026-11-14T20:13:55.577Z",
+  "items": [
+    {
+      "itemId": "cea57bac-3c51-46fd-a574-63850127585b",
+      "title": "【パック】Fate/strange Fake トレーディング缶バッジ ミニキャラ",
+      "fields": [
+        "单包实际封装",
+        "封入数量",
+        "单包专属条码"
+      ],
+      "reason": "厂家BOX及销售方系列信息不能证明这个原零售编号的单包/全套封装与附件；原详情和原图不可读。",
+      "needed": "同编号可读商品详情、包装图或可绑定的实物依据。",
+      "appliedSafeSummary": false
+    },
+    {
+      "itemId": "fcc79f6b-5507-4b05-ad90-45115aa6b559",
+      "title": "全7種セット 「Fate/strange Fake トレーディング缶バッジ ミニキャラ」",
+      "fields": [
+        "零售全7种组合实际封装",
+        "附属内容",
+        "套组专属条码"
+      ],
+      "reason": "厂家BOX及销售方系列信息不能证明这个原零售编号的单包/全套封装与附件；原详情和原图不可读。",
+      "needed": "同编号可读商品详情、包装图或可绑定的实物依据。",
+      "appliedSafeSummary": false
+    },
+    {
+      "itemId": "source-0a34434f48ee5188525e31da56c2ad23",
+      "title": "フェイト/エクストラ CCC (5)",
+      "fields": [
+        "发售日期"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321909000434/",
+        "at": "2026-11-14T20:10:56.322Z",
+        "sha256": "376a6ea36b1160d510d343c2be913f3541b9755b77de8eef4f75c8944c7c010f"
+      },
+      "retailerObservation": {
+        "id": "ccc5-retailer-date-difference",
+        "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/503115085",
+        "sha256": "448c52a7efe08b5f868e8e0637747bfafba8d1f52edd73123a7a933c13b34794"
+      },
+      "reason": "同卷同ISBN出版社为2020-02-22，駿河屋为2020-02-25；暂不补日期。",
+      "needed": "发行说明或可区分出版社发售与零售上架日期的明确依据。",
+      "appliedSafeSummary": false
+    }
+  ],
+  "scopeCounts": {
+    "packaging": 2,
+    "bookDate": 1,
+    "distinctRecords": 3
+  },
+  "note": "19条可补明确支持的身份/规格；单包、零售全套及漫画第5卷日期仍待查。保留全部历史未决项，不计完整核实。"
+}
