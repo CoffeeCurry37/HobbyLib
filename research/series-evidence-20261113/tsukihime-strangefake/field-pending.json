@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-14T04:40:53.315Z",
+  "at": "2026-11-14T04:48:55.451Z",
   "items": [
     {
       "itemId": "bc380108-c000-40d4-992b-6571c4b1475a",
@@ -21,7 +21,7 @@
       },
       "reason": "同卷/同ISBN已确认，但两来源日期不一致；可补身份、作者及页数，日期留待查。",
       "needed": "出版社更正/发行说明或可区分实际发售与零售上架日期的独立依据。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "f82c5aad-7232-48f7-9c3b-51363ccba3dd",
@@ -43,7 +43,7 @@
       },
       "reason": "同卷/同ISBN已确认，但两来源日期不一致；可补身份、作者及页数，日期留待查。",
       "needed": "出版社更正/发行说明或可区分实际发售与零售上架日期的独立依据。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     }
   ],
   "note": "第3卷的2条记录保留日期差异；其余原资料与本轮无关的历史待查不变。"

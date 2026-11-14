@@ -1,12 +1,13 @@
 {
-  "captureReceipts": 16,
-  "uniqueUrls": 16,
+  "captureReceipts": 19,
+  "uniqueUrls": 19,
   "statuses": {
-    "captured": 15,
+    "captured": 18,
     "unavailable": 1
   },
-  "requests": 14,
+  "recordedRequests": 17,
   "cacheHits": 2,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "有限公开采集，网页工具可读零售观察另计；观察JSON哈希不冒充原HTML哈希。费用无账单。",
+  "evidenceScope": "15出版社书目、1零售索引直接抓取失败，改用可读网页观察；3个下一批官方入口仅来源发现。"
 }

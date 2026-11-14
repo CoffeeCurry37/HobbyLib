@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-14T02:57:57.306Z",
+  "at": "2026-11-14T04:48:55.451Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 74,
-  "seriesAwaitingItemReview": 1774,
+  "seriesWithItemReview": 76,
+  "seriesAwaitingItemReview": 1772,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6948,
-  "productionApplied": 5147,
+  "coveredSnapshotItems": 6970,
+  "productionApplied": 5169,
   "protectedExisting": 9,
   "pendingEvidence": 1791,
   "freshVersionSkips": 1,
@@ -759,9 +759,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-e7b0b5feefeb87f2",
+      "label": "真月譚 月姫",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-0ca1528ecc218583",
+      "label": "新装版 Fate/strange Fake",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261113/link-samurai/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261113/tsukihime-strangefake/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6

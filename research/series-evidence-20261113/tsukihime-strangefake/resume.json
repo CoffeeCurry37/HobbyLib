@@ -1,23 +1,54 @@
 {
-  "at": "2026-11-14T04:44:32.815Z",
-  "localDate": "2026-11-13",
-  "stage": "prepared-no-production-write",
-  "candidates": 22,
-  "prepared": 22,
-  "productionApplied": 0,
-  "pendingEvidence": 0,
-  "fieldPendingRecords": 2,
-  "plannedBatchSizes": [
-    20,
-    2
-  ],
+  "at": "2026-11-14T04:48:55.451Z",
+  "completedLocalDate": "2026-11-13",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
   "groups": [
-    "series-e7b0b5feefeb87f2",
-    "series-0ca1528ecc218583"
+    {
+      "groupId": "series-e7b0b5feefeb87f2",
+      "label": "真月譚 月姫",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-0ca1528ecc218583",
+      "label": "新装版 Fate/strange Fake",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
   ],
-  "previousCommit": "e8117d53452d76ca440e823dd8807d0b8db7cee6",
+  "candidates": 22,
+  "productionApplied": 22,
+  "batches": 2,
+  "pendingEvidence": 0,
+  "pendingFile": "pending.json",
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
+  "fieldPendingRecords": 2,
+  "fieldPendingFile": "field-pending.json",
+  "limitations": [
+    "15个出版社纸本单卷对应19条单卷记录和3个逻辑目录；不把目录视作额外实物或拥有整套",
+    "月姫原ISBN与491前缀JAN分别对应官方isbn_13和magazine_jan；保留两个字段，不推定相等",
+    "新装版4条零售单卷以原管理编号/作者/卷号和零售ISBN绑定官方；原空ISBN/JAN保留",
+    "新装版第3卷两条记录仅补身份/作者/页数；官方2026-03-03与零售2026-03-04差异继续待查，不写日期",
+    "四组同卷多来源与两个同名新装版逻辑目录均保留原ID及关联，不归并；纸本与电子版、漫画与小说、旧版与新装版分开",
+    "仅补空简介和两条证据，完整核实商品/系列仍0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 123,
+  "deploymentId": "appgdep_6af7e79929f081918a874f9a96a4baa9",
+  "siteVersion": 70,
+  "preparedCommit": "4e1ebc97d6ae0632c11230390d8f7f73e148c846",
   "previousOutstanding": "../link-samurai/resume.json",
-  "nextAction": "正式新鲜读取22条、预期版本保护下20+2写入及读回；关闭维护窗口并认证验证401；更新累计及下一批。",
-  "fullProductVerified": 0,
-  "fullSeriesVerified": 0
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮20+2两批22条、前轮LINK/Samurai21条及全部历史成功动作禁止重放。",
+  "note": "本轮2条日期字段及前轮1条整条/7条字段、其他历史未决项沿previousOutstanding链全部保留。"
 }

@@ -1,0 +1,137 @@
+{
+  "at": "2026-11-14T04:48:55.451Z",
+  "stage": "source-discovery-only",
+  "groups": [
+    {
+      "groupId": "series-badf6d6ba4f59b93",
+      "label": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "candidates": 11,
+      "sources": [
+        "https://www.ensky.co.jp/item/31780.html"
+      ],
+      "sourceRole": "manufacturer",
+      "scope": "9单款、1全9种零售组合、1单包；需逐图核棋盘/名字版本、Filia、包装数量及BOX与单包JAN作用域；厂商BOX码不可写入单款。",
+      "status": "official-entry-source-discovery-only"
+    },
+    {
+      "groupId": "series-27a7fb010a9ce561",
+      "label": "ロード・エルメロイII世の事件簿 Grace note トレーディングミラーチャーム",
+      "candidates": 11,
+      "sources": [
+        "https://anime.elmelloi.com/news/?id=51121"
+      ],
+      "sourceRole": "anime-official",
+      "scope": "9单款、1全10种零售组合、1未标包装条目；逐图核A/B和多人组合、原零售编号，单包/BOX与套组分开；旧队列未包含Grey A单条不代表系列只有9款。",
+      "status": "official-entry-source-discovery-only"
+    }
+  ],
+  "observations": [
+    {
+      "url": "https://www.ensky.co.jp/item/31780.html",
+      "at": "2026-11-14T04:47:47.601Z",
+      "sha256": "269f9a4ca1d8405632feee1f68ff06913ec01cb61bb0e3adab7dcc8f763d4072",
+      "sourceRole": "manufacturer",
+      "scope": "仅保存官方系列入口，未逐条核图、包装/条码和零售映射，不计完成。"
+    },
+    {
+      "url": "https://anime.elmelloi.com/news/?id=51121",
+      "at": "2026-11-14T04:48:00.294Z",
+      "sha256": "3591fdf269d73e239d14605cb3cbdee6f049037fb250f31a19c96734bc7d02f0",
+      "sourceRole": "anime-official",
+      "scope": "仅保存官方系列入口，未逐条核图、包装/条码和零售映射，不计完成。"
+    }
+  ],
+  "pendingFirst": "新装版第3卷2条日期缺口及全部previousOutstanding链保留；有独立新证据再核，不重放已成功批次。",
+  "nextRule": "先strange Fakeラメキラ徽章11条，再エルメロイ镜面挂件11条。两组均有明确官方入口，仅来源发现，未逐条补证。",
+  "productionApplied": 0,
+  "deferredCandidates": [
+    {
+      "groupId": "series-88cfca913affa7c3",
+      "label": "威化第12弹",
+      "candidates": 22,
+      "reason": "原投影21个匿名占位加目录；先解决可追踪身份映射，不能把总款数补证算作全部成员完成。"
+    },
+    {
+      "groupId": "series-2055bee462bc50c0",
+      "label": "巴比伦尼亚威化第1弹",
+      "candidates": 21,
+      "reason": "原投影20个匿名占位加目录；与本轮特别弹同类缺口，仍属未逐件研究队列。"
+    },
+    {
+      "groupId": "series-806ed68ef12d1ffc",
+      "label": "西脇だっと Fate/stay night",
+      "candidates": 21,
+      "reason": "派生卷目可能与另一组20条已有认可漫画单卷重叠；需先核对原ID、ISBN及映射，不能覆盖认可资料或直接归并。"
+    },
+    {
+      "groupId": "series-b27ff243c6d91b13",
+      "label": "FGO 電撃コミックアンソロジー",
+      "candidates": 19,
+      "protectedSnapshot": 18,
+      "reason": "原快照18条已有认可及简介；不重复复核，剩余逻辑目录另排。未将来源发现算为本轮逐件研究。"
+    },
+    {
+      "groupId": "series-65c03c5948711584",
+      "label": "Fate/stay night 漫画版",
+      "candidates": 20,
+      "protectedSnapshot": 20,
+      "reason": "20条已有认可及简介，保持原样；不以补证名义覆盖。"
+    },
+    {
+      "groupId": "series-6e7a05f8ba7baa8a",
+      "label": "威化第10弹",
+      "candidates": 19,
+      "placeholders": 18,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-d7f99cae71703da1",
+      "label": "威化第4弹",
+      "candidates": 18,
+      "placeholders": 16,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-779431cc21291cf9",
+      "label": "威化第5弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-b4e38ff302717c6d",
+      "label": "威化第8弹",
+      "candidates": 18,
+      "placeholders": 17,
+      "reason": "大部分为本地匿名席位，需独立身份映射；不能把目录顺序或共用宣传图当绑定。"
+    },
+    {
+      "groupId": "series-9cd624974209cc26",
+      "label": "Fate/Apocrypha 漫画版",
+      "candidates": 16,
+      "protectedSnapshot": 16,
+      "reason": "原快照16条已有认可简介，保留不重查"
+    },
+    {
+      "groupId": "series-774a4872988f96e5",
+      "label": "新宿幻霊事件",
+      "candidates": 16,
+      "protectedSnapshot": 7,
+      "reason": "含7条已有认可简介及派生成员，后续先做身份映射；本轮不重查认可资料"
+    },
+    {
+      "groupId": "series-2c5365f51b170b46",
+      "label": "Fate/stay night 既有混合分组",
+      "candidates": 12,
+      "reason": "原投影混有PS2/PC游戏、拍卖组合、Saber玩偶及2幅REMASTERED复制画；不能套用统一游戏规格，须先逐条确定品类及来源，不改原分组或关系。"
+    },
+    {
+      "groupId": "series-7a54af02babd8464",
+      "label": "Fate/Zero マルチプレートコレクション",
+      "candidates": 11,
+      "source": "https://www.geestore.com/detail/id/00000046863",
+      "sourceRole": "retailer",
+      "reason": "初查找到GEE!STORE零售盒装页，未取得厂商单款映射；同为11条先选两个官方来源明确的系列。"
+    }
+  ]
+}

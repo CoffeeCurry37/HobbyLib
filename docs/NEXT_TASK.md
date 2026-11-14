@@ -1,25 +1,25 @@
-> 当前进行中（2026-11-13）：月姫 / 新装版 Fate/strange Fake 各11条共22条已经研究及隔离验证，尚未正式写入；第3卷两条日期字段仍待查。续作先读[写前断点](../research/series-evidence-20261113/tsukihime-strangefake/resume.json)，不得重放此前成功批次。以下保留上一完成阶段。
-
 # 当前任务：系列补证（2026-11-03 启动）
 
 用户授权：从 GitHub 断点按已确定顺序补证，优先官方来源明确、覆盖商品多的系列；有明确证据才写入，无法确认的保留待查，保留已认可资料，及时保存 GitHub 进度。该任务接续已完成 V6，不重放旧迁移。
 
 ## 最新断点
 
-截至 2026-11-13，累计已逐件检查 74 个系列的 6,948 条候选，5,147 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,774 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-13，累计已逐件检查 76 个系列的 6,970 条候选，5,169 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,772 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮按顺序检查Fate/EXTELLA LINK和Fate/Samurai Remnant各11条，共22条；LINK补10条、1条整条待查，Samurai补11条。20+1两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订121；维护入口已实测 HTTP 401 关闭。
+本轮按顺序检查真月譚 月姫和新装版 Fate/strange Fake各11条，共22条；20+2两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订123；维护入口已实测 HTTP 401 关闭。
 
-日本、亚洲及欧洲版本分别核对日期/平台；LINK的PS4与Vita限定版服装代码不同。原拍卖图文确认PS4通常版和卖家四张PS Vita卡组合，四卡组合明确标为销售来源，另一条PS4双游戏拍卖仍缺实物/版本绑定。Samurai包含3个平台逻辑目录、6个日版通常/限定版本及2个EU版，目录不代表额外实物；日版TREASURE BOX原配含书套，宫本武藏服装是早期购买特典。7条已补简介仍有条码、个别批次、语言或包装/附件缺口，完整核实仍0。
+15个出版社纸本书目对应19条单卷记录与3个逻辑目录。月姫10卷原ISBN及491前缀JAN分别对应官方书目字段，不混用。新装版4条零售单卷经原管理编号、作者、卷号及零售ISBN绑定；保留原空ISBN、四组同卷多来源和两个同名目录，不自动归并。新装版第3卷两条记录的出版社日期3月3日与零售3月4日不一致，仅补身份、作者、开本与页数，日期继续待查。
 
-[本轮报告](../research/series-evidence-20261113/link-samurai/README.md) · [正式断点](../research/series-evidence-20261113/link-samurai/resume.json) · [生产读回](../research/series-evidence-20261113/link-samurai/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
+纸本与电子版、漫画与小说、TYPE-MOON BOOKS版与漫画新装版分开；书目发售日不代表具体印次，目录不代表实体套装或拥有整套。
+
+[本轮报告](../research/series-evidence-20261113/tsukihime-strangefake/README.md) · [正式断点](../research/series-evidence-20261113/tsukihime-strangefake/resume.json) · [生产读回](../research/series-evidence-20261113/tsukihime-strangefake/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。
 
 ## 下一步
 
-1. 下一批先补查真月譚 月姫的11条，再查新装版 Fate/strange Fake的11条。出版社入口已缓存，逐卷核对ISBN、纸本/电子版、作者、再版与零售映射；保留原ID，不自动归并相似卷目。这22条仅为来源发现，尚未逐条补证。见[来源与核对要点](../research/series-evidence-20261113/link-samurai/next-sources.json)。
-2. 本轮PS4双游戏拍卖仍[整条待查](../research/series-evidence-20261113/link-samurai/pending.json)；7条已补记录的条码、批次、语言及包装/附件见[字段待查](../research/series-evidence-20261113/link-samurai/field-pending.json)。取得新身份资料后再查，不重放已成功21条。
-3. 上轮极光E/F22条高度缺口及其中3包装/1名称保留；此前闪粉F/もちもち7条、ついコレ4条包装、书目跨卷冲突、匿名威化映射及所有其他未决项，沿[前轮断点](../research/series-evidence-20261113/aurora-ef/resume.json)及其previousOutstanding链继续保留。
-4. Fate/stay night的12条旧分组混有PS2/PC游戏、拍卖、玩偶和复制画，须分别定位品类/来源；不统一套游戏规格、不改关系。已有认可的电击、西脇、Apocrypha漫画保持原样；派生卷目先核映射。
+1. 下一批先补查TV动画 Fate/strange Fake ラメキラカンバッジコレクション的11条，再查埃尔梅罗二世 Grace note トレーディングミラーチャーム的11条。厂商/动画官方入口已缓存，逐图核角色版本、零售编号及包装层级；单款、单包、整盒与全种零售套组分开。这22条仅为来源发现，尚未逐条补证。见[来源与核对要点](../research/series-evidence-20261113/tsukihime-strangefake/next-sources.json)。
+2. 新装版第3卷两条[日期字段待查](../research/series-evidence-20261113/tsukihime-strangefake/field-pending.json)，取得能解释发售/上架日期差异的新证据后再核，不以多数投票核定。
+3. 前轮LINK/Samurai的1条整条待查、7条字段缺口及所有历史未决项沿[前轮断点](../research/series-evidence-20261113/link-samurai/resume.json)及previousOutstanding链保留；成功21条不重放。
+4. Fate/Zero多用途板11条初查仅取得GEE!STORE零售盒装入口，优先级让位给本次两个明确官方系列。匿名威化映射、Fate/stay night混合12条及已认可/派生书目仍按原边界待查，不改关系。
 
 ## 执行规则
 
@@ -34,7 +34,7 @@
 
 ## 禁止重放
 
-本轮LINK/Samurai两批21条、此前极光钥匙扣E/F两批22条、此前闪粉F/もちもちvol.16两批23条、此前ついコレvol.4/vol.5两批24条、此前エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
+本轮月姫/新装版strange Fake两批22条、此前LINK/Samurai两批21条、此前极光钥匙扣E/F两批22条、此前闪粉F/もちもちvol.16两批23条、此前ついコレvol.4/vol.5两批24条、此前エルメロイ/闪粉徽章两批23条、此前卫宫家/Vol.22两批26条、此前FoxTail/徽章3批42条、此前CLIMAX/英霊剣豪2批31条、此前立牌2批33条、上一轮EXTELLA/威化第3弹2批38条、上一轮威化2批25条、此前书目/音像2批34条、票券/贴纸3批42条、AnimeJapan2026/京まふ2022的2批29条、京まふ2024/AnimeJapan2022的3批46条、京まふ四年度6批106条、十周年一番赏/AnimeJapan7批132条、书目66条（含单独刷新幸存记录）、此前一番赏及新系列164条、四系列232条、历史活动741条、首批3,247条均已成功。一个material IX旧ID已归档到有效记录，不再写旧ID。
 
 V6的477批9,531条变更及25组合并、旧32条、五边和001–006均禁止重放。最新正式库：34,999有效 / 8,575归档 / 1,823关联；个人数据保护不变。
 
