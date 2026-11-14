@@ -1,0 +1,16 @@
+[
+  {
+    "batch": 0,
+    "items": 20,
+    "planDigest": "191bc66b50e1a8be10b706e7466682ceebf843b0bb9378a10534911625358c05",
+    "afterHash": "8a06d414ecbaee17f36387274e4ccd00e04420e37dbe0b42748c88d9e25b7899",
+    "at": "2026-11-14T04:58:22.029Z"
+  },
+  {
+    "batch": 1,
+    "items": 2,
+    "planDigest": "28ce2d9e5bfd8596feb10b47b6424bb7ee4a4aa33b936207c3623983d964faca",
+    "afterHash": "91f28bd214ead6b0b5cdefef3d40e528a4849001313180a032e3778e885d6dee",
+    "at": "2026-11-14T04:58:23.128Z"
+  }
+]

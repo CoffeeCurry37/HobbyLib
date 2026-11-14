@@ -1,6 +1,6 @@
 {
   "at": "2026-11-14T04:56:32.953Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 22,
   "prepared": 22,
   "pending": 0,
@@ -15,12 +15,13 @@
       ],
       "sourceRole": "manufacturer",
       "scope": "9单款、1全9种零售组合、1单包；需逐图核棋盘/名字版本、Filia、包装数量及BOX与单包JAN作用域；厂商BOX码不可写入单款。",
-      "status": "researching",
       "key": "badges",
       "reviewed": 11,
       "ready": 11,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 11
     },
     {
       "groupId": "series-27a7fb010a9ce561",
@@ -31,16 +32,20 @@
       ],
       "sourceRole": "anime-official",
       "scope": "9单款、1全10种零售组合、1未标包装条目；逐图核A/B和多人组合、原零售编号，单包/BOX与套组分开；旧队列未包含Grey A单条不代表系列只有9款。",
-      "status": "researching",
       "key": "mirror",
       "reviewed": 11,
       "ready": 11,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 11
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 22,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-14T05:01:23.445Z",
+  "fieldPendingRecords": 9
 }

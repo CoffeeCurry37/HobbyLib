@@ -1,14 +1,16 @@
-> 截至 2026-11-13，累计已逐件检查 76 个系列的 6,970 条候选，5,169 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,772 个系列尚待逐件研究。完整核实系列数为 0。 [最新断点](../research/series-evidence-20261113/tsukihime-strangefake/README.md)。以下保留此前阶段记录。
+> 截至 2026-11-13，累计已逐件检查 78 个系列的 6,992 条候选，5,191 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,770 个系列尚待逐件研究。完整核实系列数为 0。 [最新断点](../research/series-evidence-20261113/strangefake-mirror/README.md)。以下保留此前阶段记录。
 
 # HobbyLib 主要记忆与交接入口
 
-更新：2026-11-13（America/Chicago）。本轮按顺序检查真月譚 月姫和新装版 Fate/strange Fake各11条，共22条；20+2两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订123；维护入口已实测 HTTP 401 关闭。 后续从最新断点接续，全部成功批次禁止重放。
+更新：2026-11-13（America/Chicago）。本轮按顺序检查strange Fake闪粉徽章与埃尔梅罗二世镜面挂件各11条，共22条；20+2两批正式补充并完整读回，无跳过。仅补空缺简介并追加两条官方出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系及偏好保留。Sites 70，环境修订125；维护入口已实测 HTTP 401 关闭。 后续从最新断点接续，全部成功批次禁止重放。
 
-下一批先补查TV动画 Fate/strange Fake ラメキラカンバッジコレクション的11条，再查埃尔梅罗二世 Grace note トレーディングミラーチャーム的11条。厂商/动画官方入口已缓存，逐图核角色版本、零售编号及包装层级；单款、单包、整盒与全种零售套组分开。这22条仅为来源发现，尚未逐条补证。
+下一批先补查MELTY BLOOD漫画书目的10条，再查埃尔梅罗二世 Grace note HOBBY STOCK扭蛋徽章的10条。出版社与动画官方入口已缓存；逐卷核ISBN及纸本日期，徽章逐图核A/B/C、隐藏款及零售全套范围。这20条仅为来源发现，尚未逐条补证。
 
-15个出版社纸本书目对应19条单卷记录与3个逻辑目录。月姫10卷原ISBN及491前缀JAN分别对应官方书目字段，不混用。新装版4条零售单卷经原管理编号、作者、卷号及零售ISBN绑定；保留原空ISBN、四组同卷多来源和两个同名目录，不自动归并。新装版第3卷两条记录的出版社日期3月3日与零售3月4日不一致，仅补身份、作者、开本与页数，日期继续待查。
+22条补入官方支持的系列共通信息，9条仍有字段待查：徽章2条原フラット名称与官方图FRANCESCA PRELATI冲突；挂件3条A/B原标签无官方画面映射；另4条包装记录保留实际封装、附件及专属条码缺口。原名不改，BOX商品码不填给单款或零售套组；挂件约65×65mm是最大尺寸，不能当每款精确长宽。
 
-本轮[2条日期字段待查](../research/series-evidence-20261113/tsukihime-strangefake/field-pending.json)保留；历史未决项沿[前轮断点](../research/series-evidence-20261113/link-samurai/resume.json)继续保留。
+本轮[9条字段待查](../research/series-evidence-20261113/strangefake-mirror/field-pending.json)及[前轮未决链](../research/series-evidence-20261113/tsukihime-strangefake/resume.json)均保留；已补通用信息不等于完整核实。
+
+前轮[2条日期字段待查](../research/series-evidence-20261113/tsukihime-strangefake/field-pending.json)保留；历史未决项沿[前轮断点](../research/series-evidence-20261113/link-samurai/resume.json)继续保留。
 
 前轮LINK/Samurai的[1条整条待查](../research/series-evidence-20261113/link-samurai/pending.json)及[7条字段待查](../research/series-evidence-20261113/link-samurai/field-pending.json)保留。上轮极光E/F的22条记录保留[字段待查](../research/series-evidence-20261113/aurora-ef/field-pending.json)。此前闪粉F/もちもち23条已补充，7条名称/包装缺口仍见[此前待查](../research/series-evidence-20261112/glitterf-mochi16/field-pending.json)。此前ついコレ24条已补充，其4条包装字段继续[待查](../research/series-evidence-20261112/tsuikore45/field-pending.json)，以及此前エルメロイ/闪粉徽章23条均不重放。
 

@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-14T04:48:55.451Z",
+  "at": "2026-11-14T05:01:23.445Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 76,
-  "seriesAwaitingItemReview": 1772,
+  "seriesWithItemReview": 78,
+  "seriesAwaitingItemReview": 1770,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 6970,
-  "productionApplied": 5169,
+  "coveredSnapshotItems": 6992,
+  "productionApplied": 5191,
   "protectedExisting": 9,
   "pendingEvidence": 1791,
   "freshVersionSkips": 1,
@@ -779,9 +779,29 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-badf6d6ba4f59b93",
+      "label": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-27a7fb010a9ce561",
+      "label": "ロード・エルメロイII世の事件簿 Grace note トレーディングミラーチャーム",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261113/tsukihime-strangefake/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261113/strangefake-mirror/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6

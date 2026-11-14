@@ -1,23 +1,61 @@
 {
-  "at": "2026-11-14T04:57:07.419Z",
-  "localDate": "2026-11-13",
-  "stage": "prepared-no-production-write",
-  "candidates": 22,
-  "prepared": 22,
-  "productionApplied": 0,
-  "pendingEvidence": 0,
-  "fieldPendingRecords": 9,
-  "plannedBatchSizes": [
-    20,
-    2
-  ],
+  "at": "2026-11-14T05:01:23.445Z",
+  "completedLocalDate": "2026-11-13",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
   "groups": [
-    "series-badf6d6ba4f59b93",
-    "series-27a7fb010a9ce561"
+    {
+      "groupId": "series-badf6d6ba4f59b93",
+      "label": "TVアニメ Fate/strange Fake ラメキラカンバッジコレクション",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-27a7fb010a9ce561",
+      "label": "ロード・エルメロイII世の事件簿 Grace note トレーディングミラーチャーム",
+      "snapshotItems": 11,
+      "productionApplied": 11,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
   ],
-  "previousCommit": "c6e56cd84c63155f69eb1a75be394cb520d54302",
+  "candidates": 22,
+  "productionApplied": 22,
+  "batches": 2,
+  "pendingEvidence": 0,
+  "pendingFile": "pending.json",
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
+  "fieldPendingRecords": 9,
+  "fieldPendingFile": "field-pending.json",
+  "fieldScope": {
+    "nameConflict": 2,
+    "abVariant": 3,
+    "packaging": 4,
+    "distinctRecords": 9
+  },
+  "limitations": [
+    "本轮只补官方支持的系列共通信息，18个单款和4个包装/零售组合条目分别保留",
+    "2个徽章原名フラット与官方图FRANCESCA PRELATI冲突；只补通用规格，原名及图款对应待查",
+    "镜面挂件3条A/B画面对照未确定；官方合图无A/B标记，不按布局或原编号顺序推断",
+    "4条包装记录的实际封装、附属及专属条码待查；单盒随机1枚与BOX9盒集齐不等于原零售包/全套就是该实物包装",
+    "官方挂件规格是65×65mm最大尺寸，不是每款精确尺寸；原快照9个单款不代表全系列只有9款",
+    "22个原详情及22张原图不可读；4张官方实链图已视觉检查并保留字节哈希；观察JSON哈希另计",
+    "仅补空简介和两条来源；原空ISBN/JAN、图片、旧证据、认可、个人字段和全部挂牌关系保留，完整核实商品/系列仍0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 125,
+  "deploymentId": "appgdep_6af7ea7caec88191b5647daad86764c8",
+  "siteVersion": 70,
+  "preparedCommit": "9b608c68842744047dc237c7677e756ca8fc93c9",
   "previousOutstanding": "../tsukihime-strangefake/resume.json",
-  "nextAction": "新鲜读取22条后按预期版本保护20+2写入，完整读回，关闭维护入口并实测，更新累计及下一批。",
-  "fullProductVerified": 0,
-  "fullSeriesVerified": 0
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮20+2两批22条、前轮月姫/新装版22条及全部历史成功动作禁止重放。",
+  "note": "本轮9条字段、上轮2条日期字段及全部历史未决项沿previousOutstanding链保留。"
 }
