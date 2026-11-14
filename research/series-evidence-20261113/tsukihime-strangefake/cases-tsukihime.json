@@ -1,0 +1,716 @@
+{
+  "at": "2026-11-14T04:40:53.315Z",
+  "rows": [
+    {
+      "itemId": "family-fe0ac1c5c6a294715bfa9412a43978fc",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "",
+        "member": "真月譚 月姫",
+        "image": "https://cdn.kdkw.jp/cover_1000/201003/201003000326.webp",
+        "catalogueKey": "books:kadokawa:manga:真月譚月姫:",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/201003/201003000326.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/312171700000/",
+        "at": "2026-11-14T04:37:49.141Z",
+        "sha256": "622359dfc7ebae850e45bf78ab315fa8f3bb2d4f9ec5846f014800158940cc99"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/201009000478/",
+          "at": "2026-11-14T04:37:45.888Z",
+          "sha256": "dcf2a0c955f53bb7cb99c0e19dc6a0b05a29018ba72e6e3a7fa9247f8422a401"
+        }
+      ],
+      "officialTitle": "真月譚 月姫",
+      "recordKind": "logical-series",
+      "childIds": [
+        "source-7882f527e897567a517e6857629617b7",
+        "source-de5f9917650ccf911561e3178c78ba1f",
+        "source-d469679f345f5cacfb02581161a9d646",
+        "source-446a2d1de2c0ae7d763b18f87b47d9a8",
+        "source-43cab841006175f70b03e3d5028a0357",
+        "source-bce58aa61179695ea81dadba3acd5e02",
+        "source-030d21c42ea048ca3b27e1e3fd0b34dc",
+        "source-1fbe98e808caf88e1ddc851ca98ba121",
+        "source-49e3f4ecbc3e4c232308be569b22e66c",
+        "source-8eee1a7e3b19f3d039e6f6dce140f687"
+      ],
+      "scope": "现有逻辑父级与其单卷关系核对；官方纸本首卷及后续卷佐证作品和版本，不认定实体套装或拥有",
+      "summary": "《真月譚 月姫》纸本漫画系列目录，由佐々木少年绘制，官方书目列入電撃コミックス。各卷独立刊行并有独立ISBN；本条组织现有单卷，不表示一件实体套装或已拥有整套。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。 两个同名新装版目录及各自成员关系保持，不自动归并。"
+    },
+    {
+      "itemId": "source-030d21c42ea048ca3b27e1e3fd0b34dc",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(8)",
+      "identityBinding": {
+        "isbn": "9784048685108",
+        "jan": "4910490619902",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "8",
+        "member": "真月譚 月姫(8)",
+        "image": "https://cdn.kdkw.jp/cover_1000/201003/201003000326.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/201003/201003000326.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/201003000326/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201003000326/",
+        "at": "2026-11-14T02:56:44.316Z",
+        "sha256": "552804b6072c68e4a5149b3e8637bf470fc9754fd34c42dd0303d3f9c774bf51"
+      },
+      "officialTitle": "真月譚 月姫(8)",
+      "officialIsbn": "9784048685108",
+      "volume": 8,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第8卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、226页，ISBN 9784048685108。官方纸本书目列示发售日为2010-03-27；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/201003000326/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490619902",
+          "url": "https://www.kadokawa.co.jp/product/201003000326/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048685108",
+          "url": "https://www.kadokawa.co.jp/product/201003000326/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/201003000326/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-1fbe98e808caf88e1ddc851ca98ba121",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(3)",
+      "identityBinding": {
+        "isbn": "9784048676731",
+        "jan": "4910490691151",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "3",
+        "member": "真月譚 月姫(3)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/301803000624/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000624/",
+        "at": "2026-11-14T04:37:40.599Z",
+        "sha256": "914e891fda33ea8c6b47ffa9a4b50a31b18e39deaa216f710b21fd06ecd69e36"
+      },
+      "officialTitle": "真月譚 月姫(3)",
+      "officialIsbn": "9784048676731",
+      "volume": 3,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第3卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、226页，ISBN 9784048676731。官方纸本书目列示发售日为2005-11-26；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/301803000624/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490691151",
+          "url": "https://www.kadokawa.co.jp/product/301803000624/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048676731",
+          "url": "https://www.kadokawa.co.jp/product/301803000624/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/301803000624/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-43cab841006175f70b03e3d5028a0357",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(9)",
+      "identityBinding": {
+        "isbn": "9784048688956",
+        "jan": "4910490623404",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "9",
+        "member": "真月譚 月姫(9)",
+        "image": "https://cdn.kdkw.jp/cover_1000/201006/201006000085.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/201006/201006000085.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/201006000085/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201006000085/",
+        "at": "2026-11-14T04:37:41.453Z",
+        "sha256": "571192bc5e111a68f180c95ea23b21cc1d74d806bf85cf51d2bd767dce3cc18e"
+      },
+      "officialTitle": "真月譚 月姫(9)",
+      "officialIsbn": "9784048688956",
+      "volume": 9,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第9卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、178页，ISBN 9784048688956。官方纸本书目列示发售日为2010-09-27；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/201006000085/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490623404",
+          "url": "https://www.kadokawa.co.jp/product/201006000085/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048688956",
+          "url": "https://www.kadokawa.co.jp/product/201006000085/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/201006000085/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-446a2d1de2c0ae7d763b18f87b47d9a8",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(2)",
+      "identityBinding": {
+        "isbn": "9784048676724",
+        "jan": "4910490691052",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "2",
+        "member": "真月譚 月姫(2)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/301803000623/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000623/",
+        "at": "2026-11-14T04:37:42.631Z",
+        "sha256": "6aaae5efeff5af5872720575736d99056f24eca6af9c6af29fbfc15857f670ae"
+      },
+      "officialTitle": "真月譚 月姫(2)",
+      "officialIsbn": "9784048676724",
+      "volume": 2,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第2卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、226页，ISBN 9784048676724。官方纸本书目列示发售日为2005-01-27；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/301803000623/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490691052",
+          "url": "https://www.kadokawa.co.jp/product/301803000623/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048676724",
+          "url": "https://www.kadokawa.co.jp/product/301803000623/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/301803000623/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-49e3f4ecbc3e4c232308be569b22e66c",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(5)",
+      "identityBinding": {
+        "isbn": "9784048676755",
+        "jan": "4910490691373",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "5",
+        "member": "真月譚 月姫(5)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/301803000626/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000626/",
+        "at": "2026-11-14T04:37:43.391Z",
+        "sha256": "35812a2d3b626a9a6f606d27c099b0e3bc5479366c7e44afc66103b8f19992cd"
+      },
+      "officialTitle": "真月譚 月姫(5)",
+      "officialIsbn": "9784048676755",
+      "volume": 5,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第5卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、234页，ISBN 9784048676755。官方纸本书目列示发售日为2007-07-27；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/301803000626/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490691373",
+          "url": "https://www.kadokawa.co.jp/product/301803000626/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048676755",
+          "url": "https://www.kadokawa.co.jp/product/301803000626/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/301803000626/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-7882f527e897567a517e6857629617b7",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(7)",
+      "identityBinding": {
+        "isbn": "9784048684323",
+        "jan": "4910490618905",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "7",
+        "member": "真月譚 月姫(7)",
+        "image": "https://cdn.kdkw.jp/cover_1000/201002/201002000202.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/201002/201002000202.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/201002000202/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201002000202/",
+        "at": "2026-11-14T04:37:44.678Z",
+        "sha256": "e3feea4617acd5149ffbbdfef374d71d4ab2887351b340758ec6863c03daf2ea"
+      },
+      "officialTitle": "真月譚 月姫(7)",
+      "officialIsbn": "9784048684323",
+      "volume": 7,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第7卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、226页，ISBN 9784048684323。官方纸本书目列示发售日为2010-02-26；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/201002000202/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490618905",
+          "url": "https://www.kadokawa.co.jp/product/201002000202/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048684323",
+          "url": "https://www.kadokawa.co.jp/product/201002000202/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/201002000202/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-8eee1a7e3b19f3d039e6f6dce140f687",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(10)",
+      "identityBinding": {
+        "isbn": "9784048701907",
+        "jan": "4910490628201",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "10",
+        "member": "真月譚 月姫(10)",
+        "image": "https://cdn.kdkw.jp/cover_1000/201009/201009000478.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/201009/201009000478.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/201009000478/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201009000478/",
+        "at": "2026-11-14T04:37:45.888Z",
+        "sha256": "dcf2a0c955f53bb7cb99c0e19dc6a0b05a29018ba72e6e3a7fa9247f8422a401"
+      },
+      "officialTitle": "真月譚 月姫(10)",
+      "officialIsbn": "9784048701907",
+      "volume": 10,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第10卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、194页，ISBN 9784048701907。官方纸本书目列示发售日为2010-12-18；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/201009000478/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490628201",
+          "url": "https://www.kadokawa.co.jp/product/201009000478/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048701907",
+          "url": "https://www.kadokawa.co.jp/product/201009000478/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/201009000478/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-bce58aa61179695ea81dadba3acd5e02",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(6)",
+      "identityBinding": {
+        "isbn": "9784048676786",
+        "jan": "4910490691489",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "6",
+        "member": "真月譚 月姫(6)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/301803000627/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000627/",
+        "at": "2026-11-14T04:37:47.118Z",
+        "sha256": "929e259d5e661dd1fe118957831fad9805652f5edc7f26fd7e21138b6b3455d7"
+      },
+      "officialTitle": "真月譚 月姫(6)",
+      "officialIsbn": "9784048676786",
+      "volume": 6,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第6卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、210页，ISBN 9784048676786。官方纸本书目列示发售日为2008-03-27；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/301803000627/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490691489",
+          "url": "https://www.kadokawa.co.jp/product/301803000627/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048676786",
+          "url": "https://www.kadokawa.co.jp/product/301803000627/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/301803000627/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-d469679f345f5cacfb02581161a9d646",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(4)",
+      "identityBinding": {
+        "isbn": "9784048676748",
+        "jan": "4910490691267",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "4",
+        "member": "真月譚 月姫(4)",
+        "image": "",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/301803000625/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000625/",
+        "at": "2026-11-14T04:37:48.452Z",
+        "sha256": "d6d8cf1a999cfcb1ed39b00fcc9c3d68e200d509720eb1802bd9265f720139bb"
+      },
+      "officialTitle": "真月譚 月姫(4)",
+      "officialIsbn": "9784048676748",
+      "volume": 4,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第4卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、226页，ISBN 9784048676748。官方纸本书目列示发售日为2006-08-26；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/301803000625/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490691267",
+          "url": "https://www.kadokawa.co.jp/product/301803000625/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048676748",
+          "url": "https://www.kadokawa.co.jp/product/301803000625/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/301803000625/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "source-de5f9917650ccf911561e3178c78ba1f",
+      "groupId": "series-e7b0b5feefeb87f2",
+      "title": "真月譚 月姫(1)",
+      "identityBinding": {
+        "isbn": "9784048690652",
+        "jan": "4910490679944",
+        "platform": null,
+        "edition": null,
+        "productLine": "真月譚 月姫",
+        "wave": "1",
+        "member": "真月譚 月姫(1)",
+        "image": "https://cdn.kdkw.jp/cover_1000/312171/312171700000.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/312171/312171700000.webp"
+        ],
+        "offerUrls": [
+          "https://www.kadokawa.co.jp/product/312171700000/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/312171700000/",
+        "at": "2026-11-14T04:37:49.141Z",
+        "sha256": "622359dfc7ebae850e45bf78ab315fa8f3bb2d4f9ec5846f014800158940cc99"
+      },
+      "officialTitle": "真月譚 月姫(1)",
+      "officialIsbn": "9784048690652",
+      "volume": 1,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《真月譚 月姫》第1卷纸本漫画，佐々木少年绘制，官方书目列入電撃コミックス。出版社列示B6判、226页，ISBN 9784048690652。官方纸本书目列示发售日为2004-05-27；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/312171700000/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "jan",
+          "value": "4910490679944",
+          "url": "https://www.kadokawa.co.jp/product/312171700000/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048690652",
+          "url": "https://www.kadokawa.co.jp/product/312171700000/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/312171700000/",
+          "at": "2026-10-06T03:41:27.020Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    }
+  ]
+}

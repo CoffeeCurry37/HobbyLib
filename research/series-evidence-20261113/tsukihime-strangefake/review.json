@@ -1,0 +1,44 @@
+{
+  "at": "2026-11-14T04:43:49.283Z",
+  "stage": "prepared-no-production-write",
+  "candidates": 22,
+  "prepared": 22,
+  "pending": 0,
+  "protected": 0,
+  "groups": [
+    {
+      "groupId": "series-e7b0b5feefeb87f2",
+      "label": "真月譚 月姫",
+      "candidates": 11,
+      "sources": [
+        "https://www.kadokawa.co.jp/product/201003000326/"
+      ],
+      "scope": "1逻辑目录+10卷；逐项核ISBN、纸本/电子版页面、作者/卷号、再版及原零售JAN作用域。",
+      "status": "publisher-entry-source-discovery-only",
+      "key": "tsukihime",
+      "reviewed": 11,
+      "ready": 11,
+      "pending": 0,
+      "protected": 0
+    },
+    {
+      "groupId": "series-0ca1528ecc218583",
+      "label": "新装版 Fate/strange Fake",
+      "candidates": 11,
+      "sources": [
+        "https://www.kadokawa.co.jp/product/322510000788/"
+      ],
+      "scope": "5个官方卷目、4个零售卷目与2逻辑目录；核森井しづき漫画新装版而非小说，保留原ID/空ISBN，不自动归并相似记录。",
+      "status": "publisher-entry-source-discovery-only",
+      "key": "strangefake",
+      "reviewed": 11,
+      "ready": 11,
+      "pending": 0,
+      "protected": 0
+    }
+  ],
+  "priorOverlap": 0,
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0,
+  "productionApplied": 0
+}

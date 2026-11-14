@@ -1,0 +1,308 @@
+{
+  "at": "2026-11-14T04:40:53.315Z",
+  "books": [
+    {
+      "key": "strangefake",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000788/",
+        "at": "2026-11-14T02:56:45.165Z",
+        "sha256": "b92c04812e31f305f5507b8fe82212cd197d8b99eaeaa0df4aab80ed89c9d4e2"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (1)",
+      "volume": 1,
+      "isbn": "9784048118224",
+      "pages": 178,
+      "format": "B6判",
+      "releaseDate": "2025-12-27",
+      "magazineJan": null,
+      "creator": "森井しづき",
+      "credits": "漫画 森井 しづき 原作 成田 良悟/TYPE-MOON",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "strangefake",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000789/",
+        "at": "2026-11-14T04:37:49.776Z",
+        "sha256": "f8c46226ef73fb0fedf08c6b86be7dd411fd58d377f2a4be90ea5d2b2584177f"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (2)",
+      "volume": 2,
+      "isbn": "9784048118231",
+      "pages": 162,
+      "format": "B6判",
+      "releaseDate": "2026-02-04",
+      "magazineJan": null,
+      "creator": "森井しづき",
+      "credits": "漫画 森井 しづき 原作 成田 良悟/TYPE-MOON",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "strangefake",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000790/",
+        "at": "2026-11-14T04:37:52.656Z",
+        "sha256": "2a803555b9c8d6aec0d2b8ca425612784138cd2cff4a5ef8ad53cdc6ba0bdeb7"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (3)",
+      "volume": 3,
+      "isbn": "9784048118248",
+      "pages": 178,
+      "format": "B6判",
+      "releaseDate": "2026-03-03",
+      "magazineJan": null,
+      "creator": "森井しづき",
+      "credits": "漫画 森井 しづき 原作 成田 良悟/TYPE-MOON",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "strangefake",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000791/",
+        "at": "2026-11-14T04:37:51.538Z",
+        "sha256": "2214a7a34ac1a7b69b6264964d8dff540ca5d7949d8f6078031577d9b2ae2e9f"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (4)",
+      "volume": 4,
+      "isbn": "9784048118255",
+      "pages": 162,
+      "format": "B6判",
+      "releaseDate": "2026-04-10",
+      "magazineJan": null,
+      "creator": "森井しづき",
+      "credits": "漫画 森井 しづき 原作 成田 良悟/TYPE-MOON",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "strangefake",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000792/",
+        "at": "2026-11-14T04:37:50.353Z",
+        "sha256": "02085b0a7a53289c37e357daa8a955d747653d5e319d9e7b1c14a53a898aa45b"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (5)",
+      "volume": 5,
+      "isbn": "9784048118262",
+      "pages": 162,
+      "format": "B6判",
+      "releaseDate": "2026-05-02",
+      "magazineJan": null,
+      "creator": "森井しづき",
+      "credits": "漫画 森井 しづき 原作 成田 良悟/TYPE-MOON",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/312171700000/",
+        "at": "2026-11-14T04:37:49.141Z",
+        "sha256": "622359dfc7ebae850e45bf78ab315fa8f3bb2d4f9ec5846f014800158940cc99"
+      },
+      "officialTitle": "真月譚 月姫(1)",
+      "volume": 1,
+      "isbn": "9784048690652",
+      "pages": 226,
+      "format": "B6判",
+      "releaseDate": "2004-05-27",
+      "magazineJan": "4910490679944",
+      "creator": "佐々木少年",
+      "credits": "著者 佐々木少年 原作 TYPE-MOON 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000623/",
+        "at": "2026-11-14T04:37:42.631Z",
+        "sha256": "6aaae5efeff5af5872720575736d99056f24eca6af9c6af29fbfc15857f670ae"
+      },
+      "officialTitle": "真月譚 月姫(2)",
+      "volume": 2,
+      "isbn": "9784048676724",
+      "pages": 226,
+      "format": "B6判",
+      "releaseDate": "2005-01-27",
+      "magazineJan": "4910490691052",
+      "creator": "佐々木少年",
+      "credits": "著者 佐々木少年 原作 TYPE-MOON 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000624/",
+        "at": "2026-11-14T04:37:40.599Z",
+        "sha256": "914e891fda33ea8c6b47ffa9a4b50a31b18e39deaa216f710b21fd06ecd69e36"
+      },
+      "officialTitle": "真月譚 月姫(3)",
+      "volume": 3,
+      "isbn": "9784048676731",
+      "pages": 226,
+      "format": "B6判",
+      "releaseDate": "2005-11-26",
+      "magazineJan": "4910490691151",
+      "creator": "佐々木少年",
+      "credits": "著者 佐々木少年 原作 TYPE-MOON 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000625/",
+        "at": "2026-11-14T04:37:48.452Z",
+        "sha256": "d6d8cf1a999cfcb1ed39b00fcc9c3d68e200d509720eb1802bd9265f720139bb"
+      },
+      "officialTitle": "真月譚 月姫(4)",
+      "volume": 4,
+      "isbn": "9784048676748",
+      "pages": 226,
+      "format": "B6判",
+      "releaseDate": "2006-08-26",
+      "magazineJan": "4910490691267",
+      "creator": "佐々木少年",
+      "credits": "著者 佐々木少年 原作 TYPE-MOON 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000626/",
+        "at": "2026-11-14T04:37:43.391Z",
+        "sha256": "35812a2d3b626a9a6f606d27c099b0e3bc5479366c7e44afc66103b8f19992cd"
+      },
+      "officialTitle": "真月譚 月姫(5)",
+      "volume": 5,
+      "isbn": "9784048676755",
+      "pages": 234,
+      "format": "B6判",
+      "releaseDate": "2007-07-27",
+      "magazineJan": "4910490691373",
+      "creator": "佐々木少年",
+      "credits": "原作 TYPE-MOON 作画 佐々木少年 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/301803000627/",
+        "at": "2026-11-14T04:37:47.118Z",
+        "sha256": "929e259d5e661dd1fe118957831fad9805652f5edc7f26fd7e21138b6b3455d7"
+      },
+      "officialTitle": "真月譚 月姫(6)",
+      "volume": 6,
+      "isbn": "9784048676786",
+      "pages": 210,
+      "format": "B6判",
+      "releaseDate": "2008-03-27",
+      "magazineJan": "4910490691489",
+      "creator": "佐々木少年",
+      "credits": "原作 TYPE-MOON 作画 佐々木少年 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201002000202/",
+        "at": "2026-11-14T04:37:44.678Z",
+        "sha256": "e3feea4617acd5149ffbbdfef374d71d4ab2887351b340758ec6863c03daf2ea"
+      },
+      "officialTitle": "真月譚 月姫(7)",
+      "volume": 7,
+      "isbn": "9784048684323",
+      "pages": 226,
+      "format": "B6判",
+      "releaseDate": "2010-02-26",
+      "magazineJan": "4910490618905",
+      "creator": "佐々木少年",
+      "credits": "作画 佐々木少年 原作 TYPE-MOON 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201003000326/",
+        "at": "2026-11-14T02:56:44.316Z",
+        "sha256": "552804b6072c68e4a5149b3e8637bf470fc9754fd34c42dd0303d3f9c774bf51"
+      },
+      "officialTitle": "真月譚 月姫(8)",
+      "volume": 8,
+      "isbn": "9784048685108",
+      "pages": 226,
+      "format": "B6判",
+      "releaseDate": "2010-03-27",
+      "magazineJan": "4910490619902",
+      "creator": "佐々木少年",
+      "credits": "作画 佐々木少年 原作 TYPE-MOON 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201006000085/",
+        "at": "2026-11-14T04:37:41.453Z",
+        "sha256": "571192bc5e111a68f180c95ea23b21cc1d74d806bf85cf51d2bd767dce3cc18e"
+      },
+      "officialTitle": "真月譚 月姫(9)",
+      "volume": 9,
+      "isbn": "9784048688956",
+      "pages": 178,
+      "format": "B6判",
+      "releaseDate": "2010-09-27",
+      "magazineJan": "4910490623404",
+      "creator": "佐々木少年",
+      "credits": "作画 佐々木少年 原作 TYPE-MOON 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    },
+    {
+      "key": "tsukihime",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/201009000478/",
+        "at": "2026-11-14T04:37:45.888Z",
+        "sha256": "dcf2a0c955f53bb7cb99c0e19dc6a0b05a29018ba72e6e3a7fa9247f8422a401"
+      },
+      "officialTitle": "真月譚 月姫(10)",
+      "volume": 10,
+      "isbn": "9784048701907",
+      "pages": 194,
+      "format": "B6判",
+      "releaseDate": "2010-12-18",
+      "magazineJan": "4910490628201",
+      "creator": "佐々木少年",
+      "credits": "作画 佐々木少年 原作 TYPE-MOON 原作 「真月譚 月姫」製作委員会",
+      "label": "電撃コミックス",
+      "medium": "paper",
+      "scope": "只读本商品window.item及纸本书目字段；不采用关联电子版/推荐区资料。magazineJan与ISBN分别记录，非推测相等。"
+    }
+  ],
+  "scope": "15个纸本单卷商品页，19条单卷记录与3个逻辑目录。月姫既有491前缀JAN逐条对应官方本商品magazine_jan，保持与ISBN各自的含义。新装版第3卷日期冲突单列，不把TYPE-MOON BOOKS既有版改作新装版。",
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

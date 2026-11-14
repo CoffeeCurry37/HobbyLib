@@ -1,0 +1,44 @@
+[
+  {
+    "id": "strangefake-retailer-isbn-binding",
+    "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+    "at": "2026-11-14T04:40:53.315Z",
+    "kind": "public-web-text-observation",
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希",
+    "facts": [
+      {
+        "volume": 2,
+        "code": "503172316",
+        "isbn": "9784048118231",
+        "releaseDate": "2026-02-04",
+        "title": "新装版 Fate/strange Fake(2) / 森井しづき",
+        "category": "B6コミック"
+      },
+      {
+        "volume": 3,
+        "code": "503172325",
+        "isbn": "9784048118248",
+        "releaseDate": "2026-03-04",
+        "title": "新装版 Fate/strange Fake(3) / 森井しづき",
+        "category": "B6コミック"
+      },
+      {
+        "volume": 4,
+        "code": "503172772",
+        "isbn": "9784048118255",
+        "releaseDate": "2026-04-10",
+        "title": "新装版 Fate/strange Fake(4) / 森井しづき",
+        "category": "B6コミック"
+      },
+      {
+        "volume": 5,
+        "code": "503172773",
+        "isbn": "9784048118262",
+        "releaseDate": "2026-05-02",
+        "title": "新装版 Fate/strange Fake(5) / 森井しづき",
+        "category": "B6コミック"
+      }
+    ],
+    "scope": "四个管理编号逐行绑定标题、卷号、作者和ISBN；第3卷零售3月4日与出版社3月3日冲突，日期不写。库存/价格不采纳。"
+  }
+]

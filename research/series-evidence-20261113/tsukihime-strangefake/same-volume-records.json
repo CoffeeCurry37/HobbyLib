@@ -1,0 +1,76 @@
+{
+  "at": "2026-11-14T04:40:53.315Z",
+  "action": "none",
+  "groups": [
+    {
+      "volume": 2,
+      "itemIds": [
+        "11ef2040-8f77-44eb-84e8-c5762bb74338",
+        "8c844989-4343-408f-b61a-6d9295c440b3"
+      ],
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000789/",
+        "at": "2026-11-14T04:37:49.776Z",
+        "sha256": "f8c46226ef73fb0fedf08c6b86be7dd411fd58d377f2a4be90ea5d2b2584177f"
+      }
+    },
+    {
+      "volume": 4,
+      "itemIds": [
+        "17e779e5-7978-4bfe-b212-a19141dfdb24",
+        "a880e89b-08f8-46b8-8683-2e4a5add84cb"
+      ],
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000791/",
+        "at": "2026-11-14T04:37:51.538Z",
+        "sha256": "2214a7a34ac1a7b69b6264964d8dff540ca5d7949d8f6078031577d9b2ae2e9f"
+      }
+    },
+    {
+      "volume": 5,
+      "itemIds": [
+        "4c98c4a6-b967-41df-9833-721c00a84310",
+        "8af61f8a-1c54-45a4-bb48-09adb2a75de3"
+      ],
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000792/",
+        "at": "2026-11-14T04:37:50.353Z",
+        "sha256": "02085b0a7a53289c37e357daa8a955d747653d5e319d9e7b1c14a53a898aa45b"
+      }
+    },
+    {
+      "volume": 3,
+      "itemIds": [
+        "bc380108-c000-40d4-992b-6571c4b1475a",
+        "f82c5aad-7232-48f7-9c3b-51363ccba3dd"
+      ],
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000790/",
+        "at": "2026-11-14T04:37:52.656Z",
+        "sha256": "2a803555b9c8d6aec0d2b8ca425612784138cd2cff4a5ef8ad53cdc6ba0bdeb7"
+      }
+    }
+  ],
+  "logicalDirectories": [
+    {
+      "itemId": "family-0a2ecde8103f9d27ccdf0b70cb2e5a3d",
+      "childIds": [
+        "8c844989-4343-408f-b61a-6d9295c440b3",
+        "4c98c4a6-b967-41df-9833-721c00a84310",
+        "17e779e5-7978-4bfe-b212-a19141dfdb24",
+        "f82c5aad-7232-48f7-9c3b-51363ccba3dd"
+      ]
+    },
+    {
+      "itemId": "family-568c785acb14a8100e23396803c43d9f",
+      "childIds": [
+        "a880e89b-08f8-46b8-8683-2e4a5add84cb",
+        "bc380108-c000-40d4-992b-6571c4b1475a",
+        "11ef2040-8f77-44eb-84e8-c5762bb74338",
+        "8af61f8a-1c54-45a4-bb48-09adb2a75de3",
+        "3699698d-bc36-4a63-abc9-1e9e70a60712"
+      ]
+    }
+  ],
+  "rule": "四组同卷多来源及两个逻辑目录均保留原ID和关联，不自动归并。"
+}

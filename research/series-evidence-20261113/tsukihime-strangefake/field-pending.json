@@ -1,0 +1,50 @@
+{
+  "at": "2026-11-14T04:40:53.315Z",
+  "items": [
+    {
+      "itemId": "bc380108-c000-40d4-992b-6571c4b1475a",
+      "title": "新装版 Fate/strange Fake 3",
+      "fields": [
+        "发售日期"
+      ],
+      "publisherDate": "2026-03-03",
+      "retailerDate": "2026-03-04",
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/322510000790/",
+        "at": "2026-11-14T04:37:52.656Z",
+        "sha256": "2a803555b9c8d6aec0d2b8ca425612784138cd2cff4a5ef8ad53cdc6ba0bdeb7"
+      },
+      "retailerObservation": {
+        "id": "strangefake-retailer-isbn-binding",
+        "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+        "sha256": "b14a750772c3a60cae5f9fc6d808194b700c52bcb11e7b5f5b891fa046e6e784"
+      },
+      "reason": "同卷/同ISBN已确认，但两来源日期不一致；可补身份、作者及页数，日期留待查。",
+      "needed": "出版社更正/发行说明或可区分实际发售与零售上架日期的独立依据。",
+      "appliedSafeSummary": false
+    },
+    {
+      "itemId": "f82c5aad-7232-48f7-9c3b-51363ccba3dd",
+      "title": "新装版 Fate/strange Fake(3) / 森井しづき",
+      "fields": [
+        "发售日期"
+      ],
+      "publisherDate": "2026-03-03",
+      "retailerDate": "2026-03-04",
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/322510000790/",
+        "at": "2026-11-14T04:37:52.656Z",
+        "sha256": "2a803555b9c8d6aec0d2b8ca425612784138cd2cff4a5ef8ad53cdc6ba0bdeb7"
+      },
+      "retailerObservation": {
+        "id": "strangefake-retailer-isbn-binding",
+        "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+        "sha256": "b14a750772c3a60cae5f9fc6d808194b700c52bcb11e7b5f5b891fa046e6e784"
+      },
+      "reason": "同卷/同ISBN已确认，但两来源日期不一致；可补身份、作者及页数，日期留待查。",
+      "needed": "出版社更正/发行说明或可区分实际发售与零售上架日期的独立依据。",
+      "appliedSafeSummary": false
+    }
+  ],
+  "note": "第3卷的2条记录保留日期差异；其余原资料与本轮无关的历史待查不变。"
+}

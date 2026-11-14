@@ -1,0 +1,608 @@
+{
+  "at": "2026-11-14T04:40:53.315Z",
+  "rows": [
+    {
+      "itemId": "11ef2040-8f77-44eb-84e8-c5762bb74338",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake 2",
+      "identityBinding": {
+        "isbn": "9784048118231",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "2",
+        "member": "新装版 Fate/strange Fake 2",
+        "image": "https://cdn.kdkw.jp/cover_1000/322510/322510000789.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322510/322510000789.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348729524&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/322510000789/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000789/",
+        "at": "2026-11-14T04:37:49.776Z",
+        "sha256": "f8c46226ef73fb0fedf08c6b86be7dd411fd58d377f2a4be90ea5d2b2584177f"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (2)",
+      "officialIsbn": "9784048118231",
+      "volume": 2,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第2卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、162页。官方纸本书目列示发售日为2026-02-04；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/322510000789/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048118231",
+          "url": "https://www.kadokawa.co.jp/product/322510000789/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/322510000789/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "17e779e5-7978-4bfe-b212-a19141dfdb24",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake(4) / 森井しづき",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "4",
+        "member": "新装版 Fate/strange Fake(4) / 森井しづき",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503172772&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503172772"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000791/",
+        "at": "2026-11-14T04:37:51.538Z",
+        "sha256": "2214a7a34ac1a7b69b6264964d8dff540ca5d7949d8f6078031577d9b2ae2e9f"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (4)",
+      "officialIsbn": "9784048118255",
+      "volume": 4,
+      "recordKind": "retailer-bound-volume",
+      "identityMatch": "原零售管理编号、卷号、作者与可读零售索引ISBN精确对应出版社纸本新装版；原空ISBN保持",
+      "retailerObservation": {
+        "id": "strangefake-retailer-isbn-binding",
+        "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+        "sha256": "b14a750772c3a60cae5f9fc6d808194b700c52bcb11e7b5f5b891fa046e6e784"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第4卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、162页。官方纸本书目列示发售日为2026-04-10；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "category",
+          "value": "B6コミック",
+          "url": "https://www.suruga-ya.jp/product/detail/503172772",
+          "at": "2026-10-04T21:16:14.147Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "3699698d-bc36-4a63-abc9-1e9e70a60712",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake 1",
+      "identityBinding": {
+        "isbn": "9784048118224",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "1",
+        "member": "新装版 Fate/strange Fake 1",
+        "image": "https://cdn.kdkw.jp/cover_1000/322510/322510000788.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322510/322510000788.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348979657&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/322510000788/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000788/",
+        "at": "2026-11-14T02:56:45.165Z",
+        "sha256": "b92c04812e31f305f5507b8fe82212cd197d8b99eaeaa0df4aab80ed89c9d4e2"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (1)",
+      "officialIsbn": "9784048118224",
+      "volume": 1,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第1卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、178页。官方纸本书目列示发售日为2025-12-27；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/322510000788/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048118224",
+          "url": "https://www.kadokawa.co.jp/product/322510000788/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/322510000788/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "4c98c4a6-b967-41df-9833-721c00a84310",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake(5) / 森井しづき",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "5",
+        "member": "新装版 Fate/strange Fake(5) / 森井しづき",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503172773&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503172773"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000792/",
+        "at": "2026-11-14T04:37:50.353Z",
+        "sha256": "02085b0a7a53289c37e357daa8a955d747653d5e319d9e7b1c14a53a898aa45b"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (5)",
+      "officialIsbn": "9784048118262",
+      "volume": 5,
+      "recordKind": "retailer-bound-volume",
+      "identityMatch": "原零售管理编号、卷号、作者与可读零售索引ISBN精确对应出版社纸本新装版；原空ISBN保持",
+      "retailerObservation": {
+        "id": "strangefake-retailer-isbn-binding",
+        "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+        "sha256": "b14a750772c3a60cae5f9fc6d808194b700c52bcb11e7b5f5b891fa046e6e784"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第5卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、162页。官方纸本书目列示发售日为2026-05-02；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "category",
+          "value": "B6コミック",
+          "url": "https://www.suruga-ya.jp/product/detail/503172773",
+          "at": "2026-10-04T21:16:14.147Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "8af61f8a-1c54-45a4-bb48-09adb2a75de3",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake 5",
+      "identityBinding": {
+        "isbn": "9784048118262",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "5",
+        "member": "新装版 Fate/strange Fake 5",
+        "image": "https://cdn.kdkw.jp/cover_1000/322510/322510000792.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322510/322510000792.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1340442830&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/322510000792/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000792/",
+        "at": "2026-11-14T04:37:50.353Z",
+        "sha256": "02085b0a7a53289c37e357daa8a955d747653d5e319d9e7b1c14a53a898aa45b"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (5)",
+      "officialIsbn": "9784048118262",
+      "volume": 5,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第5卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、162页。官方纸本书目列示发售日为2026-05-02；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/322510000792/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048118262",
+          "url": "https://www.kadokawa.co.jp/product/322510000792/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/322510000792/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "8c844989-4343-408f-b61a-6d9295c440b3",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake(2) / 森井しづき",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "2",
+        "member": "新装版 Fate/strange Fake(2) / 森井しづき",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503172316&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503172316"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000789/",
+        "at": "2026-11-14T04:37:49.776Z",
+        "sha256": "f8c46226ef73fb0fedf08c6b86be7dd411fd58d377f2a4be90ea5d2b2584177f"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (2)",
+      "officialIsbn": "9784048118231",
+      "volume": 2,
+      "recordKind": "retailer-bound-volume",
+      "identityMatch": "原零售管理编号、卷号、作者与可读零售索引ISBN精确对应出版社纸本新装版；原空ISBN保持",
+      "retailerObservation": {
+        "id": "strangefake-retailer-isbn-binding",
+        "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+        "sha256": "b14a750772c3a60cae5f9fc6d808194b700c52bcb11e7b5f5b891fa046e6e784"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第2卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、162页。官方纸本书目列示发售日为2026-02-04；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "category",
+          "value": "B6コミック",
+          "url": "https://www.suruga-ya.jp/product/detail/503172316",
+          "at": "2026-10-04T21:16:14.147Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "a880e89b-08f8-46b8-8683-2e4a5add84cb",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake 4",
+      "identityBinding": {
+        "isbn": "9784048118255",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "4",
+        "member": "新装版 Fate/strange Fake 4",
+        "image": "https://cdn.kdkw.jp/cover_1000/322510/322510000791.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322510/322510000791.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1348729511&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/322510000791/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000791/",
+        "at": "2026-11-14T04:37:51.538Z",
+        "sha256": "2214a7a34ac1a7b69b6264964d8dff540ca5d7949d8f6078031577d9b2ae2e9f"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (4)",
+      "officialIsbn": "9784048118255",
+      "volume": 4,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第4卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、162页。官方纸本书目列示发售日为2026-04-10；具体印次不作推定。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/322510000791/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048118255",
+          "url": "https://www.kadokawa.co.jp/product/322510000791/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/322510000791/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "bc380108-c000-40d4-992b-6571c4b1475a",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake 3",
+      "identityBinding": {
+        "isbn": "9784048118248",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "3",
+        "member": "新装版 Fate/strange Fake 3",
+        "image": "https://cdn.kdkw.jp/cover_1000/322510/322510000790.webp",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322510/322510000790.webp"
+        ],
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1340443077&ref=list&dispCount=240&soldOut=1&keyword=Fate",
+          "https://www.kadokawa.co.jp/product/322510000790/"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000790/",
+        "at": "2026-11-14T04:37:52.656Z",
+        "sha256": "2a803555b9c8d6aec0d2b8ca425612784138cd2cff4a5ef8ad53cdc6ba0bdeb7"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (3)",
+      "officialIsbn": "9784048118248",
+      "volume": 3,
+      "recordKind": "publisher-bound-volume",
+      "identityMatch": "原卷号、ISBN和官方URL与出版社当前纸本书目精确一致",
+      "dateConflict": true,
+      "retailerObservation": {
+        "id": "strangefake-retailer-isbn-binding",
+        "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+        "sha256": "b14a750772c3a60cae5f9fc6d808194b700c52bcb11e7b5f5b891fa046e6e784"
+      },
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第3卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、178页。发售日期在出版社与零售资料之间存在差异，暂不补写日期。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。 第3卷3月3日/3月4日差异保留，不以多数来源代替核定。",
+      "identityEvidence": [
+        {
+          "field": "publisher",
+          "value": "KADOKAWA",
+          "url": "https://www.kadokawa.co.jp/product/322510000790/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源候选；保留已有字段"
+        },
+        {
+          "field": "isbn",
+          "value": "9784048118248",
+          "url": "https://www.kadokawa.co.jp/product/322510000790/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        },
+        {
+          "field": "category",
+          "value": "コミック",
+          "url": "https://www.kadokawa.co.jp/product/322510000790/",
+          "at": "2026-10-06T03:41:49.068Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "f82c5aad-7232-48f7-9c3b-51363ccba3dd",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake(3) / 森井しづき",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "3",
+        "member": "新装版 Fate/strange Fake(3) / 森井しづき",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503172325&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503172325"
+        ]
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000790/",
+        "at": "2026-11-14T04:37:52.656Z",
+        "sha256": "2a803555b9c8d6aec0d2b8ca425612784138cd2cff4a5ef8ad53cdc6ba0bdeb7"
+      },
+      "officialTitle": "新装版 Fate/strange Fake (3)",
+      "officialIsbn": "9784048118248",
+      "volume": 3,
+      "recordKind": "retailer-bound-volume",
+      "identityMatch": "原零售管理编号、卷号、作者与可读零售索引ISBN精确对应出版社纸本新装版；原空ISBN保持",
+      "retailerObservation": {
+        "id": "strangefake-retailer-isbn-binding",
+        "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+        "sha256": "b14a750772c3a60cae5f9fc6d808194b700c52bcb11e7b5f5b891fa046e6e784"
+      },
+      "second": "https://www.suruga-ya.jp/kaitori/search_buy?category=70110&search_word=Fate",
+      "dateConflict": true,
+      "scope": "出版社本卷纸本书目；卷号、书号/原零售管理编号逐项绑定，纸本与电子版及旧版/新装版分开",
+      "summary": "《新装版 Fate/strange Fake》第3卷纸本漫画，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。官方纸本规格为B6判、178页。发售日期在出版社与零售资料之间存在差异，暂不补写日期。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。 第3卷3月3日/3月4日差异保留，不以多数来源代替核定。",
+      "identityEvidence": [
+        {
+          "field": "category",
+          "value": "B6コミック",
+          "url": "https://www.suruga-ya.jp/product/detail/503172325",
+          "at": "2026-10-04T21:16:14.147Z",
+          "method": "来源明确字段；保留出处"
+        }
+      ]
+    },
+    {
+      "itemId": "family-0a2ecde8103f9d27ccdf0b70cb2e5a3d",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake · 新装版",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "",
+        "member": "新装版 Fate/strange Fake · 新装版",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503172772&size=m",
+        "catalogueKey": "books:角川書店kadokawa:manga:新装版fatestrangefake:新装版",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=503172772&size=m"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000788/",
+        "at": "2026-11-14T02:56:45.165Z",
+        "sha256": "b92c04812e31f305f5507b8fe82212cd197d8b99eaeaa0df4aab80ed89c9d4e2"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/322510000792/",
+          "at": "2026-11-14T04:37:50.353Z",
+          "sha256": "02085b0a7a53289c37e357daa8a955d747653d5e319d9e7b1c14a53a898aa45b"
+        }
+      ],
+      "officialTitle": "新装版 Fate/strange Fake · 新装版",
+      "recordKind": "logical-series",
+      "childIds": [
+        "8c844989-4343-408f-b61a-6d9295c440b3",
+        "4c98c4a6-b967-41df-9833-721c00a84310",
+        "17e779e5-7978-4bfe-b212-a19141dfdb24",
+        "f82c5aad-7232-48f7-9c3b-51363ccba3dd"
+      ],
+      "scope": "现有逻辑父级与其单卷关系核对；官方纸本首卷及后续卷佐证作品和版本，不认定实体套装或拥有",
+      "summary": "《新装版 Fate/strange Fake》纸本漫画系列目录，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。此处为漫画新装版目录；各卷与TYPE-MOON BOOKS版分别保留，不表示实体套装、已经完结或已拥有全套。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。 两个同名新装版目录及各自成员关系保持，不自动归并。"
+    },
+    {
+      "itemId": "family-568c785acb14a8100e23396803c43d9f",
+      "groupId": "series-0ca1528ecc218583",
+      "title": "新装版 Fate/strange Fake · 新装版",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "新装版 Fate/strange Fake",
+        "wave": "",
+        "member": "新装版 Fate/strange Fake · 新装版",
+        "image": "https://cdn.kdkw.jp/cover_1000/322510/322510000789.webp",
+        "catalogueKey": "books:kadokawa:manga:新装版fatestrangefake:新装版",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://cdn.kdkw.jp/cover_1000/322510/322510000789.webp"
+        ],
+        "offerUrls": []
+      },
+      "status": "supported",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/322510000788/",
+        "at": "2026-11-14T02:56:45.165Z",
+        "sha256": "b92c04812e31f305f5507b8fe82212cd197d8b99eaeaa0df4aab80ed89c9d4e2"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/322510000792/",
+          "at": "2026-11-14T04:37:50.353Z",
+          "sha256": "02085b0a7a53289c37e357daa8a955d747653d5e319d9e7b1c14a53a898aa45b"
+        }
+      ],
+      "officialTitle": "新装版 Fate/strange Fake · 新装版",
+      "recordKind": "logical-series",
+      "childIds": [
+        "a880e89b-08f8-46b8-8683-2e4a5add84cb",
+        "bc380108-c000-40d4-992b-6571c4b1475a",
+        "11ef2040-8f77-44eb-84e8-c5762bb74338",
+        "8af61f8a-1c54-45a4-bb48-09adb2a75de3",
+        "3699698d-bc36-4a63-abc9-1e9e70a60712"
+      ],
+      "scope": "现有逻辑父级与其单卷关系核对；官方纸本首卷及后续卷佐证作品和版本，不认定实体套装或拥有",
+      "summary": "《新装版 Fate/strange Fake》纸本漫画系列目录，森井しづき绘制，成田良悟／TYPE-MOON原作，角川コミックス・エース出版。此处为漫画新装版目录；各卷与TYPE-MOON BOOKS版分别保留，不表示实体套装、已经完结或已拥有全套。",
+      "notes": "仅补空简介与两条出处；认可、ISBN/JAN、原名、旧描述/证据、图片、个人状态、挂牌历史和关系保留。出版日期不等于具体印次，不补造ISBN或合并同卷多来源。 两个同名新装版目录及各自成员关系保持，不自动归并。"
+    }
+  ]
+}

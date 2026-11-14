@@ -1,0 +1,23 @@
+{
+  "at": "2026-11-14T04:44:32.815Z",
+  "localDate": "2026-11-13",
+  "stage": "prepared-no-production-write",
+  "candidates": 22,
+  "prepared": 22,
+  "productionApplied": 0,
+  "pendingEvidence": 0,
+  "fieldPendingRecords": 2,
+  "plannedBatchSizes": [
+    20,
+    2
+  ],
+  "groups": [
+    "series-e7b0b5feefeb87f2",
+    "series-0ca1528ecc218583"
+  ],
+  "previousCommit": "e8117d53452d76ca440e823dd8807d0b8db7cee6",
+  "previousOutstanding": "../link-samurai/resume.json",
+  "nextAction": "正式新鲜读取22条、预期版本保护下20+2写入及读回；关闭维护窗口并认证验证401；更新累计及下一批。",
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}
