@@ -1,0 +1,46 @@
+{
+  "at": "2026-11-20T17:51:34.805Z",
+  "items": [
+    {
+      "itemId": "source-5ebf3065a29ab3fa5281e66045f9242b",
+      "title": "フェイトグランドオーダーウエハース 12弾/2671918 ドプルイニャ・ニキチッチ 12",
+      "fields": [
+        "原人物名称日文字形"
+      ],
+      "number": 12,
+      "originalName": "ドプルイニャ・ニキチッチ",
+      "officialFrontName": "Dobrynya Nikitich",
+      "reason": "原题「ドプルイニャ・ニキチッチ」与官方日文表记的プ/ブ字形不一致；官方No.12图款及正面Dobrynya Nikitich标字已对应，原标题不改，待原零售可读详情/卡背核对后决定名称修订。",
+      "needed": "更清晰官方日文标记以及原零售可读详情/卡背；原标题保持。",
+      "imageObservation": {
+        "id": "wafer12-original-image-12",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/83/917/0383088917/s_03830889170.jpg",
+        "sha256": "fa7eb2245f511c12dc5ee3916b34a790ee485a8ec77095fa80949772c6cfb93f"
+      },
+      "appliedSafeSummary": false
+    },
+    {
+      "itemId": "source-bc878e993b9a9179a075c87a73ba89b1",
+      "title": "フェイトグランドオーダーウエハース 12弾/2671918 徴姉妹 1",
+      "fields": [
+        "原人物名称日文字形"
+      ],
+      "number": 1,
+      "originalName": "徴姉妹",
+      "officialFrontName": "Hai Bà Trưng",
+      "reason": "原题「徴姉妹」的日文字形须与更清晰的官方文字/原卡背独立核对；只确认官方No.01图款及正面Hai Bà Trưng标字，不据小图重写汉字。",
+      "needed": "更清晰官方日文标记以及原零售可读详情/卡背；原标题保持。",
+      "imageObservation": {
+        "id": "wafer12-original-image-1",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/83/905/0383088905/s_03830889050.jpg",
+        "sha256": "39920de1941bb9bc4ed6624538dbb90d33d99efaf228d360f11a1175ac327157"
+      },
+      "appliedSafeSummary": false
+    }
+  ],
+  "scopeCounts": {
+    "japaneseNameGlyphs": 2,
+    "distinctRecords": 2
+  },
+  "note": "18条图款/卡号等可补；其中2条日文名称字形单独待查，原名保留。均不计完整核实。"
+}

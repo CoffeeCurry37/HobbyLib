@@ -1,0 +1,526 @@
+[
+  {
+    "id": "wafer3-official-numbered-lineup",
+    "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-observation-of-official-linked-image",
+    "sourceAt": "2026-11-20T17:46:30.531Z",
+    "sourceSha256": "4374f6ee82e44801c3fad7c1e1b78132cb5cb2c292ac554b72d3eb7ebe7c5395",
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "totalTypes": 25,
+      "secretShown": false,
+      "numberedCardsShown": 24,
+      "targets": [
+        {
+          "number": 2,
+          "name": "トリスタン",
+          "class": "アーチャー",
+          "rarity": "N"
+        },
+        {
+          "number": 4,
+          "name": "宝蔵院胤舜",
+          "class": "ランサー",
+          "rarity": "N"
+        },
+        {
+          "number": 7,
+          "name": "ハンス・クリスチャン・アンデルセン",
+          "class": "キャスター",
+          "rarity": "N"
+        },
+        {
+          "number": 10,
+          "name": "不夜城のアサシン",
+          "class": "アサシン",
+          "rarity": "N"
+        },
+        {
+          "number": 11,
+          "name": "坂田金時",
+          "class": "バーサーカー",
+          "rarity": "N"
+        },
+        {
+          "number": 14,
+          "name": "新宿のアーチャー",
+          "class": "アーチャー",
+          "rarity": "R"
+        },
+        {
+          "number": 15,
+          "name": "ブリュンヒルデ",
+          "class": "ランサー",
+          "rarity": "R"
+        },
+        {
+          "number": 21,
+          "name": "ネロ・クラウディウス[ブライド]",
+          "class": "セイバー",
+          "rarity": "SR"
+        },
+        {
+          "number": 23,
+          "name": "レオナルド・ダ・ヴィンチ",
+          "class": "キャスター",
+          "rarity": "SR"
+        }
+      ],
+      "scope": "按官方印出的No.编号、稀有度分区及图款对应；不是本地记录序号。黑框隐藏卡没有揭示角色。名称字形未确认处仅记可读正面罗马字，不改原标题。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-10",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/977/0301398977/s_03013989771.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:26.182Z",
+    "sourceSha256": "ab9fbb3fccbe5466ebd530d80e32d14bc80a348ffe7c4934d947ce68fa81a1cd",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/DrD/000000211779oHTcavqz3ybLg8BC4NtkX62YlUx8asNHzDrD.jpg",
+      "at": "2026-11-20T17:46:28.846Z",
+      "sha256": "088942baee457abb505d522599878fdc620588a7cfb5989dab8266bbd3262b85"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 10,
+      "name": "不夜城のアサシン",
+      "officialPosition": "下左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-14",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/981/0301398981/s_03013989814.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:27.334Z",
+    "sourceSha256": "54f8fc82c0a54065e6892577f30aaa7fbab52992be19e01229455df312f08058",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/Vie/000000211783qdDyJCodjCf0GnJwER9dGtKkwxJ7nVb8yVie.jpg",
+      "at": "2026-11-20T17:46:29.279Z",
+      "sha256": "b80516e7b1496c3b18efdf8d561856260d0038bc83ddbb3d10ec587f26be116c"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 14,
+      "name": "新宿のアーチャー",
+      "officialPosition": "上右",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-7",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/974/0301398974/s_03013989744.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:27.958Z",
+    "sourceSha256": "5e6ffd14fa27a06c8b3ee4e082bf619a244ab2cf4697f69984e17f4504a343c0",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/DrD/000000211779oHTcavqz3ybLg8BC4NtkX62YlUx8asNHzDrD.jpg",
+      "at": "2026-11-20T17:46:28.846Z",
+      "sha256": "088942baee457abb505d522599878fdc620588a7cfb5989dab8266bbd3262b85"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 7,
+      "name": "ハンス・クリスチャン・アンデルセン",
+      "officialPosition": "上左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-23",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/990/0301398990/s_03013989906.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:28.939Z",
+    "sourceSha256": "b2c8838da7fd58611f1bff999747d45a4afc674ae1432672975c19da1ff4112e",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/IDg/000000211791eikQOuVcl2FavTOwP2OBxRLMBKWsLdWb0IDg.jpg",
+      "at": "2026-11-20T17:46:30.111Z",
+      "sha256": "3d8e9ad5c249b2f41fde3fffd3e8640c5b70ae44890cc9cbe20166db62871756"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 23,
+      "name": "レオナルド・ダ・ヴィンチ",
+      "officialPosition": "下左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-4",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/971/0301398971/s_03013989714.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:29.815Z",
+    "sourceSha256": "974322f29cbf33870627e7b6078834d17a689dcf6f85f6392084c71fcf3e9c39",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/bRY/000000211775XcCp1FbF3qnP9zW9ZsKqHYgsjQCYgaPuHbRY.jpg",
+      "at": "2026-11-20T17:46:28.426Z",
+      "sha256": "25d236035c1d065e3ef020f40b23de60a1a249ee8b719221e40a6f8d186631b2"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 4,
+      "name": "宝蔵院胤舜",
+      "officialPosition": "下左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-15",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/982/0301398982/s_03013989824.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:30.797Z",
+    "sourceSha256": "28c2ed937605a00b2a5244c18c28415dc1c70969586512533d5a06b7433f675b",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/Vie/000000211783qdDyJCodjCf0GnJwER9dGtKkwxJ7nVb8yVie.jpg",
+      "at": "2026-11-20T17:46:29.279Z",
+      "sha256": "b80516e7b1496c3b18efdf8d561856260d0038bc83ddbb3d10ec587f26be116c"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 15,
+      "name": "ブリュンヒルデ",
+      "officialPosition": "下左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-21",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/988/0301398988/s_03013989881.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:31.672Z",
+    "sourceSha256": "a86500f503dff1de0ab776e98cbb0f3d26f7605f1735b4d47fab975d436bafaf",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/IDg/000000211791eikQOuVcl2FavTOwP2OBxRLMBKWsLdWb0IDg.jpg",
+      "at": "2026-11-20T17:46:30.111Z",
+      "sha256": "3d8e9ad5c249b2f41fde3fffd3e8640c5b70ae44890cc9cbe20166db62871756"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 21,
+      "name": "ネロ・クラウディウス[ブライド]",
+      "officialPosition": "上左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-2",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/969/0301398969/s_03013989692.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:32.173Z",
+    "sourceSha256": "e379cf417607c935d20c9b2a0f28c23df382f614bbe860392957692c39695f07",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/bRY/000000211775XcCp1FbF3qnP9zW9ZsKqHYgsjQCYgaPuHbRY.jpg",
+      "at": "2026-11-20T17:46:28.426Z",
+      "sha256": "25d236035c1d065e3ef020f40b23de60a1a249ee8b719221e40a6f8d186631b2"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 2,
+      "name": "トリスタン",
+      "officialPosition": "上中",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer3-original-image-11",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/01/978/0301398978/s_03013989784.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:33.092Z",
+    "sourceSha256": "ee0780c0846b89c65ab2dc3175e6be359260e6cdc77f0b66f2db20b9be2459b6",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/DrD/000000211779oHTcavqz3ybLg8BC4NtkX62YlUx8asNHzDrD.jpg",
+      "at": "2026-11-20T17:46:28.846Z",
+      "sha256": "088942baee457abb505d522599878fdc620588a7cfb5989dab8266bbd3262b85"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 11,
+      "name": "坂田金時",
+      "officialPosition": "下中",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-official-numbered-lineup",
+    "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/To9/000000372341yjBj7JRXsyvKmNDzxWzvif7EdwGrO27I4To9.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-observation-of-official-linked-image",
+    "sourceAt": "2026-11-20T17:46:34.960Z",
+    "sourceSha256": "4c30fcda4ceda69c0619388c22ca829ba971f179afa5a04b8dc7a1a5f26d7387",
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "totalTypes": 30,
+      "secretShown": false,
+      "numberedCardsShown": 29,
+      "targets": [
+        {
+          "number": 1,
+          "name": "Hai Bà Trưng",
+          "originalName": "徴姉妹",
+          "class": "セイバー",
+          "rarity": "N",
+          "namePending": true
+        },
+        {
+          "number": 5,
+          "name": "ヒルド",
+          "class": "アサシン",
+          "rarity": "N"
+        },
+        {
+          "number": 8,
+          "name": "徐福",
+          "class": "アルターエゴ",
+          "rarity": "N"
+        },
+        {
+          "number": 11,
+          "name": "ガレス",
+          "class": "セイバー",
+          "rarity": "R"
+        },
+        {
+          "number": 12,
+          "name": "Dobrynya Nikitich",
+          "originalName": "ドプルイニャ・ニキチッチ",
+          "class": "ライダー",
+          "rarity": "R",
+          "namePending": true
+        },
+        {
+          "number": 14,
+          "name": "武則天",
+          "class": "キャスター",
+          "rarity": "R"
+        },
+        {
+          "number": 19,
+          "name": "アルトリア・ペンドラゴン[オルタ]",
+          "class": "セイバー",
+          "rarity": "CR"
+        },
+        {
+          "number": 20,
+          "name": "アーサー・ペンドラゴン[プロトタイプ]",
+          "class": "セイバー",
+          "rarity": "CR"
+        },
+        {
+          "number": 24,
+          "name": "シャルルマーニュ",
+          "class": "セイバー",
+          "rarity": "SR"
+        }
+      ],
+      "scope": "按官方印出的No.编号、稀有度分区及图款对应；不是本地记录序号。黑框隐藏卡没有揭示角色。名称字形未确认处仅记可读正面罗马字，不改原标题。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-20",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/925/0383088925/s_03830889253.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:34.031Z",
+    "sourceSha256": "55c1e432cf4234583dec9fed1819e72376fe75fa8be06f8eca43e8cecd0e55c1",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/F8U/0000003706474nVdyKN9keoZmsgYa92gHYRSPD1UASkdGF8U.jpg",
+      "at": "2026-11-20T17:46:33.656Z",
+      "sha256": "a0271f45c6aacd5910000afcb1400f4d0d8ae20b43a2c0be7ece9531a0e8a2d7"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 20,
+      "name": "アーサー・ペンドラゴン[プロトタイプ]",
+      "officialPosition": "上右",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-5",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/909/0383088909/s_03830889090.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:34.956Z",
+    "sourceSha256": "483b1c9903d409f074cafbb97c2e00b69ccc8483750769106358dcce193bf444",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/oMA/000000370631kmAdZvcmyBKvKoUHHA1adge65GmnaBf3uoMA.jpg",
+      "at": "2026-11-20T17:46:31.935Z",
+      "sha256": "f00bd170a7a0b23b6361d39048a5a4a97f767dcfe00eeed4a57cbaa62a37b7c5"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 5,
+      "name": "ヒルド",
+      "officialPosition": "下中",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-24",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/929/0383088929/s_03830889290.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:35.829Z",
+    "sourceSha256": "fd2da7a87da793d5864732f7f887c707cb9f1d52bb14c414bd7833188f3cdc7a",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/wqf/000000370651S2WImYDktBGw9JgnbuzHF0lxq06xfV2jqwqf.jpg",
+      "at": "2026-11-20T17:46:34.090Z",
+      "sha256": "f2778e122adb6ddb0b3d02fc1998d565090877dd963065385e2f5ed56c166fd0"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 24,
+      "name": "シャルルマーニュ",
+      "officialPosition": "上左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-11",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/916/0383088916/s_03830889160.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:36.802Z",
+    "sourceSha256": "d758a54ccd13f4f7b4d7dd0d0ab67dd4d2976b4d1081498c2338b4f5201f3a21",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/0d5/00000037063915u7KTwb2pliVVToyWIagbYrbgi66LZM30d5.jpg",
+      "at": "2026-11-20T17:46:32.806Z",
+      "sha256": "a8fca03a7fc051226f74823c6c16e3f240f9ad00bd0235f1c8f1797945d09a58"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 11,
+      "name": "ガレス",
+      "officialPosition": "上左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-12",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/917/0383088917/s_03830889170.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:37.668Z",
+    "sourceSha256": "61f889d8a0b466289b1bb30d31ba9818faaa89e2ffafc59a5c9018466899c51b",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/0d5/00000037063915u7KTwb2pliVVToyWIagbYrbgi66LZM30d5.jpg",
+      "at": "2026-11-20T17:46:32.806Z",
+      "sha256": "a8fca03a7fc051226f74823c6c16e3f240f9ad00bd0235f1c8f1797945d09a58"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 12,
+      "name": "Dobrynya Nikitich",
+      "officialPosition": "上右",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-19",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/924/0383088924/s_03830889240.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:38.652Z",
+    "sourceSha256": "d53a5a2728b84522f1966649c4f1a3a529539c82f79aa294410faeb4905f6e0a",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/F8U/0000003706474nVdyKN9keoZmsgYa92gHYRSPD1UASkdGF8U.jpg",
+      "at": "2026-11-20T17:46:33.656Z",
+      "sha256": "a0271f45c6aacd5910000afcb1400f4d0d8ae20b43a2c0be7ece9531a0e8a2d7"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 19,
+      "name": "アルトリア・ペンドラゴン[オルタ]",
+      "officialPosition": "上左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-8",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/912/0383088912/s_03830889120.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:39.614Z",
+    "sourceSha256": "a6238563ef096daba5b789249ded2583c047557bbde0de355be308c2f55a2907",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/fY1/000000370635nnc0GQNgldPcd9spbgtxARiqHPQ9nni9LfY1.jpg",
+      "at": "2026-11-20T17:46:32.375Z",
+      "sha256": "61efc1925d42df98c52f5ba8d472d7342f7443beb27da76439b01d8e73924a1f"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 8,
+      "name": "徐福",
+      "officialPosition": "上右",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-1",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/905/0383088905/s_03830889050.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:40.506Z",
+    "sourceSha256": "fe500b70f21ab39d3018e7f8222f3215e3c74839241c5bae12386a56b84e3bcb",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/oMA/000000370631kmAdZvcmyBKvKoUHHA1adge65GmnaBf3uoMA.jpg",
+      "at": "2026-11-20T17:46:31.935Z",
+      "sha256": "f00bd170a7a0b23b6361d39048a5a4a97f767dcfe00eeed4a57cbaa62a37b7c5"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 1,
+      "name": "Hai Bà Trưng",
+      "officialPosition": "上左",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer12-original-image-14",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/83/919/0383088919/s_03830889191.jpg",
+    "at": "2026-11-20T17:51:34.805Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T17:46:41.378Z",
+    "sourceSha256": "4f199b617e971eda1fd8910ee6b4bef9d8e843d63ef8891aafe59d0520128c5f",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/0d5/00000037063915u7KTwb2pliVVToyWIagbYrbgi66LZM30d5.jpg",
+      "at": "2026-11-20T17:46:32.806Z",
+      "sha256": "a8fca03a7fc051226f74823c6c16e3f240f9ad00bd0235f1c8f1797945d09a58"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 14,
+      "name": "武則天",
+      "officialPosition": "下右",
+      "result": "原零售正面的人物、姿势、服饰、背景及边框与官方对应图一致",
+      "scope": "原小图均为正面，未声称读过原实物卡背；编号由原具名标题及官方印号清单绑定，不能判断当前品相或包装完整。"
+    }
+  }
+]

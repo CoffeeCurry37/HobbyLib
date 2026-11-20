@@ -1,0 +1,21 @@
+{
+  "at": "2026-11-20T17:52:37.122Z",
+  "stage": "prepared-no-production-write",
+  "baseCommit": "21750ff083005018dbf175827fb34974b56b8ee7",
+  "candidates": 18,
+  "prepared": 18,
+  "productionApplied": 0,
+  "wholePending": 0,
+  "fieldPendingRecords": 2,
+  "fieldPendingFile": "field-pending.json",
+  "previousOutstanding": "../wafer4-alacarte/resume.json",
+  "simulation": "simulation.json",
+  "doNotReplay": "此前威化4/漫画选集18条及全部历史成功动作禁止重放。",
+  "nextAction": "核对实时完整目标与版本，只写已验证的18条安全补充；逐条读回，关闭维护入口实测，再更新累计。",
+  "limitations": [
+    "第3弹9张是独立零售ID，不重放此前17条官方派生记录",
+    "第12弹与22条匿名占位分组分开",
+    "18张原图和18张官方图均已目视，2条日文字形保留待查",
+    "原卡背及18个受限原零售详情未取得，不声称完整核实；包装条码不填单卡JAN"
+  ]
+}

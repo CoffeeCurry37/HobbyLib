@@ -1,0 +1,294 @@
+{
+  "at": "2026-11-20T17:51:34.805Z",
+  "series": [
+    {
+      "key": "wafer3",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "releaseDate": "2018-06-05",
+      "totalTypes": 25,
+      "rarities": {
+        "N": 12,
+        "R": 8,
+        "SR": 4,
+        "SSR": 1
+      },
+      "officialImages": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/kbb/000000211767AV2tVmcQpJZc5kkWhk3ugUdpyEjs23RVvkbb.jpg",
+          "at": "2026-11-20T17:46:26.525Z",
+          "sha256": "7a0abb7a6545a65a0003bd9fcc8cf5fa44b75c1b024e6da44e7cbeddb3150ec4"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/fpZ/000000211771WJKUr8egl2ysV8zTNtVwyTui8KwOpnF7TfpZ.jpg",
+          "at": "2026-11-20T17:46:27.862Z",
+          "sha256": "cd28ae0a5a7613c2408d3915bb0d9291fd8b10a4f0113fa7911d5782b756b25f"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/bRY/000000211775XcCp1FbF3qnP9zW9ZsKqHYgsjQCYgaPuHbRY.jpg",
+          "at": "2026-11-20T17:46:28.426Z",
+          "sha256": "25d236035c1d065e3ef020f40b23de60a1a249ee8b719221e40a6f8d186631b2"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/DrD/000000211779oHTcavqz3ybLg8BC4NtkX62YlUx8asNHzDrD.jpg",
+          "at": "2026-11-20T17:46:28.846Z",
+          "sha256": "088942baee457abb505d522599878fdc620588a7cfb5989dab8266bbd3262b85"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/Vie/000000211783qdDyJCodjCf0GnJwER9dGtKkwxJ7nVb8yVie.jpg",
+          "at": "2026-11-20T17:46:29.279Z",
+          "sha256": "b80516e7b1496c3b18efdf8d561856260d0038bc83ddbb3d10ec587f26be116c"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/Gnw/000000211787WcfmjV3wSVSkfA4WZZXTOnQWHUBKbji9oGnw.jpg",
+          "at": "2026-11-20T17:46:29.690Z",
+          "sha256": "534b9054d5e29c9848132bf0e485fe60e1dee996117635fad13eb69e5bf70120"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/IDg/000000211791eikQOuVcl2FavTOwP2OBxRLMBKWsLdWb0IDg.jpg",
+          "at": "2026-11-20T17:46:30.111Z",
+          "sha256": "3d8e9ad5c249b2f41fde3fffd3e8640c5b70ae44890cc9cbe20166db62871756"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+          "at": "2026-11-20T17:46:30.531Z",
+          "sha256": "4374f6ee82e44801c3fad7c1e1b78132cb5cb2c292ac554b72d3eb7ebe7c5395"
+        }
+      ],
+      "lineup": [
+        {
+          "number": 2,
+          "name": "トリスタン",
+          "class": "アーチャー",
+          "rarity": "N",
+          "image": 2,
+          "position": "上中"
+        },
+        {
+          "number": 4,
+          "name": "宝蔵院胤舜",
+          "class": "ランサー",
+          "rarity": "N",
+          "image": 2,
+          "position": "下左"
+        },
+        {
+          "number": 7,
+          "name": "ハンス・クリスチャン・アンデルセン",
+          "class": "キャスター",
+          "rarity": "N",
+          "image": 3,
+          "position": "上左"
+        },
+        {
+          "number": 10,
+          "name": "不夜城のアサシン",
+          "class": "アサシン",
+          "rarity": "N",
+          "image": 3,
+          "position": "下左"
+        },
+        {
+          "number": 11,
+          "name": "坂田金時",
+          "class": "バーサーカー",
+          "rarity": "N",
+          "image": 3,
+          "position": "下中"
+        },
+        {
+          "number": 14,
+          "name": "新宿のアーチャー",
+          "class": "アーチャー",
+          "rarity": "R",
+          "image": 4,
+          "position": "上右"
+        },
+        {
+          "number": 15,
+          "name": "ブリュンヒルデ",
+          "class": "ランサー",
+          "rarity": "R",
+          "image": 4,
+          "position": "下左"
+        },
+        {
+          "number": 21,
+          "name": "ネロ・クラウディウス[ブライド]",
+          "class": "セイバー",
+          "rarity": "SR",
+          "image": 6,
+          "position": "上左"
+        },
+        {
+          "number": 23,
+          "name": "レオナルド・ダ・ヴィンチ",
+          "class": "キャスター",
+          "rarity": "SR",
+          "image": 6,
+          "position": "下左"
+        }
+      ],
+      "targetSingles": 9,
+      "originalImagesCompared": 9,
+      "scope": "不涉及此前已补第3弹17条及另组第12弹22条匿名占位；原包装食品内容不保证二手单卡附带，最高稀有工艺不外推全卡。"
+    },
+    {
+      "key": "wafer12",
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2023/4549660958338000.html",
+        "at": "2026-11-20T06:50:41.792Z",
+        "sha256": "b1223ce10a1150a1c81a0928adb69ac98177aa6fe149c957fb66565a9b8564f0"
+      },
+      "releaseDate": "2023-07-31",
+      "totalTypes": 30,
+      "rarities": {
+        "N": 10,
+        "R": 8,
+        "CR": 5,
+        "SR": 6,
+        "SSR": 1
+      },
+      "officialImages": [
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/Ct6/000000370623Be5qfDGxxmgZrHVgjbATxStMpMLFoPCWICt6.jpg",
+          "at": "2026-11-20T17:46:30.936Z",
+          "sha256": "10a5defe89c28e6e607db56813e80215d354222a589932a1edb7c0cc97ddfe1e"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/Y4p/000000370627qtDAiIGDNEwY4geciKvpq2jjbJRR5IKHHY4p.jpg",
+          "at": "2026-11-20T17:46:31.514Z",
+          "sha256": "3cf907a94c48b6df205040c6fbc567559a9d4ebe6418674a28e9c381a4d7f78a"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/oMA/000000370631kmAdZvcmyBKvKoUHHA1adge65GmnaBf3uoMA.jpg",
+          "at": "2026-11-20T17:46:31.935Z",
+          "sha256": "f00bd170a7a0b23b6361d39048a5a4a97f767dcfe00eeed4a57cbaa62a37b7c5"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/fY1/000000370635nnc0GQNgldPcd9spbgtxARiqHPQ9nni9LfY1.jpg",
+          "at": "2026-11-20T17:46:32.375Z",
+          "sha256": "61efc1925d42df98c52f5ba8d472d7342f7443beb27da76439b01d8e73924a1f"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/0d5/00000037063915u7KTwb2pliVVToyWIagbYrbgi66LZM30d5.jpg",
+          "at": "2026-11-20T17:46:32.806Z",
+          "sha256": "a8fca03a7fc051226f74823c6c16e3f240f9ad00bd0235f1c8f1797945d09a58"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/Udb/000000370643FbhxO1GYVl4DdMJs816MWpXJY2Sm4A5WyUdb.jpg",
+          "at": "2026-11-20T17:46:33.231Z",
+          "sha256": "34f3b800b775c308d6180f76a51ae648f4e5b080cdb8f4c75062b3026001196e"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/F8U/0000003706474nVdyKN9keoZmsgYa92gHYRSPD1UASkdGF8U.jpg",
+          "at": "2026-11-20T17:46:33.656Z",
+          "sha256": "a0271f45c6aacd5910000afcb1400f4d0d8ae20b43a2c0be7ece9531a0e8a2d7"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/wqf/000000370651S2WImYDktBGw9JgnbuzHF0lxq06xfV2jqwqf.jpg",
+          "at": "2026-11-20T17:46:34.090Z",
+          "sha256": "f2778e122adb6ddb0b3d02fc1998d565090877dd963065385e2f5ed56c166fd0"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/bPU/000000370655pwbv2vT5JRuvUEGqOeu6xWcyYIzqlTI9BbPU.jpg",
+          "at": "2026-11-20T17:46:34.536Z",
+          "sha256": "71f1b80a363314f0b6a071d03c5cbd3524d5e453ced76f0daa4fc3bf2844ac19"
+        },
+        {
+          "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/To9/000000372341yjBj7JRXsyvKmNDzxWzvif7EdwGrO27I4To9.jpg",
+          "at": "2026-11-20T17:46:34.960Z",
+          "sha256": "4c30fcda4ceda69c0619388c22ca829ba971f179afa5a04b8dc7a1a5f26d7387"
+        }
+      ],
+      "lineup": [
+        {
+          "number": 1,
+          "name": "Hai Bà Trưng",
+          "originalName": "徴姉妹",
+          "class": "セイバー",
+          "rarity": "N",
+          "image": 2,
+          "position": "上左",
+          "namePending": true,
+          "nameIssue": "原题「徴姉妹」的日文字形须与更清晰的官方文字/原卡背独立核对；只确认官方No.01图款及正面Hai Bà Trưng标字，不据小图重写汉字。"
+        },
+        {
+          "number": 5,
+          "name": "ヒルド",
+          "class": "アサシン",
+          "rarity": "N",
+          "image": 2,
+          "position": "下中"
+        },
+        {
+          "number": 8,
+          "name": "徐福",
+          "class": "アルターエゴ",
+          "rarity": "N",
+          "image": 3,
+          "position": "上右"
+        },
+        {
+          "number": 11,
+          "name": "ガレス",
+          "class": "セイバー",
+          "rarity": "R",
+          "image": 4,
+          "position": "上左"
+        },
+        {
+          "number": 12,
+          "name": "Dobrynya Nikitich",
+          "originalName": "ドプルイニャ・ニキチッチ",
+          "class": "ライダー",
+          "rarity": "R",
+          "image": 4,
+          "position": "上右",
+          "namePending": true,
+          "nameIssue": "原题「ドプルイニャ・ニキチッチ」与官方日文表记的プ/ブ字形不一致；官方No.12图款及正面Dobrynya Nikitich标字已对应，原标题不改，待原零售可读详情/卡背核对后决定名称修订。"
+        },
+        {
+          "number": 14,
+          "name": "武則天",
+          "class": "キャスター",
+          "rarity": "R",
+          "image": 4,
+          "position": "下右"
+        },
+        {
+          "number": 19,
+          "name": "アルトリア・ペンドラゴン[オルタ]",
+          "class": "セイバー",
+          "rarity": "CR",
+          "image": 6,
+          "position": "上左"
+        },
+        {
+          "number": 20,
+          "name": "アーサー・ペンドラゴン[プロトタイプ]",
+          "class": "セイバー",
+          "rarity": "CR",
+          "image": 6,
+          "position": "上右"
+        },
+        {
+          "number": 24,
+          "name": "シャルルマーニュ",
+          "class": "セイバー",
+          "rarity": "SR",
+          "image": 7,
+          "position": "上左"
+        }
+      ],
+      "targetSingles": 9,
+      "originalImagesCompared": 9,
+      "scope": "不涉及此前已补第3弹17条及另组第12弹22条匿名占位；原包装食品内容不保证二手单卡附带，最高稀有工艺不外推全卡。"
+    }
+  ],
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

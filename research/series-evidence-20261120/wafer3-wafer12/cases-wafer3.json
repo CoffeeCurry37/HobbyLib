@@ -1,0 +1,455 @@
+{
+  "at": "2026-11-20T17:51:34.805Z",
+  "rows": [
+    {
+      "itemId": "1a868a13-966e-409a-b336-bd11e37b16aa",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 2435058/3弾 不夜城のアサシン 10",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.10 アサシン/不夜城のアサシン",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/977/0301398977/s_03013989771.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:10",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1091044070&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.10 N 不夜城のアサシン",
+      "wave": 3,
+      "number": 10,
+      "rarity": "N",
+      "officialName": "不夜城のアサシン",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-10",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/977/0301398977/s_03013989771.jpg",
+        "sha256": "9f0a7d75cf331d0c4acc83b13c0fa5a57ec7f9dcc8017da5f64ac16f02f66a65"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.10，N级，人物为不夜城のアサシン。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    },
+    {
+      "itemId": "350f79cf-98b0-41dd-8e36-1b4aa0093ff1",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 3弾/2435058 新宿のアーチャー 14",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.14 アーチャー/新宿のアーチャー",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/981/0301398981/s_03013989814.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:14",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1340427685&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.14 R 新宿のアーチャー",
+      "wave": 3,
+      "number": 14,
+      "rarity": "R",
+      "officialName": "新宿のアーチャー",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-14",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/981/0301398981/s_03013989814.jpg",
+        "sha256": "97ff5818507856c5257a77fa983178170f5bc9d36c4955d3d44d7e3318d3919f"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.14，R级，人物为新宿のアーチャー。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    },
+    {
+      "itemId": "568c6bd4-ef7f-47bf-9387-5bd222cd68f1",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 3弾/2435058 ハンス・クリスチャン・アンデルセン 7",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.07 キャスター/ハンス・クリスチャン・アンデルセン",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/974/0301398974/s_03013989744.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:07",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1340426853&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.07 N ハンス・クリスチャン・アンデルセン",
+      "wave": 3,
+      "number": 7,
+      "rarity": "N",
+      "officialName": "ハンス・クリスチャン・アンデルセン",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-7",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/974/0301398974/s_03013989744.jpg",
+        "sha256": "1a04edf2238e6c7b922b6bec87a90c4e277a9a0364bcd213a685d3f2b2c3381a"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.07，N级，人物为ハンス・クリスチャン・アンデルセン。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    },
+    {
+      "itemId": "5a5d8987-c5ba-4dee-918e-545ffb5a74ba",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 3弾/2435058 レオナルド・ダ・ヴィンチ 23",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.23 キャスター/レオナルド・ダ・ヴィンチ",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/990/0301398990/s_03013989906.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:23",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1344410014&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.23 SR レオナルド・ダ・ヴィンチ",
+      "wave": 3,
+      "number": 23,
+      "rarity": "SR",
+      "officialName": "レオナルド・ダ・ヴィンチ",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-23",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/990/0301398990/s_03013989906.jpg",
+        "sha256": "3998058feaf579aa42cdf834cc2a355e1a9fef8c4b612e5aaed0208b0270731a"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.23，SR级，人物为レオナルド・ダ・ヴィンチ。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    },
+    {
+      "itemId": "705d3173-193b-40c5-af77-e1c59f42a59d",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 3弾/2435058 宝蔵院胤舜 4",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.04 ランサー/宝蔵院胤舜",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/971/0301398971/s_03013989714.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:04",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1340424526&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.04 N 宝蔵院胤舜",
+      "wave": 3,
+      "number": 4,
+      "rarity": "N",
+      "officialName": "宝蔵院胤舜",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-4",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/971/0301398971/s_03013989714.jpg",
+        "sha256": "cbbab87ef8e8873c5cf17d2de05cbf787266f235be4c5fa8278681e303ea04b8"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.04，N级，人物为宝蔵院胤舜。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    },
+    {
+      "itemId": "9433b815-2e14-4fa3-a86c-7a2b6c48eb67",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 3弾/2435058 ブリュンヒルデ 15",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.15 ランサー/ブリュンヒルデ",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/982/0301398982/s_03013989824.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:15",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1340427789&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.15 R ブリュンヒルデ",
+      "wave": 3,
+      "number": 15,
+      "rarity": "R",
+      "officialName": "ブリュンヒルデ",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-15",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/982/0301398982/s_03013989824.jpg",
+        "sha256": "1ec0b1e2577af239202920324c661aa4fe5667b3835baaebcdbdc5cac5913b68"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.15，R级，人物为ブリュンヒルデ。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    },
+    {
+      "itemId": "ac03897e-1927-4d6f-8ba6-7cf25bdfc949",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 2435058/3弾 ネロ・クラウディウス【ブライド】 21",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.21 セイバー/ネロ・クラウディウス[ブライド]",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/988/0301398988/s_03013989881.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:21",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1120144830&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.21 SR ネロ・クラウディウス[ブライド]",
+      "wave": 3,
+      "number": 21,
+      "rarity": "SR",
+      "officialName": "ネロ・クラウディウス[ブライド]",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-21",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/988/0301398988/s_03013989881.jpg",
+        "sha256": "fd37dc13bd36820ea5bdc93c13619f24678aedbe116427271d1c420a579384e1"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.21，SR级，人物为ネロ・クラウディウス[ブライド]。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    },
+    {
+      "itemId": "acd91acf-640b-4f53-aa9b-f80ea1606cab",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 3弾/2435058 トリスタン 2",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.02 アーチャー/トリスタン",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/969/0301398969/s_03013989692.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:02",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1340424318&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.02 N トリスタン",
+      "wave": 3,
+      "number": 2,
+      "rarity": "N",
+      "officialName": "トリスタン",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-2",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/969/0301398969/s_03013989692.jpg",
+        "sha256": "277c068a64523f54a1661ae1dfbc1c2c757ea9b817eeebf93ed6b8654276e1a6"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.02，N级，人物为トリスタン。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    },
+    {
+      "itemId": "bcd8b377-0bf3-4282-b9ba-1593cdbebe22",
+      "groupId": "series-fe69d03bd6d53e3e",
+      "title": "フェイトグランドオーダーウエハース 3弾/2435058 坂田金時 11",
+      "status": "supported",
+      "recordKind": "named-single-card",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "威化卡片",
+        "wave": "3",
+        "member": "No.11 バーサーカー/坂田金時",
+        "image": "https://img.mandarake.co.jp/webshopimg/03/01/978/0301398978/s_03013989784.jpg",
+        "catalogueKey": "fgo-wafer:4549660251392000:card:11",
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1340427282&ref=list&dispCount=240&soldOut=1&keyword=Fate"
+        ]
+      },
+      "source": {
+        "url": "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html",
+        "at": "2026-11-11T03:58:01.925Z",
+        "sha256": "e6f8fb064cb51624716aab460369ae29e369bc18a90242415f778c33a1d53cee"
+      },
+      "sourceRole": "manufacturer",
+      "officialTitle": "Fate/Grand Order ウエハース3 / No.11 N 坂田金時",
+      "wave": 3,
+      "number": 11,
+      "rarity": "N",
+      "officialName": "坂田金時",
+      "namePending": false,
+      "imageObservation": {
+        "id": "wafer3-original-image-11",
+        "url": "https://img.mandarake.co.jp/webshopimg/03/01/978/0301398978/s_03013989784.jpg",
+        "sha256": "c3019482304257bc55ed83cb1c35d532863fe88fa9eb2ab111807e45bcc472b1"
+      },
+      "lineupObservation": {
+        "id": "wafer3-official-numbered-lineup",
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+        "sha256": "db3bb5e08b38ec6e6ad7cbe45e5369082e5b0acd73c9ede7c887e26f8433e322"
+      },
+      "second": "https://www.bandai.co.jp/candy/published/bnc_files/product/qZT/0000002117955R2hftAQV0JdtJI7lZ1UvpdoicsBEbnLSqZT.jpg",
+      "identityMatch": "原具名标题的弹次/2435058、卡号与官方清单相符；原商品正面逐张对照厂家图",
+      "scope": "仅补明确的卡号、稀有度、图款及系列资料；不跨组归并，不将包装条码当单卡JAN",
+      "summary": "BANDAI《Fate/Grand Order》威化卡第3弹的单张塑料卡，官方目录No.11，N级，人物为坂田金時。该弹于2018-06-05发售，卡面采用金属光泽印刷，背面刊载从者资料；本条记录单卡，不承诺附威化食品或原包装。",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。"
+    }
+  ]
+}

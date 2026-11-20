@@ -1,0 +1,26 @@
+[
+  {
+    "groupId": "series-fe69d03bd6d53e3e",
+    "label": "FGO威化第3弹具名零售单卡",
+    "candidates": 9,
+    "sources": [
+      "https://www.bandai.co.jp/candy/products/2018/4549660251392000.html"
+    ],
+    "sourceRole": "manufacturer",
+    "scope": "9条具名Mandarake零售记录；与此前已补的17条官方派生目录/单卡分组不同ID，不重放、不因同人物自动归并；逐条核2435058、卡号、角色及卡面。",
+    "status": "researching",
+    "key": "wafer3"
+  },
+  {
+    "groupId": "series-a6b0ddb8153a5e8e",
+    "label": "FGO威化第12弹具名零售单卡",
+    "candidates": 9,
+    "sources": [
+      "https://www.bandai.co.jp/candy/products/2023/4549660958338000.html"
+    ],
+    "sourceRole": "manufacturer",
+    "scope": "9条具名单卡；与延后的22条匿名第12弹分组不同。逐条核2671918、卡号、人物和原图；原题中ドプルイニャ・ニキチッチ和徴姉妹的字形须按官方清单复核，原名不直接改。",
+    "status": "researching",
+    "key": "wafer12"
+  }
+]
