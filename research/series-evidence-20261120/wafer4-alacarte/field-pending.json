@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T06:45:23.574Z",
+  "at": "2026-11-20T06:50:45.819Z",
   "items": [
     {
       "itemId": "0d50cd1f-24d9-487a-9829-0287a02089fa",
@@ -17,7 +17,7 @@
       "retailerCode": "503091298",
       "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。 日期存在来源差异，简介不补发售日期。",
       "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
-      "appliedSafeSummary": false,
+      "appliedSafeSummary": true,
       "dateComparison": {
         "publisher": "2016-05-26",
         "originalRetailer": "2016-05-21"
@@ -38,7 +38,7 @@
       "retailerCode": "503094165",
       "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。",
       "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "74b85ef7-247b-49a7-af2c-3ae57022c192",
@@ -55,7 +55,7 @@
       "retailerCode": "503095015",
       "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。",
       "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "a58798b8-ab1b-4baf-bd0f-6159de7e73b4",
@@ -72,7 +72,7 @@
       "retailerCode": "503100494",
       "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。",
       "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "b9c25091-95b0-447d-8697-862498358b52",
@@ -90,7 +90,7 @@
       "retailerCode": "503096846",
       "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。 日期存在来源差异，简介不补发售日期。",
       "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
-      "appliedSafeSummary": false,
+      "appliedSafeSummary": true,
       "dateComparison": {
         "publisher": "2017-04-24",
         "originalRetailer": "2017-04-26"
@@ -111,7 +111,7 @@
       "retailerCode": "503098004",
       "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。",
       "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "ec7308d8-8520-4820-b263-5dfc2520db72",
@@ -129,7 +129,7 @@
       "retailerCode": "503092528",
       "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。 日期存在来源差异，简介不补发售日期。",
       "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
-      "appliedSafeSummary": false,
+      "appliedSafeSummary": true,
       "dateComparison": {
         "publisher": "2016-08-26",
         "originalRetailer": "2016-08-24"
@@ -151,7 +151,7 @@
       "retailerCode": "503090008",
       "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。 日期存在来源差异，简介不补发售日期。",
       "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
-      "appliedSafeSummary": false,
+      "appliedSafeSummary": true,
       "dateComparison": {
         "publisher": "2016-03-10",
         "originalRetailer": "2016-03-10",

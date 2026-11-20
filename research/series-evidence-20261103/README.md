@@ -1,12 +1,12 @@
-# 系列补证进度（2026-11-14）
+# 系列补证进度（2026-11-20）
 
-截至 2026-11-14，累计已逐件检查 82 个系列的 7,031 条候选，5,230 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,766 个系列尚待逐件研究。完整核实系列数为 0。
+截至 2026-11-20，累计已逐件检查 84 个系列的 7,049 条候选，5,248 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,764 个系列尚待逐件研究。完整核实系列数为 0。
 
-本轮按顺序检查Key-th Fate/strange Fake迷你角色徽章10条、Fate/EXTRA CCC漫画书目9条，共19条；单批正式补充并完整读回，无跳过。仅补空简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系和偏好保留。Sites 70，环境修订129；维护入口已实测 HTTP 401 关闭。
+本轮按顺序检查FGO威化第4弹具名单卡9条、FGO コミックアラカルト漫画选集9条，共18条；单批正式补充并完整读回，无跳过。仅补空简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系和偏好保留。Sites 70，环境修订131；维护入口已实测 HTTP 401 关闭。
 
-徽章7单款、BOX、单包与零售全套分别保留；厂家页/图确认商品线、七款设计及BOX7个，约57mm、纸/钢等与随机封入明确标为销售资料，BOX不保证集齐。漫画8卷纸本加1逻辑目录，前4卷B6变形判、后4卷B6判，第6卷既有零售JAN保持。单包/全套封装与附件、漫画第5卷日期共3条字段继续待查，日期差异未写入简介。
+9张具名单卡的卡号、人物及原零售正面图均与万代官方清单/卡面对应，不把包装条码当单卡JAN或承诺附食品。漫画8卷纸本及1逻辑目录分别保留，简介补编辑方与出版社规格；8卷原零售书号/具体印次继续待查，原ISBN/JAN保持为空。第1、2、3、6卷日期有差异，简介不补日期。目录关联现有1至8卷，不表示系列仅8卷或完结。
 
-本轮[3条字段待查](../series-evidence-20261114/keyth-ccc/field-pending.json)保留；前轮[8条字段待查](../series-evidence-20261114/melty-capsule/field-pending.json)保留；上轮[9条字段待查](../series-evidence-20261113/strangefake-mirror/field-pending.json)及[前轮未决链](../series-evidence-20261113/tsukihime-strangefake/resume.json)均保留；已补通用信息不等于完整核实。
+本轮[8卷字段待查](../series-evidence-20261120/wafer4-alacarte/field-pending.json)保留，其中4卷日期差异；前轮[3条字段待查](../series-evidence-20261114/keyth-ccc/field-pending.json)保留；前轮[8条字段待查](../series-evidence-20261114/melty-capsule/field-pending.json)保留；上轮[9条字段待查](../series-evidence-20261113/strangefake-mirror/field-pending.json)及[前轮未决链](../series-evidence-20261113/tsukihime-strangefake/resume.json)均保留；已补通用信息不等于完整核实。
 
 前轮[2条日期字段待查](../series-evidence-20261113/tsukihime-strangefake/field-pending.json)保留；历史未决项沿[前轮断点](../series-evidence-20261113/link-samurai/resume.json)继续保留。
 
@@ -18,9 +18,9 @@
 
 上一轮CLIMAX/英霊剣豪31条已补充，CLIMAX第1～8卷页数/开本仍[待查](../series-evidence-20261111/climax-kengou/field-pending.json)，本轮未重放。
 
-下一批先补查FGO威化第4弹具名单卡的9条，再查FGO コミックアラカルト漫画选集的9条。厂家与出版社入口已缓存；单卡逐图核卡号/人物，8条零售书目及1目录须先绑定纸本卷号和零售编号，不借用PLUS!或电子版。这18条仅为来源发现，尚未逐条补证。
+下一批先补查FGO威化第3弹具名零售单卡9条，再查第12弹具名零售单卡9条。两组官方入口已缓存，尚未逐条补证。第3弹这9条为独立零售ID，与此前已补的17条目录/单卡分组不同；第12弹与22条匿名占位分组分开。逐条核弹次、卡号、角色与原图，不自动归并或改名。
 
-[最新断点](../series-evidence-20261114/keyth-ccc/README.md) · [待查及接续](../series-evidence-20261114/keyth-ccc/resume.json) · [累计分组](current-progress.json)。
+[最新断点](../series-evidence-20261120/wafer4-alacarte/README.md) · [待查及接续](../series-evidence-20261120/wafer4-alacarte/resume.json) · [累计分组](current-progress.json)。
 
 以下保留此前阶段记录，不覆盖最新断点。
 

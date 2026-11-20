@@ -1,6 +1,6 @@
 {
   "at": "2026-11-20T06:46:01.437Z",
-  "stage": "prepared-no-production-write",
+  "stage": "applied-read-back-and-closed",
   "candidates": 18,
   "prepared": 18,
   "pending": 0,
@@ -15,12 +15,13 @@
       ],
       "sourceRole": "manufacturer",
       "scope": "9个具名零售单卡，核原卡号、人物及卡面；与匿名占位/混合弹次分组分开，不把全25种及包装条码填成单卡身份。",
-      "status": "researching",
       "key": "wafer4",
       "reviewed": 9,
       "ready": 9,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 9
     },
     {
       "groupId": "series-2a798dcc42dea8c6",
@@ -31,16 +32,20 @@
       ],
       "sourceRole": "publisher",
       "scope": "8条原零售纸本卷目加1逻辑目录，原ISBN/JAN均空；先逐条绑定零售编号、卷号与出版社纸本书目，勿套用PLUS!系列、电子版或凭标题补书号。",
-      "status": "researching",
       "key": "alacarte",
       "reviewed": 9,
       "ready": 9,
       "pending": 0,
-      "protected": 0
+      "protected": 0,
+      "status": "evidence-supplemented-not-fully-verified",
+      "productionApplied": 9
     }
   ],
   "priorOverlap": 0,
   "fullProductVerified": 0,
   "fullSeriesVerified": 0,
-  "productionApplied": 0
+  "productionApplied": 18,
+  "maintenanceClosed": true,
+  "completedAt": "2026-11-20T06:50:45.819Z",
+  "fieldPendingRecords": 8
 }

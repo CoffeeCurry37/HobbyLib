@@ -1,0 +1,33 @@
+{
+  "at": "2026-11-20T06:48:18.021Z",
+  "stage": "applied-read-back-and-closed",
+  "passed": true,
+  "verifiedBatches": 1,
+  "productionApplied": 18,
+  "skipped": 0,
+  "skippedItems": [],
+  "counts": {
+    "main": 15790,
+    "doujin": 19209,
+    "archive": 8575
+  },
+  "relations": 1823,
+  "personalAndOriginalFieldsPreserved": true,
+  "offersAndHistoryPreserved": true,
+  "prefsPreserved": true,
+  "priorEvidencePreserved": true,
+  "newFullProductVerified": 0,
+  "completeSeries": 0,
+  "finalReadbackPassed": true,
+  "maintenanceClosed": true,
+  "closedHttpStatus": 401,
+  "environmentRevision": 131,
+  "deploymentId": "appgdep_6affed430184819195d4a12faa6aa507",
+  "siteVersion": 70,
+  "countsBefore": {
+    "main": 15790,
+    "doujin": 19209,
+    "archive": 8575
+  },
+  "relationsBefore": 1823
+}

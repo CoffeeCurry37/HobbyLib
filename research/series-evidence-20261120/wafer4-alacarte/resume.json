@@ -1,15 +1,67 @@
 {
-  "at": "2026-11-20T06:46:53.740Z",
-  "stage": "prepared-validated-no-production-write",
-  "previousFinalCommit": "5d637e3167e00ec09282b4035a222ed8908cbe94",
+  "at": "2026-11-20T06:50:45.819Z",
+  "completedLocalDate": "2026-11-20",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-f0cdf1d7a4690774",
+      "label": "FGO威化第4弹具名单卡",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-2a798dcc42dea8c6",
+      "label": "FGO コミックアラカルト漫画选集",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
   "candidates": 18,
-  "prepared": 18,
-  "productionApplied": 0,
+  "productionApplied": 18,
+  "batches": 1,
   "pendingEvidence": 0,
+  "pendingFile": "pending.json",
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
   "fieldPendingRecords": 8,
-  "datePendingRecords": 4,
-  "simulation": "simulation.json",
+  "fieldPendingFile": "field-pending.json",
+  "fieldScope": {
+    "retailerIsbnAndPrinting": 8,
+    "bookDate": 4,
+    "distinctRecords": 8
+  },
+  "limitations": [
+    "9张具名单卡：原第4弹/2439037、人物及编号与官方印号清单相符，原零售正面逐张与官方图对应；没有声称看过原卡背",
+    "不把包装条码当单卡JAN，不承诺附威化食品或原包装，不处理另一个匿名第4弹分组",
+    "漫画8卷原零售管理编号、卷号、B6纸本分类与角川出版社相符；8卷书号和具体印次仍待独立绑定，原ISBN/JAN及新简介均不补书号",
+    "第1、2、3、6卷日期存在差异，简介不补日期；出版社B6变形判及各卷页数明确归为对应书目资料",
+    "逻辑目录仅组织现有1至8卷，不表示系列仅8卷、完结或实体套装",
+    "9张官方图和9张原卡图已目视；17个原详情无法直接缓存、8漫画原图不可读；网页观察JSON不冒充HTML字节哈希",
+    "只补空简介与两条出处，所有已认可及历史资料保持；完整核实商品/系列仍为0"
+  ],
   "maintenanceClosed": true,
+  "environmentRevision": 131,
+  "deploymentId": "appgdep_6affed430184819195d4a12faa6aa507",
+  "siteVersion": 70,
+  "hostingAccess": {
+    "observedAtStart": "public",
+    "currentUserRole": "owner",
+    "action": "preserved-existing-audience",
+    "accessPolicyMutation": false,
+    "deployOperation": "deploy_site_version"
+  },
+  "preparedCommit": "044b36fb3154bd6a4caf4c9da2b1c4ea3bb38e4c",
   "previousOutstanding": "../../series-evidence-20261114/keyth-ccc/resume.json",
-  "nextAction": "检查正式库实时版本后，单批最多18条仅补空简介和两条出处；读回后关闭维护入口并实测。不重放历史成功批次。"
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮单批18条、前轮Key-th/CCC单批19条及全部历史成功动作禁止重放。",
+  "note": "8卷字段待查（其中4卷日期差异）与previousOutstanding链内全部历史未决项继续保留。"
 }

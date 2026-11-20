@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-14T20:19:40.721Z",
+  "at": "2026-11-20T06:50:45.819Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 82,
-  "seriesAwaitingItemReview": 1766,
+  "seriesWithItemReview": 84,
+  "seriesAwaitingItemReview": 1764,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 7031,
-  "productionApplied": 5230,
+  "coveredSnapshotItems": 7049,
+  "productionApplied": 5248,
   "protectedExisting": 9,
   "pendingEvidence": 1791,
   "freshVersionSkips": 1,
@@ -839,13 +839,33 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-f0cdf1d7a4690774",
+      "label": "FGO威化第4弹具名单卡",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-2a798dcc42dea8c6",
+      "label": "FGO コミックアラカルト漫画选集",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261114/keyth-ccc/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261120/wafer4-alacarte/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6
   },
-  "latestPartialFieldPendingFile": "../series-evidence-20261114/keyth-ccc/field-pending.json",
+  "latestPartialFieldPendingFile": "../series-evidence-20261120/wafer4-alacarte/field-pending.json",
   "countingNote": "pendingEvidence统计未安全补简介的记录；已补简介记录仍可有未决字段，均不等于完整核实。"
 }

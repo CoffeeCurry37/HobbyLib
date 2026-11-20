@@ -1,12 +1,13 @@
 {
-  "captureReceipts": 81,
-  "uniqueUrls": 52,
+  "captureReceipts": 85,
+  "uniqueUrls": 54,
   "statuses": {
-    "captured": 30,
-    "unavailable": 51
+    "captured": 33,
+    "unavailable": 52
   },
-  "requests": 76,
-  "cacheHits": 5,
+  "recordedRequests": 78,
+  "cacheHits": 7,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "有限公开采集；仅环境EACCES后使用批准网络读取，站点访问门槛不绕过；网页观察JSON与源字节哈希分别标注。费用无账单。",
+  "evidenceScope": "本批万代页、8出版社页、9官方图、9原卡图；17原详情不能直接缓存、8漫画原图不可读；5卷同编号零售文本和1卷楽天日期观察另存。下一批2厂家入口仅发现。"
 }
