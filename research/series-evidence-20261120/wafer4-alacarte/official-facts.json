@@ -1,0 +1,273 @@
+{
+  "at": "2026-11-20T06:45:23.574Z",
+  "wafer4": {
+    "source": {
+      "url": "https://www.bandai.co.jp/candy/products/2018/4549660252245000.html",
+      "at": "2026-11-14T20:18:37.262Z",
+      "sha256": "63423378f7003b583f82c692f8affbcbc440654f37eef52c0d5eb5b3228b3f75"
+    },
+    "releaseDate": "2018-08-13",
+    "totalTypes": 25,
+    "rarities": {
+      "N": 12,
+      "R": 8,
+      "SR": 4,
+      "secret": 1
+    },
+    "officialImages": [
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/uNX/000000216839Lff4c6wVAdOjTViKR6LmEdYEg5HAhjY5auNX.jpg",
+        "at": "2026-11-20T06:41:41.931Z",
+        "sha256": "96d5a83a548491d9cd2a1fcdb6dec43a0edf47ed1d0b7841394243e082378d7d"
+      },
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/HoX/000000216843gXuFRYYdO4y59ILHxBzOCa2fVeQTg5Ze7HoX.jpg",
+        "at": "2026-11-20T06:41:43.207Z",
+        "sha256": "948dd424b4c1ffb7b1842437b47cbcdd2b0d7b6d654445c75c5ad9fd091ef649"
+      },
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/t26/0000002168474K5S9FwevJIBZXuDCWRJz3bXTE37w498Nt26.jpg",
+        "at": "2026-11-20T06:41:43.615Z",
+        "sha256": "72459f70a94e7328f23b7b453111126a781715f267f3aa5074cd06c7769abadd"
+      },
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/jTN/000000216851ofuchBpuUNYfaL03Nh64fLhYhlkfC2eWGjTN.jpg",
+        "at": "2026-11-20T06:41:44.021Z",
+        "sha256": "d8da6d5ad18e8c40f19fdfe4f23fbfa058e2dacbbcbdd794b0c40784ab634039"
+      },
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/YJD/000000216855lnfyMJnA8xw053wDk9gNnO5tnp2Uga6LnYJD.jpg",
+        "at": "2026-11-20T06:41:44.424Z",
+        "sha256": "fc2fe700c3077c02ed8fd0935145a3d401b13ba1b7902ea7c1f58f97ec6dfc49"
+      },
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/IBs/000000216859pjBbuhH1aDR9DHroe2a668uHgTfuemK9oIBs.jpg",
+        "at": "2026-11-20T06:41:44.829Z",
+        "sha256": "9a619a4e0e3d6e2bffb03cd87c30f45434910970d229b6dec9bf87be1640c731"
+      },
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/7XW/000000216863GqflhbOuC84JcFsWG05kmAaET1qd0O4Bj7XW.jpg",
+        "at": "2026-11-20T06:41:45.232Z",
+        "sha256": "4fcc82278825fa1ce373ae51f84cc7a012632c5318c0497f5586f00745ac069c"
+      },
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/dXz/000000216867s5dwrULNDYv4IfDJh5EfKUiupQcUyb84QdXz.jpg",
+        "at": "2026-11-20T06:41:45.638Z",
+        "sha256": "24d8a4c67e38360774bfbc82031fc2f9f852d15fe6ad7415cea1ccd70bed5ec7"
+      },
+      {
+        "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/UFU/000000216871QH6mQRLVWM7fiKLp84JFFLQsZnk502iF9UFU.jpg",
+        "at": "2026-11-20T06:41:46.043Z",
+        "sha256": "d35979f39d6542af54883e76b41a24e9e60010f093740be8dee048f142e5bd2b"
+      }
+    ],
+    "lineup": [
+      {
+        "number": 1,
+        "name": "シュヴァリエ・デオン",
+        "rarity": "N",
+        "image": 3,
+        "position": "上左"
+      },
+      {
+        "number": 2,
+        "name": "ランスロット",
+        "rarity": "N",
+        "image": 3,
+        "position": "上中"
+      },
+      {
+        "number": 8,
+        "name": "トーマス・エジソン",
+        "rarity": "N",
+        "image": 4,
+        "position": "上中"
+      },
+      {
+        "number": 9,
+        "name": "カーミラ",
+        "rarity": "N",
+        "image": 4,
+        "position": "上右"
+      },
+      {
+        "number": 11,
+        "name": "ベオウルフ",
+        "rarity": "N",
+        "image": 4,
+        "position": "下中"
+      },
+      {
+        "number": 12,
+        "name": "エルドラドのバーサーカー",
+        "rarity": "N",
+        "image": 4,
+        "position": "下右"
+      },
+      {
+        "number": 15,
+        "name": "清姫",
+        "rarity": "R",
+        "image": 5,
+        "position": "下左"
+      },
+      {
+        "number": 19,
+        "name": "織田信長",
+        "rarity": "R",
+        "image": 6,
+        "position": "下左"
+      },
+      {
+        "number": 21,
+        "name": "アルトリア・ペンドラゴン",
+        "rarity": "SR",
+        "image": 7,
+        "position": "上左"
+      }
+    ],
+    "targetSingles": 9,
+    "originalImagesCompared": 9,
+    "scope": "包装单份含卡1张/威化1片不是二手单卡附食品保证；未核No.25隐藏角色，也未处理另组匿名占位。"
+  },
+  "books": [
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321511000539/",
+        "at": "2026-11-14T20:18:37.308Z",
+        "sha256": "6bff42a393b4aa8013605e98270535683fac9edab105300b3974ee89f7018754"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト I",
+      "volume": 1,
+      "isbn": "9784041040928",
+      "pages": 148,
+      "format": "B6変形判",
+      "releaseDate": "2016-03-10",
+      "credits": "原作 TYPE-MOON 編 コンプエース編集部",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "纸本DOM和window.item交叉核对；这里的ISBN是出版社书目事实，原零售ID与实物条码绑定未完成，不填原ISBN/JAN。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321601000482/",
+        "at": "2026-11-20T06:41:41.957Z",
+        "sha256": "8769a158fc7b3478d458e69141bbafa9e78541f2fd419e2c4c61fba2a3ac5c5d"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト II",
+      "volume": 2,
+      "isbn": "9784041042885",
+      "pages": 180,
+      "format": "B6変形判",
+      "releaseDate": "2016-05-26",
+      "credits": "原作 TYPE-MOON 編 コンプエース編集部",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "纸本DOM和window.item交叉核对；这里的ISBN是出版社书目事实，原零售ID与实物条码绑定未完成，不填原ISBN/JAN。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321604000471/",
+        "at": "2026-11-20T06:41:43.471Z",
+        "sha256": "a772e99058d166befccb2a8d95f94697eee84a8628568ddb284be4511b50e95b"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト III",
+      "volume": 3,
+      "isbn": "9784041046890",
+      "pages": 180,
+      "format": "B6変形判",
+      "releaseDate": "2016-08-26",
+      "credits": "原作 TYPE-MOON 編 コンプエース編集部",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "纸本DOM和window.item交叉核对；这里的ISBN是出版社书目事实，原零售ID与实物条码绑定未完成，不填原ISBN/JAN。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321606000396/",
+        "at": "2026-11-20T06:41:44.690Z",
+        "sha256": "2abeeed9f26c32d0d1c2c63095b49118bb2d77f1aa3fb99066c8f617ab7c5906"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト IV",
+      "volume": 4,
+      "isbn": "9784041048665",
+      "pages": 180,
+      "format": "B6変形判",
+      "releaseDate": "2016-11-26",
+      "credits": "原作 TYPE-MOON 編 コンプエース編集部",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "纸本DOM和window.item交叉核对；这里的ISBN是出版社书目事实，原零售ID与实物条码绑定未完成，不填原ISBN/JAN。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321609000440/",
+        "at": "2026-11-20T06:41:45.481Z",
+        "sha256": "d86b4f175c1390323c9e76db5c8a2991416160139c3c6208f5bae382a847eeeb"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト V",
+      "volume": 5,
+      "isbn": "9784041052235",
+      "pages": 164,
+      "format": "B6変形判",
+      "releaseDate": "2017-01-26",
+      "credits": "原作 TYPE-MOON 編 コンプエース編集部",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "纸本DOM和window.item交叉核对；这里的ISBN是出版社书目事实，原零售ID与实物条码绑定未完成，不填原ISBN/JAN。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321701000459/",
+        "at": "2026-11-20T06:41:46.651Z",
+        "sha256": "488ba645049170c762d479371ce4abfbc963de8fc6760ba02cbbadf1fd02314a"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルトVI",
+      "volume": 6,
+      "isbn": "9784041056516",
+      "pages": 180,
+      "format": "B6変形判",
+      "releaseDate": "2017-04-24",
+      "credits": "原作 TYPE-MOON 編 コンプエース編集部",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "纸本DOM和window.item交叉核对；这里的ISBN是出版社书目事实，原零售ID与实物条码绑定未完成，不填原ISBN/JAN。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321701000460/",
+        "at": "2026-11-20T06:41:47.883Z",
+        "sha256": "00828d6ea7687e24024060729b13465cd0577820df15c40747cfe0cf54b17be3"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルトVII",
+      "volume": 7,
+      "isbn": "9784041056523",
+      "pages": 196,
+      "format": "B6変形判",
+      "releaseDate": "2017-07-24",
+      "credits": "原作 TYPE-MOON 編集 コンプエース編集部",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "纸本DOM和window.item交叉核对；这里的ISBN是出版社书目事实，原零售ID与实物条码绑定未完成，不填原ISBN/JAN。"
+    },
+    {
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321706000661/",
+        "at": "2026-11-20T06:41:49.616Z",
+        "sha256": "a8cbaef0c605056c4965b6f49523f06fa7f7603bf902ebff5a466802ebf9b7b0"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルトVIII",
+      "volume": 8,
+      "isbn": "9784041061930",
+      "pages": 180,
+      "format": "B6変形判",
+      "releaseDate": "2017-11-25",
+      "credits": "原作 TYPE-MOON 編集 コンプエース編集部",
+      "label": "角川コミックス・エース",
+      "medium": "paper",
+      "scope": "纸本DOM和window.item交叉核对；这里的ISBN是出版社书目事实，原零售ID与实物条码绑定未完成，不填原ISBN/JAN。"
+    }
+  ],
+  "fullProductVerified": 0,
+  "fullSeriesVerified": 0
+}

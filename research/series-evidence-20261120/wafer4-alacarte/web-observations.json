@@ -1,0 +1,359 @@
+[
+  {
+    "id": "wafer4-official-numbered-lineup",
+    "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/UFU/000000216871QH6mQRLVWM7fiKLp84JFFLQsZnk502iF9UFU.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-observation-of-official-linked-image",
+    "sourceAt": "2026-11-20T06:41:46.043Z",
+    "sourceSha256": "d35979f39d6542af54883e76b41a24e9e60010f093740be8dee048f142e5bd2b",
+    "facts": {
+      "totalTypes": 25,
+      "secretShown": false,
+      "numberedCardsShown": 24,
+      "targets": [
+        {
+          "number": 1,
+          "name": "シュヴァリエ・デオン",
+          "rarity": "N"
+        },
+        {
+          "number": 2,
+          "name": "ランスロット",
+          "rarity": "N"
+        },
+        {
+          "number": 8,
+          "name": "トーマス・エジソン",
+          "rarity": "N"
+        },
+        {
+          "number": 9,
+          "name": "カーミラ",
+          "rarity": "N"
+        },
+        {
+          "number": 11,
+          "name": "ベオウルフ",
+          "rarity": "N"
+        },
+        {
+          "number": 12,
+          "name": "エルドラドのバーサーカー",
+          "rarity": "N"
+        },
+        {
+          "number": 15,
+          "name": "清姫",
+          "rarity": "R"
+        },
+        {
+          "number": 19,
+          "name": "織田信長",
+          "rarity": "R"
+        },
+        {
+          "number": 21,
+          "name": "アルトリア・ペンドラゴン",
+          "rarity": "SR"
+        }
+      ],
+      "scope": "官方合图直接印No.01至No.25；目标9张均为具名图款。使用印出的编号及图面匹配，未借本地席位顺序。No.25黑框没有揭示角色。"
+    },
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "alacarte1-rakuten-date",
+    "url": "https://books.rakuten.co.jp/rb/13605613/",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "public-web-text-observation",
+    "sourceRole": "retailer",
+    "facts": {
+      "volume": 1,
+      "isbn": "9784041040928",
+      "retailerDate": "2016-03-08頃",
+      "publisherDate": "2016-03-10",
+      "pages": 148,
+      "scope": "同ISBN出版社与楽天日期差异；该URL不是原駿河屋管理编号的条码证明。"
+    },
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "alacarte-retailer-2",
+    "url": "https://www.suruga-ya.jp/product/detail/503091298",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "public-web-text-observation",
+    "sourceRole": "retailer",
+    "facts": {
+      "volume": 2,
+      "code": "503091298",
+      "title": "Fate/Grand Order コミックアラカルト(2)",
+      "category": "B6コミック",
+      "publisher": "角川書店/KADOKAWA",
+      "date": "2016-05-21",
+      "isbnShown": false,
+      "scope": "可读网页观察与原管理编号、卷号、纸本分类、出版社对应；正文未列ISBN。"
+    },
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "alacarte-retailer-3",
+    "url": "https://www.suruga-ya.jp/product/detail/503092528",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "public-web-text-observation",
+    "sourceRole": "retailer",
+    "facts": {
+      "volume": 3,
+      "code": "503092528",
+      "title": "Fate/Grand Order コミックアラカルト(3)",
+      "category": "B6コミック",
+      "publisher": "角川書店/KADOKAWA",
+      "date": "2016-08-24",
+      "isbnShown": false,
+      "scope": "可读网页观察与原管理编号、卷号、纸本分类、出版社对应；正文未列ISBN。"
+    },
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "alacarte-retailer-4",
+    "url": "https://www.suruga-ya.jp/product/detail/503094165",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "public-web-text-observation",
+    "sourceRole": "retailer",
+    "facts": {
+      "volume": 4,
+      "code": "503094165",
+      "title": "Fate/Grand Order コミックアラカルト(4)",
+      "category": "B6コミック",
+      "publisher": "角川書店/KADOKAWA",
+      "date": "2016-11-26",
+      "isbnShown": false,
+      "scope": "可读网页观察与原管理编号、卷号、纸本分类、出版社对应；正文未列ISBN。"
+    },
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "alacarte-retailer-5",
+    "url": "https://www.suruga-ya.com/ja/product/503095015",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "public-web-text-observation",
+    "sourceRole": "retailer",
+    "facts": {
+      "volume": 5,
+      "code": "503095015",
+      "title": "Fate/Grand Order コミックアラカルト(5)",
+      "category": "B6コミック",
+      "publisher": "角川書店/KADOKAWA",
+      "date": "2017-01-26",
+      "isbnShown": false,
+      "scope": "可读网页观察与原管理编号、卷号、纸本分类、出版社对应；正文未列ISBN。"
+    },
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "alacarte-retailer-6",
+    "url": "https://www.suruga-ya.jp/product/detail/503096846",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "public-web-text-observation",
+    "sourceRole": "retailer",
+    "facts": {
+      "volume": 6,
+      "code": "503096846",
+      "title": "Fate/Grand Order コミックアラカルト(6)",
+      "category": "B6コミック",
+      "publisher": "角川書店/KADOKAWA",
+      "date": "2017-04-26",
+      "isbnShown": false,
+      "scope": "可读网页观察与原管理编号、卷号、纸本分类、出版社对应；正文未列ISBN。"
+    },
+    "hashMeaning": "观察JSON哈希，不是原HTML哈希"
+  },
+  {
+    "id": "wafer4-original-image-12",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/984/0300887984/s_03008879841.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:16.175Z",
+    "sourceSha256": "babd87c55500b69297bf8162fe426d6a001ef735de995371d3450e59f8df6571",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/YJD/000000216855lnfyMJnA8xw053wDk9gNnO5tnp2Uga6LnYJD.jpg",
+      "at": "2026-11-20T06:41:44.424Z",
+      "sha256": "fc2fe700c3077c02ed8fd0935145a3d401b13ba1b7902ea7c1f58f97ec6dfc49"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 12,
+      "name": "エルドラドのバーサーカー",
+      "officialPosition": "下右",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer4-original-image-2",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/974/0300887974/s_03008879741.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:17.322Z",
+    "sourceSha256": "8d051bfcd7f59ff4623f87a6b8c976e3e4a53c0ac2c02f2fe2b7bfd1c34ab7ee",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/jTN/000000216851ofuchBpuUNYfaL03Nh64fLhYhlkfC2eWGjTN.jpg",
+      "at": "2026-11-20T06:41:44.021Z",
+      "sha256": "d8da6d5ad18e8c40f19fdfe4f23fbfa058e2dacbbcbdd794b0c40784ab634039"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 2,
+      "name": "ランスロット",
+      "officialPosition": "上中",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer4-original-image-1",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/973/0300887973/s_03008879731.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:18.355Z",
+    "sourceSha256": "3273a3ffed0d0e9f15c49919661fde50544060bb9f90991065468b702a1e111f",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/jTN/000000216851ofuchBpuUNYfaL03Nh64fLhYhlkfC2eWGjTN.jpg",
+      "at": "2026-11-20T06:41:44.021Z",
+      "sha256": "d8da6d5ad18e8c40f19fdfe4f23fbfa058e2dacbbcbdd794b0c40784ab634039"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 1,
+      "name": "シュヴァリエ・デオン",
+      "officialPosition": "上左",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer4-original-image-21",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/993/0300887993/s_03008879931.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:19.414Z",
+    "sourceSha256": "86affcf5269d09f21ae5a9b755e21070fb6755039eb6115d0c3887cfca569c45",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/dXz/000000216867s5dwrULNDYv4IfDJh5EfKUiupQcUyb84QdXz.jpg",
+      "at": "2026-11-20T06:41:45.638Z",
+      "sha256": "24d8a4c67e38360774bfbc82031fc2f9f852d15fe6ad7415cea1ccd70bed5ec7"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 21,
+      "name": "アルトリア・ペンドラゴン",
+      "officialPosition": "上左",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer4-original-image-8",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/980/0300887980/s_03008879801.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:20.422Z",
+    "sourceSha256": "0e918d3709fb4d8e93293228cb5820aa3e6b808542c87c75bd38658c9c379a28",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/YJD/000000216855lnfyMJnA8xw053wDk9gNnO5tnp2Uga6LnYJD.jpg",
+      "at": "2026-11-20T06:41:44.424Z",
+      "sha256": "fc2fe700c3077c02ed8fd0935145a3d401b13ba1b7902ea7c1f58f97ec6dfc49"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 8,
+      "name": "トーマス・エジソン",
+      "officialPosition": "上中",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer4-original-image-11",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/983/0300887983/s_03008879831.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:20.937Z",
+    "sourceSha256": "32bd23ae7eac1acf6967dba53a11566a4fee8d694559b7f48e40409528cbd662",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/YJD/000000216855lnfyMJnA8xw053wDk9gNnO5tnp2Uga6LnYJD.jpg",
+      "at": "2026-11-20T06:41:44.424Z",
+      "sha256": "fc2fe700c3077c02ed8fd0935145a3d401b13ba1b7902ea7c1f58f97ec6dfc49"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 11,
+      "name": "ベオウルフ",
+      "officialPosition": "下中",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer4-original-image-9",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/981/0300887981/s_03008879810.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:21.413Z",
+    "sourceSha256": "a332fed09c89833a08f5cb15eb4fbcfe1a18133c9aca4e1c8a210b4c247792e0",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/YJD/000000216855lnfyMJnA8xw053wDk9gNnO5tnp2Uga6LnYJD.jpg",
+      "at": "2026-11-20T06:41:44.424Z",
+      "sha256": "fc2fe700c3077c02ed8fd0935145a3d401b13ba1b7902ea7c1f58f97ec6dfc49"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 9,
+      "name": "カーミラ",
+      "officialPosition": "上右",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer4-original-image-19",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/991/0300887991/s_03008879911.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:22.537Z",
+    "sourceSha256": "3e7b3f8cb52e27be4eeacaf4a13895ba983f8648287490539d5191cb4015fa14",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/7XW/000000216863GqflhbOuC84JcFsWG05kmAaET1qd0O4Bj7XW.jpg",
+      "at": "2026-11-20T06:41:45.232Z",
+      "sha256": "4fcc82278825fa1ce373ae51f84cc7a012632c5318c0497f5586f00745ac069c"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 19,
+      "name": "織田信長",
+      "officialPosition": "下左",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  },
+  {
+    "id": "wafer4-original-image-15",
+    "url": "https://img.mandarake.co.jp/webshopimg/03/00/987/0300887987/s_03008879876.jpg",
+    "at": "2026-11-20T06:45:23.574Z",
+    "kind": "visual-comparison-of-original-listing-and-official-image",
+    "sourceAt": "2026-11-20T06:43:23.494Z",
+    "sourceSha256": "29bb8e971a8c03208ec059489c845e677be876546b1e82b51c35f60e9fc7f313",
+    "officialImage": {
+      "url": "https://www.bandai.co.jp/candy/published/bnc_files/product/IBs/000000216859pjBbuhH1aDR9DHroe2a668uHgTfuemK9oIBs.jpg",
+      "at": "2026-11-20T06:41:44.829Z",
+      "sha256": "9a619a4e0e3d6e2bffb03cd87c30f45434910970d229b6dec9bf87be1640c731"
+    },
+    "hashMeaning": "观察JSON哈希，不是原图字节哈希",
+    "facts": {
+      "number": 15,
+      "name": "清姫",
+      "officialPosition": "下左",
+      "result": "原零售小图的人物、姿势、服饰、背景及边框与厂家对应图一致",
+      "scope": "原小图均为正面，未声称看过原实物卡背；编号另以原具名标题加官方印号清单绑定，不能据图片判断当前品相或包装完整。"
+    }
+  }
+]

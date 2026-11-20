@@ -1,0 +1,389 @@
+{
+  "at": "2026-11-20T06:45:23.574Z",
+  "rows": [
+    {
+      "itemId": "0d50cd1f-24d9-487a-9829-0287a02089fa",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト(2)",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "2",
+        "member": "Fate/Grand Order コミックアラカルト(2)",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503091298&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503091298"
+        ]
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "retailer-volume-safe-scope",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321601000482/",
+        "at": "2026-11-20T06:41:41.957Z",
+        "sha256": "8769a158fc7b3478d458e69141bbafa9e78541f2fd419e2c4c61fba2a3ac5c5d"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト II",
+      "volume": 2,
+      "retailerCode": "503091298",
+      "dateConflict": true,
+      "isbnBindingPending": true,
+      "retailerObservation": {
+        "id": "alacarte-retailer-2",
+        "url": "https://www.suruga-ya.jp/product/detail/503091298",
+        "sha256": "9b48cbdb2db063955d2e79a0072533233bb2b15d867fec5292f55b2c20099109"
+      },
+      "identityMatch": "原编号绑定的卷号、纸本B6分类、角川出版社及系列名与出版社罗马卷号书目对应；书号与印次另保留待查",
+      "scope": "仅补明确的卷目、纸本类型、编辑方和对应出版社规格；原标题无PLUS!，不借用电子版；未独立绑定ISBN，不新增书号",
+      "summary": "《Fate/Grand Order コミックアラカルト》第2卷纸本漫画选集，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。对应出版社书目标注B6变形判、180页。发售日期因来源差异暂不补写。原零售记录的书号和具体印次仍待独立核对。"
+    },
+    {
+      "itemId": "33e7271a-393e-41ff-9f86-d38b7a045260",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト(4)",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "4",
+        "member": "Fate/Grand Order コミックアラカルト(4)",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503094165&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503094165"
+        ]
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "retailer-volume-safe-scope",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321606000396/",
+        "at": "2026-11-20T06:41:44.690Z",
+        "sha256": "2abeeed9f26c32d0d1c2c63095b49118bb2d77f1aa3fb99066c8f617ab7c5906"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト IV",
+      "volume": 4,
+      "retailerCode": "503094165",
+      "dateConflict": false,
+      "isbnBindingPending": true,
+      "retailerObservation": {
+        "id": "alacarte-retailer-4",
+        "url": "https://www.suruga-ya.jp/product/detail/503094165",
+        "sha256": "04309c2875f7ba3dd191ee393d3389d698ad41605752754ffc2d157027ea2172"
+      },
+      "identityMatch": "原编号绑定的卷号、纸本B6分类、角川出版社及系列名与出版社罗马卷号书目对应；书号与印次另保留待查",
+      "scope": "仅补明确的卷目、纸本类型、编辑方和对应出版社规格；原标题无PLUS!，不借用电子版；未独立绑定ISBN，不新增书号",
+      "summary": "《Fate/Grand Order コミックアラカルト》第4卷纸本漫画选集，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。对应出版社书目标注B6变形判、180页。出版社纸本发售日为2016-11-26。原零售记录的书号和具体印次仍待独立核对。"
+    },
+    {
+      "itemId": "74b85ef7-247b-49a7-af2c-3ae57022c192",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト(5)",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "5",
+        "member": "Fate/Grand Order コミックアラカルト(5)",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503095015&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503095015"
+        ]
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "retailer-volume-safe-scope",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321609000440/",
+        "at": "2026-11-20T06:41:45.481Z",
+        "sha256": "d86b4f175c1390323c9e76db5c8a2991416160139c3c6208f5bae382a847eeeb"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト V",
+      "volume": 5,
+      "retailerCode": "503095015",
+      "dateConflict": false,
+      "isbnBindingPending": true,
+      "retailerObservation": {
+        "id": "alacarte-retailer-5",
+        "url": "https://www.suruga-ya.com/ja/product/503095015",
+        "sha256": "052fa329aab5ebc2d4d87460fa905d5a526743cb6f6783bf5a1782ea3a07c3f7"
+      },
+      "identityMatch": "原编号绑定的卷号、纸本B6分类、角川出版社及系列名与出版社罗马卷号书目对应；书号与印次另保留待查",
+      "scope": "仅补明确的卷目、纸本类型、编辑方和对应出版社规格；原标题无PLUS!，不借用电子版；未独立绑定ISBN，不新增书号",
+      "summary": "《Fate/Grand Order コミックアラカルト》第5卷纸本漫画选集，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。对应出版社书目标注B6变形判、164页。出版社纸本发售日为2017-01-26。原零售记录的书号和具体印次仍待独立核对。"
+    },
+    {
+      "itemId": "a58798b8-ab1b-4baf-bd0f-6159de7e73b4",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト(8)",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "8",
+        "member": "Fate/Grand Order コミックアラカルト(8)",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503100494&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503100494"
+        ]
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "retailer-volume-safe-scope",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321706000661/",
+        "at": "2026-11-20T06:41:49.616Z",
+        "sha256": "a8cbaef0c605056c4965b6f49523f06fa7f7603bf902ebff5a466802ebf9b7b0"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルトVIII",
+      "volume": 8,
+      "retailerCode": "503100494",
+      "dateConflict": false,
+      "isbnBindingPending": true,
+      "identityMatch": "原编号绑定的卷号、纸本B6分类、角川出版社及系列名与出版社罗马卷号书目对应；书号与印次另保留待查",
+      "scope": "仅补明确的卷目、纸本类型、编辑方和对应出版社规格；原标题无PLUS!，不借用电子版；未独立绑定ISBN，不新增书号",
+      "summary": "《Fate/Grand Order コミックアラカルト》第8卷纸本漫画选集，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。对应出版社书目标注B6变形判、180页。出版社纸本发售日为2017-11-25。原零售记录的书号和具体印次仍待独立核对。"
+    },
+    {
+      "itemId": "b9c25091-95b0-447d-8697-862498358b52",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト(6)",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "6",
+        "member": "Fate/Grand Order コミックアラカルト(6)",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503096846&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503096846"
+        ]
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "retailer-volume-safe-scope",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321701000459/",
+        "at": "2026-11-20T06:41:46.651Z",
+        "sha256": "488ba645049170c762d479371ce4abfbc963de8fc6760ba02cbbadf1fd02314a"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルトVI",
+      "volume": 6,
+      "retailerCode": "503096846",
+      "dateConflict": true,
+      "isbnBindingPending": true,
+      "retailerObservation": {
+        "id": "alacarte-retailer-6",
+        "url": "https://www.suruga-ya.jp/product/detail/503096846",
+        "sha256": "327f28a74fee964cf4813c12351b5abe9a6a3ebaeceb8fd0a41c9f2efecbf274"
+      },
+      "identityMatch": "原编号绑定的卷号、纸本B6分类、角川出版社及系列名与出版社罗马卷号书目对应；书号与印次另保留待查",
+      "scope": "仅补明确的卷目、纸本类型、编辑方和对应出版社规格；原标题无PLUS!，不借用电子版；未独立绑定ISBN，不新增书号",
+      "summary": "《Fate/Grand Order コミックアラカルト》第6卷纸本漫画选集，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。对应出版社书目标注B6变形判、180页。发售日期因来源差异暂不补写。原零售记录的书号和具体印次仍待独立核对。"
+    },
+    {
+      "itemId": "c628fd61-dea5-4d99-b5be-f0b5cdaa417b",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト(7)",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "7",
+        "member": "Fate/Grand Order コミックアラカルト(7)",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503098004&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503098004"
+        ]
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "retailer-volume-safe-scope",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321701000460/",
+        "at": "2026-11-20T06:41:47.883Z",
+        "sha256": "00828d6ea7687e24024060729b13465cd0577820df15c40747cfe0cf54b17be3"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルトVII",
+      "volume": 7,
+      "retailerCode": "503098004",
+      "dateConflict": false,
+      "isbnBindingPending": true,
+      "identityMatch": "原编号绑定的卷号、纸本B6分类、角川出版社及系列名与出版社罗马卷号书目对应；书号与印次另保留待查",
+      "scope": "仅补明确的卷目、纸本类型、编辑方和对应出版社规格；原标题无PLUS!，不借用电子版；未独立绑定ISBN，不新增书号",
+      "summary": "《Fate/Grand Order コミックアラカルト》第7卷纸本漫画选集，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。对应出版社书目标注B6变形判、196页。出版社纸本发售日为2017-07-24。原零售记录的书号和具体印次仍待独立核对。"
+    },
+    {
+      "itemId": "ec7308d8-8520-4820-b263-5dfc2520db72",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト(3)",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "3",
+        "member": "Fate/Grand Order コミックアラカルト(3)",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503092528&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503092528"
+        ]
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "retailer-volume-safe-scope",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321604000471/",
+        "at": "2026-11-20T06:41:43.471Z",
+        "sha256": "a772e99058d166befccb2a8d95f94697eee84a8628568ddb284be4511b50e95b"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト III",
+      "volume": 3,
+      "retailerCode": "503092528",
+      "dateConflict": true,
+      "isbnBindingPending": true,
+      "retailerObservation": {
+        "id": "alacarte-retailer-3",
+        "url": "https://www.suruga-ya.jp/product/detail/503092528",
+        "sha256": "928edd2dbd6811530cf48e1de7d9925836984434f67a7079c55597e2560624a3"
+      },
+      "identityMatch": "原编号绑定的卷号、纸本B6分类、角川出版社及系列名与出版社罗马卷号书目对应；书号与印次另保留待查",
+      "scope": "仅补明确的卷目、纸本类型、编辑方和对应出版社规格；原标题无PLUS!，不借用电子版；未独立绑定ISBN，不新增书号",
+      "summary": "《Fate/Grand Order コミックアラカルト》第3卷纸本漫画选集，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。对应出版社书目标注B6变形判、180页。发售日期因来源差异暂不补写。原零售记录的书号和具体印次仍待独立核对。"
+    },
+    {
+      "itemId": "efd461a0-6c57-474c-8276-920fb8f3378f",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト(1)",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "1",
+        "member": "Fate/Grand Order コミックアラカルト(1)",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503090008&size=m",
+        "catalogueKey": null,
+        "catalogueGroupType": null,
+        "images": null,
+        "offerUrls": [
+          "https://www.suruga-ya.jp/product/detail/503090008"
+        ]
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "retailer-volume-safe-scope",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321511000539/",
+        "at": "2026-11-14T20:18:37.308Z",
+        "sha256": "6bff42a393b4aa8013605e98270535683fac9edab105300b3974ee89f7018754"
+      },
+      "officialTitle": "Fate/Grand Order コミックアラカルト I",
+      "volume": 1,
+      "retailerCode": "503090008",
+      "dateConflict": true,
+      "isbnBindingPending": true,
+      "dateObservation": {
+        "id": "alacarte1-rakuten-date",
+        "url": "https://books.rakuten.co.jp/rb/13605613/",
+        "sha256": "a490628424d1cbc7702b1bb90bb95d7b625363e6d212e09f26da2290d3955661"
+      },
+      "identityMatch": "原编号绑定的卷号、纸本B6分类、角川出版社及系列名与出版社罗马卷号书目对应；书号与印次另保留待查",
+      "scope": "仅补明确的卷目、纸本类型、编辑方和对应出版社规格；原标题无PLUS!，不借用电子版；未独立绑定ISBN，不新增书号",
+      "summary": "《Fate/Grand Order コミックアラカルト》第1卷纸本漫画选集，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。对应出版社书目标注B6变形判、148页。发售日期因来源差异暂不补写。原零售记录的书号和具体印次仍待独立核对。"
+    },
+    {
+      "itemId": "family-8672f2958303cc2a189e2bf8d76393d7",
+      "groupId": "series-2a798dcc42dea8c6",
+      "title": "Fate/Grand Order コミックアラカルト",
+      "status": "supported",
+      "identityBinding": {
+        "isbn": "",
+        "jan": "",
+        "platform": null,
+        "edition": null,
+        "productLine": "Fate/Grand Order コミックアラカルト",
+        "wave": "",
+        "member": "Fate/Grand Order コミックアラカルト",
+        "image": "https://www.suruga-ya.jp/database/photo.php?shinaban=503091298&size=m",
+        "catalogueKey": "books:角川書店kadokawa:manga:fategrandorderコミックアラカルト:",
+        "catalogueGroupType": "book-series",
+        "images": [
+          "https://www.suruga-ya.jp/database/photo.php?shinaban=503091298&size=m"
+        ],
+        "offerUrls": []
+      },
+      "sourceRole": "publisher",
+      "notes": "只补空简介与两条出处；原名、ISBN/JAN、图片、旧证据、认可、个人字段、挂牌历史、关系和偏好保留。",
+      "recordKind": "logical-series",
+      "source": {
+        "url": "https://www.kadokawa.co.jp/product/321511000539/",
+        "at": "2026-11-14T20:18:37.308Z",
+        "sha256": "6bff42a393b4aa8013605e98270535683fac9edab105300b3974ee89f7018754"
+      },
+      "additionalSources": [
+        {
+          "url": "https://www.kadokawa.co.jp/product/321706000661/",
+          "at": "2026-11-20T06:41:49.616Z",
+          "sha256": "a8cbaef0c605056c4965b6f49523f06fa7f7603bf902ebff5a466802ebf9b7b0"
+        }
+      ],
+      "officialTitle": "Fate/Grand Order コミックアラカルト",
+      "childIds": [
+        "ec7308d8-8520-4820-b263-5dfc2520db72",
+        "33e7271a-393e-41ff-9f86-d38b7a045260",
+        "0d50cd1f-24d9-487a-9829-0287a02089fa",
+        "c628fd61-dea5-4d99-b5be-f0b5cdaa417b",
+        "74b85ef7-247b-49a7-af2c-3ae57022c192",
+        "b9c25091-95b0-447d-8697-862498358b52",
+        "a58798b8-ab1b-4baf-bd0f-6159de7e73b4",
+        "efd461a0-6c57-474c-8276-920fb8f3378f"
+      ],
+      "scope": "原逻辑目录组织现有第1至8卷；不宣称系列仅8卷、完结或实体齐套；PLUS!和电子版分开",
+      "summary": "《Fate/Grand Order コミックアラカルト》纸本漫画选集目录，TYPE-MOON原作、コンプエース編集部编，列入角川コミックス・エース。现有目录关联第1至8卷；本条用于组织独立单卷，不表示系列仅有8卷、已经完结或拥有整套。"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "at": "2026-11-20T06:45:23.574Z",
+  "items": [
+    {
+      "itemId": "0d50cd1f-24d9-487a-9829-0287a02089fa",
+      "title": "Fate/Grand Order コミックアラカルト(2)",
+      "fields": [
+        "原管理编号与实物ISBN/条码的独立绑定",
+        "具体印次",
+        "发售日期"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321601000482/",
+        "at": "2026-11-20T06:41:41.957Z",
+        "sha256": "8769a158fc7b3478d458e69141bbafa9e78541f2fd419e2c4c61fba2a3ac5c5d"
+      },
+      "retailerCode": "503091298",
+      "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。 日期存在来源差异，简介不补发售日期。",
+      "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
+      "appliedSafeSummary": false,
+      "dateComparison": {
+        "publisher": "2016-05-26",
+        "originalRetailer": "2016-05-21"
+      }
+    },
+    {
+      "itemId": "33e7271a-393e-41ff-9f86-d38b7a045260",
+      "title": "Fate/Grand Order コミックアラカルト(4)",
+      "fields": [
+        "原管理编号与实物ISBN/条码的独立绑定",
+        "具体印次"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321606000396/",
+        "at": "2026-11-20T06:41:44.690Z",
+        "sha256": "2abeeed9f26c32d0d1c2c63095b49118bb2d77f1aa3fb99066c8f617ab7c5906"
+      },
+      "retailerCode": "503094165",
+      "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。",
+      "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
+      "appliedSafeSummary": false
+    },
+    {
+      "itemId": "74b85ef7-247b-49a7-af2c-3ae57022c192",
+      "title": "Fate/Grand Order コミックアラカルト(5)",
+      "fields": [
+        "原管理编号与实物ISBN/条码的独立绑定",
+        "具体印次"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321609000440/",
+        "at": "2026-11-20T06:41:45.481Z",
+        "sha256": "d86b4f175c1390323c9e76db5c8a2991416160139c3c6208f5bae382a847eeeb"
+      },
+      "retailerCode": "503095015",
+      "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。",
+      "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
+      "appliedSafeSummary": false
+    },
+    {
+      "itemId": "a58798b8-ab1b-4baf-bd0f-6159de7e73b4",
+      "title": "Fate/Grand Order コミックアラカルト(8)",
+      "fields": [
+        "原管理编号与实物ISBN/条码的独立绑定",
+        "具体印次"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321706000661/",
+        "at": "2026-11-20T06:41:49.616Z",
+        "sha256": "a8cbaef0c605056c4965b6f49523f06fa7f7603bf902ebff5a466802ebf9b7b0"
+      },
+      "retailerCode": "503100494",
+      "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。",
+      "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
+      "appliedSafeSummary": false
+    },
+    {
+      "itemId": "b9c25091-95b0-447d-8697-862498358b52",
+      "title": "Fate/Grand Order コミックアラカルト(6)",
+      "fields": [
+        "原管理编号与实物ISBN/条码的独立绑定",
+        "具体印次",
+        "发售日期"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321701000459/",
+        "at": "2026-11-20T06:41:46.651Z",
+        "sha256": "488ba645049170c762d479371ce4abfbc963de8fc6760ba02cbbadf1fd02314a"
+      },
+      "retailerCode": "503096846",
+      "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。 日期存在来源差异，简介不补发售日期。",
+      "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
+      "appliedSafeSummary": false,
+      "dateComparison": {
+        "publisher": "2017-04-24",
+        "originalRetailer": "2017-04-26"
+      }
+    },
+    {
+      "itemId": "c628fd61-dea5-4d99-b5be-f0b5cdaa417b",
+      "title": "Fate/Grand Order コミックアラカルト(7)",
+      "fields": [
+        "原管理编号与实物ISBN/条码的独立绑定",
+        "具体印次"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321701000460/",
+        "at": "2026-11-20T06:41:47.883Z",
+        "sha256": "00828d6ea7687e24024060729b13465cd0577820df15c40747cfe0cf54b17be3"
+      },
+      "retailerCode": "503098004",
+      "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。",
+      "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
+      "appliedSafeSummary": false
+    },
+    {
+      "itemId": "ec7308d8-8520-4820-b263-5dfc2520db72",
+      "title": "Fate/Grand Order コミックアラカルト(3)",
+      "fields": [
+        "原管理编号与实物ISBN/条码的独立绑定",
+        "具体印次",
+        "发售日期"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321604000471/",
+        "at": "2026-11-20T06:41:43.471Z",
+        "sha256": "a772e99058d166befccb2a8d95f94697eee84a8628568ddb284be4511b50e95b"
+      },
+      "retailerCode": "503092528",
+      "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。 日期存在来源差异，简介不补发售日期。",
+      "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
+      "appliedSafeSummary": false,
+      "dateComparison": {
+        "publisher": "2016-08-26",
+        "originalRetailer": "2016-08-24"
+      }
+    },
+    {
+      "itemId": "efd461a0-6c57-474c-8276-920fb8f3378f",
+      "title": "Fate/Grand Order コミックアラカルト(1)",
+      "fields": [
+        "原管理编号与实物ISBN/条码的独立绑定",
+        "具体印次",
+        "发售日期"
+      ],
+      "publisherSource": {
+        "url": "https://www.kadokawa.co.jp/product/321511000539/",
+        "at": "2026-11-14T20:18:37.308Z",
+        "sha256": "6bff42a393b4aa8013605e98270535683fac9edab105300b3974ee89f7018754"
+      },
+      "retailerCode": "503090008",
+      "reason": "原ISBN/JAN为空，原图片不可读；已核原管理编号、卷号、纸本分类及出版社，但尚无同编号条码或实物封面交叉证据。暂不把出版社ISBN填到原记录或新简介。 日期存在来源差异，简介不补发售日期。",
+      "needed": "同管理编号的可读书号信息或实物封面/版权页；保留原ISBN/JAN为空。",
+      "appliedSafeSummary": false,
+      "dateComparison": {
+        "publisher": "2016-03-10",
+        "originalRetailer": "2016-03-10",
+        "rakuten": "2016-03-08頃",
+        "observation": {
+          "id": "alacarte1-rakuten-date",
+          "url": "https://books.rakuten.co.jp/rb/13605613/",
+          "sha256": "a490628424d1cbc7702b1bb90bb95d7b625363e6d212e09f26da2290d3955661"
+        }
+      }
+    }
+  ],
+  "scopeCounts": {
+    "retailerIsbnAndPrinting": 8,
+    "bookDate": 4,
+    "distinctRecords": 8
+  },
+  "note": "18条可补安全说明；8卷原零售书号/印次仍待独立绑定，其中1/2/3/6卷日期有差异。均不计完整核实。"
+}

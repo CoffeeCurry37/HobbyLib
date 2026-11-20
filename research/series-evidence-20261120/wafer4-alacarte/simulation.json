@@ -1,0 +1,20 @@
+{
+  "at": "2026-11-20T06:46:09.280Z",
+  "passed": true,
+  "mode": "isolated-API-copy",
+  "batches": 1,
+  "changes": 18,
+  "activeBefore": 35000,
+  "activeAfter": 35000,
+  "relationsPreserved": 1824,
+  "allOtherFieldsAndOffersPreserved": true,
+  "priorEvidencePreserved": true,
+  "acceptedEditorialPreserved": 359,
+  "staleVersionRejected": true,
+  "personalMutationRejected": true,
+  "existingSummaryPreserved": true,
+  "unrelatedVariantSizeOmitted": true,
+  "fullProductVerified": 0,
+  "productionApplied": 0,
+  "planSha256": "7124f7895f52b4c62eb41ba07e77918e2d7921a52c21764874e2e480aa3fee90"
+}

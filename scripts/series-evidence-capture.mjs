@@ -36,6 +36,8 @@ allowed.add('anime.elmelloi.com');
 allowed.add('www.curtain-damashii.com');
 // Public retailer specification page discovered for the Key-th badge BOX.
 allowed.add('ja.otakumode.com');
+// Original public listing images for the wafer4 named-card review.
+allowed.add('img.mandarake.co.jp');
 const allowedUrl=url=>{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||u.port||!allowed.has(u.hostname))throw Error('Unapproved public source');return u;};
 const planPath=process.argv[2],plan=JSON.parse(fs.readFileSync(planPath,'utf8'));
 if(!Array.isArray(plan)||plan.length>350)throw Error('Capture plan exceeds 350 URLs');

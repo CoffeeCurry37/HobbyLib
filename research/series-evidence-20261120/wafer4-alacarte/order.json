@@ -1,0 +1,26 @@
+[
+  {
+    "groupId": "series-f0cdf1d7a4690774",
+    "label": "FGO威化第4弹具名单卡",
+    "candidates": 9,
+    "sources": [
+      "https://www.bandai.co.jp/candy/products/2018/4549660252245000.html"
+    ],
+    "sourceRole": "manufacturer",
+    "scope": "9个具名零售单卡，核原卡号、人物及卡面；与匿名占位/混合弹次分组分开，不把全25种及包装条码填成单卡身份。",
+    "status": "researching",
+    "key": "wafer4"
+  },
+  {
+    "groupId": "series-2a798dcc42dea8c6",
+    "label": "FGO コミックアラカルト漫画选集",
+    "candidates": 9,
+    "sources": [
+      "https://www.kadokawa.co.jp/product/321511000539/"
+    ],
+    "sourceRole": "publisher",
+    "scope": "8条原零售纸本卷目加1逻辑目录，原ISBN/JAN均空；先逐条绑定零售编号、卷号与出版社纸本书目，勿套用PLUS!系列、电子版或凭标题补书号。",
+    "status": "researching",
+    "key": "alacarte"
+  }
+]
