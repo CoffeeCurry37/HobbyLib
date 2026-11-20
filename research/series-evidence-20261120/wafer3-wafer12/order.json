@@ -8,7 +8,7 @@
     ],
     "sourceRole": "manufacturer",
     "scope": "9条具名Mandarake零售记录；与此前已补的17条官方派生目录/单卡分组不同ID，不重放、不因同人物自动归并；逐条核2435058、卡号、角色及卡面。",
-    "status": "researching",
+    "status": "evidence-supplemented-not-fully-verified",
     "key": "wafer3"
   },
   {
@@ -20,7 +20,7 @@
     ],
     "sourceRole": "manufacturer",
     "scope": "9条具名单卡；与延后的22条匿名第12弹分组不同。逐条核2671918、卡号、人物和原图；原题中ドプルイニャ・ニキチッチ和徴姉妹的字形须按官方清单复核，原名不直接改。",
-    "status": "researching",
+    "status": "evidence-supplemented-not-fully-verified",
     "key": "wafer12"
   }
 ]

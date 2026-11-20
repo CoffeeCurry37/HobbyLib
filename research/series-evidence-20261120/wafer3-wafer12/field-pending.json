@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T17:51:34.805Z",
+  "at": "2026-11-20T17:56:28.040Z",
   "items": [
     {
       "itemId": "source-5ebf3065a29ab3fa5281e66045f9242b",
@@ -17,7 +17,7 @@
         "url": "https://img.mandarake.co.jp/webshopimg/03/83/917/0383088917/s_03830889170.jpg",
         "sha256": "fa7eb2245f511c12dc5ee3916b34a790ee485a8ec77095fa80949772c6cfb93f"
       },
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     },
     {
       "itemId": "source-bc878e993b9a9179a075c87a73ba89b1",
@@ -35,7 +35,7 @@
         "url": "https://img.mandarake.co.jp/webshopimg/03/83/905/0383088905/s_03830889050.jpg",
         "sha256": "39920de1941bb9bc4ed6624538dbb90d33d99efaf228d360f11a1175ac327157"
       },
-      "appliedSafeSummary": false
+      "appliedSafeSummary": true
     }
   ],
   "scopeCounts": {

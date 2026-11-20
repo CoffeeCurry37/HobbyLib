@@ -1,12 +1,12 @@
 {
-  "at": "2026-11-20T06:50:45.819Z",
+  "at": "2026-11-20T17:56:28.040Z",
   "baselineQueueGroups": 1848,
-  "seriesWithItemReview": 84,
-  "seriesAwaitingItemReview": 1764,
+  "seriesWithItemReview": 86,
+  "seriesAwaitingItemReview": 1762,
   "completeSeries": 0,
   "newFullyVerifiedProducts": 0,
-  "coveredSnapshotItems": 7049,
-  "productionApplied": 5248,
+  "coveredSnapshotItems": 7067,
+  "productionApplied": 5266,
   "protectedExisting": 9,
   "pendingEvidence": 1791,
   "freshVersionSkips": 1,
@@ -859,13 +859,33 @@
       "protectedExisting": 0,
       "freshVersionSkips": 0,
       "complete": false
+    },
+    {
+      "groupId": "series-fe69d03bd6d53e3e",
+      "label": "FGO威化第3弹具名零售单卡",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-a6b0ddb8153a5e8e",
+      "label": "FGO威化第12弹具名零售单卡",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
     }
   ],
-  "nextSourceFile": "../series-evidence-20261120/wafer4-alacarte/next-sources.json",
+  "nextSourceFile": "../series-evidence-20261120/wafer3-wafer12/next-sources.json",
   "protectionBreakdown": {
     "acceptedEditorial": 3,
     "existingV6Summary": 6
   },
-  "latestPartialFieldPendingFile": "../series-evidence-20261120/wafer4-alacarte/field-pending.json",
+  "latestPartialFieldPendingFile": "../series-evidence-20261120/wafer3-wafer12/field-pending.json",
   "countingNote": "pendingEvidence统计未安全补简介的记录；已补简介记录仍可有未决字段，均不等于完整核实。"
 }

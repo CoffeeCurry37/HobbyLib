@@ -1,0 +1,23 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const dir='research/series-evidence-20261120/wafer3-wafer12',oldDir='research/series-evidence-20261120/wafer4-alacarte';
+const nextFile='docs/NEXT_TASK.md';let old=fs.readFileSync(nextFile,'utf8').replace(/^> 当前进行中：[^\n]+\n\n/,'');
+const oldStats=old.match(/截至 2026-11-20，累计[^\n]+完整核实系列数为 0。/)[0];
+const stats='截至 2026-11-20，累计已逐件检查 86 个系列的 7,067 条候选，5,266 条有效记录已补齐简介和来源。1,791 条仍待整条补证，3 条认可资料与6条既有V6简介原样保留，1 个历史编号已归档到已更新的有效记录。其余 1,762 个系列尚待逐件研究。完整核实系列数为 0。';
+const oldSummary=old.match(/本轮按顺序检查FGO威化第4弹[^\n]+/)[0],summary='本轮按顺序检查FGO威化第3弹具名零售单卡9条、第12弹9条，共18条；单批正式补充并完整读回，无跳过。仅补空简介并追加两条出处，原认可、旧证据、ISBN/JAN、原名、图片、个人字段、挂牌历史、关系和偏好保留。Sites 70，环境修订133；维护入口已实测 HTTP 401 关闭。';
+const oldFacts=old.match(/9张具名单卡的卡号[^\n]+/)[0],facts='18张原零售正面均与万代官方卡面逐张对应，卡号/稀有度以官方印号清单核对。第3弹9条与此前17条为不同ID；第12弹与22条匿名占位分组分开。第12弹No.19/20属于CR。No.01「徴姉妹」和No.12「ドプルイニャ・ニキチッチ」的日文名称字形仍待核，简介仅记可读官方罗马字及明确图款，原名保留。不把包装条码填单卡JAN，不保证附食品或原包装。';
+const oldNext=old.match(/下一批先补查FGO威化第3弹[^\n]+/)[0].split('见[来源和核对要点]')[0].trim();
+const next='下一批先补查FGO威化第5弹具名零售单卡8条，再查第8弹8条。两组厂家入口已缓存，仅来源发现，尚未逐条补证。逐条核弹次、卡号、人物和原图，不自动归并或填包装条码。同名埃尔梅罗徽章9条分组尚需绑定厂商/图款，列为候补。';
+const docs=['AGENTS.md','README.md','docs/PROGRESS.md','docs/PROJECT_MEMORY.md','research/series-evidence-20261103/README.md'];
+for(const p of docs){let s=fs.readFileSync(p,'utf8').replace(/^> 当前进行中：[^\n]+\n\n/,'');s=s.replaceAll(oldStats,stats).replaceAll(oldSummary,summary).replaceAll(oldFacts,facts).replaceAll(oldNext,next);
+s=s.replace('本轮FGO威化第4弹/漫画选集18条已补充并读回；8卷书号/印次及其中4卷日期待查。下一批威化第3弹具名零售单卡9条，再查第12弹具名零售单卡9条。','本轮威化第3弹/第12弹18条已补充并读回；2条日文字形待查。下一批威化第5弹、第8弹具名零售单卡，各8条。');
+for(const f of ['README.md','resume.json','production.json'])s=s.replaceAll(oldDir+'/'+f,dir+'/'+f).replaceAll('../series-evidence-20261120/wafer4-alacarte/'+f,'../series-evidence-20261120/wafer3-wafer12/'+f);
+const prefix=p.startsWith('docs/')?'../research/':p.startsWith('research/')?'../':'research/';
+const newPending='本轮[2条名称字形待查]('+prefix+'series-evidence-20261120/wafer3-wafer12/field-pending.json)保留。';
+s=s.replace('本轮[8卷字段待查]',newPending+'前轮[8卷字段待查]');
+fs.writeFileSync(p,s);
+}
+const tail=old.slice(old.indexOf('## 执行规则')).replace('本轮威化4/漫画选集单批18条、','本轮威化3/12单批18条、前轮威化4/漫画选集单批18条、');
+const prompt='# 当前任务：系列补证（2026-11-03 启动）\n\n用户授权：从 GitHub 断点按已确定顺序补证，优先官方来源明确、覆盖商品多的系列；有明确证据才写入，无法确认的保留待查，保留已认可资料，及时保存 GitHub 进度。该任务接续已完成 V6，不重放旧迁移。\n\n## 最新断点\n\n'+stats+'\n\n'+summary+'\n\n'+facts+'\n\n18张官方图和18张原卡正面已目视。18个原零售详情未直接取得，未声称看过原卡背或确认当前品相；图片观察JSON与原图字节哈希分别保留。\n\n原生核对网站仍为public、当前用户为owner；保留现有访问范围，部署同一Sites 70仅应用维护开关。环境修订132打开、133关闭，没有修改网站或GitHub权限。\n\n[本轮报告](../'+dir+'/README.md) · [正式断点](../'+dir+'/resume.json) · [生产读回](../'+dir+'/production.json) · [累计实绩](../research/series-evidence-20261103/current-progress.json)。\n\n## 下一步\n\n1. '+next+'见[来源和核对要点](../'+dir+'/next-sources.json)。\n2. 本轮[2条名称字段待查](../'+dir+'/field-pending.json)：第12弹No.01和No.12；取得清晰官方日文/原零售详情或卡背后再核原名称，原名不直接改。\n3. 前轮[8卷字段待查](../'+oldDir+'/field-pending.json)：原零售书号/具体印次仍需独立绑定，其中第1、2、3、6卷日期存在差异，原书号、日期及证据保持。见[前轮断点](../'+oldDir+'/resume.json)；该previousOutstanding链内全部历史缺口继续保留。\n4. 匿名威化、两季音像、混合品类及既有认可分组按next-sources延后清单处理；不得用本地席位序号推定卡号或跨季卷目，不覆盖认可资料。\n\n'+tail;
+fs.writeFileSync(nextFile,prompt);
+const text='# FGO 威化第3弹 / 第12弹具名零售单卡补证\n\n'+stats+'\n\n'+summary+'\n\n|分组|检查|已补充|整条待查|字段待查|\n|---|---:|---:|---:|---:|\n|威化第3弹具名零售单卡|9|9|0|0|\n|威化第12弹具名零售单卡|9|9|0|2|\n\n'+facts+'\n\n两张名称待查卡的图款、卡号与稀有度已对应；No.01正面Hai Bà Trưng、No.12正面Dobrynya Nikitich可读。保留原日文名称，待清晰日文标记/原卡背独立复核。官方最高稀有工艺不外推全卡，隐藏角色不推断。\n\n18张官方图、18张原零售正面已目视核对；18原零售详情未直接取得，不绕过访问限制，未声称读取原实物卡背或确定当前品相。出处包含URL、时间、源字节哈希及单独观察哈希。只补简介和两条证据，不改身份、条码或已有认可。\n\n隔离副本18条验证通过，过期版本及个人字段修改会被拒绝；正式库一批18条全部读回，无跳过。正式数量仍为34,999有效、8,575归档、1,823关联；隔离快照35,000/1,824不回灌正式库。现有访问范围public保持，Sites 70环境132打开、133关闭，并实测401/UNAUTHENTICATED。\n\n'+next+'\n\n前轮漫画8卷书号/印次、4卷日期以及全部历史未决项继续保留。完整核实商品/系列新增均为0，补充完成不等于所有字段已核实。\n\n[正式断点](resume.json) · [生产读回](production.json) · [批次回执](verified-batches.json) · [隔离验证](simulation.json) · [第3弹逐条证据](cases-wafer3.json) · [第12弹逐条证据](cases-wafer12.json) · [官方事实](official-facts.json) · [图片观察](web-observations.json) · [两条字段待查](field-pending.json) · [下一批来源](next-sources.json) · [前轮未决链](../wafer4-alacarte/resume.json)\n\n公开来源：[BANDAI 第3弹](https://www.bandai.co.jp/candy/products/2018/4549660251392000.html)、[BANDAI 第12弹](https://www.bandai.co.jp/candy/products/2023/4549660958338000.html)。准备阶段提交00382cc8bc90b574c66a0013a583fa9f75c2206e。所有成功批次禁止重放。\n';
+fs.writeFileSync(dir+'/README.md',text);console.log(JSON.stringify({documents:docs.length+2,updated:true}));

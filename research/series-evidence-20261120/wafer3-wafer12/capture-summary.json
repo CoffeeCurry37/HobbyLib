@@ -1,12 +1,13 @@
 {
-  "captureReceipts": 56,
-  "uniqueUrls": 56,
+  "captureReceipts": 62,
+  "uniqueUrls": 59,
   "statuses": {
-    "captured": 38,
-    "unavailable": 18
+    "captured": 41,
+    "unavailable": 21
   },
-  "requests": 54,
+  "recordedRequests": 60,
   "cacheHits": 2,
   "paidModelApiCalls": 0,
-  "scope": "本地公开抓取回执；网页工具的可读零售观察另计，观察JSON哈希不是原HTML哈希。费用不可用。"
+  "scope": "有限公开采集；仅环境EACCES后使用批准网络读取，站点访问门槛不绕过；网页观察JSON与源字节哈希分别标注。费用无账单。",
+  "evidenceScope": "本批2万代页、18官方图、18原单卡正面；18原详情未取得，不绕过限制。下一批2厂家入口及1动画官方公告仅来源发现。"
 }

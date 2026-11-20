@@ -1,21 +1,65 @@
 {
-  "at": "2026-11-20T17:52:37.122Z",
-  "stage": "prepared-no-production-write",
-  "baseCommit": "21750ff083005018dbf175827fb34974b56b8ee7",
+  "at": "2026-11-20T17:56:28.040Z",
+  "completedLocalDate": "2026-11-20",
+  "timezone": "America/Chicago",
+  "stage": "applied-read-back-and-closed",
+  "groups": [
+    {
+      "groupId": "series-fe69d03bd6d53e3e",
+      "label": "FGO威化第3弹具名零售单卡",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    },
+    {
+      "groupId": "series-a6b0ddb8153a5e8e",
+      "label": "FGO威化第12弹具名零售单卡",
+      "snapshotItems": 9,
+      "productionApplied": 9,
+      "pendingEvidence": 0,
+      "protectedExisting": 0,
+      "freshVersionSkips": 0,
+      "complete": false
+    }
+  ],
   "candidates": 18,
-  "prepared": 18,
-  "productionApplied": 0,
-  "wholePending": 0,
+  "productionApplied": 18,
+  "batches": 1,
+  "pendingEvidence": 0,
+  "pendingFile": "pending.json",
+  "protectedExisting": 0,
+  "freshVersionSkips": 0,
   "fieldPendingRecords": 2,
   "fieldPendingFile": "field-pending.json",
-  "previousOutstanding": "../wafer4-alacarte/resume.json",
-  "simulation": "simulation.json",
-  "doNotReplay": "此前威化4/漫画选集18条及全部历史成功动作禁止重放。",
-  "nextAction": "核对实时完整目标与版本，只写已验证的18条安全补充；逐条读回，关闭维护入口实测，再更新累计。",
+  "fieldScope": {
+    "japaneseNameGlyphs": 2,
+    "distinctRecords": 2
+  },
   "limitations": [
-    "第3弹9张是独立零售ID，不重放此前17条官方派生记录",
-    "第12弹与22条匿名占位分组分开",
-    "18张原图和18张官方图均已目视，2条日文字形保留待查",
-    "原卡背及18个受限原零售详情未取得，不声称完整核实；包装条码不填单卡JAN"
-  ]
+    "第3弹9张与此前已补17条使用不同零售ID，编号/人物/原卡面经官方文字清单和印号图核对；不重放、不合并",
+    "第12弹9张与22条匿名占位分组独立；官方印号图、稀有度及原正面图逐张核对，No.19/20为CR",
+    "第12弹No.01和No.12的原日文字形继续待查；仅补清楚可读的官方罗马字、卡号、图款等，原名保持",
+    "18官方图和18原商品正面均已目视；18原零售详情未直接取得，未声称读取原卡背或确认当前品相",
+    "包装条码不填单卡JAN，不承诺附食品/原包装，不把最高稀有工艺外推全卡；黑框秘密角色不推断",
+    "只补空简介与两条出处，已认可资料、旧证据及所有原字段保持；完整核实商品/系列仍为0"
+  ],
+  "maintenanceClosed": true,
+  "environmentRevision": 133,
+  "deploymentId": "appgdep_6b008947b97c819192790f144648c608",
+  "siteVersion": 70,
+  "hostingAccess": {
+    "observedAtStart": "public",
+    "currentUserRole": "owner",
+    "action": "preserved-existing-audience",
+    "accessPolicyMutation": false,
+    "deployOperation": "deploy_site_version"
+  },
+  "preparedCommit": "00382cc8bc90b574c66a0013a583fa9f75c2206e",
+  "previousOutstanding": "../wafer4-alacarte/resume.json",
+  "nextSources": "next-sources.json",
+  "doNotReplay": "本轮威化3/12单批18条、前轮威化4/漫画选集单批18条及全部历史成功动作禁止重放。",
+  "note": "本轮2条名称字段待查、前轮8卷字段待查（其中4卷日期差异）与previousOutstanding链内全部历史未决项继续保留。"
 }
